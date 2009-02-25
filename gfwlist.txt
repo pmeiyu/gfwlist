@@ -1,5 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: deOd6FZ0IO9AqjK+LFfCmA
+! Checksum: DJYLOIShBn1bVcLxZwUO2w
+|http://osdir.com/
+|http://thepiratebay.org/
 wenxuecity.com/
 livejournal.com/
 freemoren.com/
