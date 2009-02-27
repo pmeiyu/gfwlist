@@ -1,5 +1,11 @@
 [AutoProxy 0.1.0]
-! Checksum: DJYLOIShBn1bVcLxZwUO2w
+! Checksum: +yFadp5+0Z5IXU8rIel0jw
+baidu.jp/
+wikidot.com
+|http://www.wetpaintinjected.com/
+|http://www.wetpaint.com/
+|http://widget.wetpaintserv.us/
+|http://static.wetpaint.com/
 |http://osdir.com/
 |http://thepiratebay.org/
 wenxuecity.com/
