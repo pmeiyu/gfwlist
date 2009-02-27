@@ -1,11 +1,11 @@
 [AutoProxy 0.1.0]
-! Checksum: nTeKOj3/DkbtkHJniBT5yA
+! Checksum: /iSK1GgxujBaCS1LCp5hsA
 
 
 !-------------------------Num--------------------------
 |http://www.1bao.org/
 64tianwang.com
-8ok.com
+8ok.com/
 
 
 !--------------------------A--------------------------
