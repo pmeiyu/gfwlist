@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: /iSK1GgxujBaCS1LCp5hsA
+! Checksum: 5cShexpGoLNahAHRCvul9w
 
 
 !-------------------------Num--------------------------
@@ -15,7 +15,7 @@
 !--------------------------B--------------------------
 baidu.jp/
 |http://www.barnabu.co.uk/
-|http://news.bbc.co.uk/chinese/simp/hi/
+|http://news.bbc.co.uk/chinese/
 .blog.com/
 yetaai.blogspot.com
 
@@ -94,6 +94,7 @@ www.mingpao.com
 mingpaonews.com
 |http://www.mingpaony.com/
 |http://www.mpinews.com/
+|http://www.mycould.com/
 
 
 !--------------------------N--------------------------
