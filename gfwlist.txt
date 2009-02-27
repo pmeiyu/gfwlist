@@ -1,7 +1,11 @@
 [AutoProxy 0.1.0]
-! Checksum: +yFadp5+0Z5IXU8rIel0jw
+! Checksum: 26i3hdI8wnsUqYMTxnIiFg
 baidu.jp/
 wikidot.com
+@@static.wikidot.com
+|http://endsoftpatents.org/
+!--俄罗斯
+zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
 |http://www.wetpaintinjected.com/
 |http://www.wetpaint.com/
 |http://widget.wetpaintserv.us/
