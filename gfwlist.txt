@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: 5cShexpGoLNahAHRCvul9w
+! Checksum: W8lzT0gNg+dzhyUt23XS4Q
 
 
 !-------------------------Num--------------------------
@@ -120,6 +120,7 @@ qxbbs.org/
 
 
 !--------------------------S--------------------------
+|http://s.scribd.com/
 |http://rss.slashdot.org/
 .soup.io/
 
@@ -174,7 +175,7 @@ twitter.com/zuola
 
 
 
-
+!------UnSorted-------
 
 
 
@@ -282,7 +283,7 @@ news.yam.com/
 .atnext.com/
 .tumblr.com/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
-|http://www.torproject.org/
+torproject.org
 |http://wangyi64.spaces.live.com/
 |http://www.dpp.org.tw/
 |http://www.xys.org/
