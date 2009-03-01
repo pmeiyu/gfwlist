@@ -1,32 +1,48 @@
 [AutoProxy 0.1.0]
-! Checksum: W8lzT0gNg+dzhyUt23XS4Q
-
-
+! Checksum: mK3BBDRT7Uj8LKN1pTqWuA
+! Last Modified:  Mon, 02 Mar 2009 03:49:02 +0800
+!     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://www.1bao.org/
+|http://3cc.cc/
+|http://www.3cc.cc/
+|http://www.4shared.com/
+.6park.com
 64tianwang.com
 8ok.com/
 
 
 !--------------------------A--------------------------
-|http://www.aboutus.org/
+|http://www.aboutus.org
+|http://www.andylau.com
+|http://anonymouse.org
+|http://www.arizonachinese.com
+www.asiademo.org
 
 
 !--------------------------B--------------------------
 baidu.jp/
 |http://www.barnabu.co.uk/
 |http://news.bbc.co.uk/chinese/
+|http://www.blip.tv/
 .blog.com/
+|http://chinagfw.blogspot.com/
 yetaai.blogspot.com
+bullogger.com
 
 
 !--------------------------C--------------------------
+|http://caodan.net/
 |http://www.carnegieendowment.org/
 www.ccdtr.org
 www.cdp1998.org
 cdpwu.org
+www.cecc.gov
+chinacomments.org
 chinagfw.org
+.chinatimes.com/
 chinaway.org
+chinesenewsnet.com
 |http://dev.chromium.org/
 |http://blog.chromium.org/
 |http://codepad.org/
@@ -48,6 +64,7 @@ etree.org/
 |http://farm1.static.flickr.com/
 |http://farm2.static.flickr.com/
 freeforums.org/
+www.download.com/Freegate/3000-2085_4-10415391.html
 freenetproject.org/
 .futurechinaforum.org
 
@@ -56,10 +73,10 @@ freenetproject.org/
 |http://zh.globalvoicesonline.org/
 feedproxy.google.com
 |http://pages.google.com/
-search?q=cache
 |http://www.google.com/url*ct=clnk
 |http://googleblog.blogspot.com/
 .googlepages.com/
+|http://www.greasespot.net/
 great-firewall.com
 
 
@@ -78,6 +95,8 @@ hp.infoseek.co.jp/
 
 
 !--------------------------J--------------------------
+|http://jaiku.com
+|http://www.jaiku.com
 .jiruan.net
 
 !--------------------------K--------------------------
@@ -87,17 +106,26 @@ hp.infoseek.co.jp/
 
 !--------------------------L--------------------------
 |http://cle.linux.org.tw/
+|http://www.livejournal.com
 
 
 !--------------------------M--------------------------
+|http://cq.mail163.to/
+|http://www.mathtunnel.com/
+|http://memedia.cn/
 www.mingpao.com
 mingpaonews.com
 |http://www.mingpaony.com/
 |http://www.mpinews.com/
+|http://mxexpress.twbbs.org/
 |http://www.mycould.com/
 
 
 !--------------------------N--------------------------
+netcolony.com
+|http://www.newsvine.com/
+|http://blog.nihilogic.dk/
+|http://taiwanyes.ning.com/group/taiwanpower
 
 
 !--------------------------O--------------------------
@@ -123,9 +151,16 @@ qxbbs.org/
 |http://s.scribd.com/
 |http://rss.slashdot.org/
 .soup.io/
+usinfo.state.gov
+
 
 !--------------------------T--------------------------
+|http://www.technorati.com/
 |http://thepiratebay.org/
+torproject.org
+|http://csai.tsinghua.edu.cn/
+|http://tttan.com/
+|http://blog.twitter.com/
 
 
 !--------------------------U--------------------------
@@ -133,24 +168,33 @@ qxbbs.org/
 |http://city.udn.com/
 |http://paper.udn.com/
 uncyclopedia.
+|http://unifoundry.com/
 |http://www.unknownspace.org/
+|http://www.cafc.uscourts.gov/
+http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
+.uwants.com
 
 
 !--------------------------V--------------------------
 www.v2ex.com
 |http://www.visuwords.com/
+|http://www.voanews.com/chinese/
 
 
 !--------------------------W--------------------------
+.webshots.com/
+wenxuecity.com/
 |http://static.wetpaint.com/
 |http://www.wetpaint.com/
 |http://www.wetpaintinjected.com/
 |http://widget.wetpaintserv.us/
+|http://evchk.wikia.com/
 wikidot.com
 @@static.wikidot.com
 .wikileaks.org/
 !-WikiLeaks IP
 */88.80.13.160/*
+secure.wikimedia.org
 !--Russia
 zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
 
@@ -161,6 +205,9 @@ zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
 
 !--------------------------Y--------------------------
 |http://www.youpai.org/
+|http://www.your-freedom.net/
+|https://www.your-freedom.net/
+ytht.net/
 
 
 !--------------------------Z--------------------------
@@ -172,54 +219,39 @@ zuola.com
 twitter.com/zuola
 
 
-
-
-
-!------UnSorted-------
-
-
-
+!--------------------------Other----------------------
+!--dong tai wang
+%E5%8A%A8%E6%80%81%E7%BD%91
+search?q=cache
+search?q=safeweb
 
 
 
 
-wenxuecity.com/
-livejournal.com/
+!------UnSorted---------------------------------------
+
+
+
 freemoren.com/
 twisternow.com
 |http://dlstatusbar.proboards43.com/
-.chinatimes.com/
 |http://www.wretch.cc/
-.webshots.com/
-|http://tttan.com/
-ytht.net/
 |http://maomy.motime.com/
-|http://www.voanews.com/chinese/
 |http://www.edubridge.com/
 |http://status.twitter.com/
 |http://ch.shvoong.com/
-|http://www.arizonachinese.com/
 peacehall.com.
 |http://wenyunchao.spaces.live.com/
 boxun.com/
-|http://memedia.cn/
-jaiku.com
-www.cecc.gov
 chinadigitaltimes.net/
 |http://www.fsurf.com/
 |http://www.lancsky.com/
-|http://www.4shared.com/
 |http://www.leninlee.cn/
 |http://www.box.net/shared/p1t0nfxzrd
-|http://www.bullogger.com/
 |http://dev.twitter.com/
 |http://apiwiki.twitter.com/
-csai.tsinghua.edu.cn
-technorati.com
 portis21.spaces.live.com/
 myweb.hinet.net
-|http://www.forum.nokia.com/
-|http://taiwanyes.ning.com/group/taiwanpower
 |http://www.rfi.fr/actucn/pages/001/homechinois.asp
 |http://www.yzzk.com/
 twitter.com/amoiist
@@ -230,31 +262,21 @@ twitter.com/amoiist
 bendiken.net
 |http://vids.myspace.com/
 .badongo.com/
-|http://www.greasespot.net/
 .ecstart.com/
 |http://bsiegel.ath.cx/
 technologizer.com
-|http://chinagfw.blogspot.com/
-|http://anonymouse.org/
 |http://www.tycool.com/
 beijingspring.com
 www.wangruowang.org
 www.msguancha.com
 |http://www.freshmeat.net/projects/freenet/
 |http://www.xinhuanet.org/
-3cc.cc/
-|http://www.technorati.com/
-|http://www.neopets.com/
 |http://www.meetup.com/
-.uwants.com
 |http://www.multiply.com/
 |http://www.ptt.cc/
-|http://www.newsvine.com/
 |http://truveo.com/
-|http://evchk.wikia.com/
 |http://www.gutenberg.org/
 .blogsome.com/
-|http://www.blip.tv/
 |http://funp.com/
 |http://www.url.com.tw/
 |http://www.books.com.tw/
@@ -274,16 +296,12 @@ news.yam.com/
 |http://orientaldaily.on.cc/
 |http://news.ftv.com.tw/
 |http://www.voanews.com/
-|http://www.andylau.com/
 |http://news.aol.com/
 |http://www.mitbbs.com/
 |http://www.amoiist.com/
 |http://rconversation.blogs.com/
-|http://unifoundry.com/
 .atnext.com/
 .tumblr.com/
-http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
-torproject.org
 |http://wangyi64.spaces.live.com/
 |http://www.dpp.org.tw/
 |http://www.xys.org/
@@ -305,31 +323,20 @@ bolin.netfirms.com
 |http://www.wujie.net/
 epochtimes.com/
 dajiyuan.com/
-secure.wikimedia.org
 .xanga.com
-.6park.com
 |http://www.internetfreedom.org/
 comefromchina.com
 gopetition.com
 creaders.net.
-chinesenewsnet.comp
 dwnews.com
-netcolony.com
 gpass1.com
 edoors.com
-usinfo.state.gov
 minzhuzhongguo.org
 observechina.net
 fireofliberty.org
-www.asiademo.org
 www.tiananmenmother.org
-|http://cq.mail163.to/
 |http://mckk.bplaced.net
 |http://www.techreviewchina.com
 |http://www.demonoid.com/
-|http://blog.nihilogic.dk/
 |http://www.worldbbs.info/
-|http://caodan.net/
 |http://www.bloodshed.net/
-|http://blog.twitter.com/
-|http://www.cafc.uscourts.gov/
