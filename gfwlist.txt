@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: mK3BBDRT7Uj8LKN1pTqWuA
+! Checksum: ylJ4tST76ZZ9Dh6UTvaMAQ
 ! Last Modified:  Mon, 02 Mar 2009 03:49:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
