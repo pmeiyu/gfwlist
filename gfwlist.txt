@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: sloJUYu+NjhYjysfQlOV4g
+! Checksum: H6prqr7i2teLAzCvd+hboA
 ! Last Modified:  Mon, 02 Mar 2009 03:49:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -55,6 +55,7 @@ crd-net.org
 |http://ak.*.dailymotion.com/
 lists.debian.org
 discuss.com.hk
+www.download.com/Freegate/3000-2085_4-10415391.html
 
 
 !--------------------------E--------------------------
@@ -63,10 +64,10 @@ etree.org/
 
 
 !--------------------------F--------------------------
+|http://feeds.feedburner.com/
 |http://farm1.static.flickr.com/
 |http://farm2.static.flickr.com/
 freeforums.org/
-www.download.com/Freegate/3000-2085_4-10415391.html
 freenetproject.org/
 .futurechinaforum.org
 
@@ -167,7 +168,15 @@ usinfo.state.gov
 torproject.org
 |http://csai.tsinghua.edu.cn/
 |http://tttan.com/
+twitter.com/amoiist
+twitter.com/kcome
+twitter.com/shizhao
+twitter.com/zengjinyan
+twitter.com/zuola
+|http://apiwiki.twitter.com/
 |http://blog.twitter.com/
+|http://dev.twitter.com/
+|http://status.twitter.com/
 
 
 !--------------------------U--------------------------
@@ -266,9 +275,7 @@ ytht.net/
 |http://luntan.zaobao.com/
 .zengjinyan.org
 zengjinyan.spaces.live.com
-twitter.com/zengjinyan
 zuola.com
-twitter.com/zuola
 
 
 !--------------------------Other----------------------
@@ -290,7 +297,6 @@ twisternow.com
 |http://www.wretch.cc/
 |http://maomy.motime.com/
 |http://www.edubridge.com/
-|http://status.twitter.com/
 |http://ch.shvoong.com/
 peacehall.com.
 |http://wenyunchao.spaces.live.com/
@@ -300,13 +306,10 @@ chinadigitaltimes.net/
 |http://www.lancsky.com/
 |http://www.leninlee.cn/
 |http://www.box.net/shared/p1t0nfxzrd
-|http://dev.twitter.com/
-|http://apiwiki.twitter.com/
 portis21.spaces.live.com/
 myweb.hinet.net
 |http://www.rfi.fr/actucn/pages/001/homechinois.asp
 |http://www.yzzk.com/
-twitter.com/amoiist
 |http://www.weekmag.info/
 |http://tw.youtube.com/
 |http://hk.youtube.com/
