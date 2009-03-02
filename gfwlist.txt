@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: weXukGA9+NIYhRjCamXTxw
+! Checksum: 3ajuXVvkKxwy6O0pc9d1FA
 ! Last Modified:  Mon, 02 Mar 2009 03:49:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -203,6 +203,8 @@ zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83%E6%99%82%E5%A0%B1
 zh.wikipedia.org*%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
 !--Da Se Guo JI
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
+!--E Luo Si
+zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
 !--Fa Lun Gong
 zh.wikipedia.org*%E6%B3%95%E8%BC%AA%E5%8A%9F
 !--Fa Lun Gong: zh-hans
@@ -217,12 +219,12 @@ zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
 zh.wikipedia.org*%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
 !--Mei Guo Zhi Yin
 zh.wikipedia.org*%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3
-!--E Luo Si
-zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
 !--Wu Guo Jie Ji Zhe
 zh.wikipedia.org*%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85
 !--Wu Jie Wang Luo
 zh.wikipedia.org*%E6%97%A0%E7%95%8C%E7%BD%91%E7%BB%9C
+!--Xi Zang Liu Wang Zheng Fu
+zh.wikipedia.org*%E8%A5%BF%E8%97%8F%E6%B5%81%E4%BA%A1%E6%94%BF%E5%BA%9C
 !--Zhong Guo Da Lu Feng Suo Wei JI Mei Ti Shi Jian
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%B0%81%E9%94%81%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E4%BA%8B%E4%BB%B6
 !--Zhong Guo Da Lu Wang Luo Feng Suo
