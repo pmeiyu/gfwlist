@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: ndtuyvFOfUaGbKGD9MX2ig
+! Checksum: sloJUYu+NjhYjysfQlOV4g
 ! Last Modified:  Mon, 02 Mar 2009 03:49:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -372,7 +372,7 @@ bolin.netfirms.com
 |http://www.freenet-china.org/
 |http://www.rfa.org/
 .minghui.org
-|http://www.wujie.net/
+.wujie.net
 epochtimes.com/
 dajiyuan.com/
 .xanga.com
