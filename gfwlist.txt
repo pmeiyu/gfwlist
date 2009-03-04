@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: H6prqr7i2teLAzCvd+hboA
+! Checksum: UllehMl+3HJIxnKtd2om7A
 ! Last Modified:  Mon, 02 Mar 2009 03:49:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -69,6 +69,8 @@ etree.org/
 |http://farm2.static.flickr.com/
 freeforums.org/
 freenetproject.org/
+friendfeed.com%2Fe%2F
+friendfeed.com/e/
 .futurechinaforum.org
 
 
@@ -116,6 +118,7 @@ hp.infoseek.co.jp/
 
 
 !--------------------------M--------------------------
+mail-archive.com
 |http://cq.mail163.to/
 |http://www.mathtunnel.com/
 |http://memedia.cn/
@@ -136,6 +139,8 @@ netcolony.com
 
 !--------------------------O--------------------------
 omnitalk.
+/on.cc/*
+.on.cc/
 my.opera.com
 |http://osdir.com/
 
@@ -163,6 +168,7 @@ usinfo.state.gov
 
 
 !--------------------------T--------------------------
+|http://tansioksiok.com/
 |http://www.technorati.com/
 |http://thepiratebay.org/
 torproject.org
@@ -257,6 +263,13 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 !--Zi You Ya Zhou Dian Tai: zh-hans
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
+
+.wordpress.com
+@@http://s.stats.wordpress.com/
+@@http://s1.wordpress.com/
+@@http://s2.wordpress.com/
+@@http://stats.wordpress.com/
+@@http://www.wordpress.com
 
 
 !--------------------------X--------------------------
