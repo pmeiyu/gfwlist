@@ -1,7 +1,8 @@
 [AutoProxy 0.1.0]
-! Checksum: gkcLpyPjGXLMdl2gJnHeYQ
-! Last Modified:  Mon, 02 Mar 2009 03:49:02 +0800
+! Checksum: 2Dxl1wtgcyA1BNCdaxYZog
+! Last Modified:  Fri, 06 Mar 2009 06:34:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
+!
 !-------------------------Num--------------------------
 |http://www.1bao.org/
 |http://3cc.cc/
@@ -293,6 +294,8 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 |http://www.youpai.org/
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
+youtube.com
+@@youtube.com/get_video
 ytht.net/
 
 
