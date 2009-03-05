@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: HAyPdZxJ66AYLva6FxFqBw
+! Checksum: KXRVnK/lArFx5OBFhRc/MQ
 ! Last Modified:  Fri, 06 Mar 2009 06:34:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -29,6 +29,7 @@ baidu.jp/
 |http://www.barnabu.co.uk/
 |http://news.bbc.co.uk/chinese/
 beijingspring.com
+bestforchina.org
 bignews.org
 |http://www.blip.tv/
 .blog.com/
@@ -118,6 +119,7 @@ myweb.hinet.net
 hp.infoseek.co.jp/
 |http://www.im.tv/
 |http://www.inmediahk.net/
+|http://www.internetfreedom.org/
 
 !--------------------------J--------------------------
 |http://jaiku.com
@@ -165,6 +167,7 @@ my.opera.com
 
 !--------------------------P--------------------------
 pbwiki.com
+|http://news.pchome.com.tw/
 .peacefire.org
 peacehall.com.
 philly.com
@@ -184,13 +187,15 @@ qxbbs.org/
 |http://news.sina.com.tw/
 |http://rss.slashdot.org/
 .soup.io/
-portis21.spaces.live.com/
+|http://portis21.spaces.live.com/
+|http://wangyi64.spaces.live.com/
 |http://wenyunchao.spaces.live.com/
 usinfo.state.gov
 
 !--------------------------T--------------------------
 |http://tansioksiok.com/
 |http://www.technorati.com/
+tiananmenmother.org
 |http://thepiratebay.org/
 torproject.org
 |http://csai.tsinghua.edu.cn/
@@ -294,9 +299,12 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 
 !--------------------------X--------------------------
 |http://www.xanga.com/
+|http://www.xinhuanet.org/
 |http://blog.xuite.net/
 
 !--------------------------Y--------------------------
+|http://blog.yam.com/
+news.yam.com
 |http://www.youpai.org/
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
@@ -343,7 +351,6 @@ bendiken.net
 technologizer.com
 |http://www.tycool.com/
 www.msguancha.com
-|http://www.xinhuanet.org/
 |http://www.meetup.com/
 |http://www.multiply.com/
 |http://truveo.com/
@@ -353,11 +360,8 @@ www.msguancha.com
 |http://www.salvation.org.hk/
 |http://www.tacem.org/
 .pixnet.net/
-|http://blog.yam.com/
-news.yam.com/
 |http://mysinablog.com/
 |http://www.kwongwah.com.my/
-|http://news.pchome.com.tw/
 |http://www.dailymotion.com/
 |http://orientaldaily.on.cc/
 |http://news.ftv.com.tw/
@@ -365,11 +369,9 @@ news.yam.com/
 |http://rconversation.blogs.com/
 .atnext.com/
 .tumblr.com/
-|http://wangyi64.spaces.live.com/
 |http://www.dpp.org.tw/
 |http://www.xys.org/
 gardennetworks.com
-bestforchina.org
 secretchina.com
 dongtaiwang.com
 soundofhope.org
@@ -377,15 +379,12 @@ bolin.netfirms.com
 |http://www.rfa.org/
 epochtimes.com/
 dajiyuan.com/
-.xanga.com
-|http://www.internetfreedom.org/
 comefromchina.com
 gopetition.com
 creaders.net.
 dwnews.com
 observechina.net
 fireofliberty.org
-www.tiananmenmother.org
 |http://mckk.bplaced.net
 |http://www.techreviewchina.com
 |http://www.demonoid.com/
