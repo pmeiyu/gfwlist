@@ -1,8 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: 2Dxl1wtgcyA1BNCdaxYZog
+! Checksum: HAyPdZxJ66AYLva6FxFqBw
 ! Last Modified:  Fri, 06 Mar 2009 06:34:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
-!
 !-------------------------Num--------------------------
 |http://www.1bao.org/
 |http://3cc.cc/
@@ -12,30 +11,36 @@
 64tianwang.com
 8ok.com/
 
-
 !--------------------------A--------------------------
+www.aboluowang.com
 |http://www.aboutus.org
 .amnesty.org
+|http://www.amoiist.com/
 |http://www.andylau.com
 anonymizer.com
 |http://anonymouse.org
+|http://news.aol.com/
 |http://proxypy.appspot.com/
 |http://www.arizonachinese.com
 www.asiademo.org
-
 
 !--------------------------B--------------------------
 baidu.jp/
 |http://www.barnabu.co.uk/
 |http://news.bbc.co.uk/chinese/
+beijingspring.com
+bignews.org
 |http://www.blip.tv/
 .blog.com/
+|http://www.blogger.com/feeds/
 |http://bloglines.com/
 |http://www.bloglines.com/
+.blogsome.com/
 |http://chinagfw.blogspot.com/
 yetaai.blogspot.com
+|http://www.books.com.tw/
+boxun.com
 bullogger.com
-
 
 !--------------------------C--------------------------
 |http://caodan.net/
@@ -47,6 +52,7 @@ www.cecc.gov
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
 chinacomments.org
+chinadigitaltimes.net/
 chinagfw.org
 .chinatimes.com/
 chinaway.org
@@ -59,7 +65,6 @@ psiphon.civisec.org
 |http://www.coolloud.org.tw/
 crd-net.org
 
-
 !--------------------------D--------------------------
 |http://ak.*.dailymotion.com/
 lists.debian.org
@@ -67,22 +72,24 @@ discuss.com.hk
 www.download.com/Freegate/3000-2085_4-10415391.html
 |http://www.dynawebinc.com/
 
-
 !--------------------------E--------------------------
+edoors.com
 |http://endsoftpatents.org/
 etree.org/
-
 
 !--------------------------F--------------------------
 |http://feeds.feedburner.com/
 |http://farm1.static.flickr.com/
 |http://farm2.static.flickr.com/
 freeforums.org/
+freemoren.com/
+|http://www.freenet-china.org/
 freenetproject.org/
+|http://www.freshmeat.net/projects/freenet/
 friendfeed.com%2Fe%2F
 friendfeed.com/e/
+|http://www.fsurf.com/
 .futurechinaforum.org
-
 
 !--------------------------G--------------------------
 |http://www.globalinternetfreedom.org/
@@ -92,17 +99,18 @@ feedproxy.google.com
 |http://www.google.com/url*ct=clnk
 |http://googleblog.blogspot.com/
 .googlepages.com/
+gpass1.com
 |http://www.gproxy.com
 |http://www.greasespot.net/
 great-firewall.com
-
+|http://www.gutenberg.org/
 
 !--------------------------H--------------------------
 |http://hackaday.com/
 |http://www.heartyit.com/
 |http://www.hemidemi.com/
+myweb.hinet.net
 |http://times.hinet.net/
-
 
 !--------------------------I--------------------------
 |http://i1.hk/
@@ -111,41 +119,42 @@ hp.infoseek.co.jp/
 |http://www.im.tv/
 |http://www.inmediahk.net/
 
-
 !--------------------------J--------------------------
 |http://jaiku.com
 |http://www.jaiku.com
 .jiruan.net
 
 !--------------------------K--------------------------
+kanzhongguo.com
 |http://www.kmt.org.tw/
 |http://www.kzeng.info/
 
-
 !--------------------------L--------------------------
+libertytimes.com.tw
 |http://cle.linux.org.tw/
 |http://www.livejournal.com
-
 
 !--------------------------M--------------------------
 mail-archive.com
 |http://cq.mail163.to/
 |http://www.mathtunnel.com/
 |http://memedia.cn/
+.minghui.org
 www.mingpao.com
 mingpaonews.com
 |http://www.mingpaony.com/
+minzhuzhongguo.org
 |http://www.mpinews.com/
 |http://mxexpress.twbbs.org/
 |http://www.mycould.com/
-
+|http://vids.myspace.com/
 
 !--------------------------N--------------------------
 netcolony.com
 |http://www.newsvine.com/
 |http://blog.nihilogic.dk/
 |http://taiwanyes.ning.com/group/taiwanpower
-
+ntdtv.com
 
 !--------------------------O--------------------------
 omnitalk.
@@ -154,30 +163,30 @@ omnitalk.
 my.opera.com
 |http://osdir.com/
 
-
 !--------------------------P--------------------------
 pbwiki.com
 .peacefire.org
+peacehall.com.
 philly.com
 psiphon.ca
-
+|http://www.ptt.cc/
 
 !--------------------------Q--------------------------
 |http://pixel.quantserve.com/
 qxbbs.org/
 
-
 !--------------------------R--------------------------
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
 
-
 !--------------------------S--------------------------
 |http://s.scribd.com/
+|http://news.sina.com.tw/
 |http://rss.slashdot.org/
 .soup.io/
+portis21.spaces.live.com/
+|http://wenyunchao.spaces.live.com/
 usinfo.state.gov
-
 
 !--------------------------T--------------------------
 |http://tansioksiok.com/
@@ -197,7 +206,6 @@ twitter.com/zuola
 |http://dev.twitter.com/
 |http://status.twitter.com/
 
-
 !--------------------------U--------------------------
 |http://blog.udn.com/
 |http://city.udn.com/
@@ -209,14 +217,13 @@ uncyclopedia.
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 .uwants.com
 
-
 !--------------------------V--------------------------
 www.v2ex.com
 |http://www.visuwords.com/
-|http://www.voanews.com/chinese/
-
+|http://www.voanews.com/
 
 !--------------------------W--------------------------
+www.wangruowang.org
 .webshots.com/
 wenxuecity.com/
 |http://static.wetpaint.com/
@@ -283,12 +290,11 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 @@http://s2.wordpress.com/
 @@http://stats.wordpress.com/
 @@http://www.wordpress.com
-
+.wujie.net
 
 !--------------------------X--------------------------
 |http://www.xanga.com/
 |http://blog.xuite.net/
-
 
 !--------------------------Y--------------------------
 |http://www.youpai.org/
@@ -298,17 +304,16 @@ youtube.com
 @@youtube.com/get_video
 ytht.net/
 
-
 !--------------------------Z--------------------------
 |http://luntan.zaobao.com/
 .zengjinyan.org
 zengjinyan.spaces.live.com
 zuola.com
 
-
 !--------------------------Other----------------------
 !--dong tai wang
 %E5%8A%A8%E6%80%81%E7%BD%91
+falundafa
 search?q=cache
 search?q=safeweb
 Ultrareach
@@ -319,91 +324,57 @@ Ultrareach
 
 
 
-freemoren.com/
 twisternow.com
 |http://dlstatusbar.proboards43.com/
 |http://www.wretch.cc/
 |http://maomy.motime.com/
 |http://www.edubridge.com/
 |http://ch.shvoong.com/
-peacehall.com.
-|http://wenyunchao.spaces.live.com/
-boxun.com/
-chinadigitaltimes.net/
-|http://www.fsurf.com/
 |http://www.lancsky.com/
 |http://www.leninlee.cn/
 |http://www.box.net/shared/p1t0nfxzrd
-portis21.spaces.live.com/
-myweb.hinet.net
 |http://www.rfi.fr/actucn/pages/001/homechinois.asp
 |http://www.yzzk.com/
 |http://www.weekmag.info/
-|http://tw.youtube.com/
-|http://hk.youtube.com/
-|http://www.blogger.com/feeds/
 bendiken.net
-|http://vids.myspace.com/
 .badongo.com/
 .ecstart.com/
 |http://bsiegel.ath.cx/
 technologizer.com
 |http://www.tycool.com/
-beijingspring.com
-www.wangruowang.org
 www.msguancha.com
-|http://www.freshmeat.net/projects/freenet/
 |http://www.xinhuanet.org/
 |http://www.meetup.com/
 |http://www.multiply.com/
-|http://www.ptt.cc/
 |http://truveo.com/
-|http://www.gutenberg.org/
-.blogsome.com/
 |http://funp.com/
 |http://www.url.com.tw/
-|http://www.books.com.tw/
 |http://www.oxfam.org.hk/
 |http://www.salvation.org.hk/
 |http://www.tacem.org/
 .pixnet.net/
 |http://blog.yam.com/
-|http://iservice.libertytimes.com.tw/
 news.yam.com/
 |http://mysinablog.com/
 |http://www.kwongwah.com.my/
 |http://news.pchome.com.tw/
 |http://www.dailymotion.com/
-|http://news.sina.com.tw/
-|http://www.libertytimes.com.tw/
 |http://orientaldaily.on.cc/
 |http://news.ftv.com.tw/
-|http://www.voanews.com/
-|http://news.aol.com/
 |http://www.mitbbs.com/
-|http://www.amoiist.com/
 |http://rconversation.blogs.com/
 .atnext.com/
 .tumblr.com/
 |http://wangyi64.spaces.live.com/
 |http://www.dpp.org.tw/
 |http://www.xys.org/
-www.aboluowang.com
-bignews.org
-ntdtv.com
 gardennetworks.com
 bestforchina.org
 secretchina.com
-kanzhongguo.com
 dongtaiwang.com
 soundofhope.org
-www.falundafa.org
-www.falundafa.com
 bolin.netfirms.com
-|http://www.freenet-china.org/
 |http://www.rfa.org/
-.minghui.org
-.wujie.net
 epochtimes.com/
 dajiyuan.com/
 .xanga.com
@@ -412,9 +383,6 @@ comefromchina.com
 gopetition.com
 creaders.net.
 dwnews.com
-gpass1.com
-edoors.com
-minzhuzhongguo.org
 observechina.net
 fireofliberty.org
 www.tiananmenmother.org
