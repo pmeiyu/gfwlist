@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: UllehMl+3HJIxnKtd2om7A
+! Checksum: gkcLpyPjGXLMdl2gJnHeYQ
 ! Last Modified:  Mon, 02 Mar 2009 03:49:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -16,7 +16,9 @@
 |http://www.aboutus.org
 .amnesty.org
 |http://www.andylau.com
+anonymizer.com
 |http://anonymouse.org
+|http://proxypy.appspot.com/
 |http://www.arizonachinese.com
 www.asiademo.org
 
@@ -27,6 +29,8 @@ baidu.jp/
 |http://news.bbc.co.uk/chinese/
 |http://www.blip.tv/
 .blog.com/
+|http://bloglines.com/
+|http://www.bloglines.com/
 |http://chinagfw.blogspot.com/
 yetaai.blogspot.com
 bullogger.com
@@ -39,6 +43,8 @@ www.ccdtr.org
 www.cdp1998.org
 cdpwu.org
 www.cecc.gov
+|http://cgiproxy.us/
+|http://www.cgiproxy.us/
 chinacomments.org
 chinagfw.org
 .chinatimes.com/
@@ -46,6 +52,8 @@ chinaway.org
 chinesenewsnet.com
 |http://dev.chromium.org/
 |http://blog.chromium.org/
+psiphon.civisec.org
+|http://www.civisec.org
 |http://codepad.org/
 |http://www.coolloud.org.tw/
 crd-net.org
@@ -56,6 +64,7 @@ crd-net.org
 lists.debian.org
 discuss.com.hk
 www.download.com/Freegate/3000-2085_4-10415391.html
+|http://www.dynawebinc.com/
 
 
 !--------------------------E--------------------------
@@ -146,8 +155,10 @@ my.opera.com
 
 
 !--------------------------P--------------------------
-pbwiki.com/
+pbwiki.com
+.peacefire.org
 philly.com
+psiphon.ca
 
 
 !--------------------------Q--------------------------
@@ -177,6 +188,7 @@ torproject.org
 twitter.com/amoiist
 twitter.com/kcome
 twitter.com/shizhao
+twitter.com/VOTChinese
 twitter.com/zengjinyan
 twitter.com/zuola
 |http://apiwiki.twitter.com/
@@ -296,7 +308,7 @@ zuola.com
 %E5%8A%A8%E6%80%81%E7%BD%91
 search?q=cache
 search?q=safeweb
-
+Ultrareach
 
 
 
