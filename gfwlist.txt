@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: KXRVnK/lArFx5OBFhRc/MQ
+! Checksum: Qd/bZjF9Huyh6tFarE7mbA
 ! Last Modified:  Fri, 06 Mar 2009 06:34:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -125,9 +125,11 @@ hp.infoseek.co.jp/
 |http://jaiku.com
 |http://www.jaiku.com
 .jiruan.net
+|http://jpra1113.org
 
 !--------------------------K--------------------------
 kanzhongguo.com
+|http://log.keso.cn/
 |http://www.kmt.org.tw/
 |http://www.kzeng.info/
 
@@ -176,6 +178,8 @@ psiphon.ca
 
 !--------------------------Q--------------------------
 |http://pixel.quantserve.com/
+|http://quke.cn
+|http://www.quke.cn
 qxbbs.org/
 
 !--------------------------R--------------------------
@@ -268,6 +272,8 @@ zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
 zh.wikipedia.org*%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
 !--Mei Guo Zhi Yin
 zh.wikipedia.org*%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3
+!--Wen Chuan Da Di Zhen
+zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87
 !--Wu Guo Jie Ji Zhe
 zh.wikipedia.org*%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85
 !--Wu Jie Wang Luo
@@ -322,6 +328,10 @@ zuola.com
 !--dong tai wang
 %E5%8A%A8%E6%80%81%E7%BD%91
 falundafa
+!-fa lun da fa
+%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
+!--Liu Xiao Bo
+%E5%88%98%E6%99%93%E6%B3%A2
 search?q=cache
 search?q=safeweb
 Ultrareach
