@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: OZLT8rXGfqL7p/Zt3m8OLQ
+! Checksum: a/3vTbh5y/VG9IQT9Hvs5w
 ! Last Modified:  Fri, 09 Mar 2009 20:18:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -28,7 +28,7 @@ www.asiademo.org
 !--------------------------B--------------------------
 baidu.jp/
 |http://www.barnabu.co.uk/
-|http://news.bbc.co.uk/chinese/
+bbc.co.uk*chinese
 beijingspring.com
 bestforchina.org
 bignews.org
@@ -72,6 +72,7 @@ crd-net.org
 |http://ak.*.dailymotion.com/
 lists.debian.org
 discuss.com.hk
+|http://www.docbook.org/
 doubleaf.com
 www.download.com/Freegate/3000-2085_4-10415391.html
 dw-world.de
@@ -206,9 +207,11 @@ usinfo.state.gov
 |http://www.technorati.com/
 tiananmenmother.org
 |http://thepiratebay.org/
+tldp.org
 torproject.org
 |http://csai.tsinghua.edu.cn/
 |http://tttan.com/
+.gov.tw/
 twitter.com/amoiist
 twitter.com/kcome
 twitter.com/shizhao
