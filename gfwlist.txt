@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: Qd/bZjF9Huyh6tFarE7mbA
+! Checksum: NMT7YsBxl1OxuY2gRhaZeg
 ! Last Modified:  Fri, 06 Mar 2009 06:34:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -70,6 +70,7 @@ crd-net.org
 |http://ak.*.dailymotion.com/
 lists.debian.org
 discuss.com.hk
+doubleaf.com
 www.download.com/Freegate/3000-2085_4-10415391.html
 |http://www.dynawebinc.com/
 
