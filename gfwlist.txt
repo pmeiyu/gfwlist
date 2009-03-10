@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: z/lcqG/HPIScMj5TZkdOrA
+! Checksum: WORfeUZJSRFffk1Hab6eVw
 ! Last Modified:  Fri, 09 Mar 2009 20:18:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -307,7 +307,6 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 .wordpress.com
 @@http://s.stats.wordpress.com/
 @@http://s1.wordpress.com/
-@@http://s2.wordpress.com/
 @@http://stats.wordpress.com/
 @@http://www.wordpress.com
 .wujie.net
