@@ -1,5 +1,5 @@
 [AutoProxy 0.1.0]
-! Checksum: a/3vTbh5y/VG9IQT9Hvs5w
+! Checksum: z/lcqG/HPIScMj5TZkdOrA
 ! Last Modified:  Fri, 09 Mar 2009 20:18:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
@@ -211,6 +211,7 @@ tldp.org
 torproject.org
 |http://csai.tsinghua.edu.cn/
 |http://tttan.com/
+tumblr.com
 .gov.tw/
 twitter.com/amoiist
 twitter.com/kcome
@@ -235,7 +236,7 @@ http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 .uwants.com
 
 !--------------------------V--------------------------
-www.v2ex.com
+v2ex.com
 |http://www.visuwords.com/
 |http://www.voanews.com/
 
@@ -385,8 +386,7 @@ www.msguancha.com
 |http://news.ftv.com.tw/
 |http://www.mitbbs.com/
 |http://rconversation.blogs.com/
-.atnext.com/
-.tumblr.com/
+.atnext.com
 |http://www.dpp.org.tw/
 |http://www.xys.org/
 gardennetworks.com
@@ -408,3 +408,73 @@ fireofliberty.org
 |http://www.demonoid.com/
 |http://www.worldbbs.info/
 |http://www.bloodshed.net/
+
+cuihua.org
+chinesepen.org
+blog.iphone-dev.org
+avatron.com
+livejournal.com
+.catb.org
+/dwnews.com
+wmrblog.blogspot.com
+zh.wikipedia.org*wiki*GFW
+2newcenturynet.blogspot.com
+.islam.org.hk
+.blogware.com
+.blip.tv
+thumbnails.truveo.com
+hk.search.yahoo.com/search
+video.aol.com
+dailymotion.com*cn
+.cpj.org
+.tianzhu.org
+hkcccl.org.hk
+catholic.org.hk
+amnestyusa.org
+.atj.org.tw
+.committeetoprotectbloggers.org
+|http://docs.google.com/View?docid=
+www.radioaustralia.net.au*chinese*articles*
+www.worldjournal.com/wj-ch-news.php
+.truveo.com/
+.hrw.org
+.asianews.it
+http://www.catholic.org.tw/
+.evanlife.org.hk
+.hkjp.org
+hkjp.easyweb.hk
+blog.pixnet.com
+.xanga.com
+.roodo.com
+blog.sina.com.tw
+.youthwant.com.tw
+technorati.com
+mypaper.pchome.com.tw
+hk.geocities.com
+news.msn.com.tw
+www.msn.com.tw
+.tistory.com
+topic.youthwant.com.tw
+blog.youthwant.com.tw
+blog.flickr.com
+.vox.com/
+.competitionforce.hk
+.chingcheong.com
+.longhair.hk
+.exblog.jp
+blog.symbian.org
+.tblog.com
+upcoming.yahoo.com
+hk.messages.yahoo.com
+news.sina.com.hk
+.settv.com
+.ftv.com.tw
+etaiwannews.com
+china.blogs.time.com
+.mingpaovan.com
+.mingpaosf.com
+.gospelherald.com.tw
+.mingpaotor.com
+.gospelherald.com.hk
+.gospelherald.com
+
