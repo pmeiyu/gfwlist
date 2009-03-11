@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: RuRXZCnL532fu/EH+wTq5A
-! Last Modified:  Wed, 11 Mar 2009 14:31:27 +0800
+! Checksum: cGD7y81ICvwY/y1AfpoA3Q
+! Last Modified:  Wed, 11 Mar 2009 14:54:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -219,6 +219,7 @@ torproject.org
 |http://tttan.com/
 tumblr.com
 .gov.tw/
+twisternow.com
 twitter.com/amoiist
 twitter.com/billzhong
 twitter.com/kcome
@@ -357,7 +358,6 @@ Ultrareach
 
 
 
-twisternow.com
 |http://dlstatusbar.proboards43.com/
 |http://www.wretch.cc/
 |http://maomy.motime.com/
