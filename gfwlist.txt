@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: apXoFarx/HRp696YVDObeA
-! Last Modified:  Wed, 11 Mar 2009 17:09:42 +0800
+! Checksum: KSEyywufEo03gTFAvYaTOA
+! Last Modified:  Wed, 11 Mar 2009 18:15:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -180,6 +180,7 @@ netcolony.com
 ntdtv.com
 
 !--------------------------O--------------------------
+observechina.net
 omnitalk.
 /on.cc/*
 .on.cc/
@@ -413,7 +414,6 @@ comefromchina.com
 gopetition.com
 creaders.net.
 dwnews.com
-observechina.net
 fireofliberty.org
 |http://mckk.bplaced.net
 |http://www.techreviewchina.com
