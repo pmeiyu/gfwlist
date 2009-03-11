@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: a0h/o1j85BfZz+UwCtQu+w
-! Last Modified:  Wed, 11 Mar 2009 23:55:23 +0800
+! Checksum: ZZr7kjcUiRYFJ6e2IpxfBQ
+! Last Modified:  Wed, 11 Mar 2009 23:58:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -75,6 +75,7 @@ psiphon.civisec.org
 |http://codepad.org/
 |http://www.coolloud.org.tw/
 crd-net.org
+creaders.net.
 cuihua.org
 
 !--------------------------D--------------------------
@@ -419,7 +420,6 @@ epochtimes.com/
 dajiyuan.com/
 comefromchina.com
 gopetition.com
-creaders.net.
 dwnews.com
 fireofliberty.org
 |http://mckk.bplaced.net
