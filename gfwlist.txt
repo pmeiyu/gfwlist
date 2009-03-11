@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: GfeSG99hmzC0MisD6YpsIw
-! Last Modified:  Wed, 11 Mar 2009 18:40:41 +0800
+! Checksum: 8Nfk2jiZRIwUURD8+jXWJg
+! Last Modified:  Wed, 11 Mar 2009 18:51:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -264,6 +264,7 @@ v2ex.com
 |http://www.voanews.com/
 
 !--------------------------W--------------------------
+.whitehats.com
 www.wangruowang.org
 .webshots.com/
 wenxuecity.com/
