@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ixNt0Jn2h34n2AsRUZ7vbA
-! Last Modified:  Wed, 11 Mar 2009 18:28:28 +0800
+! Checksum: GfeSG99hmzC0MisD6YpsIw
+! Last Modified:  Wed, 11 Mar 2009 18:40:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -96,6 +96,7 @@ etree.org/
 
 !--------------------------F--------------------------
 |http://feeds.feedburner.com/
+blog.flickr.com
 |http://farm1.static.flickr.com/
 |http://farm2.static.flickr.com/
 freeforums.org/
@@ -277,6 +278,7 @@ wikidot.com
 !-WikiLeaks IP
 */88.80.13.160/*
 secure.wikimedia.org
+www.worldjournal.com/wj-ch-news.php
 
 !-------------zh.WikiPedia-----
 !--Da Ji Yuan
@@ -441,7 +443,6 @@ catholic.org.hk
 .committeetoprotectbloggers.org
 |http://docs.google.com/View?docid=
 www.radioaustralia.net.au*chinese*articles*
-www.worldjournal.com/wj-ch-news.php
 .truveo.com/
 .hrw.org
 .asianews.it
@@ -459,7 +460,6 @@ hk.geocities.com
 .tistory.com
 topic.youthwant.com.tw
 blog.youthwant.com.tw
-blog.flickr.com
 .vox.com/
 .competitionforce.hk
 .chingcheong.com
