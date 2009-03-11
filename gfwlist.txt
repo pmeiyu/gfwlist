@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: BJyzc83bdzixs8nBVsTsWw
-! Last Modified:  Wed, 11 Mar 2009 23:48:50 +0800
+! Checksum: a0h/o1j85BfZz+UwCtQu+w
+! Last Modified:  Wed, 11 Mar 2009 23:55:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -347,6 +347,8 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 |http://blog.xuite.net/
 
 !--------------------------Y--------------------------
+upcoming.yahoo.com
+hk.messages.yahoo.com
 |http://blog.yam.com/
 news.yam.com
 |http://www.youpai.org/
@@ -468,8 +470,6 @@ blog.youthwant.com.tw
 .chingcheong.com
 .longhair.hk
 .exblog.jp
-upcoming.yahoo.com
-hk.messages.yahoo.com
 .settv.com
 .ftv.com.tw
 etaiwannews.com
