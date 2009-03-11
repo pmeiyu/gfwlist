@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: MFAHPiAO14OU/mk4PCGevg
-! Last Modified:  Wed, 11 Mar 2009 15:46:11 +0800
+! Checksum: DADr3MqoA5ot2raXq6e58g
+! Last Modified:  Wed, 11 Mar 2009 15:48:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -151,7 +151,7 @@ kanzhongguo.com
 !--------------------------L--------------------------
 libertytimes.com.tw
 |http://cle.linux.org.tw/
-|http://www.livejournal.com
+livejournal.com
 
 !--------------------------M--------------------------
 mail-archive.com
@@ -418,7 +418,6 @@ fireofliberty.org
 chinesepen.org
 blog.iphone-dev.org
 avatron.com
-livejournal.com
 .catb.org
 /dwnews.com
 wmrblog.blogspot.com
