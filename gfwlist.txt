@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: cGD7y81ICvwY/y1AfpoA3Q
-! Last Modified:  Wed, 11 Mar 2009 14:54:49 +0800
+! Checksum: 8hxhCVMx9UPo2LiW4RyV+w
+! Last Modified:  Wed, 11 Mar 2009 15:01:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -35,7 +35,7 @@ bbc.co.uk*chinese
 beijingspring.com
 bestforchina.org
 bignews.org
-|http://www.blip.tv
+.blip.tv
 .blog.com/
 |http://www.blogger.com/feeds
 |http://bloglines.com
@@ -425,7 +425,6 @@ zh.wikipedia.org*wiki*GFW
 2newcenturynet.blogspot.com
 .islam.org.hk
 .blogware.com
-.blip.tv
 thumbnails.truveo.com
 hk.search.yahoo.com/search
 video.aol.com
