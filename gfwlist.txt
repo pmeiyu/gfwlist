@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: KSEyywufEo03gTFAvYaTOA
-! Last Modified:  Wed, 11 Mar 2009 18:15:55 +0800
+! Checksum: ixNt0Jn2h34n2AsRUZ7vbA
+! Last Modified:  Wed, 11 Mar 2009 18:28:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -285,7 +285,7 @@ zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83
 zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83%E6%99%82%E5%A0%B1
 !--Da Ji Yuan Shi Bao: zh-cn
 zh.wikipedia.org*%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
-!--Da Se Guo JI
+!--Da She Guo JI
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 !--E Luo Si
 zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
