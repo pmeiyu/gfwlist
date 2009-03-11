@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: DTd6d3HkiwSd09lAqvSZIg
-! Last Modified:  Wed, 11 Mar 2009 23:34:37 +0800
+! Checksum: zxUYeUkJH0qB5mvVbOqQSw
+! Last Modified:  Wed, 11 Mar 2009 23:39:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -215,6 +215,7 @@ blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
 |http://rss.slashdot.org/
+soundofhope.org
 .soup.io/
 |http://portis21.spaces.live.com/
 |http://wangyi64.spaces.live.com/
@@ -410,7 +411,6 @@ www.msguancha.com
 |http://www.xys.org/
 gardennetworks.com
 dongtaiwang.com
-soundofhope.org
 bolin.netfirms.com
 |http://www.rfa.org/
 epochtimes.com/
