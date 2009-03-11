@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: hZG+6xcJbkdju+ZyofRafQ
-! Last Modified:  Wed, 11 Mar 2009 15:49:07 +0800
+! Checksum: 0qUpD2yz+fa5tefMrEoqQw
+! Last Modified:  Wed, 11 Mar 2009 15:53:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -78,6 +78,7 @@ cuihua.org
 
 !--------------------------D--------------------------
 |http://ak.*.dailymotion.com/
+|http://www.dailymotion.com/
 lists.debian.org
 discuss.com.hk
 |http://www.docbook.org/
@@ -390,7 +391,6 @@ www.msguancha.com
 .pixnet.net/
 |http://mysinablog.com/
 |http://www.kwongwah.com.my/
-|http://www.dailymotion.com/
 |http://orientaldaily.on.cc/
 |http://news.ftv.com.tw/
 |http://www.mitbbs.com/
