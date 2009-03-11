@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: gdGh1w2lr4jZXmFZy4EZuA
-! Last Modified:  Wed, 11 Mar 2009 14:24:28 +0800
+! Checksum: RuRXZCnL532fu/EH+wTq5A
+! Last Modified:  Wed, 11 Mar 2009 14:31:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -72,6 +72,7 @@ psiphon.civisec.org
 |http://codepad.org/
 |http://www.coolloud.org.tw/
 crd-net.org
+cuihua.org
 
 !--------------------------D--------------------------
 |http://ak.*.dailymotion.com/
@@ -413,8 +414,6 @@ fireofliberty.org
 |http://www.demonoid.com/
 |http://www.worldbbs.info/
 |http://www.bloodshed.net/
-
-cuihua.org
 chinesepen.org
 blog.iphone-dev.org
 avatron.com
