@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: tFp+kXm0+i0mnW4MUXberg
-! Last Modified:  Wed, 11 Mar 2009 15:41:48 +0800
+! Checksum: JJchLG74W/Hk7tmn3ld6Ag
+! Last Modified:  Wed, 11 Mar 2009 15:44:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -213,6 +213,7 @@ usinfo.state.gov
 
 !--------------------------T--------------------------
 |http://tansioksiok.com/
+technologizer.com
 |http://www.technorati.com/
 tiananmenmother.org
 |http://thepiratebay.org/
@@ -376,7 +377,6 @@ bendiken.net
 .badongo.com/
 .ecstart.com/
 |http://bsiegel.ath.cx/
-technologizer.com
 |http://www.tycool.com/
 www.msguancha.com
 |http://www.meetup.com/
