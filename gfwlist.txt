@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: HmjQljgiemrMtJLw/YyPhw
-! Last Modified:  Wed, 11 Mar 2009 16:36:13 +0800
+! Checksum: JtNy07qpboqecdGlSfDNzw
+! Last Modified:  Wed, 11 Mar 2009 16:45:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -222,6 +222,7 @@ technologizer.com
 |http://thepiratebay.org/
 china.blogs.time.com
 tiananmenmother.org
+.tianzhu.org
 tldp.org
 torproject.org
 |http://csai.tsinghua.edu.cn/
@@ -434,7 +435,6 @@ hk.search.yahoo.com/search
 video.aol.com
 dailymotion.com*cn
 .cpj.org
-.tianzhu.org
 hkcccl.org.hk
 catholic.org.hk
 .committeetoprotectbloggers.org
