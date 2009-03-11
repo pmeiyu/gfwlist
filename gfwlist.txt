@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: JJchLG74W/Hk7tmn3ld6Ag
-! Last Modified:  Wed, 11 Mar 2009 15:44:34 +0800
+! Checksum: MFAHPiAO14OU/mk4PCGevg
+! Last Modified:  Wed, 11 Mar 2009 15:46:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -37,6 +37,7 @@ bestforchina.org
 bignews.org
 .blip.tv
 .blog.com/
+|http://rconversation.blogs.com/
 |http://www.blogger.com/feeds
 |http://bloglines.com
 |http://www.bloglines.com
@@ -393,7 +394,6 @@ www.msguancha.com
 |http://orientaldaily.on.cc/
 |http://news.ftv.com.tw/
 |http://www.mitbbs.com/
-|http://rconversation.blogs.com/
 .atnext.com
 |http://www.xys.org/
 gardennetworks.com
