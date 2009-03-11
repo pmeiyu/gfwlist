@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: JtNy07qpboqecdGlSfDNzw
-! Last Modified:  Wed, 11 Mar 2009 16:45:08 +0800
+! Checksum: b8bHTTJZGMze06XD+BrN9A
+! Last Modified:  Wed, 11 Mar 2009 16:49:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -206,6 +206,7 @@ qxbbs.org/
 
 !--------------------------S--------------------------
 |http://s.scribd.com/
+blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
 |http://rss.slashdot.org/
@@ -451,7 +452,6 @@ hkjp.easyweb.hk
 blog.pixnet.com
 .xanga.com
 .roodo.com
-blog.sina.com.tw
 .youthwant.com.tw
 technorati.com
 mypaper.pchome.com.tw
