@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: aaC4fwOMJlejN77laVuPcA
-! Last Modified:  Wed, 11 Mar 2009 15:06:37 +0800
+! Checksum: 1neAXTog6jlDbOFIVBNm1A
+! Last Modified:  Wed, 11 Mar 2009 15:08:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -86,6 +86,7 @@ dw-world.de
 
 !--------------------------E--------------------------
 edoors.com
+|http://www.edubridge.com/
 |http://endsoftpatents.org/
 etree.org/
 
@@ -362,7 +363,6 @@ Ultrareach
 |http://dlstatusbar.proboards43.com/
 |http://www.wretch.cc/
 |http://maomy.motime.com/
-|http://www.edubridge.com/
 |http://ch.shvoong.com/
 |http://www.lancsky.com/
 |http://www.leninlee.cn/
