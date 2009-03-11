@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ZZr7kjcUiRYFJ6e2IpxfBQ
-! Last Modified:  Wed, 11 Mar 2009 23:58:03 +0800
+! Checksum: sL4bzRZ7r6IhA6C3IVWJ5Q
+! Last Modified:  Thu, 12 Mar 2009 00:00:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -212,6 +212,7 @@ qxbbs.org/
 !--------------------------S--------------------------
 |http://s.scribd.com/
 secretchina.com
+.settv.com
 blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
@@ -470,7 +471,6 @@ blog.youthwant.com.tw
 .chingcheong.com
 .longhair.hk
 .exblog.jp
-.settv.com
 .ftv.com.tw
 etaiwannews.com
 .mingpaovan.com
