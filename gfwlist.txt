@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 24XS2N91YnFI11kRSGgQ4w
-! Last Modified:  Wed, 11 Mar 2009 22:42:20 +0800
+! Checksum: LpqvRWEofpjJsBh/QeFrlw
+! Last Modified:  Wed, 11 Mar 2009 22:44:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -209,9 +209,8 @@ qxbbs.org/
 
 !--------------------------S--------------------------
 |http://s.scribd.com/
+secretchina.com
 blog.sina.com.tw
-blog.symbian.org
-.tblog.com
 news.sina.com.tw
 news.sina.com.hk
 |http://rss.slashdot.org/
@@ -220,9 +219,11 @@ news.sina.com.hk
 |http://wangyi64.spaces.live.com/
 |http://wenyunchao.spaces.live.com/
 usinfo.state.gov
+blog.symbian.org
 
 !--------------------------T--------------------------
 |http://tansioksiok.com/
+.tblog.com
 technologizer.com
 |http://www.technorati.com/
 |http://thepiratebay.org/
@@ -408,7 +409,6 @@ www.msguancha.com
 |http://www.mitbbs.com/
 |http://www.xys.org/
 gardennetworks.com
-secretchina.com
 dongtaiwang.com
 soundofhope.org
 bolin.netfirms.com
