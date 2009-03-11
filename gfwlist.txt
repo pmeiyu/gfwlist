@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: qbjXKnX8FIFgWSxhAwnAEQ
-! Last Modified:  Fri, 09 Mar 2009 20:18:02 +0800
+! Checksum: gdGh1w2lr4jZXmFZy4EZuA
+! Last Modified:  Wed, 11 Mar 2009 14:24:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -17,6 +17,7 @@
 www.aboluowang.com
 |http://www.aboutus.org
 .amnesty.org
+amnestyusa.org
 |http://www.amoiist.com/
 |http://www.andylau.com
 anonymizer.com
@@ -25,6 +26,7 @@ anonymizer.com
 |http://proxypy.appspot.com/
 |http://www.arizonachinese.com
 www.asiademo.org
+.atj.org.tw
 
 !--------------------------B--------------------------
 baidu.jp/
@@ -433,8 +435,6 @@ dailymotion.com*cn
 .tianzhu.org
 hkcccl.org.hk
 catholic.org.hk
-amnestyusa.org
-.atj.org.tw
 .committeetoprotectbloggers.org
 |http://docs.google.com/View?docid=
 www.radioaustralia.net.au*chinese*articles*
