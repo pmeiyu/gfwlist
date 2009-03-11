@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: o/05guLn+d3A8jSuQ82DWQ
-! Last Modified:  Wed, 11 Mar 2009 15:30:26 +0800
+! Checksum: tFp+kXm0+i0mnW4MUXberg
+! Last Modified:  Wed, 11 Mar 2009 15:41:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -242,6 +242,7 @@ twitter.com/zuola
 uncyclopedia.
 |http://unifoundry.com/
 |http://www.unknownspace.org/
+|http://www.url.com.tw/
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 .uwants.com
@@ -382,7 +383,6 @@ www.msguancha.com
 |http://www.multiply.com/
 |http://truveo.com/
 |http://funp.com/
-|http://www.url.com.tw/
 |http://www.oxfam.org.hk/
 |http://www.salvation.org.hk/
 |http://www.tacem.org/
