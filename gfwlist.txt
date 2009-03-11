@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: c+r8WdCrp6j8+9NMpJvatw
-! Last Modified:  Thu, 12 Mar 2009 00:15:58 +0800
+! Checksum: 37oHdTjHZIsFL+JBrGGJKw
+! Last Modified:  Thu, 12 Mar 2009 00:18:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -167,6 +167,9 @@ mail-archive.com
 www.mingpao.com
 mingpaonews.com
 |http://www.mingpaony.com/
+.mingpaosf.com
+.mingpaotor.com
+.mingpaovan.com
 minzhuzhongguo.org
 |http://www.mpinews.com/
 news.msn.com.tw
@@ -473,10 +476,7 @@ blog.youthwant.com.tw
 .exblog.jp
 .ftv.com.tw
 etaiwannews.com
-.mingpaovan.com
-.mingpaosf.com
 .gospelherald.com.tw
-.mingpaotor.com
 .gospelherald.com.hk
 .gospelherald.com
 
