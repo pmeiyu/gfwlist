@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 8Nfk2jiZRIwUURD8+jXWJg
-! Last Modified:  Wed, 11 Mar 2009 18:51:57 +0800
+! Checksum: 2234yUVsJa/MzqCvoBYqLQ
+! Last Modified:  Wed, 11 Mar 2009 18:59:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
