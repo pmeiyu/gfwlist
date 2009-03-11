@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 1neAXTog6jlDbOFIVBNm1A
-! Last Modified:  Wed, 11 Mar 2009 15:08:52 +0800
+! Checksum: o/05guLn+d3A8jSuQ82DWQ
+! Last Modified:  Wed, 11 Mar 2009 15:30:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -81,6 +81,7 @@ discuss.com.hk
 |http://www.docbook.org/
 doubleaf.com
 www.download.com/Freegate/3000-2085_4-10415391.html
+|http://www.dpp.org.tw/
 dw-world.de
 |http://www.dynawebinc.com/
 
@@ -394,7 +395,6 @@ www.msguancha.com
 |http://www.mitbbs.com/
 |http://rconversation.blogs.com/
 .atnext.com
-|http://www.dpp.org.tw/
 |http://www.xys.org/
 gardennetworks.com
 secretchina.com
