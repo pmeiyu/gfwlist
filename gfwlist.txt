@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: /TlEjPgNsJXHrwyhMcNLfg
-! Last Modified:  Wed, 11 Mar 2009 22:32:41 +0800
+! Checksum: IQ2QrSRAZecs1TPvUOeHyw
+! Last Modified:  Wed, 11 Mar 2009 22:36:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -166,7 +166,6 @@ www.mingpao.com
 mingpaonews.com
 |http://www.mingpaony.com/
 minzhuzhongguo.org
-|http://www.mitbbs.com/
 |http://www.mpinews.com/
 news.msn.com.tw
 www.msn.com.tw
@@ -211,6 +210,8 @@ qxbbs.org/
 !--------------------------S--------------------------
 |http://s.scribd.com/
 blog.sina.com.tw
+blog.symbian.org
+.tblog.com
 news.sina.com.tw
 news.sina.com.hk
 |http://rss.slashdot.org/
@@ -404,6 +405,7 @@ www.msguancha.com
 |http://www.dailymotion.com/
 |http://orientaldaily.on.cc/
 |http://news.ftv.com.tw/
+|http://www.mitbbs.com/
 |http://www.xys.org/
 gardennetworks.com
 secretchina.com
@@ -466,8 +468,6 @@ blog.youthwant.com.tw
 .chingcheong.com
 .longhair.hk
 .exblog.jp
-blog.symbian.org
-.tblog.com
 upcoming.yahoo.com
 hk.messages.yahoo.com
 .settv.com
