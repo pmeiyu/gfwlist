@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: wmCp0+3wYlMCjAkjcWKFbw
-! Last Modified:  Wed, 11 Mar 2009 15:56:13 +0800
+! Checksum: 0nast6E+gDQnZz5vsccq5A
+! Last Modified:  Wed, 11 Mar 2009 15:59:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -164,6 +164,8 @@ mingpaonews.com
 |http://www.mingpaony.com/
 minzhuzhongguo.org
 |http://www.mpinews.com/
+news.msn.com.tw
+www.msn.com.tw
 |http://mxexpress.twbbs.org/
 |http://www.mycould.com/
 |http://vids.myspace.com/
@@ -454,8 +456,6 @@ blog.sina.com.tw
 technorati.com
 mypaper.pchome.com.tw
 hk.geocities.com
-news.msn.com.tw
-www.msn.com.tw
 .tistory.com
 topic.youthwant.com.tw
 blog.youthwant.com.tw
