@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 0qUpD2yz+fa5tefMrEoqQw
-! Last Modified:  Wed, 11 Mar 2009 15:53:44 +0800
+! Checksum: wmCp0+3wYlMCjAkjcWKFbw
+! Last Modified:  Wed, 11 Mar 2009 15:56:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -29,7 +29,6 @@ www.asiademo.org
 .atj.org.tw
 
 !--------------------------B--------------------------
-.badongo.com/
 baidu.jp/
 |http://www.barnabu.co.uk
 bbc.co.uk*chinese
@@ -78,7 +77,6 @@ cuihua.org
 
 !--------------------------D--------------------------
 |http://ak.*.dailymotion.com/
-|http://www.dailymotion.com/
 lists.debian.org
 discuss.com.hk
 |http://www.docbook.org/
@@ -153,7 +151,7 @@ kanzhongguo.com
 !--------------------------L--------------------------
 libertytimes.com.tw
 |http://cle.linux.org.tw/
-livejournal.com
+|http://www.livejournal.com
 
 !--------------------------M--------------------------
 mail-archive.com
@@ -218,8 +216,9 @@ usinfo.state.gov
 |http://tansioksiok.com/
 technologizer.com
 |http://www.technorati.com/
-tiananmenmother.org
 |http://thepiratebay.org/
+china.blogs.time.com
+tiananmenmother.org
 tldp.org
 torproject.org
 |http://csai.tsinghua.edu.cn/
@@ -377,6 +376,7 @@ Ultrareach
 |http://www.yzzk.com/
 |http://www.weekmag.info/
 bendiken.net
+.badongo.com/
 .ecstart.com/
 |http://bsiegel.ath.cx/
 |http://www.tycool.com/
@@ -391,6 +391,7 @@ www.msguancha.com
 .pixnet.net/
 |http://mysinablog.com/
 |http://www.kwongwah.com.my/
+|http://www.dailymotion.com/
 |http://orientaldaily.on.cc/
 |http://news.ftv.com.tw/
 |http://www.mitbbs.com/
@@ -418,6 +419,7 @@ fireofliberty.org
 chinesepen.org
 blog.iphone-dev.org
 avatron.com
+livejournal.com
 .catb.org
 /dwnews.com
 wmrblog.blogspot.com
@@ -470,7 +472,6 @@ hk.messages.yahoo.com
 .settv.com
 .ftv.com.tw
 etaiwannews.com
-china.blogs.time.com
 .mingpaovan.com
 .mingpaosf.com
 .gospelherald.com.tw
