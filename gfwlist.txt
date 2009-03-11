@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: LpqvRWEofpjJsBh/QeFrlw
-! Last Modified:  Wed, 11 Mar 2009 22:44:40 +0800
+! Checksum: II/o0bff1GgQNU4T1OtWwg
+! Last Modified:  Wed, 11 Mar 2009 22:45:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -209,8 +209,9 @@ qxbbs.org/
 
 !--------------------------S--------------------------
 |http://s.scribd.com/
-secretchina.com
 blog.sina.com.tw
+blog.symbian.org
+.tblog.com
 news.sina.com.tw
 news.sina.com.hk
 |http://rss.slashdot.org/
@@ -219,11 +220,9 @@ news.sina.com.hk
 |http://wangyi64.spaces.live.com/
 |http://wenyunchao.spaces.live.com/
 usinfo.state.gov
-blog.symbian.org
 
 !--------------------------T--------------------------
 |http://tansioksiok.com/
-.tblog.com
 technologizer.com
 |http://www.technorati.com/
 |http://thepiratebay.org/
@@ -283,6 +282,7 @@ wikidot.com
 */88.80.13.160/*
 secure.wikimedia.org
 www.worldjournal.com/wj-ch-news.php
+|http://www.wretch.cc/
 
 !-------------zh.WikiPedia-----
 !--Da Ji Yuan
@@ -379,7 +379,6 @@ Ultrareach
 
 
 |http://dlstatusbar.proboards43.com/
-|http://www.wretch.cc/
 |http://maomy.motime.com/
 |http://ch.shvoong.com/
 |http://www.lancsky.com/
@@ -409,6 +408,7 @@ www.msguancha.com
 |http://www.mitbbs.com/
 |http://www.xys.org/
 gardennetworks.com
+secretchina.com
 dongtaiwang.com
 soundofhope.org
 bolin.netfirms.com
