@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: DADr3MqoA5ot2raXq6e58g
-! Last Modified:  Wed, 11 Mar 2009 15:48:37 +0800
+! Checksum: hZG+6xcJbkdju+ZyofRafQ
+! Last Modified:  Wed, 11 Mar 2009 15:49:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -29,6 +29,7 @@ www.asiademo.org
 .atj.org.tw
 
 !--------------------------B--------------------------
+.badongo.com/
 baidu.jp/
 |http://www.barnabu.co.uk
 bbc.co.uk*chinese
@@ -375,7 +376,6 @@ Ultrareach
 |http://www.yzzk.com/
 |http://www.weekmag.info/
 bendiken.net
-.badongo.com/
 .ecstart.com/
 |http://bsiegel.ath.cx/
 |http://www.tycool.com/
