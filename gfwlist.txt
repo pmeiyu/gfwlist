@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 0nast6E+gDQnZz5vsccq5A
-! Last Modified:  Wed, 11 Mar 2009 15:59:16 +0800
+! Checksum: HmjQljgiemrMtJLw/YyPhw
+! Last Modified:  Wed, 11 Mar 2009 16:36:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -27,6 +27,7 @@ anonymizer.com
 |http://www.arizonachinese.com
 www.asiademo.org
 .atj.org.tw
+.atnext.com
 
 !--------------------------B--------------------------
 baidu.jp/
@@ -397,7 +398,6 @@ www.msguancha.com
 |http://orientaldaily.on.cc/
 |http://news.ftv.com.tw/
 |http://www.mitbbs.com/
-.atnext.com
 |http://www.xys.org/
 gardennetworks.com
 secretchina.com
