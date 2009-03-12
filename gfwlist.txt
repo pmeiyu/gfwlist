@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 37oHdTjHZIsFL+JBrGGJKw
-! Last Modified:  Thu, 12 Mar 2009 00:18:44 +0800
+! Checksum: WNl6WAJDt7lUG3g5l+FTkg
+! Last Modified:  Fri, 13 Mar 2009 00:57:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -16,6 +16,7 @@
 !--------------------------A--------------------------
 www.aboluowang.com
 |http://www.aboutus.org
+|http://www.aidsmuseum.cn/
 .amnesty.org
 amnestyusa.org
 |http://www.amoiist.com/
@@ -62,6 +63,7 @@ cdpwu.org
 www.cecc.gov
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
+changkun.org
 chinacomments.org
 chinadigitaltimes.net/
 chinagfw.org
@@ -112,7 +114,7 @@ friendfeed.com/e/
 
 !--------------------------G--------------------------
 |http://www.globalinternetfreedom.org/
-|http://zh.globalvoicesonline.org/
+zh.globalvoicesonline.org
 google.com*analytics*zh-CN
 feedproxy.google.com
 |http://pages.google.com/
@@ -131,6 +133,7 @@ great-firewall.com
 |http://www.hemidemi.com/
 myweb.hinet.net
 |http://times.hinet.net/
+|http://www.hungerstrikeforaids.org
 
 !--------------------------I--------------------------
 |http://i1.hk/
@@ -143,6 +146,7 @@ hp.infoseek.co.jp/
 !--------------------------J--------------------------
 |http://jaiku.com
 |http://www.jaiku.com
+jieshibaobao.com
 .jiruan.net
 |http://jpra1113.org
 
@@ -274,6 +278,7 @@ v2ex.com
 |http://www.voanews.com/
 
 !--------------------------W--------------------------
+.we.bs/
 .whitehats.com
 www.wangruowang.org
 .webshots.com/
