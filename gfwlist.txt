@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: WNl6WAJDt7lUG3g5l+FTkg
-! Last Modified:  Fri, 13 Mar 2009 00:57:39 +0800
+! Checksum: hBHoLGEswlSF7zrhE3hZeg
+! Last Modified:  Fri, 13 Mar 2009 11:39:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -166,6 +166,7 @@ libertytimes.com.tw
 mail-archive.com
 |http://cq.mail163.to/
 |http://www.mathtunnel.com/
+mediafire.com
 |http://memedia.cn/
 .minghui.org
 www.mingpao.com
@@ -201,7 +202,7 @@ my.opera.com
 pbwiki.com
 |http://news.pchome.com.tw/
 .peacefire.org
-peacehall.com.
+peacehall.com
 philly.com
 psiphon.ca
 |http://www.ptt.cc/
@@ -235,6 +236,7 @@ blog.symbian.org
 !--------------------------T--------------------------
 |http://tansioksiok.com/
 .tblog.com
+tcno.net*doc*tor
 technologizer.com
 |http://www.technorati.com/
 |http://thepiratebay.org/
@@ -251,6 +253,7 @@ twisternow.com
 twitter.com/amoiist
 twitter.com/billzhong
 twitter.com/kcome
+twitter.com/nowhere1975
 twitter.com/shizhao
 twitter.com/VOTChinese
 twitter.com/zengjinyan
@@ -296,6 +299,16 @@ wikidot.com
 secure.wikimedia.org
 www.worldjournal.com/wj-ch-news.php
 
+!-------------en.WikiPedia-----
+en.wikipedia.org/wiki/Book_burning
+en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
+en.wikipedia.org/wiki/Dalai_Lama
+en.wikipedia.org/wiki/Deep_packet_inspection
+en.wikipedia.org/wiki/Falun_Gong
+en.wikipedia.org/wiki/Golden_Shield_Project
+en.wikipedia.org/wiki/Internet_censorship
+en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
+
 !-------------zh.WikiPedia-----
 !--Da Ji Yuan
 zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83
@@ -317,6 +330,8 @@ zh.wikipedia.org*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 zh.wikipedia.org/wiki/%E8%8A%B1%E5%9B%AD%E8%BD%AF%E4%BB%B6
 !--Hua Yuan Wang
 zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
+!--Jin Dun Gong Cheng
+zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Liu Si Shi Jian
 zh.wikipedia.org*%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
 !--Mei Guo Zhi Yin
@@ -327,6 +342,8 @@ zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87
 zh.wikipedia.org*%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85
 !--Wu Jie Wang Luo
 zh.wikipedia.org*%E6%97%A0%E7%95%8C%E7%BD%91%E7%BB%9C
+!--Xi Zang
+zh.wikipedia.org/wiki/%E8%A5%BF%E8%97%8F
 !--Xi Zang Liu Wang Zheng Fu
 zh.wikipedia.org*%E8%A5%BF%E8%97%8F%E6%B5%81%E4%BA%A1%E6%94%BF%E5%BA%9C
 !--Zhong Guo Da Lu Feng Suo Wei JI Mei Ti Shi Jian
