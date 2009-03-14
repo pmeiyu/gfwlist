@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 8qIWGvMnnBAyFqTq0gCTpw
-! Last Modified:  Sat, 14 Mar 2009 15:40:24 +0800
+! Checksum: iVRKE2Yx35z+ecx4jThhsg
+! Last Modified:  Sat, 14 Mar 2009 21:21:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -85,7 +85,7 @@ cuihua.org
 lists.debian.org
 discuss.com.hk
 |http://www.docbook.org/
-doubleaf.com
+http://doubleaf.com
 www.download.com/Freegate/3000-2085_4-10415391.html
 |http://www.dpp.org.tw/
 dw-world.de
