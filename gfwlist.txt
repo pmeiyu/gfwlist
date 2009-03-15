@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: iNSwpgme7v4VH5wkUUNQ5w
-! Last Modified:  Sun, 15 Mar 2009 10:49:09 +0800
+! Checksum: K0OzukcUthIcTUuEIZ8BAQ
+! Last Modified:  Sun, 15 Mar 2009 10:55:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -224,6 +224,7 @@ mypaper.pchome.com.tw
 .peacefire.org
 peacehall.com
 philly.com
+blog.pixnet.com
 psiphon.ca
 |http://www.ptt.cc/
 
@@ -496,7 +497,6 @@ http://www.catholic.org.tw/
 .evanlife.org.hk
 .hkjp.org
 hkjp.easyweb.hk
-blog.pixnet.com
 .xanga.com
 .roodo.com
 .youthwant.com.tw
