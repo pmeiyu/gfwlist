@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: U4bdci2Lzc8WxeSmNsD2Pg
-! Last Modified:  Sun, 15 Mar 2009 10:33:01 +0800
+! Checksum: oi4Jli3Bg664Yt3O3IenUg
+! Last Modified:  Sun, 15 Mar 2009 10:34:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -234,6 +234,7 @@ psiphon.ca
 qxbbs.org/
 
 !--------------------------R--------------------------
+www.radioaustralia.net.au*chinese*articles*
 robertmao.com
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
@@ -488,7 +489,6 @@ hkcccl.org.hk
 catholic.org.hk
 .committeetoprotectbloggers.org
 |http://docs.google.com/View?docid=
-www.radioaustralia.net.au*chinese*articles*
 .truveo.com/
 .hrw.org
 .asianews.it
