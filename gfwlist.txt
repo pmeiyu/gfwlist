@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: JuJLxjxJMV9ylXnjBo60Eg
-! Last Modified:  Sun, 15 Mar 2009 09:05:16 +0800
+! Checksum: HsTHLFUJ1hHdEP5QxOMTlg
+! Last Modified:  Sun, 15 Mar 2009 09:13:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -122,6 +122,9 @@ feedproxy.google.com
 |http://www.google.com/url*ct=clnk
 |http://googleblog.blogspot.com/
 .googlepages.com/
+.gospelherald.com.tw
+.gospelherald.com.hk
+.gospelherald.com
 gpass1.com
 |http://www.gproxy.com
 |http://www.greasespot.net/
@@ -500,7 +503,4 @@ blog.youthwant.com.tw
 .exblog.jp
 .ftv.com.tw
 etaiwannews.com
-.gospelherald.com.tw
-.gospelherald.com.hk
-.gospelherald.com
 
