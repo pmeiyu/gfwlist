@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: sdjssjz6Up8TMWrWLtaQyQ
-! Last Modified:  Sun, 15 Mar 2009 10:00:17 +0800
+! Checksum: qbgYL3sNC7Gia+am/z0UKQ
+! Last Modified:  Sun, 15 Mar 2009 10:27:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -399,6 +399,8 @@ news.yam.com
 |http://www.youpai.org/
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
+topic.youthwant.com.tw
+blog.youthwant.com.tw
 youtube.com
 @@youtube.com/get_video
 ytht.net/
@@ -501,8 +503,6 @@ technorati.com
 mypaper.pchome.com.tw
 hk.geocities.com
 .tistory.com
-topic.youthwant.com.tw
-blog.youthwant.com.tw
 .vox.com/
 .competitionforce.hk
 .chingcheong.com
