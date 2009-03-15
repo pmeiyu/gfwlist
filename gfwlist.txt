@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: oi4Jli3Bg664Yt3O3IenUg
-! Last Modified:  Sun, 15 Mar 2009 10:34:37 +0800
+! Checksum: iNSwpgme7v4VH5wkUUNQ5w
+! Last Modified:  Sun, 15 Mar 2009 10:49:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -259,7 +259,7 @@ blog.symbian.org
 .tblog.com
 tcno.net*doc*tor
 technologizer.com
-|http://www.technorati.com/
+technorati.com
 |http://thepiratebay.org/
 china.blogs.time.com
 tiananmenmother.org
@@ -500,7 +500,6 @@ blog.pixnet.com
 .xanga.com
 .roodo.com
 .youthwant.com.tw
-technorati.com
 hk.geocities.com
 .tistory.com
 .vox.com/
