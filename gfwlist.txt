@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: iVRKE2Yx35z+ecx4jThhsg
-! Last Modified:  Sat, 14 Mar 2009 21:21:17 +0800
+! Checksum: JuJLxjxJMV9ylXnjBo60Eg
+! Last Modified:  Sun, 15 Mar 2009 09:05:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -83,6 +83,7 @@ cuihua.org
 !--------------------------D--------------------------
 |http://ak.*.dailymotion.com/
 lists.debian.org
+http://www.destroydebtwithcashgifting.com
 discuss.com.hk
 |http://www.docbook.org/
 http://doubleaf.com
