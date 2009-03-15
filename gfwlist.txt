@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: K0OzukcUthIcTUuEIZ8BAQ
-! Last Modified:  Sun, 15 Mar 2009 10:55:35 +0800
+! Checksum: Pxt8yG48FoYO1DJN+p7PYw
+! Last Modified:  Sun, 15 Mar 2009 11:03:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -138,6 +138,7 @@ zh.globalvoicesonline.org
 !--|http://pages.google.com/
 !--|http://www.google.com/url*ct=clnk
 !--.googlepages.com/
+|http://docs.google.com/View?docid=
 
 gospelherald.com.tw
 gospelherald.com.hk
@@ -489,7 +490,6 @@ dailymotion.com*cn
 hkcccl.org.hk
 catholic.org.hk
 .committeetoprotectbloggers.org
-|http://docs.google.com/View?docid=
 .truveo.com/
 .hrw.org
 .asianews.it
