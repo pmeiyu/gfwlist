@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: HsTHLFUJ1hHdEP5QxOMTlg
-! Last Modified:  Sun, 15 Mar 2009 09:13:06 +0800
+! Checksum: zDUPiZlYJUJuAoHClMSJlQ
+! Last Modified:  Sun, 15 Mar 2009 09:53:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -40,17 +40,26 @@ bestforchina.org
 bignews.org
 .blip.tv
 .blog.com/
-|http://rconversation.blogs.com/
 |http://www.blogger.com/feeds
 |http://bloglines.com
 |http://www.bloglines.com
+|http://rconversation.blogs.com/
 .blogsome.com
+
+!-------------BlogSpot-----
+2newcenturynet.blogspot.com
 bloooooooogger.blogspot.com
 chinagfw.blogspot.com
+wmrblog.blogspot.com
 yetaai.blogspot.com
+
+.blogware.com
+|http://www.bloodshed.net/
 |http://www.books.com.tw/
+box.net/shared/p1t0nfxzrd
 box.net/shared/ymcm3k0cy8
 boxun.com
+|http://mckk.bplaced.net
 bullogger.com
 
 !--------------------------C--------------------------
@@ -71,7 +80,6 @@ chinagfw.org
 chinaway.org
 chinesenewsnet.com
 |http://dev.chromium.org/
-|http://blog.chromium.org/
 psiphon.civisec.org
 |http://www.civisec.org
 |http://codepad.org/
@@ -116,12 +124,21 @@ friendfeed.com/e/
 !--------------------------G--------------------------
 |http://www.globalinternetfreedom.org/
 zh.globalvoicesonline.org
-google.com*analytics*zh-CN
-feedproxy.google.com
-|http://pages.google.com/
-|http://www.google.com/url*ct=clnk
-|http://googleblog.blogspot.com/
-.googlepages.com/
+
+!-------------Google.ghs-----
+!--|http://blog.chromium.org/
+!--|http://log.keso.cn/
+!--|http://blog.nihilogic.dk/
+!--|http://rss.slashdot.org/
+!--|http://blog.twitter.com/
+
+!-------------Google.other-----
+!--google.com*analytics*zh-CN
+!--feedproxy.google.com
+!--|http://pages.google.com/
+!--|http://www.google.com/url*ct=clnk
+!--.googlepages.com/
+
 .gospelherald.com.tw
 .gospelherald.com.hk
 .gospelherald.com
@@ -156,7 +173,6 @@ jieshibaobao.com
 
 !--------------------------K--------------------------
 kanzhongguo.com
-|http://log.keso.cn/
 |http://www.kmt.org.tw/
 |http://www.kzeng.info/
 
@@ -190,7 +206,6 @@ www.msn.com.tw
 !--------------------------N--------------------------
 netcolony.com
 |http://www.newsvine.com/
-|http://blog.nihilogic.dk/
 |http://taiwanyes.ning.com/group/taiwanpower
 ntdtv.com
 
@@ -229,7 +244,6 @@ secretchina.com
 blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
-|http://rss.slashdot.org/
 soundofhope.org
 .soup.io/
 |http://portis21.spaces.live.com/
@@ -264,7 +278,6 @@ twitter.com/VOTChinese
 twitter.com/zengjinyan
 twitter.com/zuola
 |http://apiwiki.twitter.com/
-|http://blog.twitter.com/
 |http://dev.twitter.com/
 |http://status.twitter.com/
 
@@ -419,7 +432,6 @@ Ultrareach
 |http://maomy.motime.com/
 |http://ch.shvoong.com/
 |http://www.leninlee.cn/
-|http://www.box.net/shared/p1t0nfxzrd
 |http://www.rfi.fr/actucn/pages/001/homechinois.asp
 |http://www.yzzk.com/
 |http://www.weekmag.info/
@@ -453,22 +465,17 @@ comefromchina.com
 gopetition.com
 dwnews.com
 fireofliberty.org
-|http://mckk.bplaced.net
 |http://www.techreviewchina.com
 |http://www.demonoid.com/
 |http://www.worldbbs.info/
-|http://www.bloodshed.net/
 chinesepen.org
 blog.iphone-dev.org
 avatron.com
 livejournal.com
 .catb.org
 /dwnews.com
-wmrblog.blogspot.com
 zh.wikipedia.org*wiki*GFW
-2newcenturynet.blogspot.com
 .islam.org.hk
-.blogware.com
 thumbnails.truveo.com
 hk.search.yahoo.com/search
 video.aol.com
