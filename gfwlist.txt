@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Pxt8yG48FoYO1DJN+p7PYw
-! Last Modified:  Sun, 15 Mar 2009 11:03:18 +0800
+! Checksum: I006yTMKPFpn5kp//tGX7w
+! Last Modified:  Sun, 15 Mar 2009 20:52:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -181,6 +181,13 @@ kanzhongguo.com
 |http://www.lancsky.com/
 libertytimes.com.tw
 |http://cle.linux.org.tw/
+
+!-------------live spaces-----
+|http://portis21.spaces.live.com/
+|http://siyi123123123.spaces.live.com
+|http://wangyi64.spaces.live.com/
+|http://wenyunchao.spaces.live.com/
+
 |http://www.livejournal.com
 
 !--------------------------M--------------------------
@@ -189,6 +196,7 @@ mail-archive.com
 |http://www.mathtunnel.com/
 mediafire.com
 |http://memedia.cn/
+middle-way.net
 .minghui.org
 www.mingpao.com
 mingpaonews.com
@@ -250,9 +258,6 @@ news.sina.com.tw
 news.sina.com.hk
 soundofhope.org
 .soup.io/
-|http://portis21.spaces.live.com/
-|http://wangyi64.spaces.live.com/
-|http://wenyunchao.spaces.live.com/
 usinfo.state.gov
 blog.symbian.org
 
