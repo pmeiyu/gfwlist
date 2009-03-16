@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: lcABswqXlcej3AdlEw+04Q
-! Last Modified:  Mon, 16 Mar 2009 13:38:10 +0800
+! Checksum: 3Dnovhjp9X6Zcu3vOqZp/Q
+! Last Modified:  Mon, 16 Mar 2009 17:00:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -411,7 +411,7 @@ news.yam.com
 |https://www.your-freedom.net/
 topic.youthwant.com.tw
 blog.youthwant.com.tw
-youtube.com
+!--youtube.com
 @@youtube.com/get_video
 ytht.net/
 
