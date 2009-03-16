@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: VPS+RmDhpO4Y/Z1rUueWkQ
-! Last Modified:  Mon, 16 Mar 2009 10:58:58 +0800
+! Checksum: lcABswqXlcej3AdlEw+04Q
+! Last Modified:  Mon, 16 Mar 2009 13:38:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -109,8 +109,8 @@ etree.org/
 !--------------------------F--------------------------
 |http://feeds.feedburner.com/
 blog.flickr.com
-|http://farm1.static.flickr.com/
-|http://farm2.static.flickr.com/
+!--|http://farm1.static.flickr.com/
+!--|http://farm2.static.flickr.com/
 freeforums.org/
 freemoren.com/
 |http://www.freenet-china.org/
