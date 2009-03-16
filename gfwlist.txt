@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Gfh8ZPw+dbd9NRhxrJDb3g
-! Last Modified:  Sun, 15 Mar 2009 23:17:40 +0800
+! Checksum: VPS+RmDhpO4Y/Z1rUueWkQ
+! Last Modified:  Mon, 16 Mar 2009 10:58:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -26,7 +26,6 @@ anonymizer.com
 |http://news.aol.com/
 |http://proxypy.appspot.com/
 |http://www.arizonachinese.com
-|http://developer.android.com/
 www.asiademo.org
 .atj.org.tw
 .atnext.com
@@ -132,6 +131,7 @@ zh.globalvoicesonline.org
 !--|http://blog.nihilogic.dk/
 !--|http://rss.slashdot.org/
 !--|http://blog.twitter.com/
+!--|http://developer.android.com/
 
 !-------------Google.other-----
 !--google.com*analytics*zh-CN
