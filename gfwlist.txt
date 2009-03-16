@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 3Dnovhjp9X6Zcu3vOqZp/Q
-! Last Modified:  Mon, 16 Mar 2009 17:00:03 +0800
+! Checksum: EUarc4V3wIj5+jFPuFiwjw
+! Last Modified:  Mon, 16 Mar 2009 17:06:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -116,8 +116,7 @@ freemoren.com/
 |http://www.freenet-china.org/
 freenetproject.org/
 |http://www.freshmeat.net/projects/freenet/
-friendfeed.com%2Fe%2F
-friendfeed.com/e/
+http://friendfeed.com
 |http://www.fsurf.com/
 .futurechinaforum.org
 
@@ -134,6 +133,7 @@ zh.globalvoicesonline.org
 !--|http://developer.android.com/
 
 !-------------Google.other-----
+!--.jaiku.com
 !--google.com*analytics*zh-CN
 !--feedproxy.google.com
 !--|http://pages.google.com/
@@ -167,8 +167,6 @@ hp.infoseek.co.jp/
 |http://www.internetfreedom.org/
 
 !--------------------------J--------------------------
-|http://jaiku.com
-|http://www.jaiku.com
 jieshibaobao.com
 .jiruan.net
 |http://jpra1113.org
