@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: SGZsbGR/L36HJm1IvqmlWw
-! Last Modified:  Tue, 17 Mar 2009 09:30:31 +0800
+! Checksum: WHZQAwepvTsUSAIdy68xdg
+! Last Modified:  Tue, 17 Mar 2009 09:35:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -224,6 +224,7 @@ omnitalk.
 /on.cc/*
 .on.cc/
 my.opera.com
+www.orchidbbs.com
 |http://osdir.com/
 
 !--------------------------P--------------------------
