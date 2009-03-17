@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: WHZQAwepvTsUSAIdy68xdg
-! Last Modified:  Tue, 17 Mar 2009 09:35:02 +0800
+! Checksum: JwjqmNWWTSWsiLkZpSGbHQ
+! Last Modified:  Tue, 17 Mar 2009 19:39:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -389,7 +389,7 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 !--Zi You Ya Zhou Dian Tai: zh-hans
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 
-.wordpress.com
+!--.wordpress.com
 @@http://s.stats.wordpress.com/
 @@http://s1.wordpress.com/
 @@http://stats.wordpress.com/
