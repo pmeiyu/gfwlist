@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: PsQBKqhoeI7B5lwuF1WCog
-! Last Modified:  Thu, 26 Mar 2009 19:32:18 +0800
+! Checksum: DLovxGHu4iBUYWNyVlJsNQ
+! Last Modified:  Thu, 26 Mar 2009 20:07:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -98,6 +98,7 @@ http://doubleaf.com
 www.download.com/Freegate/3000-2085_4-10415391.html
 |http://www.dpp.org.tw/
 dw-world.de
+www.dwheeler.com
 |http://www.dynawebinc.com/
 
 !--------------------------E--------------------------
