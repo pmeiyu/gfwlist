@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: JwjqmNWWTSWsiLkZpSGbHQ
-! Last Modified:  Tue, 17 Mar 2009 19:39:47 +0800
+! Checksum: PsQBKqhoeI7B5lwuF1WCog
+! Last Modified:  Thu, 26 Mar 2009 19:32:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -116,7 +116,7 @@ freemoren.com/
 |http://www.freenet-china.org/
 freenetproject.org/
 |http://www.freshmeat.net/projects/freenet/
-http://friendfeed.com
+http://friendfeed.com/e/
 |http://www.fsurf.com/
 .futurechinaforum.org
 
@@ -411,8 +411,8 @@ news.yam.com
 |https://www.your-freedom.net/
 topic.youthwant.com.tw
 blog.youthwant.com.tw
-!--youtube.com
-@@youtube.com/get_video
+youtube.com
+!--@@youtube.com/get_video
 ytht.net/
 
 !--------------------------Z--------------------------
