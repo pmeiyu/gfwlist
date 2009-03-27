@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: DLovxGHu4iBUYWNyVlJsNQ
-! Last Modified:  Thu, 26 Mar 2009 20:07:06 +0800
+! Checksum: nLgeAP+zxAUqoHhH4VDCyA
+! Last Modified:  Fri, 27 Mar 2009 13:20:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -102,6 +102,7 @@ www.dwheeler.com
 |http://www.dynawebinc.com/
 
 !--------------------------E--------------------------
+www.earthhour.org
 edoors.com
 |http://www.edubridge.com/
 |http://endsoftpatents.org/
