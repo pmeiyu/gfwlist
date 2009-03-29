@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: EcRVfbQ69nARTPJW8EtY5Q
-! Last Modified:  Sun, 29 Mar 2009 16:45:45 +0800
+! Checksum: MD+5BTIEXjFMHivifCWPZA
+! Last Modified:  Sun, 29 Mar 2009 18:32:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -71,6 +71,7 @@ www.ccdtr.org
 www.cdp1998.org
 cdpwu.org
 www.cecc.gov
+www.cafepress.com
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
 changkun.org
@@ -272,7 +273,7 @@ blog.symbian.org
 tcno.net*doc*tor
 technologizer.com
 technorati.com
-|http://thepiratebay.org/
+.thepiratebay.org
 china.blogs.time.com
 tiananmenmother.org
 .tianzhu.org
@@ -423,6 +424,7 @@ ytht.net/
 !--------------------------Z--------------------------
 |http://luntan.zaobao.com/
 .zengjinyan.org
+yezimary.spaces.live.com
 zengjinyan.spaces.live.com
 zuola.com
 
