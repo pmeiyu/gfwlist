@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: eIOEii4AvzCmAliUI7Bmxw
-! Last Modified:  Sun, 29 Mar 2009 14:10:44 +0800
+! Checksum: EcRVfbQ69nARTPJW8EtY5Q
+! Last Modified:  Sun, 29 Mar 2009 16:45:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -309,6 +309,7 @@ http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 
 !--------------------------V--------------------------
 v2ex.com
+www.vansky.com
 |http://www.visuwords.com/
 |http://www.voanews.com/
 
