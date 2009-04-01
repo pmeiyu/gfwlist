@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: MD+5BTIEXjFMHivifCWPZA
-! Last Modified:  Sun, 29 Mar 2009 18:32:11 +0800
+! Checksum: QDS4yXPiLe9XxCRglc7iPg
+! Last Modified:  Wed, 01 Apr 2009 09:21:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 |http://nsf.110mb.com
@@ -131,12 +131,14 @@ gaopi.com
 zh.globalvoicesonline.org
 
 !-------------Google.ghs-----
-!--|http://blog.chromium.org/
-!--|http://log.keso.cn/
-!--|http://blog.nihilogic.dk/
-!--|http://rss.slashdot.org/
-!--|http://blog.twitter.com/
-!--|http://developer.android.com/
+http://blog.chromium.org
+!--|http://log.keso.cn
+http://blog.friendfeed.com
+http://blog.nihilogic.dk
+http://rss.slashdot.org
+www.techfob.com
+http://blog.twitter.com
+http://developer.android.com
 
 !-------------Google.other-----
 !--.jaiku.com
