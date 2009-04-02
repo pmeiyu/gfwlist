@@ -1,8 +1,9 @@
 [AutoProxy 0.1.0]
-! Checksum: 7XFo2w8DvQyUwOUMqthv2Q
-! Last Modified:  Wed, 01 Apr 2009 11:37:09 +0800
+! Checksum: 2c9r0/rw5FBdNlH4KHdikQ
+! Last Modified:  Thu, 02 Apr 2009 09:33:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
+1-apple.com.tw
 |http://nsf.110mb.com
 |http://www.1bao.org
 |http://3cc.cc/
