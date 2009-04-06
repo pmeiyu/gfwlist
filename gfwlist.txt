@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 0Pql3ON+FDWf/ksN4dZeeQ
-! Last Modified:  Thu, 02 Apr 2009 23:01:29 +0800
+! Checksum: 0vqfZIYD8LmegPoporVXFQ
+! Last Modified:  Mon, 06 Apr 2009 15:06:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -9,6 +9,7 @@
 |http://3cc.cc/
 |http://www.3cc.cc/
 |http://www.4shared.com
+5maodang.com
 .6park.com
 64memo.com
 64tianwang.com
@@ -35,6 +36,7 @@ www.asiademo.org
 .atnext.com
 
 !--------------------------B--------------------------
+backchina.com
 .badongo.com/
 baidu.jp/
 |http://www.barnabu.co.uk
