@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: qzqpGXv31HeW2TWJA9I+ow
-! Last Modified:  Sun, 12 Apr 2009 16:10:36 +0800
+! Checksum: Eurb/CRTQQ3rDkqzROPeiw
+! Last Modified:  Fri, 17 Apr 2009 06:45:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -29,6 +29,7 @@ amnestyusa.org
 anonymizer.com
 anonymouse.org
 |http://news.aol.com/
+http://gfw.appspot.com/
 |http://proxypy.appspot.com/
 |http://www.arizonachinese.com
 www.asiademo.org
@@ -56,8 +57,10 @@ bignews.org
 2newcenturynet.blogspot.com
 bloooooooogger.blogspot.com
 chinagfw.blogspot.com
+chinaweeks.blogspot.com
 guoweidong.blogspot.com
 riovresbo.blogspot.com
+talkerblog.blogspot.com
 wmrblog.blogspot.com
 yetaai.blogspot.com
 
@@ -89,6 +92,7 @@ chinagfw.org
 .chinatimes.com/
 chinaway.org
 chinesenewsnet.com
+chromeexperiments.com
 |http://dev.chromium.org/
 psiphon.civisec.org
 |http://www.civisec.org
@@ -108,6 +112,7 @@ lists.debian.org
 http://www.destroydebtwithcashgifting.com
 discuss.com.hk
 |http://www.docbook.org/
+dongde.com
 http://doubleaf.com
 www.download.com/Freegate/3000-2085_4-10415391.html
 |http://www.dpp.org.tw/
@@ -149,16 +154,18 @@ getchu.com
 zh.globalvoicesonline.org
 
 !-------------Google.ghs-----
+http://developer.android.com
 source.android.com
 http://blog.chromium.org
-!--|http://log.keso.cn
+mclee.foolme.net
 http://blog.friendfeed.com
+feeds.gawker.com
 blog.jsquaredjavascript.com
+feeds.mobileread.com
 http://blog.nihilogic.dk
 http://rss.slashdot.org
 www.techfob.com
 http://blog.twitter.com
-http://developer.android.com
 
 !-------------Google.other-----
 @@|https://www.google.com/reader/
@@ -250,6 +257,7 @@ ntdtv.com
 
 !--------------------------O--------------------------
 observechina.net
+old-cat.net
 omnitalk.
 /on.cc/*
 .on.cc/
@@ -470,6 +478,7 @@ upcoming.yahoo.com
 hk.messages.yahoo.com
 |http://blog.yam.com/
 news.yam.com
+forum.yorkbbs.ca
 |http://www.youpai.org/
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
