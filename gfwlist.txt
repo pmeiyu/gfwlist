@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: nwVcmSs8BHpj+GfpGukEXw
-! Last Modified:  Mon, 27 Apr 2009 14:16:56 +0800
+! Checksum: +aV69/gQpgJZ0bIxaq+PJg
+! Last Modified:  Mon, 27 Apr 2009 17:31:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -52,6 +52,7 @@ bignews.org
 |http://www.bloglines.com
 |http://rconversation.blogs.com/
 .blogsome.com
+book-bot.com
 
 !-------------BlogSpot-----
 2newcenturynet.blogspot.com
@@ -137,6 +138,7 @@ blog.flickr.net
 !--|http://farm1.static.flickr.com/
 !--|http://farm2.static.flickr.com/
 www.forum4hk.com
+freeciv.org
 freeforums.org/
 freemoren.com/
 |http://www.freenet-china.org/
@@ -168,7 +170,7 @@ www.techfob.com
 http://blog.twitter.com
 
 !-------------Google.other-----
-@@|https://www.google.com/reader/
+@@|https://www.google.com/
 !--.jaiku.com
 !--google.com*analytics*zh-CN
 !--feedproxy.google.com
@@ -218,10 +220,12 @@ libertytimes.com.tw
 |http://cle.linux.org.tw/
 
 !-------------live spaces-----
-|http://portis21.spaces.live.com/
-|http://siyi123123123.spaces.live.com
-|http://wangyi64.spaces.live.com/
-|http://wenyunchao.spaces.live.com/
+@@|https://*.live.com/
+portis21.spaces.live.com/
+siyi123123123.spaces.live.com
+wangyi64.spaces.live.com/
+wenyunchao.spaces.live.com/
+zhllg.spaces.live.com
 
 |http://www.livejournal.com
 
@@ -272,8 +276,10 @@ mypaper.pchome.com.tw
 |http://news.pchome.com.tw/
 .peacefire.org
 peacehall.com
+perfdynamics.com
 philly.com
 blog.pixnet.com
+plurk.com
 psiphon.ca
 |http://www.ptt.cc/
 
@@ -354,6 +360,7 @@ v2ex.com
 www.vansky.com
 |http://www.visuwords.com/
 |http://www.voanews.com/
+www.voy.com
 
 !--------------------------W--------------------------
 .we.bs/
@@ -414,14 +421,20 @@ zh.wikipedia.org/wiki/%E8%8A%B1%E5%9B%AD%E8%BD%AF%E4%BB%B6
 zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
 !--Jin Dun Gong Cheng
 zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
+!--Lin Guo Xiong
+zh.wikipedia.org*%E6%A2%81%E5%9C%8B%E9%9B%84
 !--Liu Si Shi Jian
 zh.wikipedia.org*%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
 !--Mei Guo Zhi Yin
 zh.wikipedia.org*%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3
+!--Si Wu Xing Dong
+zh.wikipedia.org*%E5%9B%9B%E4%BA%94%E8%A1%8C%E5%8B%95
 !--Su Jia Tun Shi Jian
 zh.wikipedia.org*%E8%8B%8F%E5%AE%B6%E5%B1%AF%E4%BA%8B%E4%BB%B6
 !--Tian An Men Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
+!--Tian An Men Zi Fen Shi Jian
+zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
 !--Wei Jing Sheng
 zh.wikipedia.org*%E9%AD%8F%E4%BA%AC%E7%94%9F
 !--Wen Chuan Da Di Zhen
@@ -438,12 +451,16 @@ zh.wikipedia.org*%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 zh.wikipedia.org/wiki/%E8%A5%BF%E8%97%8F
 !--Xi Zang Liu Wang Zheng Fu
 zh.wikipedia.org*%E8%A5%BF%E8%97%8F%E6%B5%81%E4%BA%A1%E6%94%BF%E5%BA%9C
+!--Zhao Zi Yang -- Traditional Chinese
+zh.wikipedia.org*%E8%B6%99%E7%B4%AB%E9%99%BD
 !--Zhong Guo Da Lu Feng Suo Wei JI Mei Ti Shi Jian
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%B0%81%E9%94%81%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E4%BA%8B%E4%BB%B6
 !--Zhong Guo Da Lu Wang Luo Feng Suo
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%B6%B2%E8%B7%AF%E5%B0%81%E9%8E%96
 !--Zhong Guo Gong Chan Dang(Zheng Zhi Yun Dong(Lie Biao))/(Zhong Yang Jun Shi Wei Yuan Hui)...
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A
+!--Zhong Guo Gong Chan Dang -- Traditional Chinese
+zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB
 !--Zhong Guo Min Zhu Yun Dong
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8
 !--Zhong Guo Wang Luo Shen Cha
@@ -475,6 +492,7 @@ xinsheng.net
 blog.xuite.net
 
 !--------------------------Y--------------------------
+tw.myblog.yahoo.com
 upcoming.yahoo.com
 hk.messages.yahoo.com
 |http://blog.yam.com/
