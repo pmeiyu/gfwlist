@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: +aV69/gQpgJZ0bIxaq+PJg
-! Last Modified:  Mon, 27 Apr 2009 17:31:08 +0800
+! Checksum: jcivuPahToOs5Z/b7cELLw
+! Last Modified:  Tue, 05 May 2009 16:19:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -331,7 +331,6 @@ tumblr.com
 twisternow.com
 twitter.com/amoiist
 twitter.com/billzhong
-twitter.com/kcome
 twitter.com/nowhere1975
 twitter.com/shizhao
 twitter.com/VOTChinese
