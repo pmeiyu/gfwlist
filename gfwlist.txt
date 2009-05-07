@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: y9bN7g98oxylGbndhvOJsQ
-! Last Modified:  Thu, 07 May 2009 09:27:08 +0800
+! Checksum: 4pq2TX62xGDR2lRPosjkgg
+! Last Modified:  Thu, 07 May 2009 10:06:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -306,6 +306,7 @@ secretchina.com
 blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
+sitetag.us
 sokamonline.com
 soundofhope.org
 .soup.io/
