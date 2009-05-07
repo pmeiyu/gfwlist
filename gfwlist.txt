@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: jcivuPahToOs5Z/b7cELLw
-! Last Modified:  Tue, 05 May 2009 16:19:29 +0800
+! Checksum: y9bN7g98oxylGbndhvOJsQ
+! Last Modified:  Thu, 07 May 2009 09:27:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -87,6 +87,7 @@ www.cafepress.com
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
 changkun.org
+china-week.com
 chinacomments.org
 chinadigitaltimes.net/
 chinagfw.org
@@ -134,7 +135,6 @@ eyny.com
 !--------------------------F--------------------------
 |http://feeds.feedburner.com/
 fillthesquare.org
-blog.flickr.net
 !--|http://farm1.static.flickr.com/
 !--|http://farm2.static.flickr.com/
 www.forum4hk.com
@@ -171,6 +171,9 @@ http://blog.twitter.com
 
 !-------------Google.other-----
 @@|https://www.google.com/
+@@|https://groups.google.com/
+groups.google.com/group/mindex
+groups.google.com/group/cn.bbs.comp.dotnet
 !--.jaiku.com
 !--google.com*analytics*zh-CN
 !--feedproxy.google.com
@@ -267,7 +270,7 @@ omnitalk.
 .on.cc/
 my.opera.com
 www.orchidbbs.com
-|http://osdir.com/
+osdir.com
 
 !--------------------------P--------------------------
 http://www.pbs.org/wgbh/pages/frontline/gate
@@ -316,6 +319,7 @@ blog.symbian.org
 tcno.net*doc*tor
 technologizer.com
 technorati.com
+telecomspace.com
 thepiratebay.org
 china.blogs.time.com
 tiananmenmother.org
@@ -366,6 +370,7 @@ www.voy.com
 .whitehats.com
 www.wangruowang.org
 .webshots.com/
+websitepulse.com/help/testtools.china-test.html
 wenxuecity.com/
 |http://static.wetpaint.com/
 |http://www.wetpaint.com/
@@ -412,6 +417,8 @@ zh.wikipedia.org*%E6%B3%95%E8%BD%AE%E5%8A%9F
 zh.wikipedia.org*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 !--Fang Li Zhi
 zh.wikipedia.org*%E6%96%B9%E5%8A%B1%E4%B9%8B
+!--Hu Jing Tao
+zh.wikipedia.org*%E8%83%A1%E9%94%A6%E6%B6%9B
 !--Hua Guo Feng
 zh.wikipedia.org/wiki/%E5%8D%8E%E5%9B%BD%E9%94%8B
 !--Hua Yuan Ruan Jian
@@ -438,6 +445,8 @@ zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
 zh.wikipedia.org*%E9%AD%8F%E4%BA%AC%E7%94%9F
 !--Wen Chuan Da Di Zhen
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87
+!--Wo De Fen Dou
+zh.wikipedia.org*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Er Kai Xi
 zh.wikipedia.org/wiki/%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C
 !--Wu Guo Jie Ji Zhe
@@ -462,6 +471,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB
 !--Zhong Guo Min Zhu Yun Dong
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8
+!--Zhong Guo Wang Luo Ruan Jian Guo Lv Guan Jian Zi Lie Biao
+zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%BD%AF%E4%BB%B6%E8%BF%87%E6%BB%A4%E5%85%B3%E9%94%AE%E5%AD%97%E5%88%97%E8%A1%A8
 !--Zhong Guo Wang Luo Shen Cha
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !--Zhong Hua Ren Min Gong He Guo Wang Luo Shen Cha
@@ -473,11 +484,11 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 !--Zi You Ya Zhou Dian Tai: zh-hans
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 
-.wordpress.com
-@@http://s.stats.wordpress.com/
-@@http://s1.wordpress.com/
-@@http://s2.wordpress.com/
-@@http://www.wordpress.com
+!--.wordpress.com
+!--@@http://s.stats.wordpress.com/
+!--@@http://s1.wordpress.com/
+!--@@http://s2.wordpress.com/
+!--@@http://www.wordpress.com
 
 worldjournal.com/wj-ch-news.php
 wowwiki.com
@@ -489,6 +500,7 @@ wuerkaixi.com
 xinsheng.net
 |http://www.xinhuanet.org/
 blog.xuite.net
+.xys.org
 
 !--------------------------Y--------------------------
 tw.myblog.yahoo.com
