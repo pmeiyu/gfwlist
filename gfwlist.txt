@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 10OfaaB/MChyQdO2rRsU2g
-! Last Modified:  Wed, 13 May 2009 00:27:02 +0800
+! Checksum: s5/O6hIShMvRe2JdgaA9lA
+! Last Modified:  Fri, 15 May 2009 03:42:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -593,7 +593,7 @@ www.msguancha.com
 |http://www.dailymotion.com/
 |http://orientaldaily.on.cc/
 |http://news.ftv.com.tw/
-|http://www.mitbbs.com/
+mitbbs.com
 |http://www.xys.org/
 gardennetworks.com
 dongtaiwang.com
