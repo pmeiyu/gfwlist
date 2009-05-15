@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: kW3fa+l7Qvs3WKSi+g4Z2A
-! Last Modified:  Fri, 15 May 2009 19:24:17 +0800
+! Checksum: lm89LTCjaBseG1i7AFuhEg
+! Last Modified:  Fri, 15 May 2009 20:45:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -48,7 +48,7 @@ bestforchina.org
 bignews.org
 .blip.tv
 .blog.com/
-|http://www.blogger.com/feeds
+www.blogger.com
 |http://bloglines.com
 |http://www.bloglines.com
 |http://rconversation.blogs.com/
