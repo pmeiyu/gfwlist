@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Me1cJCLB8JlRyWGs1JU0jg
-! Last Modified:  Fri, 15 May 2009 10:28:08 +0800
+! Checksum: d13G7RrryXY7vKnCtrJo9A
+! Last Modified:  Fri, 15 May 2009 15:06:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -147,8 +147,11 @@ freemoren.com/
 |http://www.freenet-china.org/
 freenetproject.org/
 |http://www.freshmeat.net/projects/freenet/
-|http://*friendfeed.com%2Fe
-|http://*friendfeed.com/e
+@@|https://www.friendfeed.com
+@@|https://friendfeed.com
+friendfeed.com%2Fe
+friendfeed.com/e
+friendfeed.com/qifei
 |http://www.fsurf.com/
 .futurechinaforum.org
 
