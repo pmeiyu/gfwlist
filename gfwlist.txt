@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: d13G7RrryXY7vKnCtrJo9A
-! Last Modified:  Fri, 15 May 2009 15:06:30 +0800
+! Checksum: kW3fa+l7Qvs3WKSi+g4Z2A
+! Last Modified:  Fri, 15 May 2009 19:24:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -56,15 +56,16 @@ bignews.org
 book-bot.com
 
 !-------------BlogSpot-----
-2newcenturynet.blogspot.com
-bloooooooogger.blogspot.com
-chinagfw.blogspot.com
-chinaweeks.blogspot.com
-guoweidong.blogspot.com
-riovresbo.blogspot.com
-talkerblog.blogspot.com
-wmrblog.blogspot.com
-yetaai.blogspot.com
+blogspot.com
+!2newcenturynet.blogspot.com
+!bloooooooogger.blogspot.com
+!chinagfw.blogspot.com
+!chinaweeks.blogspot.com
+!guoweidong.blogspot.com
+!riovresbo.blogspot.com
+!talkerblog.blogspot.com
+!wmrblog.blogspot.com
+!yetaai.blogspot.com
 
 .blogware.com
 |http://www.bloodshed.net/
