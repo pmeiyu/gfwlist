@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 7P5NhQnpesw6Li7sMIyLqw
-! Last Modified:  Sun, 17 May 2009 15:19:05 +0800
+! Checksum: 8fMsEeSwI5g0TSUM4Dk5lQ
+! Last Modified:  Tue, 19 May 2009 15:09:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -532,6 +532,7 @@ ytht.net/
 
 !--------------------------Z--------------------------
 |http://luntan.zaobao.com/
+www.zaurus.org.uk
 .zengjinyan.org
 yezimary.spaces.live.com
 zengjinyan.spaces.live.com
