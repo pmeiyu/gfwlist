@@ -1,11 +1,12 @@
 [AutoProxy 0.1.0]
-! Checksum: 8fMsEeSwI5g0TSUM4Dk5lQ
-! Last Modified:  Tue, 19 May 2009 15:09:18 +0800
+! Checksum: Ow4xBn7Av5ytnoJf3OftRw
+! Last Modified:  Sat, 23 May 2009 10:25:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
 |http://nsf.110mb.com
 |http://www.1bao.org
+2-0-0-9.cn
 |http://3cc.cc/
 |http://www.3cc.cc/
 |http://www.4shared.com
@@ -18,7 +19,7 @@
 
 !--------------------------A--------------------------
 www.aboluowang.com
-|http://www.aboutus.org
+.aboutus.org
 |http://www.aidsmuseum.cn/
 alliance.org.hk
 amiblockedornot.com
@@ -89,6 +90,7 @@ www.cafepress.com
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
 changkun.org
+chenjun.com
 china-week.com
 chinacomments.org
 chinadigitaltimes.net/
@@ -227,6 +229,7 @@ kanzhongguo.com
 |http://www.lancsky.com/
 libertytimes.com.tw
 |http://cle.linux.org.tw/
+linuxconfig.org
 
 !-------------live spaces-----
 @@|https://*.live.com/
@@ -254,6 +257,7 @@ mingpaonews.com
 .mingpaotor.com
 .mingpaovan.com
 minzhuzhongguo.org
+.mp/
 |http://www.mpinews.com/
 news.msn.com.tw
 www.msn.com.tw
