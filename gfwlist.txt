@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Ow4xBn7Av5ytnoJf3OftRw
-! Last Modified:  Sat, 23 May 2009 10:25:46 +0800
+! Checksum: 71iD+hB7KSxI72tKaS4WwQ
+! Last Modified:  Sat, 23 May 2009 10:59:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -129,6 +129,7 @@ www.dwheeler.com
 
 !--------------------------E--------------------------
 www.earthhour.org
+ebookee.com.cn
 edoors.com
 |http://www.edubridge.com/
 |http://endsoftpatents.org/
@@ -137,6 +138,7 @@ etree.org/
 eyny.com
 
 !--------------------------F--------------------------
+feedbooks.mobi
 |http://feeds.feedburner.com/
 feer.com
 fillthesquare.org
@@ -266,6 +268,7 @@ www.msn.com.tw
 |http://vids.myspace.com/
 
 !--------------------------N--------------------------
+naol.ca/
 netcolony.com
 |http://www.newsvine.com/
 ngensis.com
@@ -436,6 +439,8 @@ zh.wikipedia.org/wiki/%E5%8D%8E%E5%9B%BD%E9%94%8B
 zh.wikipedia.org/wiki/%E8%8A%B1%E5%9B%AD%E8%BD%AF%E4%BB%B6
 !--Hua Yuan Wang
 zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
+!--Huang Que Xing Dong
+zh.wikipedia.org*%E9%BB%83%E9%9B%80%E8%A1%8C%E5%8B%95
 !--Jin Dun Gong Cheng
 zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Lin Guo Xiong
