@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 71iD+hB7KSxI72tKaS4WwQ
-! Last Modified:  Sat, 23 May 2009 10:59:25 +0800
+! Checksum: iaHgwJcNO4+OVqkGDTfhfQ
+! Last Modified:  Mon, 25 May 2009 02:45:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -247,6 +247,7 @@ zhllg.spaces.live.com
 mail-archive.com
 |http://cq.mail163.to/
 www.manning.com
+markmail.org*message
 |http://www.mathtunnel.com/
 mediafire.com
 |http://memedia.cn/
@@ -268,6 +269,7 @@ www.msn.com.tw
 |http://vids.myspace.com/
 
 !--------------------------N--------------------------
+|http://www.nakedcapitalism.com
 naol.ca/
 netcolony.com
 |http://www.newsvine.com/
@@ -321,6 +323,8 @@ news.sina.com.tw
 news.sina.com.hk
 sitetag.us
 sokamonline.com
+|http://www.songza.com/
+|http://songza.com/
 soundofhope.org
 .soup.io/
 starcraft2.com
