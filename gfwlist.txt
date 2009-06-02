@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: NFdelfz8U6mTHRQZ1b1Bsw
-! Last Modified:  Mon, 25 May 2009 10:01:26 +0800
+! Checksum: W+YJTAw0Fi6LZd9/XB17rA
+! Last Modified:  Tue, 02 Jun 2009 22:34:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -47,6 +47,7 @@ bbc.co.uk*chinese
 beijingspring.com
 bestforchina.org
 bignews.org
+bing.com
 .blip.tv
 .blog.com/
 .blogger.com
@@ -142,6 +143,7 @@ feedbooks.mobi
 |http://feeds.feedburner.com/
 feer.com
 fillthesquare.org
+flickr.com
 !--|http://farm1.static.flickr.com/
 !--|http://farm2.static.flickr.com/
 www.forum4hk.com
@@ -234,12 +236,13 @@ libertytimes.com.tw
 linuxconfig.org
 
 !-------------live spaces-----
-@@|https://*.live.com/
-portis21.spaces.live.com/
-siyi123123123.spaces.live.com
-wangyi64.spaces.live.com/
-wenyunchao.spaces.live.com/
-zhllg.spaces.live.com
+live.com
+!@@|https://*.live.com/
+!portis21.spaces.live.com/
+!siyi123123123.spaces.live.com
+!wangyi64.spaces.live.com/
+!wenyunchao.spaces.live.com/
+!zhllg.spaces.live.com
 
 |http://www.livejournal.com
 
@@ -352,18 +355,19 @@ tsquare.tv
 tumblr.com
 .gov.tw/
 twisternow.com
-twitter.com/amoiist
-twitter.com/billzhong
-twitter.com/nowhere1975
-twitter.com/shizhao
-twitter.com/VOTChinese
-twitter.com/wenyunchao
-twitter.com/zengjinyan
-twitter.com/zuola
-@@|https://twitter.com/
-|http://apiwiki.twitter.com/
-|http://dev.twitter.com/
-|http://status.twitter.com/
+twitter.com
+!twitter.com/amoiist
+!twitter.com/billzhong
+!twitter.com/nowhere1975
+!twitter.com/shizhao
+!twitter.com/VOTChinese
+!twitter.com/wenyunchao
+!twitter.com/zengjinyan
+!twitter.com/zuola
+!@@|https://twitter.com/
+!|http://apiwiki.twitter.com/
+!|http://dev.twitter.com/
+!|http://status.twitter.com/
 
 !--------------------------U--------------------------
 |http://blog.udn.com/
@@ -528,6 +532,7 @@ blog.xuite.net
 
 !--------------------------Y--------------------------
 tw.myblog.yahoo.com
+tw.yahoo.com
 upcoming.yahoo.com
 hk.messages.yahoo.com
 |http://blog.yam.com/
