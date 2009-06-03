@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: qzLCLO/DLehjLCBDcewVTg
-! Last Modified:  Wed, 03 Jun 2009 14:24:41 +0800
+! Checksum: 3/qQTYrRhRRT8NnFQvO8/w
+! Last Modified:  Wed, 03 Jun 2009 14:37:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -293,7 +293,7 @@ www.orchidbbs.com
 osdir.com
 
 !--------------------------P--------------------------
-pwerapple.com/
+powerapple.com/
 http://www.pbs.org/wgbh/pages/frontline/gate
 pbwiki.com
 mypaper.pchome.com.tw
