@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: gBvl/d4aQDWWHerMhKDhcw
-! Last Modified:  Tue, 02 Jun 2009 22:47:34 +0800
+! Checksum: qzLCLO/DLehjLCBDcewVTg
+! Last Modified:  Wed, 03 Jun 2009 14:24:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -117,6 +117,7 @@ cuihua.org
 dajiyuan.com
 lists.debian.org
 http://www.destroydebtwithcashgifting.com
+de-sci.org/
 discuss.com.hk
 |http://www.docbook.org/
 dongde.com
@@ -292,6 +293,7 @@ www.orchidbbs.com
 osdir.com
 
 !--------------------------P--------------------------
+pwerapple.com/
 http://www.pbs.org/wgbh/pages/frontline/gate
 pbwiki.com
 mypaper.pchome.com.tw
