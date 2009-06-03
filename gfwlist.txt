@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 3/qQTYrRhRRT8NnFQvO8/w
-! Last Modified:  Wed, 03 Jun 2009 14:37:45 +0800
+! Checksum: Fj80z2Yf7TfpSsvfRh0kiA
+! Last Modified:  Wed, 03 Jun 2009 20:05:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -167,6 +167,7 @@ gaopi.com
 getchu.com
 |http://www.globalinternetfreedom.org/
 zh.globalvoicesonline.org
+blog.growlforwindows.com
 
 !-------------Google.ghs-----
 http://developer.android.com
