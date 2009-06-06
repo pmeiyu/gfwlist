@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: gbK+6ezmeT7ZDPCOzssuVQ
-! Last Modified:  Sat, 06 Jun 2009 14:46:55 +0800
+! Checksum: eRxWuZHBfocaNlIa+5hWXg
+! Last Modified:  Sat, 06 Jun 2009 16:00:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -218,6 +218,7 @@ great-firewall.com
 |http://www.hemidemi.com/
 myweb.hinet.net
 |http://times.hinet.net/
+hkreporter.com
 hotmail.com
 |http://www.hungerstrikeforaids.org
 
