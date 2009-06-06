@@ -1,12 +1,13 @@
 [AutoProxy 0.1.0]
-! Checksum: Yj3Fik0djMs8Qt87n+8y7A
-! Last Modified:  Fri, 05 Jun 2009 21:35:15 +0800
+! Checksum: gbK+6ezmeT7ZDPCOzssuVQ
+! Last Modified:  Sat, 06 Jun 2009 14:46:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
 |http://nsf.110mb.com
 |http://www.1bao.org
 2-0-0-9.cn
+3boys2girls.com
 |http://3cc.cc/
 |http://www.3cc.cc/
 |http://www.4shared.com
@@ -97,7 +98,8 @@ china-week.com
 chinacomments.org
 chinadigitaltimes.net/
 chinagfw.org
-.chinatimes.com/
+chinasmack.com
+chinatimes.com
 chinaway.org
 chinesenewsnet.com
 chromeexperiments.com
@@ -112,6 +114,7 @@ commandlineisking.com
 |http://www.coolloud.org.tw/
 crd-net.org
 creaders.net
+crocodyl.org
 cuihua.org
 
 !--------------------------D--------------------------
@@ -136,12 +139,14 @@ www.earthhour.org
 ebookee.com.cn
 edoors.com
 |http://www.edubridge.com/
+eltondisney.com
 |http://endsoftpatents.org/
 epochtimes.com
 etree.org/
 eyny.com
 
 !--------------------------F--------------------------
+fangeming.com
 feedbooks.mobi
 |http://feeds.feedburner.com/
 feer.com
@@ -322,6 +327,8 @@ renminbao.com
 robertmao.com
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
+rthk.org.hk
+ruten.com.tw
 
 !--------------------------S--------------------------
 |http://s.scribd.com/
@@ -352,6 +359,7 @@ thepiratebay.org
 china.blogs.time.com
 tiananmenmother.org
 .tianzhu.org
+tibet.net
 http://www.time.com/time/time100/leaders/profile/rebel.html
 tldp.org
 torproject.org
@@ -376,9 +384,8 @@ twitter.com
 !|http://status.twitter.com/
 
 !--------------------------U--------------------------
-|http://blog.udn.com/
-|http://city.udn.com/
-|http://paper.udn.com/
+/udn.com
+.udn.com
 uncyclopedia.
 |http://unifoundry.com/
 |http://www.unknownspace.org/
@@ -395,6 +402,7 @@ www.vansky.com
 www.voy.com
 
 !--------------------------W--------------------------
+wavesandbox.com
 .we.bs/
 .whitehats.com
 www.wangruowang.org
@@ -537,10 +545,11 @@ blog.xuite.net
 .xys.org
 
 !--------------------------Y--------------------------
-tw.myblog.yahoo.com
-tw.yahoo.com
-upcoming.yahoo.com
+hk.yahoo.com
 hk.messages.yahoo.com
+tw.myblog.yahoo.com
+upcoming.yahoo.com
+tw.yahoo.com
 |http://blog.yam.com/
 news.yam.com
 forum.yorkbbs.ca
