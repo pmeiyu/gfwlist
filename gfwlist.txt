@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: eRxWuZHBfocaNlIa+5hWXg
-! Last Modified:  Sat, 06 Jun 2009 16:00:43 +0800
+! Checksum: P+7zETuctKFWBsWL65aL4A
+! Last Modified:  Sat, 06 Jun 2009 17:48:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -557,6 +557,7 @@ forum.yorkbbs.ca
 |http://www.youpai.org/
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
+youthbao.com
 topic.youthwant.com.tw
 blog.youthwant.com.tw
 youtube.com
