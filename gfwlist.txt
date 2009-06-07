@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 0Ok5gv96L+xPtDIiN7sNAA
-! Last Modified:  Sun, 07 Jun 2009 12:24:50 +0800
+! Checksum: OKhTcN+nTTTCdsqyjI9wnw
+! Last Modified:  Sun, 07 Jun 2009 22:26:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -116,6 +116,7 @@ crd-net.org
 creaders.net
 crocodyl.org
 cuihua.org
+code.jquery.com
 
 !--------------------------D--------------------------
 |http://ak.*.dailymotion.com/
@@ -221,6 +222,8 @@ myweb.hinet.net
 hkreporter.com
 hotmail.com
 |http://www.hungerstrikeforaids.org
+hk-pub.com
+hulu.com
 
 !--------------------------I--------------------------
 |http://i1.hk/
@@ -281,6 +284,8 @@ www.msn.com.tw
 |http://mxexpress.twbbs.org/
 |http://www.mycould.com/
 |http://vids.myspace.com/
+web.mac.com
+homepage.mac.com
 
 !--------------------------N--------------------------
 |http://www.nakedcapitalism.com
@@ -300,6 +305,7 @@ omnitalk.
 my.opera.com
 www.orchidbbs.com
 osdir.com
+oizoblog.com
 
 !--------------------------P--------------------------
 powerapple.com/
@@ -348,6 +354,7 @@ squarespace.com
 starcraft2.com
 usinfo.state.gov
 blog.symbian.org
+skype.com
 
 !--------------------------T--------------------------
 |http://tansioksiok.com/
@@ -422,6 +429,8 @@ wikidot.com
 */88.80.13.160/*
 wikia.com
 secure.wikimedia.org
+weijingsheng.org
+www.wet123.com
 
 !-------------en.WikiPedia-----
 en.wikipedia.org/wiki/Book_burning
@@ -684,5 +693,3 @@ hk.geocities.com
 .exblog.jp
 .ftv.com.tw
 etaiwannews.com
-web.mac.com
-homepage.mac.com
