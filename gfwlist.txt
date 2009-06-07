@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: P+7zETuctKFWBsWL65aL4A
-! Last Modified:  Sat, 06 Jun 2009 17:48:15 +0800
+! Checksum: 0Ok5gv96L+xPtDIiN7sNAA
+! Last Modified:  Sun, 07 Jun 2009 12:24:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -684,4 +684,5 @@ hk.geocities.com
 .exblog.jp
 .ftv.com.tw
 etaiwannews.com
-
+web.mac.com
+homepage.mac.com
