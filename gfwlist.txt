@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: OKhTcN+nTTTCdsqyjI9wnw
-! Last Modified:  Sun, 07 Jun 2009 22:26:50 +0800
+! Checksum: pVnrt9Z4Ep27OzO0HKcHew
+! Last Modified:  Mon, 08 Jun 2009 09:27:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -109,6 +109,7 @@ psiphon.civisec.org
 .cjb.net
 ck101.com
 cmule.com
+rss.cnn.com
 |http://codepad.org/
 commandlineisking.com
 |http://www.coolloud.org.tw/
