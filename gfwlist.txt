@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: gXEwVD4G/aMHPe5VC3EniQ
-! Last Modified:  Tue, 09 Jun 2009 09:08:33 +0800
+! Checksum: mRDf7WR7lNzUk3kyZb0TLA
+! Last Modified:  Tue, 09 Jun 2009 11:58:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -249,6 +249,7 @@ kanzhongguo.com
 libertytimes.com.tw
 |http://cle.linux.org.tw/
 linuxconfig.org
+laomiu.com
 
 !-------------live spaces-----
 live.com
@@ -322,6 +323,7 @@ blog.pixnet.com
 plurk.com
 psiphon.ca
 |http://www.ptt.cc/
+picturesocial.com
 
 !--------------------------Q--------------------------
 |http://pixel.quantserve.com/
@@ -391,6 +393,7 @@ twisternow.com
 !|http://apiwiki.twitter.com/
 !|http://dev.twitter.com/
 !|http://status.twitter.com/
+tube8.com
 
 !--------------------------U--------------------------
 /udn.com
@@ -618,10 +621,8 @@ search?q=safeweb
 
 !------UnSorted---------------------------------------
 
-
-
-|http://dlstatusbar.proboards43.com/
 |http://www.wretch.cc/
+|http://dlstatusbar.proboards43.com/
 |http://maomy.motime.com/
 |http://ch.shvoong.com/
 |http://www.leninlee.cn/
