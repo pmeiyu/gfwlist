@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: mRDf7WR7lNzUk3kyZb0TLA
-! Last Modified:  Tue, 09 Jun 2009 11:58:35 +0800
+! Checksum: zJkxWvMK9dkAzOX0YNV4JQ
+! Last Modified:  Tue, 09 Jun 2009 15:39:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -48,7 +48,7 @@ bbc.co.uk*chinese
 beijingspring.com
 bestforchina.org
 bignews.org
-bing.com
+!--bing.com
 .blip.tv
 /blip.tv
 .blog.com/
@@ -260,7 +260,7 @@ live.com
 !wenyunchao.spaces.live.com/
 !zhllg.spaces.live.com
 
-|http://www.livejournal.com
+!--http://www.livejournal.com
 
 !--------------------------M--------------------------
 mail-archive.com
@@ -663,7 +663,6 @@ fireofliberty.org
 chinesepen.org
 blog.iphone-dev.org
 avatron.com
-livejournal.com
 .catb.org
 /dwnews.com
 zh.wikipedia.org*wiki*GFW
