@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: zJkxWvMK9dkAzOX0YNV4JQ
-! Last Modified:  Tue, 09 Jun 2009 15:39:20 +0800
+! Checksum: N2alYnph7Slfn/gzh8BzVA
+! Last Modified:  Tue, 16 Jun 2009 23:22:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -177,6 +177,7 @@ getchu.com
 |http://www.globalinternetfreedom.org/
 zh.globalvoicesonline.org
 blog.growlforwindows.com
+.unblog.fr
 
 !-------------Google.ghs-----
 http://developer.android.com
@@ -195,6 +196,7 @@ http://blog.twitter.com
 !-------------Google.other-----
 @@|https://www.google.com/
 @@|https://groups.google.com/
+http://groups.google.com/
 groups.google.com/group/mindex
 groups.google.com/group/cn.bbs.comp.dotnet
 !--.jaiku.com
@@ -339,6 +341,7 @@ robertmao.com
 |http://www.rsf-chinese.org/
 rthk.org.hk
 ruten.com.tw
+ranyunfei.com
 
 !--------------------------S--------------------------
 |http://s.scribd.com/
@@ -394,6 +397,7 @@ twisternow.com
 !|http://dev.twitter.com/
 !|http://status.twitter.com/
 tube8.com
+tynsoe.org
 
 !--------------------------U--------------------------
 /udn.com
