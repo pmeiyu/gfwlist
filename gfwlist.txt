@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: N2alYnph7Slfn/gzh8BzVA
-! Last Modified:  Tue, 16 Jun 2009 23:22:14 +0800
+! Checksum: D5cPX7cJuYOw7fEqTATRmQ
+! Last Modified:  Tue, 16 Jun 2009 23:32:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 !-------------------------Num--------------------------
 1-apple.com.tw
@@ -177,7 +177,6 @@ getchu.com
 |http://www.globalinternetfreedom.org/
 zh.globalvoicesonline.org
 blog.growlforwindows.com
-.unblog.fr
 
 !-------------Google.ghs-----
 http://developer.android.com
@@ -409,6 +408,8 @@ uncyclopedia.
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 .uwants.com
+.unblog.fr
+unblog.fr
 
 !--------------------------V--------------------------
 v2ex.com
