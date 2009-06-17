@@ -1,7 +1,8 @@
 [AutoProxy 0.1.0]
-! Checksum: D5cPX7cJuYOw7fEqTATRmQ
-! Last Modified:  Tue, 16 Jun 2009 23:32:51 +0800
+! Checksum: JpXDLD+aUQL8DQcBl3dAhA
+! Last Modified:  Wed, 17 Jun 2009 11:37:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
+
 !-------------------------Num--------------------------
 1-apple.com.tw
 |http://nsf.110mb.com
@@ -103,7 +104,6 @@ chinatimes.com
 chinaway.org
 chinesenewsnet.com
 chromeexperiments.com
-|http://dev.chromium.org/
 psiphon.civisec.org
 |http://www.civisec.org
 .cjb.net
@@ -138,6 +138,7 @@ www.dwheeler.com
 
 !--------------------------E--------------------------
 www.earthhour.org
+easylinuxcds.com
 ebookee.com.cn
 edoors.com
 |http://www.edubridge.com/
@@ -169,6 +170,7 @@ freenetproject.org/
 |http://*friendfeed.com/chinese-at-ff
 |http://*friendfeed.com/qifei
 |http://www.fsurf.com/
+.ftv.com.tw
 .futurechinaforum.org
 
 !--------------------------G--------------------------
@@ -176,15 +178,17 @@ gaopi.com
 getchu.com
 |http://www.globalinternetfreedom.org/
 zh.globalvoicesonline.org
-blog.growlforwindows.com
 
 !-------------Google.ghs-----
 http://developer.android.com
 source.android.com
 http://blog.chromium.org
+codereview.chromium.org
+|http://dev.chromium.org/
 mclee.foolme.net
 http://blog.friendfeed.com
 feeds.gawker.com
+blog.growlforwindows.com
 blog.jsquaredjavascript.com
 feeds.mobileread.com
 http://blog.nihilogic.dk
@@ -195,19 +199,14 @@ http://blog.twitter.com
 !-------------Google.other-----
 @@|https://www.google.com/
 @@|https://groups.google.com/
-http://groups.google.com/
 groups.google.com/group/mindex
 groups.google.com/group/cn.bbs.comp.dotnet
-!--.jaiku.com
-!--google.com*analytics*zh-CN
-!--feedproxy.google.com
+google.com*analytics*zh-CN
 !--|http://pages.google.com/
 !--|http://www.google.com/url*ct=clnk
 !--.googlepages.com/
 |http://docs.google.com/View?docid=
 
-gospelherald.com.tw
-gospelherald.com.hk
 gospelherald.com
 gpass1.com
 |http://www.gproxy.com
@@ -222,7 +221,6 @@ great-firewall.com
 myweb.hinet.net
 |http://times.hinet.net/
 hkreporter.com
-hotmail.com
 |http://www.hungerstrikeforaids.org
 hk-pub.com
 hulu.com
@@ -253,15 +251,13 @@ linuxconfig.org
 laomiu.com
 
 !-------------live spaces-----
-live.com
-!@@|https://*.live.com/
-!portis21.spaces.live.com/
-!siyi123123123.spaces.live.com
-!wangyi64.spaces.live.com/
-!wenyunchao.spaces.live.com/
-!zhllg.spaces.live.com
+@@|https://*.live.com/
+portis21.spaces.live.com/
+siyi123123123.spaces.live.com
+wangyi64.spaces.live.com/
+wenyunchao.spaces.live.com/
+zhllg.spaces.live.com
 
-!--http://www.livejournal.com
 
 !--------------------------M--------------------------
 mail-archive.com
@@ -311,20 +307,21 @@ osdir.com
 oizoblog.com
 
 !--------------------------P--------------------------
-powerapple.com/
-http://www.pbs.org/wgbh/pages/frontline/gate
+pbs.org/wgbh/pages/frontline/gate
+pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
 mypaper.pchome.com.tw
 |http://news.pchome.com.tw/
-.peacefire.org
+peacefire.org
 peacehall.com
 perfdynamics.com
 philly.com
+picturesocial.com
 blog.pixnet.com
 plurk.com
+powerapple.com/
 psiphon.ca
 |http://www.ptt.cc/
-picturesocial.com
 
 !--------------------------Q--------------------------
 |http://pixel.quantserve.com/
@@ -343,7 +340,7 @@ ruten.com.tw
 ranyunfei.com
 
 !--------------------------S--------------------------
-|http://s.scribd.com/
+scribd.com
 secretchina.com
 .settv.com
 blog.sina.com.tw
@@ -358,8 +355,8 @@ soundofhope.org
 squarespace.com
 starcraft2.com
 usinfo.state.gov
-blog.symbian.org
-skype.com
+sysresccd.org
+
 
 !--------------------------T--------------------------
 |http://tansioksiok.com/
@@ -383,20 +380,22 @@ tumblr.com
 .gov.tw/
 twisternow.com
 !--twitter.com
-!twitter.com/amoiist
-!twitter.com/billzhong
-!twitter.com/nowhere1975
-!twitter.com/shizhao
-!twitter.com/VOTChinese
-!twitter.com/wenyunchao
-!twitter.com/zengjinyan
-!twitter.com/zuola
-!@@|https://twitter.com/
-!|http://apiwiki.twitter.com/
-!|http://dev.twitter.com/
-!|http://status.twitter.com/
+twitter.com/amoiist
+twitter.com/billzhong
+twitter.com/nowhere1975
+twitter.com/shizhao
+twitter.com/VOTChinese
+twitter.com/wenyunchao
+twitter.com/zengjinyan
+twitter.com/zuola
+@@|https://twitter.com/
+@@|https://www.twitter.com/
+|http://apiwiki.twitter.com/
+|http://dev.twitter.com/
+|http://status.twitter.com/
 tube8.com
 tynsoe.org
+voyage.typepad.com/china/
 
 !--------------------------U--------------------------
 /udn.com
@@ -408,7 +407,6 @@ uncyclopedia.
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 .uwants.com
-.unblog.fr
 unblog.fr
 
 !--------------------------V--------------------------
@@ -425,21 +423,20 @@ wavesandbox.com
 www.wangruowang.org
 .webshots.com/
 websitepulse.com/help/testtools.china-test.html
+weijingsheng.org
 wenxuecity.com/
+www.wet123.com
 |http://static.wetpaint.com/
 |http://www.wetpaint.com/
 |http://www.wetpaintinjected.com/
 |http://widget.wetpaintserv.us/
-|http://evchk.wikia.com/
+wikia.com
 wikidot.com
 @@static.wikidot.com
 .wikileaks.org/
 !-WikiLeaks IP
 */88.80.13.160/*
-wikia.com
 secure.wikimedia.org
-weijingsheng.org
-www.wet123.com
 
 !-------------en.WikiPedia-----
 en.wikipedia.org/wiki/Book_burning
@@ -457,18 +454,12 @@ zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5
 zh.wikipedia.org*%E6%9F%B4%E7%8E%B2
 !--Da Ji Yuan
 zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83
-!--Da Ji Yuan Shi Bao
-zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83%E6%99%82%E5%A0%B1
 !--Da Ji Yuan Shi Bao: zh-cn
 zh.wikipedia.org*%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
 !--Da She Guo JI
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 !--E Luo Si
 zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
-!--Fa Lun Gong
-zh.wikipedia.org*%E6%B3%95%E8%BC%AA%E5%8A%9F
-!--Fa Lun Gong: zh-hans
-zh.wikipedia.org*%E6%B3%95%E8%BD%AE%E5%8A%9F
 !--Fang Huo Chang Cheng
 zh.wikipedia.org*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 !--Fang Li Zhi
@@ -539,12 +530,11 @@ zh.wikipedia.org*%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zhou
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
-!--Zi You Ya Zhou Dian Tai: zh-hans
-zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 
 !-------------Wordpress Blog-----
 blog.flickr.com
 blog.flickr.net
+blog.symbian.org
 .wordpress.com
 @@http://s.stats.wordpress.com/
 @@http://s1.wordpress.com/
@@ -557,18 +547,23 @@ wuerkaixi.com
 .wujie.net
 
 !--------------------------X--------------------------
-|http://www.xanga.com/
+.xanga.com
 xinsheng.net
 |http://www.xinhuanet.org/
 blog.xuite.net
 .xys.org
 
 !--------------------------Y--------------------------
+
+!-------------Yahoo-----
 hk.yahoo.com
 hk.messages.yahoo.com
+hk.news.yahoo.com
+hk.search.yahoo.com
+tw.yahoo.com
 tw.myblog.yahoo.com
 upcoming.yahoo.com
-tw.yahoo.com
+
 |http://blog.yam.com/
 news.yam.com
 forum.yorkbbs.ca
@@ -576,8 +571,8 @@ forum.yorkbbs.ca
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
 youthbao.com
-topic.youthwant.com.tw
 blog.youthwant.com.tw
+topic.youthwant.com.tw
 youtube.com
 !--hk.youtube.com
 !--tw.youtube.com
@@ -604,6 +599,10 @@ search?q=safeweb
 |http://*%E5%8A%A8%E6%80%81%E7%BD%91
 !--fa lun da fa
 |http://*%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
+!--Fa Lun Gong: Traditional Chinese
+|http://*%E6%B3%95%E8%BC%AA%E5%8A%9F
+!--Fa Lun Gong: Simplified Chinese
+|http://*%E6%B3%95%E8%BD%AE%E5%8A%9F
 !--Jiang Liu Mang
 |http://*search*%E6%B1%9F%E6%B5%81%E6%B0%93
 !--Liu Si
@@ -616,6 +615,8 @@ search?q=safeweb
 |http://*%E6%B0%91%E8%BF%90
 !--Qun Ti Mie Jue
 |http://*search*%E7%BE%A4%E4%BD%93%E7%81%AD%E7%BB%9D
+!--Tian An Men
+google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Wang Dan
 |http://*%E7%8E%8B%E4%B8%B9
 !--Xie E
@@ -650,10 +651,7 @@ www.msguancha.com
 |http://mysinablog.com/
 |http://www.kwongwah.com.my/
 |http://www.dailymotion.com/
-|http://orientaldaily.on.cc/
-|http://news.ftv.com.tw/
 mitbbs.com
-|http://www.xys.org/
 gardennetworks.com
 dongtaiwang.com
 bolin.netfirms.com
@@ -669,11 +667,9 @@ chinesepen.org
 blog.iphone-dev.org
 avatron.com
 .catb.org
-/dwnews.com
 zh.wikipedia.org*wiki*GFW
 .islam.org.hk
 thumbnails.truveo.com
-hk.search.yahoo.com/search
 video.aol.com
 dailymotion.com*cn
 .cpj.org
@@ -687,9 +683,7 @@ http://www.catholic.org.tw/
 .evanlife.org.hk
 .hkjp.org
 hkjp.easyweb.hk
-.xanga.com
 .roodo.com
-.youthwant.com.tw
 hk.geocities.com
 .tistory.com
 .vox.com/
@@ -697,5 +691,4 @@ hk.geocities.com
 .chingcheong.com
 .longhair.hk
 .exblog.jp
-.ftv.com.tw
 etaiwannews.com
