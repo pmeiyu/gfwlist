@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: zbqHdHtHGvne67qD6cf9xA
-! Last Modified:  Wed, 17 Jun 2009 11:54:31 +0800
+! Checksum: njgXIwIvJyoEN6oNF659PQ
+! Last Modified:  Fri, 19 Jun 2009 12:04:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -343,6 +343,7 @@ ranyunfei.com
 scribd.com
 secretchina.com
 .settv.com
+shizhao.org
 blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
