@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: I2apChGn3wTzqxMRb5zyiQ
-! Last Modified:  Fri, 19 Jun 2009 12:16:31 +0800
+! Checksum: hWkAza03J6CIEy9uveHaDQ
+! Last Modified:  Sat, 20 Jun 2009 14:06:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -178,6 +178,7 @@ gaopi.com
 getchu.com
 |http://www.globalinternetfreedom.org/
 zh.globalvoicesonline.org
+gizmo967.mgs3.org
 
 !-------------Google.ghs-----
 http://developer.android.com
@@ -224,6 +225,7 @@ hkreporter.com
 |http://www.hungerstrikeforaids.org
 hk-pub.com
 hulu.com
+.hotlinkimage.com
 
 !--------------------------I--------------------------
 |http://i1.hk/
@@ -322,6 +324,7 @@ plurk.com
 powerapple.com/
 psiphon.ca
 |http://www.ptt.cc/
+plays.com.tw
 
 !--------------------------Q--------------------------
 |http://pixel.quantserve.com/
