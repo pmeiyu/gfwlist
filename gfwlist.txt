@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 3j6522Da61r+Lp6QQ+OEbQ
-! Last Modified:  Thu, 25 Jun 2009 16:14:21 +0800
+! Checksum: TuEKaI07fQWrysCKQXOSKQ
+! Last Modified:  Thu, 25 Jun 2009 21:29:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -83,6 +83,7 @@ boxun.com
 bullogger.com
 
 !--------------------------C--------------------------
+canyu.org
 |http://caodan.net
 |http://www.carnegieendowment.org
 www.ccdtr.org
@@ -131,6 +132,7 @@ dongde.com
 http://doubleaf.com
 www.download.com/Freegate/3000-2085_4-10415391.html
 |http://www.dpp.org.tw/
+http://dropbox.com
 duping.net
 dw-world.de
 www.dwheeler.com
@@ -139,7 +141,7 @@ www.dwheeler.com
 !--------------------------E--------------------------
 www.earthhour.org
 easylinuxcds.com
-ebookee.com.cn
+ebookee.com
 edoors.com
 |http://www.edubridge.com/
 eltondisney.com
@@ -153,6 +155,7 @@ fangeming.com
 feedbooks.mobi
 |http://feeds.feedburner.com/
 feer.com
+filestube.com
 fillthesquare.org
 !--flickr.com
 !--|http://farm1.static.flickr.com/
@@ -160,6 +163,7 @@ fillthesquare.org
 www.forum4hk.com
 kineox.free.fr
 freeciv.org
+freeflowlife.net
 freeforums.org/
 freemoren.com/
 |http://www.freenet-china.org/
@@ -174,6 +178,7 @@ freenetproject.org/
 .futurechinaforum.org
 
 !--------------------------G--------------------------
+gaopi.co.cc
 gaopi.com
 getchu.com
 |http://www.globalinternetfreedom.org/
@@ -185,6 +190,7 @@ source.android.com
 http://blog.chromium.org
 codereview.chromium.org
 |http://dev.chromium.org/
+www.dropbox.com
 mclee.foolme.net
 http://blog.friendfeed.com
 feeds.gawker.com
@@ -193,9 +199,11 @@ blog.jsquaredjavascript.com
 kunalanand.com
 feeds.mobileread.com
 http://blog.nihilogic.dk
+blog.persistent.info
 http://rss.slashdot.org
 www.techfob.com
 http://blog.twitter.com
+www.willhains.com
 
 !-------------Google.other-----
 @@|https://www.google.com/
@@ -292,6 +300,7 @@ homepage.mac.com
 |http://www.nakedcapitalism.com
 naol.ca/
 netcolony.com
+newstin.com
 |http://www.newsvine.com/
 ngensis.com
 |http://taiwanyes.ning.com/group/taiwanpower
@@ -335,6 +344,7 @@ qxbbs.org/
 !--------------------------R--------------------------
 www.radioaustralia.net.au*chinese*articles*
 renminbao.com
+revver.com
 robertmao.com
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
@@ -347,6 +357,7 @@ scribd.com
 secretchina.com
 .settv.com
 shizhao.org
+simpleproductivityblog.com
 blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
@@ -429,6 +440,7 @@ wavesandbox.com
 www.wangruowang.org
 .webshots.com/
 websitepulse.com/help/testtools.china-test.html
+webworkerdaily.com
 weijingsheng.org
 wenxuecity.com/
 www.wet123.com
@@ -534,6 +546,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zhou
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
+
+http://willhains.com
 
 !-------------Wordpress Blog-----
 blog.flickr.com
