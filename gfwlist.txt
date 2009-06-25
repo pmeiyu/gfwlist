@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: NIhFBFct0/eAct0367nmLA
-! Last Modified:  Thu, 25 Jun 2009 15:07:53 +0800
+! Checksum: 3j6522Da61r+Lp6QQ+OEbQ
+! Last Modified:  Thu, 25 Jun 2009 16:14:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -190,6 +190,7 @@ http://blog.friendfeed.com
 feeds.gawker.com
 blog.growlforwindows.com
 blog.jsquaredjavascript.com
+kunalanand.com
 feeds.mobileread.com
 http://blog.nihilogic.dk
 http://rss.slashdot.org
@@ -239,6 +240,7 @@ jieshibaobao.com
 |http://jpra1113.org
 
 !--------------------------K--------------------------
+karayou.com
 kanzhongguo.com
 |http://www.kmt.org.tw/
 |http://www.kzeng.info/
@@ -383,6 +385,7 @@ tumblr.com
 twisternow.com
 !--twitter.com
 twitter.com/amoiist
+twitter.com/BeiJing1989
 twitter.com/billzhong
 twitter.com/nowhere1975
 twitter.com/shizhao
