@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: TuEKaI07fQWrysCKQXOSKQ
-! Last Modified:  Thu, 25 Jun 2009 21:29:48 +0800
+! Checksum: CNcry8BUFDRqIgEGH9T8wg
+! Last Modified:  Fri, 26 Jun 2009 02:37:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -23,6 +23,7 @@
 www.aboluowang.com
 .aboutus.org
 |http://www.aidsmuseum.cn/
+allhabit.com
 alliance.org.hk
 amiblockedornot.com
 .amnesty.org
@@ -230,6 +231,7 @@ great-firewall.com
 myweb.hinet.net
 |http://times.hinet.net/
 hkreporter.com
+hrichina.org
 |http://www.hungerstrikeforaids.org
 hk-pub.com
 hulu.com
@@ -506,6 +508,8 @@ zh.wikipedia.org*%E8%8B%8F%E5%AE%B6%E5%B1%AF%E4%BA%8B%E4%BB%B6
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
+!--Wang Wei Lin
+zh.wikipedia.org*%E7%8E%8B%E7%BB%B4%E6%9E%97
 !--Wei Jing Sheng
 zh.wikipedia.org*%E9%AD%8F%E4%BA%AC%E7%94%9F
 !--Wen Chuan Da Di Zhen
@@ -536,6 +540,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB
 !--Zhong Guo Min Zhu Yun Dong
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8
+!--Zhong (Hua Ren Min Gong He) Guo Ren Quan
+zh.wikipedia.org*%E4%B8%AD*%E5%9B%BD%E4%BA%BA%E6%9D%83
 !--Zhong Guo Wang Luo Ruan Jian Guo Lv Guan Jian Zi Lie Biao
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%BD%AF%E4%BB%B6%E8%BF%87%E6%BB%A4%E5%85%B3%E9%94%AE%E5%AD%97%E5%88%97%E8%A1%A8
 !--Zhong Guo Wang Luo Shen Cha
