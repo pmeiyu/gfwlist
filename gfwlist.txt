@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: nUGvdy9HzO0jg/KArEOI5A
-! Last Modified:  Sat, 27 Jun 2009 20:18:27 +0800
+! Checksum: k+QtpXeYHOR8n6rDCeHNuA
+! Last Modified:  Sun, 28 Jun 2009 08:45:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -60,7 +60,9 @@ bignews.org
 |http://www.bloglines.com
 |http://rconversation.blogs.com/
 .blogsome.com
+bolour.com
 book-bot.com
+box.net/
 
 !-------------BlogSpot-----
 .blogspot.com
@@ -305,6 +307,8 @@ naol.ca/
 netcolony.com
 newstin.com
 |http://www.newsvine.com/
+hk*.nextmedia.com
+tw*.nextmedia.com
 ngensis.com
 |http://taiwanyes.ning.com/group/taiwanpower
 ntdtv.com
@@ -359,6 +363,7 @@ ranyunfei.com
 scribd.com
 secretchina.com
 .settv.com
+shaunthesheep.com
 shizhao.org
 simpleproductivityblog.com
 blog.sina.com.tw
@@ -407,7 +412,7 @@ twitter.com/VOTChinese
 twitter.com/wenyunchao
 twitter.com/wumao
 twitter.com/zengjinyan
-twitter.com/zuola
+!twitter.com/zuola
 @@|https://twitter.com/
 @@|https://www.twitter.com/
 |http://apiwiki.twitter.com/
