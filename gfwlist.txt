@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: k+QtpXeYHOR8n6rDCeHNuA
-! Last Modified:  Sun, 28 Jun 2009 08:45:01 +0800
+! Checksum: MG1VfQ+4EimZuUSFh++4XQ
+! Last Modified:  Mon, 29 Jun 2009 10:55:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -573,6 +573,7 @@ blog.symbian.org
 
 worldjournal.com/wj-ch-news.php
 wowwiki.com
+wretch.cc
 wuerkaixi.com
 .wujie.net
 
@@ -657,7 +658,6 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 
 !------UnSorted---------------------------------------
 
-|http://www.wretch.cc/
 |http://dlstatusbar.proboards43.com/
 |http://maomy.motime.com/
 |http://ch.shvoong.com/
