@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: /l6Qb67+qNF+lx6Xo7wNKg
-! Last Modified:  Wed, 01 Jul 2009 14:11:07 +0800
+! Checksum: 4MyXSugLS0d//IMskOyvtg
+! Last Modified:  Wed, 01 Jul 2009 14:30:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -133,7 +133,6 @@ discuss.com.hk
 |http://www.docbook.org/
 dongde.com
 http://doubleaf.com
-www.download.com/Freegate/3000-2085_4-10415391.html
 |http://www.dpp.org.tw/
 http://dropbox.com
 duping.net
@@ -622,6 +621,7 @@ search?q=cache
 search%3Fq%3Dcache
 search?q=safeweb
 |http://*falun
+|http://*freegate
 |http://*Ultrareach
 
 !--dong tai wang
