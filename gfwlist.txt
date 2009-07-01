@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: YgkKEpiuTHfvbZb/p49nyw
-! Last Modified:  Wed, 01 Jul 2009 14:35:29 +0800
+! Checksum: Lg9RVCriSrb1VY5YnIK4rQ
+! Last Modified:  Wed, 01 Jul 2009 14:38:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -622,7 +622,8 @@ search%3Fq%3Dcache
 search?q=safeweb
 |http://*falun
 |http://*freegate
-|http://*Ultrareach
+|http://*ultrareach
+|http://*ultrasurf
 
 !--IP of Hua Yuan Wang
 72.52.81.22
