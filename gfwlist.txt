@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Lg9RVCriSrb1VY5YnIK4rQ
-! Last Modified:  Wed, 01 Jul 2009 14:38:06 +0800
+! Checksum: GPZTXShgBzIwjUZbAsjeXw
+! Last Modified:  Wed, 01 Jul 2009 15:08:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -227,6 +227,7 @@ great-firewall.com
 !--------------------------H--------------------------
 |http://hackaday.com/
 |http://www.heartyit.com/
+hellotxt.com*user
 |http://www.hemidemi.com/
 myweb.hinet.net
 |http://times.hinet.net/
