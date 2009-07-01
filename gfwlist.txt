@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: MG1VfQ+4EimZuUSFh++4XQ
-! Last Modified:  Mon, 29 Jun 2009 10:55:54 +0800
+! Checksum: /l6Qb67+qNF+lx6Xo7wNKg
+! Last Modified:  Wed, 01 Jul 2009 14:11:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -60,9 +60,6 @@ bignews.org
 |http://www.bloglines.com
 |http://rconversation.blogs.com/
 .blogsome.com
-bolour.com
-book-bot.com
-box.net/
 
 !-------------BlogSpot-----
 .blogspot.com
@@ -79,9 +76,11 @@ box.net/
 .blogware.com
 |http://www.bloodshed.net/
 bloomfortune.com
+bolour.com
+book-bot.com
 |http://www.books.com.tw/
-box.net/shared/p1t0nfxzrd
-box.net/shared/ymcm3k0cy8
+.box.net
+/box.net
 boxun.com
 |http://mckk.bplaced.net
 bullogger.com
@@ -185,7 +184,6 @@ freenetproject.org/
 gaopi.co.cc
 gaopi.com
 getchu.com
-|http://www.globalinternetfreedom.org/
 zh.globalvoicesonline.org
 
 !-------------Google.ghs-----
@@ -245,7 +243,7 @@ hulu.com
 hp.infoseek.co.jp/
 |http://www.im.tv/
 |http://www.inmediahk.net/
-|http://www.internetfreedom.org/
+internetfreedom.org
 
 !--------------------------J--------------------------
 jieshibaobao.com
