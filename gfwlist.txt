@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: GPZTXShgBzIwjUZbAsjeXw
-! Last Modified:  Wed, 01 Jul 2009 15:08:26 +0800
+! Checksum: F4/o+CN4nuNClPGVULlttA
+! Last Modified:  Sun, 05 Jul 2009 05:31:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -23,7 +23,7 @@
 www.aboluowang.com
 .aboutus.org
 |http://www.aidsmuseum.cn/
-blog.aiweiwei.com
+|http://*blog.aiweiwei.com
 allhabit.com
 alliance.org.hk
 amiblockedornot.com
