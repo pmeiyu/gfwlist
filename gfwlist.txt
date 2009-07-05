@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: lbH0r+2Ccj6hqwDmS08keQ
-! Last Modified:  Sun, 05 Jul 2009 10:58:52 +0800
+! Checksum: wqTuB+r5P+mMtY4TreFinw
+! Last Modified:  Sun, 05 Jul 2009 23:01:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -497,6 +497,8 @@ zh.wikipedia.org/wiki/%E5%8D%8E%E5%9B%BD%E9%94%8B
 zh.wikipedia.org/wiki/%E8%8A%B1%E5%9B%AD%E8%BD%AF%E4%BB%B6
 !--Hua Yuan Wang
 zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
+!--Huang Qi
+zh.wikipedia.org*%E9%BB%84%E7%90%A6
 !--Huang Que Xing Dong
 zh.wikipedia.org*%E9%BB%83%E9%9B%80%E8%A1%8C%E5%8B%95
 !--Jin Dun Gong Cheng
