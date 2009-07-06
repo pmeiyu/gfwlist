@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: wqTuB+r5P+mMtY4TreFinw
-! Last Modified:  Sun, 05 Jul 2009 23:01:22 +0800
+! Checksum: vq88eoJpSQL5jkwutDHvWA
+! Last Modified:  Mon, 06 Jul 2009 14:37:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -55,7 +55,7 @@ bignews.org
 .blip.tv
 /blip.tv
 .blog.com/
-.blogger.com
+|http://*blogger.com
 |http://bloglines.com
 |http://www.bloglines.com
 |http://rconversation.blogs.com/
