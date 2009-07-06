@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: vq88eoJpSQL5jkwutDHvWA
-! Last Modified:  Mon, 06 Jul 2009 14:37:13 +0800
+! Checksum: TPsZqxnF5Um1zF0IXnMQ3w
+! Last Modified:  Mon, 06 Jul 2009 19:21:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -25,6 +25,7 @@ www.aboluowang.com
 |http://www.aidsmuseum.cn/
 |http://*blog.aiweiwei.com
 allhabit.com
+bbs.allhabit.com
 alliance.org.hk
 amiblockedornot.com
 .amnesty.org
@@ -48,6 +49,7 @@ backchina.com
 baidu.jp/
 |http://www.barnabu.co.uk
 bbc.co.uk*chinese
+newsvote.bbc.co.uk
 beijingspring.com
 bestforchina.org
 bignews.org
@@ -284,6 +286,7 @@ mediafire.com
 middle-way.net
 .minghui.org
 www.mingpao.com
+inews.mingpao.com
 mingpaonews.com
 |http://www.mingpaony.com/
 .mingpaosf.com
@@ -401,7 +404,7 @@ tsquare.tv
 tumblr.com
 .gov.tw/
 twisternow.com
-!--twitter.com
+twitter.com
 twitter.com/amoiist
 twitter.com/BeiJing1989
 twitter.com/billzhong
@@ -432,6 +435,7 @@ uncyclopedia.
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 .uwants.com
 unblog.fr
+uighurbiz.net
 
 !--------------------------V--------------------------
 v2ex.com
