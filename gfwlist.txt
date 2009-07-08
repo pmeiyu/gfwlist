@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: qWVh690pKHdCPyZghkd29A
-! Last Modified:  Wed, 08 Jul 2009 12:29:59 +0800
+! Checksum: ikXsFu2fc1nvj5L3mzf4rQ
+! Last Modified:  Wed, 08 Jul 2009 12:40:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -156,6 +156,9 @@ eyny.com
 
 !--------------------------F--------------------------
 facebook.com
+!--facebook cdn
+fbcdn.net
+
 fangeming.com
 feedbooks.mobi
 |http://feeds.feedburner.com/
