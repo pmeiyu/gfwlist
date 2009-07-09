@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ikXsFu2fc1nvj5L3mzf4rQ
-! Last Modified:  Wed, 08 Jul 2009 12:40:53 +0800
+! Checksum: bA6tgZRz3Xltu1SaM+cJ8w
+! Last Modified:  Thu, 09 Jul 2009 11:02:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -27,6 +27,7 @@ www.aboluowang.com
 allhabit.com
 bbs.allhabit.com
 alliance.org.hk
+|http://*www.amazon.com
 amiblockedornot.com
 .amnesty.org
 amnestyusa.org
