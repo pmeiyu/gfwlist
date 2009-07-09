@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: +sPwJDrTb9N6S1R0RNK8LQ
-! Last Modified:  Thu, 09 Jul 2009 11:09:28 +0800
+! Checksum: Y3yRym8QrGb8zbfztMBvwg
+! Last Modified:  Thu, 09 Jul 2009 16:41:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -410,21 +410,21 @@ tumblr.com
 .gov.tw/
 twisternow.com
 twitter.com
-twitter.com/amoiist
-twitter.com/BeiJing1989
-twitter.com/billzhong
-twitter.com/nowhere1975
-twitter.com/shizhao
-twitter.com/VOTChinese
-twitter.com/wenyunchao
-twitter.com/wumao
-twitter.com/zengjinyan
+!-twitter.com/amoiist
+!-twitter.com/BeiJing1989
+!-twitter.com/billzhong
+!-twitter.com/nowhere1975
+!-twitter.com/shizhao
+!-twitter.com/VOTChinese
+!-twitter.com/wenyunchao
+!-twitter.com/wumao
+!-twitter.com/zengjinyan
 !twitter.com/zuola
-@@|https://twitter.com/
-@@|https://www.twitter.com/
-|http://apiwiki.twitter.com/
-|http://dev.twitter.com/
-|http://status.twitter.com/
+!-@@|https://twitter.com/
+!-@@|https://www.twitter.com/
+!-|http://apiwiki.twitter.com/
+!-|http://dev.twitter.com/
+!-|http://status.twitter.com/
 tube8.com
 tynsoe.org
 voyage.typepad.com/china/
