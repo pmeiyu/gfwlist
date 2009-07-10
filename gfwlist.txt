@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: vm6aJUeqTkUf/lpXc3899w
-! Last Modified:  Fri, 10 Jul 2009 20:46:35 +0800
+! Checksum: NDmGZYM18/1EyljCZHX1Zg
+! Last Modified:  Fri, 10 Jul 2009 21:20:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -170,7 +170,7 @@ fillthesquare.org
 !--flickr.com
 !--|http://farm1.static.flickr.com/
 !--|http://farm2.static.flickr.com/
-farm4.static.flickr.com
+!--|http://farm4.static.flickr.com
 www.forum4hk.com
 kineox.free.fr
 freeciv.org
