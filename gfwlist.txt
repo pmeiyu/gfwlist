@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: PcWDQXYWpnqmvg0eOXBJwQ
-! Last Modified:  Fri, 10 Jul 2009 11:08:44 +0800
+! Checksum: 65S7MG4bTGCsOs2wwJuVjg
+! Last Modified:  Fri, 10 Jul 2009 18:24:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -63,6 +63,7 @@ bignews.org
 |http://www.bloglines.com
 |http://rconversation.blogs.com/
 .blogsome.com
+backpackers.com.tw
 
 !-------------BlogSpot-----
 .blogspot.com
@@ -428,6 +429,7 @@ twitter.com
 tube8.com
 tynsoe.org
 voyage.typepad.com/china/
+thkphoto.com
 
 !--------------------------U--------------------------
 /udn.com
