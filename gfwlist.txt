@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: v0jMn4puGTylmY0DcFA/VQ
-! Last Modified:  Sun, 12 Jul 2009 16:57:03 +0800
+! Checksum: z/Wa3Kqk0F3b6GiGQbjAkQ
+! Last Modified:  Sun, 12 Jul 2009 17:25:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -186,6 +186,7 @@ freenetproject.org/
 |http://*friendfeed.com/qifei
 |http://www.fsurf.com/
 .ftv.com.tw
+|http://fuckgfw.com
 fulue.com
 .futurechinaforum.org
 
@@ -228,6 +229,7 @@ google.com*analytics*zh-CN
 |http://docs.google.com/View?docid=
 
 gospelherald.com
+|http://www.govindicators.org
 gpass1.com
 |http://www.gproxy.com
 |http://www.greasespot.net/
@@ -688,6 +690,15 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 
 
 !------UnSorted---------------------------------------
+
+!----Not a keyword, need to be edited in next version of AutoProxy
+icanhascheezburger.com
+tinypaste.com
+plurktemplates.com
+gigaom.com
+
+
+
 
 |http://dlstatusbar.proboards43.com/
 |http://maomy.motime.com/
