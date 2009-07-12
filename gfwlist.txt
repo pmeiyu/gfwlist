@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: NDmGZYM18/1EyljCZHX1Zg
-! Last Modified:  Fri, 10 Jul 2009 21:20:31 +0800
+! Checksum: aSzF4wRqWvWWrEn4uxzEAg
+! Last Modified:  Sun, 12 Jul 2009 13:16:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -496,6 +496,8 @@ zh.wikipedia.org*%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 !--E Luo Si
 zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
+!--E Luo Si - zh-tw
+zh.wikipedia.org*%E4%BF%84%E7%BE%85%E6%96%AF
 !--Fang Huo Chang Cheng
 zh.wikipedia.org*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 !--Fang Li Zhi
