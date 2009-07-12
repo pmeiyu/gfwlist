@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: aSzF4wRqWvWWrEn4uxzEAg
-! Last Modified:  Sun, 12 Jul 2009 13:16:10 +0800
+! Checksum: lviI6UMYvcru0NzcGmGfsw
+! Last Modified:  Sun, 12 Jul 2009 16:51:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -186,6 +186,7 @@ freenetproject.org/
 |http://*friendfeed.com/qifei
 |http://www.fsurf.com/
 .ftv.com.tw
+fulue.com
 .futurechinaforum.org
 
 !--------------------------G--------------------------
@@ -240,6 +241,7 @@ hellotxt.com*user
 |http://www.hemidemi.com/
 myweb.hinet.net
 |http://times.hinet.net/
+forum7.hkgolden.com
 hkreporter.com
 hrichina.org
 |http://www.hungerstrikeforaids.org
@@ -313,6 +315,7 @@ homepage.mac.com
 |http://www.nakedcapitalism.com
 naol.ca/
 netcolony.com
+newcenturynews.com
 newstin.com
 |http://www.newsvine.com/
 hk*.nextmedia.com
@@ -364,6 +367,7 @@ robertmao.com
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
 rthk.org.hk
+rti.org.tw
 ruten.com.tw
 ranyunfei.com
 
@@ -590,6 +594,7 @@ blog.symbian.org
 worldjournal.com/wj-ch-news.php
 wowwiki.com
 wretch.cc
+chinese.wsj.com
 wuerkaixi.com
 .wujie.net
 
