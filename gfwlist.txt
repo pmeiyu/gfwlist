@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: lviI6UMYvcru0NzcGmGfsw
-! Last Modified:  Sun, 12 Jul 2009 16:51:11 +0800
+! Checksum: v0jMn4puGTylmY0DcFA/VQ
+! Last Modified:  Sun, 12 Jul 2009 16:57:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -348,6 +348,7 @@ philly.com
 picturesocial.com
 blog.pixnet.com
 plurk.com
+timnew.posterous.com
 powerapple.com/
 psiphon.ca
 |http://www.ptt.cc/
