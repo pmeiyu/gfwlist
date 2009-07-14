@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: wc4wiSceKUi6Lcta9Un4VQ
-! Last Modified:  Mon, 13 Jul 2009 22:21:37 +0800
+! Checksum: Yrd3mcenq7nlRjBumpvR6g
+! Last Modified:  Wed, 15 Jul 2009 02:10:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -243,7 +243,7 @@ great-firewall.com
 !--------------------------H--------------------------
 |http://hackaday.com/
 |http://www.heartyit.com/
-hellotxt.com*user
+hellotxt.com
 |http://www.hemidemi.com/
 myweb.hinet.net
 |http://times.hinet.net/
@@ -316,6 +316,7 @@ www.msn.com.tw
 |http://vids.myspace.com/
 web.mac.com
 homepage.mac.com
+mm36c.com
 
 !--------------------------N--------------------------
 |http://www.nakedcapitalism.com
@@ -441,6 +442,7 @@ tube8.com
 tynsoe.org
 voyage.typepad.com/china/
 thkphoto.com
+tibet.woeser.com
 
 !--------------------------U--------------------------
 /udn.com
