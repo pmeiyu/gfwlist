@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 60Lo+Mk0OTcLJDrBTD6OGQ
-! Last Modified:  Wed, 15 Jul 2009 15:20:30 +0800
+! Checksum: LhsCGcGh3gzUPmxZspfozA
+! Last Modified:  Wed, 15 Jul 2009 17:59:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -703,7 +703,7 @@ icanhascheezburger.com
 tinypaste.com
 plurktemplates.com
 gigaom.com
-
+sshgfw.com
 
 
 
