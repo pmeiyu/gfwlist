@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ovC/5WHQ0kKcJunPJ5w6rg
-! Last Modified:  Thu, 16 Jul 2009 20:28:00 +0800
+! Checksum: nA/SCi5GkgC527Zex8jZ5g
+! Last Modified:  Thu, 16 Jul 2009 20:33:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -198,7 +198,6 @@ gaopi.co.cc
 gaopi.com
 getchu.com
 zh.globalvoicesonline.org
-ggpht.com
 
 !-------------Google.ghs-----
 !-http://developer.android.com
@@ -220,6 +219,7 @@ ggpht.com
 !-www.techfob.com
 !-http://blog.twitter.com
 !-www.willhains.com
+.ggpht.com
 
 !-------------Google.other-----
 @@|https://docs.google.com
