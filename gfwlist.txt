@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: LhsCGcGh3gzUPmxZspfozA
-! Last Modified:  Wed, 15 Jul 2009 17:59:31 +0800
+! Checksum: ovC/5WHQ0kKcJunPJ5w6rg
+! Last Modified:  Thu, 16 Jul 2009 20:28:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -198,6 +198,7 @@ gaopi.co.cc
 gaopi.com
 getchu.com
 zh.globalvoicesonline.org
+ggpht.com
 
 !-------------Google.ghs-----
 !-http://developer.android.com
@@ -232,6 +233,7 @@ groups.google.com*group*mindex
 groups.google.com*group*cn.bbs.comp.dotnet
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
 .googlevideo.com
+picasaweb.google.com
 
 gospelherald.com
 |http://www.govindicators.org
@@ -400,6 +402,7 @@ squarespace.com
 starcraft2.com
 usinfo.state.gov
 sysresccd.org
+skype.com
 
 
 !--------------------------T--------------------------
