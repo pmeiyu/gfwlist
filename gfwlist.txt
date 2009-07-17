@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: nA/SCi5GkgC527Zex8jZ5g
-! Last Modified:  Thu, 16 Jul 2009 20:33:10 +0800
+! Checksum: jCGN4TsUJYLp1BBr5HeNIQ
+! Last Modified:  Fri, 17 Jul 2009 08:54:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -324,6 +324,7 @@ mm36c.com
 !--------------------------N--------------------------
 |http://www.nakedcapitalism.com
 naol.ca/
+net.ru
 netcolony.com
 newcenturynews.com
 newstin.com
