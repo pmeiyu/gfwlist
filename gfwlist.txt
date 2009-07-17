@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 980yQv9A4JFviEuUKelf0g
-! Last Modified:  Fri, 17 Jul 2009 08:57:44 +0800
+! Checksum: jPwt5Q1kBKaTpSVzSW1YSA
+! Last Modified:  Fri, 17 Jul 2009 20:14:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -49,6 +49,7 @@ backchina.com
 baidu.jp/
 |http://www.barnabu.co.uk
 bbc.co.uk*chinese
+bbc.co.uk*zh
 newsvote.bbc.co.uk
 beijingspring.com
 bestforchina.org
@@ -303,6 +304,7 @@ mediafire.com
 |http://memedia.cn/
 middle-way.net
 .minghui.org
+mingpao.com
 www.mingpao.com
 inews.mingpao.com
 mingpaonews.com
@@ -405,7 +407,7 @@ starcraft2.com
 usinfo.state.gov
 sysresccd.org
 skype.com
-
+shenshou.org
 
 !--------------------------T--------------------------
 |http://tansioksiok.com/
