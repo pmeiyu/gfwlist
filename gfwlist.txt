@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: jPwt5Q1kBKaTpSVzSW1YSA
-! Last Modified:  Fri, 17 Jul 2009 20:14:44 +0800
+! Checksum: IH7LZ5rw2HaFECrziJ21Nw
+! Last Modified:  Sat, 18 Jul 2009 17:12:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -305,8 +305,6 @@ mediafire.com
 middle-way.net
 .minghui.org
 mingpao.com
-www.mingpao.com
-inews.mingpao.com
 mingpaonews.com
 |http://www.mingpaony.com/
 .mingpaosf.com
