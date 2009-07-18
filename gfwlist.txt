@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: IH7LZ5rw2HaFECrziJ21Nw
-! Last Modified:  Sat, 18 Jul 2009 17:12:40 +0800
+! Checksum: 7xhEHfsBCm7ZiHb6f78zdw
+! Last Modified:  Sat, 18 Jul 2009 23:37:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -287,10 +287,10 @@ laomiu.com
 
 !-------------live spaces-----
 @@|https://*.live.com/
-portis21.spaces.live.com/
+portis21.spaces.live.com
 siyi123123123.spaces.live.com
-wangyi64.spaces.live.com/
-wenyunchao.spaces.live.com/
+wangyi64.spaces.live.com
+wenyunchao.spaces.live.com
 zhllg.spaces.live.com
 
 
