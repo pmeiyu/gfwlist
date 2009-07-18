@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 7xhEHfsBCm7ZiHb6f78zdw
-! Last Modified:  Sat, 18 Jul 2009 23:37:19 +0800
+! Checksum: 9vmfQbtuaq/pYNt7JlCvyQ
+! Last Modified:  Sun, 19 Jul 2009 07:48:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -503,6 +503,8 @@ en.wikipedia.org/wiki/Internet_censorship
 en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
 
 !-------------zh.WikiPedia-----
+!--Ban Chan
+zh.wikipedia.org*%E7%8F%AD%E7%A6%85
 !--Bei Jing Zhi Chun
 zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5
 !--Cai Ling
@@ -533,8 +535,12 @@ zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
 zh.wikipedia.org*%E9%BB%84%E7%90%A6
 !--Huang Que Xing Dong
 zh.wikipedia.org*%E9%BB%83%E9%9B%80%E8%A1%8C%E5%8B%95
+!--Jiang Ze Min
+zh.wikipedia.org*%E6%B1%9F%E6%B3%BD%E6%B0%91
 !--Jin Dun Gong Cheng
-zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
+zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
+!--Jin Dun Gong Cheng ?
+zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
 !--Lin Guo Xiong
 zh.wikipedia.org*%E6%A2%81%E5%9C%8B%E9%9B%84
 !--Liu Si Shi Jian
@@ -555,6 +561,8 @@ zh.wikipedia.org*%E7%8E%8B%E7%BB%B4%E6%9E%97
 zh.wikipedia.org*%E9%AD%8F%E4%BA%AC%E7%94%9F
 !--Wen Chuan Da Di Zhen
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87
+!--Wen Jia Bao
+zh.wikipedia.org*%E6%B8%A9%E5%AE%B6%E5%AE%9D
 !--Wo De Fen Dou
 zh.wikipedia.org*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Er Kai Xi
