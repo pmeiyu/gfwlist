@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: wH/QSqjBtz2vj9f6BQXwRA
-! Last Modified:  Sun, 19 Jul 2009 22:29:53 +0800
+! Checksum: Uz4iq8hLypCkYBzi6hVjLA
+! Last Modified:  Mon, 20 Jul 2009 01:01:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -416,16 +416,18 @@ technologizer.com
 technorati.com
 telecomspace.com
 thepiratebay.org
-china.blogs.time.com
+thkphoto.com
 tiananmenmother.org
 .tianzhu.org
 tibet.net
+china.blogs.time.com
 http://www.time.com/time/time100/leaders/profile/rebel.html
 tldp.org
 torproject.org
 |http://csai.tsinghua.edu.cn/
 tsquare.tv
 |http://tttan.com/
+tube8.com
 tumblr.com
 .gov.tw/
 twisternow.com
@@ -445,11 +447,9 @@ twitter.com
 !-|http://apiwiki.twitter.com/
 !-|http://dev.twitter.com/
 !-|http://status.twitter.com/
-tube8.com
 tynsoe.org
-voyage.typepad.com/china/
-thkphoto.com
-tibet.woeser.com
+.typepad.com
+@@www.typepad.com
 
 !--------------------------U--------------------------
 /udn.com
@@ -604,6 +604,7 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 
 http://willhains.com
+tibet.woeser.com
 
 !-------------Wordpress Blog-----
 blog.flickr.com
