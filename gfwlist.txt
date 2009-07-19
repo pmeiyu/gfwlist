@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 9vmfQbtuaq/pYNt7JlCvyQ
-! Last Modified:  Sun, 19 Jul 2009 07:48:23 +0800
+! Checksum: wH/QSqjBtz2vj9f6BQXwRA
+! Last Modified:  Sun, 19 Jul 2009 22:29:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -231,6 +231,7 @@ zh.globalvoicesonline.org
 google.com*analytics*zh-CN
 docs.google.com*view*docid
 groups.google.com*group*gfw-blog
+groups.google.com*group*lihlii
 groups.google.com*group*mindex
 groups.google.com*group*cn.bbs.comp.dotnet
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
@@ -640,6 +641,7 @@ tw.myblog.yahoo.com
 upcoming.yahoo.com
 
 |http://blog.yam.com/
+n.yam.com
 news.yam.com
 forum.yorkbbs.ca
 |http://www.youpai.org/
@@ -717,6 +719,12 @@ tinypaste.com
 plurktemplates.com
 gigaom.com
 sshgfw.com
+tvunetworks.com
+miroguide.com
+throughnightsfire.com
+imagesshack.us
+multiply.com
+free-culture.cc
 
 
 
