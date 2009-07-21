@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: TMpTWHjjHK05/vVQeyIcQA
-! Last Modified:  Tue, 21 Jul 2009 22:26:12 +0800
+! Checksum: //DBoWQBl0urQWpgNVV+Sw
+! Last Modified:  Tue, 21 Jul 2009 22:36:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -177,8 +177,9 @@ www.forum4hk.com
 kineox.free.fr
 freeciv.org
 freeflowlife.net
-freeforums.org/
-freemoren.com/
+freeforums.org
+freemoren.com
+freemorenews.com
 |http://www.freenet-china.org/
 freenetproject.org
 |http://www.freshmeat.net/projects/freenet/
