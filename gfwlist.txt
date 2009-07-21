@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: CP3j2BRcGdhoJ/VjSum+iA
-! Last Modified:  Tue, 21 Jul 2009 23:08:18 +0800
+! Checksum: 0NVKMTL1mmNA8m057rVA1g
+! Last Modified:  Wed, 22 Jul 2009 00:13:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -49,7 +49,6 @@ backchina.com
 baidu.jp/
 |http://www.barnabu.co.uk
 bbc.co.uk*chinese
-bbc.co.uk*zh
 newsvote.bbc.co.uk
 beijingspring.com
 bestforchina.org
@@ -543,6 +542,8 @@ zh.wikipedia.org*%E6%B1%9F%E6%B3%BD%E6%B0%91
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Jin Dun Gong Cheng ?
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
+!--Li Yuan Chao
+zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
 !--Lin Guo Xiong
 zh.wikipedia.org*%E6%A2%81%E5%9C%8B%E9%9B%84
 !--Liu Si Shi Jian
@@ -576,9 +577,9 @@ zh.wikipedia.org*%E6%97%A0%E7%95%8C%E7%BD%91%E7%BB%9C
 !--Xi Dan Min Zhu Qiang
 zh.wikipedia.org*%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 !--Xi Zang
-zh.wikipedia.org/wiki/%E8%A5%BF%E8%97%8F
-!--Xi Zang Liu Wang Zheng Fu
-zh.wikipedia.org*%E8%A5%BF%E8%97%8F%E6%B5%81%E4%BA%A1%E6%94%BF%E5%BA%9C
+zh.wikipedia.org*%E8%A5%BF%E8%97%8F
+!--Xie Yan Fei
+zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
 !--Zhao Zi Yang -- Traditional Chinese
 zh.wikipedia.org*%E8%B6%99%E7%B4%AB%E9%99%BD
 !--Zhong Guo Da Lu Feng Suo Wei JI Mei Ti Shi Jian
@@ -599,6 +600,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%BD%AF%E4%BB%B6%E8%BF%87
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !--Zhong Hua Ren Min Gong He Guo Wang Luo Shen Cha
 zh.wikipedia.org*%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
+!--Zhong Ying Xu Ding Zang Yin Tiao Yue
+zh.wikipedia.org*%E4%B8%AD%E8%8B%B1%E7%BA%8C%E8%A8%82%E8%97%8F%E5%8D%B0%E6%A2%9D%E7%B4%84
 !--Zi You Men
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zhou
@@ -711,6 +714,8 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 |http://*search*%E9%82%AA%E6%81%B6
 !--Zhao Zi Yang
 |http://*%E8%B5%B5%E7%B4%AB%E9%98%B3
+!--Zi You Men
+|http://www.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 
 
 !------UnSorted---------------------------------------
@@ -745,7 +750,6 @@ bendiken.net
 |http://www.tycool.com/
 www.msguancha.com
 |http://www.meetup.com/
-|http://www.multiply.com/
 |http://truveo.com/
 |http://funp.com/
 |http://www.oxfam.org.hk/
