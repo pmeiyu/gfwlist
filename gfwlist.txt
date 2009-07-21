@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: //DBoWQBl0urQWpgNVV+Sw
-! Last Modified:  Tue, 21 Jul 2009 22:36:44 +0800
+! Checksum: CP3j2BRcGdhoJ/VjSum+iA
+! Last Modified:  Tue, 21 Jul 2009 23:08:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -473,6 +473,7 @@ www.vansky.com
 www.voy.com
 
 !--------------------------W--------------------------
+wallornot.org
 wavesandbox.com
 .we.bs/
 .whitehats.com
@@ -726,6 +727,8 @@ throughnightsfire.com
 imagesshack.us
 multiply.com
 free-culture.cc
+marco.org
+
 
 
 
