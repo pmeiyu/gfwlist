@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: mNuqTxAtovK3pbE780QulQ
-! Last Modified:  Thu, 23 Jul 2009 12:55:33 +0800
+! Checksum: M5cC3oyF55iYypmdLBPeWQ
+! Last Modified:  Fri, 24 Jul 2009 00:30:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -634,6 +634,7 @@ wuerkaixi.com
 xinsheng.net
 |http://www.xinhuanet.org/
 blog.xuite.net
+.blog.xuite.net
 .xys.org
 
 !--------------------------Y--------------------------
