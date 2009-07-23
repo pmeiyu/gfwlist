@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 0NVKMTL1mmNA8m057rVA1g
-! Last Modified:  Wed, 22 Jul 2009 00:13:56 +0800
+! Checksum: mNuqTxAtovK3pbE780QulQ
+! Last Modified:  Thu, 23 Jul 2009 12:55:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -42,6 +42,7 @@ areca-backup.org
 www.asiademo.org
 .atj.org.tw
 .atnext.com
+avno1.com
 
 !--------------------------B--------------------------
 backchina.com
@@ -322,6 +323,7 @@ www.msn.com.tw
 web.mac.com
 homepage.mac.com
 mm36c.com
+mirrorbooks.com
 
 !--------------------------N--------------------------
 |http://www.nakedcapitalism.com
