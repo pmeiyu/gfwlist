@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: PA3IfHX26uMUHrPckfNGrQ
-! Last Modified:  Fri, 24 Jul 2009 12:33:15 +0800
+! Checksum: lCdv8nVjnV7iBi+mKvO14A
+! Last Modified:  Fri, 24 Jul 2009 12:37:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -391,12 +391,14 @@ scribd.com
 secretchina.com
 .settv.com
 shaunthesheep.com
+shenshou.org
 shizhao.org
 simpleproductivityblog.com
 blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
 sitetag.us
+|http://www.skype.com
 sokamonline.com
 |http://www.songza.com/
 |http://songza.com/
@@ -406,8 +408,6 @@ squarespace.com
 starcraft2.com
 usinfo.state.gov
 sysresccd.org
-skype.com
-shenshou.org
 
 !--------------------------T--------------------------
 |http://tansioksiok.com/
