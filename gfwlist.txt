@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: M5cC3oyF55iYypmdLBPeWQ
-! Last Modified:  Fri, 24 Jul 2009 00:30:16 +0800
+! Checksum: PA3IfHX26uMUHrPckfNGrQ
+! Last Modified:  Fri, 24 Jul 2009 12:33:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -297,6 +297,8 @@ zhllg.spaces.live.com
 
 
 !--------------------------M--------------------------
+homepage.mac.com
+web.mac.com
 mail-archive.com
 |http://cq.mail163.to/
 www.manning.com
@@ -313,17 +315,14 @@ mingpaonews.com
 .mingpaotor.com
 .mingpaovan.com
 minzhuzhongguo.org
+mirrorbooks.com
+mm36c.com
 .mp/
 |http://www.mpinews.com/
 news.msn.com.tw
 www.msn.com.tw
-|http://mxexpress.twbbs.org/
 |http://www.mycould.com/
 |http://vids.myspace.com/
-web.mac.com
-homepage.mac.com
-mm36c.com
-mirrorbooks.com
 
 !--------------------------N--------------------------
 |http://www.nakedcapitalism.com
@@ -432,6 +431,7 @@ tsquare.tv
 tube8.com
 tumblr.com
 .gov.tw/
+|http://mxexpress.twbbs.org/
 twisternow.com
 twitter.com
 !-twitter.com/amoiist
@@ -634,7 +634,6 @@ wuerkaixi.com
 xinsheng.net
 |http://www.xinhuanet.org/
 blog.xuite.net
-.blog.xuite.net
 .xys.org
 
 !--------------------------Y--------------------------
