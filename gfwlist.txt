@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 62ajTWHj6tVhvDZ77SpdsQ
-! Last Modified:  Sat, 25 Jul 2009 13:00:57 +0800
+! Checksum: rjIXK5qg08lkqNRn8lmEhQ
+! Last Modified:  Sat, 25 Jul 2009 22:08:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -180,6 +180,7 @@ freeflowlife.net
 freeforums.org
 freemoren.com
 freemorenews.com
+|http://www.freenas.org
 |http://www.freenet-china.org/
 freenetproject.org
 |http://www.freshmeat.net/projects/freenet/
@@ -355,6 +356,7 @@ pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
 mypaper.pchome.com.tw
 |http://news.pchome.com.tw/
+pdetails.com
 peacefire.org
 peacehall.com
 perfdynamics.com
@@ -404,6 +406,7 @@ sokamonline.com
 |http://songza.com/
 soundofhope.org
 .soup.io/
+|http://my.spill.com
 squarespace.com
 starcraft2.com
 usinfo.state.gov
@@ -432,6 +435,7 @@ tube8.com
 tumblr.com
 .gov.tw/
 |http://mxexpress.twbbs.org/
+xiange.twbbs.org
 twisternow.com
 twitter.com
 !-twitter.com/amoiist
@@ -475,10 +479,9 @@ www.voy.com
 
 !--------------------------W--------------------------
 wallornot.org
+www.wangruowang.org
 wavesandbox.com
 .we.bs/
-.whitehats.com
-www.wangruowang.org
 .webshots.com/
 websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
@@ -489,6 +492,7 @@ www.wet123.com
 |http://www.wetpaint.com/
 |http://www.wetpaintinjected.com/
 |http://widget.wetpaintserv.us/
+.whitehats.com
 wikidot.com
 @@static.wikidot.com
 .wikileaks.org/
@@ -568,6 +572,8 @@ zh.wikipedia.org*%E9%AD%8F%E4%BA%AC%E7%94%9F
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87
 !--Wen Jia Bao
 zh.wikipedia.org*%E6%B8%A9%E5%AE%B6%E5%AE%9D
+!--Wang Le Quan
+zh.wikipedia.org*%E7%8E%8B%E4%B9%90%E6%B3%89
 !--Wo De Fen Dou
 zh.wikipedia.org*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Er Kai Xi
@@ -628,6 +634,7 @@ wretch.cc
 chinese.wsj.com
 wuerkaixi.com
 .wujie.net
+wukangrui.net
 
 !--------------------------X--------------------------
 .xanga.com
@@ -731,7 +738,7 @@ sshgfw.com
 tvunetworks.com
 miroguide.com
 throughnightsfire.com
-imagesshack.us
+imageshack.us
 multiply.com
 free-culture.cc
 marco.org
