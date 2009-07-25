@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: lCdv8nVjnV7iBi+mKvO14A
-! Last Modified:  Fri, 24 Jul 2009 12:37:15 +0800
+! Checksum: 62ajTWHj6tVhvDZ77SpdsQ
+! Last Modified:  Sat, 25 Jul 2009 13:00:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -662,7 +662,7 @@ youtube.com
 !--tw.youtube.com
 !--@@youtube.com/get_video
 !-Youtube CDN
-/s.ytimg.com
+.ytimg.com
 ytht.net/
 
 !--------------------------Z--------------------------
