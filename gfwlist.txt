@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: rjIXK5qg08lkqNRn8lmEhQ
-! Last Modified:  Sat, 25 Jul 2009 22:08:00 +0800
+! Checksum: V765NJLhLlJIRJcO9W+tgw
+! Last Modified:  Tue, 28 Jul 2009 07:17:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -486,6 +486,7 @@ wavesandbox.com
 websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
 weijingsheng.org
+www.wenyunchao.com
 wenxuecity.com/
 www.wet123.com
 |http://static.wetpaint.com/
