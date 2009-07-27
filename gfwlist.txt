@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: V765NJLhLlJIRJcO9W+tgw
-! Last Modified:  Tue, 28 Jul 2009 07:17:22 +0800
+! Checksum: GsQC7l5QmvbS0I7Pu7S3nA
+! Last Modified:  Tue, 28 Jul 2009 07:20:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -166,7 +166,8 @@ fangeming.com
 feedbooks.mobi
 |http://feeds.feedburner.com/
 feer.com
-|http://ff.im/
+http://ff.im
+@@|https://ff.im
 filestube.com
 fillthesquare.org
 !--flickr.com
