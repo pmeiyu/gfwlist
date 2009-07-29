@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 2AtqnFSDwnVAtPRmZN+8kw
-! Last Modified:  Wed, 29 Jul 2009 09:12:37 +0800
+! Checksum: 5Ld5kd8jYLe8yxKCh2bOWQ
+! Last Modified:  Wed, 29 Jul 2009 11:27:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -472,7 +472,6 @@ unblog.fr
 uighurbiz.net
 
 !--------------------------V--------------------------
-v2ex.com
 www.vansky.com
 |http://www.visuwords.com/
 |http://www.voanews.com/
@@ -744,6 +743,8 @@ imageshack.us
 multiply.com
 free-culture.cc
 marco.org
+blog.kickstarter.com
+wiki.js-kit.com
 
 
 
