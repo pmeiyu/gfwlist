@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Shh71xHOW3c4reMhttlzrw
-! Last Modified:  Wed, 29 Jul 2009 11:32:56 +0800
+! Checksum: aXxqN5MlZ1n6V+SszGGhcw
+! Last Modified:  Wed, 29 Jul 2009 11:44:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -543,6 +543,8 @@ zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
 zh.wikipedia.org*%E9%BB%84%E7%90%A6
 !--Huang Que Xing Dong
 zh.wikipedia.org*%E9%BB%83%E9%9B%80%E8%A1%8C%E5%8B%95
+!--Huo Ying Dong
+zh.wikipedia.org*%E9%9C%8D%E8%8B%B1%E6%9D%B1
 !--Jiang Ze Min
 zh.wikipedia.org*%E6%B1%9F%E6%B3%BD%E6%B0%91
 !--Jin Dun Gong Cheng
@@ -591,6 +593,8 @@ zh.wikipedia.org*%E8%A5%BF%E8%97%8F
 zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
 !--Xun Wen Chu
 zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
+!--Yan Ming Fu
+zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
 !--Zhao Zi Yang -- Traditional Chinese
 zh.wikipedia.org*%E8%B6%99%E7%B4%AB%E9%99%BD
 !--Zhong Guo Da Lu Feng Suo Wei JI Mei Ti Shi Jian
