@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 5Ld5kd8jYLe8yxKCh2bOWQ
-! Last Modified:  Wed, 29 Jul 2009 11:27:23 +0800
+! Checksum: Shh71xHOW3c4reMhttlzrw
+! Last Modified:  Wed, 29 Jul 2009 11:32:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -589,6 +589,8 @@ zh.wikipedia.org*%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 zh.wikipedia.org*%E8%A5%BF%E8%97%8F
 !--Xie Yan Fei
 zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
+!--Xun Wen Chu
+zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 !--Zhao Zi Yang -- Traditional Chinese
 zh.wikipedia.org*%E8%B6%99%E7%B4%AB%E9%99%BD
 !--Zhong Guo Da Lu Feng Suo Wei JI Mei Ti Shi Jian
