@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: nhmfSKZ0hh6WNAdvV4VO6Q
-! Last Modified:  Wed, 29 Jul 2009 15:17:50 +0800
+! Checksum: M0nH8apumhYM25a43KHRgQ
+! Last Modified:  Fri, 31 Jul 2009 15:42:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -224,13 +224,14 @@ zh.globalvoicesonline.org
 !-www.techfob.com
 !-http://blog.twitter.com
 !-www.willhains.com
-.ggpht.com
+!-www.writeroom.ws
 
 !-------------Google.other-----
 @@|https://docs.google.com
 @@|https://groups.google.com
 @@|https://spreadsheets.google.com
 @@|https*//www.google.com
+.ggpht.com
 google.com*analytics*zh-CN
 docs.google.com*view*docid
 groups.google.com*group*gfw-blog
