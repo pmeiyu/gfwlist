@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: M0nH8apumhYM25a43KHRgQ
-! Last Modified:  Fri, 31 Jul 2009 15:42:37 +0800
+! Checksum: FLg8NVbyVAvVQd+1V6Ebdw
+! Last Modified:  Sat, 01 Aug 2009 12:50:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -627,6 +627,7 @@ http://willhains.com
 tibet.woeser.com
 
 !-------------Wordpress Blog-----
+blog.drakengren.com
 blog.flickr.com
 blog.flickr.net
 blog.symbian.org
