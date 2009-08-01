@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: FLg8NVbyVAvVQd+1V6Ebdw
-! Last Modified:  Sat, 01 Aug 2009 12:50:14 +0800
+! Checksum: uLr0tX5jsgkrHybupYsgpQ
+! Last Modified:  Sat, 01 Aug 2009 18:29:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -104,6 +104,7 @@ www.cafepress.com
 changkun.org
 chenjun.com
 china-week.com
+china911.org
 chinacomments.org
 chinadigitaltimes.net/
 chinagfw.org
