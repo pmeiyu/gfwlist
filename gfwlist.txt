@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: E2J3s3PwVVF9QMTe962+QA
-! Last Modified:  Tue, 04 Aug 2009 15:59:18 +0800
+! Checksum: w9+Xp3SpgIdeqpCcxm3V6Q
+! Last Modified:  Tue, 04 Aug 2009 16:27:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -289,10 +289,11 @@ kanzhongguo.com
 
 !--------------------------L--------------------------
 |http://www.lancsky.com/
+laomiu.com
 libertytimes.com.tw
 |http://cle.linux.org.tw/
 linuxconfig.org
-laomiu.com
+lipuman.com
 
 !-------------live spaces-----
 @@|https://*.live.com/
