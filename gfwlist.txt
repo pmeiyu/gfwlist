@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: w9+Xp3SpgIdeqpCcxm3V6Q
-! Last Modified:  Tue, 04 Aug 2009 16:27:11 +0800
+! Checksum: o9oXUL96zUUWRecAXbLaGw
+! Last Modified:  Wed, 05 Aug 2009 00:29:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -420,6 +420,7 @@ usinfo.state.gov
 sysresccd.org
 
 !--------------------------T--------------------------
+takungpao.com
 |http://tansioksiok.com/
 .tblog.com
 tcno.net*doc*tor
