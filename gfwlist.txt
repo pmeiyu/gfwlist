@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: /qr/dX6Xl+3CDx+9sam4Gg
-! Last Modified:  Sat, 01 Aug 2009 18:46:27 +0800
+! Checksum: E2J3s3PwVVF9QMTe962+QA
+! Last Modified:  Tue, 04 Aug 2009 15:59:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -273,6 +273,8 @@ hp.infoseek.co.jp/
 |http://www.im.tv/
 |http://www.inmediahk.net/
 internetfreedom.org
+is.gd/1VO1f
+is.gd/1VOp7
 
 !--------------------------J--------------------------
 jieshibaobao.com
