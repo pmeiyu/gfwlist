@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: yq6+K2yloyHq+hFROczZxw
-! Last Modified:  Fri, 07 Aug 2009 10:21:51 +0800
+! Checksum: bwsRTmoJ2c/AYZ/owUUUOw
+! Last Modified:  Fri, 07 Aug 2009 14:46:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -98,7 +98,7 @@ www.ccdtr.org
 www.cdp1998.org
 cdpwu.org
 www.cecc.gov
-www.cafepress.com
+cafepress.com
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
 changkun.org
@@ -474,6 +474,7 @@ uncyclopedia.
 |http://www.url.com.tw/
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
+ustream.tv
 .uwants.com
 unblog.fr
 uighurbiz.net
