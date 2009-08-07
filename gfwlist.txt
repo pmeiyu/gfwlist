@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ye8+Bqmy3/FLMdRsEtBH1Q
-! Last Modified:  Fri, 07 Aug 2009 09:03:14 +0800
+! Checksum: yq6+K2yloyHq+hFROczZxw
+! Last Modified:  Fri, 07 Aug 2009 10:21:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -132,7 +132,7 @@ code.jquery.com
 |http://ak.*.dailymotion.com/
 dajiyuan.com
 danwei.org
-lists.debian.org
+packages.debian.org*zh-cn*lenny*gpass
 http://www.destroydebtwithcashgifting.com
 de-sci.org/
 discuss.com.hk
