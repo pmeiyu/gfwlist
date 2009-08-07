@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: bwsRTmoJ2c/AYZ/owUUUOw
-! Last Modified:  Fri, 07 Aug 2009 14:46:26 +0800
+! Checksum: WtFKPQ/Z8UJOep8G+g/CkA
+! Last Modified:  Fri, 07 Aug 2009 14:49:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -468,16 +468,15 @@ tynsoe.org
 !--------------------------U--------------------------
 /udn.com
 .udn.com
+uighurbiz.net
+unblog.fr
 uncyclopedia.
 |http://unifoundry.com/
 |http://www.unknownspace.org/
-|http://www.url.com.tw/
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ustream.tv
 .uwants.com
-unblog.fr
-uighurbiz.net
 
 !--------------------------V--------------------------
 www.vansky.com
