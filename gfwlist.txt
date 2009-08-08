@@ -1,11 +1,12 @@
 [AutoProxy 0.1.0]
-! Checksum: liYN6pqz4Li3c/HhGBlITQ
-! Last Modified:  Sat, 08 Aug 2009 12:00:49 +0800
+! Checksum: ahxCEWjQNKGVE3+08z7Xnw
+! Last Modified:  Sat, 08 Aug 2009 15:43:24 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
 1-apple.com.tw
 |http://nsf.110mb.com
+1bang1.cn
 |http://www.1bao.org
 2-0-0-9.cn
 3boys2girls.com
