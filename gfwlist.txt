@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: uAy9kRUk/TgDkEAr+Vnovg
-! Last Modified:  Sat, 08 Aug 2009 11:27:28 +0800
+! Checksum: liYN6pqz4Li3c/HhGBlITQ
+! Last Modified:  Sat, 08 Aug 2009 12:00:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -52,6 +52,7 @@ baidu.jp/
 |http://www.barnabu.co.uk
 bbc.co.uk*chinese
 newsvote.bbc.co.uk
+bbsland.com
 beijingspring.com
 bestforchina.org
 bignews.org
