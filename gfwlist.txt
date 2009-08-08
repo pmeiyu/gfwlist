@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 0+U0+fw7qtGuKqpRreOYaw
-! Last Modified:  Sat, 08 Aug 2009 09:52:36 +0800
+! Checksum: CgJd8w3Mhg2Hz6xWmePeFA
+! Last Modified:  Sat, 08 Aug 2009 10:42:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -41,6 +41,7 @@ areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
 .atj.org.tw
+atlaspost.com
 .atnext.com
 avno1.com
 
