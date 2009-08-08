@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ahxCEWjQNKGVE3+08z7Xnw
-! Last Modified:  Sat, 08 Aug 2009 15:43:24 +0800
+! Checksum: JAMLN31+RilFJ+7YU4s+kg
+! Last Modified:  Sat, 08 Aug 2009 18:03:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -32,6 +32,7 @@ amiblockedornot.com
 .amnesty.org
 amnestyusa.org
 |http://www.amoiist.com/
+anchorfree.com
 |http://www.andylau.com
 anonymizer.com
 anonymouse.org
