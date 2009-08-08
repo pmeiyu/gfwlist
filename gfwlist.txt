@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: yu70TU6IR9fYShxNqGSJNg
-! Last Modified:  Sat, 08 Aug 2009 09:24:01 +0800
+! Checksum: 0+U0+fw7qtGuKqpRreOYaw
+! Last Modified:  Sat, 08 Aug 2009 09:52:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -696,11 +696,11 @@ zhongguotese.net
 zuola.com
 
 !--------------------------Other----------------------
-search?q=cache
-search%3Fq%3Dcache
-search?q=safeweb
+gfwProxyEnabled=yes
 |http://*falun
 |http://*freegate
+|http://*search*q*cache
+|http://*search*q*safeweb
 |http://*ultrareach
 |http://*ultrasurf
 
