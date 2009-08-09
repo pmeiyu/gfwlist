@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: JAMLN31+RilFJ+7YU4s+kg
-! Last Modified:  Sat, 08 Aug 2009 18:03:17 +0800
+! Checksum: 3NJE4BRwyDFy9UKsUhCHpQ
+! Last Modified:  Sun, 09 Aug 2009 22:23:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -185,7 +185,6 @@ freeflowlife.net
 freeforums.org
 freemoren.com
 freemorenews.com
-|http://www.freenas.org
 |http://www.freenet-china.org/
 freenetproject.org
 |http://www.freshmeat.net/projects/freenet/
