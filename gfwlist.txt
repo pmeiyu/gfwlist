@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: MbD2wHOBLpF2aLlZYm4fVQ
-! Last Modified:  Tue, 11 Aug 2009 15:35:18 +0800
+! Checksum: hMYLrGB8tCw/BI6PeO2M4w
+! Last Modified:  Tue, 11 Aug 2009 16:49:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -769,6 +769,7 @@ wiki.js-kit.com
 geekatlas.com
 nuexpo.com
 presentationzen.com
+easylife.tw
 
 
 
