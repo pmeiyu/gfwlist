@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: hMYLrGB8tCw/BI6PeO2M4w
-! Last Modified:  Tue, 11 Aug 2009 16:49:37 +0800
+! Checksum: mglqwExS5iYX6gXekWrfgw
+! Last Modified:  Wed, 12 Aug 2009 12:01:15 -0300
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -166,8 +166,8 @@ eyny.com
 facebook.com
 !--facebook cdn
 fbcdn.net
-
 fangeming.com
+blog.feedly.com
 feedbooks.mobi
 feer.com
 http://ff.im
@@ -233,7 +233,7 @@ zh.globalvoicesonline.org
 @@|https://docs.google.com
 @@|https://groups.google.com
 @@|https://spreadsheets.google.com
-@@|https*//www.google.com
+!@@|https*//www.google.com
 .ggpht.com
 google.com*analytics*zh-CN
 docs.google.com*view*docid
