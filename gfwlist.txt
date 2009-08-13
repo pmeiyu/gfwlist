@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: mglqwExS5iYX6gXekWrfgw
-! Last Modified:  Wed, 12 Aug 2009 12:01:15 -0300
+! Checksum: N5jxrcL6yfZnFJP6gdQLjw
+! Last Modified:  Thu, 13 Aug 2009 10:51:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -167,7 +167,6 @@ facebook.com
 !--facebook cdn
 fbcdn.net
 fangeming.com
-blog.feedly.com
 feedbooks.mobi
 feer.com
 http://ff.im
@@ -435,7 +434,6 @@ thkphoto.com
 tiananmenmother.org
 .tianzhu.org
 tibet.net
-china.blogs.time.com
 http://www.time.com/time/time100/leaders/profile/rebel.html
 tldp.org
 torproject.org
@@ -639,9 +637,10 @@ tibet.woeser.com
 
 !-------------Wordpress Blog-----
 blog.drakengren.com
-blog.flickr.com
+blog.feedly.com
 blog.flickr.net
 blog.symbian.org
+china.blogs.time.com
 .wordpress.com
 @@http://s.stats.wordpress.com/
 @@http://s1.wordpress.com/
