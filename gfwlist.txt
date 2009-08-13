@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: N5jxrcL6yfZnFJP6gdQLjw
-! Last Modified:  Thu, 13 Aug 2009 10:51:50 +0800
+! Checksum: ewDobM4afDD4vXDNfcBRmg
+! Last Modified:  Thu, 13 Aug 2009 11:58:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -122,7 +122,6 @@ psiphon.civisec.org
 .cjb.net
 ck101.com
 cmule.com
-rss.cnn.com
 |http://codepad.org/
 commandlineisking.com
 |http://www.coolloud.org.tw/
@@ -151,7 +150,6 @@ www.dwheeler.com
 |http://www.dynawebinc.com/
 
 !--------------------------E--------------------------
-www.earthhour.org
 easylinuxcds.com
 ebookee.com
 edoors.com
@@ -212,18 +210,24 @@ zh.globalvoicesonline.org
 !-http://blog.chromium.org
 !-codereview.chromium.org
 !-|http://dev.chromium.org/
+!-rss.cnn.com
 !-www.dropbox.com
+!-www.earthhour.org
 !-mclee.foolme.net
 !-http://blog.friendfeed.com
 !-feeds.gawker.com
+!-|http://www.greasespot.net/
 !-blog.growlforwindows.com
+!-|http://www.iamfisher.net/
 !-blog.jsquaredjavascript.com
-!-kunalanand.com
+!-www.kunalanand.com
 !-feeds.mobileread.com
+!-|http://www.nakedcapitalism.com
 !-http://blog.nihilogic.dk
 !-blog.persistent.info
 !-http://rss.slashdot.org
 !-www.techfob.com
+!-|http://mxexpress.twbbs.org/
 !-http://blog.twitter.com
 !-www.willhains.com
 !-www.writeroom.ws
@@ -249,7 +253,6 @@ gospelherald.com
 |http://www.govindicators.org
 gpass1.com
 |http://www.gproxy.com
-|http://www.greasespot.net/
 great-firewall.com
 |http://www.gutenberg.org/
 
@@ -269,7 +272,6 @@ hulu.com
 
 !--------------------------I--------------------------
 |http://i1.hk/
-|http://www.iamfisher.net/
 hp.infoseek.co.jp/
 |http://www.im.tv/
 |http://www.inmediahk.net/
@@ -286,6 +288,7 @@ jieshibaobao.com
 karayou.com
 kanzhongguo.com
 |http://www.kmt.org.tw/
+kunalanand.com
 |http://www.kzeng.info/
 
 !--------------------------L--------------------------
@@ -334,7 +337,6 @@ www.msn.com.tw
 |http://vids.myspace.com/
 
 !--------------------------N--------------------------
-|http://www.nakedcapitalism.com
 naol.ca/
 net.ru
 netcolony.com
@@ -381,7 +383,6 @@ plays.com.tw
 !--------------------------Q--------------------------
 |http://pixel.quantserve.com/
 |http://quke.cn
-|http://www.quke.cn
 qxbbs.org/
 
 !--------------------------R--------------------------
@@ -443,7 +444,6 @@ tsquare.tv
 tube8.com
 tumblr.com
 .gov.tw/
-|http://mxexpress.twbbs.org/
 xiange.twbbs.org
 twisternow.com
 twitter.com
