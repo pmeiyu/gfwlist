@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: BfLJLV20QaXg2GeYQLdYVw
-! Last Modified:  Fri, 14 Aug 2009 13:22:14 +0800
+! Checksum: Jd+XZMvgJ5fN9D73Mr+wMw
+! Last Modified:  Fri, 14 Aug 2009 13:28:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -317,7 +317,7 @@ www.manning.com
 markmail.org*message
 |http://www.mathtunnel.com/
 mediafire.com
-|http://memedia.cn/
+memedia.cn
 middle-way.net
 .minghui.org
 mingpao.com
