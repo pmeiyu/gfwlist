@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 4WBdpkKXYQBF2g60U8B0wQ
-! Last Modified:  Fri, 14 Aug 2009 10:43:41 +0800
+! Checksum: JPD6BBN8pVcnX7bVnyYM1w
+! Last Modified:  Fri, 14 Aug 2009 11:12:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -132,7 +132,7 @@ cuihua.org
 code.jquery.com
 
 !--------------------------D--------------------------
-|http://ak.*.dailymotion.com/
+dailymotion.com
 dajiyuan.com
 danwei.org
 packages.debian.org*zh-cn*lenny*gpass
@@ -793,7 +793,6 @@ www.msguancha.com
 .pixnet.net/
 |http://mysinablog.com/
 |http://www.kwongwah.com.my/
-|http://www.dailymotion.com/
 mitbbs.com
 gardennetworks.com
 dongtaiwang.com
@@ -814,7 +813,7 @@ zh.wikipedia.org*wiki*GFW
 .islam.org.hk
 thumbnails.truveo.com
 video.aol.com
-dailymotion.com*cn
+
 .cpj.org
 hkcccl.org.hk
 catholic.org.hk
