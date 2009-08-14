@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: qn4slNvX5gzw915gzOl+KA
-! Last Modified:  Fri, 14 Aug 2009 13:38:27 +0800
+! Checksum: 2wripzeVicbs/VwuYuvFlQ
+! Last Modified:  Fri, 14 Aug 2009 14:11:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -765,6 +765,12 @@ nuexpo.com
 presentationzen.com
 easylife.tw
 failblog.org
+charlescooke.me.uk
+emojiforichat.com
+files.posterous.com
+pingmicro.com
+emojiforichat.com
+kompozer.net
 
 
 
