@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: owWB5Gxw8QNEiEt5Qsffsg
-! Last Modified:  Fri, 14 Aug 2009 13:07:12 +0800
+! Checksum: BfLJLV20QaXg2GeYQLdYVw
+! Last Modified:  Fri, 14 Aug 2009 13:22:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -8,7 +8,6 @@
 |http://nsf.110mb.com
 1bang1.cn
 |http://www.1bao.org
-2-0-0-9.cn
 3boys2girls.com
 |http://3cc.cc/
 |http://www.3cc.cc/
@@ -383,7 +382,6 @@ psiphon.ca
 
 !--------------------------Q--------------------------
 |http://pixel.quantserve.com/
-|http://quke.cn
 qxbbs.org/
 
 !--------------------------R--------------------------
@@ -439,7 +437,6 @@ tibet.net
 http://www.time.com/time/time100/leaders/profile/rebel.html
 tldp.org
 torproject.org
-|http://csai.tsinghua.edu.cn/
 tsquare.tv
 |http://tttan.com/
 tube8.com
@@ -778,7 +775,6 @@ failblog.org
 |http://dlstatusbar.proboards43.com/
 |http://maomy.motime.com/
 |http://ch.shvoong.com/
-|http://www.leninlee.cn/
 |http://www.yzzk.com/
 |http://www.weekmag.info/
 bendiken.net
