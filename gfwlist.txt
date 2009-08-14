@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: JPD6BBN8pVcnX7bVnyYM1w
-! Last Modified:  Fri, 14 Aug 2009 11:12:22 +0800
+! Checksum: vfj9G00SkeklsWHFlCYzZw
+! Last Modified:  Fri, 14 Aug 2009 11:30:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -245,9 +245,10 @@ groups.google.com*group*jieshibaobaozhijia
 groups.google.com*group*lihlii
 groups.google.com*group*mindex
 groups.google.com*group*cn.bbs.comp.dotnet
-spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
-.googlevideo.com
 picasaweb.google.com
+spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
+anti.anti.cnn.googlepages.com
+.googlevideo.com
 
 gospelherald.com
 |http://www.govindicators.org
@@ -813,7 +814,6 @@ zh.wikipedia.org*wiki*GFW
 .islam.org.hk
 thumbnails.truveo.com
 video.aol.com
-
 .cpj.org
 hkcccl.org.hk
 catholic.org.hk
