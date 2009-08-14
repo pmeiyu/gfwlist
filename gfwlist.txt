@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: vfj9G00SkeklsWHFlCYzZw
-! Last Modified:  Fri, 14 Aug 2009 11:30:51 +0800
+! Checksum: owWB5Gxw8QNEiEt5Qsffsg
+! Last Modified:  Fri, 14 Aug 2009 13:07:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -771,6 +771,7 @@ geekatlas.com
 nuexpo.com
 presentationzen.com
 easylife.tw
+failblog.org
 
 
 
