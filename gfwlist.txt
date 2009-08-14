@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 8E7U27CWj+30tHKTISLz+w
-! Last Modified:  Thu, 13 Aug 2009 12:02:00 +0800
+! Checksum: kFFl9jo8A1Vzt56bPGul9g
+! Last Modified:  Fri, 14 Aug 2009 09:35:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -236,7 +236,7 @@ zh.globalvoicesonline.org
 @@|https://docs.google.com
 @@|https://groups.google.com
 @@|https://spreadsheets.google.com
-!@@|https*//www.google.com
+@@|https*//www.google.com
 .ggpht.com
 google.com*analytics*zh-CN
 docs.google.com*view*docid
@@ -373,12 +373,12 @@ perfdynamics.com
 philly.com
 picturesocial.com
 blog.pixnet.com
+plays.com.tw
 plurk.com
 timnew.posterous.com
 powerapple.com/
 psiphon.ca
 |http://www.ptt.cc/
-plays.com.tw
 
 !--------------------------Q--------------------------
 |http://pixel.quantserve.com/
