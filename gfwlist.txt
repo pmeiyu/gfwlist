@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Jd+XZMvgJ5fN9D73Mr+wMw
-! Last Modified:  Fri, 14 Aug 2009 13:28:35 +0800
+! Checksum: qn4slNvX5gzw915gzOl+KA
+! Last Modified:  Fri, 14 Aug 2009 13:38:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -664,12 +664,8 @@ blog.xuite.net
 !--------------------------Y--------------------------
 
 !-------------Yahoo-----
-hk.yahoo.com
-hk.messages.yahoo.com
-hk.news.yahoo.com
-hk.search.yahoo.com
-tw.yahoo.com
-tw.myblog.yahoo.com
+hk.*yahoo.com
+tw.*yahoo.com
 upcoming.yahoo.com
 
 |http://blog.yam.com/
