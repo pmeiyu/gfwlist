@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 3+0BSiuFH11r6/tWc2QPpw
-! Last Modified:  Sat, 29 Aug 2009 20:21:55 +0800
+! Checksum: t/0ydLSROW3h/LgeHLJhBA
+! Last Modified:  Sat, 29 Aug 2009 21:23:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -785,7 +785,9 @@ files.posterous.com
 pingmicro.com
 emojiforichat.com
 kompozer.net
-
+dopdf.com
+dmtcs.org
+cr0.org/
 
 
 |http://dlstatusbar.proboards43.com/
