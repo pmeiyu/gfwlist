@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: HE8LM0UujgkDTEesNvvjSg
-! Last Modified:  Sat, 29 Aug 2009 17:01:15 +0800
+! Checksum: Zp9GqC0EQHZTsbAzKOhRKg
+! Last Modified:  Sat, 29 Aug 2009 17:05:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -714,6 +714,8 @@ gfwProxyEnabled=yes
 
 !--IP of Hua Yuan Wang
 72.52.81.22
+!--IP of Twitter
+128.121.146.228
 
 !--dong tai wang
 |http://*%E5%8A%A8%E6%80%81%E7%BD%91
