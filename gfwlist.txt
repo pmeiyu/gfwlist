@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: t94DjQEtUBeX9bhnFcNEOQ
-! Last Modified:  Sun, 23 Aug 2009 01:03:16 +0800
+! Checksum: HE8LM0UujgkDTEesNvvjSg
+! Last Modified:  Sat, 29 Aug 2009 17:01:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -270,8 +270,6 @@ hrichina.org
 |http://www.hungerstrikeforaids.org
 hk-pub.com
 hulu.com
-hackthatphone.com
-hackthatphone.net
 
 !--------------------------I--------------------------
 |http://i1.hk/
@@ -281,7 +279,6 @@ hp.infoseek.co.jp/
 internetfreedom.org
 is.gd/1VO1f
 is.gd/1VOp7
-iphonehacks.com
 
 !--------------------------J--------------------------
 jieshibaobao.com
@@ -385,7 +382,7 @@ psiphon.ca
 |http://www.ptt.cc/
 
 !--------------------------Q--------------------------
-blog.qooza.hk/dafengqixi
+blog.qooza.hk*dafengqixi
 |http://pixel.quantserve.com/
 qxbbs.org/
 
@@ -757,6 +754,9 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+hackthatphone.com
+hackthatphone.net
+iphonehacks.com
 icanhascheezburger.com
 tinypaste.com
 plurktemplates.com
