@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: LcM1rokFOOjUui+IMqFMug
-! Last Modified:  Sat, 29 Aug 2009 22:58:30 +0800
+! Checksum: lDZzcZMgw2jWq2Tohnlrmw
+! Last Modified:  Sun, 30 Aug 2009 10:09:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -205,32 +205,32 @@ getchu.com
 zh.globalvoicesonline.org
 
 !-------------Google.ghs-----
-!-http://developer.android.com
-!-source.android.com
-!-http://blog.chromium.org
-!-codereview.chromium.org
-!-|http://dev.chromium.org/
-!-rss.cnn.com
-!-www.dropbox.com
-!-www.earthhour.org
-!-mclee.foolme.net
-!-http://blog.friendfeed.com
-!-feeds.gawker.com
-!-|http://www.greasespot.net/
-!-blog.growlforwindows.com
-!-|http://www.iamfisher.net/
-!-blog.jsquaredjavascript.com
-!-www.kunalanand.com
-!-feeds.mobileread.com
-!-|http://www.nakedcapitalism.com
-!-http://blog.nihilogic.dk
-!-blog.persistent.info
-!-http://rss.slashdot.org
-!-www.techfob.com
-!-|http://mxexpress.twbbs.org/
-!-http://blog.twitter.com
-!-www.willhains.com
-!-www.writeroom.ws
+http://developer.android.com
+source.android.com
+http://blog.chromium.org
+codereview.chromium.org
+|http://dev.chromium.org/
+rss.cnn.com
+www.dropbox.com
+www.earthhour.org
+mclee.foolme.net
+http://blog.friendfeed.com
+feeds.gawker.com
+|http://www.greasespot.net/
+blog.growlforwindows.com
+|http://www.iamfisher.net/
+blog.jsquaredjavascript.com
+www.kunalanand.com
+feeds.mobileread.com
+|http://www.nakedcapitalism.com
+http://blog.nihilogic.dk
+blog.persistent.info
+http://rss.slashdot.org
+www.techfob.com
+|http://mxexpress.twbbs.org/
+http://blog.twitter.com
+www.willhains.com
+www.writeroom.ws
 
 !-------------Google.other-----
 @@|https://docs.google.com
