@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: vifo586v3i8BqFRj4VBOdw
-! Last Modified:  Sat, 05 Sep 2009 12:59:04 +0800
+! Checksum: 6m3aLYyCop/lZJb8d0V/GQ
+! Last Modified:  Sat, 05 Sep 2009 13:18:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -131,7 +131,6 @@ creaders.net
 crocodyl.org
 .cuhkacs.org*~benng
 cuihua.org
-code.jquery.com
 
 !--------------------------D--------------------------
 dailymotion.com
