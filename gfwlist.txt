@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: s/pUABsfGqdF5W2R5FVXNw
-! Last Modified:  Sat, 05 Sep 2009 11:59:32 +0800
+! Checksum: vifo586v3i8BqFRj4VBOdw
+! Last Modified:  Sat, 05 Sep 2009 12:59:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -129,6 +129,7 @@ commandlineisking.com
 crd-net.org
 creaders.net
 crocodyl.org
+.cuhkacs.org*~benng
 cuihua.org
 code.jquery.com
 
@@ -201,6 +202,7 @@ fulue.com
 
 !--------------------------G--------------------------
 gaopi.com
+geocities.jp
 getchu.com
 zh.globalvoicesonline.org
 
