@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: bf9uoTPyaFH6sVLHhF6Lqw
-! Last Modified:  Sat, 05 Sep 2009 20:50:20 +0800
+! Checksum: eRp4aQazFvGCg+8oP7Vukw
+! Last Modified:  Sun, 06 Sep 2009 03:35:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -37,6 +37,7 @@ anonymizer.com
 anonymouse.org
 |http://news.aol.com/
 http://gfw.appspot.com/
+twitese.appspot.com
 |http://proxypy.appspot.com/
 areca-backup.org
 |http://www.arizonachinese.com
