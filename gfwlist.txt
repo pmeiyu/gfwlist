@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: KLHesNDrKfOa+BKeTDv93g
-! Last Modified:  Sat, 05 Sep 2009 14:10:51 +0800
+! Checksum: +53aBg8NYRn/KjdPY4sSvA
+! Last Modified:  Sat, 05 Sep 2009 14:24:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -215,7 +215,7 @@ rss.cnn.com
 www.dropbox.com
 www.earthhour.org
 mclee.foolme.net
-www.frienddeck.com
+frienddeck.com
 http://blog.friendfeed.com
 feeds.gawker.com
 |http://www.greasespot.net/
