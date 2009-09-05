@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Zy/5Jzcv6vErwYs+oIobrw
-! Last Modified:  Sat, 05 Sep 2009 11:13:00 +0800
+! Checksum: tUAwIXihdJvli923TDvnyA
+! Last Modified:  Sat, 05 Sep 2009 11:24:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -408,6 +408,8 @@ shaunthesheep.com
 shenshou.org
 shizhao.org
 simpleproductivityblog.com
+dailynews.sina.com/
+dailynews.sina.com%2F
 blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
