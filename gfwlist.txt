@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Qpq4a8Vt4a9W0wSikd/9ng
-! Last Modified:  Sat, 05 Sep 2009 18:31:13 +0800
+! Checksum: ea1bmueHsHccT1Oz4xDMpg
+! Last Modified:  Sat, 05 Sep 2009 18:34:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -282,6 +282,7 @@ hp.infoseek.co.jp/
 internetfreedom.org
 is.gd/1VO1f
 is.gd/1VOp7
+izaobao.com
 
 !--------------------------J--------------------------
 jieshibaobao.com
