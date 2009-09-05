@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: nwAoOcqryMLYLENF38dleQ
-! Last Modified:  Sat, 05 Sep 2009 11:12:00 +0800
+! Checksum: Zy/5Jzcv6vErwYs+oIobrw
+! Last Modified:  Sat, 05 Sep 2009 11:13:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -200,7 +200,6 @@ fulue.com
 .futurechinaforum.org
 
 !--------------------------G--------------------------
-gaopi.co.cc
 gaopi.com
 getchu.com
 zh.globalvoicesonline.org
