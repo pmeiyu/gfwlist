@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ea1bmueHsHccT1Oz4xDMpg
-! Last Modified:  Sat, 05 Sep 2009 18:34:49 +0800
+! Checksum: bf9uoTPyaFH6sVLHhF6Lqw
+! Last Modified:  Sat, 05 Sep 2009 20:50:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -261,6 +261,7 @@ great-firewall.com
 
 !--------------------------H--------------------------
 |http://hackaday.com/
+hbo.com/docs/*/china
 |http://www.heartyit.com/
 hellotxt.com*user
 |http://www.hemidemi.com/
