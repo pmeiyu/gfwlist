@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: W598602RDTdVPBnaZxrm3g
-! Last Modified:  Sun, 06 Sep 2009 11:29:03 +0800
+! Checksum: TjCA8Z+EwVSCc/Sfk0VJIA
+! Last Modified:  Sun, 06 Sep 2009 11:35:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -241,6 +241,7 @@ www.writeroom.ws
 @@|https*//www.google.com
 .ggpht.com
 google.com*analytics*zh-CN
+|http://code.google.com/p/cngepi/downloads/
 docs.google.com*view*docid
 groups.google.com*group*gfw-blog
 groups.google.com*group*jieshibaobaozhijia
