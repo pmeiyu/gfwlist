@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: SPP/t2eO2IuZE85wR9o+Kw
-! Last Modified:  Sun, 06 Sep 2009 11:19:40 +0800
+! Checksum: W598602RDTdVPBnaZxrm3g
+! Last Modified:  Sun, 06 Sep 2009 11:29:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -277,6 +277,7 @@ hulu.com
 
 !--------------------------I--------------------------
 |http://i1.hk/
+|http://*t.ikemi.org
 hp.infoseek.co.jp/
 |http://www.im.tv/
 |http://www.inmediahk.net/
@@ -295,6 +296,7 @@ karayou.com
 kanzhongguo.com
 |http://www.kmt.org.tw/
 |http://kunalanand.com
+|http://*t.kunshou.net
 |http://www.kzeng.info/
 
 !--------------------------L--------------------------
@@ -346,6 +348,7 @@ sidekick.myblog.hk
 !--------------------------N--------------------------
 naol.ca/
 www.ned.org
+|http://*t.neolee.cn
 net.ru
 netcolony.com
 newcenturynews.com
@@ -366,6 +369,7 @@ omnitalk.
 .on.cc/
 my.opera.com
 www.orchidbbs.com
+|http://*t.orzdream.com
 osdir.com
 oizoblog.com
 
@@ -386,6 +390,7 @@ plays.com.tw
 plurk.com
 timnew.posterous.com
 powerapple.com/
+|http://*heix.pp.ru
 psiphon.ca
 |http://www.ptt.cc/
 
@@ -714,6 +719,7 @@ www.zaurus.org.uk
 yezimary.spaces.live.com
 zengjinyan.spaces.live.com
 zhongguotese.net
+|http://*s.zuo.la
 zuola.com
 
 !--------------------------Other----------------------
