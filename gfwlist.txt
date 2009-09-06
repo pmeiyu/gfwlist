@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Be2GCQZJGAEDUM8+aqL6MA
-! Last Modified:  Sun, 06 Sep 2009 15:38:40 +0800
+! Checksum: XZbelj/OVt4Hhk+SFer4pA
+! Last Modified:  Sun, 06 Sep 2009 20:30:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -280,6 +280,7 @@ hulu.com
 
 !--------------------------I--------------------------
 |http://i1.hk/
+idv.tw
 |http://*t.ikemi.org
 hp.infoseek.co.jp/
 |http://www.im.tv/
