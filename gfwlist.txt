@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: Wo0Mhf6XWyt6Jgf//4yv/w
-! Last Modified:  Mon, 07 Sep 2009 23:14:32 +0800
+! Checksum: /unzlkCSrgy3GyQzoRVoLw
+! Last Modified:  Mon, 07 Sep 2009 23:28:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -470,6 +470,7 @@ tiananmenmother.org
 tibet.net
 http://www.time.com/time/time100/leaders/profile/rebel.html
 tldp.org
+www.topshareware.com
 torproject.org
 tsquare.tv
 |http://tttan.com/
