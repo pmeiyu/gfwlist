@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: sLdFEVAIkbaf/NmIpq7YrQ
-! Last Modified:  Sun, 06 Sep 2009 22:40:06 +0800
+! Checksum: Wo0Mhf6XWyt6Jgf//4yv/w
+! Last Modified:  Mon, 07 Sep 2009 23:14:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -392,7 +392,18 @@ picturesocial.com
 blog.pixnet.com
 plays.com.tw
 plurk.com
-timnew.posterous.com
+
+!-------------Posterous-----
+posterous.com
+roteiro.geedr.com
+holykaw.com
+blog.nicholaspatten.com
+reflectionof.me
+log.riku.me
+www.steverubel.com
+blog.xiaxiaoyang.com
+
+
 powerapple.com/
 |http://*heix.pp.ru
 psiphon.ca
@@ -820,7 +831,6 @@ presentationzen.com
 easylife.tw
 failblog.org
 charlescooke.me.uk
-files.posterous.com
 pingmicro.com
 emojiforichat.com
 kompozer.net
