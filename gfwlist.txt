@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 2gOFsvTFurXBv8iAFC4WFA
-! Last Modified:  Tue, 08 Sep 2009 14:49:59 +0800
+! Checksum: skyF0Qt/05vXK8AneU+twA
+! Last Modified:  Tue, 08 Sep 2009 15:12:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -136,6 +136,16 @@ crocodyl.org
 cuihua.org
 
 !--------------------------D--------------------------
+
+!-------------Dabr-----
+|http://*heix.pp.ru
+|http://*t.ikemi.org
+|http://*t.kunshou.net
+|http://*t.neolee.cn
+|http://*t.orzdream.com
+|http://*t.waiwaier.com
+|http://*s.zuo.la
+
 dailymotion.com
 dajiyuan.com
 danwei.org
@@ -281,7 +291,6 @@ hulu.com
 !--------------------------I--------------------------
 |http://i1.hk/
 idv.tw
-|http://*t.ikemi.org
 hp.infoseek.co.jp/
 |http://www.im.tv/
 |http://www.inmediahk.net/
@@ -300,7 +309,6 @@ karayou.com
 kanzhongguo.com
 |http://www.kmt.org.tw/
 |http://kunalanand.com
-|http://*t.kunshou.net
 |http://www.kzeng.info/
 
 !--------------------------L--------------------------
@@ -352,7 +360,6 @@ sidekick.myblog.hk
 !--------------------------N--------------------------
 naol.ca/
 www.ned.org
-|http://*t.neolee.cn
 net.ru
 netcolony.com
 newcenturynews.com
@@ -373,7 +380,6 @@ omnitalk.
 .on.cc/
 my.opera.com
 www.orchidbbs.com
-|http://*t.orzdream.com
 osdir.com
 oizoblog.com
 
@@ -412,7 +418,6 @@ bill.zhong.pp.ru
 
 
 powerapple.com/
-|http://*heix.pp.ru
 psiphon.ca
 |http://www.ptt.cc/
 
@@ -526,7 +531,6 @@ voanews.com*chinese
 www.voy.com
 
 !--------------------------W--------------------------
-|http://*t.waiwaier.com
 wallornot.org
 www.wangruowang.org
 wavesandbox.com
@@ -752,7 +756,6 @@ www.zaurus.org.uk
 yezimary.spaces.live.com
 zengjinyan.spaces.live.com
 zhongguotese.net
-|http://*s.zuo.la
 zuola.com
 
 !--------------------------Other----------------------
