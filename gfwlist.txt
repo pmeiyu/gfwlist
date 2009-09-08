@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: cxyn7rLQtgpYLnOtwwAm9A
-! Last Modified:  Tue, 08 Sep 2009 15:32:50 +0800
+! Checksum: kuHaGv3jrr+mKBpRramnwQ
+! Last Modified:  Tue, 08 Sep 2009 15:37:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -819,6 +819,7 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+shixiao.org
 abc.pp.ru
 funambol.org
 darpa.mil
