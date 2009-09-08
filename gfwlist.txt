@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: r67DO2816FsqTjJcN9/ycg
-! Last Modified:  Tue, 08 Sep 2009 09:35:53 +0800
+! Checksum: 32dVpYQPX4IjU5sI8Xh23w
+! Last Modified:  Tue, 08 Sep 2009 14:34:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -477,7 +477,7 @@ tiananmenmother.org
 tibet.net
 http://www.time.com/time/time100/leaders/profile/rebel.html
 tldp.org
-www.topshareware.com
+.topshareware.com
 torproject.org
 tsquare.tv
 |http://tttan.com/
@@ -812,6 +812,9 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+darpa.mil
+.tripod.com
+@@www.tripod.com
 ultrawebsitehosting.com
 jaiku.com
 endsoftpatents.org
