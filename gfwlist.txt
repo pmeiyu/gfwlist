@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 32dVpYQPX4IjU5sI8Xh23w
-! Last Modified:  Tue, 08 Sep 2009 14:34:19 +0800
+! Checksum: 6vRmpK8c5hajcfPA3TRxAg
+! Last Modified:  Tue, 08 Sep 2009 14:44:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -812,6 +812,7 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+funambol.org
 darpa.mil
 .tripod.com
 @@www.tripod.com
