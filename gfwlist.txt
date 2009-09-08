@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 09yad2r8xlo7PoZNUCevqw
-! Last Modified:  Tue, 08 Sep 2009 15:18:51 +0800
+! Checksum: 8FYw1UD3MJ43yQDk0HxaZA
+! Last Modified:  Tue, 08 Sep 2009 15:22:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -734,6 +734,7 @@ upcoming.yahoo.com
 |http://blog.yam.com/
 n.yam.com
 news.yam.com
+yilubbs.com
 forum.yorkbbs.ca
 |http://www.youpai.org/
 |http://www.your-freedom.net/
