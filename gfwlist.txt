@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: kuHaGv3jrr+mKBpRramnwQ
-! Last Modified:  Tue, 08 Sep 2009 15:37:01 +0800
+! Checksum: dQZPD6FbZVAwDM6NWVWqjw
+! Last Modified:  Tue, 08 Sep 2009 15:41:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -449,7 +449,6 @@ secretchina.com
 .settv.com
 shaunthesheep.com
 shenshou.org
-shizhao.org
 simpleproductivityblog.com
 dailynews.sina.com/
 dailynews.sina.com%2F
@@ -820,8 +819,8 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 
 !----Not a keyword, need to be edited in next version of AutoProxy
 shixiao.org
+shizhao.org
 abc.pp.ru
-funambol.org
 darpa.mil
 .tripod.com
 @@www.tripod.com
