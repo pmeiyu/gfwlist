@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: skyF0Qt/05vXK8AneU+twA
-! Last Modified:  Tue, 08 Sep 2009 15:12:06 +0800
+! Checksum: 09yad2r8xlo7PoZNUCevqw
+! Last Modified:  Tue, 08 Sep 2009 15:18:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -138,6 +138,7 @@ cuihua.org
 !--------------------------D--------------------------
 
 !-------------Dabr-----
+|http://*www.cao.im/
 |http://*heix.pp.ru
 |http://*t.ikemi.org
 |http://*t.kunshou.net
