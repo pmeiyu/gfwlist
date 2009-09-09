@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: dQZPD6FbZVAwDM6NWVWqjw
-! Last Modified:  Tue, 08 Sep 2009 15:41:29 +0800
+! Checksum: WgORNttRzkNG/FvgwS2fPA
+! Last Modified:  Wed, 09 Sep 2009 08:33:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -212,6 +212,7 @@ friendfeed.com
 .ftv.com.tw
 |http://fuckgfw.com
 fulue.com
+funp.com
 .futurechinaforum.org
 
 !--------------------------G--------------------------
@@ -875,7 +876,6 @@ bendiken.net
 www.msguancha.com
 |http://www.meetup.com/
 |http://truveo.com/
-|http://funp.com/
 |http://www.oxfam.org.hk/
 |http://www.salvation.org.hk/
 |http://www.tacem.org/
