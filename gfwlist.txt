@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: WgORNttRzkNG/FvgwS2fPA
-! Last Modified:  Wed, 09 Sep 2009 08:33:58 +0800
+! Checksum: QDsWfDCqgT4ffEZ7WqqmXg
+! Last Modified:  Wed, 09 Sep 2009 08:37:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -213,6 +213,7 @@ friendfeed.com
 |http://fuckgfw.com
 fulue.com
 funp.com
+funp.org
 .futurechinaforum.org
 
 !--------------------------G--------------------------
