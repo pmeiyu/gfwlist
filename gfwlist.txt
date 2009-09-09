@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: QDsWfDCqgT4ffEZ7WqqmXg
-! Last Modified:  Wed, 09 Sep 2009 08:37:14 +0800
+! Checksum: ucd6f7Za4SN23RVkHIw+EQ
+! Last Modified:  Wed, 09 Sep 2009 08:44:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -139,7 +139,8 @@ cuihua.org
 !--------------------------D--------------------------
 
 !-------------Dabr-----
-|http://*www.cao.im/
+|http://*www.cao.im
+|http://*funp.org
 |http://*heix.pp.ru
 |http://*t.ikemi.org
 |http://*t.kunshou.net
@@ -213,7 +214,6 @@ friendfeed.com
 |http://fuckgfw.com
 fulue.com
 funp.com
-funp.org
 .futurechinaforum.org
 
 !--------------------------G--------------------------
