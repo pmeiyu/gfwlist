@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ucd6f7Za4SN23RVkHIw+EQ
-! Last Modified:  Wed, 09 Sep 2009 08:44:37 +0800
+! Checksum: fCCfUvCWpou4+04g36TAiw
+! Last Modified:  Wed, 09 Sep 2009 12:20:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -257,6 +257,7 @@ www.writeroom.ws
 @@|https*//www.google.com
 .ggpht.com
 google.com*analytics*zh-CN
+|http://www.google.com/search*free*gate
 |http://code.google.com/p/cngepi/downloads/
 docs.google.com*view*docid
 groups.google.com*group*gfw-blog
@@ -766,7 +767,6 @@ zuola.com
 !--------------------------Other----------------------
 gfwProxyEnabled=yes
 |http://*falun
-|http://*freegate
 |http://*search*q*cache
 |http://*search*q*safeweb
 |http://*ultrareach
