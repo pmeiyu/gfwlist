@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: fCCfUvCWpou4+04g36TAiw
-! Last Modified:  Wed, 09 Sep 2009 12:20:27 +0800
+! Checksum: EGxt1ffmhfXC4OIZsuuTYQ
+! Last Modified:  Sat, 12 Sep 2009 14:02:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -342,6 +342,7 @@ www.manning.com
 markmail.org*message
 |http://www.mathtunnel.com/
 mediafire.com
+.megaupload.com/?d=4
 memedia.cn
 middle-way.net
 .minghui.org
@@ -406,6 +407,7 @@ plurk.com
 
 !-------------Posterous-----
 posterous.com
+post.anyu.org
 bralio.com
 designerol.com
 roteiro.geedr.com
@@ -436,6 +438,7 @@ qxbbs.org/
 www.radioaustralia.net.au*chinese*articles*
 renminbao.com
 revver.com
+rfa.org/mandarin
 www.rfi.fr
 robertmao.com
 robtex.com
@@ -460,6 +463,7 @@ news.sina.com.tw
 news.sina.com.hk
 sitetag.us
 |http://www.skype.com
+.slinkset.com
 blog.sogoo.org
 sokamonline.com
 |http://www.songza.com/
@@ -468,6 +472,7 @@ soundofhope.org
 .soup.io/
 |http://my.spill.com
 squarespace.com
+www.stackfile.com/freedur
 starcraft2.com
 usinfo.state.gov
 sysresccd.org
@@ -512,6 +517,7 @@ twitter.com
 !-|http://apiwiki.twitter.com/
 !-|http://dev.twitter.com/
 !-|http://status.twitter.com/
+www.twitvid.com/92E5B
 tynsoe.org
 .typepad.com
 @@www.typepad.com
@@ -722,6 +728,7 @@ wukangrui.net
 
 !--------------------------X--------------------------
 .xanga.com
+xiaoma.org
 xinsheng.net
 |http://www.xinhuanet.org/
 blog.xuite.net
@@ -820,6 +827,8 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+tornadoweb.org
+i-cable.com
 shixiao.org
 shizhao.org
 abc.pp.ru
@@ -887,7 +896,6 @@ mitbbs.com
 gardennetworks.com
 dongtaiwang.com
 bolin.netfirms.com
-|http://www.rfa.org/
 comefromchina.com
 gopetition.com
 dwnews.com
