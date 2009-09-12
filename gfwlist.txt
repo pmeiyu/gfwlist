@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: EGxt1ffmhfXC4OIZsuuTYQ
-! Last Modified:  Sat, 12 Sep 2009 14:02:14 +0800
+! Checksum: dVABev4PI5h+vAvSQqR7mQ
+! Last Modified:  Sat, 12 Sep 2009 14:51:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -721,7 +721,6 @@ china.blogs.time.com
 worldjournal.com/wj-ch-news.php
 wowwiki.com
 wretch.cc
-chinese.wsj.com
 wuerkaixi.com
 .wujie.net
 wukangrui.net
