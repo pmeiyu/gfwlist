@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: dVABev4PI5h+vAvSQqR7mQ
-! Last Modified:  Sat, 12 Sep 2009 14:51:13 +0800
+! Checksum: jCfInXsT2LnmjNEtW3wQNg
+! Last Modified:  Sat, 12 Sep 2009 14:55:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -817,6 +817,8 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 |http://*search*%E6%97%A0%E7%95%8C
 !--Xie E
 |http://*search*%E9%82%AA%E6%81%B6
+!--Yue Hou Ji Fen
+|http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhao Zi Yang
 |http://*%E8%B5%B5%E7%B4%AB%E9%98%B3
 !--Zi You Men
