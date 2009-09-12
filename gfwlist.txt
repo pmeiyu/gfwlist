@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: R/hu6aB03SaYpzbSu7bOAA
-! Last Modified:  Sat, 12 Sep 2009 15:03:24 +0800
+! Checksum: EecZaL9uMK5HR5VbHlVJeg
+! Last Modified:  Sat, 12 Sep 2009 15:06:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -266,6 +266,7 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zi You Men
 |http://www.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
+.google.*great*firewall
 google.com*analytics*zh-CN
 |http://www.google.com/search*free*gate
 |http://code.google.com/p/cngepi/downloads/
