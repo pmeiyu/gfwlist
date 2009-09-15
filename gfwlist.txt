@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: +F2X0Zk1iZMWzcK0PcjIbw
-! Last Modified:  Tue, 15 Sep 2009 11:16:08 +0800
+! Checksum: K3qsO1t0/e72huCtXglA6A
+! Last Modified:  Tue, 15 Sep 2009 11:19:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -453,8 +453,8 @@ qxbbs.org/
 www.radioaustralia.net.au*chinese*articles*
 renminbao.com
 revver.com
-rfa.org/cantonese
-rfa.org/mandarin
+rfa.org*cantonese
+rfa.org*mandarin
 www.rfi.fr
 robertmao.com
 robtex.com
