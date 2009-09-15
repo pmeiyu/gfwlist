@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: gSoDv5irv+YxpFnx8ah74Q
-! Last Modified:  Sat, 12 Sep 2009 22:36:36 +0800
+! Checksum: +F2X0Zk1iZMWzcK0PcjIbw
+! Last Modified:  Tue, 15 Sep 2009 11:16:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -294,6 +294,7 @@ great-firewall.com
 !--------------------------H--------------------------
 |http://hackaday.com/
 hbo.com/docs/*/china
+.hdzone.org
 |http://www.heartyit.com/
 hellotxt.com*user
 |http://www.hemidemi.com/
@@ -452,6 +453,7 @@ qxbbs.org/
 www.radioaustralia.net.au*chinese*articles*
 renminbao.com
 revver.com
+rfa.org/cantonese
 rfa.org/mandarin
 www.rfi.fr
 robertmao.com
