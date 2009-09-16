@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ikqAzGTPuvQEmfVV+XUBZg
-! Last Modified:  Tue, 15 Sep 2009 23:17:36 +0800
+! Checksum: Lan33tk9VquuQuAatSexYA
+! Last Modified:  Wed, 16 Sep 2009 11:13:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -13,7 +13,7 @@
 |http://www.3cc.cc/
 |http://www.4shared.com
 5maodang.com
-.6park.com
+6park.com
 64memo.com
 64tianwang.com
 89-64.org
@@ -557,7 +557,6 @@ www.vansky.com
 |http://www.visuwords.com/
 voanews.com*chinese
 www.voy.com
-www.vapurl.com
 
 !--------------------------W--------------------------
 wallornot.org
@@ -836,6 +835,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+vapurl.com
 topstyle4.com
 dlsite.com
 tornadoweb.org
