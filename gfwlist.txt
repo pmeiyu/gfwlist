@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ciI4vz+MZRq8glrJhPylFQ
-! Last Modified:  Tue, 22 Sep 2009 00:55:22 +0800
+! Checksum: M9jmfrDVEWl4njQJ9x7h2g
+! Last Modified:  Tue, 22 Sep 2009 01:02:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -426,10 +426,12 @@ plays.com.tw
 plurk.com
 
 !-------------Posterous-----
+!--Need to be edited after next stable release of AutoProxy
 posterous.com
 post.anyu.org
 bralio.com
 designerol.com
+erinc.ca
 roteiro.geedr.com
 holykaw.com
 www.ibluecity.com
