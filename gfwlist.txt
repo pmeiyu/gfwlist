@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: tLiywcK33ZqV99JN9iZWoA
-! Last Modified:  Mon, 21 Sep 2009 21:31:58 +0800
+! Checksum: ztb00EpkaD92BtdBzXdoRg
+! Last Modified:  Mon, 21 Sep 2009 22:06:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -429,6 +429,7 @@ roteiro.geedr.com
 holykaw.com
 www.ibluecity.com
 blog.nicholaspatten.com
+post.ly/
 reflectionof.me
 log.riku.me
 www.steverubel.com
@@ -837,6 +838,8 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+alexking.org
+909090909.info
 vapurl.com
 topstyle4.com
 dlsite.com
