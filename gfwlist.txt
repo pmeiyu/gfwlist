@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: VLs4g+F0GxyrGUzZ0+/VwA
-! Last Modified:  Mon, 21 Sep 2009 21:30:50 +0800
+! Checksum: tLiywcK33ZqV99JN9iZWoA
+! Last Modified:  Mon, 21 Sep 2009 21:31:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -787,7 +787,6 @@ www.zaurus.org.uk
 .zengjinyan.org
 yezimary.spaces.live.com
 zengjinyan.spaces.live.com
-zhongguotese.net
 zuola.com
 
 !--------------------------Other----------------------
