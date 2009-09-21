@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ztb00EpkaD92BtdBzXdoRg
-! Last Modified:  Mon, 21 Sep 2009 22:06:04 +0800
+! Checksum: Fjcw9kmXwkPxRCDBdpkLaQ
+! Last Modified:  Mon, 21 Sep 2009 23:12:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -565,7 +565,6 @@ www.voy.com
 !--------------------------W--------------------------
 wallornot.org
 www.wangruowang.org
-wavesandbox.com
 .we.bs/
 .webshots.com/
 websitepulse.com/help/testtools.china-test.html
@@ -839,6 +838,8 @@ gfwProxyEnabled=yes
 
 !----Not a keyword, need to be edited in next version of AutoProxy
 alexking.org
+|http://wavesandbox.com
+|http://www.wavesandbox.com
 909090909.info
 vapurl.com
 topstyle4.com
