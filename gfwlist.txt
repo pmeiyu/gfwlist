@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ZULhWtgyyW/G+oTPMT7Jvg
-! Last Modified:  Mon, 21 Sep 2009 14:34:10 +0800
+! Checksum: VLs4g+F0GxyrGUzZ0+/VwA
+! Last Modified:  Mon, 21 Sep 2009 21:30:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -478,7 +478,9 @@ blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
 sitetag.us
+|http://skype.com
 |http://www.skype.com
+download.skype.com/SkypeSetup.exe
 .slinkset.com
 blog.sogoo.org
 sokamonline.com
