@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 3U1eNyBzItT70D1pOI69EQ
-! Last Modified:  Tue, 22 Sep 2009 11:00:34 +0800
+! Checksum: CWP05buS06MuiajPolijwQ
+! Last Modified:  Tue, 22 Sep 2009 22:09:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -163,6 +163,7 @@ http://doubleaf.com
 |http://www.dpp.org.tw/
 http://dropbox.com
 duping.net
+dupola.com
 dw-world.de
 www.dwheeler.com
 |http://www.dynawebinc.com/
