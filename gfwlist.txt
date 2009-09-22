@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: M9jmfrDVEWl4njQJ9x7h2g
-! Last Modified:  Tue, 22 Sep 2009 01:02:34 +0800
+! Checksum: 3U1eNyBzItT70D1pOI69EQ
+! Last Modified:  Tue, 22 Sep 2009 11:00:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -242,6 +242,7 @@ feeds.gawker.com
 |http://www.greasespot.net/
 blog.growlforwindows.com
 blog.jsquaredjavascript.com
+blog.kowalczyk.info
 www.kunalanand.com
 feeds.mobileread.com
 http://blog.nihilogic.dk
@@ -754,6 +755,8 @@ wukangrui.net
 
 !--------------------------X--------------------------
 .xanga.com
+.xft.de/
+/xft.de/*
 xiaoma.org
 xinsheng.net
 |http://www.xinhuanet.org/
@@ -844,6 +847,9 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+skulpt.org
+erights.net
+blambin.byethost16.com
 alexking.org
 |http://wavesandbox.com
 |http://www.wavesandbox.com
