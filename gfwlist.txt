@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: CWP05buS06MuiajPolijwQ
-! Last Modified:  Tue, 22 Sep 2009 22:09:48 +0800
+! Checksum: qa0bI9eUfwbrnwlc+CDtoQ
+! Last Modified:  Thu, 24 Sep 2009 13:25:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -352,6 +352,8 @@ portis21.spaces.live.com
 siyi123123123.spaces.live.com
 wangyi64.spaces.live.com
 wenyunchao.spaces.live.com
+yezimary.spaces.live.com
+zengjinyan.spaces.live.com
 zhllg.spaces.live.com
 
 
@@ -795,9 +797,8 @@ ytht.net/
 !--------------------------Z--------------------------
 |http://luntan.zaobao.com/
 www.zaurus.org.uk
+asset*.zendesk.com
 .zengjinyan.org
-yezimary.spaces.live.com
-zengjinyan.spaces.live.com
 zuola.com
 
 !--------------------------Other----------------------
