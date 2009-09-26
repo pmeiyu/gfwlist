@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: KWMNNrFmV9k61nFZGeX/xA
-! Last Modified:  Sat, 26 Sep 2009 09:37:34 +0800
+! Checksum: jNJdGXSECSBrD2fSd0CiFQ
+! Last Modified:  Sat, 26 Sep 2009 20:56:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -244,6 +244,7 @@ feeds.gawker.com
 blog.growlforwindows.com
 blog.jsquaredjavascript.com
 blog.kowalczyk.info
+blog.doughellmann.com
 www.kunalanand.com
 feeds.mobileread.com
 http://blog.nihilogic.dk
@@ -316,6 +317,7 @@ hrichina.org
 |http://www.hungerstrikeforaids.org
 hk-pub.com
 hulu.com
+hkgolden.com
 
 !--------------------------I--------------------------
 |http://i1.hk/
