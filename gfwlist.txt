@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: jNJdGXSECSBrD2fSd0CiFQ
-! Last Modified:  Sat, 26 Sep 2009 20:56:31 +0800
+! Checksum: RIAIx1spYieGXjtvpz1sBg
+! Last Modified:  Sat, 26 Sep 2009 22:14:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -96,6 +96,7 @@ boxun.com
 bullogger.com
 
 !--------------------------C--------------------------
+cantonese.ca
 canyu.org
 |http://caodan.net
 |http://www.carnegieendowment.org
