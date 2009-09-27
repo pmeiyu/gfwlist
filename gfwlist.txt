@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: uU30nEEbWsTfFTVVyWoi1Q
-! Last Modified:  Sun, 27 Sep 2009 11:56:56 +0800
+! Checksum: L+Qa4vBfLl/nS9SxRVVA4w
+! Last Modified:  Sun, 27 Sep 2009 11:58:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -315,6 +315,7 @@ myweb.hinet.net
 hk-pub.com
 hkgolden.com
 hkreporter.com
+.hotupub.com
 hrichina.org
 hulu.com
 |http://www.hungerstrikeforaids.org
