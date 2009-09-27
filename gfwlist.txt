@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 8hTwHab2qLwc35YeGtqKsA
-! Last Modified:  Sun, 27 Sep 2009 13:48:28 +0800
+! Checksum: coLNdA18hDYmWKhSMLSh3g
+! Last Modified:  Sun, 27 Sep 2009 13:54:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -149,6 +149,7 @@ cuihua.org
 |http://*t.waiwaier.com
 |http://*s.zuo.la
 
+democrats.org
 dailymotion.com
 dajiyuan.com
 danwei.org
