@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ugwVQtr5EGtkJRNz6By6Ew
-! Last Modified:  Sun, 27 Sep 2009 14:18:12 +0800
+! Checksum: pKvD/BRsHooEvM1VUj0Wpg
+! Last Modified:  Sun, 27 Sep 2009 14:38:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -246,6 +246,8 @@ feeds.gawker.com
 |http://www.greasespot.net/
 blog.growlforwindows.com
 blog.jsquaredjavascript.com
+tomatovpn.keithmoyer.com
+www.keithmoyer.com
 blog.kowalczyk.info
 www.kunalanand.com
 feeds.mobileread.com
@@ -497,6 +499,7 @@ dailynews.sina.com%2F
 blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
+news.singtao.ca
 sitetag.us
 |http://skype.com
 |http://www.skype.com
@@ -864,6 +867,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+hotspotshield.com
 pbworks.com
 identi.ca
 cantonese.ca
