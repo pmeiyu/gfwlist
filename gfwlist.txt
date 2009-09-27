@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: coLNdA18hDYmWKhSMLSh3g
-! Last Modified:  Sun, 27 Sep 2009 13:54:52 +0800
+! Checksum: iz4nADoRE35keSmmOsDuNQ
+! Last Modified:  Sun, 27 Sep 2009 13:58:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -668,6 +668,8 @@ zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
 zh.wikipedia.org*%E6%A2%81%E5%9C%8B%E9%9B%84
 !--Liu Si Shi Jian
 zh.wikipedia.org*%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
+!--Liu Yan Dong
+zh.wikipedia.org*%E5%88%98%E5%BB%B6%E4%B8%9C
 !--Liu Yun Shan
 zh.wikipedia.org*%E5%88%98%E4%BA%91%E5%B1%B1
 !--Po Wang
