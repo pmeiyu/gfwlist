@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: xk9kO6NGvtFP7j1MaVeEHA
-! Last Modified:  Sun, 27 Sep 2009 14:00:26 +0800
+! Checksum: iMegh1ig8b+xcu5+GBYA0A
+! Last Modified:  Sun, 27 Sep 2009 14:10:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -410,14 +410,15 @@ ntdtv.com
 
 !--------------------------O--------------------------
 observechina.net
+oizoblog.com
 old-cat.net
+omgili.com
 omnitalk.
 /on.cc/*
 .on.cc/
 my.opera.com
 www.orchidbbs.com
 osdir.com
-oizoblog.com
 
 !--------------------------P--------------------------
 pbs.org/wgbh/pages/frontline/gate
@@ -862,6 +863,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+identi.ca
 cantonese.ca
 skulpt.org
 erights.net
