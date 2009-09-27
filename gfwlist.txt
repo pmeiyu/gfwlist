@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: iMegh1ig8b+xcu5+GBYA0A
-! Last Modified:  Sun, 27 Sep 2009 14:10:51 +0800
+! Checksum: ugwVQtr5EGtkJRNz6By6Ew
+! Last Modified:  Sun, 27 Sep 2009 14:18:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -421,6 +421,7 @@ www.orchidbbs.com
 osdir.com
 
 !--------------------------P--------------------------
+forum.palmislife.com
 pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
@@ -863,6 +864,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+pbworks.com
 identi.ca
 cantonese.ca
 skulpt.org
