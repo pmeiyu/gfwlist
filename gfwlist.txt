@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: pKvD/BRsHooEvM1VUj0Wpg
-! Last Modified:  Sun, 27 Sep 2009 14:38:38 +0800
+! Checksum: cDlmdlrvB5cN6fXNxGnMYw
+! Last Modified:  Sun, 27 Sep 2009 16:18:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -175,7 +175,6 @@ ebookee.com
 edoors.com
 |http://www.edubridge.com/
 eltondisney.com
-|http://endsoftpatents.org/
 epochtimes.com
 etree.org/
 eyny.com
@@ -241,7 +240,7 @@ www.dropbox.com
 www.earthhour.org
 mclee.foolme.net
 frienddeck.com
-http://blog.friendfeed.com
+!--http://blog.friendfeed.com
 feeds.gawker.com
 |http://www.greasespot.net/
 blog.growlforwindows.com
@@ -257,7 +256,7 @@ http://rss.slashdot.org
 socialwhois.com
 www.techfob.com
 |http://mxexpress.twbbs.org/
-http://blog.twitter.com
+!--http://blog.twitter.com
 www.willhains.com
 www.writeroom.ws
 
@@ -895,6 +894,7 @@ endsoftpatents.org
 hqwalls.net
 blog.tr.im
 news.sina.com/
+!-||news.sina.com^
 hackthatphone.com
 hackthatphone.net
 iphonehacks.com
