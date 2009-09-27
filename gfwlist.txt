@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: VTYdG+Ls0ia3vgWdqjbgLQ
-! Last Modified:  Sun, 27 Sep 2009 08:28:57 +0800
+! Checksum: uU30nEEbWsTfFTVVyWoi1Q
+! Last Modified:  Sun, 27 Sep 2009 11:56:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -96,7 +96,6 @@ boxun.com
 bullogger.com
 
 !--------------------------C--------------------------
-cantonese.ca
 canyu.org
 |http://caodan.net
 |http://www.carnegieendowment.org
@@ -236,6 +235,7 @@ http://blog.chromium.org
 codereview.chromium.org
 |http://dev.chromium.org/
 rss.cnn.com
+blog.doughellmann.com
 www.dropbox.com
 www.earthhour.org
 mclee.foolme.net
@@ -246,7 +246,6 @@ feeds.gawker.com
 blog.growlforwindows.com
 blog.jsquaredjavascript.com
 blog.kowalczyk.info
-blog.doughellmann.com
 www.kunalanand.com
 feeds.mobileread.com
 http://blog.nihilogic.dk
@@ -313,13 +312,12 @@ hellotxt.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 myweb.hinet.net
 |http://times.hinet.net/
-forum7.hkgolden.com
+hk-pub.com
+hkgolden.com
 hkreporter.com
 hrichina.org
-|http://www.hungerstrikeforaids.org
-hk-pub.com
 hulu.com
-hkgolden.com
+|http://www.hungerstrikeforaids.org
 
 !--------------------------I--------------------------
 |http://i1.hk/
@@ -858,6 +856,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+cantonese.ca
 skulpt.org
 erights.net
 blambin.byethost16.com
