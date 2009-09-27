@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: cDlmdlrvB5cN6fXNxGnMYw
-! Last Modified:  Sun, 27 Sep 2009 16:18:39 +0800
+! Checksum: iGGoQukQ73dbKn6I8e7LFA
+! Last Modified:  Sun, 27 Sep 2009 17:47:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -203,9 +203,6 @@ freeforums.org
 @@www.freehostia.com
 freemoren.com
 freemorenews.com
-|http://www.freenet-china.org/
-freenetproject.org
-|http://www.freshmeat.net/projects/freenet/
 
 friendfeed.com
 !--|http://*friendfeed.com%2Fe
@@ -819,6 +816,7 @@ zuola.com
 !--------------------------Other----------------------
 gfwProxyEnabled=yes
 |http://*falun
+|http://*freenet
 |http://*search*q*cache
 |http://*search*q*safeweb
 |http://*ultrareach
