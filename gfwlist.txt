@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: gMhWYw5gx0ZFAHz9sLW2eA
-! Last Modified:  Mon, 28 Sep 2009 21:44:35 +0800
+! Checksum: HppecXcM58EUgunJRnSK8Q
+! Last Modified:  Mon, 28 Sep 2009 21:55:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -465,6 +465,7 @@ psiphon.ca
 !--------------------------Q--------------------------
 blog.qooza.hk*dafengqixi
 |http://pixel.quantserve.com/
+qusi8.net
 qxbbs.org/
 
 !--------------------------R--------------------------
