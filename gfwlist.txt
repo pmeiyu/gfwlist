@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: qxhU+FzUaM/0nayoPrwwRQ
-! Last Modified:  Mon, 28 Sep 2009 17:08:06 +0800
+! Checksum: JdeVTuhMOkItJcAVb2j89w
+! Last Modified:  Mon, 28 Sep 2009 21:40:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -285,7 +285,6 @@ google.com*analytics*zh-CN
 |http://code.google.com/p/cngepi/downloads/
 docs.google.com*view*docid
 groups.google.com*group*gfw-blog
-groups.google.com*group*jieshibaobaozhijia
 groups.google.com*group*lihlii
 groups.google.com*group*mindex
 groups.google.com*group*cn.bbs.comp.dotnet
