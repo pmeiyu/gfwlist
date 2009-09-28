@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: iGGoQukQ73dbKn6I8e7LFA
-! Last Modified:  Sun, 27 Sep 2009 17:47:55 +0800
+! Checksum: XdTNF4so4x0yHpcIqEFaVQ
+! Last Modified:  Mon, 28 Sep 2009 15:01:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -719,6 +719,8 @@ zh.wikipedia.org*%E6%98%9F%E4%BA%91%E6%B3%95%E5%B8%88
 zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 !--Yan Ming Fu
 zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
+!--Zhang Yu Zhe
+zh.wikipedia.org*%E5%BC%A0%E9%92%B0%E5%93%B2
 !--Zhao Zi Yang -- Traditional Chinese
 zh.wikipedia.org*%E8%B6%99%E7%B4%AB%E9%99%BD
 !--Zhong Guo Da Lu Feng Suo Wei JI Mei Ti Shi Jian
