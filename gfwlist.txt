@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: JdeVTuhMOkItJcAVb2j89w
-! Last Modified:  Mon, 28 Sep 2009 21:40:43 +0800
+! Checksum: gMhWYw5gx0ZFAHz9sLW2eA
+! Last Modified:  Mon, 28 Sep 2009 21:44:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -454,6 +454,7 @@ veempiire.com
 www.vegorpedersen.com
 ventureswell.com
 blog.xiaxiaoyang.com
+|http://z-turn.cn/
 bill.zhong.pp.ru
 
 
