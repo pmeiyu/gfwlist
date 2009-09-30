@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: O+ND2uRZ36gNpn4jd8eTyw
-! Last Modified:  Wed, 30 Sep 2009 21:06:42 +0800
+! Checksum: 7OVoeimCT3nWHzzc13h6/A
+! Last Modified:  Wed, 30 Sep 2009 21:21:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -220,7 +220,6 @@ friendfeed.com
 fulue.com
 funp.com
 .futurechinaforum.org
-fotop.net
 
 !--------------------------G--------------------------
 gaopi.com
@@ -788,6 +787,7 @@ china.blogs.time.com
 
 worldjournal.com/wj-ch-news.php
 wowwiki.com
+|http://wp.me/
 wretch.cc
 wuerkaixi.com
 .wujie.net
@@ -893,6 +893,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+fotop.net
 willw.net
 happiness-project.com
 thedieline.com
