@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: MGp2hrzctFAYGGXbIflRhw
-! Last Modified:  Wed, 30 Sep 2009 16:50:43 +0800
+! Checksum: 8nldAgiEJWR6LoBpzexkAA
+! Last Modified:  Wed, 30 Sep 2009 18:05:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -238,6 +238,7 @@ codereview.chromium.org
 rss.cnn.com
 blog.doughellmann.com
 www.dropbox.com
+dumblittleman.com
 www.earthhour.org
 mclee.foolme.net
 frienddeck.com
@@ -339,6 +340,7 @@ izaobao.com
 jieshibaobao.com
 .jiruan.net
 |http://jpra1113.org
+justsoit.com
 
 !--------------------------K--------------------------
 karayou.com
@@ -448,7 +450,9 @@ plurk.com
 posterous.com
 post.anyu.org
 bralio.com
+corywatilo.com
 designerol.com
+blog.dustincurtis.com
 erinc.ca
 roteiro.geedr.com
 holykaw.com
@@ -883,6 +887,10 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+jayparkinsonmd.com
+gwenbell.com
+internetpopculture.com
+sippey.com
 firestorage.jp
 platinumgames.com
 ning.com
