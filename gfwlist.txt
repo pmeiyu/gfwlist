@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 8nldAgiEJWR6LoBpzexkAA
-! Last Modified:  Wed, 30 Sep 2009 18:05:34 +0800
+! Checksum: bAU8vSN4IgHP5uPMtP0fAg
+! Last Modified:  Wed, 30 Sep 2009 20:58:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -230,8 +230,10 @@ globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 
 !-------------Google.ghs-----
+!--Need to be edited in next version of AutoProxy
 http://developer.android.com
 source.android.com
+www.benjamingolub.com
 http://blog.chromium.org
 codereview.chromium.org
 |http://dev.chromium.org/
@@ -769,9 +771,13 @@ http://willhains.com
 tibet.woeser.com
 
 !-------------Wordpress Blog-----
+!---Need to be edited in next version of AutoProxy
+blogmaverick.com
 blog.drakengren.com
 blog.feedly.com
 blog.flickr.net
+p2theme.com
+blog.polldaddy.com
 blog.symbian.org
 china.blogs.time.com
 .wordpress.com
@@ -887,6 +893,15 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+willw.net
+happiness-project.com
+thedieline.com
+p2pu.org
+www.avc.com
+minimalmac.com
+sandradodd.com
+help.seesmic.com
+thelifeyoucansave.com
 jayparkinsonmd.com
 gwenbell.com
 internetpopculture.com
