@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: A3YP7RNreu8dgvK1eyal0w
-! Last Modified:  Tue, 29 Sep 2009 14:20:05 +0800
+! Checksum: 8YqhS79TbYrq/h/1dEWy+w
+! Last Modified:  Wed, 30 Sep 2009 16:12:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -198,6 +198,7 @@ fillthesquare.org
 !--|http://farm2.static.flickr.com/
 !--|http://farm4.static.flickr.com
 www.forum4hk.com
+.free.fr/adsl
 kineox.free.fr
 freeciv.org
 freeflowlife.net
@@ -545,7 +546,7 @@ tube8.com
 tumblr.com
 .gov.tw/
 twbbs.net.tw
-xiange.twbbs.org
+twbbs.org
 twisternow.com
 twitpic.com
 twitter.com
@@ -719,8 +720,6 @@ zh.wikipedia.org*%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85
 zh.wikipedia.org*%E6%97%A0%E7%95%8C
 !--Xi Dan Min Zhu Qiang
 zh.wikipedia.org*%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
-!--Xi Jin Ping
-zh.wikipedia.org*%E4%B9%A0%E8%BF%91%E5%B9%B3
 !--Xi Zang
 zh.wikipedia.org*%E8%A5%BF%E8%97%8F
 !--Xie Yan Fei
@@ -882,6 +881,9 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+platinumgames.com
+ning.com
+|http://3b8.cc/
 blogsmithmedia.com
 verybs.com
 |http://teck.in/
