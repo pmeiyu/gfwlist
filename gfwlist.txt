@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: bAU8vSN4IgHP5uPMtP0fAg
-! Last Modified:  Wed, 30 Sep 2009 20:58:26 +0800
+! Checksum: O+ND2uRZ36gNpn4jd8eTyw
+! Last Modified:  Wed, 30 Sep 2009 21:06:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -463,7 +463,7 @@ blog.nicholaspatten.com
 post.ly/
 reflectionof.me
 log.riku.me
-www.steverubel.com
+steverubel.com
 vatn.org
 veempiire.com
 www.vegorpedersen.com
