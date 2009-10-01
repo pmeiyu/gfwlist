@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ugrmRUs5Idf0UBpoXl2Z0Q
-! Last Modified:  Thu, 01 Oct 2009 21:21:54 +0800
+! Checksum: CYDwNkeXqb/ciBOvB7AC5A
+! Last Modified:  Thu, 01 Oct 2009 21:56:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -299,6 +299,8 @@ picasaweb.google.com
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
 anti.anti.cnn.googlepages.com
 .googlevideo.com
+!-Google holiday logos
+|http://www.google.com/logos
 
 gospelherald.com
 |http://www.govindicators.org
@@ -503,6 +505,7 @@ scribd.com
 secretchina.com
 sesawe.net
 .settv.com
+seul.org
 shaunthesheep.com
 shenshou.org
 simpleproductivityblog.com
@@ -646,6 +649,8 @@ zh.wikipedia.org*%E6%9F%B4%E7%8E%B2
 zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83
 !--Da Ji Yuan Shi Bao: zh-cn
 zh.wikipedia.org*%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
+!--Da Lai La Ma
+zh.wikipedia.org*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Da She Guo JI
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 !--E Luo Si
@@ -730,6 +735,8 @@ zh.wikipedia.org/wiki/%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C
 zh.wikipedia.org*%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85
 !--Wu Jie
 zh.wikipedia.org*%E6%97%A0%E7%95%8C
+!--Wu Lu Mu Qi Qi Wu Bao Li Shi Jian
+zh.wikipedia.org*%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E4%B8%83%C2%B7%E4%BA%94%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6
 !--Xi Dan Min Zhu Qiang
 zh.wikipedia.org*%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 !--Xi Zang
