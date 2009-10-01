@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: CYDwNkeXqb/ciBOvB7AC5A
-! Last Modified:  Thu, 01 Oct 2009 21:56:13 +0800
+! Checksum: 5ibTTx94wV394v1ZmSNUkw
+! Last Modified:  Thu, 01 Oct 2009 22:45:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -36,8 +36,9 @@ anchorfree.com
 anonymizer.com
 anonymouse.org
 |http://news.aol.com/
-http://gfw.appspot.com/
-|http://proxypy.appspot.com/
+!--http://gfw.appspot.com/
+!--|http://proxypy.appspot.com/
+|http://*.appspot.com
 areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
@@ -294,6 +295,7 @@ docs.google.com*view*docid
 groups.google.com*group*gfw-blog
 groups.google.com*group*lihlii
 groups.google.com*group*mindex
+groups.google.com*group*zh_wikipedia
 groups.google.com*group*cn.bbs.comp.dotnet
 picasaweb.google.com
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
@@ -637,6 +639,8 @@ en.wikipedia.org*Tiananmen_Square_protests_of_1989
 !-------------zh.WikiPedia-----
 zh.wikipedia.org*Anti-CNN
 zh.wikipedia.org*1989
+!-User talk: Wang Ming Rui
+zh.wikipedia.org*User_talk:JerryofWong
 !--Ban Chan
 zh.wikipedia.org*%E7%8F%AD%E7%A6%85
 !--Bei Jing Zhi Chun
@@ -665,6 +669,8 @@ zh.wikipedia.org*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 zh.wikipedia.org*%E6%96%B9%E5%8A%B1%E4%B9%8B
 !--Fen Qing
 zh.wikipedia.org*%E6%84%A4%E9%9D%92
+!--Hu Jia (She Hui Huo Dong Jia)
+zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
 zh.wikipedia.org*%E8%83%A1%E9%94%A6%E6%B6%9B
 !--Hua Guo Feng
