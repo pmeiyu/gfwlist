@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: a2z2NEL9GkV3PxDoAeMklQ
-! Last Modified:  Thu, 01 Oct 2009 19:17:02 +0800
+! Checksum: 1k47GyGvcQgYxK5fsciBxQ
+! Last Modified:  Thu, 01 Oct 2009 20:49:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -619,6 +619,8 @@ wikidot.com
 !-WikiLeaks IP
 */88.80.13.160/*
 secure.wikimedia.org
+http://willhains.com
+tibet.woeser.com
 
 !-------------en.WikiPedia-----
 en.wikipedia.org/wiki/Book_burning
@@ -765,9 +767,6 @@ zh.wikipedia.org*%E4%B8%AD%E8%8B%B1%E7%BA%8C%E8%A8%82%E8%97%8F%E5%8D%B0%E6%A2%9D
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zhou
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
-
-http://willhains.com
-tibet.woeser.com
 
 !-------------Wordpress Blog-----
 !---Need to be edited in next version of AutoProxy
