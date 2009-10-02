@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: mBgPbB2tsKvMG74H13jozw
-! Last Modified:  Thu, 01 Oct 2009 22:55:39 +0800
+! Checksum: WFhR0fJn1CixCL9fEMYU9A
+! Last Modified:  Fri, 02 Oct 2009 16:48:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -292,11 +292,13 @@ google.com*analytics*zh-CN
 |http://www.google.com/search*free*gate
 |http://code.google.com/p/cngepi/downloads/
 docs.google.com*view*docid
-groups.google.com*group*gfw-blog
-groups.google.com*group*lihlii
-groups.google.com*group*mindex
-groups.google.com*group*zh_wikipedia
-groups.google.com*group*cn.bbs.comp.dotnet
+!--Google Groups, HTTP only--
+http://groups.google.com*group*fans
+http://groups.google.com*group*gfw-blog
+http://groups.google.com*group*lihlii
+http://groups.google.com*group*mindex
+http://groups.google.com*group*zh_wikipedia
+http://groups.google.com*group*cn.bbs.comp.dotnet
 picasaweb.google.com
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
 anti.anti.cnn.googlepages.com
@@ -755,6 +757,8 @@ zh.wikipedia.org*%E6%98%9F%E4%BA%91%E6%B3%95%E5%B8%88
 zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 !--Yan Ming Fu
 zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
+!--Yong He Gong
+zh.wikipedia.org*%E9%9V%8D%E5%92%8C%E5%AE%AB
 !--Zhang Yu Zhe
 zh.wikipedia.org*%E5%BC%A0%E9%92%B0%E5%93%B2
 !--Zhao Zi Yang -- Traditional Chinese
