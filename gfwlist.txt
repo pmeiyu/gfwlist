@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 5ibTTx94wV394v1ZmSNUkw
-! Last Modified:  Thu, 01 Oct 2009 22:45:13 +0800
+! Checksum: mBgPbB2tsKvMG74H13jozw
+! Last Modified:  Thu, 01 Oct 2009 22:55:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -560,7 +560,7 @@ tumblr.com
 twbbs.net.tw
 twbbs.org
 twisternow.com
-twitpic.com
+!-twitpic.com
 twitter.com
 !-twitter.com/amoiist
 !-twitter.com/BeiJing1989
