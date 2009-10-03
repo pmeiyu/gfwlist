@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: nsbq7DN+cksc+7iaq72qzw
-! Last Modified:  Sun, 04 Oct 2009 02:25:17 +0800
+! Checksum: CoyMQG0OU6KT9pCF+PQ3Pg
+! Last Modified:  Sun, 04 Oct 2009 02:34:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -500,6 +500,7 @@ rthk.org.hk
 rti.org.tw
 ruten.com.tw
 ranyunfei.com
+rapidlibrary.com
 
 !--------------------------S--------------------------
 scribd.com
@@ -532,6 +533,7 @@ www.stackfile.com/freedur
 starcraft2.com
 usinfo.state.gov
 sysresccd.org
+blog.syx86.cn/2009/09/puff
 
 !--------------------------T--------------------------
 takungpao.com
