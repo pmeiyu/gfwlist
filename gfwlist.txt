@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: WFhR0fJn1CixCL9fEMYU9A
-! Last Modified:  Fri, 02 Oct 2009 16:48:07 +0800
+! Checksum: z9xHd0BzgyHZ+fprhWDPfA
+! Last Modified:  Sat, 03 Oct 2009 12:15:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -36,9 +36,8 @@ anchorfree.com
 anonymizer.com
 anonymouse.org
 |http://news.aol.com/
-!--http://gfw.appspot.com/
-!--|http://proxypy.appspot.com/
-|http://*.appspot.com
+http://gfw.appspot.com/
+http://proxypy.appspot.com/
 areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
@@ -291,20 +290,17 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 google.com*analytics*zh-CN
 |http://www.google.com/search*free*gate
 |http://code.google.com/p/cngepi/downloads/
-docs.google.com*view*docid
-!--Google Groups, HTTP only--
-http://groups.google.com*group*fans
-http://groups.google.com*group*gfw-blog
-http://groups.google.com*group*lihlii
-http://groups.google.com*group*mindex
-http://groups.google.com*group*zh_wikipedia
-http://groups.google.com*group*cn.bbs.comp.dotnet
+|http://docs.google.com*view*docid
+|http://groups.google.com*group*fans
+|http://groups.google.com*group*gfw-blog
+|http://groups.google.com*group*lihlii
+|http://groups.google.com*group*mindex
+|http://groups.google.com*group*zh_wikipedia
+|http://groups.google.com*group*cn.bbs.comp.dotnet
 picasaweb.google.com
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
 anti.anti.cnn.googlepages.com
 .googlevideo.com
-!-Google holiday logos
-|http://www.google.com/logos
 
 gospelherald.com
 |http://www.govindicators.org
@@ -509,7 +505,6 @@ scribd.com
 secretchina.com
 sesawe.net
 .settv.com
-seul.org
 shaunthesheep.com
 shenshou.org
 simpleproductivityblog.com
@@ -562,7 +557,6 @@ tumblr.com
 twbbs.net.tw
 twbbs.org
 twisternow.com
-!-twitpic.com
 twitter.com
 !-twitter.com/amoiist
 !-twitter.com/BeiJing1989
@@ -626,7 +620,6 @@ wikidot.com
 !-WikiLeaks IP
 */88.80.13.160/*
 secure.wikimedia.org
-http://willhains.com
 tibet.woeser.com
 
 !-------------en.WikiPedia-----
@@ -639,10 +632,9 @@ en.wikipedia.org*Internet_censorship
 en.wikipedia.org*Tiananmen_Square_protests_of_1989
 
 !-------------zh.WikiPedia-----
+!--1989 Nian
+zh.wikipedia.org*1989%E5%B9%B4
 zh.wikipedia.org*Anti-CNN
-zh.wikipedia.org*1989
-!-User talk: Wang Ming Rui
-zh.wikipedia.org*User_talk:JerryofWong
 !--Ban Chan
 zh.wikipedia.org*%E7%8F%AD%E7%A6%85
 !--Bei Jing Zhi Chun
@@ -719,6 +711,7 @@ zh.wikipedia.org*%E8%8B%8F%E5%AE%B6%E5%B1%AF%E4%BA%8B%E4%BB%B6
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
+zh.wikipedia.org*User_talk:JerryofWong
 !--Wang Wei Lin
 zh.wikipedia.org*%E7%8E%8B%E7%BB%B4%E6%9E%97
 !--Wei Jing Sheng
@@ -733,8 +726,6 @@ zh.wikipedia.org*%E7%8E%8B%E4%B9%90%E6%B3%89
 zh.wikipedia.org*%E6%B1%AA%E6%B4%8B
 !--Wen Chuan Di Zhen
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87
-!--Wo Ai Wo De Zu Guo
-zh.wikipedia.org*%E6%88%91%E7%88%B1%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD
 !--Wo De Fen Dou
 zh.wikipedia.org*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Er Kai Xi
@@ -758,7 +749,7 @@ zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 !--Yan Ming Fu
 zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
 !--Yong He Gong
-zh.wikipedia.org*%E9%9V%8D%E5%92%8C%E5%AE%AB
+zh.wikipedia.org*%E9%9B%8D%E5%92%8C%E5%AE%AB
 !--Zhang Yu Zhe
 zh.wikipedia.org*%E5%BC%A0%E9%92%B0%E5%93%B2
 !--Zhao Zi Yang -- Traditional Chinese
@@ -914,6 +905,9 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+woeser.com
+willhains.com
+seul.org
 fotop.net
 willw.net
 happiness-project.com
