@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 1Fdg4y8yh2StjSEej76mlA
-! Last Modified:  Sat, 03 Oct 2009 18:08:15 +0800
+! Checksum: XC98f7Ngv3556dRalPwAkA
+! Last Modified:  Sat, 03 Oct 2009 18:42:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -30,7 +30,6 @@ alliance.org.hk
 amiblockedornot.com
 .amnesty.org
 amnestyusa.org
-|http://www.amoiist.com/
 anchorfree.com
 |http://www.andylau.com
 anonymizer.com
@@ -230,6 +229,7 @@ zh.globalvoicesonline.org
 
 !-------------Google.ghs-----
 !--Need to be edited in next version of AutoProxy
+|http://www.amoiist.com/
 http://developer.android.com
 source.android.com
 www.benjamingolub.com
@@ -247,6 +247,7 @@ frienddeck.com
 feeds.gawker.com
 |http://www.greasespot.net/
 blog.growlforwindows.com
+www.ibluecity.com
 blog.jsquaredjavascript.com
 tomatovpn.keithmoyer.com
 www.keithmoyer.com
@@ -260,6 +261,7 @@ socialwhois.com
 www.techfob.com
 |http://mxexpress.twbbs.org/
 !--http://blog.twitter.com
+|http://www.wavesandbox.com
 www.willhains.com
 www.writeroom.ws
 
@@ -459,7 +461,6 @@ blog.dustincurtis.com
 erinc.ca
 roteiro.geedr.com
 holykaw.com
-www.ibluecity.com
 blog.nicholaspatten.com
 post.ly/
 reflectionof.me
@@ -939,8 +940,6 @@ skulpt.org
 erights.net
 blambin.byethost16.com
 alexking.org
-|http://wavesandbox.com
-|http://www.wavesandbox.com
 909090909.info
 vapurl.com
 topstyle4.com
