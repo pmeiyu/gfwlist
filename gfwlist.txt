@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: z9xHd0BzgyHZ+fprhWDPfA
-! Last Modified:  Sat, 03 Oct 2009 12:15:54 +0800
+! Checksum: 1Fdg4y8yh2StjSEej76mlA
+! Last Modified:  Sat, 03 Oct 2009 18:08:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -905,6 +905,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+contests.twilio.com
 woeser.com
 willhains.com
 seul.org
