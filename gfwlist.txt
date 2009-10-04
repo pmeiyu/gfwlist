@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: CoyMQG0OU6KT9pCF+PQ3Pg
-! Last Modified:  Sun, 04 Oct 2009 02:34:15 +0800
+! Checksum: FNJRmSwihy4tZsvAsA2w+w
+! Last Modified:  Sat, 03 Oct 2009 22:25:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -706,6 +706,8 @@ zh.wikipedia.org*%E5%88%98%E5%BB%B6%E4%B8%9C
 zh.wikipedia.org*%E5%88%98%E4%BA%91%E5%B1%B1
 !--Po Wang
 zh.wikipedia.org*%E7%A0%B4%E7%BD%91
+!--Re Bi Ya
+zh.wikipedia.org*%E7%83%AD%E6%AF%94%E5%A8%85
 !--Sheng Xiong Gan Di
 zh.wikipedia.org*%E5%9C%A3%E9%9B%84%E7%94%98%E5%9C%B0
 !--Shi Xing Yun
