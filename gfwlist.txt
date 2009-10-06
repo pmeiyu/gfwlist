@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: FNJRmSwihy4tZsvAsA2w+w
-! Last Modified:  Sat, 03 Oct 2009 22:25:10 +0800
+! Checksum: 0Xe7mUvlEIGoJe4Eg22I+g
+! Last Modified:  Tue, 06 Oct 2009 14:23:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -94,6 +94,7 @@ boxcn.net/shared/v8dku73p1h
 boxun.com
 |http://mckk.bplaced.net
 bullogger.com
+holz.byethost8.com
 
 !--------------------------C--------------------------
 canyu.org
@@ -156,7 +157,7 @@ dajiyuan.com
 danwei.org
 packages.debian.org*zh-cn*lenny*gpass
 http://www.destroydebtwithcashgifting.com
-de-sci.org/
+de-sci.org
 democrats.org
 diigo.com
 discuss.com.hk
@@ -363,14 +364,14 @@ linuxconfig.org
 lipuman.com
 
 !-------------live spaces-----
-@@|https://*.live.com/
-portis21.spaces.live.com
-siyi123123123.spaces.live.com
-wangyi64.spaces.live.com
-wenyunchao.spaces.live.com
-yezimary.spaces.live.com
-zengjinyan.spaces.live.com
-zhllg.spaces.live.com
+|http://*hujiachina.spaces.live.com
+|http://*portis21.spaces.live.com
+|http://*siyi123123123.spaces.live.com
+|http://*wangyi64.spaces.live.com
+|http://*wenyunchao.spaces.live.com
+|http://*yezimary.spaces.live.com
+|http://*zengjinyan.spaces.live.com
+|http://*zhllg.spaces.live.com
 
 liveleak.com
 
