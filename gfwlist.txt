@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 0Xe7mUvlEIGoJe4Eg22I+g
-! Last Modified:  Tue, 06 Oct 2009 14:23:00 +0800
+! Checksum: o4lSfmaBwPuZY4lnaEioUg
+! Last Modified:  Wed, 07 Oct 2009 00:33:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -12,6 +12,7 @@
 |http://3cc.cc/
 |http://www.3cc.cc/
 4shared.com
+info.51.ca
 5maodang.com
 6park.com
 64memo.com
@@ -34,9 +35,8 @@ anchorfree.com
 |http://www.andylau.com
 anonymizer.com
 anonymouse.org
-|http://news.aol.com/
-http://gfw.appspot.com/
-http://proxypy.appspot.com/
+|http://gfw.appspot.com
+|http://proxypy.appspot.com
 areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
@@ -47,7 +47,7 @@ avno1.com
 
 !--------------------------B--------------------------
 backchina.com
-.badongo.com/
+.badongo.com
 baidu.jp/
 hen.bao.li
 |http://www.barnabu.co.uk
@@ -62,7 +62,6 @@ bignews.org
 !--bing.com
 .blip.tv
 /blip.tv
-.blog.com/
 |http://*blogger.com
 |http://bloglines.com
 |http://www.bloglines.com
@@ -100,6 +99,7 @@ holz.byethost8.com
 canyu.org
 |http://caodan.net
 |http://www.carnegieendowment.org
+catholic.org.tw*catholic
 .ccc.de
 |http://ccc.de/
 www.ccdtr.org
@@ -116,7 +116,7 @@ china-week.com
 china911.org
 chinaaffairs.org
 chinacomments.org
-chinadigitaltimes.net/
+chinadigitaltimes.net
 chinagfw.org
 chinasmack.com
 chinatimes.com
@@ -179,7 +179,6 @@ edoors.com
 |http://www.edubridge.com/
 eltondisney.com
 epochtimes.com
-etree.org/
 eyny.com
 
 !--------------------------F--------------------------
@@ -334,7 +333,6 @@ hulu.com
 !--------------------------I--------------------------
 |http://i1.hk/
 idv.tw
-hp.infoseek.co.jp/
 |http://www.im.tv/
 |http://www.inmediahk.net/
 internetfreedom.org
@@ -407,7 +405,6 @@ sidekick.myblog.hk
 |http://vids.myspace.com/
 
 !--------------------------N--------------------------
-naol.ca/
 www.ned.org
 net.ru
 netcolony.com
@@ -447,7 +444,6 @@ peacehall.com
 perfdynamics.com
 philly.com
 picturesocial.com
-blog.pixnet.com
 plays.com.tw
 plurk.com
 
@@ -475,8 +471,7 @@ blog.xiaxiaoyang.com
 |http://z-turn.cn/
 bill.zhong.pp.ru
 
-
-powerapple.com/
+powerapple.com
 psiphon.ca
 |http://www.ptt.cc/
 
@@ -484,7 +479,7 @@ psiphon.ca
 blog.qooza.hk*dafengqixi
 |http://pixel.quantserve.com/
 qusi8.net
-qxbbs.org/
+qxbbs.org
 
 !--------------------------R--------------------------
 www.radioaustralia.net.au*chinese*articles*
@@ -511,7 +506,7 @@ sesawe.net
 shaunthesheep.com
 shenshou.org
 simpleproductivityblog.com
-dailynews.sina.com/
+dailynews.sina.com
 dailynews.sina.com%2F
 blog.sina.com.tw
 news.sina.com.tw
@@ -527,7 +522,6 @@ sokamonline.com
 |http://www.songza.com/
 |http://songza.com/
 soundofhope.org
-.soup.io/
 |http://my.spill.com
 squarespace.com
 www.stackfile.com/freedur
@@ -606,12 +600,12 @@ www.voy.com
 wallornot.org
 www.wangruowang.org
 .we.bs/
-.webshots.com/
+webshots.com
 websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
 weijingsheng.org
+news.wenxuecity.com
 www.wenyunchao.com
-wenxuecity.com/
 www.wet123.com
 |http://static.wetpaint.com/
 |http://www.wetpaint.com/
@@ -620,20 +614,21 @@ www.wet123.com
 .whitehats.com
 wikidot.com
 @@static.wikidot.com
-.wikileaks.org/
+.wikileaks.org
 !-WikiLeaks IP
 */88.80.13.160/*
 secure.wikimedia.org
 tibet.woeser.com
 
 !-------------en.WikiPedia-----
-en.wikipedia.org*Book_burning
-en.wikipedia.org*Censorship_in_the_People%27s_Republic_of_China
-en.wikipedia.org*Dalai_Lama
-en.wikipedia.org*Deep_packet_inspection
-en.wikipedia.org*Golden_Shield_Project
-en.wikipedia.org*Internet_censorship
-en.wikipedia.org*Tiananmen_Square_protests_of_1989
+|http://en.wikipedia.org*Book_burning
+|http://en.wikipedia.org*Censorship_in_the_People%27s_Republic_of_China
+|http://en.wikipedia.org*Dalai_Lama
+|http://en.wikipedia.org*Deep_packet_inspection
+|http://en.wikipedia.org*Freegate
+|http://en.wikipedia.org*Golden_Shield_Project
+|http://en.wikipedia.org*Internet_censorship
+|http://en.wikipedia.org*Tiananmen_Square_protests_of_1989
 
 !-------------zh.WikiPedia-----
 !--1989 Nian
@@ -851,7 +846,7 @@ youtube.com
 !--@@youtube.com/get_video
 !-Youtube CDN
 .ytimg.com
-ytht.net/
+ytht.net
 
 !--------------------------Z--------------------------
 |http://luntan.zaobao.com/
@@ -876,6 +871,8 @@ gfwProxyEnabled=yes
 !--IP of Twitter
 128.121.146.228
 
+!--Da Ji Yuan
+|http://*search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
 |http://*%E5%8A%A8%E6%80%81%E7%BD%91
 !--fa lun da fa
@@ -915,6 +912,13 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+.pixnet.net
+@@|http://www.pixnet.net
+wenxuecity.com
+.soup.io
+|http://soup.io
+.vox.com
+|http://vox.com
 contests.twilio.com
 woeser.com
 willhains.com
@@ -996,7 +1000,6 @@ emojiforichat.com
 kompozer.net
 dopdf.com
 dmtcs.org
-cr0.org/
 e71fanatics.com
 
 
@@ -1007,16 +1010,13 @@ e71fanatics.com
 |http://www.yzzk.com/
 |http://www.weekmag.info/
 bendiken.net
-.ecstart.com/
 |http://bsiegel.ath.cx/
 |http://www.tycool.com/
 www.msguancha.com
 |http://www.meetup.com/
-|http://truveo.com/
 |http://www.oxfam.org.hk/
 |http://www.salvation.org.hk/
 |http://www.tacem.org/
-.pixnet.net/
 |http://mysinablog.com/
 |http://www.kwongwah.com.my/
 mitbbs.com
@@ -1036,23 +1036,20 @@ avatron.com
 .catb.org
 zh.wikipedia.org*wiki*GFW
 .islam.org.hk
-thumbnails.truveo.com
 video.aol.com
 .cpj.org
 hkcccl.org.hk
 catholic.org.hk
 .committeetoprotectbloggers.org
-.truveo.com/
+.truveo.com
 .hrw.org
 .asianews.it
-http://www.catholic.org.tw/
 .evanlife.org.hk
 .hkjp.org
 hkjp.easyweb.hk
 .roodo.com
 hk.geocities.com
 .tistory.com
-.vox.com/
 .competitionforce.hk
 .chingcheong.com
 .longhair.hk
