@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: o4lSfmaBwPuZY4lnaEioUg
-! Last Modified:  Wed, 07 Oct 2009 00:33:14 +0800
+! Checksum: 77whz/Mj6C3MpuHt1b5N/w
+! Last Modified:  Wed, 07 Oct 2009 00:47:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -414,7 +414,6 @@ newstin.com
 hk*.nextmedia.com
 tw*.nextmedia.com
 ngensis.com
-|http://taiwanyes.ning.com/group/taiwanpower
 no-ip.com
 .nowtorrents.com
 ntdtv.com
@@ -912,6 +911,9 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+.ning.com
+|http://ning.com
+@@|http://www.ning.com
 .pixnet.net
 @@|http://www.pixnet.net
 wenxuecity.com
@@ -939,7 +941,6 @@ internetpopculture.com
 sippey.com
 firestorage.jp
 platinumgames.com
-ning.com
 |http://3b8.cc/
 blogsmithmedia.com
 verybs.com
