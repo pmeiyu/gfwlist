@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: OjdNwkBIgt1+7g1m344+jA
-! Last Modified:  Wed, 07 Oct 2009 09:51:55 +0800
+! Checksum: xCf1dpQAC9hyh6Jz7WhMzQ
+! Last Modified:  Wed, 07 Oct 2009 15:04:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -81,7 +81,7 @@ backpackers.com.tw
 !wmrblog.blogspot.com
 !yetaai.blogspot.com
 
-.blogware.com
+blogwind.com
 |http://www.bloodshed.net/
 bloomfortune.com
 bolour.com
@@ -253,6 +253,7 @@ tomatovpn.keithmoyer.com
 www.keithmoyer.com
 blog.kowalczyk.info
 www.kunalanand.com
+feeds.limi.net
 feeds.mobileread.com
 http://blog.nihilogic.dk
 blog.persistent.info
