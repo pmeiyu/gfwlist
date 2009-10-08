@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: lPI8du2nIe8P8Vja3uFJwA
-! Last Modified:  Thu, 08 Oct 2009 11:30:18 +0800
+! Checksum: 6MatJi5kj39Imr2pOfAGCg
+! Last Modified:  Thu, 08 Oct 2009 14:17:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -17,6 +17,7 @@ info.51.ca
 6park.com
 64memo.com
 64tianwang.com
+|http://www.881903.com
 89-64.org
 8ok.com/
 
@@ -54,7 +55,9 @@ hen.bao.li
 bbc.co.uk*chinese
 bbc.co.uk*zhongwen
 newsvote.bbc.co.uk
+newsforums.bbc.co.uk
 bbsland.com
+www.bcc.com.tw/board
 blog.bcchinese.net
 beijingspring.com
 bestforchina.org
@@ -104,6 +107,7 @@ catholic.org.tw*catholic
 |http://ccc.de/
 www.ccdtr.org
 |http://www.cdef.org
+|http://www.cdnews.com.tw
 www.cdp1998.org
 cdpwu.org
 www.cecc.gov
@@ -119,7 +123,7 @@ chinacomments.org
 chinadigitaltimes.net
 chinagfw.org
 chinasmack.com
-chinatimes.com
+!-chinatimes.com
 chinaway.org
 chinesenewsnet.com
 chromeexperiments.com
@@ -310,7 +314,6 @@ gospelherald.com
 gpass1.com
 |http://www.gproxy.com
 great-firewall.com
-|http://www.gutenberg.org/
 
 !--------------------------H--------------------------
 |http://hackaday.com/
@@ -325,6 +328,7 @@ myweb.hinet.net
 hk-pub.com
 global.hkepc.com*forum
 hkgolden.com
+hkjc.com
 hkreporter.com
 .hotupub.com
 hrichina.org
@@ -333,6 +337,8 @@ hulu.com
 
 !--------------------------I--------------------------
 |http://i1.hk/
+|http://board.i-cable.com
+|http://cablenews.i-cable.com
 idv.tw
 |http://www.im.tv/
 |http://www.inmediahk.net/
@@ -399,8 +405,7 @@ mirrorbooks.com
 mm36c.com
 .mp/
 |http://www.mpinews.com/
-news.msn.com.tw
-www.msn.com.tw
+msn.com.tw
 sidekick.myblog.hk
 |http://www.mycould.com/
 |http://vids.myspace.com/
@@ -416,8 +421,11 @@ hk*.nextmedia.com
 tw*.nextmedia.com
 ngensis.com
 no-ip.com
+|http://www.nownews.com/box
+|http://blog.nownews.com
 .nowtorrents.com
 ntdtv.com
+nysingtao.com
 
 !--------------------------O--------------------------
 observechina.net
@@ -477,6 +485,7 @@ psiphon.ca
 |http://www.ptt.cc/
 
 !--------------------------Q--------------------------
+http://space.qoos.com/
 blog.qooza.hk*dafengqixi
 |http://pixel.quantserve.com/
 qusi8.net
@@ -484,16 +493,16 @@ qxbbs.org
 
 !--------------------------R--------------------------
 www.radioaustralia.net.au*chinese*articles*
+rcinet.ca
 renminbao.com
 revver.com
-rfa.org*cantonese
-rfa.org*mandarin
+rfa.org
 www.rfi.fr
 robertmao.com
 robtex.com
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
-rthk.org.hk
+!-rthk.org.hk
 rti.org.tw
 ruten.com.tw
 ranyunfei.com
@@ -522,7 +531,9 @@ blog.sogoo.org
 sokamonline.com
 |http://www.songza.com/
 |http://songza.com/
+|http://www.sopcast.org
 soundofhope.org
+sowers.org.hk
 |http://my.spill.com
 squarespace.com
 www.stackfile.com/freedur
@@ -552,6 +563,7 @@ tsquare.tv
 |http://tttan.com/
 tube8.com
 tumblr.com
+|http://forum.tvb.com/
 .gov.tw/
 twbbs.net.tw
 twbbs.org
@@ -586,6 +598,7 @@ unblog.fr
 uncyclopedia.
 |http://unifoundry.com/
 |http://www.unknownspace.org/
+|http://myshare.url.com.tw/
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ustream.tv
@@ -594,7 +607,7 @@ ustream.tv
 !--------------------------V--------------------------
 www.vansky.com
 |http://www.visuwords.com/
-voanews.com*chinese
+voanews.com
 www.voy.com
 
 !--------------------------W--------------------------
@@ -606,6 +619,7 @@ websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
 weijingsheng.org
 news.wenxuecity.com
+|http://blog.wenxuecity.com
 www.wenyunchao.com
 www.wet123.com
 |http://static.wetpaint.com/
@@ -620,6 +634,7 @@ wikidot.com
 */88.80.13.160/*
 secure.wikimedia.org
 tibet.woeser.com
+worldjournal.com
 
 !-------------en.WikiPedia-----
 |http://en.wikipedia.org*Book_burning
@@ -855,6 +870,7 @@ ytht.net
 
 !--------------------------Z--------------------------
 |http://luntan.zaobao.com/
+zaobao.com.sg
 www.zaurus.org.uk
 asset*.zendesk.com
 .zengjinyan.org
