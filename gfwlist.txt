@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 6MatJi5kj39Imr2pOfAGCg
-! Last Modified:  Thu, 08 Oct 2009 14:17:06 +0800
+! Checksum: OtA6lOHpugoEhfkGL7Zx8Q
+! Last Modified:  Thu, 08 Oct 2009 16:28:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -264,10 +264,9 @@ blog.persistent.info
 http://rss.slashdot.org
 socialwhois.com
 www.techfob.com
-|http://mxexpress.twbbs.org/
 !--http://blog.twitter.com
 |http://www.wavesandbox.com
-www.willhains.com
+willhains.com
 www.writeroom.ws
 
 !-------------Google.other-----
@@ -516,8 +515,6 @@ sesawe.net
 shaunthesheep.com
 shenshou.org
 simpleproductivityblog.com
-dailynews.sina.com
-dailynews.sina.com%2F
 blog.sina.com.tw
 news.sina.com.tw
 news.sina.com.hk
@@ -633,7 +630,6 @@ wikidot.com
 !-WikiLeaks IP
 */88.80.13.160/*
 secure.wikimedia.org
-tibet.woeser.com
 worldjournal.com
 
 !-------------en.WikiPedia-----
@@ -822,7 +818,6 @@ china.blogs.time.com
 @@http://s2.wordpress.com/
 @@http://www.wordpress.com
 
-worldjournal.com/wj-ch-news.php
 wowwiki.com
 |http://wp.me/
 wretch.cc
@@ -938,14 +933,12 @@ gfwProxyEnabled=yes
 @@|http://www.ning.com
 .pixnet.net
 @@|http://www.pixnet.net
-wenxuecity.com
 .soup.io
 |http://soup.io
 .vox.com
 |http://vox.com
 contests.twilio.com
 woeser.com
-willhains.com
 seul.org
 fotop.net
 willw.net
@@ -981,7 +974,6 @@ vapurl.com
 topstyle4.com
 dlsite.com
 tornadoweb.org
-i-cable.com
 shixiao.org
 shizhao.org
 abc.pp.ru
@@ -994,6 +986,7 @@ endsoftpatents.org
 hqwalls.net
 blog.tr.im
 news.sina.com/
+news.sina.com%2F
 !-||news.sina.com^
 hackthatphone.com
 hackthatphone.net
