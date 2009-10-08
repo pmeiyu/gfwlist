@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: xCf1dpQAC9hyh6Jz7WhMzQ
-! Last Modified:  Wed, 07 Oct 2009 15:04:11 +0800
+! Checksum: lPI8du2nIe8P8Vja3uFJwA
+! Last Modified:  Thu, 08 Oct 2009 11:30:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -744,6 +744,10 @@ zh.wikipedia.org*%E6%97%A0%E7%95%8C
 zh.wikipedia.org*%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E4%B8%83%C2%B7%E4%BA%94%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6
 !--Xi Dan Min Zhu Qiang
 zh.wikipedia.org*%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
+!--Xi Jin Ping - Traditional
+zh.wikipedia.org*%E7%BF%92%E8%BF%91%E5%B9%B3
+!--Xi Jin Ping
+zh.wikipedia.org*%E4%B9%A0%E8%BF%91%E5%B9%B3
 !--Xi Zang
 zh.wikipedia.org*%E8%A5%BF%E8%97%8F
 !--Xie Yan Fei
