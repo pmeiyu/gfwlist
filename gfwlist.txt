@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: OtA6lOHpugoEhfkGL7Zx8Q
-! Last Modified:  Thu, 08 Oct 2009 16:28:01 +0800
+! Checksum: Ar5vQtB+T5LasNd0HslRdw
+! Last Modified:  Thu, 08 Oct 2009 14:30:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -588,8 +588,11 @@ tynsoe.org
 @@www.typepad.com
 
 !--------------------------U--------------------------
-/udn.com
-.udn.com
+album.udn.com
+blog.udn.com
+city.udn.com
+dignews.udn.com
+paper.udn.com
 uighurbiz.net
 unblog.fr
 uncyclopedia.
