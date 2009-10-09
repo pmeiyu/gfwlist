@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: WcuE3ZPvDpM8jvfxHvgmYw
-! Last Modified:  Fri, 09 Oct 2009 18:01:17 +0800
+! Checksum: zT1PLtSKcCs4YHy/rgXL1A
+! Last Modified:  Thu, 08 Oct 2009 14:49:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -24,6 +24,7 @@ info.51.ca
 !--------------------------A--------------------------
 www.aboluowang.com
 .aboutus.org
+advanscene.com
 |http://www.aidsmuseum.cn/
 |http://*blog.aiweiwei.com
 allhabit.com
@@ -37,6 +38,7 @@ anchorfree.com
 anonymizer.com
 anonymouse.org
 |http://gfw.appspot.com
+|http://mickeywaley.appspot.com
 |http://proxypy.appspot.com
 areca-backup.org
 |http://www.arizonachinese.com
@@ -62,6 +64,7 @@ blog.bcchinese.net
 beijingspring.com
 bestforchina.org
 bignews.org
+billywr.com 
 !--bing.com
 .blip.tv
 /blip.tv
@@ -127,6 +130,7 @@ chinasmack.com
 chinaway.org
 chinesenewsnet.com
 chromeexperiments.com
+cityrag.com
 psiphon.civisec.org
 |http://www.civisec.org
 .cjb.net
@@ -137,6 +141,7 @@ co.cc
 commandlineisking.com
 |http://www.coolloud.org.tw/
 copytaste.com
+crackle.com
 crd-net.org
 creaders.net
 crocodyl.org
@@ -154,7 +159,6 @@ cuihua.org
 |http://*t.neolee.cn
 |http://*t.orzdream.com
 |http://*t.waiwaier.com
-|http://*s.zuo.la
 
 dailymotion.com
 dajiyuan.com
@@ -165,8 +169,10 @@ de-sci.org
 democrats.org
 diigo.com
 discuss.com.hk
+dit-inc.us
 |http://www.docbook.org/
 dongde.com
+dongtaiwang.net
 http://doubleaf.com
 |http://www.dpp.org.tw/
 http://dropbox.com
@@ -183,6 +189,8 @@ edoors.com
 |http://www.edubridge.com/
 eltondisney.com
 epochtimes.com
+s.evernote.com
+extratorrent.com
 eyny.com
 
 !--------------------------F--------------------------
@@ -191,6 +199,7 @@ facebook.com
 fbcdn.net
 fangeming.com
 feedbooks.mobi
+feedzshare.com
 feer.com
 http://ff.im
 @@|https://ff.im
@@ -206,6 +215,7 @@ www.forum4hk.com
 .free.fr/adsl
 kineox.free.fr
 freeciv.org
+freedur.com
 freeflowlife.net
 freeforums.org
 .freehostia.com
@@ -229,8 +239,10 @@ funp.com
 
 !--------------------------G--------------------------
 gaopi.com
+geekinheels.com
 geocities.jp
 getchu.com
+getjetso.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 
@@ -326,6 +338,7 @@ hbo.com/docs/*/china
 hellotxt.com
 |http://www.hemidemi.com/
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
+higfw.com
 myweb.hinet.net
 |http://times.hinet.net/
 hk-pub.com
@@ -351,6 +364,7 @@ is.gd/1VOp7
 izaobao.com
 
 !--------------------------J--------------------------
+jeanyim.com
 jieshibaobao.com
 .jiruan.net
 |http://jpra1113.org
@@ -387,11 +401,13 @@ liveleak.com
 !--------------------------M--------------------------
 homepage.mac.com
 web.mac.com
+madmenfootnotes.com
 mail-archive.com
 |http://cq.mail163.to/
 www.manning.com
 markmail.org*message
 |http://www.mathtunnel.com/
+mcy.hk
 mediafire.com
 .megaupload.com/?d=4
 memedia.cn
@@ -497,6 +513,7 @@ qxbbs.org
 !--------------------------R--------------------------
 www.radioaustralia.net.au*chinese*articles*
 rcinet.ca
+realraptalk.com
 renminbao.com
 revver.com
 rfa.org
@@ -524,14 +541,18 @@ news.sina.com.tw
 news.sina.com.hk
 news.singtao.ca
 sitetag.us
+skydur.com
 |http://skype.com
 |http://www.skype.com
 download.skype.com/SkypeSetup.exe
 .slinkset.com
+sneakme.net
+gmail-remote-command.en.softonic.com
 blog.sogoo.org
 sokamonline.com
 |http://www.songza.com/
 |http://songza.com/
+sopcast.com
 |http://www.sopcast.org
 soundofhope.org
 sowers.org.hk
@@ -540,6 +561,7 @@ squarespace.com
 www.stackfile.com/freedur
 starcraft2.com
 usinfo.state.gov
+stoweboyd.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
 
@@ -554,6 +576,7 @@ telecomspace.com
 thepiratebay.org
 thkphoto.com
 tiananmenmother.org
+tiandixing.org
 .tianzhu.org
 .tibet.com
 |http://tibet.com
@@ -623,6 +646,7 @@ www.wangruowang.org
 .we.bs/
 webshots.com
 websitepulse.com/help/testtools.china-test.html
+websitepulse.com*.css
 webworkerdaily.com
 weijingsheng.org
 news.wenxuecity.com
@@ -879,6 +903,7 @@ zaobao.com.sg
 www.zaurus.org.uk
 asset*.zendesk.com
 .zengjinyan.org
+zhengjian.org
 zuola.com
 
 !--------------------------Other----------------------
