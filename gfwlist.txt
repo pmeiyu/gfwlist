@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: gKhU6yb7Ct+ozOUnwftL4Q
-! Last Modified:  Thu, 08 Oct 2009 14:53:27 +0800
+! Checksum: R4TBZarUx/vTs2+Jm7ILcQ
+! Last Modified:  Thu, 08 Oct 2009 15:07:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -127,6 +127,7 @@ chinadigitaltimes.net
 chinagfw.org
 chinasmack.com
 !-chinatimes.com
+blog.chinatimes.com
 chinaway.org
 chinesenewsnet.com
 chromeexperiments.com
@@ -136,6 +137,7 @@ psiphon.civisec.org
 .cjb.net
 ck101.com
 cmule.com
+cnd.org
 co.cc
 |http://codepad.org/
 commandlineisking.com
@@ -345,9 +347,12 @@ hk-pub.com
 global.hkepc.com*forum
 hkgolden.com
 hkjc.com
+hkheadline.com/blog/
+news.hkheadline.com/instantnews/
 hkreporter.com
 .hotupub.com
 hrichina.org
+huitter.com
 hulu.com
 |http://www.hungerstrikeforaids.org
 
@@ -620,10 +625,12 @@ tynsoe.org
 !--------------------------U--------------------------
 album.udn.com
 blog.udn.com
+bookmark.udn.com
 city.udn.com
 dignews.udn.com
 forum.udn.com
 paper.udn.com
+video.udn.com
 uighurbiz.net
 unblog.fr
 uncyclopedia.
