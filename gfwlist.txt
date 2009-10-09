@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: y9Z03pZP1JrbeAL8etSxZw
-! Last Modified:  Fri, 09 Oct 2009 16:22:32 +0800
+! Checksum: w17XlwlajafwV/VW2PS3sQ
+! Last Modified:  Fri, 09 Oct 2009 17:36:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -210,6 +210,7 @@ freeforums.org
 @@www.freehostia.com
 freemoren.com
 freemorenews.com
+freetibet.org
 
 friendfeed.com
 !--|http://*friendfeed.com%2Fe
@@ -551,6 +552,8 @@ thepiratebay.org
 thkphoto.com
 tiananmenmother.org
 .tianzhu.org
+.tibet.com
+|http://tibet.com
 tibet.net
 http://www.time.com/time/time100/leaders/profile/rebel.html
 tldp.org
@@ -932,6 +935,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+greatfirewallofchina.net
 .ning.com
 |http://ning.com
 @@|http://www.ning.com
