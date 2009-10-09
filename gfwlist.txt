@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: w17XlwlajafwV/VW2PS3sQ
-! Last Modified:  Fri, 09 Oct 2009 17:36:37 +0800
+! Checksum: WcuE3ZPvDpM8jvfxHvgmYw
+! Last Modified:  Fri, 09 Oct 2009 18:01:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -194,6 +194,8 @@ feedbooks.mobi
 feer.com
 http://ff.im
 @@|https://ff.im
+.fileden.com
+|http://fileden.com
 filestube.com
 fillthesquare.org
 !--flickr.com
@@ -259,6 +261,7 @@ www.keithmoyer.com
 blog.kowalczyk.info
 www.kunalanand.com
 feeds.limi.net
+feeds.loiclemeur.com
 feeds.mobileread.com
 http://blog.nihilogic.dk
 blog.persistent.info
@@ -935,6 +938,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+|http://www.loiclemeur.com
 greatfirewallofchina.net
 .ning.com
 |http://ning.com
