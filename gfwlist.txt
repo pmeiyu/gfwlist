@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: fhlS2Thdi9w0hBuaiqDUrQ
-! Last Modified:  Thu, 08 Oct 2009 15:18:21 +0800
+! Checksum: MbPuruc5NDsv8A0u31p1Ig
+! Last Modified:  Sat, 10 Oct 2009 11:57:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -64,7 +64,6 @@ blog.bcchinese.net
 beijingspring.com
 bestforchina.org
 bignews.org
-billywr.com 
 !--bing.com
 .blip.tv
 /blip.tv
@@ -132,13 +131,14 @@ news.chinatimes.com/2007Cti/2007Cti-Rtn/
 chinaway.org
 chinesenewsnet.com
 chromeexperiments.com
-cityrag.com
+www.cityrag.com
 psiphon.civisec.org
 |http://www.civisec.org
 .cjb.net
 ck101.com
 cmule.com
-cnd.org
+.cnd.org
+|http://cnd.org
 co.cc
 |http://codepad.org/
 commandlineisking.com
@@ -157,11 +157,13 @@ cuihua.org
 |http://*www.cao.im
 |http://*funp.org
 |http://*heix.pp.ru
+|http://*.higfw.com
 |http://*t.ikemi.org
 |http://*t.kunshou.net
 |http://*t.neolee.cn
 |http://*t.orzdream.com
 |http://*t.waiwaier.com
+|http://*s.zuo.la
 
 dailymotion.com
 dajiyuan.com
@@ -172,10 +174,8 @@ de-sci.org
 democrats.org
 diigo.com
 discuss.com.hk
-dit-inc.us
 |http://www.docbook.org/
 dongde.com
-dongtaiwang.net
 http://doubleaf.com
 |http://www.dpp.org.tw/
 http://dropbox.com
@@ -192,8 +192,7 @@ edoors.com
 |http://www.edubridge.com/
 eltondisney.com
 epochtimes.com
-s.evernote.com
-extratorrent.com
+.extratorrent.com
 eyny.com
 
 !--------------------------F--------------------------
@@ -202,7 +201,6 @@ facebook.com
 fbcdn.net
 fangeming.com
 feedbooks.mobi
-feedzshare.com
 feer.com
 http://ff.im
 @@|https://ff.im
@@ -218,7 +216,6 @@ www.forum4hk.com
 .free.fr/adsl
 kineox.free.fr
 freeciv.org
-freedur.com
 freeflowlife.net
 freeforums.org
 .freehostia.com
@@ -242,10 +239,8 @@ funp.com
 
 !--------------------------G--------------------------
 gaopi.com
-geekinheels.com
 geocities.jp
 getchu.com
-getjetso.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 
@@ -263,6 +258,7 @@ blog.doughellmann.com
 www.dropbox.com
 dumblittleman.com
 www.earthhour.org
+s.evernote.com
 mclee.foolme.net
 frienddeck.com
 !--http://blog.friendfeed.com
@@ -341,15 +337,14 @@ hbo.com/docs/*/china
 hellotxt.com
 |http://www.hemidemi.com/
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
-higfw.com
 myweb.hinet.net
 |http://times.hinet.net/
 hk-pub.com
 global.hkepc.com*forum
 hkgolden.com
 hkjc.com
-hkheadline.com/blog/
-news.hkheadline.com/instantnews/
+.hkheadline.com*blog
+news.hkheadline.com*instantnews
 hkreporter.com
 .hotupub.com
 hrichina.org
@@ -407,13 +402,12 @@ liveleak.com
 !--------------------------M--------------------------
 homepage.mac.com
 web.mac.com
-madmenfootnotes.com
 mail-archive.com
 |http://cq.mail163.to/
 www.manning.com
 markmail.org*message
 |http://www.mathtunnel.com/
-mcy.hk
+.mcy.hk
 mediafire.com
 .megaupload.com/?d=4
 memedia.cn
@@ -519,7 +513,7 @@ qxbbs.org
 !--------------------------R--------------------------
 www.radioaustralia.net.au*chinese*articles*
 rcinet.ca
-realraptalk.com
+.realraptalk.com
 renminbao.com
 revver.com
 rfa.org
@@ -548,18 +542,18 @@ news.sina.com.tw
 news.sina.com.hk
 news.singtao.ca
 sitetag.us
-skydur.com
 |http://skype.com
 |http://www.skype.com
 download.skype.com/SkypeSetup.exe
 .slinkset.com
 sneakme.net
+|http://en.softonic.com
 gmail-remote-command.en.softonic.com
 blog.sogoo.org
 sokamonline.com
 |http://www.songza.com/
 |http://songza.com/
-sopcast.com
+.sopcast.com
 |http://www.sopcast.org
 soundofhope.org
 sowers.org.hk
@@ -568,7 +562,6 @@ squarespace.com
 www.stackfile.com/freedur
 starcraft2.com
 usinfo.state.gov
-stoweboyd.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
 
@@ -583,7 +576,8 @@ telecomspace.com
 thepiratebay.org
 thkphoto.com
 tiananmenmother.org
-tiandixing.org
+.tiandixing.org
+|http://tiandixing.org
 .tianzhu.org
 .tibet.com
 |http://tibet.com
@@ -656,7 +650,6 @@ www.wangruowang.org
 .we.bs/
 webshots.com
 websitepulse.com/help/testtools.china-test.html
-websitepulse.com*.css
 webworkerdaily.com
 weijingsheng.org
 news.wenxuecity.com
@@ -975,6 +968,16 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+stoweboyd.com
+skydur.com
+madmenfootnotes.com
+getjetso.com
+geekinheels.com
+freedur.com
+feedzshare.com
+dongtaiwang.net
+dit-inc.us
+billywr.com
 |http://www.loiclemeur.com
 greatfirewallofchina.net
 .ning.com
