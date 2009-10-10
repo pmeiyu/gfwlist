@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: MbPuruc5NDsv8A0u31p1Ig
-! Last Modified:  Sat, 10 Oct 2009 11:57:01 +0800
+! Checksum: 3wIIIPk5Gb8auasTAMaEOQ
+! Last Modified:  Sat, 10 Oct 2009 22:54:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -167,6 +167,7 @@ cuihua.org
 
 dailymotion.com
 dajiyuan.com
+|http://*.damipan.com
 danwei.org
 packages.debian.org*zh-cn*lenny*gpass
 http://www.destroydebtwithcashgifting.com
