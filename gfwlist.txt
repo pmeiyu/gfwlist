@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 3wIIIPk5Gb8auasTAMaEOQ
-! Last Modified:  Sat, 10 Oct 2009 22:54:33 +0800
+! Checksum: phQBKmyT7t0vi3X7sBuEcA
+! Last Modified:  Sat, 10 Oct 2009 23:03:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -50,6 +50,7 @@ avno1.com
 
 !--------------------------B--------------------------
 backchina.com
+backpackers.com.tw
 .badongo.com
 baidu.jp/
 hen.bao.li
@@ -70,9 +71,9 @@ bignews.org
 |http://*blogger.com
 |http://bloglines.com
 |http://www.bloglines.com
-|http://rconversation.blogs.com/
+.blogs.com
+@@www.blogs.com
 .blogsome.com
-backpackers.com.tw
 
 !-------------BlogSpot-----
 .blogspot.com
