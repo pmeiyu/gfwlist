@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: XHwLUymjj6glO+uFbo48Cw
-! Last Modified:  Sat, 10 Oct 2009 23:16:40 +0800
+! Checksum: kprDlqOQ2wZA9qCsfZYkDg
+! Last Modified:  Sun, 11 Oct 2009 12:21:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -124,7 +124,7 @@ china911.org
 chinaaffairs.org
 chinacomments.org
 chinadigitaltimes.net
-chinagfw.org
+|http://*chinagfw.org
 chinasmack.com
 !-chinatimes.com
 blog.chinatimes.com
@@ -326,6 +326,7 @@ google.com*analytics*zh-CN
 |http://groups.google.com*group*zh_wikipedia
 |http://groups.google.com*group*cn.bbs.comp.dotnet
 picasaweb.google.com
+|http://*sites.google.com*site*gfwtools
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
 anti.anti.cnn.googlepages.com
 .googlevideo.com
@@ -975,6 +976,8 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+www.keepandshare.com
+cityrag.blogs.com
 stoweboyd.com
 skydur.com
 madmenfootnotes.com
