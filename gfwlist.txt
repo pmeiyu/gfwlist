@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: kprDlqOQ2wZA9qCsfZYkDg
-! Last Modified:  Sun, 11 Oct 2009 12:21:15 +0800
+! Checksum: nKYwpjvgEuMtee7U43cARQ
+! Last Modified:  Sun, 11 Oct 2009 12:46:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -37,9 +37,11 @@ anchorfree.com
 |http://www.andylau.com
 anonymizer.com
 anonymouse.org
-|http://gfw.appspot.com
-|http://mickeywaley.appspot.com
-|http://proxypy.appspot.com
+|http:*free4internet.appspot.com
+|http:*gfw.appspot.com
+|http:*meme2028.appspot.com
+|http:*mickeywaley.appspot.com
+|http:*proxypy.appspot.com
 areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
@@ -257,6 +259,7 @@ zh.globalvoicesonline.org
 http://developer.android.com
 source.android.com
 www.benjamingolub.com
+www.bestwebproxy.net
 http://blog.chromium.org
 codereview.chromium.org
 |http://dev.chromium.org/
