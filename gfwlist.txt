@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: lOyFNzl5BY74mN9W9bQ53A
-! Last Modified:  Mon, 12 Oct 2009 13:49:14 +0800
+! Checksum: m8fBZ7ZvBA/Jvjh2gJHJyg
+! Last Modified:  Mon, 12 Oct 2009 16:49:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -624,6 +624,7 @@ twitter.com
 !-|http://apiwiki.twitter.com/
 !-|http://dev.twitter.com/
 !-|http://status.twitter.com/
+twittercounter.com
 twitthat.com
 www.twitvid.com/92E5B
 tynsoe.org
