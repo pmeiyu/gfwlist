@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 2BdJ1zEIDfbaRH1sl7HT8g
-! Last Modified:  Mon, 12 Oct 2009 13:32:19 +0800
+! Checksum: lOyFNzl5BY74mN9W9bQ53A
+! Last Modified:  Mon, 12 Oct 2009 13:49:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -67,7 +67,8 @@ blog.bcchinese.net
 beijingspring.com
 bestforchina.org
 bignews.org
-!--bing.com
+.bit.ly
+|http://bit.ly
 .blip.tv
 /blip.tv
 |http://*blogger.com
@@ -606,6 +607,7 @@ tumblr.com
 twbbs.net.tw
 twbbs.org
 twisternow.com
+twitpic.com
 twitter.com
 !-twitter.com/amoiist
 !-twitter.com/BeiJing1989
