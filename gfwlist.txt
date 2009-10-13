@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: m8fBZ7ZvBA/Jvjh2gJHJyg
-! Last Modified:  Mon, 12 Oct 2009 16:49:11 +0800
+! Checksum: QRAOFQM3xq5yzzhOFTNwRg
+! Last Modified:  Tue, 13 Oct 2009 18:11:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -158,6 +158,7 @@ cuihua.org
 !--------------------------D--------------------------
 
 !-------------Dabr-----
+|http://dabr.co.uk
 |http://*www.cao.im
 |http://*t.fineao.cn
 |http://*funp.org
@@ -171,6 +172,7 @@ cuihua.org
 |http://*t.niechen.com
 |http://*t.orzdream.com
 |http://*m.oulove.org
+|http://*m.tweete.net
 |http://*t.waiwaier.com
 |http://*s.zuo.la
 
@@ -368,12 +370,16 @@ hulu.com
 |http://i1.hk/
 |http://board.i-cable.com
 |http://cablenews.i-cable.com
+.identi.ca
+/identi.ca
 idv.tw
 |http://www.im.tv/
 |http://www.inmediahk.net/
 internetfreedom.org
 is.gd/1VO1f
 is.gd/1VOp7
+.itweet.net
+|http://itweet.net
 izaobao.com
 
 !--------------------------J--------------------------
@@ -606,6 +612,7 @@ tumblr.com
 .gov.tw/
 twbbs.net.tw
 twbbs.org
+tweetree.com
 twisternow.com
 twitpic.com
 twitter.com
@@ -625,8 +632,11 @@ twitter.com
 !-|http://dev.twitter.com/
 !-|http://status.twitter.com/
 twittercounter.com
+twitterfeed.com
 twitthat.com
 www.twitvid.com/92E5B
+.twitzap.com
+/twitzap.com
 tynsoe.org
 .typepad.com
 @@www.typepad.com
