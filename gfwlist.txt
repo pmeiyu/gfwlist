@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: QRAOFQM3xq5yzzhOFTNwRg
-! Last Modified:  Tue, 13 Oct 2009 18:11:03 +0800
+! Checksum: zgk4xu43ryayzGl3/bpWcA
+! Last Modified:  Wed, 14 Oct 2009 09:19:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -380,7 +380,8 @@ is.gd/1VO1f
 is.gd/1VOp7
 .itweet.net
 |http://itweet.net
-izaobao.com
+.izaobao.com
+@@|http*//www.izaobao.com
 
 !--------------------------J--------------------------
 jeanyim.com
@@ -965,7 +966,7 @@ gfwProxyEnabled=yes
 !--Kan Zhong Guo
 |http://*search*%E7%9C%8B%E4%B8%AD%E5%9B%BD
 !--Liu Si
-|http://*%E5%85%AD%E5%9B%9B
+|http://*search*%E5%85%AD%E5%9B%9B
 !--Liu Xiao Bo
 |http://*%E5%88%98%E6%99%93%E6%B3%A2
 !--Mei Guo Zhi Yin
