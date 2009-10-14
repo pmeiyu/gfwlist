@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: zgk4xu43ryayzGl3/bpWcA
-! Last Modified:  Wed, 14 Oct 2009 09:19:45 +0800
+! Checksum: InmfCzXpIKylfPgJuUeLKg
+! Last Modified:  Wed, 14 Oct 2009 10:59:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -41,6 +41,7 @@ anonymouse.org
 |http:*gfw.appspot.com
 |http:*meme2028.appspot.com
 |http:*mickeywaley.appspot.com
+|http:*ourtwitese.appspot.com
 |http:*proxypy.appspot.com
 areca-backup.org
 |http://www.arizonachinese.com
@@ -406,6 +407,7 @@ linuxconfig.org
 lipuman.com
 
 !-------------live spaces-----
+|http://*flowerofhappiness.spaces.live.com
 |http://*hujiachina.spaces.live.com
 |http://*portis21.spaces.live.com
 |http://*siyi123123123.spaces.live.com
@@ -987,6 +989,8 @@ gfwProxyEnabled=yes
 |http://*%E8%B5%B5%E7%B4%AB%E9%98%B3
 !--Zhong Gong
 |http://*search*%E4%B8%AD%E5%8A%9F
+!--Zhong Xuan Bu
+|http://*search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 
 !------UnSorted---------------------------------------
