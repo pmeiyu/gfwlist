@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ViztY5QCJRA0Cv83R/R7jA
-! Last Modified:  Thu, 15 Oct 2009 14:59:51 +0800
+! Checksum: fixCPgMD4RmZJg5wHvblxQ
+! Last Modified:  Thu, 15 Oct 2009 17:02:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -173,7 +173,6 @@ cuihua.org
 |http://*t.niechen.com
 |http://*t.orzdream.com
 |http://*m.oulove.org
-|http://*m.tweete.net
 |http://*t.waiwaier.com
 |http://*s.zuo.la
 
@@ -618,6 +617,7 @@ tumblr.com
 .gov.tw/
 twbbs.net.tw
 twbbs.org
+|http://*m.tweete.net
 tweetree.com
 twisternow.com
 twitpic.com
@@ -998,6 +998,8 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+|http://tweete.net
+|http://www.tweete.net
 ogaoga.org
 www.keepandshare.com
 cityrag.blogs.com
