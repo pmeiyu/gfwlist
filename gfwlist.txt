@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: c729k1iZ/8VMpfCvMGySxw
-! Last Modified:  Wed, 14 Oct 2009 11:21:12 +0800
+! Checksum: ViztY5QCJRA0Cv83R/R7jA
+! Last Modified:  Thu, 15 Oct 2009 14:59:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -325,6 +325,8 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 google.com*analytics*zh-CN
 |http://www.google.com/search*free*gate
 |http://code.google.com/p/cngepi/downloads/
+code.google.com*p*gappproxy
+code.google.com*p*autoproxy*updates*list
 |http://docs.google.com*view*docid
 |http://groups.google.com*group*fans
 |http://groups.google.com*group*gfw-blog
@@ -475,6 +477,7 @@ omgili.com
 omnitalk.
 /on.cc/*
 .on.cc/
+twtr2src.ogaoga.org
 my.opera.com
 www.orchidbbs.com
 osdir.com
@@ -995,6 +998,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+ogaoga.org
 www.keepandshare.com
 cityrag.blogs.com
 stoweboyd.com
