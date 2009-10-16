@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: AFM+QojRu41HgeJ7rXxbWg
-! Last Modified:  Thu, 15 Oct 2009 20:29:45 +0800
+! Checksum: xR5zSrGFnFsKIp6hFAT9qw
+! Last Modified:  Fri, 16 Oct 2009 16:15:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -525,7 +525,7 @@ bill.zhong.pp.ru
 powerapple.com
 psiphon.ca
 |http://www.ptt.cc/
-python.org/download
+.python.org*download
 
 !--------------------------Q--------------------------
 http://space.qoos.com/
