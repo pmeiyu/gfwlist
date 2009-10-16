@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ZEzKlMxe+wybFrVRuA/qFQ
-! Last Modified:  Fri, 16 Oct 2009 18:49:01 +0800
+! Checksum: L4fEOxah3vIQwc/UzgvuAw
+! Last Modified:  Fri, 16 Oct 2009 19:31:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -749,6 +749,8 @@ zh.wikipedia.org*%E6%96%B9%E5%8A%B1%E4%B9%8B
 zh.wikipedia.org*%E6%84%A4%E9%9D%92
 !--Hu Hai Feng
 zh.wikipedia.org*%E8%83%A1%E6%B5%B7%E5%B3%B0
+!--Hu Hai Qing
+zh.wikipedia.org*%E8%83%A1%E6%B5%B7%E6%B8%85
 !--Hu Jia (She Hui Huo Dong Jia)
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
@@ -973,6 +975,8 @@ gfwProxyEnabled=yes
 |http://*%E6%B3%95%E8%BC%AA%E5%8A%9F
 !--Fa Lun Gong: Simplified Chinese
 |http://*%E6%B3%95%E8%BD%AE%E5%8A%9F
+!--Hu Hai Feng/Qing * Na Mi Bi Ya
+|http:*%E8%83%A1%E6%B5%B7%E*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Jiang Liu Mang
 |http://*search*%E6%B1%9F%E6%B5%81%E6%B0%93
 !--Kan Zhong Guo
@@ -987,6 +991,8 @@ gfwProxyEnabled=yes
 |http://*%E6%B0%91%E8%BF%9B%E5%85%9A
 !--(Nong) Min Yun (Dong Hui)
 |http://*%E6%B0%91%E8%BF%90
+!--Na Mi Bi Ya * Hu Hai Feng/Qing
+|http:*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A*%E8%83%A1%E6%B5%B7%E
 !--Qun Ti Mie Jue
 |http://*search*%E7%BE%A4%E4%BD%93%E7%81%AD%E7%BB%9D
 !--Wang Dan
