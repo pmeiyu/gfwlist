@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: xR5zSrGFnFsKIp6hFAT9qw
-! Last Modified:  Fri, 16 Oct 2009 16:15:07 +0800
+! Checksum: JqOUsPTWGUnGbMMqItmR+Q
+! Last Modified:  Fri, 16 Oct 2009 18:29:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -43,6 +43,7 @@ anonymouse.org
 |http:*mickeywaley.appspot.com
 |http:*ourtwitese.appspot.com
 |http:*proxypy.appspot.com
+|http:*twitese.appspot.com
 areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
@@ -541,6 +542,8 @@ rcinet.ca
 renminbao.com
 revver.com
 rfa.org
+.rfachina.com
+|http://rfachina.com
 www.rfi.fr
 robertmao.com
 robtex.com
@@ -943,11 +946,12 @@ zuola.com
 
 !--------------------------Other----------------------
 gfwProxyEnabled=yes
-|http://*falun
-|http://*freenet
-|http://*search*q*safeweb
-|http://*ultrareach
-|http://*ultrasurf
+|http:*falun
+|http:*freenet
+|http:*q=freedom
+|http:*search*safeweb
+|http:*ultrareach
+|http:*ultrasurf
 
 !--fake IP for GFW domain hijacking
 4.36.66.178
