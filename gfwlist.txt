@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: VngmnG04g0lUjbFdDgCL8w
-! Last Modified:  Sat, 17 Oct 2009 04:50:23 +0800
+! Checksum: m1pGg+yA+lZkpcuNP++PQQ
+! Last Modified:  Sat, 17 Oct 2009 05:00:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -679,6 +679,7 @@ ustream.tv
 
 !--------------------------V--------------------------
 www.vansky.com
+.vimeo.com
 |http://www.visuwords.com/
 voanews.com
 www.voy.com
@@ -1000,6 +1001,8 @@ gfwProxyEnabled=yes
 |http://*search*%E7%BE%A4%E4%BD%93%E7%81%AD%E7%BB%9D
 !--Wang Dan
 |http://*%E7%8E%8B%E4%B8%B9
+!--Wo De Fen Dou
+|http:*search*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Jie
 |http://*search*%E6%97%A0%E7%95%8C
 !--Xie E
@@ -1015,6 +1018,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+|http://vimeo.com
 |http://tweetmeme.com
 |http://ping.fm/
 |https://ping.fm/
