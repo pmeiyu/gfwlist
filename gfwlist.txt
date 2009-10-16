@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: T7OZW8mIEBTIpK5eCEAVvw
-! Last Modified:  Thu, 15 Oct 2009 20:41:26 +0800
+! Checksum: VngmnG04g0lUjbFdDgCL8w
+! Last Modified:  Sat, 17 Oct 2009 04:50:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -498,6 +498,7 @@ peacehall.com
 perfdynamics.com
 philly.com
 picturesocial.com
+.ping.fm
 plays.com.tw
 plurk.com
 
@@ -626,6 +627,7 @@ tumblr.com
 twbbs.net.tw
 twbbs.org
 |http://*m.tweete.net
+.tweetmeme.com
 tweetree.com
 twisternow.com
 twitpic.com
@@ -750,10 +752,6 @@ zh.wikipedia.org*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 zh.wikipedia.org*%E6%96%B9%E5%8A%B1%E4%B9%8B
 !--Fen Qing
 zh.wikipedia.org*%E6%84%A4%E9%9D%92
-!--Hu Hai Feng
-zh.wikipedia.org*%E8%83%A1%E6%B5%B7%E5%B3%B0
-!--Hu Hai Qing
-zh.wikipedia.org*%E8%83%A1%E6%B5%B7%E6%B8%85
 !--Hu Jia (She Hui Huo Dong Jia)
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
@@ -786,6 +784,10 @@ zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
 zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
 !--Lin Guo Xiong
 zh.wikipedia.org*%E6%A2%81%E5%9C%8B%E9%9B%84
+!--Liu Hui Qing
+zh.wikipedia.org*%E5%88%98%E6%85%A7%E5%8D%BF
+!--Liu Hui Qing - Traditional
+zh.wikipedia.org*%E5%8A%89%E6%85%A7%E5%8D%BF
 !--Liu Si Shi Jian
 zh.wikipedia.org*%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
 !--Liu Yan Dong
@@ -917,12 +919,10 @@ blog.xuite.net
 xysblogs.org
 
 !--------------------------Y--------------------------
-
-!-------------Yahoo-----
 hk.*yahoo.com
+meme.yahoo.com
 tw.*yahoo.com
 upcoming.yahoo.com
-
 |http://blog.yam.com/
 n.yam.com
 news.yam.com
@@ -978,8 +978,10 @@ gfwProxyEnabled=yes
 |http://*%E6%B3%95%E8%BC%AA%E5%8A%9F
 !--Fa Lun Gong: Simplified Chinese
 |http://*%E6%B3%95%E8%BD%AE%E5%8A%9F
-!--Hu Hai Feng/Qing * Na Mi Bi Ya
-|http:*%E8%83%A1%E6%B5%B7%E*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
+!--Hu Hai Feng
+|http:*%E8%83%A1%E6%B5%B7%E5%B3%B0
+!--Hu Hai Qing
+|http:*%E8%83%A1%E6%B5%B7%E6%B8%85
 !--Jiang Liu Mang
 |http://*search*%E6%B1%9F%E6%B5%81%E6%B0%93
 !--Kan Zhong Guo
@@ -994,8 +996,6 @@ gfwProxyEnabled=yes
 |http://*%E6%B0%91%E8%BF%9B%E5%85%9A
 !--(Nong) Min Yun (Dong Hui)
 |http://*%E6%B0%91%E8%BF%90
-!--Na Mi Bi Ya * Hu Hai Feng/Qing
-|http:*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A*%E8%83%A1%E6%B5%B7%E
 !--Qun Ti Mie Jue
 |http://*search*%E7%BE%A4%E4%BD%93%E7%81%AD%E7%BB%9D
 !--Wang Dan
@@ -1015,6 +1015,9 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+|http://tweetmeme.com
+|http://ping.fm/
+|https://ping.fm/
 |http://tweete.net
 |http://www.tweete.net
 ogaoga.org
