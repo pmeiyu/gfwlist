@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: L4fEOxah3vIQwc/UzgvuAw
-! Last Modified:  Fri, 16 Oct 2009 19:31:58 +0800
+! Checksum: wL53rEH0gYmsK2enlY05jQ
+! Last Modified:  Fri, 16 Oct 2009 19:43:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -309,6 +309,8 @@ www.writeroom.ws
 |http://*google.com*%E7%BF%BB%E5%A2%99
 !--Fang Bin Xing
 |http://*.google.com*%E6%96%B9%E6%BB%A8%E5%85%B4
+!--Na Mi Bi Ya
+|http://www.google.com/search*q=%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
 |http://www.google.com/*%E8%BF%AB%E5%AE%B3
 !--Shen Me
