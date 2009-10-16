@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: JqOUsPTWGUnGbMMqItmR+Q
-! Last Modified:  Fri, 16 Oct 2009 18:29:31 +0800
+! Checksum: ZEzKlMxe+wybFrVRuA/qFQ
+! Last Modified:  Fri, 16 Oct 2009 18:49:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -533,6 +533,7 @@ http://space.qoos.com/
 blog.qooza.hk*dafengqixi
 |http://pixel.quantserve.com/
 qusi8.net
+nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
 
 !--------------------------R--------------------------
@@ -746,6 +747,8 @@ zh.wikipedia.org*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 zh.wikipedia.org*%E6%96%B9%E5%8A%B1%E4%B9%8B
 !--Fen Qing
 zh.wikipedia.org*%E6%84%A4%E9%9D%92
+!--Hu Hai Feng
+zh.wikipedia.org*%E8%83%A1%E6%B5%B7%E5%B3%B0
 !--Hu Jia (She Hui Huo Dong Jia)
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
