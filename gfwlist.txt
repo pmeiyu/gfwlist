@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: m1pGg+yA+lZkpcuNP++PQQ
-! Last Modified:  Sat, 17 Oct 2009 05:00:20 +0800
+! Checksum: 8ZqjXJFaDP72sFw9s1NKHw
+! Last Modified:  Sat, 17 Oct 2009 18:41:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -542,6 +542,7 @@ qxbbs.org
 
 !--------------------------R--------------------------
 www.radioaustralia.net.au*chinese*articles*
+.rapidsharedata.com
 rcinet.ca
 .realraptalk.com
 renminbao.com
@@ -1018,6 +1019,8 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+|http://w3schools.com
+|http://www.w3schools.com
 |http://vimeo.com
 |http://tweetmeme.com
 |http://ping.fm/
