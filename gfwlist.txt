@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 8ZqjXJFaDP72sFw9s1NKHw
-! Last Modified:  Sat, 17 Oct 2009 18:41:17 +0800
+! Checksum: P06cw8CU1U557jeMtdiUdg
+! Last Modified:  Sat, 17 Oct 2009 18:52:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -299,10 +299,11 @@ willhains.com
 www.writeroom.ws
 
 !-------------Google.other-----
-!--@@|https://docs.google.com
-!--@@|https://groups.google.com
-!--@@|https://services.google.com
-!--@@|https://spreadsheets.google.com
+|https://calendar.google.com
+|https://docs.google.com
+|https://services.google.com
+|https://sites.google.com
+|https://spreadsheets.google.com
 @@|https*//www.google.com
 .ggpht.com
 !--Fan Qiang
