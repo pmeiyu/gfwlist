@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: IQpL+Pv916yPFOVSIhRX8A
-! Last Modified:  Sat, 17 Oct 2009 19:45:00 +0800
+! Checksum: VcbRBEtxTzTSsFeqanuf6A
+! Last Modified:  Tue, 20 Oct 2009 14:20:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -918,6 +918,8 @@ wukangrui.net
 xiaoma.org
 xinsheng.net
 |http://www.xinhuanet.org/
+.xmarks.com
+|http://xmarks.com
 blog.xuite.net
 .xys.org
 xysblogs.org
