@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: FDDfZxl0VutFGQE9nCTgNQ
-! Last Modified:  Tue, 20 Oct 2009 19:14:26 +0800
+! Checksum: m+VA2H7hmMWL9R9Wnqt6bg
+! Last Modified:  Wed, 21 Oct 2009 14:36:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -213,6 +213,7 @@ facebook.com
 !--facebook cdn
 fbcdn.net
 fangeming.com
+web.fc2.com
 feedbooks.mobi
 feer.com
 http://ff.im
@@ -251,6 +252,8 @@ funp.com
 .futurechinaforum.org
 
 !--------------------------G--------------------------
+.gamebase.com.tw
+||gamebase.com.tw
 gaopi.com
 geocities.jp
 getchu.com
@@ -484,6 +487,8 @@ omnitalk.
 opera.com/mini
 my.opera.com
 www.orchidbbs.com
+.orzistic.org
+||orzistic.org
 osdir.com
 
 !--------------------------P--------------------------
@@ -579,6 +584,7 @@ sitetag.us
 |http://skype.com
 |http://www.skype.com
 download.skype.com/SkypeSetup.exe
+forum.slime.com.tw
 .slinkset.com
 sneakme.net
 |http://en.softonic.com
