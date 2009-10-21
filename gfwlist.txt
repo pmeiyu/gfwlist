@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: m+VA2H7hmMWL9R9Wnqt6bg
-! Last Modified:  Wed, 21 Oct 2009 14:36:19 +0800
+! Checksum: L9KwxCPgtRVmxb3QUSaRrQ
+! Last Modified:  Wed, 21 Oct 2009 15:17:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -410,6 +410,7 @@ kanzhongguo.com
 |http://www.lancsky.com/
 laomiu.com
 libertytimes.com.tw
+lifestream.fm
 |http://cle.linux.org.tw/
 linuxconfig.org
 lipuman.com
@@ -426,7 +427,6 @@ lipuman.com
 |http://*zhllg.spaces.live.com
 
 liveleak.com
-
 
 !--------------------------M--------------------------
 homepage.mac.com
@@ -571,6 +571,7 @@ rapidlibrary.com
 !--------------------------S--------------------------
 scribd.com
 secretchina.com
+|http://blog.seesmic.com
 sesawe.net
 .settv.com
 shaunthesheep.com
@@ -635,12 +636,15 @@ tumblr.com
 .gov.tw/
 twbbs.net.tw
 twbbs.org
+|http://support.tweetdeck.com
 |http://*m.tweete.net
 .tweetmeme.com
 tweetree.com
 twisternow.com
 twitpic.com
-twitter.com
+.twitter.com
+|http://twitter.com
+|https://twitter.com
 !-twitter.com/amoiist
 !-twitter.com/BeiJing1989
 !-twitter.com/billzhong
@@ -1030,6 +1034,11 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+avatar.status.net
+dave.status.net
+status.status.net
+theme.status.net
+destroytwitter.com
 |http://w3schools.com
 |http://www.w3schools.com
 |http://vimeo.com
