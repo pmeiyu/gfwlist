@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: L9KwxCPgtRVmxb3QUSaRrQ
-! Last Modified:  Wed, 21 Oct 2009 15:17:49 +0800
+! Checksum: i0c0TSAso17ODT/n2Ey5HA
+! Last Modified:  Wed, 21 Oct 2009 23:16:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -107,6 +107,7 @@ bullogger.com
 holz.byethost8.com
 
 !--------------------------C--------------------------
+cafepress.com
 canyu.org
 |http://caodan.net
 |http://www.carnegieendowment.org
@@ -118,8 +119,8 @@ www.ccdtr.org
 |http://www.cdnews.com.tw
 www.cdp1998.org
 cdpwu.org
-www.cecc.gov
-cafepress.com
+.cecc.gov
+|http://cecc.gov/
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
 changkun.org
