@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: i0c0TSAso17ODT/n2Ey5HA
-! Last Modified:  Wed, 21 Oct 2009 23:16:45 +0800
+! Checksum: bqZuTC+Cc/7SZgskErDD6w
+! Last Modified:  Sat, 24 Oct 2009 11:38:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -311,23 +311,25 @@ www.writeroom.ws
 @@|https*//www.google.com
 .ggpht.com
 !--Fan Qiang
-|http://*google.com*%E7%BF%BB%E5%A2%99
+|http:*google.com*%E7%BF%BB%E5%A2%99
 !--Fang Bin Xing
-|http://*.google.com*%E6%96%B9%E6%BB%A8%E5%85%B4
+|http:*.google.com*%E6%96%B9%E6%BB%A8%E5%85%B4
 !--Na Mi Bi Ya
-|http://www.google.com/search*q=%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
+|http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
-|http://www.google.com/*%E8%BF%AB%E5%AE%B3
+|http:*.google.com*%E8%BF%AB%E5%AE%B3
+!--Qian Shi Jin Sheng
+|http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Shen Me
-.google.com*%E4%BB%80%E4%B9%88
+|http:*.google.com*%E4%BB%80%E4%B9%88
 !--Tian An Men
-google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
+|http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tu Po
-.google.com*%E7%AA%81%E7%A0%B4
+|http:*.google.com*%E7%AA%81%E7%A0%B4
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zi You Men
-|http://www.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
+|http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 .google.*great*firewall
 google.com*analytics*zh-CN
 |http://www.google.com/search*free*gate
