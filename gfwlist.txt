@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: X8Dc9dy/e8fqjm/MT5a+iw
-! Last Modified:  Sat, 24 Oct 2009 11:44:02 +0800
+! Checksum: EWUzpP8jdf3GARkSx54Iuw
+! Last Modified:  Sat, 24 Oct 2009 17:06:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -400,6 +400,8 @@ jeanyim.com
 jieshibaobao.com
 .jiruan.net
 |http://jpra1113.org
+.junefourth-20.net
+|http://junefourth-20.net
 justsoit.com
 
 !--------------------------K--------------------------
@@ -578,6 +580,8 @@ secretchina.com
 |http://blog.seesmic.com
 sesawe.net
 .settv.com
+.shangfang.org
+|http://shangfang.org
 shaunthesheep.com
 shenshou.org
 simpleproductivityblog.com
