@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: GShVvShyUwZeOs9Xt3aGGQ
-! Last Modified:  Sun, 25 Oct 2009 22:46:31 +0800
+! Checksum: 1SMjewvFEwXwYmeuaZPMtQ
+! Last Modified:  Sun, 25 Oct 2009 23:10:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -706,7 +706,7 @@ www.voy.com
 !--------------------------W--------------------------
 wallornot.org
 www.wangruowang.org
-.we.bs/
+||we.bs^
 webshots.com
 websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
