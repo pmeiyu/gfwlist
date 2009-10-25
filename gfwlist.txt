@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: lQzRPD7Ivs0vaPgwXf4wRQ
-! Last Modified:  Sun, 25 Oct 2009 20:06:32 +0800
+! Checksum: vvqm7urUXJ5U1iYSoo3P6Q
+! Last Modified:  Sun, 25 Oct 2009 20:22:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -586,9 +586,10 @@ shapeservices.com
 shaunthesheep.com
 shenshou.org
 simpleproductivityblog.com
+blog.sina.com.hk
 blog.sina.com.tw
-news.sina.com.tw
 news.sina.com.hk
+news.sina.com.tw
 news.singtao.ca
 sitetag.us
 |http://skype.com
