@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: iCFjuNzyHWvuHhW3BUl6Ug
-! Last Modified:  Sun, 25 Oct 2009 14:12:45 +0800
+! Checksum: lQzRPD7Ivs0vaPgwXf4wRQ
+! Last Modified:  Sun, 25 Oct 2009 20:06:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -812,8 +812,8 @@ zh.wikipedia.org*%E6%A2%81%E5%9C%8B%E9%9B%84
 zh.wikipedia.org*%E5%88%98%E6%85%A7%E5%8D%BF
 !--Liu Hui Qing - Traditional
 zh.wikipedia.org*%E5%8A%89%E6%85%A7%E5%8D%BF
-!--Liu Si Shi Jian
-zh.wikipedia.org*%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
+!--Liu Si (Ge Qu / Shi Ji / Shi Jian)
+zh.wikipedia.org*%E5%85%AD%E5%9B%9B
 !--Liu Yan Dong
 zh.wikipedia.org*%E5%88%98%E5%BB%B6%E4%B8%9C
 !--Liu Yun Shan
