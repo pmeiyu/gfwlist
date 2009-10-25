@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: B+ciaayQXsht8lK3B00nAQ
-! Last Modified:  Sun, 25 Oct 2009 22:19:59 +0800
+! Checksum: GShVvShyUwZeOs9Xt3aGGQ
+! Last Modified:  Sun, 25 Oct 2009 22:46:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -381,7 +381,7 @@ hulu.com
 |http://cablenews.i-cable.com
 .identi.ca
 |http://identi.ca
-idv.tw
+.idv.tw
 |http://www.im.tv/
 |http://www.inmediahk.net/
 internetfreedom.org
@@ -483,8 +483,7 @@ oizoblog.com
 old-cat.net
 omgili.com
 omnitalk.
-/on.cc/*
-.on.cc/
+||on.cc^
 opera.com/mini
 my.opera.com
 www.orchidbbs.com
@@ -555,7 +554,7 @@ rcinet.ca
 .realraptalk.com
 renminbao.com
 revver.com
-rfa.org
+.rfa.org
 .rfachina.com
 |http://rfachina.com
 www.rfi.fr
