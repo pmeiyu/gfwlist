@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: vvqm7urUXJ5U1iYSoo3P6Q
-! Last Modified:  Sun, 25 Oct 2009 20:22:40 +0800
+! Checksum: CAW5Qu0hI9MOp0RSEWaT7Q
+! Last Modified:  Sun, 25 Oct 2009 22:15:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -41,7 +41,6 @@ anonymouse.org
 |http:*gfw.appspot.com
 |http:*meme2028.appspot.com
 |http:*mickeywaley.appspot.com
-|http:*ourtwitese.appspot.com
 |http:*proxypy.appspot.com
 |http:*twitese.appspot.com
 areca-backup.org
@@ -76,8 +75,6 @@ bignews.org
 |http://*blogger.com
 |http://bloglines.com
 |http://www.bloglines.com
-.blogs.com
-@@www.blogs.com
 .blogsome.com
 
 !-------------BlogSpot-----
@@ -383,7 +380,7 @@ hulu.com
 |http://board.i-cable.com
 |http://cablenews.i-cable.com
 .identi.ca
-/identi.ca
+|http://identi.ca
 idv.tw
 |http://www.im.tv/
 |http://www.inmediahk.net/
@@ -1045,6 +1042,8 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+.blogs.com
+@@www.blogs.com
 makemymood.com
 avatar.status.net
 dave.status.net
@@ -1061,7 +1060,6 @@ destroytwitter.com
 |http://www.tweete.net
 ogaoga.org
 www.keepandshare.com
-cityrag.blogs.com
 stoweboyd.com
 skydur.com
 madmenfootnotes.com
@@ -1109,7 +1107,6 @@ verybs.com
 |http://www.teck.in/
 hotspotshield.com
 pbworks.com
-identi.ca
 cantonese.ca
 skulpt.org
 erights.net
