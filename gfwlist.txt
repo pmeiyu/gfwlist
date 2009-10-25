@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 1SMjewvFEwXwYmeuaZPMtQ
-! Last Modified:  Sun, 25 Oct 2009 23:10:20 +0800
+! Checksum: bIguwIEvzvAwNqt0MxMQAg
+! Last Modified:  Sun, 25 Oct 2009 23:21:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -43,7 +43,6 @@ anonymouse.org
 |http:*mickeywaley.appspot.com
 |http:*proxypy.appspot.com
 |http:*twitese.appspot.com
-areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
 .atj.org.tw
@@ -1040,6 +1039,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+areca-backup.org
 .blogs.com
 @@www.blogs.com
 makemymood.com
