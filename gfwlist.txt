@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: wIdbmbZ02ftpc2aVm66nBQ
-! Last Modified:  Mon, 26 Oct 2009 17:26:17 +0800
+! Checksum: zDL4b06fV5niboXB0xyBIw
+! Last Modified:  Mon, 26 Oct 2009 17:33:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -452,7 +452,11 @@ mingpaonews.com
 minzhuzhongguo.org
 mirrorbooks.com
 mm36c.com
+
+!--.mp may be removed some time
 .mp/
+||secure.mp
+
 |http://www.mpinews.com/
 msn.com.tw
 sidekick.myblog.hk
