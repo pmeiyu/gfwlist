@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: zDL4b06fV5niboXB0xyBIw
-! Last Modified:  Mon, 26 Oct 2009 17:33:14 +0800
+! Checksum: LojivaQ9ImEAKaT0WBtthQ
+! Last Modified:  Mon, 26 Oct 2009 17:50:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -8,6 +8,7 @@
 |http://nsf.110mb.com
 1bang1.cn
 |http://www.1bao.org
+||2photo.ru
 3boys2girls.com
 |http://3cc.cc/
 |http://www.3cc.cc/
@@ -99,6 +100,8 @@ book-bot.com
 boxcn.net/shared/v8dku73p1h
 boxun.com
 |http://mckk.bplaced.net
+.breakingtweets.com
+|http://breakingtweets.com
 bullogger.com
 holz.byethost8.com
 
@@ -1044,6 +1047,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+zhongmeng.org
 |http://twibble.de
 |https://twibble.de
 areca-backup.org
