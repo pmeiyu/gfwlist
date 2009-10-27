@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: M8sAus7ppiAtlWKSnkbjxA
-! Last Modified:  Sun, 25 Oct 2009 18:48:12 +0800
+! Checksum: 32e1uXaXR/ZZUgjTBVZ9Iw
+! Last Modified:  Sun, 25 Oct 2009 18:50:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -221,6 +221,8 @@ feedbooks.mobi
 feer.com
 http://ff.im
 @@|https://ff.im
+.fftogo.com
+|http://fftogo.com
 .fileden.com
 |http://fileden.com
 filestube.com
