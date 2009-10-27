@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: LojivaQ9ImEAKaT0WBtthQ
-! Last Modified:  Mon, 26 Oct 2009 17:50:27 +0800
+! Checksum: M8sAus7ppiAtlWKSnkbjxA
+! Last Modified:  Sun, 25 Oct 2009 18:48:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -67,6 +67,7 @@ www.bcc.com.tw/board
 blog.bcchinese.net
 beijingspring.com
 bestforchina.org
+berlintwittrwall.com
 bignews.org
 .bit.ly
 |http://bit.ly
@@ -123,6 +124,8 @@ cdpwu.org
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
 changkun.org
+.changingway.com
+|http://changingway.com/
 chenjun.com
 china-week.com
 china911.org
@@ -290,6 +293,7 @@ blog.kowalczyk.info
 www.kunalanand.com
 feeds.limi.net
 feeds.loiclemeur.com
+blog.louisgray.com
 feeds.mobileread.com
 http://blog.nihilogic.dk
 blog.persistent.info
@@ -524,6 +528,7 @@ blog.dabr.co.uk
 designerol.com
 blog.dustincurtis.com
 erinc.ca
+gfw.org.ua
 roteiro.geedr.com
 holykaw.com
 blog.nicholaspatten.com
@@ -652,6 +657,7 @@ twbbs.org
 .tweetmeme.com
 tweetree.com
 .twibble.de
+|twibble.de
 twisternow.com
 twitpic.com
 .twitter.com
