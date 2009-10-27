@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 32e1uXaXR/ZZUgjTBVZ9Iw
-! Last Modified:  Sun, 25 Oct 2009 18:50:16 +0800
+! Checksum: YBG0B8DgKnEw+L0p/MsODA
+! Last Modified:  Sun, 25 Oct 2009 18:52:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -603,6 +603,7 @@ sitetag.us
 |http://skype.com
 |http://www.skype.com
 download.skype.com/SkypeSetup.exe
+m.slandr.net
 forum.slime.com.tw
 .slinkset.com
 sneakme.net
