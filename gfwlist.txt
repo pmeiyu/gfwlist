@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: +uk67OiukVGhiF64QA7gzg
-! Last Modified:  Thu, 29 Oct 2009 13:48:23 +0800
+! Checksum: ygnTo3h0FSZLX2Gv1/uaWQ
+! Last Modified:  Thu, 29 Oct 2009 14:10:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -248,6 +248,8 @@ friendfeed.com
 !--|http://*friendfeed.com/chinese-at-ff
 !--|http://*friendfeed.com/qifei
 
+.fring.com
+||fring.com
 |http://www.fsurf.com/
 .ftv.com.tw
 |http://fuckgfw.com
@@ -661,6 +663,7 @@ tweetree.com
 .twibble.de
 twisternow.com
 twitpic.com
+||twitstory.net
 .twitter.com
 |http://twitter.com
 |https://twitter.com
