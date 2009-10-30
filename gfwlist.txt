@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: +RJbNNIlCslBcSE+KDDHZA
-! Last Modified:  Sat, 31 Oct 2009 01:37:45 +0800
+! Checksum: YNKCTWkOxf8JwP1tCzO9XA
+! Last Modified:  Sat, 31 Oct 2009 01:41:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -156,7 +156,7 @@ cmule.com
 .cnd.org
 |http://cnd.org
 co.cc
-||codecguide.org
+||codecguide.com
 |http://codepad.org/
 commandlineisking.com
 |http://www.coolloud.org.tw/
