@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: jxriZZtZDDg18udDm0mC/g
-! Last Modified:  Fri, 30 Oct 2009 12:16:27 +0800
+! Checksum: /FLNrG/xSOyLokzRWRL0rA
+! Last Modified:  Fri, 30 Oct 2009 12:19:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -455,6 +455,7 @@ markmail.org*message
 mediafire.com
 .megaupload.com/?d=4
 memedia.cn
+.metacafe.com*watch
 middle-way.net
 .minghui.org
 mingpao.com
@@ -705,6 +706,7 @@ ustream.tv
 
 !--------------------------V--------------------------
 www.vansky.com
+veoh.com
 .vimeo.com
 |http://www.visuwords.com/
 voanews.com
