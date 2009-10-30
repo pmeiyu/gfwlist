@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: VFw1THB7bZ+ZEZwBggXVcQ
-! Last Modified:  Fri, 30 Oct 2009 12:25:22 +0800
+! Checksum: AAXtDuLSWMjKESVcEYUALg
+! Last Modified:  Fri, 30 Oct 2009 12:47:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -8,6 +8,7 @@
 |http://nsf.110mb.com
 1bang1.cn
 |http://www.1bao.org
+.2000fun.com*bbs
 ||2photo.ru
 3boys2girls.com
 |http://3cc.cc/
@@ -222,6 +223,7 @@ fanqiang.org
 @@|http://www.fanqiang.org
 @@|http://fanqiang.org
 web.fc2.com
+forum*.fdzone.org
 feedbooks.mobi
 feer.com
 http://ff.im
@@ -661,6 +663,7 @@ tsquare.tv
 tube8.com
 tumblr.com
 |http://forum.tvb.com/
+tvboxnow.com
 .gov.tw/
 twbbs.net.tw
 twbbs.org
