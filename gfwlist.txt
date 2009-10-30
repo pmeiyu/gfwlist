@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ygnTo3h0FSZLX2Gv1/uaWQ
-! Last Modified:  Thu, 29 Oct 2009 14:10:28 +0800
+! Checksum: 82HaetyVaNTektKPylO8Sg
+! Last Modified:  Fri, 30 Oct 2009 10:21:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -215,6 +215,9 @@ facebook.com
 !--facebook cdn
 fbcdn.net
 fangeming.com
+fanqiang.org
+@@|http://www.fanqiang.org
+@@|http://fanqiang.org
 web.fc2.com
 feedbooks.mobi
 feer.com
