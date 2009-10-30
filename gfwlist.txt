@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 82HaetyVaNTektKPylO8Sg
-! Last Modified:  Fri, 30 Oct 2009 10:21:56 +0800
+! Checksum: TFLYjCdq5drBQk1d7T997g
+! Last Modified:  Fri, 30 Oct 2009 10:34:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -66,6 +66,7 @@ bbsland.com
 www.bcc.com.tw/board
 blog.bcchinese.net
 beijingspring.com
+.berlintwitterwall.com
 bestforchina.org
 bignews.org
 .bit.ly
@@ -1060,7 +1061,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
-berlintwittrwall.com
+|http://berlintwitterwall.com
 zhongmeng.org
 |http://twibble.de
 |https://twibble.de
