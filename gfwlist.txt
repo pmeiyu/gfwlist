@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: CFecxYcN1UOVLIx2KQzPsw
-! Last Modified:  Fri, 30 Oct 2009 11:13:17 +0800
+! Checksum: jxriZZtZDDg18udDm0mC/g
+! Last Modified:  Fri, 30 Oct 2009 12:16:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -671,23 +671,9 @@ twitpic.com
 .twitter.com
 |http://twitter.com
 |https://twitter.com
-!-twitter.com/amoiist
-!-twitter.com/BeiJing1989
-!-twitter.com/billzhong
-!-twitter.com/nowhere1975
-!-twitter.com/shizhao
-!-twitter.com/VOTChinese
-!-twitter.com/wenyunchao
-!-twitter.com/wumao
-!-twitter.com/zengjinyan
-!twitter.com/zuola
-!-@@|https://twitter.com/
-!-@@|https://www.twitter.com/
-!-|http://apiwiki.twitter.com/
-!-|http://dev.twitter.com/
-!-|http://status.twitter.com/
 twittercounter.com
 twitterfeed.com
+.twittergadget.com
 twitthat.com
 .twitvid.com
 |http://twitvid.com
@@ -1061,6 +1047,8 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+||twittergadget.com
+|http://twittergadget.com
 |http://berlintwitterwall.com
 zhongmeng.org
 |http://twibble.de
