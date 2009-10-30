@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: /FLNrG/xSOyLokzRWRL0rA
-! Last Modified:  Fri, 30 Oct 2009 12:19:03 +0800
+! Checksum: VFw1THB7bZ+ZEZwBggXVcQ
+! Last Modified:  Fri, 30 Oct 2009 12:25:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -146,6 +146,7 @@ psiphon.civisec.org
 .cjb.net
 ck101.com
 cmule.com
+.cnavista.com.tw*shop*stores_app
 .cnd.org
 |http://cnd.org
 co.cc
@@ -202,6 +203,7 @@ www.dwheeler.com
 |http://www.dynawebinc.com/
 
 !--------------------------E--------------------------
+e-info.org.tw
 easylinuxcds.com
 ebookee.com
 edoors.com
@@ -526,6 +528,7 @@ picturesocial.com
 .ping.fm
 plays.com.tw
 plurk.com
+prozz.net
 
 !-------------Posterous-----
 !--Need to be edited after next stable release of AutoProxy
