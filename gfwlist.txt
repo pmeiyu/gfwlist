@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: wVknfgajPRsKcb5ytpKXVw
-! Last Modified:  Fri, 30 Oct 2009 19:41:43 +0800
+! Checksum: meJ0nG2vEddyFKkQBVDHRg
+! Last Modified:  Sun, 25 Oct 2009 20:22:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -40,6 +40,7 @@ anchorfree.com
 |http://www.andylau.com
 anonymizer.com
 anonymouse.org
+video.aol.ca/video-detail/
 |http:*free4internet.appspot.com
 |http:*gfw.appspot.com
 |http:*meme2028.appspot.com
@@ -105,6 +106,7 @@ boxun.com
 |http://mckk.bplaced.net
 .breakingtweets.com
 |http://breakingtweets.com
+||briian.com
 bullogger.com
 holz.byethost8.com
 
@@ -271,6 +273,8 @@ funp.com
 .gamebase.com.tw
 ||gamebase.com.tw
 gaopi.com
+.geekcook.org
+||geekcook.org
 geocities.jp
 getchu.com
 globalmuseumoncommunism.org
@@ -378,6 +382,7 @@ hbo.com/docs/*/china
 |http://www.heartyit.com/
 hellotxt.com
 |http://www.hemidemi.com/
+||heungkongdiscuss.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 myweb.hinet.net
 |http://times.hinet.net/
@@ -482,6 +487,8 @@ mm36c.com
 msn.com.tw
 sidekick.myblog.hk
 |http://www.mycould.com/
+.mysinablog.com
+||mysinablog.com
 |http://vids.myspace.com/
 
 !--------------------------N--------------------------
@@ -490,6 +497,7 @@ net.ru
 netcolony.com
 newcenturynews.com
 bbs.newsgroup.la
+bbs*.newsgroup.la
 forum.newsgroup.la
 newstin.com
 |http://www.newsvine.com/
@@ -611,6 +619,9 @@ shenshou.org
 simpleproductivityblog.com
 blog.sina.com.hk
 blog.sina.com.tw
+books.sina.com.tw
+forum.sina.com.hk
+magazines.sina.com.tw
 news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
@@ -633,6 +644,7 @@ sokamonline.com
 soundofhope.org
 sowers.org.hk
 |http://my.spill.com
+splitweet.com
 squarespace.com
 www.stackfile.com/freedur
 starcraft2.com
