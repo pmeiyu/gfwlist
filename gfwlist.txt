@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: KQWTjzUHM7w0IVxDpH6lFw
-! Last Modified:  Sat, 31 Oct 2009 13:44:28 +0800
+! Checksum: uXqhMox7ihz7s6biZBmaPQ
+! Last Modified:  Sat, 31 Oct 2009 15:26:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -40,7 +40,7 @@ anchorfree.com
 |http://www.andylau.com
 anonymizer.com
 anonymouse.org
-video.aol.ca/video-detail/
+video.aol.ca*video-detail
 |http:*free4internet.appspot.com
 |http:*gfw.appspot.com
 |http:*meme2028.appspot.com
@@ -52,7 +52,7 @@ www.asiademo.org
 .atj.org.tw
 atlaspost.com
 .atnext.com
-!--||autoproxy.org
+|http://www.autoproxy.org
 avno1.com
 
 !--------------------------B--------------------------
@@ -107,7 +107,6 @@ boxun.com
 |http://mckk.bplaced.net
 .breakingtweets.com
 |http://breakingtweets.com
-||briian.com
 bullogger.com
 holz.byethost8.com
 
@@ -156,7 +155,6 @@ cmule.com
 .cnd.org
 |http://cnd.org
 co.cc
-||codecguide.com
 |http://codepad.org/
 commandlineisking.com
 |http://www.coolloud.org.tw/
@@ -276,7 +274,7 @@ funp.com
 ||gamebase.com.tw
 gaopi.com
 .geekcook.org
-||geekcook.org
+|http://geekcook.org
 geocities.jp
 getchu.com
 ||ginx.com
@@ -385,7 +383,6 @@ hbo.com/docs/*/china
 |http://www.heartyit.com/
 hellotxt.com
 |http://www.hemidemi.com/
-||heungkongdiscuss.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 myweb.hinet.net
 |http://times.hinet.net/
@@ -491,7 +488,7 @@ msn.com.tw
 sidekick.myblog.hk
 |http://www.mycould.com/
 .mysinablog.com
-||mysinablog.com
+|http://mysinablog.com
 |http://vids.myspace.com/
 
 !--------------------------N--------------------------
@@ -500,7 +497,7 @@ net.ru
 netcolony.com
 newcenturynews.com
 bbs.newsgroup.la
-bbs*.newsgroup.la
+bbs2.newsgroup.la
 forum.newsgroup.la
 newstin.com
 |http://www.newsvine.com/
@@ -622,9 +619,9 @@ shenshou.org
 simpleproductivityblog.com
 blog.sina.com.hk
 blog.sina.com.tw
-books.sina.com.tw
+|http://books.sina.com.tw
 forum.sina.com.hk
-magazines.sina.com.tw
+|http://magazines.sina.com.tw
 news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
@@ -740,7 +737,7 @@ www.voy.com
 
 !--------------------------W--------------------------
 wallornot.org
-||wangcongming.info
+|http://blog.wangcongming.info
 www.wangruowang.org
 ||we.bs^
 webshots.com
@@ -1076,6 +1073,9 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+heungkongdiscuss.com
+codecguide.com
+briian.com
 ||twittergadget.com
 |http://twittergadget.com
 |http://berlintwitterwall.com
@@ -1217,7 +1217,6 @@ www.msguancha.com
 |http://www.oxfam.org.hk/
 |http://www.salvation.org.hk/
 |http://www.tacem.org/
-|http://mysinablog.com/
 |http://www.kwongwah.com.my/
 mitbbs.com
 gardennetworks.com
