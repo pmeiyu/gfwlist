@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: T3UhpIY20ldvPeDEflEApQ
-! Last Modified:  Sat, 31 Oct 2009 16:14:50 +0800
+! Checksum: 9NMdXM1R3rLCqHMQU5arWA
+! Last Modified:  Sat, 31 Oct 2009 20:39:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -479,6 +479,7 @@ mingpaonews.com
 minzhuzhongguo.org
 mirrorbooks.com
 mm36c.com
+|http://www.moztw.org
 
 !--.mp may be removed some time
 .mp/
@@ -1002,6 +1003,7 @@ ytht.net
 
 !--------------------------Z--------------------------
 |http://luntan.zaobao.com/
+.zaobao.com*special*china*cnpol*pages2*cnpol090729
 zaobao.com.sg
 www.zaurus.org.uk
 asset*.zendesk.com
