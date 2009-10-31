@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: YNKCTWkOxf8JwP1tCzO9XA
-! Last Modified:  Sat, 31 Oct 2009 01:41:35 +0800
+! Checksum: KQWTjzUHM7w0IVxDpH6lFw
+! Last Modified:  Sat, 31 Oct 2009 13:44:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -52,7 +52,7 @@ www.asiademo.org
 .atj.org.tw
 atlaspost.com
 .atnext.com
-||autoproxy.org
+!--||autoproxy.org
 avno1.com
 
 !--------------------------B--------------------------
@@ -279,6 +279,7 @@ gaopi.com
 ||geekcook.org
 geocities.jp
 getchu.com
+||ginx.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 
@@ -700,6 +701,7 @@ twittercounter.com
 twitterfeed.com
 .twittergadget.com
 twitthat.com
+||twitoaster.com
 .twitvid.com
 |http://twitvid.com
 .twitzap.com
