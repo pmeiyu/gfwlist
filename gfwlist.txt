@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: uXqhMox7ihz7s6biZBmaPQ
-! Last Modified:  Sat, 31 Oct 2009 15:26:49 +0800
+! Checksum: aQ9xmaa3JLK2upplx7XcUg
+! Last Modified:  Sat, 31 Oct 2009 15:44:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -277,7 +277,8 @@ gaopi.com
 |http://geekcook.org
 geocities.jp
 getchu.com
-||ginx.com
+.ginx.com
+|http://ginx.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 
@@ -690,6 +691,7 @@ tweetree.com
 .twibble.de
 twisternow.com
 twistory.net
+twitoaster.com
 twitpic.com
 .twitter.com
 |http://twitter.com
@@ -698,7 +700,6 @@ twittercounter.com
 twitterfeed.com
 .twittergadget.com
 twitthat.com
-||twitoaster.com
 .twitvid.com
 |http://twitvid.com
 .twitzap.com
