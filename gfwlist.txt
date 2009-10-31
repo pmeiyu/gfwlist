@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 9NMdXM1R3rLCqHMQU5arWA
-! Last Modified:  Sat, 31 Oct 2009 20:39:58 +0800
+! Checksum: WgDchb0azctdJXCzK8EfUQ
+! Last Modified:  Sat, 31 Oct 2009 15:11:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -138,10 +138,11 @@ chinaaffairs.org
 chinacomments.org
 chinadigitaltimes.net
 |http://*chinagfw.org
+||chinainperspective.net
 chinasmack.com
 !-chinatimes.com
 blog.chinatimes.com
-news.chinatimes.com/2007Cti/2007Cti-Rtn/
+news.chinatimes.com/2007Cti/
 chinaway.org
 chinesenewsnet.com
 chromeexperiments.com
@@ -152,6 +153,7 @@ psiphon.civisec.org
 ck101.com
 cmule.com
 .cnavista.com.tw*shop*stores_app
+||cnbloggercon.org
 .cnd.org
 |http://cnd.org
 co.cc
@@ -384,9 +386,9 @@ hbo.com/docs/*/china
 |http://www.heartyit.com/
 hellotxt.com
 |http://www.hemidemi.com/
+||hi5.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 myweb.hinet.net
-|http://times.hinet.net/
 hk-pub.com
 global.hkepc.com*forum
 hkgolden.com
@@ -412,6 +414,7 @@ hulu.com
 internetfreedom.org
 is.gd/1VO1f
 is.gd/1VOp7
+.iterasi.net
 .itweet.net
 |http://itweet.net
 .izaobao.com
@@ -509,6 +512,7 @@ ngensis.com
 no-ip.com
 |http://www.nownews.com/box
 |http://blog.nownews.com
+forum.nownews.com
 .nowtorrents.com
 ntdtv.com
 nysingtao.com
@@ -526,9 +530,11 @@ www.orchidbbs.com
 .orzistic.org
 ||orzistic.org
 osdir.com
+|http://www.oxbridgechina.org/bbs
 
 !--------------------------P--------------------------
 forum.palmislife.com
+panoramio.com/forum
 pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
@@ -742,6 +748,7 @@ wallornot.org
 |http://blog.wangcongming.info
 www.wangruowang.org
 ||we.bs^
+t.webbang.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
@@ -981,7 +988,6 @@ hk.*yahoo.com
 meme.yahoo.com
 tw.*yahoo.com
 upcoming.yahoo.com
-|http://blog.yam.com/
 n.yam.com
 news.yam.com
 yilubbs.com
@@ -991,6 +997,7 @@ forum.yorkbbs.ca
 |https://www.your-freedom.net/
 www.yousendit.com
 youthbao.com
+youthnetradio.org/tmit/forum
 blog.youthwant.com.tw
 topic.youthwant.com.tw
 youtube.com
@@ -1220,7 +1227,6 @@ www.msguancha.com
 |http://www.oxfam.org.hk/
 |http://www.salvation.org.hk/
 |http://www.tacem.org/
-|http://www.kwongwah.com.my/
 mitbbs.com
 gardennetworks.com
 dongtaiwang.com
