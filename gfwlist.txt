@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: mjgID6ayDK9mZqHbl9qESQ
-! Last Modified:  Sun, 01 Nov 2009 20:42:04 +0800
+! Checksum: EexgfAdNnRG7c2MrYsGRLA
+! Last Modified:  Sun, 01 Nov 2009 20:48:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -368,7 +368,6 @@ code.google.com*p*autoproxy*updates*list
 |http://groups.google.com*group*zh_wikipedia
 |http://groups.google.com*group*cn.bbs.comp.dotnet
 picasaweb.google.com
-|http://*sites.google.com*site*gfwtools
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
 anti.anti.cnn.googlepages.com
 .googlevideo.com
@@ -550,7 +549,6 @@ philly.com
 picturesocial.com
 .ping.fm
 .piring.com
-|http://piring.com
 plays.com.tw
 plurk.com
 prozz.net
