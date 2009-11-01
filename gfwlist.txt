@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: s0ySiIuEk33gqArbvOkwgg
-! Last Modified:  Sun, 01 Nov 2009 17:14:14 +0800
+! Checksum: S3r5dWTEqjeVNThp+honvA
+! Last Modified:  Sun, 01 Nov 2009 18:35:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -152,7 +152,8 @@ psiphon.civisec.org
 ck101.com
 cmule.com
 .cnavista.com.tw*shop*stores_app
-||cnbloggercon.org
+.cnbloggercon.org
+|http://cnbloggercon.org
 .cnd.org
 |http://cnd.org
 co.cc
@@ -414,6 +415,7 @@ internetfreedom.org
 is.gd/1VO1f
 is.gd/1VOp7
 .iterasi.net
+|http://iterasi.net
 .itweet.net
 |http://itweet.net
 .izaobao.com
@@ -533,7 +535,7 @@ osdir.com
 
 !--------------------------P--------------------------
 forum.palmislife.com
-panoramio.com/forum
+.panoramio.com/forum
 pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
@@ -746,7 +748,6 @@ www.voy.com
 wallornot.org
 www.wangruowang.org
 ||we.bs^
-t.webbang.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
@@ -995,7 +996,7 @@ forum.yorkbbs.ca
 |https://www.your-freedom.net/
 www.yousendit.com
 youthbao.com
-youthnetradio.org/tmit/forum
+.youthnetradio.org/tmit/forum
 blog.youthwant.com.tw
 topic.youthwant.com.tw
 youtube.com
@@ -1081,6 +1082,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+t.webbang.net
 heungkongdiscuss.com
 codecguide.com
 briian.com
