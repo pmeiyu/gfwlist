@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: /7wp4X+nnQhbQIOAeB3YNQ
-! Last Modified:  Sun, 01 Nov 2009 16:53:40 +0800
+! Checksum: s0ySiIuEk33gqArbvOkwgg
+! Last Modified:  Sun, 01 Nov 2009 17:14:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -744,7 +744,6 @@ www.voy.com
 
 !--------------------------W--------------------------
 wallornot.org
-|http://blog.wangcongming.info
 www.wangruowang.org
 ||we.bs^
 t.webbang.net
