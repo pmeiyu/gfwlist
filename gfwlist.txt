@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: EexgfAdNnRG7c2MrYsGRLA
-! Last Modified:  Sun, 01 Nov 2009 20:48:27 +0800
+! Checksum: JpzlQRqrcYljxBkyHiUsRg
+! Last Modified:  Sun, 01 Nov 2009 20:52:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -310,6 +310,7 @@ www.ibluecity.com
 blog.jsquaredjavascript.com
 tomatovpn.keithmoyer.com
 www.keithmoyer.com
+log.keso.cn
 blog.kowalczyk.info
 www.kunalanand.com
 feeds.limi.net
@@ -457,6 +458,7 @@ lipuman.com
 |http://*zhllg.spaces.live.com
 
 liveleak.com
+||locafollow.com
 
 !--------------------------M--------------------------
 homepage.mac.com
