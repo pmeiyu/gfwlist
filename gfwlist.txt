@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 58X/FKDS7hb2lgTHJOcWXw
-! Last Modified:  Sun, 01 Nov 2009 21:02:13 +0800
+! Checksum: mW8+GKPMuC4N/QZiWuYzBg
+! Last Modified:  Mon, 02 Nov 2009 00:47:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -1085,6 +1085,10 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+tlists.com
+|http://huhaitai.com
+|http://file.huhaitai.com
+|http://www.huhaitai.com
 log.keso.cn
 coedmagazine.com
 summize.com
