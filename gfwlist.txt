@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: JpzlQRqrcYljxBkyHiUsRg
-! Last Modified:  Sun, 01 Nov 2009 20:52:02 +0800
+! Checksum: xQw7TaKQcRMd8iLANqTyDA
+! Last Modified:  Sun, 01 Nov 2009 20:59:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -1087,6 +1087,10 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+coedmagazine.com
+summize.com
+tzangms.com
+demogirl.com
 locafollow.com
 t.webbang.net
 heungkongdiscuss.com
