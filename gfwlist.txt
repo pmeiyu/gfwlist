@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: mW8+GKPMuC4N/QZiWuYzBg
-! Last Modified:  Mon, 02 Nov 2009 00:47:04 +0800
+! Checksum: fjGVPr2TYUIbkhPCau8D2A
+! Last Modified:  Mon, 02 Nov 2009 01:00:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -139,9 +139,9 @@ chinadigitaltimes.net
 |http://*chinagfw.org
 ||chinainperspective.net
 chinasmack.com
-!-chinatimes.com
 blog.chinatimes.com
-news.chinatimes.com/2007Cti/
+news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
+news.chinatimes.com/2007Cti/2007Cti-News/2007Cti-News-Content/0,4521,130505
 chinaway.org
 chinesenewsnet.com
 chromeexperiments.com
