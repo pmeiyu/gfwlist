@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: l/Uj26C5Og6UNbnv1M1+SA
-! Last Modified:  Sun, 01 Nov 2009 22:15:17 +0800
+! Checksum: y028RqtoEWl3e39Pf1YgQg
+! Last Modified:  Sun, 01 Nov 2009 22:44:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -596,6 +596,7 @@ qxbbs.org
 
 !--------------------------R--------------------------
 www.radioaustralia.net.au*chinese*articles*
+.rapidshare1.com
 .rapidsharedata.com
 rcinet.ca
 .realraptalk.com
@@ -694,6 +695,7 @@ tvboxnow.com
 .gov.tw/
 twbbs.net.tw
 twbbs.org
+||tweepml.org
 |http://support.tweetdeck.com
 |http://*m.tweete.net
 .tweetmeme.com
