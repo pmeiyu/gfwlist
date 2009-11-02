@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: fjGVPr2TYUIbkhPCau8D2A
-! Last Modified:  Mon, 02 Nov 2009 01:00:49 +0800
+! Checksum: l/Uj26C5Og6UNbnv1M1+SA
+! Last Modified:  Sun, 01 Nov 2009 22:15:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -52,6 +52,7 @@ www.asiademo.org
 .atj.org.tw
 atlaspost.com
 .atnext.com
+|http://www.autoproxy.org
 avno1.com
 
 !--------------------------B--------------------------
