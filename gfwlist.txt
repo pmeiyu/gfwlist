@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: y028RqtoEWl3e39Pf1YgQg
-! Last Modified:  Sun, 01 Nov 2009 22:44:52 +0800
+! Checksum: AUB0ExSLhBiFQwWph5QQ+A
+! Last Modified:  Tue, 03 Nov 2009 18:07:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -362,13 +362,13 @@ google.com*analytics*zh-CN
 code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
 |http://docs.google.com*view*docid
-|http://groups.google.com*group*fans
-|http://groups.google.com*group*gfw-blog
-|http://groups.google.com*group*lihlii
-|http://groups.google.com*group*mindex
-|http://groups.google.com*group*zh_wikipedia
-|http://groups.google.com*group*cn.bbs.comp.dotnet
-picasaweb.google.com
+groups.google.com*group*fans
+groups.google.com*group*gfw-blog
+groups.google.com*group*lihlii
+groups.google.com*group*mindex
+groups.google.com*group*zh_wikipedia
+groups.google.com*group*cn.bbs.comp.dotnet
+|http://picasaweb.google.com/
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
 anti.anti.cnn.googlepages.com
 .googlevideo.com
@@ -534,6 +534,7 @@ osdir.com
 |http://www.oxbridgechina.org/bbs
 
 !--------------------------P--------------------------
+|http://blog.palm.com
 forum.palmislife.com
 .panoramio.com/forum
 pbs.org/wgbh/pages/frontline/gate
@@ -686,6 +687,7 @@ tldp.org
 .topshareware.com
 topsy.com
 torproject.org
+||tr.im/DZ0o
 tsquare.tv
 |http://tttan.com/
 tube8.com
@@ -695,7 +697,7 @@ tvboxnow.com
 .gov.tw/
 twbbs.net.tw
 twbbs.org
-||tweepml.org
+tweepml.org
 |http://support.tweetdeck.com
 |http://*m.tweete.net
 .tweetmeme.com
@@ -752,6 +754,7 @@ www.voy.com
 
 !--------------------------W--------------------------
 wallornot.org
+|http://blog.wangcongming.info
 www.wangruowang.org
 ||we.bs^
 webshots.com
@@ -1088,6 +1091,7 @@ gfwProxyEnabled=yes
 !------UnSorted---------------------------------------
 
 !----Not a keyword, need to be edited in next version of AutoProxy
+dba2csv.com
 tlists.com
 |http://huhaitai.com
 |http://file.huhaitai.com
