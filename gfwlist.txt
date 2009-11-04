@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: HTw8NzdCGwJ5yqryO+dySQ
-! Last Modified:  Mon, 02 Nov 2009 00:16:44 +0800
+! Checksum: QqyiQVTndWJlaBkFjrBKPQ
+! Last Modified:  Tue, 03 Nov 2009 20:46:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -601,6 +601,8 @@ qxbbs.org
 
 !--------------------------R--------------------------
 www.radioaustralia.net.au*chinese*articles*
+ranyunfei.com
+rapidlibrary.com
 .rapidshare1.com
 .rapidsharedata.com
 rcinet.ca
@@ -620,9 +622,6 @@ robtex.com
 rthk.org.hk/rthk/news/
 rti.org.tw
 ruten.com.tw
-!-- Sort this
-ranyunfei.com
-rapidlibrary.com
 
 !--------------------------S--------------------------
 scribd.com
