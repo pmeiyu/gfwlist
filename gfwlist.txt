@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: NIXzwwADBwU4j/QYRGtQvA
-! Last Modified:  Sun, 01 Nov 2009 23:57:24 +0800
+! Checksum: HTw8NzdCGwJ5yqryO+dySQ
+! Last Modified:  Mon, 02 Nov 2009 00:16:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -584,6 +584,7 @@ blog.xiaxiaoyang.com
 bill.zhong.pp.ru
 
 powerapple.com
+||privatepaste.com
 psiphon.ca
 |http://www.ptt.cc/
 .python.org/download
@@ -593,6 +594,7 @@ qixianglu.cn
 bbs.qoos.com
 space.qoos.com
 blog.qooza.hk*dafengqixi
+|http://www.quarterlife.com
 qusi8.net
 nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
@@ -613,10 +615,12 @@ robertmao.com
 robtex.com
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
+||rssmeme.com
 !-rthk.org.hk
 rthk.org.hk/rthk/news/
 rti.org.tw
 ruten.com.tw
+!-- Sort this
 ranyunfei.com
 rapidlibrary.com
 
@@ -648,6 +652,7 @@ m.slandr.net
 forum.slime.com.tw
 .slinkset.com
 sneakme.net
+.sobees.com
 |http://en.softonic.com
 gmail-remote-command.en.softonic.com
 blog.sogoo.org
@@ -708,6 +713,7 @@ tweetree.com
 .twibble.de
 twisternow.com
 twistory.net
+||twit2d.com
 twitoaster.com
 twitpic.com
 .twitter.com
@@ -763,6 +769,7 @@ www.wangruowang.org
 webshots.com
 websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
+.wefong.com
 weijingsheng.org
 news.wenxuecity.com
 |http://blog.wenxuecity.com
@@ -776,6 +783,7 @@ www.wet123.com
 wikidot.com
 @@static.wikidot.com
 .wikileaks.org
+||wittytwitter.com
 !-WikiLeaks IP
 */88.80.13.160/*
 secure.wikimedia.org
