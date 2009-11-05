@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 45eVnk2sA7BhMAXWxdM2KA
-! Last Modified:  Wed, 04 Nov 2009 21:14:42 +0800
+! Checksum: FTuzbeoKr/JQoCqm6eHo2w
+! Last Modified:  Wed, 04 Nov 2009 21:18:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -28,8 +28,10 @@ info.51.ca
 www.aboluowang.com
 .aboutus.org
 advanscene.com
+||aenhancers.com
 |http://www.aidsmuseum.cn/
 |http://*blog.aiweiwei.com
+.alivenotdead.com
 allhabit.com
 alliance.org.hk
 !--|http://*www.amazon.com
@@ -386,6 +388,7 @@ great-firewall.com
 
 !--------------------------H--------------------------
 |http://hackaday.com/
+||haoren.com
 hbo.com/docs/*/china
 .hdzone.org
 |http://www.heartyit.com/
@@ -432,6 +435,7 @@ blog.jackjia.com
 jeanyim.com
 jieshibaobao.com
 .jiruan.net
+||jounin.net
 |http://jpra1113.org
 .junefourth-20.net
 |http://junefourth-20.net
@@ -507,6 +511,7 @@ sidekick.myblog.hk
 |http://vids.myspace.com/
 
 !--------------------------N--------------------------
+||naitik.net
 www.ned.org
 net.ru
 netcolony.com
@@ -690,6 +695,7 @@ tcno.net*doc*tor
 technologizer.com
 technorati.com
 telecomspace.com
+||thelius.org
 thepiratebay.org
 thkphoto.com
 tiananmenmother.org
@@ -776,6 +782,7 @@ wallornot.org
 |http://blog.wangcongming.info
 www.wangruowang.org
 ||we.bs^
+webs-tv.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
@@ -1046,6 +1053,7 @@ www.zaurus.org.uk
 asset*.zendesk.com
 .zengjinyan.org
 zhengjian.org
+||cocoa.zonble.net
 zuola.com
 
 !--------------------------Other----------------------
