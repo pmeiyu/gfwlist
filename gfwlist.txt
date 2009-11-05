@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: cIw4kYTX0IF/hStvJYFn+Q
-! Last Modified:  Thu, 05 Nov 2009 16:22:58 +0800
+! Checksum: 0HrhPbo3GoBEhPzE4uAgNg
+! Last Modified:  Thu, 05 Nov 2009 16:45:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -1002,6 +1002,7 @@ xinsheng.net
 |http://xmarks.com
 |https://xmarks.com
 blog.xuite.net
+||xuming.net
 .xys.org
 xysblogs.org
 
