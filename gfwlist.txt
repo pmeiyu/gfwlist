@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: ihA2jx1PqYB51/Ddl9Vrew
-! Last Modified:  Wed, 04 Nov 2009 23:01:34 +0800
+! Checksum: EFQcoWWgGvMfUthdGFYUVQ
+! Last Modified:  Wed, 04 Nov 2009 23:19:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -703,6 +703,7 @@ technorati.com
 telecomspace.com
 ||thelius.org
 thepiratebay.org
+.thumbzilla.com
 thkphoto.com
 tiananmenmother.org
 .tiandixing.org
@@ -718,6 +719,7 @@ topsy.com
 torproject.org
 ||tr.im/DZ0o
 tsquare.tv
+tt1069.com
 |http://tttan.com/
 tube8.com
 tumblr.com
@@ -1022,6 +1024,7 @@ xinsheng.net
 .xmarks.com
 |http://xmarks.com
 |https://xmarks.com
+xtube.com
 blog.xuite.net
 ||xuming.net
 .xys.org
@@ -1320,4 +1323,5 @@ hk.geocities.com
 .longhair.hk
 .exblog.jp
 etaiwannews.com
+
 
