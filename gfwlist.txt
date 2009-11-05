@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 1kRLbe0Pfhk4pdjYdiyftA
-! Last Modified:  Thu, 05 Nov 2009 15:52:41 +0800
+! Checksum: cIw4kYTX0IF/hStvJYFn+Q
+! Last Modified:  Thu, 05 Nov 2009 16:22:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -414,6 +414,7 @@ hulu.com
 internetfreedom.org
 is.gd/1VO1f
 is.gd/1VOp7
+||ishawn.net
 .iterasi.net
 |http://iterasi.net
 .itweet.net
