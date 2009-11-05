@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: 0HrhPbo3GoBEhPzE4uAgNg
-! Last Modified:  Thu, 05 Nov 2009 16:45:32 +0800
+! Checksum: 45eVnk2sA7BhMAXWxdM2KA
+! Last Modified:  Wed, 04 Nov 2009 21:14:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -204,6 +204,7 @@ dongde.com
 http://doubleaf.com
 |http://www.dpp.org.tw/
 http://dropbox.com
+||duckmylife.com
 duping.net
 dupola.com
 dw-world.de
@@ -224,6 +225,9 @@ eyny.com
 !--------------------------F--------------------------
 facebook.com
 !--facebook cdn
+faydao.com
+@@i.faydao.com
+@@v.faydao.com
 fbcdn.net
 fangeming.com
 fanqiang.org
@@ -232,6 +236,7 @@ fanqiang.org
 web.fc2.com
 forum*.fdzone.org
 feedbooks.mobi
+||feedego.com
 feer.com
 http://ff.im
 @@|https://ff.im
@@ -423,6 +428,7 @@ is.gd/1VOp7
 @@|http*//www.izaobao.com
 
 !--------------------------J--------------------------
+blog.jackjia.com
 jeanyim.com
 jieshibaobao.com
 .jiruan.net
@@ -447,6 +453,7 @@ lifestream.fm
 |http://cle.linux.org.tw/
 linuxconfig.org
 lipuman.com
+||liteapplications.com
 
 !-------------live spaces-----
 |http://*flowerofhappiness.spaces.live.com
@@ -666,7 +673,7 @@ sokamonline.com
 soundofhope.org
 sowers.org.hk
 |http://my.spill.com
-splitweet.com
+||splitweet.com
 squarespace.com
 www.stackfile.com/freedur
 starcraft2.com
