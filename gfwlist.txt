@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: FTuzbeoKr/JQoCqm6eHo2w
-! Last Modified:  Wed, 04 Nov 2009 21:18:26 +0800
+! Checksum: ihA2jx1PqYB51/Ddl9Vrew
+! Last Modified:  Wed, 04 Nov 2009 23:01:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -19,6 +19,7 @@ info.51.ca
 6park.com
 64memo.com
 64tianwang.com
+||74.125.94.160
 |http://www.881903.com
 89-64.org
 .8cyber.com
@@ -141,6 +142,7 @@ chinacomments.org
 chinadigitaltimes.net
 |http://*chinagfw.org
 ||chinainperspective.net
+||chinaphile.com
 chinasmack.com
 blog.chinatimes.com
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
@@ -160,6 +162,7 @@ cmule.com
 .cnd.org
 |http://cnd.org
 co.cc
+|http://cochina.org
 |http://codepad.org/
 commandlineisking.com
 |http://www.coolloud.org.tw/
@@ -174,7 +177,7 @@ cuihua.org
 !--------------------------D--------------------------
 
 !-------------Dabr-----
-|http://dabr.co.uk
+||dabr.co.uk
 |http://*www.cao.im
 |http://*t.fineao.cn
 |http://*funp.org
@@ -196,6 +199,7 @@ dajiyuan.com
 |http://*.damipan.com
 danwei.org
 packages.debian.org*zh-cn*lenny*gpass
+||deluxetemplates.net
 http://www.destroydebtwithcashgifting.com
 de-sci.org
 democrats.org
@@ -219,6 +223,7 @@ easylinuxcds.com
 ebookee.com
 edoors.com
 |http://www.edubridge.com/
+||elecite.com
 eltondisney.com
 epochtimes.com
 .extratorrent.com
@@ -588,6 +593,7 @@ posterous.com
 reflectionof.me
 log.riku.me
 steverubel.com
+blog.tweetdeck.com
 vatn.org
 veempiire.com
 www.vegorpedersen.com
@@ -726,6 +732,7 @@ tweepml.org
 .tweetmeme.com
 tweetree.com
 .twibble.de
+||twip.me
 twisternow.com
 twistory.net
 .twit2d.com
