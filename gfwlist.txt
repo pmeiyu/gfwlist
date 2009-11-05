@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: OwN2hET0qq+WYn6r28HzwA
-! Last Modified:  Wed, 04 Nov 2009 20:47:17 +0800
+! Checksum: GZ/VLl9gMYQRqDBquzwSkA
+! Last Modified:  Thu, 05 Nov 2009 15:41:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -584,7 +584,7 @@ blog.xiaxiaoyang.com
 bill.zhong.pp.ru
 
 powerapple.com
-||privatepaste.com
+privatepaste.com
 psiphon.ca
 |http://www.ptt.cc/
 .python.org/download
@@ -652,6 +652,7 @@ forum.slime.com.tw
 .slinkset.com
 sneakme.net
 .sobees.com
+||sobees.com
 |http://en.softonic.com
 gmail-remote-command.en.softonic.com
 blog.sogoo.org
@@ -712,6 +713,7 @@ tweetree.com
 .twibble.de
 twisternow.com
 twistory.net
+.twit2d.com
 ||twit2d.com
 twitoaster.com
 twitpic.com
