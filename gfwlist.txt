@@ -1,6 +1,6 @@
 [AutoProxy 0.1.0]
-! Checksum: GZ/VLl9gMYQRqDBquzwSkA
-! Last Modified:  Thu, 05 Nov 2009 15:41:50 +0800
+! Checksum: 1kRLbe0Pfhk4pdjYdiyftA
+! Last Modified:  Thu, 05 Nov 2009 15:52:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -617,6 +617,7 @@ robertmao.com
 robtex.com
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
+.rssmeme.com
 ||rssmeme.com
 !-rthk.org.hk
 rthk.org.hk/rthk/news/
