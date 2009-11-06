@@ -1,12 +1,13 @@
 [AutoProxy 0.1.0]
-! Checksum: zQOZW/Jcan8FLggMon578Q
+! Checksum: gcZGB9VvaYhvR7u7a98t9g
 ! Expires: 12h
-! Last Modified:  Fri, 06 Nov 2009 19:34:18 +0800
+! Last Modified:  Wed, 04 Nov 2009 23:30:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
 1-apple.com.tw
 |http://nsf.110mb.com
+.18p2p.com
 1bang1.cn
 |http://www.1bao.org
 .2000fun.com*bbs
@@ -278,6 +279,7 @@ friendfeed.com
 
 .fring.com
 ||fring.com
+||fscked.org
 |http://www.fsurf.com/
 .ftv.com.tw
 |http://fuckgfw.com
@@ -575,6 +577,7 @@ picturesocial.com
 plays.com.tw
 plurk.com
 prozz.net
+||popyard.org
 
 !-------------Posterous-----
 !--Need to be edited after next stable release of AutoProxy
@@ -1008,6 +1011,7 @@ china.blogs.time.com
 @@http://s2.wordpress.com/
 @@http://www.wordpress.com
 
+||wormsculptor.com
 wowwiki.com
 |http://wp.me/
 wretch.cc
