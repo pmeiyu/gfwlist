@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: gcZGB9VvaYhvR7u7a98t9g
+! Checksum: oLLJNxLXKzyKhrzLrphrQg
 ! Expires: 12h
-! Last Modified:  Wed, 04 Nov 2009 23:30:48 +0800
+! Last Modified:  Wed, 04 Nov 2009 23:44:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -209,7 +209,7 @@ diigo.com
 discuss.com.hk
 |http://www.docbook.org/
 dongde.com
-http://doubleaf.com
+||doubleaf.com
 |http://www.dpp.org.tw/
 http://dropbox.com
 ||duckmylife.com
@@ -469,6 +469,7 @@ lipuman.com
 
 !-------------live spaces-----
 |http://*flowerofhappiness.spaces.live.com
+honeonet.spaces.live.com
 |http://*hujiachina.spaces.live.com
 |http://*portis21.spaces.live.com
 |http://*siyi123123123.spaces.live.com
@@ -1276,7 +1277,7 @@ kompozer.net
 dopdf.com
 dmtcs.org
 e71fanatics.com
-
+||nesn.com
 
 
 |http://dlstatusbar.proboards43.com/
