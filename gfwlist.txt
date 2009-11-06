@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: DVdB9BxqCyzgIJ5D3+1M0A
+! Checksum: ZpSpZV3/5IooHyXendmUUA
 ! Expires: 12h
-! Last Modified:  Fri, 06 Nov 2009 10:07:00 +0800
+! Last Modified:  Fri, 06 Nov 2009 10:12:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -117,7 +117,7 @@ holz.byethost8.com
 !--------------------------C--------------------------
 cafepress.com
 canyu.org
-|http://caodan.net
+.caodan.org
 |http://www.carnegieendowment.org
 .catcatforum.com
 catholic.org.tw*catholic
