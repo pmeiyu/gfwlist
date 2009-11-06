@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: ZpSpZV3/5IooHyXendmUUA
+! Checksum: zQOZW/Jcan8FLggMon578Q
 ! Expires: 12h
-! Last Modified:  Fri, 06 Nov 2009 10:12:44 +0800
+! Last Modified:  Fri, 06 Nov 2009 19:34:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -327,6 +327,7 @@ www.keithmoyer.com
 blog.kowalczyk.info
 www.kunalanand.com
 feeds.limi.net
+||www.liteapplications.com
 feeds.loiclemeur.com
 blog.louisgray.com
 feeds.mobileread.com
@@ -463,7 +464,6 @@ lifestream.fm
 |http://cle.linux.org.tw/
 linuxconfig.org
 lipuman.com
-||liteapplications.com
 
 !-------------live spaces-----
 |http://*flowerofhappiness.spaces.live.com
