@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: QDOdYy8YW2zy+ZjuEqaqLw
+! Checksum: pfa787ag9D9qUy9SamOeWA
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 15:41:32 +0800
+! Last Modified:  Sun, 08 Nov 2009 16:23:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num & Symbol-------------------
@@ -216,7 +216,7 @@ discuss.com.hk
 |http://www.docbook.org/
 dongde.com
 ||dopodomani.me
-||doubleaf.com
+doubleaf.com
 |http://www.dpp.org.tw/
 http://dropbox.com
 ||duckmylife.com
@@ -484,16 +484,16 @@ linuxconfig.org
 lipuman.com
 
 !-------------live spaces-----
-|http://*flowerofhappiness.spaces.live.com
-honeonet.spaces.live.com
-|http://*hujiachina.spaces.live.com
-|http://*portis21.spaces.live.com
-|http://*siyi123123123.spaces.live.com
-|http://*wangyi64.spaces.live.com
-|http://*wenyunchao.spaces.live.com
-|http://*yezimary.spaces.live.com
-|http://*zengjinyan.spaces.live.com
-|http://*zhllg.spaces.live.com
+|http:*flowerofhappiness.spaces.live.com
+|http:*honeonet.spaces.live.com
+|http:*hujiachina.spaces.live.com
+|http:*portis21.spaces.live.com
+|http:*siyi123123123.spaces.live.com
+|http:*wangyi64.spaces.live.com
+|http:*wenyunchao.spaces.live.com
+|http:*yezimary.spaces.live.com
+|http:*zengjinyan.spaces.live.com
+|http:*zhllg.spaces.live.com
 
 liveleak.com
 ||lookingglasstheatre.org
@@ -1046,6 +1046,7 @@ wukangrui.net
 .xanga.com
 .xft.de/
 /xft.de/*
+xh4n.cn/blog
 xiaoma.org
 xinsheng.net
 |http://www.xinhuanet.org/
@@ -1351,8 +1352,9 @@ hk.geocities.com
 .longhair.hk
 .exblog.jp
 etaiwannews.com
-xh4n.cn/blog
 
-!------Temporary, will be deleted after one month---------------------------------------
+!------Temporary
 !-----2009/11
-http://zh.wikipedia.org/wiki/Wikipedia:*/2009/11/04
+!-YeMianCunFeiTaoLun/JiLu/2009/11/04
+zh.wikipedia.org*Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E8%A8%98%E9%8C%84/2009/11/04
+
