@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: tIxOzvxwNRPJRrO5DYl+6g
+! Checksum: uuWfQb5DZ2gXIbTJavXxiw
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 23:55:05 +0800
+! Last Modified:  Sun, 08 Nov 2009 15:51:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -46,6 +46,7 @@ anchorfree.com
 anonymizer.com
 anonymouse.org
 video.aol.ca*video-detail
+|http:*bullog4cn.appspot.com
 |http:*free4internet.appspot.com
 |http:*gfw.appspot.com
 |http:*meme2028.appspot.com
@@ -79,6 +80,7 @@ beijingspring.com
 .berlintwitterwall.com
 bestforchina.org
 bignews.org
+.bigsound.org/portnoy
 .bit.ly
 |http://bit.ly
 .blip.tv
@@ -120,6 +122,7 @@ holz.byethost8.com
 cafepress.com
 ||calebelston.com
 canyu.org
+caochangqing.com
 .caodan.org
 |http://www.carnegieendowment.org
 .catcatforum.com
@@ -218,6 +221,7 @@ dongde.com
 ||dopodomani.me
 doubleaf.com
 |http://www.dpp.org.tw/
+||droidie.com
 http://dropbox.com
 ||duckmylife.com
 duping.net
@@ -236,6 +240,7 @@ edoors.com
 ||elecite.com
 eltondisney.com
 epochtimes.com
+||blog.expofutures.com 
 .extratorrent.com
 eyny.com
 
@@ -391,6 +396,7 @@ google.com*analytics*zh-CN
 code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
 |http://docs.google.com*view*docid
+groups.google.com*group*cn.fan
 groups.google.com*group*fans
 groups.google.com*group*gfw-blog
 groups.google.com*group*lihlii
@@ -431,6 +437,7 @@ hkreporter.com
 hrichina.org
 huitter.com
 hulu.com
+.humoron.com
 |http://www.hungerstrikeforaids.org
 
 !--------------------------I--------------------------
@@ -796,6 +803,7 @@ forum.udn.com
 paper.udn.com
 video.udn.com
 uighurbiz.net
+||uk.to
 unblog.fr
 uncyclopedia.
 |http://unifoundry.com/
@@ -1026,6 +1034,7 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 
 !-------------Wordpress Blog-----
 !---Need to be edited in next version of AutoProxy
+||blog.bittorrent.com
 blogmaverick.com
 blog.drakengren.com
 blog.feedly.com
