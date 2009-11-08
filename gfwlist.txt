@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: akHFDWKEiJxxBkrMvFhw8g
+! Checksum: ti/3RPdXRFpAYjvV2EJiSw
 ! Expires: 12h
-! Last Modified:  Mon, 09 Nov 2009 01:03:12 +0800
+! Last Modified:  Mon, 09 Nov 2009 02:03:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -153,6 +153,7 @@ chinadigitaltimes.net
 ||chinaphile.com
 chinasmack.com
 blog.chinatimes.com
+gb.chinatimes.com/gate/gb/*2007Cti-News
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 news.chinatimes.com/2007Cti/2007Cti-News/2007Cti-News-Content/0,4521,130505
 chinaway.org
@@ -540,6 +541,7 @@ mm36c.com
 
 |http://www.mpinews.com/
 msn.com.tw
+||muzicana.uk.to
 sidekick.myblog.hk
 |http://www.mycould.com/
 .mysinablog.com
@@ -697,6 +699,7 @@ forum.sina.com.hk
 news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
+||siteks.uk.to
 sitetag.us
 |http://skype.com
 |http://www.skype.com
