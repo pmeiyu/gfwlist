@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: uuWfQb5DZ2gXIbTJavXxiw
+! Checksum: akHFDWKEiJxxBkrMvFhw8g
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 15:51:59 +0800
+! Last Modified:  Mon, 09 Nov 2009 01:03:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -240,7 +240,7 @@ edoors.com
 ||elecite.com
 eltondisney.com
 epochtimes.com
-||blog.expofutures.com 
+||blog.expofutures.com
 .extratorrent.com
 eyny.com
 
@@ -803,7 +803,6 @@ forum.udn.com
 paper.udn.com
 video.udn.com
 uighurbiz.net
-||uk.to
 unblog.fr
 uncyclopedia.
 |http://unifoundry.com/
