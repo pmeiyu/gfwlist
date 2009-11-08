@@ -1,10 +1,10 @@
 [AutoProxy 0.1.0]
-! Checksum: /2gZ+kGvD5U+dOJQA4QeSg
+! Checksum: QDOdYy8YW2zy+ZjuEqaqLw
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 15:36:53 +0800
+! Last Modified:  Sun, 08 Nov 2009 15:41:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
-!-------------------------Num--------------------------
+!--------------------Num & Symbol-------------------
 1-apple.com.tw
 |http://nsf.110mb.com
 .18p2p.com
@@ -26,6 +26,8 @@ info.51.ca
 89-64.org
 .8cyber.com
 8ok.com/
+!-- Ba Ke
+%E7%BD%A2%E8%AF%BE
 
 !--------------------------A--------------------------
 www.aboluowang.com
@@ -222,6 +224,7 @@ duping.net
 dupola.com
 dw-world.de
 www.dwheeler.com
+xys.dxiong.com
 |http://www.dynawebinc.com/
 
 !--------------------------E--------------------------
@@ -265,6 +268,7 @@ fillthesquare.org
 !--|http://farm1.static.flickr.com/
 !--|http://farm2.static.flickr.com/
 !--|http://farm4.static.flickr.com
+findbook.tw
 www.forum4hk.com
 .free.fr/adsl
 kineox.free.fr
@@ -276,6 +280,7 @@ freeforums.org
 freemoren.com
 freemorenews.com
 freetibet.org
+.freexinwen.com
 
 friendfeed.com
 !--|http://*friendfeed.com%2Fe
@@ -659,9 +664,9 @@ robtex.com
 .rssmeme.com
 ||rssmeme.com
 !-rthk.org.hk
-rthk.org.hk/rthk/news/
 rti.org.tw
 ruten.com.tw
+.ruyiseek.com
 
 !--------------------------S--------------------------
 scribd.com
