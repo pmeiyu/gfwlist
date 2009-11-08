@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: oLLJNxLXKzyKhrzLrphrQg
+! Checksum: NjCRi8uYJN4n57RnZxrWJQ
 ! Expires: 12h
-! Last Modified:  Wed, 04 Nov 2009 23:44:22 +0800
+! Last Modified:  Sun, 08 Nov 2009 12:35:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -1330,4 +1330,6 @@ hk.geocities.com
 .exblog.jp
 etaiwannews.com
 
-
+!------Temporary, will be deleted after one month---------------------------------------
+!-----2009/11
+http://zh.wikipedia.org/wiki/Wikipedia:頁面存廢討論/記錄/2009/11/04
