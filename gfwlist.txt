@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: jOLBgCWD2J5gwWzDXXCaRA
+! Checksum: /2gZ+kGvD5U+dOJQA4QeSg
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 12:51:22 +0800
+! Last Modified:  Sun, 08 Nov 2009 15:36:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !-------------------------Num--------------------------
@@ -143,6 +143,7 @@ chinaaffairs.org
 chinacomments.org
 chinadigitaltimes.net
 |http://*chinagfw.org
+.chinainperspective.com
 ||chinainperspective.net
 ||chinaphile.com
 chinasmack.com
@@ -166,6 +167,7 @@ cmule.com
 co.cc
 |http://cochina.org
 |http://codepad.org/
+||google.coloor.net
 commandlineisking.com
 |http://www.coolloud.org.tw/
 copytaste.com
@@ -199,7 +201,9 @@ cuihua.org
 dailymotion.com
 dajiyuan.com
 |http://*.damipan.com
+.danke4china.net
 danwei.org
+daxa.cn
 packages.debian.org*zh-cn*lenny*gpass
 ||deluxetemplates.net
 http://www.destroydebtwithcashgifting.com
@@ -209,6 +213,7 @@ diigo.com
 discuss.com.hk
 |http://www.docbook.org/
 dongde.com
+||dopodomani.me
 ||doubleaf.com
 |http://www.dpp.org.tw/
 http://dropbox.com
@@ -234,6 +239,7 @@ eyny.com
 !--------------------------F--------------------------
 facebook.com
 !--facebook cdn
+favstar.fm/users
 faydao.com
 @@i.faydao.com
 @@v.faydao.com
@@ -306,6 +312,7 @@ zh.globalvoicesonline.org
 http://developer.android.com
 source.android.com
 www.benjamingolub.com
+||rss.berryreview.com
 www.bestwebproxy.net
 http://blog.chromium.org
 codereview.chromium.org
@@ -332,6 +339,7 @@ feeds.limi.net
 ||www.liteapplications.com
 feeds.loiclemeur.com
 blog.louisgray.com
+||twitter.missiu.com
 feeds.mobileread.com
 http://blog.nihilogic.dk
 blog.persistent.info
@@ -412,6 +420,7 @@ hkgolden.com
 hkjc.com
 .hkheadline.com*blog
 news.hkheadline.com*instantnews
+.hkmensa.net
 hkreporter.com
 .hotupub.com
 hrichina.org
@@ -444,6 +453,7 @@ blog.jackjia.com
 jeanyim.com
 jieshibaobao.com
 .jiruan.net
+||blog.joeyrobert.org
 ||jounin.net
 |http://jpra1113.org
 .junefourth-20.net
@@ -452,6 +462,7 @@ justsoit.com
 
 !--------------------------K--------------------------
 karayou.com
+||gae.kangye.org
 kanzhongguo.com
 |http://www.kmt.org.tw/
 |http://kunalanand.com
@@ -480,6 +491,8 @@ honeonet.spaces.live.com
 |http://*zhllg.spaces.live.com
 
 liveleak.com
+||lookingglasstheatre.org
+.lookpic.com
 
 !--------------------------M--------------------------
 homepage.mac.com
@@ -503,6 +516,7 @@ mingpaonews.com
 .mingpaotor.com
 .mingpaovan.com
 minzhuzhongguo.org
+.miroko.tw
 mirrorbooks.com
 mm36c.com
 |http://www.moztw.org
@@ -575,6 +589,7 @@ philly.com
 picturesocial.com
 .ping.fm
 .piring.com
+.pk.com
 plays.com.tw
 plurk.com
 prozz.net
@@ -802,9 +817,11 @@ websitepulse.com/help/testtools.china-test.html
 webworkerdaily.com
 .wefong.com
 weijingsheng.org
+||wenku.com
 news.wenxuecity.com
 |http://blog.wenxuecity.com
 www.wenyunchao.com
+||westca.com
 www.wet123.com
 |http://static.wetpaint.com/
 |http://www.wetpaint.com/
