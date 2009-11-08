@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: W3H/I0F5qluSL5qVw5L4dA
+! Checksum: oCChts1WOVET0lN5dQPfZw
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 18:21:28 +0800
+! Last Modified:  Sun, 08 Nov 2009 18:42:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -450,6 +450,7 @@ is.gd/1VOp7
 |http://iterasi.net
 .itweet.net
 |http://itweet.net
+yy.iyatou.com/archives/1042
 .izaobao.com
 @@|http*//www.izaobao.com
 
@@ -1365,4 +1366,5 @@ etaiwannews.com
 !-----2009/11
 !-YeMianCunFeiTaoLun/JiLu/2009/11/04
 zh.wikipedia.org*Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E8%A8%98%E9%8C%84/2009/11/04
-http://zh.wikipedia.org/wiki/Wikipedia:%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9
+!-Li Shi Shang De Jin Tian
+zh.wikipedia.org*%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9
