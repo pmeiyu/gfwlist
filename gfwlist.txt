@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: D42VyQyDrVyeWJ5MVZ+T5Q
+! Checksum: m4RA1uXZ+LDRx9SppSZtwQ
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 17:23:59 +0800
+! Last Modified:  Sun, 08 Nov 2009 17:50:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -67,6 +67,7 @@ backpackers.com.tw
 baidu.jp/
 hen.bao.li
 |http://www.barnabu.co.uk
+barnesandnoble.com/bookSearch/isbnInquiry.asp
 bbc.co.uk*chinese
 bbc.co.uk*zhongwen
 newsvote.bbc.co.uk
@@ -117,6 +118,7 @@ holz.byethost8.com
 
 !--------------------------C--------------------------
 cafepress.com
+||calebelston.com
 canyu.org
 .caodan.org
 |http://www.carnegieendowment.org
@@ -566,6 +568,7 @@ old-cat.net
 omgili.com
 omnitalk.
 ||on.cc^
+||onebigfluke.com
 opera.com/mini
 my.opera.com
 www.orchidbbs.com
@@ -712,6 +715,7 @@ squarespace.com
 www.stackfile.com/freedur
 starcraft2.com
 usinfo.state.gov
+||steveblank.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
 
@@ -1056,6 +1060,8 @@ blog.xuite.net
 ||xuming.net
 .xys.org
 xysblogs.org
+.xysforum.org
+||xysforum.org
 
 !--------------------------Y--------------------------
 hk.*yahoo.com
