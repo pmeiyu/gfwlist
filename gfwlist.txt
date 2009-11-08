@@ -1,10 +1,10 @@
 [AutoProxy 0.1.0]
-! Checksum: pfa787ag9D9qUy9SamOeWA
+! Checksum: D42VyQyDrVyeWJ5MVZ+T5Q
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 16:23:02 +0800
+! Last Modified:  Sun, 08 Nov 2009 17:23:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
-!--------------------Num & Symbol-------------------
+!--------------------Num----------------------------
 1-apple.com.tw
 |http://nsf.110mb.com
 .18p2p.com
@@ -26,8 +26,6 @@ info.51.ca
 89-64.org
 .8cyber.com
 8ok.com/
-!-- Ba Ke
-%E7%BD%A2%E8%AF%BE
 
 !--------------------------A--------------------------
 www.aboluowang.com
@@ -1111,50 +1109,52 @@ gfwProxyEnabled=yes
 !--IP of Twitter
 128.121.146.228
 
+!--Ba Ke
+|http:*%E7%BD%A2%E8%AF%BE
 !--Da Ji Yuan
-|http://*search*%E5%A4%A7%E7%BA%AA%E5%85%83
+|http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
-|http://*%E5%8A%A8%E6%80%81%E7%BD%91
+|http:*%E5%8A%A8%E6%80%81%E7%BD%91
 !--fa lun da fa
-|http://*%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
+|http:*%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
 !--Fa Lun Gong: Traditional Chinese
-|http://*%E6%B3%95%E8%BC%AA%E5%8A%9F
+|http:*%E6%B3%95%E8%BC%AA%E5%8A%9F
 !--Fa Lun Gong: Simplified Chinese
-|http://*%E6%B3%95%E8%BD%AE%E5%8A%9F
+|http:*%E6%B3%95%E8%BD%AE%E5%8A%9F
 !--Hu Hai Feng
 |http:*%E8%83%A1%E6%B5%B7%E5%B3%B0
 !--Hu Hai Qing
 |http:*%E8%83%A1%E6%B5%B7%E6%B8%85
 !--Jiang Liu Mang
-|http://*search*%E6%B1%9F%E6%B5%81%E6%B0%93
+|http:*search*%E6%B1%9F%E6%B5%81%E6%B0%93
 !--Kan Zhong Guo
-|http://*search*%E7%9C%8B%E4%B8%AD%E5%9B%BD
+|http:*search*%E7%9C%8B%E4%B8%AD%E5%9B%BD
 !--Liu Si
-|http://*search*%E5%85%AD%E5%9B%9B
+|http:*search*%E5%85%AD%E5%9B%9B
 !--Liu Xiao Bo
-|http://*%E5%88%98%E6%99%93%E6%B3%A2
+|http:*%E5%88%98%E6%99%93%E6%B3%A2
 !--Mei Guo Zhi Yin
-|http://*%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3
+|http:*%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3
 !--Min Jin Dang
-|http://*%E6%B0%91%E8%BF%9B%E5%85%9A
+|http:*%E6%B0%91%E8%BF%9B%E5%85%9A
 !--(Nong) Min Yun (Dong Hui)
-|http://*%E6%B0%91%E8%BF%90
+|http:*%E6%B0%91%E8%BF%90
 !--Qun Ti Mie Jue
-|http://*search*%E7%BE%A4%E4%BD%93%E7%81%AD%E7%BB%9D
+|http:*search*%E7%BE%A4%E4%BD%93%E7%81%AD%E7%BB%9D
 !--Wang Dan
-|http://*%E7%8E%8B%E4%B8%B9
+|http:*%E7%8E%8B%E4%B8%B9
 !--Wo De Fen Dou
 |http:*search*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Jie
-|http://*search*%E6%97%A0%E7%95%8C
+|http:*search*%E6%97%A0%E7%95%8C
 !--Xie E
-|http://*search*%E9%82%AA%E6%81%B6
+|http:*search*%E9%82%AA%E6%81%B6
 !--Zhao Zi Yang
-|http://*%E8%B5%B5%E7%B4%AB%E9%98%B3
+|http:*%E8%B5%B5%E7%B4%AB%E9%98%B3
 !--Zhong Gong
-|http://*search*%E4%B8%AD%E5%8A%9F
+|http:*search*%E4%B8%AD%E5%8A%9F
 !--Zhong Xuan Bu
-|http://*search*%E4%B8%AD%E5%AE%A3%E9%83%A8
+|http:*search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 
 !------UnSorted---------------------------------------
