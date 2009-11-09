@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: fw9QfNcVHyIBHeaJluj1WQ
+! Checksum: XrfyBjkFAOr7P9nnzF0osQ
 ! Expires: 12h
-! Last Modified:  Mon, 09 Nov 2009 16:52:04 +0800
+! Last Modified:  Sun, 08 Nov 2009 16:43:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -278,10 +278,13 @@ http://ff.im
 |http://fileden.com
 filestube.com
 fillthesquare.org
+
 !--flickr.com
 !--|http://farm1.static.flickr.com/
 !--|http://farm2.static.flickr.com/
 !--|http://farm4.static.flickr.com
+.flickr.com/photos/digitalboy100
+
 findbook.tw
 ||tradinggoddess.comyuming.flnet.org
 www.forum4hk.com
@@ -316,8 +319,6 @@ funp.com
 !--------------------------G--------------------------
 .gamebase.com.tw
 ||gamebase.com.tw
-||gamer.com.tw
-forum.gamer.com.tw
 gaopi.com
 .geekcook.org
 |http://geekcook.org
@@ -448,6 +449,7 @@ hkjc.com
 news.hkheadline.com*instantnews
 .hkmensa.net
 hkreporter.com
+img129.hotlinkimage.com
 .hotupub.com
 hrichina.org
 huitter.com
@@ -505,6 +507,7 @@ kanzhongguo.com
 laomiu.com
 ||leecheukyan.org
 libertytimes.com.tw
+||lifemotivations.com
 lifestream.fm
 ||lilzo.com
 |http://cle.linux.org.tw/
@@ -841,7 +844,7 @@ uighurbiz.net
 unblog.fr
 uncyclopedia.
 |http://unifoundry.com/
-.uniteddaily.com.my/index.php?
+||akibain.com.uniteddaily.com.my/index.php?option
 |http://www.unknownspace.org/
 |http://myshare.url.com.tw/
 |http://www.cafc.uscourts.gov/
@@ -1171,8 +1174,6 @@ gfwProxyEnabled=yes
 |http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
 |http:*%E5%8A%A8%E6%80%81%E7%BD%91
-!--(Li) Fa Hui
-|http:*search*%E6%B3%95%E4%BC%9A
 !--fa lun da fa
 |http:*%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
 !--Fa Lun Gong: Traditional Chinese
