@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: psJS9lyIo0E1MXsQmrGO3g
+! Checksum: mTC/dlv+lPlMVQgbVL+EJg
 ! Expires: 12h
-! Last Modified:  Mon, 09 Nov 2009 16:11:10 +0800
+! Last Modified:  Sun, 08 Nov 2009 16:33:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -381,9 +381,9 @@ sites.google.com
 @@|https*//www.google.com
 .ggpht.com
 !--Fan Qiang
-|http:*google.com*%E7%BF%BB%E5%A2%99
+!--|http:*google.com*%E7%BF%BB%E5%A2%99
 !--Fang Bin Xing
-|http:*.google.com*%E6%96%B9%E6%BB%A8%E5%85%B4
+!--|http:*.google.com*%E6%96%B9%E6%BB%A8%E5%85%B4
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
