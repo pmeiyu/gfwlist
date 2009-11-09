@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: mTC/dlv+lPlMVQgbVL+EJg
+! Checksum: a34xbWZNBBoIyVCaNDVy8w
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 16:33:22 +0800
+! Last Modified:  Mon, 09 Nov 2009 16:34:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -839,7 +839,7 @@ uighurbiz.net
 unblog.fr
 uncyclopedia.
 |http://unifoundry.com/
-||akibain.com.uniteddaily.com.my/index.php?option
+.uniteddaily.com.my/index.php?
 |http://www.unknownspace.org/
 |http://myshare.url.com.tw/
 |http://www.cafc.uscourts.gov/
@@ -1169,6 +1169,8 @@ gfwProxyEnabled=yes
 |http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
 |http:*%E5%8A%A8%E6%80%81%E7%BD%91
+!--(Li) Fa Hui
+|http:*search?%E6%B3%95%E4%BC%9A
 !--fa lun da fa
 |http:*%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
 !--Fa Lun Gong: Traditional Chinese
