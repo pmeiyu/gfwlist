@@ -1,12 +1,13 @@
 [AutoProxy 0.1.0]
-! Checksum: ti/3RPdXRFpAYjvV2EJiSw
+! Checksum: kp2QtO5ENnctaLgS1cLk7A
 ! Expires: 12h
-! Last Modified:  Mon, 09 Nov 2009 02:03:08 +0800
+! Last Modified:  Sun, 08 Nov 2009 16:25:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 1-apple.com.tw
 |http://nsf.110mb.com
+.141hongkong.com
 .18p2p.com
 1bang1.cn
 |http://www.1bao.org
@@ -26,10 +27,12 @@ info.51.ca
 89-64.org
 .8cyber.com
 8ok.com/
+.92hg.com
 
 !--------------------------A--------------------------
 www.aboluowang.com
 .aboutus.org
+.adult168.com
 advanscene.com
 ||aenhancers.com
 |http://www.aidsmuseum.cn/
@@ -62,6 +65,7 @@ atlaspost.com
 avno1.com
 
 !--------------------------B--------------------------
+forum.baby-kingdom.com
 backchina.com
 backpackers.com.tw
 .badongo.com
@@ -112,6 +116,7 @@ book-bot.com
 /box.net
 boxcn.net/shared/v8dku73p1h
 boxun.com
+.boyis.com
 |http://mckk.bplaced.net
 .breakingtweets.com
 |http://breakingtweets.com
@@ -127,6 +132,7 @@ caochangqing.com
 |http://www.carnegieendowment.org
 .catcatforum.com
 catholic.org.tw*catholic
+||cbs.org.tw
 .ccc.de
 |http://ccc.de/
 www.ccdtr.org
@@ -238,6 +244,7 @@ easylinuxcds.com
 ebookee.com
 edoors.com
 |http://www.edubridge.com/
+||tor.eff.org
 ||elecite.com
 eltondisney.com
 epochtimes.com
@@ -248,6 +255,7 @@ eyny.com
 !--------------------------F--------------------------
 facebook.com
 !--facebook cdn
+||failforum.net
 favstar.fm/users
 faydao.com
 @@i.faydao.com
@@ -275,6 +283,7 @@ fillthesquare.org
 !--|http://farm2.static.flickr.com/
 !--|http://farm4.static.flickr.com
 findbook.tw
+||tradinggoddess.comyuming.flnet.org
 www.forum4hk.com
 .free.fr/adsl
 kineox.free.fr
@@ -310,6 +319,7 @@ funp.com
 gaopi.com
 .geekcook.org
 |http://geekcook.org
+||www.geektang.com
 geocities.jp
 getchu.com
 .ginx.com
@@ -414,10 +424,12 @@ gospelherald.com
 gpass1.com
 |http://www.gproxy.com
 great-firewall.com
+.gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 
 !--------------------------H--------------------------
 |http://hackaday.com/
 ||haoren.com
+||happyradio.com.tw
 hbo.com/docs/*/china
 .hdzone.org
 |http://www.heartyit.com/
@@ -448,7 +460,7 @@ hulu.com
 .identi.ca
 |http://identi.ca
 .idv.tw
-|http://www.im.tv/
+||im.tv
 |http://www.inmediahk.net/
 internetfreedom.org
 is.gd/1VO1f
@@ -478,13 +490,17 @@ justsoit.com
 karayou.com
 ||gae.kangye.org
 kanzhongguo.com
+.kingstone.com.tw
 |http://www.kmt.org.tw/
 |http://kunalanand.com
+||www.kyohk.net
 |http://www.kzeng.info/
 
 !--------------------------L--------------------------
+.lalulalu.com
 |http://www.lancsky.com/
 laomiu.com
+||leecheukyan.org
 libertytimes.com.tw
 lifestream.fm
 ||lilzo.com
@@ -504,6 +520,7 @@ lipuman.com
 |http:*zengjinyan.spaces.live.com
 |http:*zhllg.spaces.live.com
 
+livejasmin.com
 liveleak.com
 ||lookingglasstheatre.org
 .lookpic.com
@@ -511,10 +528,12 @@ liveleak.com
 !--------------------------M--------------------------
 homepage.mac.com
 web.mac.com
+.macau-focus.com
 mail-archive.com
 |http://cq.mail163.to/
 www.manning.com
 markmail.org*message
+.marlito.com
 |http://www.mathtunnel.com/
 .mcy.hk
 mediafire.com
@@ -553,6 +572,7 @@ sidekick.myblog.hk
 www.ned.org
 net.ru
 netcolony.com
+new-3lunch.net
 newcenturynews.com
 .newgrounds.com
 bbs.newsgroup.la
@@ -564,6 +584,7 @@ hk*.nextmedia.com
 tw*.nextmedia.com
 ngensis.com
 no-ip.com
+.nownews.com/cybersex
 |http://www.nownews.com/box
 |http://blog.nownews.com
 forum.nownews.com
@@ -573,6 +594,7 @@ nysingtao.com
 
 !--------------------------O--------------------------
 observechina.net
+.oikos.com.tw/v4/news.php
 oizoblog.com
 old-cat.net
 omgili.com
@@ -650,6 +672,7 @@ bbs.qoos.com
 space.qoos.com
 blog.qooza.hk*dafengqixi
 |http://www.quarterlife.com
+||quke.cn
 qusi8.net
 nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
@@ -680,11 +703,14 @@ ruten.com.tw
 .ruyiseek.com
 
 !--------------------------S--------------------------
+.sanmin.com.tw
 scribd.com
 secretchina.com
 |http://blog.seesmic.com
+.sendspace.com/file
 sesawe.net
 .settv.com
+.sexinsex.net
 .shangfang.org
 |http://shangfang.org
 shapeservices.com
@@ -699,6 +725,7 @@ forum.sina.com.hk
 news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
+||cdp.sinica.edu.tw
 ||siteks.uk.to
 sitetag.us
 |http://skype.com
@@ -764,7 +791,7 @@ tumblr.com
 |http://forum.tvb.com/
 tvboxnow.com
 .gov.tw/
-twbbs.net.tw
+.twbbs.net.tw
 twbbs.org
 tweepml.org
 |http://support.tweetdeck.com
@@ -777,7 +804,9 @@ twisternow.com
 twistory.net
 .twit2d.com
 ||twit2d.com
+||twitgether.com
 twitoaster.com
+||twitonmsn.com
 twitpic.com
 .twitter.com
 |http://twitter.com
@@ -809,6 +838,7 @@ uighurbiz.net
 unblog.fr
 uncyclopedia.
 |http://unifoundry.com/
+||akibain.com.uniteddaily.com.my/index.php?option
 |http://www.unknownspace.org/
 |http://myshare.url.com.tw/
 |http://www.cafc.uscourts.gov/
@@ -819,6 +849,7 @@ ustream.tv
 !--------------------------V--------------------------
 www.vansky.com
 veoh.com
+.vft.com.tw
 .vimeo.com
 |http://www.visuwords.com/
 voanews.com
@@ -1087,6 +1118,7 @@ n.yam.com
 news.yam.com
 yilubbs.com
 forum.yorkbbs.ca
+youmaker.com
 |http://www.youpai.org/
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
@@ -1322,6 +1354,7 @@ dopdf.com
 dmtcs.org
 e71fanatics.com
 ||nesn.com
+.ruten.com.tw
 
 
 |http://dlstatusbar.proboards43.com/
