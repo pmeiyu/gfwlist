@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: a34xbWZNBBoIyVCaNDVy8w
+! Checksum: fw9QfNcVHyIBHeaJluj1WQ
 ! Expires: 12h
-! Last Modified:  Mon, 09 Nov 2009 16:34:59 +0800
+! Last Modified:  Mon, 09 Nov 2009 16:52:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -316,6 +316,8 @@ funp.com
 !--------------------------G--------------------------
 .gamebase.com.tw
 ||gamebase.com.tw
+||gamer.com.tw
+forum.gamer.com.tw
 gaopi.com
 .geekcook.org
 |http://geekcook.org
@@ -1170,7 +1172,7 @@ gfwProxyEnabled=yes
 !--dong tai wang
 |http:*%E5%8A%A8%E6%80%81%E7%BD%91
 !--(Li) Fa Hui
-|http:*search?%E6%B3%95%E4%BC%9A
+|http:*search*%E6%B3%95%E4%BC%9A
 !--fa lun da fa
 |http:*%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
 !--Fa Lun Gong: Traditional Chinese
