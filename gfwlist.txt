@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: kp2QtO5ENnctaLgS1cLk7A
+! Checksum: psJS9lyIo0E1MXsQmrGO3g
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 16:25:53 +0800
+! Last Modified:  Mon, 09 Nov 2009 16:11:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -460,7 +460,8 @@ hulu.com
 .identi.ca
 |http://identi.ca
 .idv.tw
-||im.tv
+|http://im.tv/
+|http://www.im.tv/
 |http://www.inmediahk.net/
 internetfreedom.org
 is.gd/1VO1f
@@ -672,7 +673,7 @@ bbs.qoos.com
 space.qoos.com
 blog.qooza.hk*dafengqixi
 |http://www.quarterlife.com
-||quke.cn
+|http://quke.cn
 qusi8.net
 nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
