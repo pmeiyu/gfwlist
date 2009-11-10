@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: ENfNXkSB8/WncUQfPyO1pw
+! Checksum: xRV25+qoAD6N3VaI2eY4zA
 ! Expires: 12h
-! Last Modified:  Tue, 10 Nov 2009 11:19:04 +0800
+! Last Modified:  Tue, 10 Nov 2009 11:43:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -229,7 +229,6 @@ dongde.com
 doubleaf.com
 |http://www.dpp.org.tw/
 ||droidie.com
-http://dropbox.com
 ||duckmylife.com
 duping.net
 dupola.com
@@ -345,7 +344,6 @@ codereview.chromium.org
 |http://dev.chromium.org/
 rss.cnn.com
 blog.doughellmann.com
-www.dropbox.com
 dumblittleman.com
 www.earthhour.org
 s.evernote.com
