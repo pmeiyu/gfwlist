@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: XrfyBjkFAOr7P9nnzF0osQ
+! Checksum: Z9+leJJWxjdhSr91np+VFA
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 16:43:11 +0800
+! Last Modified:  Tue, 10 Nov 2009 09:53:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -319,6 +319,8 @@ funp.com
 !--------------------------G--------------------------
 .gamebase.com.tw
 ||gamebase.com.tw
+||gamer.com.tw
+forum.gamer.com.tw
 gaopi.com
 .geekcook.org
 |http://geekcook.org
@@ -844,7 +846,7 @@ uighurbiz.net
 unblog.fr
 uncyclopedia.
 |http://unifoundry.com/
-||akibain.com.uniteddaily.com.my/index.php?option
+.uniteddaily.com.my/index.php?
 |http://www.unknownspace.org/
 |http://myshare.url.com.tw/
 |http://www.cafc.uscourts.gov/
@@ -1174,6 +1176,8 @@ gfwProxyEnabled=yes
 |http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
 |http:*%E5%8A%A8%E6%80%81%E7%BD%91
+!--(Li) Fa Hui
+|http:*search*%E6%B3%95%E4%BC%9A
 !--fa lun da fa
 |http:*%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
 !--Fa Lun Gong: Traditional Chinese
