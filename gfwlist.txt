@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: Z9+leJJWxjdhSr91np+VFA
+! Checksum: ENfNXkSB8/WncUQfPyO1pw
 ! Expires: 12h
-! Last Modified:  Tue, 10 Nov 2009 09:53:03 +0800
+! Last Modified:  Tue, 10 Nov 2009 11:19:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1040,6 +1040,8 @@ zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
 !--Yong He Gong
 zh.wikipedia.org*%E9%9B%8D%E5%92%8C%E5%AE%AB
+!--Yu Zheng Sheng
+zh.wikipedia.org*%E4%BF%9E%E6%AD%A3%E5%A3%B0
 !--Zhang Yu
 zh.wikipedia.org*%E5%BC%A0%E9%92%B0
 !--Zhang Yu - Traditional
