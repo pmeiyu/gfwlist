@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: jOtmSroN9ZN0xqA+B3Y+Vw
+! Checksum: kHsbEsagByvINcQxPZTWZA
 ! Expires: 12h
-! Last Modified:  Tue, 10 Nov 2009 12:42:20 +0800
+! Last Modified:  Tue, 10 Nov 2009 18:53:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -374,6 +374,7 @@ www.techfob.com
 |http://www.wavesandbox.com
 willhains.com
 www.writeroom.ws
+www.zimbu.org
 
 !-------------Google.other-----
 |https://calendar.google.com
