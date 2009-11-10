@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: xRV25+qoAD6N3VaI2eY4zA
+! Checksum: jOtmSroN9ZN0xqA+B3Y+Vw
 ! Expires: 12h
-! Last Modified:  Tue, 10 Nov 2009 11:43:28 +0800
+! Last Modified:  Tue, 10 Nov 2009 12:42:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -394,7 +394,7 @@ sites.google.com
 !--Qian Shi Jin Sheng
 |http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Shen Me
-|http:*.google.com*%E4%BB%80%E4%B9%88
+!--|http:*.google.com*%E4%BB%80%E4%B9%88
 !--Tian An Men
 |http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tu Po
