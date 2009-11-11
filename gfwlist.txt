@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: GFL6Nd2mCYQqCLSw7gARog
+! Checksum: XVwiZ87pEcsgx8kv86SzTA
 ! Expires: 12h
-! Last Modified:  Wed, 11 Nov 2009 13:01:31 +0800
+! Last Modified:  Sun, 08 Nov 2009 17:29:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -32,6 +32,8 @@ info.51.ca
 !--------------------------A--------------------------
 www.aboluowang.com
 .aboutus.org
+||forum.addonsmirror.net
+||wiki.addonsmirror.net
 .adult168.com
 advanscene.com
 ||aenhancers.com
@@ -49,13 +51,14 @@ anchorfree.com
 anonymizer.com
 anonymouse.org
 video.aol.ca*video-detail
-|http:*bullog4cn.appspot.com
-|http:*free4internet.appspot.com
-|http:*gfw.appspot.com
-|http:*meme2028.appspot.com
-|http:*mickeywaley.appspot.com
-|http:*proxypy.appspot.com
-|http:*twitese.appspot.com
+||bullog4cn.appspot.com
+||free4internet.appspot.com
+||gfw.appspot.com
+||meme2028.appspot.com
+||mickeywaley.appspot.com
+||roxypy.appspot.com
+||twitese.appspot.com
+||twittergadget.appspot.com
 |http://www.arizonachinese.com
 www.asiademo.org
 .atj.org.tw
@@ -193,7 +196,7 @@ cuihua.org
 !--------------------------D--------------------------
 
 !-------------Dabr-----
-||dabr.co.uk
+dabr.co.uk
 |http://*www.cao.im
 |http://*t.fineao.cn
 |http://*funp.org
@@ -226,6 +229,7 @@ discuss.com.hk
 |http://www.docbook.org/
 dongde.com
 ||dopodomani.me
+||download.hr
 doubleaf.com
 |http://www.dpp.org.tw/
 ||droidie.com
@@ -285,6 +289,7 @@ fillthesquare.org
 .flickr.com/photos/digitalboy100
 
 findbook.tw
+||flagfox.net
 ||tradinggoddess.comyuming.flnet.org
 www.forum4hk.com
 .free.fr/adsl
@@ -352,12 +357,14 @@ mclee.foolme.net
 frienddeck.com
 !--http://blog.friendfeed.com
 feeds.gawker.com
+||blog.go2web20.net
 |http://www.greasespot.net/
 blog.growlforwindows.com
 www.ibluecity.com
 blog.jsquaredjavascript.com
 tomatovpn.keithmoyer.com
 www.keithmoyer.com
+||blog.kengao.tw
 blog.kowalczyk.info
 www.kunalanand.com
 feeds.limi.net
@@ -550,6 +557,8 @@ mediafire.com
 memedia.cn
 .metacafe.com*watch
 middle-way.net
+www5.mimima.com
+www6.mimima.com
 .minghui.org
 mingpao.com
 mingpaonews.com
@@ -610,6 +619,7 @@ omgili.com
 omnitalk.
 ||on.cc^
 ||onebigfluke.com
+.oopsforum.com
 opera.com/mini
 my.opera.com
 www.orchidbbs.com
@@ -639,6 +649,7 @@ picturesocial.com
 .pk.com
 plays.com.tw
 plurk.com
+.plus28.com
 prozz.net
 ||popyard.org
 
@@ -817,6 +828,7 @@ twistory.net
 twitoaster.com
 ||twitonmsn.com
 twitpic.com
+||twitreferral.com
 .twitter.com
 |http://twitter.com
 |https://twitter.com
@@ -984,6 +996,9 @@ zh.wikipedia.org*%E5%88%98%E5%BB%B6%E4%B8%9C
 zh.wikipedia.org*%E5%88%98%E4%BA%91%E5%B1%B1
 !--Po Wang
 zh.wikipedia.org*%E7%A0%B4%E7%BD%91
+!--Ran Shao Ping (GB+UTF8)
+zh.wikipedia.org*%C8%BC%C9%D5%C6%BF
+zh.wikipedia.org*%E7%87%83%E7%83%A7%E7%93%B6
 !--Re Bi Ya
 zh.wikipedia.org*%E7%83%AD%E6%AF%94%E5%A8%85
 !--Sheng Xiong Gan Di
@@ -1083,6 +1098,7 @@ blogmaverick.com
 blog.drakengren.com
 blog.feedly.com
 blog.flickr.net
+||blog.linkedin.com
 p2theme.com
 blog.polldaddy.com
 blog.symbian.org
@@ -1130,6 +1146,7 @@ news.yam.com
 yilubbs.com
 forum.yorkbbs.ca
 youmaker.com
+.youporn.com
 |http://www.youpai.org/
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
@@ -1417,6 +1434,7 @@ hk.geocities.com
 .longhair.hk
 .exblog.jp
 etaiwannews.com
+||beginlinux.com
 
 !------Temporary
 !-----2009/11
