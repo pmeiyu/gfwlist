@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: /FH0YHDslbc6EDCDc9LtnQ
+! Checksum: GFL6Nd2mCYQqCLSw7gARog
 ! Expires: 12h
-! Last Modified:  Wed, 11 Nov 2009 12:36:42 +0800
+! Last Modified:  Wed, 11 Nov 2009 13:01:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -381,9 +381,10 @@ www.zimbu.org
 |https://calendar.google.com
 |https://docs.google.com
 |https://services.google.com
+@@|https://groups.google.com
+@@|https://www.google.com
 sites.google.com
 |https://spreadsheets.google.com
-@@|https*//www.google.com
 .ggpht.com
 !--Fan Qiang
 !--|http:*google.com*%E7%BF%BB%E5%A2%99
@@ -707,7 +708,7 @@ robtex.com
 ||rssmeme.com
 !-rthk.org.hk
 rti.org.tw
-ruten.com.tw
+||ruten.com.tw
 .ruyiseek.com
 
 !--------------------------S--------------------------
@@ -1366,7 +1367,6 @@ dopdf.com
 dmtcs.org
 e71fanatics.com
 ||nesn.com
-.ruten.com.tw
 
 
 |http://dlstatusbar.proboards43.com/
@@ -1397,7 +1397,6 @@ chinesepen.org
 blog.iphone-dev.org
 avatron.com
 .catb.org
-zh.wikipedia.org*wiki*GFW
 .islam.org.hk
 video.aol.com
 .cpj.org
