@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: XVwiZ87pEcsgx8kv86SzTA
+! Checksum: NIisSCZ/E7KM5on3vVXhFw
 ! Expires: 12h
-! Last Modified:  Sun, 08 Nov 2009 17:29:08 +0800
+! Last Modified:  Thu, 12 Nov 2009 00:09:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -84,6 +84,7 @@ bbsland.com
 www.bcc.com.tw/board
 blog.bcchinese.net
 beijingspring.com
+.beiming.net
 .berlintwitterwall.com
 bestforchina.org
 bignews.org
@@ -295,6 +296,8 @@ www.forum4hk.com
 .free.fr/adsl
 kineox.free.fr
 freeciv.org
+.freedomhouse.org
+||freedomhouse.org
 freeflowlife.net
 freeforums.org
 .freehostia.com
@@ -345,9 +348,7 @@ source.android.com
 www.benjamingolub.com
 ||rss.berryreview.com
 www.bestwebproxy.net
-http://blog.chromium.org
-codereview.chromium.org
-|http://dev.chromium.org/
+||chromium.org
 rss.cnn.com
 blog.doughellmann.com
 dumblittleman.com
@@ -436,6 +437,7 @@ gospelherald.com
 |http://www.govindicators.org
 gpass1.com
 |http://www.gproxy.com
+twitter.grader.com
 great-firewall.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 
@@ -1091,6 +1093,8 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zhou
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 
+||wiredpen.com
+
 !-------------Wordpress Blog-----
 !---Need to be edited in next version of AutoProxy
 ||blog.bittorrent.com
@@ -1102,7 +1106,9 @@ blog.flickr.net
 p2theme.com
 blog.polldaddy.com
 blog.symbian.org
+||blog.thinglabs.com
 china.blogs.time.com
+||blog.tinypic.com
 .wordpress.com
 @@http://s.stats.wordpress.com/
 @@http://s1.wordpress.com/
