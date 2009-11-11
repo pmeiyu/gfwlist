@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: kHsbEsagByvINcQxPZTWZA
+! Checksum: /FH0YHDslbc6EDCDc9LtnQ
 ! Expires: 12h
-! Last Modified:  Tue, 10 Nov 2009 18:53:53 +0800
+! Last Modified:  Wed, 11 Nov 2009 12:36:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -330,6 +330,7 @@ getchu.com
 |http://ginx.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
+||golang.org
 
 !-------------Google.ghs-----
 !--Need to be edited in next version of AutoProxy
