@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: NIisSCZ/E7KM5on3vVXhFw
+! Checksum: /RgTgw7ghQf8EmQP4SfTuQ
 ! Expires: 12h
-! Last Modified:  Thu, 12 Nov 2009 00:09:54 +0800
+! Last Modified:  Thu, 12 Nov 2009 21:07:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -354,6 +354,7 @@ blog.doughellmann.com
 dumblittleman.com
 www.earthhour.org
 s.evernote.com
+||evhead.com
 mclee.foolme.net
 frienddeck.com
 !--http://blog.friendfeed.com
