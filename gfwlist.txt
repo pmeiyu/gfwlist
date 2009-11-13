@@ -1,7 +1,7 @@
 [AutoProxy 0.1.0]
-! Checksum: /RgTgw7ghQf8EmQP4SfTuQ
+! Checksum: SoxyqIfrdVY30QyaSxxMpA
 ! Expires: 12h
-! Last Modified:  Thu, 12 Nov 2009 21:07:48 +0800
+! Last Modified:  Fri, 13 Nov 2009 11:02:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -881,6 +881,7 @@ www.voy.com
 
 !--------------------------W--------------------------
 wallornot.org
+||wangafu.net
 |http://blog.wangcongming.info
 www.wangruowang.org
 ||we.bs^
@@ -1176,6 +1177,7 @@ ytht.net
 zaobao.com.sg
 www.zaurus.org.uk
 asset*.zendesk.com
+||twitter.zendesk.com
 .zengjinyan.org
 zhengjian.org
 ||cocoa.zonble.net
