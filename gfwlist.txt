@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: V0/BMyybdfc2lba5Jdb/bg
+! Checksum: Mo2pddBCgIHXH5yJm/5k4g
 ! Expires: 12h
-! Last Modified:  Sat, 14 Nov 2009 19:57:55 +0800
+! Last Modified:  Sat, 14 Nov 2009 20:44:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -12,7 +12,7 @@
 1bang1.cn
 |http://www.1bao.org
 .2000fun.com*bbs
-.2008xianzhang.info
+2008xianzhang.info
 ||2photo.ru
 |http://3b8.cc/
 3boys2girls.com
@@ -66,7 +66,7 @@ video.aol.com
 ||roxypy.appspot.com
 ||twitese.appspot.com
 ||twittergadget.appspot.com
-/^https:\/\/(?:\w|-)+\.appspot\.com/
+/^https://(?:\w|-)+\.appspot\.com/
 ||areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
