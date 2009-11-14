@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /A1Qay3mfjKke5S5/8oSaQ
+! Checksum: wTBLs3sfXbLpqthgHztBAQ
 ! Expires: 12h
-! Last Modified:  Sat, 14 Nov 2009 18:03:19 +0800
+! Last Modified:  Sat, 14 Nov 2009 19:12:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1185,8 +1185,6 @@ gfwProxyEnabled=yes
 !--IP of Twitter
 128.121.146.228
 
-!--Ba Ke
-|http:*%E7%BD%A2%E8%AF%BE
 !--Da Ji Yuan
 |http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
