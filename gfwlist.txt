@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LuO/pI9DeEUl+YWGtV0iAw
+! Checksum: /A1Qay3mfjKke5S5/8oSaQ
 ! Expires: 12h
-! Last Modified:  Sat, 14 Nov 2009 17:46:53 +0800
+! Last Modified:  Sat, 14 Nov 2009 18:03:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -521,7 +521,7 @@ hbo.com/docs/*/china
 hellotxt.com
 |http://www.hemidemi.com/
 ||heungkongdiscuss.com
-||hi5.com
+||hi5.com/
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 myweb.hinet.net
 hk-pub.com
@@ -977,7 +977,7 @@ tweetree.com
 .twibble.de
 ||twibble.de
 ||contests.twilio.com
-||twip.me
+||twip.me/
 twisternow.com
 twistory.net
 .twit2d.com
