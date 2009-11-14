@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Ofz2CzrnDLSrQ0FLnmiA0A
+! Checksum: 8goNmJysZhWBagMtDhcSLw
 ! Expires: 12h
-! Last Modified:  Sat, 14 Nov 2009 19:19:55 +0800
+! Last Modified:  Sat, 14 Nov 2009 19:41:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -309,15 +309,17 @@ etaiwannews.com
 eyny.com
 
 !--------------------------FF--------------------------
-facebook.com
+.facebook.com
+||facebook.com
 !--facebook cdn
+||fbcdn.net
+fail.hk
 ||failblog.org
 ||failforum.net
 favstar.fm/users
 faydao.com
 @@i.faydao.com
 @@v.faydao.com
-fbcdn.net
 fangeming.com
 fanqiang.org
 @@|http://www.fanqiang.org
@@ -425,6 +427,7 @@ zh.globalvoicesonline.org
 ||s.evernote.com
 ||evhead.com
 ||mclee.foolme.net
+||freeholidaywifi.com
 ||www.frienddeck.com
 !--http://blog.friendfeed.com
 ||feeds.gawker.com
@@ -876,6 +879,7 @@ simpleproductivityblog.com
 blog.sina.com.hk
 blog.sina.com.tw
 |http://books.sina.com.tw
+||dailynews.sina.com
 forum.sina.com.hk
 |http://magazines.sina.com.tw
 ||news.sina.com^
