@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wTBLs3sfXbLpqthgHztBAQ
+! Checksum: Ofz2CzrnDLSrQ0FLnmiA0A
 ! Expires: 12h
-! Last Modified:  Sat, 14 Nov 2009 19:12:49 +0800
+! Last Modified:  Sat, 14 Nov 2009 19:19:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -19,6 +19,7 @@
 |http://www.3cc.cc/
 4shared.com
 info.51.ca
+||520.be
 5maodang.com
 6park.com
 64memo.com
@@ -51,6 +52,7 @@ amiblockedornot.com
 amnestyusa.org
 anchorfree.com
 |http://www.andylau.com
+||angel.hk
 anonymizer.com
 anonymouse.org
 video.aol.ca*video-detail
@@ -388,6 +390,7 @@ funp.com
 forum.gamer.com.tw
 gaopi.com
 gardennetworks.com
+||garretttaylor.com
 ||geekatlas.com
 .geekcook.org
 ||geekcook.org
@@ -428,6 +431,7 @@ zh.globalvoicesonline.org
 ||blog.go2web20.net
 ||www.greasespot.net
 ||blog.growlforwindows.com
+||hogbaysoftware.com
 ||blog.jsquaredjavascript.com
 ||tomatovpn.keithmoyer.com
 ||www.keithmoyer.com
@@ -550,6 +554,7 @@ hulu.com
 |http://i1.hk/
 |http://board.i-cable.com
 |http://cablenews.i-cable.com
+||iblogserv-f.net
 ||icanhascheezburger.com
 .identi.ca
 |http://identi.ca
@@ -578,6 +583,7 @@ yy.iyatou.com/archives/1042
 blog.jackjia.com
 ||jaiku.com
 ||jayparkinsonmd.com
+||jdev.tw
 jeanyim.com
 jieshibaobao.com
 .jiruan.net
@@ -595,6 +601,7 @@ karayou.com
 kanzhongguo.com
 ||log.keso.cn
 ||blog.kickstarter.com
+.kidoors.com
 .kingstone.com.tw
 |http://www.kmt.org.tw/
 ||kompozer.net
@@ -946,6 +953,7 @@ http://www.time.com/time/time100/leaders/profile/rebel.html
 .tistory.com
 tldp.org
 ||tlists.com
+tokyo-hot.com
 .topshareware.com
 ||topstyle4.com
 topsy.com
@@ -977,6 +985,7 @@ tweetree.com
 .twibble.de
 ||twibble.de
 ||contests.twilio.com
+||twindexx.com
 ||twip.me/
 twisternow.com
 twistory.net
@@ -1059,8 +1068,7 @@ webworkerdaily.com
 .wefong.com
 weijingsheng.org
 ||wenku.com
-news.wenxuecity.com
-|http://blog.wenxuecity.com
+wenxuecity.com
 www.wenyunchao.com
 ||westca.com
 www.wet123.com
@@ -1068,6 +1076,7 @@ www.wet123.com
 |http://www.wetpaint.com/
 |http://www.wetpaintinjected.com/
 |http://widget.wetpaintserv.us/
+wezhiyong.org
 .whitehats.com
 wikidot.com
 @@static.wikidot.com
@@ -1082,6 +1091,7 @@ secure.wikimedia.org
 worldjournal.com
 
 !-------------Wordpress Blog-----
+||blackberry.wordpress.org
 ||blog.bittorrent.com
 ||blogmaverick.com
 ||blog.drakengren.com
