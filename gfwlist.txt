@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6qCfvMzKLqDpmuYpSuyoog
+! Checksum: z5ilMip/EgEAPz8df7MLVw
 ! Expires: 12h
-! Last Modified:  Sun, 15 Nov 2009 15:47:04 +0800
+! Last Modified:  Sun, 15 Nov 2009 15:50:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -975,6 +975,7 @@ tsquare.tv
 tt1069.com
 |http://tttan.com/
 tube8.com
+tuidang.net
 tumblr.com
 |http://forum.tvb.com/
 tvboxnow.com
@@ -1149,6 +1150,7 @@ hk.*yahoo.com
 meme.yahoo.com
 tw.*yahoo.com
 upcoming.yahoo.com
+blog.yam.com/meson
 n.yam.com
 news.yam.com
 yilubbs.com
