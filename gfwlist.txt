@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WJKskuPaspeSHKr+nBmGJw
+! Checksum: 6qCfvMzKLqDpmuYpSuyoog
 ! Expires: 12h
-! Last Modified:  Sat, 14 Nov 2009 23:23:17 +0800
+! Last Modified:  Sun, 15 Nov 2009 15:47:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -617,6 +617,7 @@ kanzhongguo.com
 .lalulalu.com
 |http://www.lancsky.com/
 laomiu.com
+||legaltech.law.com
 ||leecheukyan.org
 libertytimes.com.tw
 ||lifemotivations.com
@@ -705,6 +706,7 @@ www.ned.org
 net.ru
 netcolony.com
 bolin.netfirms.com
+netme.cc
 new-3lunch.net
 newcenturynews.com
 .newgrounds.com
