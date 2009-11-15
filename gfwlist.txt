@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: z5ilMip/EgEAPz8df7MLVw
+! Checksum: zDx1I6S9bWhi4QlML7UoWQ
 ! Expires: 12h
-! Last Modified:  Sun, 15 Nov 2009 15:50:16 +0800
+! Last Modified:  Sun, 15 Nov 2009 16:39:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1150,6 +1150,7 @@ hk.*yahoo.com
 meme.yahoo.com
 tw.*yahoo.com
 upcoming.yahoo.com
+video.yahoo.com/watch
 blog.yam.com/meson
 n.yam.com
 news.yam.com
