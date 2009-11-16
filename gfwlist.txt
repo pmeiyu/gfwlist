@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lcEZk0FxBLJnm7kX+W/fyA
+! Checksum: 20HaVvb5X+nyzksNyNpJQQ
 ! Expires: 12h
-! Last Modified:  Sun, 15 Nov 2009 19:39:09 +0800
+! Last Modified:  Mon, 16 Nov 2009 14:56:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -453,6 +453,7 @@ zh.globalvoicesonline.org
 ||http://rss.slashdot.org
 ||socialwhois.com
 ||www.techfob.com
+||blog.thesilentnumber.me
 !--http://blog.twitter.com
 ||www.wavesandbox.com
 ||willhains.com
@@ -989,6 +990,7 @@ tweepml.org
 |http://*m.tweete.net
 .tweetmeme.com
 ||tweetmeme.com
+tweetmeme.com*story
 tweetree.com
 .twibble.de
 ||twibble.de
