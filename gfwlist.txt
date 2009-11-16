@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 20HaVvb5X+nyzksNyNpJQQ
+! Checksum: PC7I1CCiaKiY5NLhB+scKQ
 ! Expires: 12h
-! Last Modified:  Mon, 16 Nov 2009 14:56:48 +0800
+! Last Modified:  Mon, 16 Nov 2009 20:12:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -435,6 +435,7 @@ zh.globalvoicesonline.org
 ||blog.go2web20.net
 ||www.greasespot.net
 ||blog.growlforwindows.com
+||blog.helloell.com
 ||hogbaysoftware.com
 ||blog.jsquaredjavascript.com
 ||tomatovpn.keithmoyer.com
@@ -693,6 +694,7 @@ mm36c.com
 .msguancha.com
 msn.com.tw
 ||multiply.com
+muzi.com
 ||muzicana.uk.to
 sidekick.myblog.hk
 |http://www.mycould.com/
