@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fOeGQ+ybaqGQJ1IirR13iQ
+! Checksum: 4rOQwmS3o9sStpYjTSdSPQ
 ! Expires: 12h
-! Last Modified:  Wed, 18 Nov 2009 12:43:08 +0800
+! Last Modified:  Wed, 18 Nov 2009 12:44:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1001,6 +1001,7 @@ tweetree.com
 ||twibble.de
 ||contests.twilio.com
 ||twindexx.com
+twilog.org
 ||twip.me/
 twisternow.com
 twistory.net
