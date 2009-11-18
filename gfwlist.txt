@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wi3ci/wO+8/jnMoR1u/0aQ
+! Checksum: fOeGQ+ybaqGQJ1IirR13iQ
 ! Expires: 12h
-! Last Modified:  Wed, 18 Nov 2009 11:58:22 +0800
+! Last Modified:  Wed, 18 Nov 2009 12:43:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -697,7 +697,7 @@ mm36c.com
 .msguancha.com
 msn.com.tw
 ||multiply.com
-muzi.com
+||muzi.com
 ||muzicana.uk.to
 sidekick.myblog.hk
 |http://www.mycould.com/
@@ -1144,8 +1144,7 @@ xiaoma.org
 xinsheng.net
 |http://www.xinhuanet.org/
 .xmarks.com
-|http://xmarks.com
-|https://xmarks.com
+||xmarks.com
 xtube.com
 blog.xuite.net
 ||xuming.net
