@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PC7I1CCiaKiY5NLhB+scKQ
+! Checksum: wi3ci/wO+8/jnMoR1u/0aQ
 ! Expires: 12h
-! Last Modified:  Mon, 16 Nov 2009 20:12:49 +0800
+! Last Modified:  Wed, 18 Nov 2009 11:58:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -394,6 +394,7 @@ forum.gamer.com.tw
 gaopi.com
 gardennetworks.com
 ||garretttaylor.com
+||gclooney.com
 ||geekatlas.com
 .geekcook.org
 ||geekcook.org
@@ -634,6 +635,7 @@ lipuman.com
 !-------------live spaces-----
 |http:*flowerofhappiness.spaces.live.com
 |http:*honeonet.spaces.live.com
+|http:*huajiadi.spaces.live.com
 |http:*hujiachina.spaces.live.com
 |http:*portis21.spaces.live.com
 |http:*siyi123123123.spaces.live.com
@@ -689,6 +691,7 @@ mm36c.com
 |http://www.moztw.org
 !--.mp may be removed some time
 .mp/
+@@chi.mp
 ||secure.mp
 |http://www.mpinews.com/
 .msguancha.com
@@ -1003,6 +1006,7 @@ twisternow.com
 twistory.net
 .twit2d.com
 ||twit2d.com
+||twitcause.com
 ||twitgether.com
 twitoaster.com
 ||twitonmsn.com
