@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zZJilvg9nXTkqJGxQO2b9A
+! Checksum: bN8PtNNukVYqmnT6LCdrpg
 ! Expires: 12h
-! Last Modified:  Fri, 20 Nov 2009 00:03:22 +0800
+! Last Modified:  Fri, 20 Nov 2009 00:20:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1034,8 +1034,12 @@ twitthat.com
 .tycool.com
 ||tycool.com
 tynsoe.org
+
+!--Typepad
 .typepad.com
 @@www.typepad.com
+||blogs.tampabay.com
+
 ||tzangms.com
 
 !--------------------------UU--------------------------
