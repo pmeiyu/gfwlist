@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: iQVETf9BZ8QTjGrMeV9PKw
+! Checksum: zZJilvg9nXTkqJGxQO2b9A
 ! Expires: 12h
-! Last Modified:  Thu, 19 Nov 2009 20:14:43 +0800
+! Last Modified:  Fri, 20 Nov 2009 00:03:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1152,6 +1152,7 @@ xinsheng.net
 ||xmarks.com
 xtube.com
 blog.xuite.net
+||photo.xuite.net
 ||xuming.net
 .xys.org
 xysblogs.org
