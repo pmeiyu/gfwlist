@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ONadGiqqQw/sdifSuQMPJw
+! Checksum: iQVETf9BZ8QTjGrMeV9PKw
 ! Expires: 12h
-! Last Modified:  Wed, 18 Nov 2009 21:58:13 +0800
+! Last Modified:  Thu, 19 Nov 2009 20:14:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -30,6 +30,7 @@ info.51.ca
 89-64.org
 .8cyber.com
 8ok.com/
+||9.ly
 ||909090909.info
 .92hg.com
 
@@ -277,6 +278,7 @@ dongtaiwang.com
 doubleaf.com
 |http://www.dpp.org.tw/
 ||droidie.com
+||duanwz.com
 ||duckmylife.com
 duping.net
 dupola.com
@@ -975,6 +977,7 @@ topsy.com
 torproject.org
 ||tr.im/DZ0o
 ||blog.tr.im
+||trackon.org
 ||tripod.com
 @@||www.tripod.com
 .truveo.com
