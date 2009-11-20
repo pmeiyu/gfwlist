@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wXJX+NzR4oluePXmCeL20w
+! Checksum: WK/75F8ou2SYt56ADvGY1A
 ! Expires: 12h
-! Last Modified:  Fri, 20 Nov 2009 20:45:49 +0800
+! Last Modified:  Fri, 20 Nov 2009 21:02:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -25,7 +25,7 @@ info.51.ca
 6park.com
 64memo.com
 64tianwang.com
-||67.220.91.23
+67.220.91.23
 ||74.125.94.160
 |http://www.881903.com
 89-64.org
