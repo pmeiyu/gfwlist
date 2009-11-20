@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bN8PtNNukVYqmnT6LCdrpg
+! Checksum: wXJX+NzR4oluePXmCeL20w
 ! Expires: 12h
-! Last Modified:  Fri, 20 Nov 2009 00:20:46 +0800
+! Last Modified:  Fri, 20 Nov 2009 20:45:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -25,6 +25,7 @@ info.51.ca
 6park.com
 64memo.com
 64tianwang.com
+||67.220.91.23
 ||74.125.94.160
 |http://www.881903.com
 89-64.org
@@ -421,6 +422,7 @@ zh.globalvoicesonline.org
 ||www.amoiist.com/
 ||developer.android.com
 ||source.android.com
+||blog.bao3.com.cn
 ||www.benjamingolub.com
 ||rss.berryreview.com
 ||www.bestwebproxy.net
