@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WK/75F8ou2SYt56ADvGY1A
+! Checksum: PG+g1PdITzfZBhsDrZg5Nw
 ! Expires: 12h
-! Last Modified:  Fri, 20 Nov 2009 21:02:11 +0800
+! Last Modified:  Fri, 20 Nov 2009 22:53:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -76,6 +76,7 @@ www.asiademo.org
 .atj.org.tw
 atlaspost.com
 .atnext.com
+||autopattic.com
 |http://www.autoproxy.org
 ||www.avc.com
 avno1.com
@@ -116,7 +117,7 @@ bignews.org
 @@||www.blogs.com
 ||blogsmithmedia.com
 .blogsome.com
-||briian.com
+briian.com
 ||blambin.byethost16.com
 
 !-------------BlogSpot-----
