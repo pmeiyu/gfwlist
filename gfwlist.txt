@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vEigwQrjgeBAGgPOtGf7ww
+! Checksum: LSpjKcPLse7BE+RsjhwtDA
 ! Expires: 12h
-! Last Modified:  Sat, 21 Nov 2009 20:12:25 +0800
+! Last Modified:  Sat, 21 Nov 2009 20:13:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -10,7 +10,7 @@
 .141hongkong.com
 .18p2p.com
 1bang1.cn
-|http://www.1bao.org
+.1bao.org
 .2000fun.com*bbs
 2008xianzhang.info
 ||2photo.ru
