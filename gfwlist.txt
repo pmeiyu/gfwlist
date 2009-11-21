@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4SWbHwDWhls9FROSL+IS3Q
+! Checksum: X09v0SJ2S7AwPPcxo6/bhw
 ! Expires: 12h
-! Last Modified:  Sat, 21 Nov 2009 14:32:26 +0800
+! Last Modified:  Sat, 21 Nov 2009 20:10:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -25,8 +25,6 @@ info.51.ca
 6park.com
 64memo.com
 64tianwang.com
-67.220.91.23
-||74.125.94.160
 |http://www.881903.com
 89-64.org
 .8cyber.com
@@ -311,7 +309,6 @@ epochtimes.com
 etaiwannews.com
 .evanlife.org.hk
 .exblog.jp
-||blog.expofutures.com
 .extratorrent.com
 eyny.com
 
@@ -399,6 +396,8 @@ funp.com
 forum.gamer.com.tw
 gaopi.com
 gardennetworks.com
+!--IP of Garden Network
+72.52.81.22
 ||garretttaylor.com
 ||gclooney.com
 ||geekatlas.com
@@ -627,7 +626,6 @@ kanzhongguo.com
 .lalulalu.com
 |http://www.lancsky.com/
 laomiu.com
-||legaltech.law.com
 ||leecheukyan.org
 libertytimes.com.tw
 ||lifemotivations.com
@@ -637,7 +635,6 @@ lifestream.fm
 linuxconfig.org
 lipuman.com
 ||locafollow.com
-||www.loiclemeur.com
 
 !-------------live spaces-----
 |http:*flowerofhappiness.spaces.live.com
@@ -765,7 +762,6 @@ osdir.com
 
 !--------------------------PP--------------------------
 ||p2pu.org
-|http://blog.palm.com
 forum.palmislife.com
 .panoramio.com/forum
 pbs.org/wgbh/pages/frontline/gate
@@ -876,13 +872,14 @@ rti.org.tw
 .sanmin.com.tw
 scribd.com
 secretchina.com
-||blog.seesmic.com
 ||help.seesmic.com
 .sendspace.com/file
 sesawe.net
 .settv.com
 ||seul.org
 .sexinsex.net
+!--IP of SexInSex
+67.220.91.23
 .shangfang.org
 |http://shangfang.org
 shapeservices.com
@@ -1008,7 +1005,6 @@ tweetmeme.com*story
 tweetree.com
 .twibble.de
 ||twibble.de
-||contests.twilio.com
 ||twindexx.com
 twilog.org
 ||twip.me/
@@ -1023,8 +1019,9 @@ twitoaster.com
 twitpic.com
 ||twitreferral.com
 .twitter.com
-|http://twitter.com
-|https://twitter.com
+||twitter.com
+!--IP of Twitter
+128.121.146.228
 twittercounter.com
 twitterfeed.com
 .twittergadget.com
@@ -1043,7 +1040,13 @@ tynsoe.org
 !--Typepad
 .typepad.com
 @@www.typepad.com
+||blog.expofutures.com
+||legaltech.law.com
+||www.loiclemeur.com
+||blog.palm.com
+||blog.seesmic.com
 ||blogs.tampabay.com
+||contests.twilio.com
 
 ||tzangms.com
 
@@ -1223,10 +1226,6 @@ gfwProxyEnabled=yes
 
 !--fake IP for GFW domain hijacking
 4.36.66.178
-!--IP of Hua Yuan Wang
-72.52.81.22
-!--IP of Twitter
-128.121.146.228
 
 !--Da Ji Yuan
 |http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
