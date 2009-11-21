@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: X09v0SJ2S7AwPPcxo6/bhw
+! Checksum: vEigwQrjgeBAGgPOtGf7ww
 ! Expires: 12h
-! Last Modified:  Sat, 21 Nov 2009 20:10:12 +0800
+! Last Modified:  Sat, 21 Nov 2009 20:12:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -842,7 +842,6 @@ qxbbs.org
 !--------------------------RR--------------------------
 www.radioaustralia.net.au*chinese*articles*
 ranyunfei.com
-rapidlibrary.com
 .rapidshare1.com
 .rapidsharedata.com
 rcinet.ca
