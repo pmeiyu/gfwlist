@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PG+g1PdITzfZBhsDrZg5Nw
+! Checksum: 4SWbHwDWhls9FROSL+IS3Q
 ! Expires: 12h
-! Last Modified:  Fri, 20 Nov 2009 22:53:27 +0800
+! Last Modified:  Sat, 21 Nov 2009 14:32:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -279,6 +279,7 @@ dongtaiwang.com
 ||download.hr
 doubleaf.com
 |http://www.dpp.org.tw/
+||drivingitalia.net
 ||droidie.com
 ||duanwz.com
 ||duckmylife.com
@@ -949,6 +950,7 @@ takungpao.com
 .tblog.com
 tcno.net*doc*tor
 ||teamseesmic.com
+.teashark.com/download.html
 technologizer.com
 technorati.com
 ||teck.in/
