@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LSpjKcPLse7BE+RsjhwtDA
+! Checksum: ch65Fxg+g7yst9qvTOH6Jg
 ! Expires: 12h
-! Last Modified:  Sat, 21 Nov 2009 20:13:09 +0800
+! Last Modified:  Mon, 23 Nov 2009 10:17:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -340,7 +340,6 @@ http://ff.im
 |http://fftogo.com
 .fileden.com
 |http://fileden.com
-filestube.com
 fillthesquare.org
 findbook.tw
 .fireofliberty.org
