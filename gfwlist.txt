@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0vlFTkFfjfntlG1G0V8lOg
+! Checksum: TrCq1er4JRv2HXLgefekpQ
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 09:59:11 +0800
+! Last Modified:  Tue, 24 Nov 2009 11:39:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -106,6 +106,7 @@ bignews.org
 ||billywr.com
 .bit.ly
 |http://bit.ly
+||blackberry.com/Downloads
 .blip.tv
 /blip.tv
 |http://*blogger.com
@@ -116,6 +117,7 @@ bignews.org
 ||blogsmithmedia.com
 .blogsome.com
 briian.com
+buboo.tw
 ||blambin.byethost16.com
 
 !-------------BlogSpot-----
@@ -1011,6 +1013,7 @@ tweetree.com
 ||twindexx.com
 twilog.org
 ||twip.me/
+||twisell.com
 twisternow.com
 twistory.net
 .twit2d.com
