@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4ybXsOP45rYoPmuQT0gVdA
+! Checksum: 7sUS6E8G3yJRH5H3kYFJEg
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 15:25:22 +0800
+! Last Modified:  Tue, 24 Nov 2009 15:51:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -480,6 +480,7 @@ zh.globalvoicesonline.org
 @@|https://groups.google.com
 @@|https://www.google.com
 sites.google.com
+|http:*spreadsheets.google.com
 |https://spreadsheets.google.com
 .ggpht.com
 |http://www.google.com/search*q=dongtaiwang
@@ -1028,10 +1029,14 @@ twistory.net
 ||twit2d.com
 ||twitcause.com
 ||twitgether.com
+.twitiq.com
+||twitiq.com
 twitoaster.com
 ||twitonmsn.com
 twitpic.com
 ||twitreferral.com
+.twitstat.com
+||twitstat.com
 .twitter.com
 ||twitter.com
 !--IP of Twitter
