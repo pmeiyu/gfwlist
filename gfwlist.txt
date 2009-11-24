@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: u0oiUE3Bgg6DNJAmUP7ctw
+! Checksum: MqNYdkG7InPYk0dC8M58Dg
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 17:05:43 +0800
+! Last Modified:  Tue, 24 Nov 2009 17:11:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -111,6 +111,8 @@ bignews.org
 ||blackberry.com/Downloads
 .blip.tv
 /blip.tv
+.blogcatalog.com
+||blogcatalog.com
 |http://*blogger.com
 |http://bloglines.com
 |http://www.bloglines.com
@@ -267,7 +269,10 @@ http://www.destroydebtwithcashgifting.com
 de-sci.org
 democrats.org
 ||demogirl.com
+||derekgooogle.com
 ||destroytwitter.com
+.devkick.com
+||devkick.com
 diigo.com
 discuss.com.hk
 ||dit-inc.us
@@ -386,6 +391,7 @@ friendfeed.com
 
 .fring.com
 ||fring.com
+||frommel.net
 ||fscked.org
 |http://www.fsurf.com/
 .ftv.com.tw
@@ -839,6 +845,7 @@ powerapple.com
 privatepaste.com
 psiphon.ca
 |http://www.ptt.cc/
+||purepdf.com
 .python.org/download
 
 !--------------------------QQ--------------------------
