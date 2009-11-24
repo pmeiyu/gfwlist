@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7sUS6E8G3yJRH5H3kYFJEg
+! Checksum: FTsQt1WlAUnwA4p1MiheIQ
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 15:51:38 +0800
+! Last Modified:  Tue, 24 Nov 2009 16:58:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -855,6 +855,7 @@ ranyunfei.com
 .rapidshare1.com
 .rapidsharedata.com
 rcinet.ca
+.read100.com
 .realraptalk.com
 renminbao.com
 ||retweetrank.com
@@ -882,7 +883,8 @@ rti.org.tw
 .sanmin.com.tw
 scribd.com
 secretchina.com
-||help.seesmic.com
+.seesmic.com
+||seesmic.com
 .sendspace.com/file
 sesawe.net
 .settv.com
@@ -1235,6 +1237,7 @@ zhengjian.org
 ||cocoa.zonble.net
 .zuola.com
 ||zuola.com
+zyzg.us
 
 !--------------------------Other----------------------
 gfwProxyEnabled=yes
