@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FTsQt1WlAUnwA4p1MiheIQ
+! Checksum: u0oiUE3Bgg6DNJAmUP7ctw
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 16:58:59 +0800
+! Last Modified:  Tue, 24 Nov 2009 17:05:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -105,6 +105,7 @@ bestforchina.org
 bignews.org
 .bigsound.org/portnoy
 ||billywr.com
+||bind2.com
 .bit.ly
 |http://bit.ly
 ||blackberry.com/Downloads
@@ -679,6 +680,8 @@ markmail.org*message
 .marlito.com
 |http://www.mathtunnel.com/
 .mcy.hk
+.md-t.org
+||md-t.org
 mediafire.com
 ||meetup.com
 .megaupload.com/?d=4
@@ -943,6 +946,7 @@ squarespace.com
 www.stackfile.com/freedur
 starcraft2.com
 usinfo.state.gov
+.state168.com
 ||avatar.status.net
 ||dave.status.net
 ||status.status.net
@@ -957,6 +961,7 @@ blog.syx86.cn/2009/09/puff
 .tacem.org
 takungpao.com
 |http://tansioksiok.com/
+.taolun.info
 .tblog.com
 tcno.net*doc*tor
 ||teamseesmic.com
@@ -1123,6 +1128,7 @@ webworkerdaily.com
 |http://www.weekmag.info/
 .wefong.com
 weijingsheng.org
+wengewang.com
 ||wenku.com
 wenxuecity.com
 www.wenyunchao.com
