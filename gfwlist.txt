@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ch65Fxg+g7yst9qvTOH6Jg
+! Checksum: 0vlFTkFfjfntlG1G0V8lOg
 ! Expires: 12h
-! Last Modified:  Mon, 23 Nov 2009 10:17:23 +0800
+! Last Modified:  Tue, 24 Nov 2009 09:59:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -202,6 +202,8 @@ psiphon.civisec.org
 .cjb.net
 ck101.com
 cmule.com
+.cmule.info
+||cmule.info
 .cnavista.com.tw*shop*stores_app
 .cnbloggercon.org
 |http://cnbloggercon.org
@@ -476,6 +478,7 @@ zh.globalvoicesonline.org
 sites.google.com
 |https://spreadsheets.google.com
 .ggpht.com
+|http://www.google.com/search*q=dongtaiwang
 !--Fan Qiang
 !--|http:*google.com*%E7%BF%BB%E5%A2%99
 !--Fang Bin Xing
@@ -599,6 +602,7 @@ blog.jackjia.com
 jeanyim.com
 jieshibaobao.com
 .jiruan.net
+||jobacle.com
 ||blog.joeyrobert.org
 ||jounin.net
 |http://jpra1113.org
@@ -846,6 +850,7 @@ ranyunfei.com
 rcinet.ca
 .realraptalk.com
 renminbao.com
+||retweetrank.com
 revver.com
 .rfa.org
 .rfachina.com
@@ -1421,6 +1426,8 @@ zh.wikipedia.org*%E6%98%9F%E4%BA%91%E6%B3%95%E5%B8%88
 zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 !--Yan Ming Fu
 zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
+!--Yang Jia Xi Jing An
+zh.wikipedia.org*%E6%9D%A8%E4%BD%B3%E8%A2%AD%E8%AD%A6%E6%A1%88
 !--Yong He Gong
 zh.wikipedia.org*%E9%9B%8D%E5%92%8C%E5%AE%AB
 !--Yu Zheng Sheng
