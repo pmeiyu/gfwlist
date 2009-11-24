@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Vu26T3ZAaTlB8j9sOuH1Pw
+! Checksum: pLjy/gxxMfi9yVrQzvYtsw
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 12:12:34 +0800
+! Last Modified:  Tue, 24 Nov 2009 12:24:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -43,6 +43,7 @@ advanscene.com
 ||aenhancers.com
 |http://www.aidsmuseum.cn/
 |http://*blog.aiweiwei.com
+.akiba-online.com/forum/index.php
 ||alexking.org
 .alivenotdead.com
 allhabit.com
@@ -914,6 +915,7 @@ sitetag.us
 download.skype.com/SkypeSetup.exe
 m.slandr.net
 forum.slime.com.tw
+.sod.co.jp
 ||soup.io/
 .slinkset.com
 sneakme.net
@@ -1251,8 +1253,9 @@ gfwProxyEnabled=yes
 |http:*%E8%83%A1%E6%B5%B7%E5%B3%B0
 !--Hu Hai Qing
 |http:*%E8%83%A1%E6%B5%B7%E6%B8%85
-!--Jia Mi Dai Li
+!--Jia Mi Dai Li (GB/U8)
 |http:*search*%BC%D3%C3%DC%B4%FA%C0%ED
+|http:*search*%E5%8A%A0%E5%AF%86%E4%BB%A3%E7%90%86
 !--Jiang Liu Mang
 |http:*search*%E6%B1%9F%E6%B5%81%E6%B0%93
 !--Kan Zhong Guo
