@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2oeRaAUl/MjRY2+RVaBVNg
+! Checksum: PComFLKd+aigkDU9JtK/8g
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 18:57:04 +0800
+! Last Modified:  Tue, 24 Nov 2009 19:01:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -635,6 +635,7 @@ kanzhongguo.com
 .kingstone.com.tw
 |http://www.kmt.org.tw/
 ||kompozer.net
+.ktop.com.tw
 |http://kunalanand.com
 ||www.kyohk.net
 |http://www.kzeng.info/
