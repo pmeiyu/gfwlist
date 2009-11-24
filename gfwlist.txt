@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Ekr3Y5nIFw5/ObdyXOYcEw
+! Checksum: Vu26T3ZAaTlB8j9sOuH1Pw
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 12:01:00 +0800
+! Last Modified:  Tue, 24 Nov 2009 12:12:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -408,6 +408,7 @@ gardennetworks.com
 ||geekcook.org
 ||geekinheels.com
 ||www.geektang.com
+.geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
 geocities.jp
 getchu.com
@@ -967,6 +968,7 @@ thkphoto.com
 tiananmenmother.org
 .tiandixing.org
 |http://tiandixing.org
+.tianhuayuan.com
 .tianzhu.org
 .tibet.com
 |http://tibet.com
@@ -1249,6 +1251,8 @@ gfwProxyEnabled=yes
 |http:*%E8%83%A1%E6%B5%B7%E5%B3%B0
 !--Hu Hai Qing
 |http:*%E8%83%A1%E6%B5%B7%E6%B8%85
+!--Jia Mi Dai Li
+|http:*search*%BC%D3%C3%DC%B4%FA%C0%ED
 !--Jiang Liu Mang
 |http:*search*%E6%B1%9F%E6%B5%81%E6%B0%93
 !--Kan Zhong Guo
@@ -1357,6 +1361,8 @@ zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Jin Dun Gong Cheng ?
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
+!--Li Peng
+zh.wikipedia.org*%C0%EE%C5%F4
 !--Li Yuan Chao
 zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
 !--Lin Guo Xiong
@@ -1477,5 +1483,3 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 zh.wikipedia.org*Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E8%A8%98%E9%8C%84/2009/11/04
 !-Li Shi Shang De Jin Tian
 zh.wikipedia.org*%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9
-!--?
-zh.wikipedia.org*%C0%EE%C5%F4
