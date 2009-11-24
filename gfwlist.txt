@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pLjy/gxxMfi9yVrQzvYtsw
+! Checksum: 4ybXsOP45rYoPmuQT0gVdA
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 12:24:53 +0800
+! Last Modified:  Tue, 24 Nov 2009 15:25:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -557,6 +557,8 @@ hkjc.com
 .hkjp.org
 .hkmensa.net
 hkreporter.com
+.hootsuite.com
+||hootsuite.com
 img129.hotlinkimage.com
 ||hotspotshield.com
 .hotupub.com
@@ -997,6 +999,8 @@ tt1069.com
 |http://tttan.com/
 tube8.com
 tuidang.net
+.tuite.de
+||tuite.de
 tumblr.com
 |http://forum.tvb.com/
 tvboxnow.com
@@ -1036,6 +1040,8 @@ twittercounter.com
 twitterfeed.com
 .twittergadget.com
 ||twittergadget.com
+.twitterkr.com
+||twitterkr.com
 twitthat.com
 .twitturly.com
 |http://twitturly.com
