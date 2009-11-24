@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PComFLKd+aigkDU9JtK/8g
+! Checksum: Q3Mf0bEDLx2qAbCjzGYuew
 ! Expires: 12h
-! Last Modified:  Tue, 24 Nov 2009 19:01:49 +0800
+! Last Modified:  Tue, 24 Nov 2009 20:25:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1322,6 +1322,7 @@ gfwProxyEnabled=yes
 |http://en.wikipedia.org*Deep_packet_inspection
 |http://en.wikipedia.org*Freegate
 |http://en.wikipedia.org*Golden_Shield_Project
+|http://en.wikipedia.org*Huang_Qi
 |http://en.wikipedia.org*Internet_censorship
 |http://en.wikipedia.org*Tiananmen_Square_protests_of_1989
 
