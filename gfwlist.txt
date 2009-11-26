@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BXoB1ZkHYpjWsoqjRQSTig
+! Checksum: hEeCgnBH3xHazdGxfhKziA
 ! Expires: 12h
-! Last Modified:  Thu, 26 Nov 2009 22:28:26 +0800
+! Last Modified:  Fri, 27 Nov 2009 00:14:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1023,7 +1023,7 @@ tube8.com
 tuidang.net
 .tuite.de
 ||tuite.de
-tumblr.com
+||tumblr.com
 ||tv-intros.com
 |http://forum.tvb.com/
 tvboxnow.com
