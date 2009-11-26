@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xbMehjQ27fJLCBFx7kKatQ
+! Checksum: NSUcOesrVIupvfXXPAbHkQ
 ! Expires: 12h
-! Last Modified:  Thu, 26 Nov 2009 13:59:26 +0800
+! Last Modified:  Thu, 26 Nov 2009 22:10:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -72,6 +72,7 @@ video.aol.com
 |http://www.arizonachinese.com
 www.asiademo.org
 .asianews.it
+||asianwomensfilm.de
 .atj.org.tw
 atlaspost.com
 .atnext.com
@@ -399,6 +400,7 @@ friendfeed.com
 fulue.com
 funp.com
 .futurechinaforum.org
+||fzh999.net
 
 !--------------------------GG--------------------------
 .gamebase.com.tw
@@ -616,6 +618,7 @@ blog.jackjia.com
 jeanyim.com
 jieshibaobao.com
 .jiruan.net
+||jkforum.net
 ||jobacle.com
 ||blog.joeyrobert.org
 ||jounin.net
@@ -827,6 +830,7 @@ prozz.net
 ||gfw.org.ua
 ||roteiro.geedr.com
 ||blog.nicholaspatten.com
+||am.pengyulong.com
 ||post.ly/
 ||posterous.com
 ||reflectionof.me
@@ -843,6 +847,7 @@ prozz.net
 
 powerapple.com
 ||presentationzen.com
+||primedius.com
 privatepaste.com
 psiphon.ca
 |http://www.ptt.cc/
@@ -874,7 +879,7 @@ revver.com
 .rfa.org
 .rfachina.com
 |http://rfachina.com
-www.rfi.fr
+rfi.fr
 robertmao.com
 robtex.com
 .roodo.com
@@ -1018,6 +1023,7 @@ tuidang.net
 .tuite.de
 ||tuite.de
 tumblr.com
+||tv-intros.com
 |http://forum.tvb.com/
 tvboxnow.com
 ||tvunetworks.com
@@ -1170,6 +1176,7 @@ worldjournal.com
 ||blog.feedly.com
 ||blog.flickr.net
 ||blog.linkedin.com
+||menro.me
 ||p2theme.com
 ||blog.polldaddy.com
 ||blog.symbian.org
@@ -1210,6 +1217,7 @@ xysblogs.org
 ||xysforum.org
 
 !--------------------------YY--------------------------
+buy.yahoo.com.tw/gdsale
 hk.*yahoo.com
 meme.yahoo.com
 tw.*yahoo.com
