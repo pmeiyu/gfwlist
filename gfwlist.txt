@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NSUcOesrVIupvfXXPAbHkQ
+! Checksum: BXoB1ZkHYpjWsoqjRQSTig
 ! Expires: 12h
-! Last Modified:  Thu, 26 Nov 2009 22:10:36 +0800
+! Last Modified:  Thu, 26 Nov 2009 22:28:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -695,6 +695,7 @@ markmail.org*message
 mediafire.com
 ||meetup.com
 .megaupload.com/?d=4
+megavideo.com
 memedia.cn
 .metacafe.com*watch
 middle-way.net
