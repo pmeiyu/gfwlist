@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: c18QqU25PVTQ12IZIXx1JA
+! Checksum: ntZgntGr0wMgODkCAwZMvQ
 ! Expires: 12h
-! Last Modified:  Fri, 27 Nov 2009 22:59:24 +0800
+! Last Modified:  Fri, 27 Nov 2009 23:29:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -115,8 +115,8 @@ bignews.org
 .blogcatalog.com
 ||blogcatalog.com
 |http://*blogger.com
-|http://bloglines.com
-|http://www.bloglines.com
+.bloglines.com
+||bloglines.com
 ||blogs.com
 @@||www.blogs.com
 ||blogsmithmedia.com
@@ -143,7 +143,6 @@ bloomfortune.com
 bolour.com
 book-bot.com
 |http://www.books.com.tw/
-.box.net
 /box.net
 boxcn.net/shared/v8dku73p1h
 boxun.com
