@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DAVTRqtt/rHmoavzFdA8Kg
+! Checksum: c18QqU25PVTQ12IZIXx1JA
 ! Expires: 12h
-! Last Modified:  Fri, 27 Nov 2009 22:56:30 +0800
+! Last Modified:  Fri, 27 Nov 2009 22:59:24 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1229,6 +1229,7 @@ video.yahoo.com/watch
 blog.yam.com/meson
 n.yam.com
 news.yam.com
+.yi.org
 yilubbs.com
 forum.yorkbbs.ca
 youmaker.com
