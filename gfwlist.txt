@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: x9NOCBwO+0yqFI3K/uFTpQ
+! Checksum: DAVTRqtt/rHmoavzFdA8Kg
 ! Expires: 12h
-! Last Modified:  Fri, 27 Nov 2009 15:06:42 +0800
+! Last Modified:  Fri, 27 Nov 2009 22:56:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -181,6 +181,7 @@ changkun.org
 .changingway.com
 |http://changingway.com/
 ||charlescooke.me.uk
+chengmingmag.com
 chenjun.com
 ||chethstudios.net
 china-week.com
@@ -470,6 +471,7 @@ zh.globalvoicesonline.org
 ||blog.louisgray.com
 ||twitter.missiu.com
 ||feeds.mobileread.com
+||blog.naanstudio.com
 ||http://blog.nihilogic.dk
 ||blog.persistent.info
 ||http://rss.slashdot.org
@@ -751,7 +753,7 @@ newstin.com
 hk*.nextmedia.com
 tw*.nextmedia.com
 ngensis.com
-||ning.com
+!--||ning.com
 @@||www.ning.com
 no-ip.com
 .nownews.com/cybersex
