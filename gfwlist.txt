@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ntZgntGr0wMgODkCAwZMvQ
+! Checksum: OLK/0i3d6itcGrBPmT9/iQ
 ! Expires: 12h
-! Last Modified:  Fri, 27 Nov 2009 23:29:48 +0800
+! Last Modified:  Fri, 27 Nov 2009 23:39:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -143,7 +143,6 @@ bloomfortune.com
 bolour.com
 book-bot.com
 |http://www.books.com.tw/
-/box.net
 boxcn.net/shared/v8dku73p1h
 boxun.com
 .boyis.com
