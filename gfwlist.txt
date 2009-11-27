@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EaI2CZhBlFpqjKd3KcyD0g
+! Checksum: x9NOCBwO+0yqFI3K/uFTpQ
 ! Expires: 12h
-! Last Modified:  Fri, 27 Nov 2009 15:02:50 +0800
+! Last Modified:  Fri, 27 Nov 2009 15:06:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -879,7 +879,8 @@ revver.com
 .rfa.org
 .rfachina.com
 |http://rfachina.com
-rfi.fr
+.rfi.fr
+||rfi.fr
 robertmao.com
 robtex.com
 .roodo.com
