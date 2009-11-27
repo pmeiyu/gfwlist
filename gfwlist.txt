@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hEeCgnBH3xHazdGxfhKziA
+! Checksum: EaI2CZhBlFpqjKd3KcyD0g
 ! Expires: 12h
-! Last Modified:  Fri, 27 Nov 2009 00:14:08 +0800
+! Last Modified:  Fri, 27 Nov 2009 15:02:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -731,7 +731,6 @@ sidekick.myblog.hk
 |http://www.mycould.com/
 .mysinablog.com
 |http://mysinablog.com
-||mysql.com
 
 !--------------------------NN--------------------------
 ||naitik.net
