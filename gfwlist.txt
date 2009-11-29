@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fX/rG0JG/izOVFZmx7PY9Q
+! Checksum: qHZnQVHDvWssU21nx7nPoQ
 ! Expires: 12h
-! Last Modified:  Sun, 29 Nov 2009 22:03:59 +0800
+! Last Modified:  Mon, 30 Nov 2009 00:18:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -216,6 +216,7 @@ cmule.com
 .cnd.org
 |http://cnd.org
 co.cc
+||coat.co.jp
 |http://cochina.org
 ||codecguide.com
 |http://codepad.org/
