@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OLK/0i3d6itcGrBPmT9/iQ
+! Checksum: fX/rG0JG/izOVFZmx7PY9Q
 ! Expires: 12h
-! Last Modified:  Fri, 27 Nov 2009 23:39:31 +0800
+! Last Modified:  Sun, 29 Nov 2009 22:03:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -255,7 +255,8 @@ cuihua.org
 |http://*t.waiwaier.com
 |http://*s.zuo.la
 
-dailymotion.com
+.dailymotion.com
+||dailymotion.com
 dajiyuan.com
 |http://*.damipan.com
 .danke4china.net
@@ -433,7 +434,8 @@ zh.globalvoicesonline.org
 ||greatfirewallofchina.net
 
 !-------------Google.ghs-----
-||www.amoiist.com/
+.amoiist.com
+||amoiist.com
 ||developer.android.com
 ||source.android.com
 ||blog.bao3.com.cn
@@ -442,6 +444,7 @@ zh.globalvoicesonline.org
 ||www.bestwebproxy.net
 ||chromium.org
 ||rss.cnn.com
+||feeds.digg.com
 ||blog.doughellmann.com
 ||dumblittleman.com
 ||www.earthhour.org
@@ -1149,6 +1152,7 @@ wengewang.com
 wenxuecity.com
 www.wenyunchao.com
 ||westca.com
+hkg.westkit.net
 www.wet123.com
 |http://static.wetpaint.com/
 |http://www.wetpaint.com/
@@ -1254,8 +1258,6 @@ ytht.net
 .zaobao.com*special*china*cnpol*pages2*cnpol090729
 zaobao.com.sg
 www.zaurus.org.uk
-asset*.zendesk.com
-||twitter.zendesk.com
 .zengjinyan.org
 zhengjian.org
 ||zhongmeng.org
