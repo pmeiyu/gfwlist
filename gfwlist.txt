@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qHZnQVHDvWssU21nx7nPoQ
+! Checksum: 6N+FGqiS/857tWc9tViQFg
 ! Expires: 12h
-! Last Modified:  Mon, 30 Nov 2009 00:18:07 +0800
+! Last Modified:  Mon, 30 Nov 2009 17:50:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -856,7 +856,7 @@ privatepaste.com
 psiphon.ca
 |http://www.ptt.cc/
 ||purepdf.com
-.python.org/download
+.python.org*download
 
 !--------------------------QQ--------------------------
 qixianglu.cn
