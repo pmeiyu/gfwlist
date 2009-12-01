@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kETnTOwmOMjSNs5bKHIKqA
+! Checksum: 7aa82RvDi1ZCIwdyO1e/Rw
 ! Expires: 12h
-! Last Modified:  Tue, 01 Dec 2009 22:16:36 +0800
+! Last Modified:  Wed, 02 Dec 2009 00:06:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -279,6 +279,7 @@ democrats.org
 ||destroytwitter.com
 .devkick.com
 ||devkick.com
+||didyouknow.org
 diigo.com
 discuss.com.hk
 ||dit-inc.us
@@ -459,6 +460,7 @@ zh.globalvoicesonline.org
 ||freeholidaywifi.com
 ||www.frienddeck.com
 !--http://blog.friendfeed.com
+||blog.gatein.or
 ||feeds.gawker.com
 ||blog.go2web20.net
 ||www.greasespot.net
@@ -480,6 +482,7 @@ zh.globalvoicesonline.org
 ||blog.naanstudio.com
 ||http://blog.nihilogic.dk
 ||blog.persistent.info
+||blog.seeminglee.com
 ||http://rss.slashdot.org
 ||socialwhois.com
 ||www.techfob.com
@@ -652,6 +655,8 @@ kanzhongguo.com
 |http://www.kzeng.info/
 
 !--------------------------LL--------------------------
+.la-forum.org
+||la-forum.org
 .lalulalu.com
 |http://www.lancsky.com/
 laomiu.com
@@ -707,7 +712,8 @@ mediafire.com
 .megaupload.com/?d=4
 megavideo.com
 memedia.cn
-.metacafe.com*watch
+.metacafe.com/watch
+||metacafe.com/watch
 middle-way.net
 www5.mimima.com
 www6.mimima.com
@@ -739,6 +745,7 @@ msn.com.tw
 ||muzicana.uk.to
 sidekick.myblog.hk
 |http://www.mycould.com/
+||myeclipseide.com
 .mysinablog.com
 |http://mysinablog.com
 
@@ -928,6 +935,8 @@ shaunthesheep.com
 shenshou.org
 ||shixiao.org
 ||shizhao.org
+.shooshtime.com
+||shooshtime.com
 |http://ch.shvoong.com/
 simpleproductivityblog.com
 blog.sina.com.hk
@@ -1017,6 +1026,8 @@ http://www.time.com/time/time100/leaders/profile/rebel.html
 .tistory.com
 tldp.org
 ||tlists.com
+.tnaflix.com
+||tnaflix.com
 tokyo-hot.com
 ||blog.topify.com
 .topshareware.com
@@ -1109,6 +1120,7 @@ tynsoe.org
 ||tzangms.com
 
 !--------------------------UU--------------------------
+||ubertwitter.com
 album.udn.com
 blog.udn.com
 bookmark.udn.com
@@ -1136,6 +1148,8 @@ www.vansky.com
 veoh.com
 ||verybs.com
 .vft.com.tw
+.videosz.com
+||videosz.com
 .vimeo.com
 ||vimeo.com
 |http://www.visuwords.com/
