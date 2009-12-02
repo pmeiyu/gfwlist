@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: teE6UL2TZz/7r4DV7lyc8w
+! Checksum: dPLBJMtaFHyeNu5DuFkj+w
 ! Expires: 12h
-! Last Modified:  Wed, 02 Dec 2009 15:05:09 +0800
+! Last Modified:  Wed, 02 Dec 2009 22:09:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -125,6 +125,7 @@ bignews.org
 @@||www.blogs.com
 ||blogsmithmedia.com
 .blogsome.com
+||books.com.tw
 briian.com
 buboo.tw
 ||blambin.byethost16.com
@@ -413,6 +414,8 @@ funp.com
 ||gamebase.com.tw
 ||gamer.com.tw
 forum.gamer.com.tw
+.gamez.com.tw
+||gamez.com.tw
 gaopi.com
 gardennetworks.com
 !--IP of Garden Network
@@ -644,6 +647,8 @@ justsoit.com
 karayou.com
 ||gae.kangye.org
 kanzhongguo.com
+.keezmovies.com
+||keezmovies.com
 ||log.keso.cn
 ||blog.kickstarter.com
 .kidoors.com
@@ -752,6 +757,8 @@ sidekick.myblog.hk
 
 !--------------------------NN--------------------------
 ||naitik.net
+.nakido.com
+||nakido.com
 www.ned.org
 ||nesn.com
 net.ru
@@ -833,6 +840,8 @@ plurk.com
 ||abc.pp.ru
 |http://dlstatusbar.proboards43.com/
 prozz.net
+.pokerstars.com
+||pokerstars.com
 .pornbase.com
 ||pornbase.com
 ||popyard.org
@@ -929,10 +938,13 @@ sesawe.net
 .sexinsex.net
 !--IP of SexInSex
 67.220.91.23
+.sexyandshocking.com
+||sexyandshocking.com
 .shangfang.org
 |http://shangfang.org
 shapeservices.com
-shaunthesheep.com
+.shaunthesheep.com
+||shaunthesheep.com
 shenshou.org
 ||shixiao.org
 ||shizhao.org
@@ -996,6 +1008,8 @@ blog.syx86.cn/2009/09/puff
 
 !--------------------------TT--------------------------
 .tacem.org
+.taiwandaily.net
+||taiwandaily.net
 takungpao.com
 |http://tansioksiok.com/
 .taolun.info
@@ -1260,6 +1274,8 @@ news.yam.com
 .yi.org
 yilubbs.com
 forum.yorkbbs.ca
+.youjizz.com
+||youjizz.com
 youmaker.com
 .youporn.com
 |http://www.youpai.org/
