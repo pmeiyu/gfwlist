@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dPLBJMtaFHyeNu5DuFkj+w
+! Checksum: ZxOoY8B1y5YX6CeRAh+ipg
 ! Expires: 12h
-! Last Modified:  Wed, 02 Dec 2009 22:09:16 +0800
+! Last Modified:  Wed, 02 Dec 2009 22:11:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -328,7 +328,8 @@ epochtimes.com
 etaiwannews.com
 .evanlife.org.hk
 .exblog.jp
-.extratorrent.com
+.extratorrents.com
+||extratorrents.com
 eyny.com
 
 !--------------------------FF--------------------------
