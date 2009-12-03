@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZxOoY8B1y5YX6CeRAh+ipg
+! Checksum: Bf4qv4emK1B+KqspIYeXoQ
 ! Expires: 12h
-! Last Modified:  Wed, 02 Dec 2009 22:11:01 +0800
+! Last Modified:  Thu, 03 Dec 2009 21:44:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -454,6 +454,7 @@ zh.globalvoicesonline.org
 ||www.bestwebproxy.net
 ||www.caijing.com
 ||chromium.org
+@@||build.chromium.org
 ||rss.cnn.com
 ||feeds.digg.com
 ||blog.doughellmann.com
