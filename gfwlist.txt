@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Bf4qv4emK1B+KqspIYeXoQ
+! Checksum: C0hhy+2OuIxIhqS3YRHwTA
 ! Expires: 12h
-! Last Modified:  Thu, 03 Dec 2009 21:44:59 +0800
+! Last Modified:  Fri, 04 Dec 2009 23:26:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -50,6 +50,7 @@ advanscene.com
 .alivenotdead.com
 allhabit.com
 alliance.org.hk
+||alonweb.com
 !--|http://*www.amazon.com
 @@https://s3.amazonaws.com
 amiblockedornot.com
@@ -101,6 +102,8 @@ newsforums.bbc.co.uk
 bbsland.com
 www.bcc.com.tw/board
 blog.bcchinese.net
+.bebo.com
+||bebo.com
 ||beginlinux.com
 beijingspring.com
 .beiming.net
@@ -196,7 +199,6 @@ chinadigitaltimes.net
 .chinainperspective.com
 ||chinainperspective.net
 ||chinaphile.com
-chinasmack.com
 blog.chinatimes.com
 gb.chinatimes.com/gate/gb/*2007Cti-News
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
@@ -356,8 +358,7 @@ feedbooks.mobi
 feer.com
 http://ff.im
 @@|https://ff.im
-.fftogo.com
-|http://fftogo.com
+||fftogo.com
 .fileden.com
 |http://fileden.com
 fillthesquare.org
@@ -453,7 +454,7 @@ zh.globalvoicesonline.org
 ||rss.berryreview.com
 ||www.bestwebproxy.net
 ||www.caijing.com
-||chromium.org
+||blog.chromium.org
 @@||build.chromium.org
 ||rss.cnn.com
 ||feeds.digg.com
@@ -487,13 +488,13 @@ zh.globalvoicesonline.org
 ||feeds.mobileread.com
 ||blog.naanstudio.com
 ||http://blog.nihilogic.dk
+||picky.olivida.com
 ||blog.persistent.info
 ||blog.seeminglee.com
 ||http://rss.slashdot.org
 ||socialwhois.com
 ||www.techfob.com
 ||blog.thesilentnumber.me
-!--http://blog.twitter.com
 ||www.wavesandbox.com
 ||willhains.com
 ||www.writeroom.ws
@@ -619,6 +620,8 @@ is.gd/1VO1f
 is.gd/1VOp7
 ||ishawn.net
 .islam.org.hk
+.isaacmao.com
+||isaacmao.com
 .iterasi.net
 |http://iterasi.net
 .itweet.net
@@ -761,6 +764,7 @@ sidekick.myblog.hk
 ||naitik.net
 .nakido.com
 ||nakido.com
+cyberghost.natado.com
 www.ned.org
 ||nesn.com
 net.ru
@@ -898,6 +902,8 @@ qxbbs.org
 
 !--------------------------RR--------------------------
 www.radioaustralia.net.au*chinese*articles*
+.randyblue.com
+||randyblue.com
 ranyunfei.com
 .rapidshare1.com
 .rapidsharedata.com
@@ -925,6 +931,7 @@ rti.org.tw
 .ruyiseek.com
 
 !--------------------------SS--------------------------
+||s-a.cc
 .salvation.org.hk
 ||salvation.org.hk
 ||sandradodd.com
@@ -1079,6 +1086,7 @@ tweepml.org
 .tweetmeme.com
 ||tweetmeme.com
 tweetmeme.com*story
+||tweetrans.com
 tweetree.com
 .twibble.de
 ||twibble.de
