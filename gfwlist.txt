@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: C0hhy+2OuIxIhqS3YRHwTA
+! Checksum: EqIr6eXv7WE6uCbZGBqFUA
 ! Expires: 12h
-! Last Modified:  Fri, 04 Dec 2009 23:26:46 +0800
+! Last Modified:  Sat, 05 Dec 2009 12:16:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -437,6 +437,7 @@ getchu.com
 ||gigaom.com
 .ginx.com
 |http://ginx.com
+||glacierparkmagazine.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 ||golang.org
