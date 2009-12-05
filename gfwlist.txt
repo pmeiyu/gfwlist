@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SfdluP61hEnn0kpH54/uvw
+! Checksum: lVVUT7YFFksCTpA+jOLlYw
 ! Expires: 12h
-! Last Modified:  Sat, 05 Dec 2009 12:27:46 +0800
+! Last Modified:  Sat, 05 Dec 2009 12:34:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -808,7 +808,8 @@ omnitalk.
 ||onebigfluke.com
 .oopsforum.com
 opera.com/mini
-my.opera.com
+||mini.opera.com
+||my.opera.com
 www.orchidbbs.com
 .orzistic.org
 ||orzistic.org
