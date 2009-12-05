@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EqIr6eXv7WE6uCbZGBqFUA
+! Checksum: SfdluP61hEnn0kpH54/uvw
 ! Expires: 12h
-! Last Modified:  Sat, 05 Dec 2009 12:16:25 +0800
+! Last Modified:  Sat, 05 Dec 2009 12:27:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -114,6 +114,7 @@ bignews.org
 .bigsound.org/portnoy
 ||billywr.com
 ||bind2.com
+||bing.com/twitter
 .bit.ly
 |http://bit.ly
 ||blackberry.com/Downloads
@@ -852,6 +853,7 @@ prozz.net
 .pornbase.com
 ||pornbase.com
 ||popyard.org
+.posterous.org
 
 !-------------Posterous-----
 ||holykaw.alltop.com
@@ -984,6 +986,7 @@ forum.slime.com.tw
 ||snsanalystics.com
 .sod.co.jp
 ||soup.io/
+@@||static.soup.io
 .slinkset.com
 sneakme.net
 .sobees.com
@@ -1035,6 +1038,7 @@ telecomspace.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
+||thesponty.com
 thkphoto.com
 ||throughnightsfire.com
 .thumbzilla.com
@@ -1074,6 +1078,9 @@ tuidang.net
 .tuite.de
 ||tuite.de
 ||tumblr.com
+@@||media.tumblr.com
+@@||assets.tumblr.com
+@@||static.tumblr.com
 ||tv-intros.com
 |http://forum.tvb.com/
 tvboxnow.com
