@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pYX6X9mRaVWwzWk/m+4QDQ
+! Checksum: t++VpWniivVxDnl8k1Purw
 ! Expires: 12h
-! Last Modified:  Sat, 05 Dec 2009 21:01:32 +0800
+! Last Modified:  Sun, 06 Dec 2009 23:53:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -854,7 +854,7 @@ prozz.net
 .pornbase.com
 ||pornbase.com
 ||popyard.org
-.posterous.org
+||posterous.org
 
 !-------------Posterous-----
 ||holykaw.alltop.com
