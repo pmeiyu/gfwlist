@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: t++VpWniivVxDnl8k1Purw
+! Checksum: BxeaqahlqLm5bsyrbGHGDQ
 ! Expires: 12h
-! Last Modified:  Sun, 06 Dec 2009 23:53:31 +0800
+! Last Modified:  Tue, 08 Dec 2009 00:00:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -354,6 +354,7 @@ fanqiang.org
 web.fc2.com
 forum*.fdzone.org
 feedbooks.mobi
+feeds2.feedburner.com/chinagfwblog
 ||feedego.com
 ||feedzshare.com
 feer.com
@@ -413,6 +414,7 @@ funp.com
 ||fzh999.net
 
 !--------------------------GG--------------------------
+||gabocorp.com
 .gamebase.com.tw
 ||gamebase.com.tw
 ||gamer.com.tw
@@ -660,6 +662,7 @@ kanzhongguo.com
 ||blog.kickstarter.com
 .kidoors.com
 .kingstone.com.tw
+||blog.kl.am
 |http://www.kmt.org.tw/
 ||kompozer.net
 .ktop.com.tw
@@ -809,7 +812,7 @@ omnitalk.
 .oopsforum.com
 opera.com/mini
 ||mini.opera.com
-||my.opera.com
+my.opera.com
 www.orchidbbs.com
 .orzistic.org
 ||orzistic.org
@@ -888,6 +891,7 @@ powerapple.com
 ||presentationzen.com
 ||primedius.com
 privatepaste.com
+||proxomitron.info
 psiphon.ca
 |http://www.ptt.cc/
 ||purepdf.com
@@ -946,6 +950,7 @@ secretchina.com
 ||seesmic.com
 .sendspace.com/file
 sesawe.net
+.sesawe.org
 .settv.com
 ||seul.org
 .sexinsex.net
@@ -1168,6 +1173,7 @@ uighurbiz.net
 ||ultrawebsitehosting.com
 unblog.fr
 uncyclopedia.
+.uni.cc
 |http://unifoundry.com/
 .uniteddaily.com.my/index.php?
 |http://www.unknownspace.org/
