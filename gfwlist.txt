@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BxeaqahlqLm5bsyrbGHGDQ
+! Checksum: 3hc5cV017sjvVuXbO/Ijig
 ! Expires: 12h
-! Last Modified:  Tue, 08 Dec 2009 00:00:18 +0800
+! Last Modified:  Tue, 08 Dec 2009 00:06:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -935,6 +935,7 @@ robtex.com
 ||rssmeme.com
 !-rthk.org.hk
 rti.org.tw
+.ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ruten.com.tw
 .ruyiseek.com
 
