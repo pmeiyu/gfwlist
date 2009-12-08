@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3hc5cV017sjvVuXbO/Ijig
+! Checksum: 8cUmJRo914HOtBfoPMhT5A
 ! Expires: 12h
-! Last Modified:  Tue, 08 Dec 2009 00:06:31 +0800
+! Last Modified:  Wed, 09 Dec 2009 00:10:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1318,7 +1318,7 @@ youtube.com
 !--tw.youtube.com
 !--@@youtube.com/get_video
 !-Youtube CDN
-.ytimg.com
+||ytimg.com
 ytht.net
 |http://www.yzzk.com/
 
