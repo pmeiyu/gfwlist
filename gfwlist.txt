@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tH/XHMm/IQkVb6CoROq88A
+! Checksum: hDIRzzaGBPqqHleijNAhlg
 ! Expires: 12h
-! Last Modified:  Thu, 10 Dec 2009 22:50:02 +0800
+! Last Modified:  Thu, 10 Dec 2009 22:51:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -825,6 +825,7 @@ osdir.com
 !--------------------------PP--------------------------
 ||p2pu.org
 .panluan.net
+||panluan.net
 forum.palmislife.com
 .panoramio.com/forum
 pbs.org/wgbh/pages/frontline/gate
