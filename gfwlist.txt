@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8cUmJRo914HOtBfoPMhT5A
+! Checksum: jvKTEsyWtYVBpnO2lct72w
 ! Expires: 12h
-! Last Modified:  Wed, 09 Dec 2009 00:10:34 +0800
+! Last Modified:  Thu, 10 Dec 2009 21:47:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1237,29 +1237,29 @@ wikidot.com
 secure.wikimedia.org
 ||wiredpen.com
 ||woeser.com
-||iphone.wordpress.org
 worldjournal.com
 
 !-------------Wordpress Blog-----
-||blackberry.wordpress.org
-||blog.bittorrent.com
-||blogmaverick.com
-||blog.drakengren.com
-||blog.feedly.com
-||blog.flickr.net
-||blog.linkedin.com
-||menro.me
-||p2theme.com
-||blog.polldaddy.com
-||blog.symbian.org
-||blog.thinglabs.com
-||china.blogs.time.com
-||blog.tinypic.com
-.wordpress.com
-@@http://s.stats.wordpress.com/
-@@http://s1.wordpress.com/
-@@http://s2.wordpress.com/
-@@http://www.wordpress.com
+!||blackberry.wordpress.org
+!||iphone.wordpress.org
+!||blog.bittorrent.com
+!||blogmaverick.com
+!||blog.drakengren.com
+!||blog.feedly.com
+!||blog.flickr.net
+!||blog.linkedin.com
+!||menro.me
+!||p2theme.com
+!||blog.polldaddy.com
+!||blog.symbian.org
+!||blog.thinglabs.com
+!||china.blogs.time.com
+!||blog.tinypic.com
+!.wordpress.com
+!@@http://s.stats.wordpress.com/
+!@@http://s1.wordpress.com/
+!@@http://s2.wordpress.com/
+!@@http://www.wordpress.com
 
 ||wormsculptor.com
 wowwiki.com
