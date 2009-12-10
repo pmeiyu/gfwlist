@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jvKTEsyWtYVBpnO2lct72w
+! Checksum: f0o6TsgedRkZyQOelVXZaQ
 ! Expires: 12h
-! Last Modified:  Thu, 10 Dec 2009 21:47:32 +0800
+! Last Modified:  Thu, 10 Dec 2009 22:16:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -358,6 +358,8 @@ feeds2.feedburner.com/chinagfwblog
 ||feedego.com
 ||feedzshare.com
 feer.com
+.fengzhenghu.com
+||fengzhenghu.com
 http://ff.im
 @@|https://ff.im
 ||fftogo.com
@@ -928,6 +930,7 @@ revver.com
 ||rfi.fr
 robertmao.com
 robtex.com
+||ronjoneswriter.com
 .roodo.com
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
@@ -1137,6 +1140,7 @@ twitterfeed.com
 .twitterkr.com
 ||twitterkr.com
 twitthat.com
+||twitthis.com
 .twitturly.com
 |http://twitturly.com
 .twitvid.com
@@ -1236,6 +1240,7 @@ wikidot.com
 */88.80.13.160/*
 secure.wikimedia.org
 ||wiredpen.com
+.wo.tc
 ||woeser.com
 worldjournal.com
 
