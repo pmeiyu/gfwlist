@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Xa1jRErg79Oj2kY4047CFw
+! Checksum: bmnUIoXbcdgfzK3MKp8VKQ
 ! Expires: 12h
-! Last Modified:  Fri, 11 Dec 2009 16:09:46 +0800
+! Last Modified:  Fri, 11 Dec 2009 16:28:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -217,6 +217,7 @@ psiphon.civisec.org
 |http://www.civisec.org
 .cjb.net
 ck101.com
+||clip2net.com
 cmule.com
 .cmule.info
 ||cmule.info
@@ -386,6 +387,7 @@ www.forum4hk.com
 .free.fr/adsl
 kineox.free.fr
 ||firestorage.jp
+||puttycm.free.fr
 ||free-culture.cc
 freeciv.org
 .freedomhouse.org
