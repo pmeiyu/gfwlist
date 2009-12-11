@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RCd1VhE+spfGmGseZsUyeA
+! Checksum: Xa1jRErg79Oj2kY4047CFw
 ! Expires: 12h
-! Last Modified:  Fri, 11 Dec 2009 15:58:20 +0800
+! Last Modified:  Fri, 11 Dec 2009 16:09:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -129,6 +129,7 @@ bignews.org
 @@||www.blogs.com
 ||blogsmithmedia.com
 .blogsome.com
+boltbrowser.com*download
 ||books.com.tw
 briian.com
 .btmon.com
