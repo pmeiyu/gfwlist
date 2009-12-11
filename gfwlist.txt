@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bmnUIoXbcdgfzK3MKp8VKQ
+! Checksum: MFYcmWsrlOyQlqyDufGxyA
 ! Expires: 12h
-! Last Modified:  Fri, 11 Dec 2009 16:28:52 +0800
+! Last Modified:  Fri, 11 Dec 2009 16:34:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -649,7 +649,7 @@ yy.iyatou.com/archives/1042
 blog.jackjia.com
 ||jaiku.com
 ||jayparkinsonmd.com
-||jdev.tw
+||jdev.tw/
 jeanyim.com
 jieshibaobao.com
 .jiruan.net
