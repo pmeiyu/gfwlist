@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jFK1TYIik67KQ/hku/PW1Q
+! Checksum: RCd1VhE+spfGmGseZsUyeA
 ! Expires: 12h
-! Last Modified:  Fri, 11 Dec 2009 15:53:58 +0800
+! Last Modified:  Fri, 11 Dec 2009 15:58:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -597,6 +597,7 @@ hkjc.com
 hkreporter.com
 .hootsuite.com
 ||hootsuite.com
+||hopto.org
 img129.hotlinkimage.com
 ||hotspotshield.com
 .hotupub.com
@@ -1317,6 +1318,8 @@ n.yam.com
 news.yam.com
 .yi.org
 yilubbs.com
+.yogichen.org
+||yogichen.org
 forum.yorkbbs.ca
 .youjizz.com
 ||youjizz.com
