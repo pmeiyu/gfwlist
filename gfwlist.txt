@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XULl0vvNipR+JKemfKkqJg
+! Checksum: CUlyiivW8I3xMlRU5nMWIg
 ! Expires: 12h
-! Last Modified:  Fri, 11 Dec 2009 15:09:57 +0800
+! Last Modified:  Fri, 11 Dec 2009 15:18:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -241,6 +241,7 @@ crackle.com
 crd-net.org
 creaders.net
 crocodyl.org
+||csuchen.de
 .cuhkacs.org*~benng
 cuihua.org
 
@@ -619,6 +620,7 @@ hulu.com
 |http://im.tv/
 |http://www.im.tv/
 ||imageshack.us
+.imlive.com
 |http://www.inmediahk.net/
 internetfreedom.org
 ||internetpopculture.com
@@ -1187,6 +1189,7 @@ uncyclopedia.
 |http://unifoundry.com/
 .uniteddaily.com.my/index.php?
 |http://www.unknownspace.org/
+||uocn.org
 |http://myshare.url.com.tw/
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
@@ -1341,6 +1344,7 @@ www.zaurus.org.uk
 zhengjian.org
 ||zhongmeng.org
 ||cocoa.zonble.net
+.zoozle.net
 .zuola.com
 ||zuola.com
 zyzg.us
