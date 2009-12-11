@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CUlyiivW8I3xMlRU5nMWIg
+! Checksum: jFK1TYIik67KQ/hku/PW1Q
 ! Expires: 12h
-! Last Modified:  Fri, 11 Dec 2009 15:18:15 +0800
+! Last Modified:  Fri, 11 Dec 2009 15:53:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -131,6 +131,7 @@ bignews.org
 .blogsome.com
 ||books.com.tw
 briian.com
+.btmon.com
 buboo.tw
 ||blambin.byethost16.com
 
@@ -768,6 +769,7 @@ msn.com.tw
 sidekick.myblog.hk
 |http://www.mycould.com/
 ||myeclipseide.com
+.myfreshnet.com
 .mysinablog.com
 |http://mysinablog.com
 
@@ -844,6 +846,7 @@ peacefire.org
 peacehall.com
 perfdynamics.com
 philly.com
+||picfoco.com
 picturesocial.com
 .ping.fm
 ||ping.fm/
@@ -1239,6 +1242,7 @@ www.wet123.com
 |http://widget.wetpaintserv.us/
 wezhiyong.org
 .whitehats.com
+||whyx.org
 wikidot.com
 @@static.wikidot.com
 .wikileaks.org
