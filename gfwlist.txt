@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hDIRzzaGBPqqHleijNAhlg
+! Checksum: XULl0vvNipR+JKemfKkqJg
 ! Expires: 12h
-! Last Modified:  Thu, 10 Dec 2009 22:51:35 +0800
+! Last Modified:  Fri, 11 Dec 2009 15:09:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -443,6 +443,7 @@ getchu.com
 .ginx.com
 |http://ginx.com
 ||glacierparkmagazine.com
+||glennhilton.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 ||golang.org
@@ -566,6 +567,7 @@ great-firewall.com
 ||gwenbell.com
 
 !--------------------------HH--------------------------
+h1n1china.org
 |http://hackaday.com/
 ||hackthatphone.com
 ||hackthatphone.net
@@ -848,6 +850,7 @@ picturesocial.com
 ||pixnet.net
 @@||www.pixnet.net
 .pk.com
+.planetsuzy.org
 ||platinumgames.com
 plays.com.tw
 plurk.com
@@ -1290,7 +1293,7 @@ xtube.com
 blog.xuite.net
 ||photo.xuite.net
 ||xuming.net
-.xys.org
+xys.org
 xysblogs.org
 .xysforum.org
 ||xysforum.org
