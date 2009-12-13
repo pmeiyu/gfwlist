@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: i0PbWuS65FPdHrJAOyr3GA
+! Checksum: RJBZ3mFoLJJwImtRXskLRw
 ! Expires: 12h
-! Last Modified:  Sun, 13 Dec 2009 01:00:33 +0800
+! Last Modified:  Mon, 14 Dec 2009 02:30:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -525,6 +525,7 @@ zh.globalvoicesonline.org
 
 !-------------Google.other-----
 https://chrome.google.com/extensions
+https://tools.google.com/chrome/
 |https://calendar.google.com
 |https://docs.google.com
 |https://services.google.com
