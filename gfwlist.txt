@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4fS2xFkvCdGycon6DdeZSA
+! Checksum: uzXvxXgjTInitBmJ8CI5lQ
 ! Expires: 12h
-! Last Modified:  Mon, 14 Dec 2009 09:03:14 +0800
+! Last Modified:  Mon, 14 Dec 2009 18:46:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -251,6 +251,7 @@ crd-net.org
 creaders.net
 crocodyl.org
 ||csuchen.de
+||cubicle17.com
 .cuhkacs.org*~benng
 cuihua.org
 
@@ -316,6 +317,8 @@ doubleaf.com
 ||duckmylife.com
 duping.net
 dupola.com
+.dw-world.com
+||dw-world.com
 dw-world.de
 www.dwheeler.com
 .dwnews.com
