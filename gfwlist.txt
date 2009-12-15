@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 85W653Pl/lZJjDW6CU1YzA
+! Checksum: LvYUGFw9UHSfb12jmEoYQg
 ! Expires: 12h
-! Last Modified:  Tue, 15 Dec 2009 20:44:05 +0800
+! Last Modified:  Tue, 15 Dec 2009 20:51:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -535,6 +535,9 @@ zh.globalvoicesonline.org
 |https://chrome.google.com
 |https://clients2.google.com
 |https://docs.google.com
+!--Feng Zheng Hu
+http://docs.google.com/view?id=dg5mtmj9_8g3hk27f5
+http://docs.google.com/View?id=dg5mtmj9_3188x48zcn
 |https://services.google.com
 |https://talkgadget.google.com
 |https://tools.google.com
