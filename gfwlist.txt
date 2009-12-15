@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: uzXvxXgjTInitBmJ8CI5lQ
+! Checksum: ojOhjWmzxLAU68/DSheV0g
 ! Expires: 12h
-! Last Modified:  Mon, 14 Dec 2009 18:46:56 +0800
+! Last Modified:  Tue, 15 Dec 2009 17:23:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1271,6 +1271,7 @@ wezhiyong.org
 wikidot.com
 @@static.wikidot.com
 .wikileaks.org
+||wikimedia.org.mo
 ||willw.net
 ||wittytwitter.com
 !-WikiLeaks IP
