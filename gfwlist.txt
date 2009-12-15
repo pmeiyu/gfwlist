@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ojOhjWmzxLAU68/DSheV0g
+! Checksum: 1NhhNKOBtav3w0HQRY8IJA
 ! Expires: 12h
-! Last Modified:  Tue, 15 Dec 2009 17:23:19 +0800
+! Last Modified:  Tue, 15 Dec 2009 20:42:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -87,6 +87,7 @@ atlaspost.com
 avno1.com
 
 !--------------------------BB--------------------------
+.babedump.com
 forum.baby-kingdom.com
 backchina.com
 backpackers.com.tw
@@ -133,6 +134,7 @@ bignews.org
 boltbrowser.com*download
 ||books.com.tw
 briian.com
+||overseas.btchina.net
 .btmon.com
 buboo.tw
 .budaedu.org
@@ -216,6 +218,7 @@ chinaway.org
 chinesenewsnet.com
 .chinesepen.org
 ||chinesepen.org
+.chinesetalks.net/ch
 .chingcheong.com
 chromeexperiments.com
 www.cityrag.com
@@ -254,6 +257,7 @@ crocodyl.org
 ||cubicle17.com
 .cuhkacs.org*~benng
 cuihua.org
+||cynscribe.com
 
 !--------------------------DD--------------------------
 !-------------Dabr-----
@@ -442,6 +446,7 @@ forum.gamer.com.tw
 ||gamez.com.tw
 gaopi.com
 gardennetworks.com
+||gardennetworks.org
 !--IP of Garden Network
 72.52.81.22
 ||garretttaylor.com
@@ -482,6 +487,7 @@ zh.globalvoicesonline.org
 ||www.caijing.com
 ||blog.chromium.org
 @@||build.chromium.org
+||myc.cnkk.org
 ||rss.cnn.com
 ||feeds.digg.com
 ||blog.doughellmann.com
@@ -602,6 +608,7 @@ hbo.com/docs/*/china
 |http://www.heartyit.com/
 hellotxt.com
 |http://www.hemidemi.com/
+.hemix.com
 ||heungkongdiscuss.com
 ||hi5.com/
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -822,6 +829,7 @@ ngensis.com
 !--||ning.com
 @@||www.ning.com
 no-ip.com
+||notebookaddon.tk
 .nownews.com/cybersex
 |http://www.nownews.com/box
 |http://blog.nownews.com
@@ -834,6 +842,7 @@ nysingtao.com
 !--------------------------OO--------------------------
 observechina.net
 ||ogaoga.org
+twtr2src.ogaoga.org
 .oikos.com.tw/v4/news.php
 oizoblog.com
 old-cat.net
@@ -996,6 +1005,7 @@ sesawe.net
 67.220.91.23
 .sexyandshocking.com
 ||sexyandshocking.com
+.sexyclips.org
 ||om.shaayad.com
 .shangfang.org
 |http://shangfang.org
@@ -1059,6 +1069,7 @@ usinfo.state.gov
 ||status.status.net
 ||theme.status.net
 ||steveblank.com
+stickeraction.com/sesawe
 ||stoweboyd.com
 ||summize.com
 sysresccd.org
@@ -1104,6 +1115,7 @@ tldp.org
 ||tnaflix.com
 tokyo-hot.com
 ||blog.topify.com
+.topnews.in
 .topshareware.com
 ||topstyle4.com
 topsy.com
@@ -1241,6 +1253,7 @@ www.voy.com
 
 !--------------------------WW--------------------------
 ||w3schools.com
+.wahas.com
 wallornot.org
 ||wangafu.net
 |http://blog.wangcongming.info
@@ -1265,6 +1278,7 @@ www.wet123.com
 |http://www.wetpaint.com/
 |http://www.wetpaintinjected.com/
 |http://widget.wetpaintserv.us/
+wetpussygames.com
 wezhiyong.org
 .whitehats.com
 ||whyx.org
@@ -1370,8 +1384,8 @@ ytht.net
 |http://www.yzzk.com/
 
 !--------------------------ZZ--------------------------
-|http://luntan.zaobao.com/
-.zaobao.com*special*china*cnpol*pages2*cnpol090729
+.zaobao.com
+||zaobao.com
 zaobao.com.sg
 www.zaurus.org.uk
 .zengjinyan.org
@@ -1562,6 +1576,8 @@ zh.wikipedia.org*%E9%87%8A%E6%98%9F%E4%BA%91
 zh.wikipedia.org*%E5%9B%9B%E4%BA%94%E8%A1%8C%E5%8B%95
 !--Su Jia Tun Shi Jian
 zh.wikipedia.org*%E8%8B%8F%E5%AE%B6%E5%B1%AF%E4%BA%8B%E4%BB%B6
+!--Tan Zuo Ren
+zh.wikipedia.org*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
