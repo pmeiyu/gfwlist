@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LvYUGFw9UHSfb12jmEoYQg
+! Checksum: +YQlKhlZkhpjP3ONgwpNkA
 ! Expires: 12h
-! Last Modified:  Tue, 15 Dec 2009 20:51:43 +0800
+! Last Modified:  Wed, 16 Dec 2009 20:52:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -112,11 +112,14 @@ beijingspring.com
 .berlintwitterwall.com
 ||berlintwitterwall.com
 bestforchina.org
+bigandfree.com
 bignews.org
 .bigsound.org/portnoy
 ||billywr.com
 ||bind2.com
 ||bing.com/twitter
+.bit.ly
+||bit.ly
 ||blackberry.com/Downloads
 .blip.tv
 /blip.tv
@@ -255,6 +258,7 @@ crocodyl.org
 ||cubicle17.com
 .cuhkacs.org*~benng
 cuihua.org
+||culture.tw
 ||cynscribe.com
 
 !--------------------------DD--------------------------
@@ -544,6 +548,7 @@ http://docs.google.com/View?id=dg5mtmj9_3188x48zcn
 @@|https://groups.google.com
 @@|https://www.google.com
 sites.google.com
+video.google.com
 |http:*spreadsheets.google.com
 |https://spreadsheets.google.com
 .ggpht.com
@@ -648,11 +653,13 @@ hulu.com
 .identi.ca
 |http://identi.ca
 .idv.tw
+||illusionfactory.com
 |http://im.tv/
 |http://www.im.tv/
 ||imageshack.us
 .imlive.com
 |http://www.inmediahk.net/
+||blog.instapaper.com
 internetfreedom.org
 ||internetpopculture.com
 ||blog.iphone-dev.org
@@ -864,10 +871,11 @@ osdir.com
 
 !--------------------------PP--------------------------
 ||p2pu.org
+forum.palmislife.com
 .panluan.net
 ||panluan.net
-forum.palmislife.com
 .panoramio.com/forum
+.parade.com/dictators/2009
 pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
@@ -882,6 +890,7 @@ perfdynamics.com
 philly.com
 ||picfoco.com
 picturesocial.com
+.pidown.com
 .ping.fm
 ||ping.fm/
 ||pingmicro.com
@@ -895,6 +904,7 @@ plays.com.tw
 plurk.com
 ||plurktemplates.com
 .plus28.com
+.plusbb.com
 ||abc.pp.ru
 |http://dlstatusbar.proboards43.com/
 prozz.net
@@ -902,6 +912,7 @@ prozz.net
 ||pokerstars.com
 .pornbase.com
 ||pornbase.com
+.popyard.com
 ||popyard.org
 ||posterous.org
 
@@ -1404,6 +1415,7 @@ gfwProxyEnabled=yes
 |http:*freenet
 |http:*q=freedom
 |http:*search*safeweb
+|http:*q=triangle
 |http:*ultrareach
 |http:*ultrasurf
 
@@ -1548,6 +1560,8 @@ zh.wikipedia.org*%C0%EE%C5%F4
 zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
 !--Lin Guo Xiong
 zh.wikipedia.org*%E6%A2%81%E5%9C%8B%E9%9B%84
+!--Ling Ba Xian Zhang
+zh.wikipedia.org*%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 !--Liu Hui Qing
 zh.wikipedia.org*%E5%88%98%E6%85%A7%E5%8D%BF
 !--Liu Hui Qing - Traditional
@@ -1558,6 +1572,8 @@ zh.wikipedia.org*%E5%85%AD%E5%9B%9B
 zh.wikipedia.org*%E5%88%98%E5%BB%B6%E4%B8%9C
 !--Liu Yun Shan
 zh.wikipedia.org*%E5%88%98%E4%BA%91%E5%B1%B1
+!--Lv Ba Hua Ji Hu Hang
+zh.wikipedia.org*%E7%B6%A0%E5%A3%A9%C2%B7%E8%8A%B1%E5%AD%A3%E8%AD%B7%E8%88%AA
 !--Min Zhu Nv Shen
 zh.wikipedia.org*%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E
 !--Po Wang
