@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8dN/VpPq3tFdJeYD1+dtAg
+! Checksum: 1TUpH/fxgajjUI5uvB9C+w
 ! Expires: 12h
-! Last Modified:  Wed, 16 Dec 2009 23:48:31 +0800
+! Last Modified:  Wed, 16 Dec 2009 23:51:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -313,7 +313,6 @@ dongtaiwang.com
 ||dongtaiwang.net
 ||dopdf.com
 ||dopodomani.me
-||downforeveryoneorjustme.com
 ||download.hr
 doubleaf.com
 |http://www.dpp.org.tw/
@@ -494,6 +493,7 @@ zh.globalvoicesonline.org
 ||rss.cnn.com
 ||feeds.digg.com
 ||blog.doughellmann.com
+||downforeveryoneorjustme.com
 ||dumblittleman.com
 ||www.earthhour.org
 ||s.evernote.com
