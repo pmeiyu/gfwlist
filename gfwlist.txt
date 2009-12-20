@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TECKdam8VLVBieyf882Erg
+! Checksum: q5JWC4Nb2xyMaHeSAK+USA
 ! Expires: 12h
-! Last Modified:  Sun, 20 Dec 2009 14:10:14 +0800
+! Last Modified:  Sun, 20 Dec 2009 20:39:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -14,6 +14,7 @@
 .2000fun.com*bbs
 2008xianzhang.info
 ||2photo.ru
+||301works.org
 |http://3b8.cc/
 3boys2girls.com
 |http://3cc.cc/
