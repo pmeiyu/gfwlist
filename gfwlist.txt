@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1TUpH/fxgajjUI5uvB9C+w
+! Checksum: TECKdam8VLVBieyf882Erg
 ! Expires: 12h
-! Last Modified:  Wed, 16 Dec 2009 23:51:17 +0800
+! Last Modified:  Sun, 20 Dec 2009 14:10:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -536,6 +536,7 @@ zh.globalvoicesonline.org
 ||www.zimbu.org
 
 !-------------Google.other-----
+
 |https://calendar.google.com
 |https://chrome.google.com
 |https://clients2.google.com
@@ -548,6 +549,7 @@ http://docs.google.com/View?id=dg5mtmj9_3188x48zcn
 |https://tools.google.com
 @@|https://groups.google.com
 @@|https://www.google.com
+.google.com/gwt
 sites.google.com
 video.google.com
 |http:*spreadsheets.google.com
