@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: q5JWC4Nb2xyMaHeSAK+USA
+! Checksum: LPhP/1H4M8wwAQLxBEpL2g
 ! Expires: 12h
-! Last Modified:  Sun, 20 Dec 2009 20:39:02 +0800
+! Last Modified:  Mon, 21 Dec 2009 22:55:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -308,6 +308,7 @@ discuss.com.hk
 ||dlsite.com
 ||dmtcs.org
 |http://www.docbook.org/
+||dokoda.jp
 dongde.com
 dongtaiwang.com
 .dongtaiwang.net
@@ -468,6 +469,8 @@ getchu.com
 ||gigaom.com
 .ginx.com
 |http://ginx.com
+.girlsgonewild.com
+||girlsgonewild.com
 ||glacierparkmagazine.com
 ||glennhilton.com
 globalmuseumoncommunism.org
@@ -584,13 +587,16 @@ google.com*analytics*zh-CN
 code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
 |http://docs.google.com*view*docid
+groups.google.com*group*bypassgfw
+groups.google.com*group*cn.bbs.comp.dotnet
 groups.google.com*group*cn.fan
 groups.google.com*group*fans
 groups.google.com*group*gfw-blog
+groups.google.com*group*jieshibaobaozhijia
 groups.google.com*group*lihlii
 groups.google.com*group*mindex
+groups.google.com*group*python-cn
 groups.google.com*group*zh_wikipedia
-groups.google.com*group*cn.bbs.comp.dotnet
 |http://picasaweb.google.com/
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
 anti.anti.cnn.googlepages.com
@@ -633,6 +639,7 @@ hkjc.com
 .hkjp.org
 .hkmensa.net
 hkreporter.com
+hongmeimei.com
 .hootsuite.com
 ||hootsuite.com
 ||hopto.org
@@ -837,6 +844,7 @@ newstin.com
 hk*.nextmedia.com
 tw*.nextmedia.com
 ngensis.com
+homepage2.nifty.com
 ||nihilex.com
 !--||ning.com
 @@||www.ning.com
@@ -1373,6 +1381,7 @@ video.yahoo.com/watch
 blog.yam.com
 n.yam.com
 news.yam.com
+||yesbra.com
 .yi.org
 yilubbs.com
 .yogichen.org
@@ -1400,9 +1409,10 @@ ytht.net
 |http://www.yzzk.com/
 
 !--------------------------ZZ--------------------------
-.zaobao.com
 ||zaobao.com
-zaobao.com.sg
+@@||www.zaobao.com
+.zaobao.com.sg
+||zaobao.com.sg
 www.zaurus.org.uk
 .zengjinyan.org
 zhengjian.org
