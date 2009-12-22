@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6zFnKAiPlVvmYv39hUY8cQ
+! Checksum: CHrYZ2HPm2DJ37g2ZAJz8g
 ! Expires: 12h
-! Last Modified:  Tue, 22 Dec 2009 22:20:23 +0800
+! Last Modified:  Tue, 22 Dec 2009 22:23:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -480,6 +480,8 @@ zh.globalvoicesonline.org
 .gopetition.com
 ||gopetition.com
 ||greatfirewallofchina.net
+.greatfirewallofchina.org
+||greatfirewallofchina.org
 
 !-------------Google.ghs-----
 ||allentian.com
