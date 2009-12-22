@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JY1Ccjp42hDd74z1RshIpA
+! Checksum: 6zFnKAiPlVvmYv39hUY8cQ
 ! Expires: 12h
-! Last Modified:  Tue, 22 Dec 2009 14:46:47 +0800
+! Last Modified:  Tue, 22 Dec 2009 22:20:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -98,6 +98,7 @@ hen.bao.li
 |http://www.barnabu.co.uk
 barnesandnoble.com/bookSearch/isbnInquiry.asp
 ||bayimg.com
+dajusha.baywords.com
 bbc.co.uk*chinese
 bbc.co.uk*zhongwen
 newsvote.bbc.co.uk
@@ -880,6 +881,7 @@ www.orchidbbs.com
 .orzistic.org
 ||orzistic.org
 osdir.com
+otweets.com
 |http://www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
 
