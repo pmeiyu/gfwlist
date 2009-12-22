@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eNSOX/P2shSnR0dMYZIEMw
+! Checksum: JY1Ccjp42hDd74z1RshIpA
 ! Expires: 12h
-! Last Modified:  Tue, 22 Dec 2009 14:42:56 +0800
+! Last Modified:  Tue, 22 Dec 2009 14:46:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -551,7 +551,8 @@ http://docs.google.com/View?id=dg5mtmj9_3188x48zcn
 |https://services.google.com
 |https://talkgadget.google.com
 |https://tools.google.com
-@@|https://groups.google.com
+!--proxy on full groups temporary
+||groups.google.com
 @@|https://www.google.com
 .google.com/gwt
 sites.google.com
@@ -587,16 +588,17 @@ google.com*analytics*zh-CN
 code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
 |http://docs.google.com*view*docid
-groups.google.com*group*bypassgfw
-groups.google.com*group*cn.bbs.comp.dotnet
-groups.google.com*group*cn.fan
-groups.google.com*group*fans
-groups.google.com*group*gfw-blog
-groups.google.com*group*jieshibaobaozhijia
-groups.google.com*group*lihlii
-groups.google.com*group*mindex
-groups.google.com*group*python-cn
-groups.google.com*group*zh_wikipedia
+!--proxy on full groups temporary
+!--groups.google.com*group*bypassgfw
+!--groups.google.com*group*cn.bbs.comp.dotnet
+!--groups.google.com*group*cn.fan
+!--groups.google.com*group*fans
+!--groups.google.com*group*gfw-blog
+!--groups.google.com*group*jieshibaobaozhijia
+!--groups.google.com*group*lihlii
+!--groups.google.com*group*mindex
+!--groups.google.com*group*python-cn
+!--groups.google.com*group*zh_wikipedia
 |http://picasaweb.google.com/
 spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
 anti.anti.cnn.googlepages.com
