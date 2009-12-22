@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LPhP/1H4M8wwAQLxBEpL2g
+! Checksum: k+qIjHPE3YRsvOhUEy8r+A
 ! Expires: 12h
-! Last Modified:  Mon, 21 Dec 2009 22:55:37 +0800
+! Last Modified:  Tue, 22 Dec 2009 14:41:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1568,6 +1568,8 @@ zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Jin Dun Gong Cheng ?
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
+!--Li Changchun
+zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
 !--Li Peng
 zh.wikipedia.org*%C0%EE%C5%F4
 !--Li Yuan Chao
