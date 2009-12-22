@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: k+qIjHPE3YRsvOhUEy8r+A
+! Checksum: eNSOX/P2shSnR0dMYZIEMw
 ! Expires: 12h
-! Last Modified:  Tue, 22 Dec 2009 14:41:01 +0800
+! Last Modified:  Tue, 22 Dec 2009 14:42:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1540,6 +1540,8 @@ zh.wikipedia.org*Google%E5%AE%A1%E6%9F%A5
 zh.wikipedia.org*%E5%9B%BD%E4%BF%9D
 !--Guo Bo Xiong
 zh.wikipedia.org*%E9%83%AD%E4%BC%AF%E9%9B%84
+!--He Guo Qiang
+zh.wikipedia.org*%E8%B4%BA%E5%9B%BD%E5%BC%BA
 !--Hu Jia (She Hui Huo Dong Jia)
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
