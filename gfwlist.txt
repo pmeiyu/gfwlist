@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CHrYZ2HPm2DJ37g2ZAJz8g
+! Checksum: Gv1280LXcP6ILSt7cMJfZQ
 ! Expires: 12h
-! Last Modified:  Tue, 22 Dec 2009 22:23:16 +0800
+! Last Modified:  Wed, 23 Dec 2009 14:50:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -555,7 +555,7 @@ http://docs.google.com/View?id=dg5mtmj9_3188x48zcn
 |https://talkgadget.google.com
 |https://tools.google.com
 !--proxy on full groups temporary
-||groups.google.com
+|http:*groups.google.com*group
 @@|https://www.google.com
 .google.com/gwt
 sites.google.com
