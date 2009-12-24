@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: a5Gn/JhC7tGyKt7aTIkQwg
+! Checksum: 9jT7Z80YWtjEnI41OzKWuQ
 ! Expires: 12h
-! Last Modified:  Fri, 25 Dec 2009 01:10:49 +0800
+! Last Modified:  Fri, 25 Dec 2009 01:45:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1501,6 +1501,8 @@ zh.wikipedia.org*1989%E5%B9%B4
 zh.wikipedia.org*Anti-CNN
 !--Ban Chan
 zh.wikipedia.org*%E7%8F%AD%E7%A6%85
+!--Bao Tong
+zh.wikipedia.org*%E9%B2%8D%E5%BD%A4
 !--Bei Jing Zhi Chun
 zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5
 !--Bo Xi Lai
@@ -1517,8 +1519,6 @@ zh.wikipedia.org*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 !--Dan Zeng Jia Cuo
 zh.wikipedia.org*%E4%B8%B9%E5%A2%9E%E5%98%89%E6%8E%AA
-!--Dang He Guo Jia Ling Dao Ren (Political position ranking of the People's Republic of China)
-zh.wikipedia.org*%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA
 !--E Luo Si
 zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
 !--E Luo Si - zh-tw
