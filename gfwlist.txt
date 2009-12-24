@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: S2kOzu7K2FlRF8Jv8carSQ
+! Checksum: a5Gn/JhC7tGyKt7aTIkQwg
 ! Expires: 12h
-! Last Modified:  Fri, 25 Dec 2009 01:00:37 +0800
+! Last Modified:  Fri, 25 Dec 2009 01:10:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1404,8 +1404,9 @@ ytht.net
 |http://www.yzzk.com/
 
 !--------------------------ZZ--------------------------
-||zaobao.com
-@@||www.zaobao.com
+|http://zaobao.com/
+|http://luntan.zaobao.com/
+.zaobao.com*special*china*cnpol*pages2*cnpol090729
 .zaobao.com.sg
 ||zaobao.com.sg
 www.zaurus.org.uk
