@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Gv1280LXcP6ILSt7cMJfZQ
+! Checksum: QD1ITGJGgpPSwMY6kHJ7OA
 ! Expires: 12h
-! Last Modified:  Wed, 23 Dec 2009 14:50:10 +0800
+! Last Modified:  Thu, 24 Dec 2009 08:14:24 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1527,6 +1527,8 @@ zh.wikipedia.org*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 !--Dan Zeng Jia Cuo
 zh.wikipedia.org*%E4%B8%B9%E5%A2%9E%E5%98%89%E6%8E%AA
+!--Dang He Guo Jia Ling Dao Ren (Political position ranking of the People's Republic of China)
+zh.wikipedia.org*%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA
 !--E Luo Si
 zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
 !--E Luo Si - zh-tw
