@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QD1ITGJGgpPSwMY6kHJ7OA
+! Checksum: S2kOzu7K2FlRF8Jv8carSQ
 ! Expires: 12h
-! Last Modified:  Thu, 24 Dec 2009 08:14:24 +0800
+! Last Modified:  Fri, 25 Dec 2009 01:00:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -543,55 +543,27 @@ zh.globalvoicesonline.org
 ||www.zimbu.org
 
 !-------------Google.other-----
-
 |https://calendar.google.com
 |https://chrome.google.com
 |https://clients2.google.com
 |https://docs.google.com
-!--Feng Zheng Hu
-http://docs.google.com/view?id=dg5mtmj9_8g3hk27f5
-http://docs.google.com/View?id=dg5mtmj9_3188x48zcn
 |https://services.google.com
 |https://talkgadget.google.com
 |https://tools.google.com
-!--proxy on full groups temporary
-|http:*groups.google.com*group
 @@|https://www.google.com
-.google.com/gwt
-sites.google.com
-video.google.com
-|http:*spreadsheets.google.com
-|https://spreadsheets.google.com
 .ggpht.com
-|http://www.google.com/search*q=dongtaiwang
-!--Fan Qiang
-!--|http:*google.com*%E7%BF%BB%E5%A2%99
-!--Fang Bin Xing
-!--|http:*.google.com*%E6%96%B9%E6%BB%A8%E5%85%B4
-!--Na Mi Bi Ya
-|http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
-!--Po Hai
-|http:*.google.com*%E8%BF%AB%E5%AE%B3
-!--Qian Shi Jin Sheng
-|http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
-!--Shen Me
-!--|http:*.google.com*%E4%BB%80%E4%B9%88
-!--Tian An Men
-|http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
-!--Tu Po
-|http:*.google.com*%E7%AA%81%E7%A0%B4
-!--Yue Hou Ji Fen
-|http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
-!--Zi You Men
-|http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
-.google.*great*firewall
 google.com*analytics*zh-CN
+.google.*great*firewall
+.google.com/gwt
+|http://www.google.com/search*q=dongtaiwang
 |http://www.google.com/search*free*gate
 |http://code.google.com/p/cngepi/downloads/
 code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
-|http://docs.google.com*view*docid
-!--proxy on full groups temporary
+!--Feng Zheng Hu
+docs.google.com*view*id*dg5mtmj9_8g3hk27f5
+docs.google.com*View*id*dg5mtmj9_3188x48zcn
+|http:*groups.google.com*group
 !--groups.google.com*group*bypassgfw
 !--groups.google.com*group*cn.bbs.comp.dotnet
 !--groups.google.com*group*cn.fan
@@ -603,9 +575,26 @@ code.google.com*p*autoproxy*updates*list
 !--groups.google.com*group*python-cn
 !--groups.google.com*group*zh_wikipedia
 |http://picasaweb.google.com/
-spreadsheets.google.com*viewform*formkey*ckFYOFJjWWZmbTJwWlVnamhRRk92Q3c6MA
+sites.google.com
+|http:*spreadsheets.google.com
+|https://spreadsheets.google.com
+video.google.com
 anti.anti.cnn.googlepages.com
 .googlevideo.com
+!--Na Mi Bi Ya
+|http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
+!--Po Hai
+|http:*.google.com*%E8%BF%AB%E5%AE%B3
+!--Qian Shi Jin Sheng
+|http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
+!--Tian An Men
+|http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
+!--Tu Po
+|http:*.google.com*%E7%AA%81%E7%A0%B4
+!--Yue Hou Ji Fen
+|http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
+!--Zi You Men
+|http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 
 gospelherald.com
 |http://www.govindicators.org
