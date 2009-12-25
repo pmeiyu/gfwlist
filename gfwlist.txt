@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TYU4L63kM86rH7ccAmbE6Q
+! Checksum: W6Nh6Bt75+31EGpzusJsYg
 ! Expires: 12h
-! Last Modified:  Fri, 25 Dec 2009 13:08:19 +0800
+! Last Modified:  Fri, 25 Dec 2009 13:12:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -176,6 +176,8 @@ holz.byethost8.com
 cafepress.com
 ||cantonese.ca
 canyu.org
+.caobian.info
+||caobian.info
 caochangqing.com
 .caodan.org
 |http://www.carnegieendowment.org
@@ -1452,6 +1454,8 @@ gfwProxyEnabled=yes
 !--fake IP for GFW domain hijacking
 4.36.66.178
 
+!--Bao Tong
+!http*q=%E9%B2%8D%E5%BD%A4
 !--Da Ji Yuan
 |http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
