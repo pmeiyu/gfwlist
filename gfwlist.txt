@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9jT7Z80YWtjEnI41OzKWuQ
+! Checksum: TYU4L63kM86rH7ccAmbE6Q
 ! Expires: 12h
-! Last Modified:  Fri, 25 Dec 2009 01:45:19 +0800
+! Last Modified:  Fri, 25 Dec 2009 13:08:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -93,6 +93,7 @@ forum.baby-kingdom.com
 backchina.com
 backpackers.com.tw
 .badongo.com
+@@||baidu.com
 baidu.jp/
 hen.bao.li
 |http://www.barnabu.co.uk
@@ -317,6 +318,7 @@ dongtaiwang.com
 ||dopdf.com
 ||dopodomani.me
 ||download.hr
+||doxygen.org
 doubleaf.com
 |http://www.dpp.org.tw/
 ||drikin.com
@@ -346,6 +348,7 @@ edoors.com
 |http://www.edubridge.com/
 ||tor.eff.org
 ||elecite.com
+||elisabethkublerross.com
 eltondisney.com
 ||emojiforichat.com
 ||endsoftpatents.org
@@ -421,6 +424,7 @@ freeforums.org
 freemoren.com
 freemorenews.com
 freetibet.org
+.freetzi.com
 .freexinwen.com
 
 friendfeed.com
@@ -435,6 +439,8 @@ friendfeed.com
 ||fscked.org
 |http://www.fsurf.com/
 .ftv.com.tw
+.fuckcnnic.net
+||fuckcnnic.net
 |http://fuckgfw.com
 fulue.com
 funp.com
@@ -616,6 +622,8 @@ h1n1china.org
 hbo.com/docs/*/china
 .hdzone.org
 |http://www.heartyit.com/
+.hecaitou.net
+||hecaitou.net
 hellotxt.com
 |http://www.hemidemi.com/
 .hemix.com
@@ -796,6 +804,8 @@ minzhuzhongguo.org
 .miroko.tw
 mirrorbooks.com
 mitbbs.com
+.mixx.com
+||mixx.com
 mm36c.com
 |http://maomy.motime.com/
 |http://www.moztw.org
@@ -813,6 +823,7 @@ sidekick.myblog.hk
 |http://www.mycould.com/
 ||myeclipseide.com
 .myfreshnet.com
+||myparagliding.com
 .mysinablog.com
 |http://mysinablog.com
 
@@ -873,6 +884,7 @@ www.orchidbbs.com
 ||orzistic.org
 osdir.com
 otweets.com
+share.ovi.com/media
 |http://www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
 
@@ -883,6 +895,8 @@ forum.palmislife.com
 ||panluan.net
 .panoramio.com/forum
 .parade.com/dictators/2009
+.pastie.org
+||pastie.org
 pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
@@ -915,6 +929,7 @@ plurk.com
 ||abc.pp.ru
 |http://dlstatusbar.proboards43.com/
 prozz.net
+||pocketmonsters.net
 .pokerstars.com
 ||pokerstars.com
 .pornbase.com
@@ -935,6 +950,7 @@ prozz.net
 ||erinc.ca
 ||gfw.org.ua
 ||roteiro.geedr.com
+||markmilian.com
 ||blog.nicholaspatten.com
 ||am.pengyulong.com
 ||post.ly/
@@ -959,7 +975,7 @@ privatepaste.com
 psiphon.ca
 |http://www.ptt.cc/
 ||purepdf.com
-.python.org*download
+python.org*download
 
 !--------------------------QQ--------------------------
 qixianglu.cn
@@ -1186,6 +1202,7 @@ twistory.net
 ||twit2d.com
 ||twitcause.com
 ||twitgether.com
+twitgoo.com
 ||twithive.com
 .twitiq.com
 ||twitiq.com
@@ -1205,6 +1222,7 @@ twitterfeed.com
 ||twittergadget.com
 .twitterkr.com
 ||twitterkr.com
+||twittermail.com
 twitthat.com
 ||twitthis.com
 .twitturly.com
@@ -1263,6 +1281,7 @@ veoh.com
 .vft.com.tw
 .videosz.com
 ||videosz.com
+||vidoemo.com
 .vimeo.com
 ||vimeo.com
 |http://www.visuwords.com/
@@ -1276,6 +1295,7 @@ www.voy.com
 wallornot.org
 ||wangafu.net
 |http://blog.wangcongming.info
+wangruoshui.net
 www.wangruowang.org
 ||we.bs^
 ||t.webbang.net
