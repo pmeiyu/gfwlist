@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: b1Tn5lZprtiAJH8gRywS1A
+! Checksum: PViOSp+xPUyyaUvRX/yFDw
 ! Expires: 12h
-! Last Modified:  Fri, 25 Dec 2009 13:14:44 +0800
+! Last Modified:  Fri, 25 Dec 2009 23:01:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -48,6 +48,8 @@ advanscene.com
 |http://www.aidsmuseum.cn/
 |http://*blog.aiweiwei.com
 .akiba-online.com/forum/index.php
+.alexa.com
+||alexa.com
 ||alexking.org
 .alivenotdead.com
 allhabit.com
