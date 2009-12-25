@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PViOSp+xPUyyaUvRX/yFDw
+! Checksum: rwRTgXZYo/szBGHFwzw+Lg
 ! Expires: 12h
-! Last Modified:  Fri, 25 Dec 2009 23:01:17 +0800
+! Last Modified:  Fri, 25 Dec 2009 20:58:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1457,11 +1457,13 @@ gfwProxyEnabled=yes
 4.36.66.178
 
 !--Bao Tong
-|http*search*%E9%B2%8D%E5%BD%A4
+|http:*search*%E9%B2%8D%E5%BD%A4
 !--Da Ji Yuan
 |http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
 |http:*%E5%8A%A8%E6%80%81%E7%BD%91
+!--Duo Wei
+|http:*search*%E5%A4%9A%E7%B6%AD
 !--(Li) Fa Hui
 |http:*search*%E6%B3%95%E4%BC%9A
 !--fa lun da fa
