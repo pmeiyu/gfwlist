@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rwRTgXZYo/szBGHFwzw+Lg
+! Checksum: OI5BK+DlqKmH1e1NS1Si2Q
 ! Expires: 12h
-! Last Modified:  Fri, 25 Dec 2009 20:58:16 +0800
+! Last Modified:  Sat, 26 Dec 2009 13:06:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -80,6 +80,7 @@ video.aol.com
 |http://www.arizonachinese.com
 www.asiademo.org
 .asianews.it
+.asianbabymakers.com
 ||asianwomensfilm.de
 .atj.org.tw
 atlaspost.com
@@ -140,7 +141,7 @@ bignews.org
 boltbrowser.com*download
 ||books.com.tw
 briian.com
-||overseas.btchina.net
+brightkite.com
 .btmon.com
 buboo.tw
 .budaedu.org
@@ -241,6 +242,7 @@ cmule.com
 .cnavista.com.tw*shop*stores_app
 .cnbloggercon.org
 |http://cnbloggercon.org
+||blog.cnblog.org
 .cnd.org
 |http://cnd.org
 co.cc
@@ -256,6 +258,7 @@ commandlineisking.com
 .competitionforce.hk
 |http://www.coolloud.org.tw/
 copytaste.com
+.copycat2u.net/bbs
 .cpj.org
 crackle.com
 crd-net.org
@@ -634,6 +637,8 @@ hellotxt.com
 ||heungkongdiscuss.com
 ||hi5.com/
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
+.hidemyass.com
+||hidemyass.com
 myweb.hinet.net
 hk-pub.com
 hkcccl.org.hk
@@ -723,8 +728,8 @@ kanzhongguo.com
 ||blog.kickstarter.com
 .kidoors.com
 .kingstone.com.tw
-||blog.kl.am
 |http://www.kmt.org.tw/
+.kodiefiles.nl
 ||kompozer.net
 .ktop.com.tw
 |http://kunalanand.com
@@ -748,20 +753,25 @@ lipuman.com
 ||locafollow.com
 
 !-------------live spaces-----
-|http:*flowerofhappiness.spaces.live.com
-|http:*honeonet.spaces.live.com
-|http:*huajiadi.spaces.live.com
-|http:*hujiachina.spaces.live.com
-|http:*portis21.spaces.live.com
-|http:*siyi123123123.spaces.live.com
-|http:*wangyi64.spaces.live.com
-|http:*wenyunchao.spaces.live.com
-|http:*yezimary.spaces.live.com
-|http:*zengjinyan.spaces.live.com
-|http:*zhllg.spaces.live.com
+!-|http:*flowerofhappiness.spaces.live.com
+!-|http:*honeonet.spaces.live.com
+!-|http:*huajiadi.spaces.live.com
+!-|http:*hujiachina.spaces.live.com
+!-|http:*portis21.spaces.live.com
+!-|http:*siyi123123123.spaces.live.com
+!-|http:*wangyi64.spaces.live.com
+!-|http:*wenyunchao.spaces.live.com
+!-|http:*yezimary.spaces.live.com
+!-|http:*zengjinyan.spaces.live.com
+!-|http:*zhllg.spaces.live.com
+||spaces.live.com
+@@||home.spaces.live.com
+@@||www.spaces.live.com
 
 livejasmin.com
 liveleak.com
+||livevideo.com
+.livevideo.com
 .longhair.hk
 ||lookingglasstheatre.org
 .lookpic.com
@@ -793,6 +803,7 @@ memedia.cn
 .metacafe.com/watch
 ||metacafe.com/watch
 middle-way.net
+.mihk.hk
 www5.mimima.com
 www6.mimima.com
 .minghui.org
@@ -911,6 +922,8 @@ mypaper.pchome.com.tw
 pdetails.com
 peacefire.org
 peacehall.com
+||penchinese.net
+.penchinese.net
 perfdynamics.com
 philly.com
 ||picfoco.com
@@ -959,6 +972,7 @@ prozz.net
 ||am.pengyulong.com
 ||post.ly/
 ||posterous.com
+.posterous.com
 ||reflectionof.me
 ||log.riku.me
 ||steverubel.com
@@ -976,6 +990,7 @@ powerapple.com
 ||primedius.com
 privatepaste.com
 ||proxomitron.info
+||proxypy.com
 psiphon.ca
 |http://www.ptt.cc/
 ||purepdf.com
@@ -1054,6 +1069,7 @@ shapeservices.com
 shenshou.org
 ||shixiao.org
 ||shizhao.org
+.shizhao.org
 .shooshtime.com
 ||shooshtime.com
 |http://ch.shvoong.com/
@@ -1089,6 +1105,8 @@ sneakme.net
 gmail-remote-command.en.softonic.com
 blog.sogoo.org
 sokamonline.com
+||songjiajun.com
+.songjiajun.com
 |http://www.songza.com/
 |http://songza.com/
 .sopcast.com
@@ -1121,6 +1139,7 @@ blog.syx86.cn/2009/09/puff
 takungpao.com
 |http://tansioksiok.com/
 .taolun.info
+||taolun.info
 .tblog.com
 tcno.net*doc*tor
 ||teamseesmic.com
@@ -1147,6 +1166,7 @@ tiananmenmother.org
 tibet.net
 http://www.time.com/time/time100/leaders/profile/rebel.html
 ||tinypaste.com
+||tinyurl.com/gfwlist
 .tistory.com
 tldp.org
 ||tlists.com
@@ -1161,23 +1181,28 @@ topsy.com
 ||tornadoweb.org
 torproject.org
 ||tr.im/DZ0o
-||blog.tr.im
 ||trackon.org
 ||tripod.com
 @@||www.tripod.com
 .truveo.com
 tsquare.tv
-tt1069.com
-|http://tttan.com/
+||tttan.com
+.tttan.com
 tube8.com
 tuidang.net
 .tuite.de
 ||tuite.de
 ||turningtorso.com
+
+!-------------Tumblr-----
 ||tumblr.com
 @@||media.tumblr.com
 @@||assets.tumblr.com
 @@||static.tumblr.com
+||blog.kl.am
+||blog.hexxeh.net
+||blog.tr.im
+
 ||tv-intros.com
 |http://forum.tvb.com/
 tvboxnow.com
@@ -1195,6 +1220,7 @@ tweetmeme.com*story
 tweetree.com
 .twibble.de
 ||twibble.de
+twibbon.com
 ||twigee.com
 ||twindexx.com
 twilog.org
@@ -1245,6 +1271,7 @@ tynsoe.org
 ||blog.expofutures.com
 ||legaltech.law.com
 ||www.loiclemeur.com
+||latimesblogs.latimes.com
 ||blog.palm.com
 ||blog.seesmic.com
 ||blogs.tampabay.com
