@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OI5BK+DlqKmH1e1NS1Si2Q
+! Checksum: 4oFgJgGMLGp/vTllp5QRvw
 ! Expires: 12h
-! Last Modified:  Sat, 26 Dec 2009 13:06:54 +0800
+! Last Modified:  Sat, 26 Dec 2009 13:24:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -684,7 +684,6 @@ hulu.com
 ||blog.instapaper.com
 internetfreedom.org
 ||internetpopculture.com
-||blog.iphone-dev.org
 ||iphonehacks.com
 is.gd/1VO1f
 is.gd/1VOp7
@@ -1199,9 +1198,21 @@ tuidang.net
 @@||media.tumblr.com
 @@||assets.tumblr.com
 @@||static.tumblr.com
+!-||blog.bit.ly
 ||blog.kl.am
 ||blog.hexxeh.net
+||blog.iphone-dev.org
+||blogs.thws.cn
 ||blog.tr.im
+!-||status.twitter.com
+||chaos.e-spacy.com
+||cocoa.zonble.net
+||log.lightory.net
+||my.keso.cn
+||news.atebits.com
+||nickcheng.com
+||tumblr.awflasher.com
+||tumblr.fenglu.name
 
 ||tv-intros.com
 |http://forum.tvb.com/
@@ -1464,7 +1475,6 @@ www.zaurus.org.uk
 .zengjinyan.org
 zhengjian.org
 ||zhongmeng.org
-||cocoa.zonble.net
 .zoozle.net
 .zuola.com
 ||zuola.com
