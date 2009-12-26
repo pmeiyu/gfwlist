@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AkYWdfX2sdyof/Dk6fxDQA
+! Checksum: gZHbI5kkfTMCfqqAUU6Fqw
 ! Expires: 12h
-! Last Modified:  Sat, 26 Dec 2009 14:10:26 +0800
+! Last Modified:  Sat, 26 Dec 2009 23:44:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -14,7 +14,6 @@
 .2000fun.com*bbs
 2008xianzhang.info
 ||2photo.ru
-||301works.org
 |http://3b8.cc/
 3boys2girls.com
 |http://3cc.cc/
@@ -265,7 +264,6 @@ crd-net.org
 creaders.net
 crocodyl.org
 ||csuchen.de
-||cubicle17.com
 .cuhkacs.org*~benng
 cuihua.org
 ||culture.tw
@@ -448,7 +446,6 @@ friendfeed.com
 .ftv.com.tw
 .fuckcnnic.net
 ||fuckcnnic.net
-|http://fuckgfw.com
 fulue.com
 funp.com
 .futurechinaforum.org
@@ -681,7 +678,6 @@ hulu.com
 ||imageshack.us
 .imlive.com
 |http://www.inmediahk.net/
-||blog.instapaper.com
 internetfreedom.org
 ||internetpopculture.com
 ||iphonehacks.com
@@ -702,14 +698,12 @@ yy.iyatou.com/archives/1042
 !--------------------------JJ--------------------------
 blog.jackjia.com
 ||jaiku.com
-||jayparkinsonmd.com
 ||jdev.tw/
 jeanyim.com
 jieshibaobao.com
 .jiruan.net
 ||jkforum.net
 ||jobacle.com
-||blog.joeyrobert.org
 ||jounin.net
 |http://jpra1113.org
 ||wiki.js-kit.com
@@ -724,7 +718,6 @@ kanzhongguo.com
 .keezmovies.com
 ||keezmovies.com
 ||log.keso.cn
-||blog.kickstarter.com
 .kidoors.com
 .kingstone.com.tw
 |http://www.kmt.org.tw/
@@ -781,12 +774,10 @@ liveleak.com
 homepage.mac.com
 web.mac.com
 .macau-focus.com
-||madmenfootnotes.com
 mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
 www.manning.com
-||marco.org
 markmail.org*message
 .marlito.com
 |http://www.mathtunnel.com/
@@ -812,7 +803,6 @@ mingpaonews.com
 .mingpaosf.com
 .mingpaotor.com
 .mingpaovan.com
-||minimalmac.com
 minzhuzhongguo.org
 ||miroguide.com
 .miroko.tw
@@ -1172,7 +1162,6 @@ tldp.org
 .tnaflix.com
 ||tnaflix.com
 tokyo-hot.com
-||blog.topify.com
 .topnews.in
 .topshareware.com
 ||topstyle4.com
@@ -1195,24 +1184,25 @@ tuidang.net
 
 !-------------Tumblr-----
 ||tumblr.com
-@@||media.tumblr.com
 @@||assets.tumblr.com
+@@||media.tumblr.com
 @@||static.tumblr.com
-!-||blog.bit.ly
-||blog.kl.am
+||301works.org
+||cubicle17.com
+||fuckgfw.com
 ||blog.hexxeh.net
+||blog.instapaper.com
 ||blog.iphone-dev.org
-||blogs.thws.cn
+||jayparkinsonmd.com
+||blog.joeyrobert.org
+||blog.kickstarter.com
+||blog.kl.am
+||madmenfootnotes.com
+||marco.org
+||minimalmac.com
+||blog.topify.com
 ||blog.tr.im
-!-||status.twitter.com
-||chaos.e-spacy.com
 ||cocoa.zonble.net
-||log.lightory.net
-||my.keso.cn
-||news.atebits.com
-||nickcheng.com
-||tumblr.awflasher.com
-||tumblr.fenglu.name
 
 ||tv-intros.com
 |http://forum.tvb.com/
@@ -1657,8 +1647,6 @@ zh.wikipedia.org*%E5%88%98%E4%BA%91%E5%B1%B1
 zh.wikipedia.org*%E7%B6%A0%E5%A3%A9%C2%B7%E8%8A%B1%E5%AD%A3%E8%AD%B7%E8%88%AA
 !--Min Zhu Nv Shen
 zh.wikipedia.org*%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E
-!--Nuo Bei Er He Ping Jiang
-zh.wikipedia.org*%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96
 !--Po Wang
 zh.wikipedia.org*%E7%A0%B4%E7%BD%91
 !--Ran Shao Ping (GB+UTF8)
