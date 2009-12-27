@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ph9OERBcJOH8xLhkieTimQ
+! Checksum: 72cN6zegoIp/nzr4dH9oxA
 ! Expires: 12h
-! Last Modified:  Sun, 27 Dec 2009 19:52:53 +0800
+! Last Modified:  Sun, 27 Dec 2009 20:06:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -586,6 +586,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 !--groups.google.com*group*mindex
 !--groups.google.com*group*python-cn
 !--groups.google.com*group*zh_wikipedia
+knol.google.com/k/-/08/3jhi1zdzvxj3f
 |http://picasaweb.google.com/
 sites.google.com
 |http:*spreadsheets.google.com
