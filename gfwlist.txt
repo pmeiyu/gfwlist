@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 72cN6zegoIp/nzr4dH9oxA
+! Checksum: QpknV6229XoRP+XTfqbS/w
 ! Expires: 12h
-! Last Modified:  Sun, 27 Dec 2009 20:06:01 +0800
+! Last Modified:  Mon, 28 Dec 2009 13:07:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -49,6 +49,7 @@ advanscene.com
 .akiba-online.com/forum/index.php
 .alexa.com
 ||alexa.com
+||alexatnet.com
 ||alexking.org
 .alivenotdead.com
 allhabit.com
@@ -139,6 +140,7 @@ bignews.org
 .blogsome.com
 boltbrowser.com*download
 ||books.com.tw
+.bot.nu
 briian.com
 brightkite.com
 .btmon.com
@@ -644,6 +646,7 @@ hk-pub.com
 hkcccl.org.hk
 global.hkepc.com*forum
 hkgolden.com
+.hkgreenradio.org/home
 .hkheadline.com*blog
 news.hkheadline.com*instantnews
 hkjc.com
@@ -696,6 +699,7 @@ is.gd/1VOp7
 |http://itweet.net
 yy.iyatou.com/archives/1042
 .izaobao.com
+.izaobao.us
 @@|http*//www.izaobao.com
 
 !--------------------------JJ--------------------------
@@ -723,6 +727,7 @@ kanzhongguo.com
 ||log.keso.cn
 .kidoors.com
 .kingstone.com.tw
+.kkbox.com.tw
 |http://www.kmt.org.tw/
 .kodiefiles.nl
 ||kompozer.net
@@ -806,6 +811,8 @@ mingpaonews.com
 .mingpaosf.com
 .mingpaotor.com
 .mingpaovan.com
+.minzhuhua.net
+||minzhuhua.net
 minzhuzhongguo.org
 ||miroguide.com
 .miroko.tw
@@ -820,6 +827,7 @@ mm36c.com
 .mp/
 @@chi.mp
 ||secure.mp
+||mpettis.com
 |http://www.mpinews.com/
 .msguancha.com
 msn.com.tw
@@ -855,6 +863,7 @@ newstin.com
 |http://www.newsvine.com/
 hk*.nextmedia.com
 tw*.nextmedia.com
+||nexton-net.jp
 ngensis.com
 homepage2.nifty.com
 ||nihilex.com
@@ -1010,6 +1019,8 @@ rcinet.ca
 .read100.com
 .realraptalk.com
 renminbao.com
+.renyurenquan.org
+||renyurenquan.org
 ||retweetrank.com
 revver.com
 .rfa.org
@@ -1021,6 +1032,7 @@ robertmao.com
 robtex.com
 ||ronjoneswriter.com
 .roodo.com
+||roosong.cn
 |http://www.rsf.org/
 |http://www.rsf-chinese.org/
 .rssmeme.com
@@ -1125,6 +1137,7 @@ sysresccd.org
 blog.syx86.cn/2009/09/puff
 
 !--------------------------TT--------------------------
+.t66y.com
 .tacem.org
 .taiwandaily.net
 ||taiwandaily.net
@@ -1246,6 +1259,7 @@ twistory.net
 ||twit2d.com
 ||twitcause.com
 ||twitgether.com
+||twiggit.org
 twitgoo.com
 ||twithive.com
 .twitiq.com
@@ -1305,6 +1319,7 @@ paper.udn.com
 video.udn.com
 uighurbiz.net
 ||ultrawebsitehosting.com
+.ultraxs.com
 unblog.fr
 uncyclopedia.
 .uni.cc
@@ -1374,6 +1389,7 @@ wikidot.com
 ||wittytwitter.com
 !-WikiLeaks IP
 */88.80.13.160/*
+||wikimapia.org
 secure.wikimedia.org
 ||wiredpen.com
 .wo.tc
@@ -1426,6 +1442,7 @@ xtube.com
 blog.xuite.net
 ||photo.xuite.net
 ||xuming.net
+xvediox.com
 xys.org
 xysblogs.org
 .xysforum.org
@@ -1479,6 +1496,8 @@ www.zaurus.org.uk
 zhengjian.org
 ||zhongmeng.org
 .zoozle.net
+tor.zuo.la/download.html
+tor.zuo.la/easy-download.html.zh-cn
 .zuola.com
 ||zuola.com
 zyzg.us
@@ -1681,6 +1700,8 @@ zh.wikipedia.org*%E5%9B%9B%E4%BA%94%E8%A1%8C%E5%8B%95
 zh.wikipedia.org*%E8%8B%8F%E5%AE%B6%E5%B1%AF%E4%BA%8B%E4%BB%B6
 !--Tan Zuo Ren
 zh.wikipedia.org*%E8%B0%AD%E4%BD%9C%E4%BA%BA
+!--Tian An Men Guang Chang
+zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA
 !--Tian An Men Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
