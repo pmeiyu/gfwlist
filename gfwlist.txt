@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QpknV6229XoRP+XTfqbS/w
+! Checksum: 3GQCPcFH17WA1bHaojDfMQ
 ! Expires: 12h
-! Last Modified:  Mon, 28 Dec 2009 13:07:29 +0800
+! Last Modified:  Tue, 29 Dec 2009 20:03:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -47,8 +47,6 @@ advanscene.com
 |http://www.aidsmuseum.cn/
 |http://*blog.aiweiwei.com
 .akiba-online.com/forum/index.php
-.alexa.com
-||alexa.com
 ||alexatnet.com
 ||alexking.org
 .alivenotdead.com
@@ -138,6 +136,8 @@ bignews.org
 @@||www.blogs.com
 ||blogsmithmedia.com
 .blogsome.com
+.blogtd.org
+||blogtd.org
 boltbrowser.com*download
 ||books.com.tw
 .bot.nu
@@ -313,6 +313,7 @@ democrats.org
 .devkick.com
 ||devkick.com
 ||didyouknow.org
+||digitalalchemy.tv
 diigo.com
 discuss.com.hk
 ||dit-inc.us
@@ -509,6 +510,7 @@ zh.globalvoicesonline.org
 ||www.bestwebproxy.net
 ||www.caijing.com
 ||blog.chromium.org
+||dev.chromium.org
 @@||build.chromium.org
 ||myc.cnkk.org
 ||rss.cnn.com
@@ -743,6 +745,8 @@ kanzhongguo.com
 |http://www.lancsky.com/
 laomiu.com
 ||leecheukyan.org
+.lianyue.net
+||lianyue.net
 libertytimes.com.tw
 ||lifemotivations.com
 lifestream.fm
@@ -753,20 +757,17 @@ lipuman.com
 ||locafollow.com
 
 !-------------live spaces-----
-!-|http:*flowerofhappiness.spaces.live.com
-!-|http:*honeonet.spaces.live.com
-!-|http:*huajiadi.spaces.live.com
-!-|http:*hujiachina.spaces.live.com
-!-|http:*portis21.spaces.live.com
-!-|http:*siyi123123123.spaces.live.com
-!-|http:*wangyi64.spaces.live.com
-!-|http:*wenyunchao.spaces.live.com
-!-|http:*yezimary.spaces.live.com
-!-|http:*zengjinyan.spaces.live.com
-!-|http:*zhllg.spaces.live.com
-||spaces.live.com
-@@||home.spaces.live.com
-@@||www.spaces.live.com
+|http:*flowerofhappiness.spaces.live.com
+|http:*honeonet.spaces.live.com
+|http:*huajiadi.spaces.live.com
+|http:*hujiachina.spaces.live.com
+|http:*portis21.spaces.live.com
+|http:*siyi123123123.spaces.live.com
+|http:*wangyi64.spaces.live.com
+|http:*wenyunchao.spaces.live.com
+|http:*yezimary.spaces.live.com
+|http:*zengjinyan.spaces.live.com
+|http:*zhllg.spaces.live.com
 
 livejasmin.com
 liveleak.com
@@ -1586,6 +1587,8 @@ zh.wikipedia.org*08%E5%AE%AA%E7%AB%A0
 !--1989 Nian
 zh.wikipedia.org*1989%E5%B9%B4
 zh.wikipedia.org*Anti-CNN
+!--A Pei A Wang Jin Mei
+zh.wikipedia.org*%E9%98%BF%E6%B2%9B%C2%B7%E9%98%BF%E6%97%BA%E6%99%8B%E7%BE%8E
 !--Ban Chan
 zh.wikipedia.org*%E7%8F%AD%E7%A6%85
 !--Bao Tong
@@ -1625,6 +1628,8 @@ zh.wikipedia.org*Google%E5%AE%A1%E6%9F%A5
 zh.wikipedia.org*%E5%9B%BD%E4%BF%9D
 !--Guo Bo Xiong
 zh.wikipedia.org*%E9%83%AD%E4%BC%AF%E9%9B%84
+!-Guo Nei An Quan Bao Wei Zhi Dui
+zh.wikipedia.org*%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E4%BF%9D%E5%8D%AB%E6%94%AF%E9%98%9F
 !--He Guo Qiang
 zh.wikipedia.org*%E8%B4%BA%E5%9B%BD%E5%BC%BA
 !--Hu Jia (She Hui Huo Dong Jia)
