@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: movtpqi1fUcRkLI06ogqpA
+! Checksum: FQC1qmJW8mjSay+7sYs6eA
 ! Expires: 12h
-! Last Modified:  Thu, 31 Dec 2009 17:16:52 +0800
+! Last Modified:  Thu, 31 Dec 2009 17:32:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -124,6 +124,7 @@ bignews.org
 ||bing.com/twitter
 .bit.ly
 ||bit.ly
+||bkite.com
 ||blackberry.com/Downloads
 .blip.tv
 /blip.tv
@@ -227,6 +228,7 @@ gb.chinatimes.com/gate/gb/*2007Cti-News
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 news.chinatimes.com/2007Cti/2007Cti-News/2007Cti-News-Content/0,4521,130505
 chinaway.org
+||chinaweekly.com
 chinesenewsnet.com
 .chinesepen.org
 ||chinesepen.org
@@ -540,6 +542,7 @@ zh.globalvoicesonline.org
 ||www.kunalanand.com
 ||feeds.limi.net
 ||www.liteapplications.com
+||blog.llvm.org
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
 ||twitter.missiu.com
@@ -824,6 +827,7 @@ mitbbs.com
 .mixx.com
 ||mixx.com
 mm36c.com
+||mmaaxx.com
 |http://maomy.motime.com/
 |http://www.moztw.org
 !--.mp may be removed some time
@@ -1045,6 +1049,8 @@ rti.org.tw
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ruten.com.tw
 .ruyiseek.com
+.rxhj.net
+||rxhj.net
 
 !--------------------------SS--------------------------
 ||s-a.cc
@@ -1446,6 +1452,7 @@ blog.xuite.net
 ||photo.xuite.net
 ||xuming.net
 xvediox.com
+||xxxx.com.au
 xys.org
 xysblogs.org
 .xysforum.org
@@ -1466,6 +1473,7 @@ news.yam.com
 yilubbs.com
 .yogichen.org
 ||yogichen.org
+yong.hu
 forum.yorkbbs.ca
 .youjizz.com
 ||youjizz.com
@@ -1634,7 +1642,8 @@ zh.wikipedia.org*%E9%83%AD%E4%BC%AF%E9%9B%84
 zh.wikipedia.org*%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E4%BF%9D%E5%8D%AB%E6%94%AF%E9%98%9F
 !--He Guo Qiang
 zh.wikipedia.org*%E8%B4%BA%E5%9B%BD%E5%BC%BA
-!--Hu Jia (She Hui Huo Dong Jia)
+!--Hu Jia (She Hui Huo Dong Jia) (+Redir)
+zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%281973%E5%B9%B4%29
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
 zh.wikipedia.org*%E8%83%A1%E9%94%A6%E6%B6%9B
