@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3GQCPcFH17WA1bHaojDfMQ
+! Checksum: movtpqi1fUcRkLI06ogqpA
 ! Expires: 12h
-! Last Modified:  Tue, 29 Dec 2009 20:03:09 +0800
+! Last Modified:  Thu, 31 Dec 2009 17:16:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -579,6 +579,7 @@ code.google.com*p*autoproxy*updates*list
 !--Feng Zheng Hu
 docs.google.com*view*id*dg5mtmj9_8g3hk27f5
 docs.google.com*View*id*dg5mtmj9_3188x48zcn
+feedproxy.google.com
 |http:*groups.google.com*group
 !--groups.google.com*group*bypassgfw
 !--groups.google.com*group*cn.bbs.comp.dotnet
@@ -710,6 +711,7 @@ blog.jackjia.com
 ||jdev.tw/
 jeanyim.com
 jieshibaobao.com
+jinn.li
 .jiruan.net
 ||jkforum.net
 ||jobacle.com
