@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VMvjLij6YfMW2az9iUOCSw
+! Checksum: wh8mkC06JeN4xNEe9jd83w
 ! Expires: 12h
-! Last Modified:  Fri, 01 Jan 2010 18:46:16 +0800
+! Last Modified:  Fri, 01 Jan 2010 19:06:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -144,6 +144,7 @@ boltbrowser.com*download
 .bot.nu
 briian.com
 brightkite.com
+bspon.com
 .btmon.com
 buboo.tw
 .budaedu.org
@@ -1070,6 +1071,8 @@ sesawe.net
 .sesawe.org
 .settv.com
 ||seul.org
+.sevenload.com
+||sevenload.com
 .sexinsex.net
 !--IP of SexInSex
 67.220.91.23
@@ -1349,6 +1352,9 @@ ustream.tv
 www.vansky.com
 ||vapurl.com
 veoh.com
+|http://verizon.net
+|http://www.verizon.net
+mysite.verizon.net
 ||verybs.com
 .vft.com.tw
 .videosz.com
