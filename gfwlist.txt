@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FQC1qmJW8mjSay+7sYs6eA
+! Checksum: VMvjLij6YfMW2az9iUOCSw
 ! Expires: 12h
-! Last Modified:  Thu, 31 Dec 2009 17:32:22 +0800
+! Last Modified:  Fri, 01 Jan 2010 18:46:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -351,6 +351,7 @@ xys.dxiong.com
 
 !--------------------------EE--------------------------
 e-info.org.tw
+.e-traderland.net/board
 ||e71fanatics.com
 ||easylife.tw
 easylinuxcds.com
@@ -369,8 +370,8 @@ epochtimes.com
 etaiwannews.com
 .evanlife.org.hk
 .exblog.jp
-.extratorrents.com
-||extratorrents.com
+.extratorrent.com
+||extratorrent.com
 eyny.com
 
 !--------------------------FF--------------------------
@@ -655,6 +656,7 @@ hkgolden.com
 .hkgreenradio.org/home
 .hkheadline.com*blog
 news.hkheadline.com*instantnews
+hkisee.com
 hkjc.com
 .hkjp.org
 .hkmensa.net
@@ -669,6 +671,7 @@ img129.hotlinkimage.com
 ||hqwalls.net
 hrichina.org
 .hrw.org
+ktzhk.com
 ||huhaitai.com
 huitter.com
 hulu.com
