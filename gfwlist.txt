@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 10U1f5aH7/eDGG/1aDucfA
+! Checksum: gNTxk9/VMdb2dgOkP0aAEQ
 ! Expires: 12h
-! Last Modified:  Sat, 02 Jan 2010 21:53:36 +0800
+! Last Modified:  Sat, 02 Jan 2010 22:18:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -135,7 +135,6 @@ bignews.org
 ||bloglines.com
 ||blogs.com
 @@||www.blogs.com
-||blogsmithmedia.com
 .blogsome.com
 .blogtd.org
 ||blogtd.org
