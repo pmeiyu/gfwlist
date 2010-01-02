@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gNTxk9/VMdb2dgOkP0aAEQ
+! Checksum: c+SnXvyPoR2AunP7VmwxdQ
 ! Expires: 12h
-! Last Modified:  Sat, 02 Jan 2010 22:18:49 +0800
+! Last Modified:  Sun, 03 Jan 2010 03:46:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -332,7 +332,6 @@ dongtaiwang.com
 ||download.hr
 ||doxygen.org
 doubleaf.com
-dreamreload.com
 |http://www.dpp.org.tw/
 ||drikin.com
 ||drivingitalia.net
