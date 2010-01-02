@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yMas7mvlHaU39C4+C9VAlg
+! Checksum: /NLuuk63IfosEnBEIgBLxg
 ! Expires: 12h
-! Last Modified:  Fri, 01 Jan 2010 14:33:35 +0800
+! Last Modified:  Sat, 02 Jan 2010 21:36:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1094,13 +1094,15 @@ shenshou.org
 ||shooshtime.com
 |http://ch.shvoong.com/
 simpleproductivityblog.com
+bbs.sina.com/
+bbs.sina.com%2F
 blog.sina.com.hk
 blog.sina.com.tw
 |http://books.sina.com.tw
-||dailynews.sina.com
+||dailynews.sina.com/
 forum.sina.com.hk
 |http://magazines.sina.com.tw
-||news.sina.com^
+||news.sina.com/
 news.singtao.ca
 ||cdp.sinica.edu.tw
 ||sippey.com
@@ -1416,8 +1418,6 @@ secure.wikimedia.org
 worldjournal.com
 
 !-------------Wordpress Blog-----
-!||blackberry.wordpress.org
-!||iphone.wordpress.org
 !||blog.bittorrent.com
 !||blogmaverick.com
 !||blog.drakengren.com
@@ -1436,6 +1436,7 @@ worldjournal.com
 !@@http://s1.wordpress.com/
 !@@http://s2.wordpress.com/
 !@@http://www.wordpress.com
+zh-cn.wordpress.com
 
 ||wormsculptor.com
 wowwiki.com
