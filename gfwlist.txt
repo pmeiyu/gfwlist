@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /NLuuk63IfosEnBEIgBLxg
+! Checksum: 10U1f5aH7/eDGG/1aDucfA
 ! Expires: 12h
-! Last Modified:  Sat, 02 Jan 2010 21:36:33 +0800
+! Last Modified:  Sat, 02 Jan 2010 21:53:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1099,10 +1099,11 @@ bbs.sina.com%2F
 blog.sina.com.hk
 blog.sina.com.tw
 |http://books.sina.com.tw
-||dailynews.sina.com/
+dailynews.sina.com/
+dailynews.sina.com%2F
 forum.sina.com.hk
 |http://magazines.sina.com.tw
-||news.sina.com/
+|http://news.sina.com/
 news.singtao.ca
 ||cdp.sinica.edu.tw
 ||sippey.com
