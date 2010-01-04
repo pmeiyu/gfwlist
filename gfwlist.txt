@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: c+SnXvyPoR2AunP7VmwxdQ
+! Checksum: vThVeHqe16LkOM7B48CCxQ
 ! Expires: 12h
-! Last Modified:  Sun, 03 Jan 2010 03:46:56 +0800
+! Last Modified:  Mon, 04 Jan 2010 14:38:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -24,6 +24,7 @@
 info.51.ca
 ||520.be
 5maodang.com
+||6-4.net
 6park.com
 64memo.com
 64tianwang.com
@@ -726,6 +727,7 @@ jinn.li
 ||wiki.js-kit.com
 .junefourth-20.net
 |http://junefourth-20.net
+||justgot.info
 justsoit.com
 
 !--------------------------KK--------------------------
