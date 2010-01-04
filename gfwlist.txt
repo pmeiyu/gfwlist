@@ -1,12 +1,13 @@
 [AutoProxy 0.2.9]
-! Checksum: vThVeHqe16LkOM7B48CCxQ
+! Checksum: y5twFsneo4rdXBsiQaTBeQ
 ! Expires: 12h
-! Last Modified:  Mon, 04 Jan 2010 14:38:03 +0800
+! Last Modified:  Mon, 04 Jan 2010 23:05:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 1-apple.com.tw
 |http://nsf.110mb.com
+||z-o-o-m.110mb.com
 .141hongkong.com
 .18p2p.com
 1bang1.cn
@@ -42,6 +43,7 @@ info.51.ca
 .aboutus.org
 ||forum.addonsmirror.net
 ||wiki.addonsmirror.net
+.adiscuz.info
 .adult168.com
 advanscene.com
 ||aenhancers.com
@@ -195,6 +197,7 @@ catholic.org.tw*catholic
 .ccc.de
 |http://ccc.de/
 www.ccdtr.org
+.cctongbao.com/article/2078732
 |http://www.cdef.org
 |http://www.cdnews.com.tw
 www.cdp1998.org
@@ -296,6 +299,7 @@ cuihua.org
 |http://*t.waiwaier.com
 |http://*s.zuo.la
 
+.daigou.in
 .dailymotion.com
 ||dailymotion.com
 dajiyuan.com
@@ -323,6 +327,7 @@ discuss.com.hk
 ||dlsite.com
 ||dmtcs.org
 |http://www.docbook.org/
+.dojin.com
 ||dokoda.jp
 dongde.com
 dongtaiwang.com
@@ -334,6 +339,7 @@ dongtaiwang.com
 ||doxygen.org
 doubleaf.com
 |http://www.dpp.org.tw/
+.dream2006.net
 ||drikin.com
 ||drivingitalia.net
 ||droidie.com
@@ -358,6 +364,7 @@ e-info.org.tw
 easylinuxcds.com
 hkjp.easyweb.hk
 ebookee.com
+bbs.ecstart.com
 edoors.com
 |http://www.edubridge.com/
 ||tor.eff.org
@@ -525,6 +532,7 @@ zh.globalvoicesonline.org
 ||www.earthhour.org
 ||s.evernote.com
 ||evhead.com
+||fatvat.co.uk
 ||mclee.foolme.net
 ||freeholidaywifi.com
 ||www.frienddeck.com
@@ -633,6 +641,7 @@ h1n1china.org
 |http://hackaday.com/
 ||hackthatphone.com
 ||hackthatphone.net
+||hakkatv.org.tw
 ||haoren.com
 ||happiness-project.com
 ||happyradio.com.tw
@@ -697,6 +706,7 @@ hulu.com
 internetfreedom.org
 ||internetpopculture.com
 ||iphonehacks.com
+||iranshahr.com
 is.gd/1VO1f
 is.gd/1VOp7
 ||ishawn.net
@@ -708,6 +718,8 @@ is.gd/1VOp7
 .itweet.net
 |http://itweet.net
 yy.iyatou.com/archives/1042
+.iyin.net
+||iyin.net
 .izaobao.com
 .izaobao.us
 @@|http*//www.izaobao.com
@@ -720,6 +732,7 @@ jeanyim.com
 jieshibaobao.com
 jinn.li
 .jiruan.net
+.jizzhut.com
 ||jkforum.net
 ||jobacle.com
 ||jounin.net
@@ -859,6 +872,7 @@ sidekick.myblog.hk
 .nakido.com
 ||nakido.com
 cyberghost.natado.com
+.ncn.org
 www.ned.org
 ||nesn.com
 net.ru
@@ -956,6 +970,7 @@ plurk.com
 ||plurktemplates.com
 .plus28.com
 .plusbb.com
+.pmates.com
 ||abc.pp.ru
 |http://dlstatusbar.proboards43.com/
 prozz.net
@@ -1010,6 +1025,8 @@ psiphon.ca
 python.org*download
 
 !--------------------------QQ--------------------------
+.qienkuen.org
+||qienkuen.org
 qixianglu.cn
 bbs.qoos.com
 space.qoos.com
@@ -1189,6 +1206,7 @@ tiananmenmother.org
 |http://tibet.com
 tibet.net
 http://www.time.com/time/time100/leaders/profile/rebel.html
+||blog.tiney.com
 ||tinypaste.com
 ||tinyurl.com/gfwlist
 .tistory.com
@@ -1215,6 +1233,7 @@ tube8.com
 tuidang.net
 .tuite.de
 ||tuite.de
+bbs.tuitui.info
 ||turningtorso.com
 
 !-------------Tumblr-----
@@ -1656,6 +1675,8 @@ zh.wikipedia.org*%E9%83%AD%E4%BC%AF%E9%9B%84
 zh.wikipedia.org*%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E4%BF%9D%E5%8D%AB%E6%94%AF%E9%98%9F
 !--He Guo Qiang
 zh.wikipedia.org*%E8%B4%BA%E5%9B%BD%E5%BC%BA
+!--Hou De Jian
+zh.wikipedia.org*%E4%BE%AF%E5%BE%B7%E5%BB%BA
 !--Hu Jia (She Hui Huo Dong Jia) (+Redir)
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%281973%E5%B9%B4%29
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
