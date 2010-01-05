@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VK+vB+lTinJw1skqx+zZ9g
+! Checksum: e6d5BbF0K6Z5Z8PaCo7jkg
 ! Expires: 12h
-! Last Modified:  Tue, 05 Jan 2010 22:24:43 +0800
+! Last Modified:  Tue, 05 Jan 2010 22:30:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -848,6 +848,7 @@ mitbbs.com
 ||mixx.com
 mm36c.com
 ||mmaaxx.com
+||monkeeh.com
 |http://maomy.motime.com/
 |http://www.moztw.org
 !--.mp may be removed some time
