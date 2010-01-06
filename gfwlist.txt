@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: e6d5BbF0K6Z5Z8PaCo7jkg
+! Checksum: 6rShaQ/6JPDG89q2fG22qA
 ! Expires: 12h
-! Last Modified:  Tue, 05 Jan 2010 22:30:21 +0800
+! Last Modified:  Wed, 06 Jan 2010 21:50:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -19,6 +19,7 @@
 3boys2girls.com
 |http://3cc.cc/
 |http://www.3cc.cc/
+||3park.net
 .4tube.com
 ||4tube.com
 4shared.com
@@ -344,6 +345,7 @@ doubleaf.com
 ||drikin.com
 ||drivingitalia.net
 ||droidie.com
+||dtiblog.com
 ||duanwz.com
 ||duckmylife.com
 duping.net
@@ -1181,6 +1183,7 @@ blog.syx86.cn/2009/09/puff
 .taiwandaily.net
 ||taiwandaily.net
 takungpao.com
+||tangben.com
 |http://tansioksiok.com/
 .taolun.info
 ||taolun.info
@@ -1423,6 +1426,7 @@ www.wet123.com
 |http://widget.wetpaintserv.us/
 wetpussygames.com
 wezhiyong.org
+||wglm.net
 .whitehats.com
 ||whyx.org
 wikidot.com
@@ -1475,6 +1479,7 @@ wukangrui.net
 /xft.de/*
 xh4n.cn/blog
 xiaoma.org
+|http://xijie.wordpress.com/
 xinsheng.net
 |http://www.xinhuanet.org/
 .xmarks.com
