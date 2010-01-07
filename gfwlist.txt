@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /+33gr+AbT180WDJeOSYTg
+! Checksum: 6WdoUV3l1tYKLmFrpVgG4Q
 ! Expires: 12h
-! Last Modified:  Thu, 07 Jan 2010 21:52:55 +0800
+! Last Modified:  Thu, 07 Jan 2010 22:09:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -137,6 +137,7 @@ bignews.org
 .blogcatalog.com
 ||blogcatalog.com
 |http://*blogger.com
+||blog.immunet.com
 .bloglines.com
 ||bloglines.com
 ||blogs.com
@@ -429,6 +430,8 @@ findbook.tw
 !--|http://farm4.static.flickr.com
 .flickr.com/photos/digitalboy100
 .flickr.com/photos/winterkanal
+
+||flickroom.org
 
 ||tradinggoddess.comyuming.flnet.org
 www.forum4hk.com
@@ -806,6 +809,7 @@ liveleak.com
 .longhair.hk
 ||lookingglasstheatre.org
 .lookpic.com
+||loudtwitter.com
 .lubetube.com
 ||lubetube.com
 
@@ -1552,6 +1556,7 @@ www.zaurus.org.uk
 zhengjian.org
 ||zhongmeng.org
 .zoozle.net
+||zuihulu.net
 tor.zuo.la/download.html
 tor.zuo.la/easy-download.html.zh-cn
 .zuola.com
