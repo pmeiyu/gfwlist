@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Avebp5JBZqzCohLjgzmdKQ
+! Checksum: xwhtOyIfKUsCxIGgP6Hv0Q
 ! Expires: 12h
-! Last Modified:  Thu, 07 Jan 2010 19:52:26 +0800
+! Last Modified:  Thu, 07 Jan 2010 21:13:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -96,6 +96,7 @@ avno1.com
 !--------------------------BB--------------------------
 .babedump.com
 forum.baby-kingdom.com
+||babylon.com
 backchina.com
 backpackers.com.tw
 .badongo.com
@@ -1099,6 +1100,7 @@ sesawe.net
 .sexinsex.net
 !--IP of SexInSex
 67.220.91.23
+||sexyandfunny.com
 .sexyandshocking.com
 ||sexyandshocking.com
 .sexyclips.org
@@ -1227,6 +1229,7 @@ tokyo-hot.com
 topsy.com
 ||tornadoweb.org
 torproject.org
+||totallynsfw.org
 ||tr.im/DZ0o
 ||trackon.org
 ||tripod.com
@@ -1402,6 +1405,7 @@ www.voy.com
 wallornot.org
 ||wangafu.net
 |http://blog.wangcongming.info
+|http://wlx.sowiki.net
 wangruoshui.net
 www.wangruowang.org
 ||we.bs^
@@ -1784,6 +1788,8 @@ zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87
 zh.wikipedia.org*%E6%B8%A9%E5%AE%B6%E5%AE%9D
 !--Wang Le Quan
 zh.wikipedia.org*%E7%8E%8B%E4%B9%90%E6%B3%89
+!--Wang Li Xiong
+zh.wikipedia.org*%E7%8E%8B%E5%8A%9B%E9%9B%84
 !--Wang Yang
 zh.wikipedia.org*%E6%B1%AA%E6%B4%8B
 !--Wen Chuan Di Zhen
