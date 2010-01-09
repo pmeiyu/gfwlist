@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6WdoUV3l1tYKLmFrpVgG4Q
+! Checksum: Z/e5yoaPk9sYodu+WpWErw
 ! Expires: 12h
-! Last Modified:  Thu, 07 Jan 2010 22:09:34 +0800
+! Last Modified:  Sat, 09 Jan 2010 19:32:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1536,7 +1536,8 @@ youthbao.com
 .youthnetradio.org/tmit/forum
 blog.youthwant.com.tw
 topic.youthwant.com.tw
-youtube.com
+.youtube.com
+||youtube.com
 !--hk.youtube.com
 !--tw.youtube.com
 !--@@youtube.com/get_video
