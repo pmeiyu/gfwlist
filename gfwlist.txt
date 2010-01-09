@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Z/e5yoaPk9sYodu+WpWErw
+! Checksum: IOWNE64rVXRn11103WRXtw
 ! Expires: 12h
-! Last Modified:  Sat, 09 Jan 2010 19:32:43 +0800
+! Last Modified:  Sat, 09 Jan 2010 21:28:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -710,6 +710,7 @@ hulu.com
 |http://im.tv/
 |http://www.im.tv/
 ||imageshack.us
+.imdb.com
 ||imdb.com/
 .imlive.com
 |http://www.inmediahk.net/
