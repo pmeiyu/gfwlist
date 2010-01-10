@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: IOWNE64rVXRn11103WRXtw
+! Checksum: hf7AYA76U2juYe/H2QE/Xg
 ! Expires: 12h
-! Last Modified:  Sat, 09 Jan 2010 21:28:55 +0800
+! Last Modified:  Sun, 10 Jan 2010 23:37:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -58,6 +58,7 @@ advanscene.com
 allhabit.com
 alliance.org.hk
 ||alonweb.com
+||alternate-tools.com
 !--|http://*www.amazon.com
 @@https://s3.amazonaws.com
 amiblockedornot.com
@@ -684,6 +685,7 @@ hongmeimei.com
 .hootsuite.com
 ||hootsuite.com
 ||hopto.org
+||hostingpics.net
 img129.hotlinkimage.com
 ||hotspotshield.com
 .hotupub.com
@@ -1060,6 +1062,7 @@ ranyunfei.com
 rcinet.ca
 .read100.com
 .realraptalk.com
+||reloaded.org
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
@@ -1409,6 +1412,7 @@ www.voy.com
 !--------------------------WW--------------------------
 ||w3schools.com
 .wahas.com
+||waikeung.org/php_wind
 wallornot.org
 ||wangafu.net
 |http://blog.wangcongming.info
