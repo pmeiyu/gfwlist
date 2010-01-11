@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hf7AYA76U2juYe/H2QE/Xg
+! Checksum: NBgXRSxVotBlN0Amvb7BMg
 ! Expires: 12h
-! Last Modified:  Sun, 10 Jan 2010 23:37:54 +0800
+! Last Modified:  Mon, 11 Jan 2010 23:19:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -147,6 +147,7 @@ bignews.org
 .blogtd.org
 ||blogtd.org
 boltbrowser.com*download
+||bomb.tv
 ||books.com.tw
 .bot.nu
 briian.com
@@ -986,6 +987,7 @@ plurk.com
 .plus28.com
 .plusbb.com
 .pmates.com
+||pornrapidshare.com
 ||abc.pp.ru
 |http://dlstatusbar.proboards43.com/
 prozz.net
