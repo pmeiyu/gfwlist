@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XKsUATKtjm+R9wzUlYtYBA
+! Checksum: MWpNKgBhpLc7g6VO95xTsA
 ! Expires: 12h
-! Last Modified:  Tue, 12 Jan 2010 21:28:14 +0800
+! Last Modified:  Tue, 12 Jan 2010 22:50:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -12,6 +12,7 @@
 .18p2p.com
 1bang1.cn
 .1bao.org
+||1pondo.tv
 .2000fun.com*bbs
 2008xianzhang.info
 ||2photo.ru
@@ -138,7 +139,9 @@ bignews.org
 .blogcatalog.com
 ||blogcatalog.com
 |http://*blogger.com
+||blogimg.jp
 ||blog.immunet.com
+||blog.kangye.org
 .bloglines.com
 ||bloglines.com
 ||blogs.com
@@ -436,6 +439,7 @@ findbook.tw
 ||flickroom.org
 
 ||tradinggoddess.comyuming.flnet.org
+||formosaisland.org
 www.forum4hk.com
 ||fotop.net
 .free.fr/adsl
@@ -877,6 +881,7 @@ msn.com.tw
 sidekick.myblog.hk
 |http://www.mycould.com/
 ||myeclipseide.com
+||myforum.com.uk
 .myfreshnet.com
 ||myparagliding.com
 .mysinablog.com
@@ -1403,6 +1408,7 @@ mysite.verizon.net
 .videosz.com
 ||videosz.com
 ||vidoemo.com
+|http://video.tiscali.it/canali/truveo/678684442.html
 .vimeo.com
 ||vimeo.com
 |http://www.visuwords.com/
