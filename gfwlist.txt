@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: duORRNBcJgf+wKCAsXQgIw
+! Checksum: GS95nBph7Glw0ic6YbsiuQ
 ! Expires: 12h
-! Last Modified:  Wed, 13 Jan 2010 22:49:51 +0800
+! Last Modified:  Wed, 13 Jan 2010 23:47:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -91,7 +91,6 @@ www.asiademo.org
 atlaspost.com
 .atnext.com
 ||autopattic.com
-|http://www.autoproxy.org
 ||www.avc.com
 avno1.com
 
@@ -247,7 +246,6 @@ chinesenewsnet.com
 ||chinesepen.org
 .chinesetalks.net/ch
 .chingcheong.com
-chromeexperiments.com
 www.cityrag.com
 psiphon.civisec.org
 |http://www.civisec.org
@@ -413,14 +411,12 @@ web.fc2.com
 forum*.fdzone.org
 feedbooks.mobi
 feeds2.feedburner.com/chinagfwblog
-||feedego.com
 ||feedzshare.com
 feer.com
 .fengzhenghu.com
 ||fengzhenghu.com
 http://ff.im
 @@|https://ff.im
-||fftogo.com
 .fileden.com
 |http://fileden.com
 fillthesquare.org
@@ -502,7 +498,6 @@ gdzf.org
 .geekcook.org
 ||geekcook.org
 ||geekinheels.com
-||www.geektang.com
 .geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
 geocities.jp
@@ -530,14 +525,13 @@ zh.globalvoicesonline.org
 ||amoiist.com
 ||developer.android.com
 ||source.android.com
-||blog.bao3.com.cn
 ||www.benjamingolub.com
 ||rss.berryreview.com
 ||www.bestwebproxy.net
+||chromeexperiments.com
 ||blog.chromium.org
 ||dev.chromium.org
 @@||build.chromium.org
-||myc.cnkk.org
 ||rss.cnn.com
 ||feeds.digg.com
 ||blog.doughellmann.com
@@ -547,6 +541,8 @@ zh.globalvoicesonline.org
 ||s.evernote.com
 ||evhead.com
 ||fatvat.co.uk
+||feedego.com
+||fftogo.com
 ||mclee.foolme.net
 ||freeholidaywifi.com
 ||www.frienddeck.com
@@ -556,7 +552,6 @@ zh.globalvoicesonline.org
 ||blog.go2web20.net
 ||www.greasespot.net
 ||blog.growlforwindows.com
-||blog.helloell.com
 ||hogbaysoftware.com
 ||blog.jsquaredjavascript.com
 ||tomatovpn.keithmoyer.com
@@ -586,7 +581,14 @@ zh.globalvoicesonline.org
 ||www.zimbu.org
 
 !-------------Google.ghs.72.14.203.121-----
-
+!-|http://www.autoproxy.org
+!-||blog.bao3.com.cn
+!-||myc.cnkk.org
+!-||www.geektang.com
+!-||blog.helloell.com
+!-||gae.kangye.org
+!-||log.keso.cn
+!-|http://blog.wangcongming.info
 
 !-------------Google.other-----
 |https://calendar.google.com
@@ -765,11 +767,9 @@ justsoit.com
 
 !--------------------------KK--------------------------
 karayou.com
-||gae.kangye.org
 kanzhongguo.com
 .keezmovies.com
 ||keezmovies.com
-||log.keso.cn
 .kidoors.com
 .kingstone.com.tw
 .kkbox.com.tw
@@ -1425,7 +1425,6 @@ www.voy.com
 ||waikeung.org/php_wind
 wallornot.org
 ||wangafu.net
-|http://blog.wangcongming.info
 |http://wlx.sowiki.net
 wangruoshui.net
 www.wangruowang.org
