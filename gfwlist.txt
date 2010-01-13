@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3QN7sPB5XPseVFdO3C7tiA
+! Checksum: pKew3xFC37KnhV/DPMN3Zg
 ! Expires: 12h
-! Last Modified:  Thu, 14 Jan 2010 01:55:07 +0800
+! Last Modified:  Wed, 13 Jan 2010 22:24:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -125,6 +125,7 @@ beijingspring.com
 .berlintwitterwall.com
 ||berlintwitterwall.com
 bestforchina.org
+||beyondcow.com
 bigandfree.com
 bignews.org
 .bigsound.org/portnoy
@@ -918,6 +919,7 @@ homepage2.nifty.com
 !--||ning.com
 @@||www.ning.com
 no-ip.com
+||noobbox.com
 ||notebookaddon.tk
 .nownews.com/cybersex
 |http://www.nownews.com/box
@@ -1160,6 +1162,7 @@ m.slandr.net
 forum.slime.com.tw
 ||snsanalystics.com
 .sod.co.jp
+||so-ga.net
 ||soup.io/
 @@||static.soup.io
 .slinkset.com
@@ -1384,7 +1387,7 @@ paper.udn.com
 video.udn.com
 uighurbiz.net
 ||ultrawebsitehosting.com
-.ultraxs.com
+||ultraxs.com
 unblog.fr
 uncyclopedia.
 .uni.cc
