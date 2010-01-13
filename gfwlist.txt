@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GS95nBph7Glw0ic6YbsiuQ
+! Checksum: 3QN7sPB5XPseVFdO3C7tiA
 ! Expires: 12h
-! Last Modified:  Wed, 13 Jan 2010 23:47:59 +0800
+! Last Modified:  Thu, 14 Jan 2010 01:55:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -65,6 +65,8 @@ alliance.org.hk
 amiblockedornot.com
 .amnesty.org
 amnestyusa.org
+.amoiist.com
+||amoiist.com
 anchorfree.com
 |http://www.andylau.com
 ||angel.hk
@@ -521,8 +523,6 @@ zh.globalvoicesonline.org
 
 !-------------Google.ghs-----
 ||allentian.com
-.amoiist.com
-||amoiist.com
 ||developer.android.com
 ||source.android.com
 ||www.benjamingolub.com
@@ -537,7 +537,6 @@ zh.globalvoicesonline.org
 ||blog.doughellmann.com
 ||downforeveryoneorjustme.com
 ||dumblittleman.com
-||www.earthhour.org
 ||s.evernote.com
 ||evhead.com
 ||fatvat.co.uk
@@ -547,7 +546,7 @@ zh.globalvoicesonline.org
 ||freeholidaywifi.com
 ||www.frienddeck.com
 !--http://blog.friendfeed.com
-||blog.gatein.or
+||blog.gatein.org
 ||feeds.gawker.com
 ||blog.go2web20.net
 ||www.greasespot.net
@@ -567,11 +566,11 @@ zh.globalvoicesonline.org
 ||twitter.missiu.com
 ||feeds.mobileread.com
 ||blog.naanstudio.com
-||http://blog.nihilogic.dk
+||blog.nihilogic.dk
 ||picky.olivida.com
 ||blog.persistent.info
 ||blog.seeminglee.com
-||http://rss.slashdot.org
+||rss.slashdot.org
 ||socialwhois.com
 ||www.techfob.com
 ||blog.thesilentnumber.me
