@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MWpNKgBhpLc7g6VO95xTsA
+! Checksum: duORRNBcJgf+wKCAsXQgIw
 ! Expires: 12h
-! Last Modified:  Tue, 12 Jan 2010 22:50:38 +0800
+! Last Modified:  Wed, 13 Jan 2010 22:49:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -584,6 +584,9 @@ zh.globalvoicesonline.org
 ||willhains.com
 ||www.writeroom.ws
 ||www.zimbu.org
+
+!-------------Google.ghs.72.14.203.121-----
+
 
 !-------------Google.other-----
 |https://calendar.google.com
