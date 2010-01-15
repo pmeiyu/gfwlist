@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 977wsee6AwcJE/2d/THjyA
+! Checksum: 5tuNOL6w1Ce4VDmGwPOAeg
 ! Expires: 12h
-! Last Modified:  Fri, 15 Jan 2010 10:34:30 +0800
+! Last Modified:  Fri, 15 Jan 2010 22:09:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -349,6 +349,7 @@ dongtaiwang.com
 ||download.hr
 ||doxygen.org
 doubleaf.com
+dphk.org
 |http://www.dpp.org.tw/
 .dream2006.net
 ||drikin.com
@@ -450,6 +451,7 @@ kineox.free.fr
 ||puttycm.free.fr
 ||free-culture.cc
 freeciv.org
+.freedl.org
 .freedomhouse.org
 ||freedomhouse.org
 ||freedur.com
@@ -503,6 +505,7 @@ gdzf.org
 .geekcook.org
 ||geekcook.org
 ||geekinheels.com
+.genie.x0.com
 .geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
 geocities.jp
@@ -1249,6 +1252,7 @@ tibet.net
 http://www.time.com/time/time100/leaders/profile/rebel.html
 ||blog.tiney.com
 ||tinypaste.com
+||i45.tinypic.com
 ||tinyurl.com/gfwlist
 .tistory.com
 tldp.org
