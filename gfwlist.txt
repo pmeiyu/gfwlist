@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0z90F0stLBKb2EOqa5e5wg
+! Checksum: 977wsee6AwcJE/2d/THjyA
 ! Expires: 12h
-! Last Modified:  Fri, 15 Jan 2010 10:28:03 +0800
+! Last Modified:  Fri, 15 Jan 2010 10:34:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1113,6 +1113,7 @@ rti.org.tw
 ||salvation.org.hk
 ||sandradodd.com
 .sanmin.com.tw
+||say2.info
 scribd.com
 secretchina.com
 .seesmic.com
@@ -1240,6 +1241,7 @@ tiananmenmother.org
 .tiandixing.org
 |http://tiandixing.org
 .tianhuayuan.com
+tiantibooks.org
 .tianzhu.org
 .tibet.com
 |http://tibet.com
