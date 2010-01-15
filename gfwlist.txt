@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3HycCVhtEaTSKNssJLsPtw
+! Checksum: ALnekL/ijCXODAycanWQZw
 ! Expires: 12h
-! Last Modified:  Fri, 15 Jan 2010 22:13:47 +0800
+! Last Modified:  Fri, 15 Jan 2010 22:39:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -72,8 +72,10 @@ anchorfree.com
 ||angel.hk
 anonymizer.com
 anonymouse.org
-video.aol.ca*video-detail
+video.aol.ca/video-detail
+video.aol.co.uk/video-detail
 video.aol.com
+videoportal.aol.tw/video-detail
 ||bullog4cn.appspot.com
 ||free4internet.appspot.com
 ||gfw.appspot.com
@@ -329,6 +331,7 @@ de-sci.org
 democrats.org
 ||demogirl.com
 ||derekgooogle.com
+||desciclopedia.org
 ||destroytwitter.com
 .devkick.com
 ||devkick.com
@@ -614,6 +617,8 @@ google.com*analytics*zh-CN
 .google.com/gwt
 |http://www.google.com/search*q=dongtaiwang
 |http://www.google.com/search*free*gate
+!--Not blocked, just for convenient
+|http://www.google.com/url?
 |http://code.google.com/p/cngepi/downloads/
 code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
@@ -688,6 +693,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 ||hidemyass.com
 myweb.hinet.net
 hk-pub.com
+.hkbf.org
 hkcccl.org.hk
 global.hkepc.com*forum
 hkgolden.com
@@ -1410,6 +1416,7 @@ uighurbiz.net
 ||ultrawebsitehosting.com
 ||ultraxs.com
 unblog.fr
+uncyclomedia.org
 uncyclopedia.
 .uni.cc
 |http://unifoundry.com/
