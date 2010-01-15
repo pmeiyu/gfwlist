@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pKew3xFC37KnhV/DPMN3Zg
+! Checksum: yzUDG/arR5DiPdjnGaTpxQ
 ! Expires: 12h
-! Last Modified:  Wed, 13 Jan 2010 22:24:41 +0800
+! Last Modified:  Fri, 15 Jan 2010 17:55:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -516,6 +516,7 @@ getchu.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 ||golang.org
+gongmeng.info
 .gopetition.com
 ||gopetition.com
 ||greatfirewallofchina.net
@@ -777,6 +778,7 @@ kanzhongguo.com
 .kodiefiles.nl
 ||kompozer.net
 .ktop.com.tw
+.kui.name/event
 |http://kunalanand.com
 ||www.kyohk.net
 |http://www.kzeng.info/
@@ -905,6 +907,8 @@ netme.cc
 new-3lunch.net
 newcenturynews.com
 .newgrounds.com
+.newnews.ca
+||newnews.ca
 bbs.newsgroup.la
 bbs2.newsgroup.la
 forum.newsgroup.la
@@ -1148,6 +1152,7 @@ dailynews.sina.com%2F
 forum.sina.com.hk
 |http://magazines.sina.com.tw
 |http://news.sina.com/
+news.sina.com.tw
 news.singtao.ca
 ||cdp.sinica.edu.tw
 ||sippey.com
