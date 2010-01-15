@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ALnekL/ijCXODAycanWQZw
+! Checksum: 0nEPlipWVl0zDHjR3Bs29A
 ! Expires: 12h
-! Last Modified:  Fri, 15 Jan 2010 22:39:41 +0800
+! Last Modified:  Fri, 15 Jan 2010 23:11:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -186,6 +186,8 @@ book-bot.com
 |http://www.books.com.tw/
 boxcn.net/shared/v8dku73p1h
 boxun.com
+.boxun.tv
+||boxun.tv
 .boyis.com
 |http://mckk.bplaced.net
 .breakingtweets.com
@@ -222,6 +224,7 @@ cdpwu.org
 changkun.org
 .changingway.com
 |http://changingway.com/
+.changp.com
 .chatterous.com
 ||chatterous.com
 ||charlescooke.me.uk
@@ -691,6 +694,7 @@ hellotxt.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
 ||hidemyass.com
+||hikipedia.info
 myweb.hinet.net
 hk-pub.com
 .hkbf.org
@@ -713,6 +717,8 @@ hongmeimei.com
 img129.hotlinkimage.com
 ||hotspotshield.com
 .hotupub.com
+.hqcdp.org
+||hqcdp.org
 ||hqwalls.net
 hrichina.org
 .hrw.org
