@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5tuNOL6w1Ce4VDmGwPOAeg
+! Checksum: 3HycCVhtEaTSKNssJLsPtw
 ! Expires: 12h
-! Last Modified:  Fri, 15 Jan 2010 22:09:14 +0800
+! Last Modified:  Fri, 15 Jan 2010 22:13:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -250,6 +250,8 @@ chinesenewsnet.com
 .chinesetalks.net/ch
 .chingcheong.com
 www.cityrag.com
+.civicparty.hk
+||civicparty.hk
 psiphon.civisec.org
 |http://www.civisec.org
 .cjb.net
@@ -798,6 +800,7 @@ laomiu.com
 ||leecheukyan.org
 .lianyue.net
 ||lianyue.net
+||liberal.org.hk
 libertytimes.com.tw
 ||lifemotivations.com
 lifestream.fm
@@ -1524,6 +1527,8 @@ wukangrui.net
 xh4n.cn/blog
 xiaoma.org
 |http://xijie.wordpress.com/
+.xinmiao.com.hk
+||xinmiao.com.hk
 xinsheng.net
 |http://www.xinhuanet.org/
 .xmarks.com
@@ -1534,6 +1539,7 @@ xtube.com
 blog.xuite.net
 ||photo.xuite.net
 ||xuming.net
+xuzhiyong.net
 xvediox.com
 ||xxxx.com.au
 xys.org
