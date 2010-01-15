@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0nEPlipWVl0zDHjR3Bs29A
+! Checksum: Ec+Rneq5upG2ijYuVB1KeQ
 ! Expires: 12h
-! Last Modified:  Fri, 15 Jan 2010 23:11:57 +0800
+! Last Modified:  Fri, 15 Jan 2010 23:24:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -72,6 +72,8 @@ anchorfree.com
 ||angel.hk
 anonymizer.com
 anonymouse.org
+||about.aol.com
+||daol.aol.com
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
 video.aol.com
@@ -266,6 +268,7 @@ cmule.com
 .cmule.info
 ||cmule.info
 ||blog.cna.com.tw
+||famousblog.cna.com.tw
 .cnavista.com.tw*shop*stores_app
 ||cnbloggercon.org
 |http://cnbloggercon.org
@@ -696,6 +699,8 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 ||hidemyass.com
 ||hikipedia.info
 myweb.hinet.net
+.hjclub.info
+||hjclub.info
 hk-pub.com
 .hkbf.org
 hkcccl.org.hk
@@ -1096,6 +1101,8 @@ ranyunfei.com
 .rapidsharedata.com
 rcinet.ca
 .read100.com
+.readingtimes.com.tw
+||readingtimes.com.tw
 .realraptalk.com
 ||reloaded.org
 renminbao.com
