@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yzUDG/arR5DiPdjnGaTpxQ
+! Checksum: 0z90F0stLBKb2EOqa5e5wg
 ! Expires: 12h
-! Last Modified:  Fri, 15 Jan 2010 17:55:27 +0800
+! Last Modified:  Fri, 15 Jan 2010 10:28:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -258,6 +258,7 @@ ck101.com
 cmule.com
 .cmule.info
 ||cmule.info
+||blog.cna.com.tw
 .cnavista.com.tw*shop*stores_app
 ||cnbloggercon.org
 |http://cnbloggercon.org
@@ -445,6 +446,7 @@ www.forum4hk.com
 ||freemorenews.com
 kineox.free.fr
 ||firestorage.jp
+||fofg.org
 ||puttycm.free.fr
 ||free-culture.cc
 freeciv.org
@@ -519,6 +521,7 @@ zh.globalvoicesonline.org
 gongmeng.info
 .gopetition.com
 ||gopetition.com
+grandtrial.org
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
@@ -1135,6 +1138,7 @@ shapeservices.com
 .shaunthesheep.com
 ||shaunthesheep.com
 shenshou.org
+shenyunperformingarts.org
 ||shixiao.org
 ||shizhao.org
 .shizhao.org
@@ -1209,6 +1213,7 @@ blog.syx86.cn/2009/09/puff
 .t66y.com
 .tacem.org
 .taiwandaily.net
+||taiwantt.org.tw
 ||taiwandaily.net
 takungpao.com
 ||tangben.com
@@ -1258,6 +1263,8 @@ torproject.org
 ||totallynsfw.org
 ||tr.im/DZ0o
 ||trackon.org
+.trialofccp.org
+||trialofccp.org
 ||tripod.com
 @@||www.tripod.com
 .truveo.com
