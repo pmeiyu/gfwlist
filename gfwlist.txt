@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Ec+Rneq5upG2ijYuVB1KeQ
+! Checksum: HTEx0Ny72IM2JdJhSFoUxA
 ! Expires: 12h
-! Last Modified:  Fri, 15 Jan 2010 23:24:25 +0800
+! Last Modified:  Sat, 16 Jan 2010 21:46:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -39,6 +39,7 @@ info.51.ca
 ||9.ly
 ||909090909.info
 .92hg.com
+.99bbs.com
 
 !--------------------------AA--------------------------
 .aboluowang.com
@@ -47,7 +48,8 @@ info.51.ca
 ||forum.addonsmirror.net
 ||wiki.addonsmirror.net
 .adiscuz.info
-.adult168.com
+.adult168.coma
+adultfriendfinder.com
 advanscene.com
 ||aenhancers.com
 |http://www.aidsmuseum.cn/
@@ -99,6 +101,7 @@ atlaspost.com
 ||autopattic.com
 ||www.avc.com
 avno1.com
+||axureformac.com
 
 !--------------------------BB--------------------------
 .babedump.com
@@ -128,6 +131,7 @@ beijingspring.com
 .beiming.net
 .berlintwitterwall.com
 ||berlintwitterwall.com
+||best298.url.tw
 bestforchina.org
 ||beyondcow.com
 bigandfree.com
@@ -145,7 +149,7 @@ bignews.org
 .blogcatalog.com
 ||blogcatalog.com
 |http://*blogger.com
-||blogimg.jp
+blogimg.jp
 ||blog.immunet.com
 ||blog.kangye.org
 .bloglines.com
@@ -221,6 +225,7 @@ www.cdp1998.org
 cdpwu.org
 .cecc.gov
 |http://cecc.gov/
+||cenews.eu
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
 changkun.org
@@ -295,8 +300,11 @@ crd-net.org
 creaders.net
 crocodyl.org
 ||csuchen.de
+||ctvro.com
 .cuhkacs.org*~benng
 cuihua.org
+.cuiweiping.net
+||cuiweiping.net
 ||culture.tw
 ||cynscribe.com
 
@@ -321,6 +329,7 @@ cuihua.org
 |http://*s.zuo.la
 
 .daigou.in
+||photos.dailyme.com
 .dailymotion.com
 ||dailymotion.com
 dajiyuan.com
@@ -433,6 +442,7 @@ feer.com
 ||fengzhenghu.com
 http://ff.im
 @@|https://ff.im
+.fgmtv.org
 .fileden.com
 |http://fileden.com
 fillthesquare.org
@@ -459,6 +469,7 @@ www.forum4hk.com
 kineox.free.fr
 ||firestorage.jp
 ||fofg.org
+||fontyukle.com
 ||puttycm.free.fr
 ||free-culture.cc
 freeciv.org
@@ -527,6 +538,7 @@ getchu.com
 |http://ginx.com
 .girlsgonewild.com
 ||girlsgonewild.com
+.girlz-high.com
 ||glacierparkmagazine.com
 ||glennhilton.com
 globalmuseumoncommunism.org
@@ -584,6 +596,7 @@ grandtrial.org
 ||blog.louisgray.com
 ||twitter.missiu.com
 ||feeds.mobileread.com
+||mycleenr.com
 ||blog.naanstudio.com
 ||blog.nihilogic.dk
 ||picky.olivida.com
@@ -593,6 +606,7 @@ grandtrial.org
 ||socialwhois.com
 ||www.techfob.com
 ||blog.thesilentnumber.me
+||txt.io
 ||www.wavesandbox.com
 ||willhains.com
 ||www.writeroom.ws
@@ -673,6 +687,7 @@ gpass1.com
 twitter.grader.com
 great-firewall.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
+||gutenberg.org
 ||gwenbell.com
 
 !--------------------------HH--------------------------
@@ -689,6 +704,7 @@ hbo.com/docs/*/china
 |http://www.heartyit.com/
 .hecaitou.net
 ||hecaitou.net
+||hellonewyork.us
 hellotxt.com
 |http://www.hemidemi.com/
 .hemix.com
@@ -714,6 +730,7 @@ hkjc.com
 .hkjp.org
 .hkmensa.net
 hkreporter.com
+blog.hnjhj.com
 hongmeimei.com
 .hootsuite.com
 ||hootsuite.com
@@ -727,7 +744,7 @@ img129.hotlinkimage.com
 ||hqwalls.net
 hrichina.org
 .hrw.org
-ktzhk.com
+||hsjp.net
 ||huhaitai.com
 huitter.com
 hulu.com
@@ -815,6 +832,8 @@ kanzhongguo.com
 |http://www.lancsky.com/
 laomiu.com
 ||leecheukyan.org
+||leehare.cn
+||lenwhite.com
 .lianyue.net
 ||lianyue.net
 ||liberal.org.hk
@@ -924,6 +943,7 @@ sidekick.myblog.hk
 ||nakido.com
 cyberghost.natado.com
 .ncn.org
+||ncn.org
 www.ned.org
 ||nesn.com
 net.ru
@@ -972,6 +992,7 @@ omnitalk.
 ||on.cc^
 ||onebigfluke.com
 .oopsforum.com
+open.com.hk
 opera.com/mini
 ||mini.opera.com
 my.opera.com
@@ -998,6 +1019,7 @@ pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
 ||pbworks.com
 .pcdiscuss.com
+||pcflower.url.tw
 mypaper.pchome.com.tw
 |http://news.pchome.com.tw/
 pdetails.com
@@ -1134,6 +1156,7 @@ rti.org.tw
 
 !--------------------------SS--------------------------
 ||s-a.cc
+||s1heng.com
 .salvation.org.hk
 ||salvation.org.hk
 ||sandradodd.com
@@ -1177,6 +1200,8 @@ bbs.sina.com%2F
 blog.sina.com.hk
 blog.sina.com.tw
 |http://books.sina.com.tw
+news.sina.com.hk
+news.sina.com.tw
 dailynews.sina.com/
 dailynews.sina.com%2F
 forum.sina.com.hk
@@ -1204,6 +1229,7 @@ forum.slime.com.tw
 sneakme.net
 .sobees.com
 ||sobees.com
+||soft-artemis.com
 |http://en.softonic.com
 gmail-remote-command.en.softonic.com
 blog.sogoo.org
@@ -1255,6 +1281,7 @@ technorati.com
 ||teck.in/
 telecomspace.com
 ||thedieline.com
+||thedw.us
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
@@ -1299,12 +1326,14 @@ torproject.org
 tsquare.tv
 ||tttan.com
 .tttan.com
+||anon.inf.tu-dresden.de
 tube8.com
 tuidang.net
 .tuite.de
 ||tuite.de
 bbs.tuitui.info
 ||turningtorso.com
+||tuxmachines.org
 
 !-------------Tumblr-----
 ||tumblr.com
@@ -1345,6 +1374,7 @@ tvboxnow.com
 .gov.tw/
 .twbbs.net.tw
 twbbs.org
+||twblogger.com
 tweepml.org
 ||tweete.net
 |http://*m.tweete.net
@@ -1437,6 +1467,7 @@ uncyclopedia.
 |http://www.unknownspace.org/
 ||uocn.org
 |http://myshare.url.com.tw/
+||usacn.com
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ustream.tv
@@ -1476,6 +1507,7 @@ www.wangruowang.org
 webs-tv.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
+||webupd8.org
 webworkerdaily.com
 |http://www.weekmag.info/
 .wefong.com
@@ -1536,11 +1568,13 @@ zh-cn.wordpress.com
 wowwiki.com
 |http://wp.me/
 wretch.cc
+.wtfpeople.com
 wuerkaixi.com
 .wujie.net
 wukangrui.net
 
 !--------------------------XX--------------------------
+x1949x.com
 .xanga.com
 .xft.de/
 /xft.de/*
@@ -1604,6 +1638,7 @@ topic.youthwant.com.tw
 !-Youtube CDN
 ||ytimg.com
 ytht.net
+yuanming.net
 |http://www.yzzk.com/
 
 !--------------------------ZZ--------------------------
@@ -1618,8 +1653,8 @@ zhengjian.org
 ||zhongmeng.org
 .zoozle.net
 ||zuihulu.net
-tor.zuo.la/download.html
-tor.zuo.la/easy-download.html.zh-cn
+.zuo.la
+||zuo.la
 .zuola.com
 ||zuola.com
 zyzg.us
@@ -1720,6 +1755,8 @@ zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5
 zh.wikipedia.org*%E8%96%84%E7%86%99%E6%9D%A5
 !--Cai Ling
 zh.wikipedia.org*%E6%9F%B4%E7%8E%B2
+!--Cao Chang Qing
+zh.wikipedia.org*%E6%9B%B9%E9%95%B7%E9%9D%92
 !--Da Ji Yuan
 zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83
 !--Da Ji Yuan Shi Bao: zh-cn
