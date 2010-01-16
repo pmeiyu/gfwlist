@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HTEx0Ny72IM2JdJhSFoUxA
+! Checksum: 8eEN+0ryScmgnUepxKS7tw
 ! Expires: 12h
-! Last Modified:  Sat, 16 Jan 2010 21:46:57 +0800
+! Last Modified:  Sat, 16 Jan 2010 23:00:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -48,7 +48,7 @@ info.51.ca
 ||forum.addonsmirror.net
 ||wiki.addonsmirror.net
 .adiscuz.info
-.adult168.coma
+.adult168.com
 adultfriendfinder.com
 advanscene.com
 ||aenhancers.com
