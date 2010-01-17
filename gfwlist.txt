@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dAOVh2qL+yRXsmCYnMuWkQ
+! Checksum: /DCSN4eaqKkMvc3+alOcJQ
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 15:18:19 +0800
+! Last Modified:  Sun, 17 Jan 2010 15:23:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -263,6 +263,8 @@ chinesenewsnet.com
 ||chinesepen.org
 .chinesetalks.net/ch
 .chingcheong.com
+.citizenlab.org
+||citizenlab.org
 www.cityrag.com
 .civicparty.hk
 ||civicparty.hk
@@ -461,7 +463,6 @@ findbook.tw
 .flickr.com/photos/winterkanal
 
 ||flickroom.org
-
 ||tradinggoddess.comyuming.flnet.org
 ||formosaisland.org
 www.forum4hk.com
@@ -484,6 +485,8 @@ freeforums.org
 ||freehaven.net
 .freehostia.com
 @@www.freehostia.com
+.freelotto.com
+||freelotto.com
 freemoren.com
 freemorenews.com
 freetibet.org
@@ -1139,6 +1142,9 @@ revver.com
 |http://rfachina.com
 .rfi.fr
 ||rfi.fr
+||a.rimg.com.tw
+||b.rimg.com.tw
+||c.rimg.com.tw
 robertmao.com
 robtex.com
 ||ronjoneswriter.com
@@ -1617,6 +1623,8 @@ tw.*yahoo.com
 upcoming.yahoo.com
 video.yahoo.com/watch
 blog.yam.com
+.mymedia.yam.com
+||mymedia.yam.com
 n.yam.com
 news.yam.com
 ||yesbra.com
