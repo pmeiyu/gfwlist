@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 74cWbEigms6vCWT2HFMK2A
+! Checksum: dAOVh2qL+yRXsmCYnMuWkQ
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 13:40:23 +0800
+! Last Modified:  Sun, 17 Jan 2010 15:18:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -75,6 +75,7 @@ anchorfree.com
 anonymizer.com
 anonymouse.org
 ||about.aol.com
+||aolchannels.aol.com
 ||daol.aol.com
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
@@ -222,6 +223,7 @@ www.ccdtr.org
 |http://www.cdef.org
 |http://www.cdnews.com.tw
 www.cdp1998.org
+cdpweb.org
 cdpwu.org
 .cecc.gov
 |http://cecc.gov/
@@ -704,6 +706,7 @@ hbo.com/docs/*/china
 ||hecaitou.net
 ||hellonewyork.us
 hellotxt.com
+.hellouk.org/forum/lofiversion
 |http://www.hemidemi.com/
 .hemix.com
 ||heungkongdiscuss.com
@@ -769,6 +772,7 @@ hulu.com
 internetfreedom.org
 ||internetpopculture.com
 ||iphonehacks.com
+ipobar.com
 ||iranshahr.com
 is.gd/1VO1f
 is.gd/1VOp7
