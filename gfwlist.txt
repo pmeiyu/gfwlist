@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AVwzIDBPkK875qEDAG/Sug
+! Checksum: fZXJv2Rm854DeHVT6B846w
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 18:11:00 +0800
+! Last Modified:  Sun, 17 Jan 2010 19:08:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -337,7 +337,6 @@ cuihua.org
 |http://*t.orzdream.com
 |http://*m.oulove.org
 |http://*t.waiwaier.com
-|http://*s.zuo.la
 
 .daigou.in
 ||photos.dailyme.com
@@ -475,7 +474,6 @@ findbook.tw
 www.forum4hk.com
 ||fotop.net
 .free.fr/adsl
-freemorenews.com
 kineox.free.fr
 ||firestorage.jp
 ||fofg.org
@@ -1219,13 +1217,12 @@ bbs.sina.com%2F
 blog.sina.com.hk
 blog.sina.com.tw
 |http://books.sina.com.tw
-news.sina.com.hk
-news.sina.com.tw
 dailynews.sina.com/
 dailynews.sina.com%2F
 forum.sina.com.hk
 |http://magazines.sina.com.tw
 |http://news.sina.com/
+news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
 ||cdp.sinica.edu.tw
@@ -1462,7 +1459,7 @@ tynsoe.org
 ||www.loiclemeur.com
 ||latimesblogs.latimes.com
 ||blog.palm.com
-||blog.seesmic.com
+!--||blog.seesmic.com
 ||blogs.tampabay.com
 ||contests.twilio.com
 
@@ -1568,10 +1565,12 @@ worldjournal.com
 !-------------Wordpress Blog-----
 ||blog.bittorrent.com
 ||blogmaverick.com
+||breakingnewsworld.org
 ||blog.drakengren.com
 ||blog.feedly.com
 ||blog.flickr.net
 ||fourwallsandaroof.com
+||hoparoundtheglobe.com
 ||blog.linkedin.com
 ||menro.me
 ||nandalala.com
@@ -1582,13 +1581,16 @@ worldjournal.com
 ||blog.thinglabs.com
 ||china.blogs.time.com
 ||blog.tinypic.com
-.wordpress.com
-@@|http://en.wordpress.com/
-@@|http://www.wordpress.com/
-@@|http://s1.wordpress.com/
-@@|http://s2.wordpress.com/
-@@|http://stats.wordpress.com/
-@@|http://wpcom.files.wordpress.com/
+||wordpress.com
+@@|http://wordpress.com
+@@|http://www.wordpress.com
+@@|http://en.wordpress.com
+@@||files.wordpress.com
+@@|http://s.wordpress.com
+@@|http://s1.wordpress.com
+@@|http://s2.wordpress.com
+@@|http://stats.wordpress.com
+!-||xijie.wordpress.com
 zh-cn.wordpress.com
 
 ||wormsculptor.com
@@ -1607,7 +1609,6 @@ x1949x.com
 /xft.de/*
 xh4n.cn/blog
 xiaoma.org
-|http://xijie.wordpress.com/
 .xinmiao.com.hk
 ||xinmiao.com.hk
 xinsheng.net
