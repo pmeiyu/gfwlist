@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: D6hqS+U04KRR21IN/39ngQ
+! Checksum: P0wFlCcykfZmgXl/Ks2P5w
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 15:43:08 +0800
+! Last Modified:  Sun, 17 Jan 2010 16:22:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -828,7 +828,6 @@ kanzhongguo.com
 .kidoors.com
 .kingstone.com.tw
 .kkbox.com.tw
-|http://www.kmt.org.tw/
 .kodiefiles.nl
 ||kompozer.net
 .ktop.com.tw
@@ -1043,7 +1042,6 @@ peacehall.com
 .penchinese.net
 perfdynamics.com
 philly.com
-||picfoco.com
 picturesocial.com
 .pidown.com
 .ping.fm
@@ -1186,7 +1184,6 @@ secretchina.com
 .sendspace.com/file
 sesawe.net
 .sesawe.org
-.settv.com
 ||seul.org
 .sevenload.com
 ||sevenload.com
