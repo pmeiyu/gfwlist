@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fZXJv2Rm854DeHVT6B846w
+! Checksum: b1auaLIt4zz5IQhJqOtpgg
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 19:08:25 +0800
+! Last Modified:  Sun, 17 Jan 2010 19:23:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1586,7 +1586,6 @@ worldjournal.com
 @@|http://www.wordpress.com
 @@|http://en.wordpress.com
 @@||files.wordpress.com
-@@|http://s.wordpress.com
 @@|http://s1.wordpress.com
 @@|http://s2.wordpress.com
 @@|http://stats.wordpress.com
@@ -1668,7 +1667,7 @@ topic.youthwant.com.tw
 !--tw.youtube.com
 !--@@youtube.com/get_video
 !-Youtube CDN
-||ytimg.com
+.ytimg.com
 ytht.net
 yuanming.net
 |http://www.yzzk.com/
