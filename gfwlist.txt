@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lsh7rn3oC5LAZ6GspVgH1Q
+! Checksum: DGysdqzqjqj4WY2+i+hv1Q
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 16:41:25 +0800
+! Last Modified:  Sun, 17 Jan 2010 17:07:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -15,6 +15,7 @@
 1bang1.cn
 .1bao.org
 ||1pondo.tv
+.1pondo.tv
 .2000fun.com*bbs
 2008xianzhang.info
 ||2photo.ru
@@ -23,13 +24,15 @@
 |http://3cc.cc/
 |http://www.3cc.cc/
 ||3park.net
+.3park.net
 .4tube.com
 ||4tube.com
 4shared.com
 info.51.ca
 ||520.be
 5maodang.com
-||6-4.net
+||6-4.net/
+.6-4.net
 6park.com
 64memo.com
 64tianwang.com
@@ -109,7 +112,6 @@ avno1.com
 !--------------------------BB--------------------------
 .babedump.com
 forum.baby-kingdom.com
-||babylon.com
 backchina.com
 backpackers.com.tw
 .badongo.com
@@ -163,7 +165,7 @@ blogimg.jp
 .blogtd.org
 ||blogtd.org
 boltbrowser.com*download
-||bomb.tv
+bomb.tv
 ||books.com.tw
 .bot.nu
 briian.com
@@ -284,6 +286,7 @@ cmule.com
 ||famousblog.cna.com.tw
 .cnavista.com.tw*shop*stores_app
 ||cnbloggercon.org
+.cnbloggercon.org
 |http://cnbloggercon.org
 ||blog.cnblog.org
 .cnd.org
@@ -472,7 +475,7 @@ findbook.tw
 www.forum4hk.com
 ||fotop.net
 .free.fr/adsl
-||freemorenews.com
+freemorenews.com
 kineox.free.fr
 ||firestorage.jp
 ||fofg.org
@@ -818,7 +821,6 @@ jinn.li
 ||wiki.js-kit.com
 .junefourth-20.net
 |http://junefourth-20.net
-||justgot.info
 justsoit.com
 
 !--------------------------KK--------------------------
@@ -1061,6 +1063,7 @@ plurk.com
 .plusbb.com
 .pmates.com
 ||pornrapidshare.com
+.pornrapidshare.com
 ||abc.pp.ru
 |http://dlstatusbar.proboards43.com/
 prozz.net
@@ -1192,6 +1195,7 @@ sesawe.net
 !--IP of SexInSex
 67.220.91.23
 ||sexyandfunny.com
+.sexyandfunny.com
 .sexyandshocking.com
 ||sexyandshocking.com
 .sexyclips.org
@@ -1238,6 +1242,7 @@ forum.slime.com.tw
 ||snsanalystics.com
 .sod.co.jp
 ||so-ga.net
+.so-ga.net
 ||soup.io/
 @@||static.soup.io
 .slinkset.com
@@ -1286,7 +1291,7 @@ blog.syx86.cn/2009/09/puff
 ||taiwantt.org.tw
 ||taiwandaily.net
 takungpao.com
-||tangben.com
+tangben.com
 |http://tansioksiok.com/
 .taolun.info
 ||taolun.info
@@ -1333,7 +1338,6 @@ tokyo-hot.com
 topsy.com
 ||tornadoweb.org
 torproject.org
-||totallynsfw.org
 ||tr.im/DZ0o
 ||trackon.org
 .trialofccp.org
@@ -1475,7 +1479,7 @@ paper.udn.com
 video.udn.com
 uighurbiz.net
 ||ultrawebsitehosting.com
-||ultraxs.com
+ultraxs.com
 uncyclomedia.org
 ||uncyclopedia.hk
 ||uncyclopedia.tw
@@ -1503,7 +1507,7 @@ mysite.verizon.net
 .videosz.com
 ||videosz.com
 ||vidoemo.com
-|http://video.tiscali.it/canali/truveo/678684442.html
+video.tiscali.it/canali/truveo
 .vimeo.com
 ||vimeo.com
 |http://www.visuwords.com/
@@ -1514,7 +1518,7 @@ www.voy.com
 !--------------------------WW--------------------------
 ||w3schools.com
 .wahas.com
-||waikeung.org/php_wind
+waikeung.org/php_wind
 wallornot.org
 ||wangafu.net
 |http://wlx.sowiki.net
@@ -1543,7 +1547,6 @@ www.wet123.com
 |http://widget.wetpaintserv.us/
 wetpussygames.com
 wezhiyong.org
-||wglm.net
 .whitehats.com
 ||whyx.org
 wikidot.com
@@ -1681,6 +1684,7 @@ zhengjian.org
 ||zhongmeng.org
 .zoozle.net
 ||zuihulu.net
+.zuihulu.net
 .zuo.la
 ||zuo.la
 .zuola.com
