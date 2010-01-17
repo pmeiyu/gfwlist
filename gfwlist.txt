@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: P0wFlCcykfZmgXl/Ks2P5w
+! Checksum: ctfcHOR55SCYjVJXFkDN5Q
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 16:22:22 +0800
+! Last Modified:  Sun, 17 Jan 2010 16:29:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -530,6 +530,7 @@ gardennetworks.com
 !--IP of Garden Network
 72.52.81.22
 ||garretttaylor.com
+||gaymap.cc
 ||gclooney.com
 gdzf.org
 ||geekatlas.com
@@ -1475,9 +1476,9 @@ video.udn.com
 uighurbiz.net
 ||ultrawebsitehosting.com
 ||ultraxs.com
-unblog.fr
 uncyclomedia.org
-uncyclopedia.
+||uncyclopedia.hk
+||uncyclopedia.tw
 .uni.cc
 |http://unifoundry.com/
 .uniteddaily.com.my/index.php?
