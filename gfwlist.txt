@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2/Wg5mPFwpMtdYkpriqXVw
+! Checksum: +TKUK6Yv+/oAqCzO1LcMNQ
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 09:46:43 +0800
+! Last Modified:  Sun, 17 Jan 2010 13:23:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1542,24 +1542,24 @@ secure.wikimedia.org
 worldjournal.com
 
 !-------------Wordpress Blog-----
-!||blog.bittorrent.com
-!||blogmaverick.com
-!||blog.drakengren.com
-!||blog.feedly.com
-!||blog.flickr.net
-!||blog.linkedin.com
-!||menro.me
-!||p2theme.com
-!||blog.polldaddy.com
-!||blog.symbian.org
-!||blog.thinglabs.com
-!||china.blogs.time.com
-!||blog.tinypic.com
-!.wordpress.com
-!@@http://s.stats.wordpress.com/
-!@@http://s1.wordpress.com/
-!@@http://s2.wordpress.com/
-!@@http://www.wordpress.com
+||blog.bittorrent.com
+||blogmaverick.com
+||blog.drakengren.com
+||blog.feedly.com
+||blog.flickr.net
+||blog.linkedin.com
+||menro.me
+||p2theme.com
+||blog.polldaddy.com
+||blog.symbian.org
+||blog.thinglabs.com
+||china.blogs.time.com
+||blog.tinypic.com
+.wordpress.com
+@@http://s.stats.wordpress.com/
+@@http://s1.wordpress.com/
+@@http://s2.wordpress.com/
+@@http://www.wordpress.com
 zh-cn.wordpress.com
 
 ||wormsculptor.com
