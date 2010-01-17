@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AyyGAF/ZvbBWGxl2EFp4Mg
+! Checksum: D6hqS+U04KRR21IN/39ngQ
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 15:31:31 +0800
+! Last Modified:  Sun, 17 Jan 2010 15:43:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -763,6 +763,7 @@ hulu.com
 |http://i1.hk/
 |http://board.i-cable.com
 |http://cablenews.i-cable.com
+ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 ||icanhascheezburger.com
 .identi.ca
@@ -842,6 +843,7 @@ kanzhongguo.com
 .lalulalu.com
 |http://www.lancsky.com/
 laomiu.com
+latelinenews.com
 ||leecheukyan.org
 ||leehare.cn
 ||lenwhite.com
@@ -909,6 +911,7 @@ www5.mimima.com
 www6.mimima.com
 .minghui.org
 mingpao.com
+.mingpaomonthly.com
 mingpaonews.com
 |http://www.mingpaony.com/
 .mingpaosf.com
@@ -1273,6 +1276,7 @@ stickeraction.com/sesawe
 ||stoweboyd.com
 cn.streetvoice.com/article
 cn.streetvoice.com/diary
+cn2.streetvoice.com
 ||summize.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
@@ -1635,6 +1639,7 @@ blog.yam.com
 ||mymedia.yam.com
 n.yam.com
 news.yam.com
+.ydy.com
 ||yesbra.com
 .yi.org
 yilubbs.com
@@ -1653,6 +1658,7 @@ www.yousendit.com
 youthbao.com
 .youthnetradio.org/tmit/forum
 blog.youthwant.com.tw
+share.youthwant.com.tw
 topic.youthwant.com.tw
 .youtube.com
 ||youtube.com
