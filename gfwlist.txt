@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /DCSN4eaqKkMvc3+alOcJQ
+! Checksum: AyyGAF/ZvbBWGxl2EFp4Mg
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 15:23:45 +0800
+! Last Modified:  Sun, 17 Jan 2010 15:31:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -9,6 +9,8 @@
 |http://nsf.110mb.com
 ||z-o-o-m.110mb.com
 .141hongkong.com
+||1688.com.au
+.1688.com.au/site1
 .18p2p.com
 1bang1.cn
 .1bao.org
@@ -258,6 +260,8 @@ news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 news.chinatimes.com/2007Cti/2007Cti-News/2007Cti-News-Content/0,4521,130505
 chinaway.org
 ||chinaweekly.com
+.chinesen.de
+||chinesen.de
 chinesenewsnet.com
 .chinesepen.org
 ||chinesepen.org
@@ -764,6 +768,8 @@ hulu.com
 .identi.ca
 |http://identi.ca
 .idv.tw
+.ifcss.org
+||ifcss.org
 ||illusionfactory.com
 |http://im.tv/
 |http://www.im.tv/
@@ -1265,6 +1271,8 @@ usinfo.state.gov
 ||steveblank.com
 stickeraction.com/sesawe
 ||stoweboyd.com
+cn.streetvoice.com/article
+cn.streetvoice.com/diary
 ||summize.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
