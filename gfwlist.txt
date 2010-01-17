@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7j9lDklgSjlJnlmG66JYQA
+! Checksum: AVwzIDBPkK875qEDAG/Sug
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 17:40:04 +0800
+! Last Modified:  Sun, 17 Jan 2010 18:11:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1426,7 +1426,8 @@ twitgoo.com
 ||twitiq.com
 twitoaster.com
 ||twitonmsn.com
-twitpic.com
+.twitpic.com
+||twitpic.com
 twitreferral.com
 .twitstat.com
 ||twitstat.com
