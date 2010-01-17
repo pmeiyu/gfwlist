@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +TKUK6Yv+/oAqCzO1LcMNQ
+! Checksum: 74cWbEigms6vCWT2HFMK2A
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 13:23:03 +0800
+! Last Modified:  Sun, 17 Jan 2010 13:40:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1547,19 +1547,25 @@ worldjournal.com
 ||blog.drakengren.com
 ||blog.feedly.com
 ||blog.flickr.net
+||fourwallsandaroof.com
 ||blog.linkedin.com
 ||menro.me
+||nandalala.com
 ||p2theme.com
 ||blog.polldaddy.com
+||sharpinsandiego.com
 ||blog.symbian.org
 ||blog.thinglabs.com
 ||china.blogs.time.com
 ||blog.tinypic.com
 .wordpress.com
-@@http://s.stats.wordpress.com/
-@@http://s1.wordpress.com/
-@@http://s2.wordpress.com/
-@@http://www.wordpress.com
+@@|http://en.wordpress.com/
+@@|http://www.wordpress.com/
+@@|http://s.stats.wordpress.com/
+@@|http://s1.wordpress.com/
+@@|http://s2.wordpress.com/
+@@|http://stats.wordpress.com/
+@@|http://wpcom.files.wordpress.com/
 zh-cn.wordpress.com
 
 ||wormsculptor.com
