@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DGysdqzqjqj4WY2+i+hv1Q
+! Checksum: 7j9lDklgSjlJnlmG66JYQA
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 17:07:16 +0800
+! Last Modified:  Sun, 17 Jan 2010 17:40:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1584,7 +1584,6 @@ worldjournal.com
 .wordpress.com
 @@|http://en.wordpress.com/
 @@|http://www.wordpress.com/
-@@|http://s.stats.wordpress.com/
 @@|http://s1.wordpress.com/
 @@|http://s2.wordpress.com/
 @@|http://stats.wordpress.com/
