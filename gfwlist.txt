@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ctfcHOR55SCYjVJXFkDN5Q
+! Checksum: lsh7rn3oC5LAZ6GspVgH1Q
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 16:29:34 +0800
+! Last Modified:  Sun, 17 Jan 2010 16:41:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -957,7 +957,7 @@ sidekick.myblog.hk
 ||nakido.com
 cyberghost.natado.com
 .ncn.org
-||ncn.org
+||ncn.org/
 www.ned.org
 ||nesn.com
 net.ru
