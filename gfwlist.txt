@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q8zyKl/c17s3xdfKH09/nw
+! Checksum: YUVL4CmDyCyXM4iG9a/Egg
 ! Expires: 12h
-! Last Modified:  Sun, 17 Jan 2010 19:46:15 +0800
+! Last Modified:  Wed, 20 Jan 2010 08:46:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -44,6 +44,7 @@ info.51.ca
 ||9.ly
 ||909090909.info
 .92hg.com
+97xxoo.com
 .99bbs.com
 
 !--------------------------AA--------------------------
@@ -1317,7 +1318,8 @@ tiantibooks.org
 .tianzhu.org
 .tibet.com
 |http://tibet.com
-tibet.net
+.tibet.net
+||tibet.net
 http://www.time.com/time/time100/leaders/profile/rebel.html
 ||blog.tiney.com
 ||tinypaste.com
