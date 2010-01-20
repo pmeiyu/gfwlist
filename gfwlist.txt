@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YUVL4CmDyCyXM4iG9a/Egg
+! Checksum: T4O/xn1AWnl0FYB4BYW5NQ
 ! Expires: 12h
-! Last Modified:  Wed, 20 Jan 2010 08:46:16 +0800
+! Last Modified:  Wed, 20 Jan 2010 15:06:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -513,6 +513,7 @@ friendfeed.com
 .ftv.com.tw
 .fuckcnnic.net
 ||fuckcnnic.net
+fuckgfw.org
 fulue.com
 funp.com
 .futurechinaforum.org
