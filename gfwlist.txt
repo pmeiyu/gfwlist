@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: T4O/xn1AWnl0FYB4BYW5NQ
+! Checksum: 980Aogz8eO4gndKJNds7uQ
 ! Expires: 12h
-! Last Modified:  Wed, 20 Jan 2010 15:06:13 +0800
+! Last Modified:  Fri, 22 Jan 2010 15:33:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -31,13 +31,14 @@
 info.51.ca
 ||520.be
 5maodang.com
-||6-4.net/
 .6-4.net
-6park.com
+||6-4.net/
 64memo.com
 64tianwang.com
-|http://www.881903.com
+666kb.com
+6park.com
 ||7capture.com
+|http://www.881903.com
 89-64.org
 .8cyber.com
 8ok.com/
