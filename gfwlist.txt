@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YVL/9OHiZW/yqHhtFQ0Acw
+! Checksum: oC9xWeXYJTl0Kx9u5WKwGA
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 22:43:04 +0800
+! Last Modified:  Fri, 22 Jan 2010 22:45:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -369,6 +369,7 @@ diigo.com
 discuss.com.hk
 ||dit-inc.us
 ||dlsite.com
+.dmm.co.jp
 ||dmtcs.org
 |http://www.docbook.org/
 .dojin.com
@@ -786,6 +787,7 @@ ibiblio.org/pub/packages/ccic
 ||imageshack.us
 .imdb.com
 ||imdb.com/
+||imdb.net
 .imlive.com
 |http://www.inmediahk.net/
 internetfreedom.org
@@ -936,6 +938,7 @@ mitbbs.com
 ||mixx.com
 mm36c.com
 ||mmaaxx.com
+plurktop.mmdays.com
 ||monkeeh.com
 |http://maomy.motime.com/
 |http://www.moztw.org
@@ -1194,6 +1197,7 @@ scribd.com
 secretchina.com
 .seesmic.com
 ||seesmic.com
+sejie.com
 .sendspace.com/file
 sesawe.net
 .sesawe.org
