@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yVVruMxQE2ML97wM2xySSg
+! Checksum: /2bY3xealFAKU5BLL3v3Cw
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 23:25:55 +0800
+! Last Modified:  Fri, 22 Jan 2010 23:33:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -34,6 +34,7 @@ info.51.ca
 .6-4.net
 ||6-4.net/
 64memo.com
+64memo.org
 64tianwang.com
 666kb.com
 6park.com
@@ -254,6 +255,7 @@ chenjun.com
 ||chethstudios.net
 ||chibs.edu.tw
 china-week.com
+china101.com
 china21.org
 china911.org
 chinaaffairs.org
@@ -1313,6 +1315,8 @@ usinfo.state.gov
 ||theme.status.net
 ||steveblank.com
 stickeraction.com/sesawe
+.stoptibetcrisis.net
+||stoptibetcrisis.net
 ||stoweboyd.com
 cn.streetvoice.com/article
 cn.streetvoice.com/diary
@@ -1570,6 +1574,7 @@ wangruoshui.net
 www.wangruowang.org
 ||we.bs^
 ||t.webbang.net
+||webfee.org.ru
 webs-tv.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
@@ -1883,9 +1888,9 @@ zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
 zh.wikipedia.org*%E8%83%A1%E9%94%A6%E6%B6%9B
 !--Hua Guo Feng
-zh.wikipedia.org/wiki/%E5%8D%8E%E5%9B%BD%E9%94%8B
+zh.wikipedia.org*%E5%8D%8E%E5%9B%BD%E9%94%8B
 !--Hua Yuan Ruan Jian
-zh.wikipedia.org/wiki/%E8%8A%B1%E5%9B%AD%E8%BD%AF%E4%BB%B6
+zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E8%BD%AF%E4%BB%B6
 !--Hua Yuan Wang
 zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
 !--Huang Qi
