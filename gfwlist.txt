@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yGhTs7mhb9MfoNZG9eLouw
+! Checksum: YVL/9OHiZW/yqHhtFQ0Acw
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 20:37:59 +0800
+! Last Modified:  Fri, 22 Jan 2010 22:43:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -100,8 +100,9 @@ videoportal.aol.tw/video-detail
 ||areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
-.asianews.it
 .asianbabymakers.com
+.asianews.it
+asianude4u.com
 ||asianwomensfilm.de
 .atj.org.tw
 atlaspost.com
@@ -807,7 +808,6 @@ yy.iyatou.com/archives/1042
 ||iyin.net
 .izaobao.com
 .izaobao.us
-@@|http*//www.izaobao.com
 
 !--------------------------JJ--------------------------
 blog.jackjia.com
@@ -910,6 +910,7 @@ mediafire.com
 .megaupload.com/?d=4
 megavideo.com
 memedia.cn
+.met-art.com
 .metacafe.com/watch
 ||metacafe.com/watch
 middle-way.net
@@ -1047,6 +1048,7 @@ mypaper.pchome.com.tw
 pdetails.com
 peacefire.org
 peacehall.com
+.peeasian.com
 ||penchinese.net
 .penchinese.net
 perfdynamics.com
