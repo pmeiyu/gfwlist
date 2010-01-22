@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 980Aogz8eO4gndKJNds7uQ
+! Checksum: yGhTs7mhb9MfoNZG9eLouw
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 15:33:03 +0800
+! Last Modified:  Fri, 22 Jan 2010 20:37:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -402,6 +402,7 @@ xys.dxiong.com
 |http://www.dynawebinc.com/
 
 !--------------------------EE--------------------------
+g.e-hentai.org
 e-info.org.tw
 .e-traderland.net/board
 ||e71fanatics.com
@@ -423,6 +424,7 @@ epochtimes.com
 etaiwannews.com
 .evanlife.org.hk
 .exblog.jp
+||exploader.net
 .extratorrent.com
 ||extratorrent.com
 eyny.com
@@ -676,6 +678,7 @@ sites.google.com
 |https://spreadsheets.google.com
 video.google.com
 anti.anti.cnn.googlepages.com
+||freegateget.googlepages.com
 .googlevideo.com
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
@@ -838,6 +841,7 @@ kanzhongguo.com
 .kui.name/event
 |http://kunalanand.com
 ||www.kyohk.net
+www2.kyohk.net
 |http://www.kzeng.info/
 
 !--------------------------LL--------------------------
@@ -975,6 +979,7 @@ newcenturynews.com
 bbs.newsgroup.la
 bbs2.newsgroup.la
 forum.newsgroup.la
+||newspace21.com
 newstin.com
 |http://www.newsvine.com/
 hk*.nextmedia.com
@@ -1169,6 +1174,7 @@ robtex.com
 !-rthk.org.hk
 rti.org.tw
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
+.rushbee.com
 ||ruten.com.tw
 .ruyiseek.com
 .rxhj.net
