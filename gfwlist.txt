@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /2bY3xealFAKU5BLL3v3Cw
+! Checksum: e2Br9GfXuQ3sIjTd+XkDtQ
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 23:33:05 +0800
+! Last Modified:  Fri, 22 Jan 2010 23:36:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -384,6 +384,7 @@ discuss.com.hk
 |http://www.docbook.org/
 .dojin.com
 ||dokoda.jp
+.domain.club.tw
 dongde.com
 dongtaiwang.com
 .dongtaiwang.net
@@ -431,6 +432,7 @@ edoors.com
 eltondisney.com
 ||emojiforichat.com
 ||endsoftpatents.org
+||entermap.com
 epochtimes.com
 ||erights.net
 etaiwannews.com
@@ -504,6 +506,8 @@ freeciv.org
 ||freedur.com
 freeflowlife.net
 freeforums.org
+.freegao.com
+||freegao.com
 ||freehaven.net
 .freehostia.com
 @@www.freehostia.com
@@ -576,6 +580,7 @@ globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 ||golang.org
 gongmeng.info
+gongminliliang.com
 .gopetition.com
 ||gopetition.com
 grandtrial.org
@@ -795,6 +800,7 @@ ibiblio.org/pub/packages/ccic
 .identi.ca
 |http://identi.ca
 .idv.tw
+.ifanr.com/857
 .ifcss.org
 ||ifcss.org
 ||illusionfactory.com
