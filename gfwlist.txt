@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: oC9xWeXYJTl0Kx9u5WKwGA
+! Checksum: 6rxxD9Xpqq/QNYkJv/8heQ
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 22:45:32 +0800
+! Last Modified:  Fri, 22 Jan 2010 22:49:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -63,6 +63,7 @@ advanscene.com
 |http://*blog.aiweiwei.com
 .akiba-online.com/forum/index.php
 ||alexatnet.com
+||alexeyyurenev.com
 ||alexking.org
 .alivenotdead.com
 allhabit.com
@@ -259,6 +260,7 @@ chinadigitaltimes.net
 chinainperspective.net/ArtShow.aspx?
 chinainperspective.net%2FArtShow.aspx%3F
 ||chinaphile.com
+chinasoul.org
 blog.chinatimes.com
 gb.chinatimes.com/gate/gb/*2007Cti-News
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
@@ -577,6 +579,7 @@ grandtrial.org
 ||www.benjamingolub.com
 ||rss.berryreview.com
 ||www.bestwebproxy.net
+||feeds.cbsnews.com
 ||chromeexperiments.com
 ||blog.chromium.org
 ||dev.chromium.org
@@ -785,6 +788,7 @@ ibiblio.org/pub/packages/ccic
 |http://im.tv/
 |http://www.im.tv/
 ||imageshack.us
+||imagevenue.com
 .imdb.com
 ||imdb.com/
 ||imdb.net
@@ -825,6 +829,7 @@ jinn.li
 ||jounin.net
 |http://jpra1113.org
 ||wiki.js-kit.com
+||juliereyc.com
 .junefourth-20.net
 |http://junefourth-20.net
 justsoit.com
