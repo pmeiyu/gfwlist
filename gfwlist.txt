@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZQJXHJEvPvVXJJvby8wXcw
+! Checksum: yVVruMxQE2ML97wM2xySSg
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 23:22:55 +0800
+! Last Modified:  Fri, 22 Jan 2010 23:25:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -254,6 +254,7 @@ chenjun.com
 ||chethstudios.net
 ||chibs.edu.tw
 china-week.com
+china21.org
 china911.org
 chinaaffairs.org
 chinacomments.org
@@ -1295,6 +1296,7 @@ sokamonline.com
 .sopcast.com
 |http://www.sopcast.org
 soundofhope.org
+||soupofmedia.com
 sowers.org.hk
 .speedpluss.org
 |http://my.spill.com
@@ -1332,6 +1334,7 @@ tangben.com
 .taolun.info
 ||taolun.info
 .tblog.com
+tchrd.org
 tcno.net*doc*tor
 ||teamseesmic.com
 .teashark.com/download.html
@@ -1358,6 +1361,7 @@ tiantibooks.org
 |http://tibet.com
 .tibet.net
 ||tibet.net
+tibetfund.org
 http://www.time.com/time/time100/leaders/profile/rebel.html
 ||blog.tiney.com
 ||tinypaste.com
@@ -1551,6 +1555,7 @@ video.tiscali.it/canali/truveo
 ||vimeo.com
 |http://www.visuwords.com/
 voanews.com
+.vot.org
 ||vox.com/
 www.voy.com
 
