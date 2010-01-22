@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NSBkCrzBdxv6cVDuhMMZmw
+! Checksum: ZVkvXKI6yEN2ynAwuh04lw
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 22:56:18 +0800
+! Last Modified:  Fri, 22 Jan 2010 23:01:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -352,6 +352,7 @@ cuihua.org
 .dailymotion.com
 ||dailymotion.com
 dajiyuan.com
+dalailama.com
 |http://*.damipan.com
 .danke4china.net
 danwei.org
@@ -756,6 +757,7 @@ hkisee.com
 hkjc.com
 .hkjp.org
 .hkmensa.net
+.hkplaza.net/discuz
 hkreporter.com
 blog.hnjhj.com
 hongmeimei.com
@@ -841,6 +843,8 @@ jinn.li
 justsoit.com
 
 !--------------------------KK--------------------------
+.kagyuoffice.org.tw
+||kagyuoffice.org.tw
 karayou.com
 kanzhongguo.com
 .keepandshare.com/visit/visit_page.php?i=688154
@@ -1306,6 +1310,7 @@ stickeraction.com/sesawe
 cn.streetvoice.com/article
 cn.streetvoice.com/diary
 cn2.streetvoice.com
+tw.streetvoice.com
 ||summize.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
@@ -1676,6 +1681,7 @@ news.yam.com
 .ydy.com
 ||yesbra.com
 .yi.org
+||yihanfans.org
 yilubbs.com
 .yogichen.org
 ||yogichen.org
