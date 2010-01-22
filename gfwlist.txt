@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6rxxD9Xpqq/QNYkJv/8heQ
+! Checksum: Hq7+vBR8A5B1gpHtq9WAZw
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 22:49:08 +0800
+! Last Modified:  Fri, 22 Jan 2010 22:53:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -62,6 +62,7 @@ advanscene.com
 |http://www.aidsmuseum.cn/
 |http://*blog.aiweiwei.com
 .akiba-online.com/forum/index.php
+||alabout.com
 ||alexatnet.com
 ||alexeyyurenev.com
 ||alexking.org
@@ -227,6 +228,7 @@ catholic.org.tw*catholic
 .ccc.de
 |http://ccc.de/
 www.ccdtr.org
+cclife.org
 .cctongbao.com/article/2078732
 |http://www.cdef.org
 |http://www.cdnews.com.tw
@@ -1081,6 +1083,7 @@ plurk.com
 ||pornrapidshare.com
 .pornrapidshare.com
 ||abc.pp.ru
+||prayforchina.net
 |http://dlstatusbar.proboards43.com/
 prozz.net
 ||pocketmonsters.net
@@ -1279,6 +1282,7 @@ sokamonline.com
 |http://www.sopcast.org
 soundofhope.org
 sowers.org.hk
+.speedpluss.org
 |http://my.spill.com
 ||splitweet.com
 squarespace.com
@@ -1356,6 +1360,7 @@ tokyo-hot.com
 topsy.com
 ||tornadoweb.org
 torproject.org
+touch99.com
 ||tr.im/DZ0o
 ||trackon.org
 .trialofccp.org
