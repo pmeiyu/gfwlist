@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: e2Br9GfXuQ3sIjTd+XkDtQ
+! Checksum: +Tkya5HiWmJBJQXfWugnBw
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 23:36:26 +0800
+! Last Modified:  Fri, 22 Jan 2010 23:40:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -223,6 +223,7 @@ canyu.org
 caochangqing.com
 .caodan.org
 |http://www.carnegieendowment.org
+||casimages.com
 .catcatforum.com
 .catholic.org.hk
 ||catholic.org.hk
@@ -1081,6 +1082,7 @@ pdetails.com
 peacefire.org
 peacehall.com
 .peeasian.com
+penchinese.com
 ||penchinese.net
 .penchinese.net
 perfdynamics.com
@@ -1328,6 +1330,7 @@ cn.streetvoice.com/article
 cn.streetvoice.com/diary
 cn2.streetvoice.com
 tw.streetvoice.com
+||suicideblitz.info
 ||summize.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
@@ -1357,6 +1360,7 @@ telecomspace.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
+||thesartorialist.com
 ||thesponty.com
 thkphoto.com
 ||throughnightsfire.com
@@ -1371,6 +1375,8 @@ tiantibooks.org
 |http://tibet.com
 .tibet.net
 ||tibet.net
+.tibetanyouthcongress.org
+||tibetanyouthcongress.org
 tibetfund.org
 http://www.time.com/time/time100/leaders/profile/rebel.html
 ||blog.tiney.com
