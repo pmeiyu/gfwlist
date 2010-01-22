@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Hq7+vBR8A5B1gpHtq9WAZw
+! Checksum: NSBkCrzBdxv6cVDuhMMZmw
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 22:53:00 +0800
+! Last Modified:  Fri, 22 Jan 2010 22:56:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -106,6 +106,7 @@ www.asiademo.org
 .asianews.it
 asianude4u.com
 ||asianwomensfilm.de
+astonmartinnews.com
 .atj.org.tw
 atlaspost.com
 .atnext.com
@@ -180,6 +181,7 @@ bspon.com
 buboo.tw
 .budaedu.org
 ||budaedu.org
+||bullog.org
 ||blambin.byethost16.com
 
 !-------------BlogSpot-----
@@ -530,6 +532,7 @@ funp.com
 
 !--------------------------GG--------------------------
 ||gabocorp.com
+galge.com
 .gamebase.com.tw
 ||gamebase.com.tw
 ||gamer.com.tw
@@ -555,6 +558,7 @@ hk.geocities.com
 geocities.jp
 getchu.com
 ||getjetso.com
+||getuploader.com
 ||gigaom.com
 .ginx.com
 |http://ginx.com
@@ -839,6 +843,7 @@ justsoit.com
 !--------------------------KK--------------------------
 karayou.com
 kanzhongguo.com
+.keepandshare.com/visit/visit_page.php?i=688154
 .keezmovies.com
 ||keezmovies.com
 .kidoors.com
