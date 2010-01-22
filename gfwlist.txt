@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZVkvXKI6yEN2ynAwuh04lw
+! Checksum: ZQJXHJEvPvVXJJvby8wXcw
 ! Expires: 12h
-! Last Modified:  Fri, 22 Jan 2010 23:01:00 +0800
+! Last Modified:  Fri, 22 Jan 2010 23:22:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -456,6 +456,7 @@ fanqiang.org
 @@|http://www.fanqiang.org
 @@|http://fanqiang.org
 web.fc2.com
+video.fdbox.com
 forum*.fdzone.org
 feedbooks.mobi
 feeds2.feedburner.com/chinagfwblog
@@ -631,6 +632,7 @@ grandtrial.org
 ||blog.persistent.info
 ||blog.seeminglee.com
 ||rss.slashdot.org
+||snsanalytics.com
 ||socialwhois.com
 ||www.techfob.com
 ||blog.thesilentnumber.me
@@ -933,6 +935,7 @@ memedia.cn
 ||metacafe.com/watch
 middle-way.net
 .mihk.hk
+.mii8.com
 www5.mimima.com
 www6.mimima.com
 .minghui.org
@@ -972,6 +975,7 @@ msn.com.tw
 sidekick.myblog.hk
 |http://www.mycould.com/
 ||myeclipseide.com
+.myforum.com.hk
 ||myforum.com.uk
 .myfreshnet.com
 ||myparagliding.com
@@ -1267,6 +1271,7 @@ sitetag.us
 |http://www.skype.com
 download.skype.com/SkypeSetup.exe
 m.slandr.net
+||slheng.com
 forum.slime.com.tw
 ||snsanalystics.com
 .sod.co.jp
