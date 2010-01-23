@@ -1,13 +1,15 @@
 [AutoProxy 0.2.9]
-! Checksum: MOnQZ+OGgERNA/ooCeEcXw
+! Checksum: RWUBx7pWpUj+n/YlTF49Qg
 ! Expires: 12h
-! Last Modified:  Sat, 23 Jan 2010 19:32:25 +0800
+! Last Modified:  Sun, 24 Jan 2010 03:59:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 1-apple.com.tw
 |http://nsf.110mb.com
 ||z-o-o-m.110mb.com
+.121pp.com
+||121pp.com
 .141hongkong.com
 ||1688.com.au
 .1688.com.au/site1
@@ -107,6 +109,8 @@ www.asiademo.org
 .asianews.it
 asianude4u.com
 ||asianwomensfilm.de
+||2.askozia.com
+||www.askozia.com
 astonmartinnews.com
 .atj.org.tw
 atlaspost.com
@@ -715,6 +719,8 @@ anti.anti.cnn.googlepages.com
 |http:*.google.com*%E7%AA%81%E7%A0%B4
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
+!--Zhen Xiang
+|http:*.google.*%E7%9C%9F%E7%9B%B8
 !--Zi You Men
 |http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 
@@ -986,6 +992,7 @@ sidekick.myblog.hk
 |http://www.mycould.com/
 ||myeclipseide.com
 .myforum.com.hk
+||myforum.com.hk
 ||myforum.com.uk
 .myfreshnet.com
 ||myparagliding.com
@@ -999,6 +1006,8 @@ sidekick.myblog.hk
 cyberghost.natado.com
 .ncn.org
 ||ncn.org/
+|http://etools.ncol.com
+|https://etools.ncol.com
 www.ned.org
 ||nesn.com
 net.ru
@@ -1264,6 +1273,7 @@ shenyunperformingarts.org
 .shizhao.org
 .shooshtime.com
 ||shooshtime.com
+||shulib.com
 |http://ch.shvoong.com/
 simpleproductivityblog.com
 bbs.sina.com/
@@ -1373,6 +1383,7 @@ thevivekspot.com
 thkphoto.com
 ||throughnightsfire.com
 .thumbzilla.com
+||thws.cn
 tiananmenmother.org
 .tiandixing.org
 |http://tiandixing.org
