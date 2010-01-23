@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RWUBx7pWpUj+n/YlTF49Qg
+! Checksum: EQa8SucRHaLeUYzcCx4YBg
 ! Expires: 12h
-! Last Modified:  Sun, 24 Jan 2010 03:59:39 +0800
+! Last Modified:  Sun, 24 Jan 2010 04:11:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -375,7 +375,6 @@ democrats.org
 ||demogirl.com
 ||derekgooogle.com
 ||desciclopedia.org
-||destroytwitter.com
 .devkick.com
 ||devkick.com
 ||didyouknow.org
@@ -451,7 +450,7 @@ eyny.com
 !--------------------------FF--------------------------
 ||fa-in.org
 .facebook.com
-||facebook.com
+||*facebook.com
 !--facebook cdn
 ||fbcdn.net
 fail.hk
@@ -922,7 +921,6 @@ liveleak.com
 .longhair.hk
 ||lookingglasstheatre.org
 .lookpic.com
-||loudtwitter.com
 .lubetube.com
 ||lubetube.com
 
@@ -1509,7 +1507,7 @@ twitreferral.com
 .twitstat.com
 ||twitstat.com
 .twitter.com
-||twitter.com
+||*twitter.com
 !--IP of Twitter
 128.121.146.228
 twittercounter.com
@@ -1547,7 +1545,6 @@ tynsoe.org
 ||tzangms.com
 
 !--------------------------UU--------------------------
-||ubertwitter.com
 album.udn.com
 blog.udn.com
 bookmark.udn.com
@@ -1635,7 +1632,6 @@ wikidot.com
 .wikileaks.org
 ||wikimedia.org.mo
 ||willw.net
-||wittytwitter.com
 !-WikiLeaks IP
 */88.80.13.160/*
 ||wikimapia.org
@@ -1748,10 +1744,7 @@ blog.youthwant.com.tw
 share.youthwant.com.tw
 topic.youthwant.com.tw
 .youtube.com
-||youtube.com
-!--hk.youtube.com
-!--tw.youtube.com
-!--@@youtube.com/get_video
+||*youtube.com
 !-Youtube CDN
 .ytimg.com
 ytht.net
