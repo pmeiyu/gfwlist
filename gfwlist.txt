@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q2NL9S3PPTU3QDheNckydQ
+! Checksum: MOnQZ+OGgERNA/ooCeEcXw
 ! Expires: 12h
-! Last Modified:  Sat, 23 Jan 2010 00:42:35 +0800
+! Last Modified:  Sat, 23 Jan 2010 19:32:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1369,6 +1369,7 @@ telecomspace.com
 thepiratebay.org
 ||thesartorialist.com
 ||thesponty.com
+thevivekspot.com
 thkphoto.com
 ||throughnightsfire.com
 .thumbzilla.com
