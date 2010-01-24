@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jBAob3DGQ3lM48wZOJWOnA
+! Checksum: 88RrrYJwwwQIoh2GyWMGzQ
 ! Expires: 12h
-! Last Modified:  Sun, 24 Jan 2010 12:47:25 +0800
+! Last Modified:  Sun, 24 Jan 2010 13:24:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -891,6 +891,8 @@ latelinenews.com
 ||lenwhite.com
 .lianyue.net
 ||lianyue.net
+||liaowangxizang.net
+.liaowangxizang.net
 ||liberal.org.hk
 libertytimes.com.tw
 ||lifemotivations.com
@@ -1193,6 +1195,7 @@ qxbbs.org
 www.radioaustralia.net.au*chinese*articles*
 .randyblue.com
 ||randyblue.com
+rangzen.org
 ranyunfei.com
 .rapidshare1.com
 .rapidsharedata.com
@@ -1241,6 +1244,7 @@ rti.org.tw
 ||salvation.org.hk
 ||sandradodd.com
 .sanmin.com.tw
+savetibet.org
 ||say2.info
 scribd.com
 secretchina.com
