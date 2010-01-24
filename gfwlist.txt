@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EQa8SucRHaLeUYzcCx4YBg
+! Checksum: jBAob3DGQ3lM48wZOJWOnA
 ! Expires: 12h
-! Last Modified:  Sun, 24 Jan 2010 04:11:49 +0800
+! Last Modified:  Sun, 24 Jan 2010 12:47:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -981,6 +981,8 @@ plurktop.mmdays.com
 ||secure.mp
 ||mpettis.com
 |http://www.mpinews.com/
+||mplstudios.com
+.mplstudios.com
 .msguancha.com
 msn.com.tw
 ||multiply.com
@@ -1199,6 +1201,7 @@ rcinet.ca
 .readingtimes.com.tw
 ||readingtimes.com.tw
 .realraptalk.com
+||refer.ccbill.com
 ||reloaded.org
 renminbao.com
 .renyurenquan.org
@@ -1299,6 +1302,7 @@ download.skype.com/SkypeSetup.exe
 m.slandr.net
 ||slheng.com
 forum.slime.com.tw
+||smashingshare.com
 ||snsanalystics.com
 .sod.co.jp
 ||so-ga.net
