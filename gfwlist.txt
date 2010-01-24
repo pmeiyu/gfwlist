@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 88RrrYJwwwQIoh2GyWMGzQ
+! Checksum: /EwE+JxiaWytYaLJRejl0g
 ! Expires: 12h
-! Last Modified:  Sun, 24 Jan 2010 13:24:16 +0800
+! Last Modified:  Sun, 24 Jan 2010 14:18:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -361,6 +361,8 @@ cuihua.org
 ||dailymotion.com
 dajiyuan.com
 dalailama.com
+||dalailamaworld.com
+.dalailamaworld.com
 |http://*.damipan.com
 .danke4china.net
 danwei.org
@@ -1385,6 +1387,7 @@ telecomspace.com
 thepiratebay.org
 ||thesartorialist.com
 ||thesponty.com
+||thetibetpost.com
 thevivekspot.com
 thkphoto.com
 ||throughnightsfire.com
@@ -1698,6 +1701,7 @@ x1949x.com
 xh4n.cn/blog
 xiaoma.org
 .xinmiao.com.hk
+xizang-zhiye.org
 ||xinmiao.com.hk
 xinsheng.net
 |http://www.xinhuanet.org/
