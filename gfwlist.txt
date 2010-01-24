@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /EwE+JxiaWytYaLJRejl0g
+! Checksum: x6zRcRb6VcyTJZ5IzLa1bA
 ! Expires: 12h
-! Last Modified:  Sun, 24 Jan 2010 14:18:42 +0800
+! Last Modified:  Sun, 24 Jan 2010 14:24:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1403,9 +1403,13 @@ tiantibooks.org
 |http://tibet.com
 .tibet.net
 ||tibet.net
+tibet.org.tw
+tibetalk.com
 .tibetanyouthcongress.org
 ||tibetanyouthcongress.org
 tibetfund.org
+||tibetonline.tv
+.tibetonline.tv
 http://www.time.com/time/time100/leaders/profile/rebel.html
 ||blog.tiney.com
 ||tinypaste.com
