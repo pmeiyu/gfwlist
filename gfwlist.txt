@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: U6KVLK3FFQi2mwmUa3rzrg
+! Checksum: 3IEAbUUBJKcZzCVu53XR7A
 ! Expires: 12h
-! Last Modified:  Mon, 25 Jan 2010 21:48:44 +0800
+! Last Modified:  Mon, 25 Jan 2010 22:03:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -21,6 +21,7 @@
 .2000fun.com*bbs
 2008xianzhang.info
 ||2photo.ru
+.2tips.com
 |http://3b8.cc/
 3boys2girls.com
 |http://3cc.cc/
@@ -49,9 +50,11 @@ info.51.ca
 8ok.com/
 ||9.ly
 ||909090909.info
+.91porn.com
 .92hg.com
 97xxoo.com
 .99bbs.com
+99p2p.com
 
 !--------------------------AA--------------------------
 .aboluowang.com
@@ -365,7 +368,7 @@ dajiyuan.com
 dalailama.com
 ||dalailamaworld.com
 .dalailamaworld.com
-|http://*.damipan.com
+||damipan.com
 .danke4china.net
 danwei.org
 ||darpa.mil
@@ -408,6 +411,7 @@ dphk.org
 ||drikin.com
 ||drivingitalia.net
 ||droidie.com
+.ds-hk.net
 ||dtiblog.com
 ||duanwz.com
 ||duckmylife.com
@@ -505,6 +509,8 @@ kineox.free.fr
 ||firestorage.jp
 ||fofg.org
 ||fontyukle.com
+.fooooo.com
+||fooooo.com
 ||puttycm.free.fr
 ||free-culture.cc
 freeciv.org
@@ -787,6 +793,7 @@ hongmeimei.com
 ||hopto.org
 ||hostingpics.net
 img129.hotlinkimage.com
+hotshare.net
 ||hotspotshield.com
 .hotupub.com
 .hqcdp.org
@@ -983,6 +990,7 @@ mm36c.com
 plurktop.mmdays.com
 ||monkeeh.com
 |http://maomy.motime.com/
+||movabletype.com
 |http://www.moztw.org
 !--.mp may be removed some time
 .mp/
@@ -1003,6 +1011,7 @@ sidekick.myblog.hk
 .myforum.com.hk
 ||myforum.com.hk
 ||myforum.com.uk
+.myforummy.com
 .myfreshnet.com
 ||myparagliding.com
 .mysinablog.com
@@ -1114,6 +1123,7 @@ perfdynamics.com
 philly.com
 picturesocial.com
 .pidown.com
+.pign.net
 .ping.fm
 ||ping.fm/
 ||pingmicro.com
