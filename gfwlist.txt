@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3IEAbUUBJKcZzCVu53XR7A
+! Checksum: RS+vdZ2lnXXAcVbPZQurig
 ! Expires: 12h
-! Last Modified:  Mon, 25 Jan 2010 22:03:40 +0800
+! Last Modified:  Mon, 25 Jan 2010 22:09:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -13,6 +13,7 @@
 .141hongkong.com
 ||1688.com.au
 .1688.com.au/site1
+.18kin.com
 .18p2p.com
 1bang1.cn
 .1bao.org
@@ -28,6 +29,8 @@
 |http://www.3cc.cc/
 ||3park.net
 .3park.net
+.45av.net
+||45av.net
 .4tube.com
 ||4tube.com
 4shared.com
@@ -513,6 +516,7 @@ kineox.free.fr
 ||fooooo.com
 ||puttycm.free.fr
 ||free-culture.cc
+||freebbs.tw
 freeciv.org
 .freedl.org
 .freedomhouse.org
@@ -598,6 +602,7 @@ gongmeng.info
 gongminliliang.com
 .gopetition.com
 ||gopetition.com
+||gpowered.net
 grandtrial.org
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
@@ -773,6 +778,8 @@ myweb.hinet.net
 .hjclub.info
 ||hjclub.info
 hk-pub.com
+.hk32168.com
+||hk32168.com
 .hkbf.org
 hkcccl.org.hk
 global.hkepc.com*forum
@@ -1022,6 +1029,7 @@ sidekick.myblog.hk
 .nakido.com
 ||nakido.com
 cyberghost.natado.com
+nccwatch.org.tw
 .ncn.org
 ||ncn.org/
 |http://etools.ncol.com
@@ -1091,6 +1099,7 @@ www.orchidbbs.com
 ||orzistic.org
 osdir.com
 otweets.com
+||overstimulate.com
 share.ovi.com/media
 |http://www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
@@ -1286,6 +1295,7 @@ sesawe.net
 .shangfang.org
 |http://shangfang.org
 shapeservices.com
+||sharecool.org
 .shaunthesheep.com
 ||shaunthesheep.com
 shenshou.org
@@ -1376,6 +1386,7 @@ sysresccd.org
 blog.syx86.cn/2009/09/puff
 
 !--------------------------TT--------------------------
+.t35.com
 .t66y.com
 .tacem.org
 .taiwandaily.net
