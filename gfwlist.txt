@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RS+vdZ2lnXXAcVbPZQurig
+! Checksum: yQ0SMLCF9DAeyQqE+LCbEg
 ! Expires: 12h
-! Last Modified:  Mon, 25 Jan 2010 22:09:16 +0800
+! Last Modified:  Mon, 25 Jan 2010 22:12:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -403,6 +403,7 @@ dongde.com
 dongtaiwang.com
 .dongtaiwang.net
 ||dongtaiwang.net
+.dontfilter.us
 ||dopdf.com
 ||dopodomani.me
 ||download.hr
@@ -445,12 +446,14 @@ edoors.com
 ||elecite.com
 ||elisabethkublerross.com
 eltondisney.com
+.emodao.com
 ||emojiforichat.com
 ||endsoftpatents.org
 ||entermap.com
 epochtimes.com
 ||erights.net
 etaiwannews.com
+||etizer.org
 .evanlife.org.hk
 .exblog.jp
 ||exploader.net
@@ -766,6 +769,8 @@ hbo.com/docs/*/china
 ||hellonewyork.us
 hellotxt.com
 .hellouk.org/forum/lofiversion
+.helpeachpeople.com
+||helpeachpeople.com
 |http://www.hemidemi.com/
 .hemix.com
 ||heungkongdiscuss.com
@@ -793,6 +798,7 @@ hkjc.com
 .hkmensa.net
 .hkplaza.net/discuz
 hkreporter.com
+||hkzone.org
 blog.hnjhj.com
 hongmeimei.com
 .hootsuite.com
@@ -1276,6 +1282,7 @@ scribd.com
 secretchina.com
 .seesmic.com
 ||seesmic.com
+||seezone.net
 sejie.com
 .sendspace.com/file
 sesawe.net
@@ -1300,6 +1307,7 @@ shapeservices.com
 ||shaunthesheep.com
 shenshou.org
 shenyunperformingarts.org
+shinychan.com
 ||shixiao.org
 ||shizhao.org
 .shizhao.org
@@ -1658,7 +1666,8 @@ weijingsheng.org
 wengewang.com
 ||wenku.com
 wenxuecity.com
-www.wenyunchao.com
+.wenyunchao.com
+||wenyunchao.com
 ||westca.com
 hkg.westkit.net
 www.wet123.com
@@ -1719,6 +1728,8 @@ zh-cn.wordpress.com
 ||wormsculptor.com
 wowwiki.com
 |http://wp.me/
+.wpoforum.com
+||wpoforum.com
 wretch.cc
 .wtfpeople.com
 wuerkaixi.com
