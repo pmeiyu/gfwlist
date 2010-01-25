@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8BFsUUmbNd+zMQQJS6A8AQ
+! Checksum: 8WTOKfdaJnDcOEokCXjcwg
 ! Expires: 12h
-! Last Modified:  Mon, 25 Jan 2010 22:18:10 +0800
+! Last Modified:  Tue, 26 Jan 2010 07:20:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -83,8 +83,7 @@ allhabit.com
 alliance.org.hk
 ||alonweb.com
 ||alternate-tools.com
-!--|http://*www.amazon.com
-@@https://s3.amazonaws.com
+@@|https://s3.amazonaws.com
 amiblockedornot.com
 .amnesty.org
 amnestyusa.org
@@ -1158,13 +1157,13 @@ plurk.com
 .plus28.com
 .plusbb.com
 .pmates.com
+||pocketmonsters.net
 ||pornrapidshare.com
 .pornrapidshare.com
 ||abc.pp.ru
 ||prayforchina.net
 |http://dlstatusbar.proboards43.com/
 prozz.net
-||pocketmonsters.net
 .pokerstars.com
 ||pokerstars.com
 .pornbase.com
@@ -1823,6 +1822,7 @@ www.zaurus.org.uk
 ||zhanbin.net
 zhengjian.org
 ||zhongmeng.org
+.ziddu.com/download
 .zoozle.net
 ||zuihulu.net
 .zuihulu.net
