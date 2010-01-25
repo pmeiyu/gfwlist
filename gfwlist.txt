@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yQ0SMLCF9DAeyQqE+LCbEg
+! Checksum: 8BFsUUmbNd+zMQQJS6A8AQ
 ! Expires: 12h
-! Last Modified:  Mon, 25 Jan 2010 22:12:50 +0800
+! Last Modified:  Mon, 25 Jan 2010 22:18:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -71,6 +71,7 @@ adultfriendfinder.com
 advanscene.com
 ||aenhancers.com
 |http://www.aidsmuseum.cn/
+.aisex.com
 |http://*blog.aiweiwei.com
 .akiba-online.com/forum/index.php
 ||alabout.com
@@ -256,6 +257,7 @@ cdpwu.org
 ||cenews.eu
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
+||www.cgs.tw
 changkun.org
 .changingway.com
 |http://changingway.com/
@@ -275,6 +277,7 @@ chinaaffairs.org
 chinacomments.org
 chinadigitaltimes.net
 |http://*chinagfw.org
+||chinaguideblog.com
 .chinainperspective.com
 ||chinainperspective.net
 chinainperspective.net/ArtShow.aspx?
@@ -898,6 +901,7 @@ kanzhongguo.com
 .kodiefiles.nl
 ||kompozer.net
 .ktop.com.tw
+.ktzhk.com
 .kui.name/event
 |http://kunalanand.com
 ||www.kyohk.net
