@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: x6zRcRb6VcyTJZ5IzLa1bA
+! Checksum: dfmvzJNEuSt7hv7Jy/VzKA
 ! Expires: 12h
-! Last Modified:  Sun, 24 Jan 2010 14:24:46 +0800
+! Last Modified:  Mon, 25 Jan 2010 11:51:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1742,6 +1742,7 @@ news.yam.com
 .yi.org
 ||yihanfans.org
 yilubbs.com
+||yo2.cn
 .yogichen.org
 ||yogichen.org
 yong.hu
