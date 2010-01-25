@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dfmvzJNEuSt7hv7Jy/VzKA
+! Checksum: U6KVLK3FFQi2mwmUa3rzrg
 ! Expires: 12h
-! Last Modified:  Mon, 25 Jan 2010 11:51:37 +0800
+! Last Modified:  Mon, 25 Jan 2010 21:48:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -41,6 +41,8 @@ info.51.ca
 666kb.com
 6park.com
 ||7capture.com
+.8000.com
+||8000.com
 |http://www.881903.com
 89-64.org
 .8cyber.com
@@ -540,6 +542,7 @@ friendfeed.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
+.fulisir.us
 fulue.com
 funp.com
 .futurechinaforum.org
@@ -956,6 +959,8 @@ middle-way.net
 .mii8.com
 www5.mimima.com
 www6.mimima.com
+.mimi2000.info
+.mimivip.com
 .minghui.org
 mingpao.com
 .mingpaomonthly.com
@@ -1568,6 +1573,7 @@ dignews.udn.com
 forum.udn.com
 paper.udn.com
 video.udn.com
+.ueuo.com
 uighurbiz.net
 ||ultrawebsitehosting.com
 ultraxs.com
@@ -1579,6 +1585,7 @@ uncyclomedia.org
 .uniteddaily.com.my/index.php?
 |http://www.unknownspace.org/
 ||uocn.org
+||uploader.jp
 |http://myshare.url.com.tw/
 ||usacn.com
 |http://www.cafc.uscourts.gov/
