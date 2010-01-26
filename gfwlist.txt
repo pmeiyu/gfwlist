@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: By1rqqL6rvHgM4Ga8mIfhQ
+! Checksum: YIibQJCcuN5p4Y6klNiduA
 ! Expires: 12h
-! Last Modified:  Tue, 26 Jan 2010 13:58:23 +0800
+! Last Modified:  Tue, 26 Jan 2010 21:11:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -874,6 +874,7 @@ blog.jackjia.com
 ||jaiku.com
 ||jdev.tw/
 jeanyim.com
+||jgoodies.com
 jieshibaobao.com
 jinn.li
 .jiruan.net
