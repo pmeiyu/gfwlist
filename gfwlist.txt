@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8WTOKfdaJnDcOEokCXjcwg
+! Checksum: By1rqqL6rvHgM4Ga8mIfhQ
 ! Expires: 12h
-! Last Modified:  Tue, 26 Jan 2010 07:20:36 +0800
+! Last Modified:  Tue, 26 Jan 2010 13:58:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -519,6 +519,7 @@ kineox.free.fr
 ||fontyukle.com
 .fooooo.com
 ||fooooo.com
+||franklc.com
 ||puttycm.free.fr
 ||free-culture.cc
 ||freebbs.tw
@@ -605,6 +606,7 @@ zh.globalvoicesonline.org
 ||golang.org
 gongmeng.info
 gongminliliang.com
+||googlelabs.com
 .gopetition.com
 ||gopetition.com
 ||gpowered.net
@@ -1034,6 +1036,7 @@ sidekick.myblog.hk
 |http://mysinablog.com
 
 !--------------------------NN--------------------------
+||nagarekumo.com
 ||naitik.net
 .nakido.com
 ||nakido.com
@@ -1139,6 +1142,7 @@ penchinese.com
 .penchinese.net
 perfdynamics.com
 philly.com
+||photou.in
 picturesocial.com
 .pidown.com
 .pign.net
@@ -1341,6 +1345,7 @@ sitetag.us
 |http://skype.com
 |http://www.skype.com
 download.skype.com/SkypeSetup.exe
+||skitza.net
 m.slandr.net
 ||slheng.com
 forum.slime.com.tw
@@ -1680,6 +1685,7 @@ www.wet123.com
 |http://widget.wetpaintserv.us/
 wetpussygames.com
 wezhiyong.org
+.whatblocked.com
 .whitehats.com
 ||whyx.org
 wikidot.com
