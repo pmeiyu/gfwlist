@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2BCPTulOkMtLGRqQuVuNhA
+! Checksum: jnNjrLpkQpmTSA4IedZCNQ
 ! Expires: 12h
-! Last Modified:  Tue, 26 Jan 2010 21:16:37 +0800
+! Last Modified:  Tue, 26 Jan 2010 21:23:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -422,6 +422,8 @@ dphk.org
 ||dtiblog.com
 ||duanwz.com
 ||duckmylife.com
+.duoweitimes.com
+||duoweitimes.com
 duping.net
 dupola.com
 .dw-world.com
@@ -446,6 +448,7 @@ bbs.ecstart.com
 edoors.com
 |http://www.edubridge.com/
 ||tor.eff.org
+||egamia.com
 ||elecite.com
 ||elisabethkublerross.com
 eltondisney.com
@@ -581,6 +584,8 @@ gardennetworks.com
 72.52.81.22
 ||garretttaylor.com
 ||gaymap.cc
+.gazotube.com
+||gazotube.com
 ||gclooney.com
 gdzf.org
 ||geekatlas.com
@@ -759,6 +764,7 @@ great-firewall.com
 
 !--------------------------HH--------------------------
 h1n1china.org
+.hacg.net/bbs
 |http://hackaday.com/
 ||hackthatphone.com
 ||hackthatphone.net
@@ -1069,6 +1075,7 @@ hk*.nextmedia.com
 tw*.nextmedia.com
 ||nexton-net.jp
 ngensis.com
+tw.nicovideo.jp
 homepage2.nifty.com
 ||nihilex.com
 ||ning.com
@@ -1658,6 +1665,7 @@ www.voy.com
 .wahas.com
 waikeung.org/php_wind
 wallornot.org
+||www.wan-press.org
 ||wangafu.net
 |http://wlx.sowiki.net
 wangruoshui.net
