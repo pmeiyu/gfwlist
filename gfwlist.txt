@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YIibQJCcuN5p4Y6klNiduA
+! Checksum: 2BCPTulOkMtLGRqQuVuNhA
 ! Expires: 12h
-! Last Modified:  Tue, 26 Jan 2010 21:11:45 +0800
+! Last Modified:  Tue, 26 Jan 2010 21:16:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -405,6 +405,7 @@ dongde.com
 dongtaiwang.com
 .dongtaiwang.net
 ||dongtaiwang.net
+.dongyangjing.com
 .dontfilter.us
 ||dopdf.com
 ||dopodomani.me
@@ -1701,6 +1702,7 @@ secure.wikimedia.org
 ||wiredpen.com
 .wo.tc
 ||woeser.com
+.woopie.jp/video
 worldjournal.com
 
 !-------------Wordpress Blog-----
