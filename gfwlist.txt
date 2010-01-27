@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HoQf4vlZKfJdqhxax8wPzw
+! Checksum: pZg3xknrF3v2YC0fKsM69g
 ! Expires: 12h
-! Last Modified:  Wed, 27 Jan 2010 18:10:49 +0800
+! Last Modified:  Wed, 27 Jan 2010 21:01:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1694,6 +1694,7 @@ www.wet123.com
 wetpussygames.com
 wezhiyong.org
 .whatblocked.com
+||whatblocked.com
 .whitehats.com
 ||whyx.org
 wikidot.com
