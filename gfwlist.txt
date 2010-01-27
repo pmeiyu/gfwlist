@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jnNjrLpkQpmTSA4IedZCNQ
+! Checksum: HoQf4vlZKfJdqhxax8wPzw
 ! Expires: 12h
-! Last Modified:  Tue, 26 Jan 2010 21:23:40 +0800
+! Last Modified:  Wed, 27 Jan 2010 18:10:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -612,7 +612,6 @@ zh.globalvoicesonline.org
 ||golang.org
 gongmeng.info
 gongminliliang.com
-||googlelabs.com
 .gopetition.com
 ||gopetition.com
 ||gpowered.net
@@ -1354,7 +1353,6 @@ sitetag.us
 |http://skype.com
 |http://www.skype.com
 download.skype.com/SkypeSetup.exe
-||skitza.net
 m.slandr.net
 ||slheng.com
 forum.slime.com.tw
