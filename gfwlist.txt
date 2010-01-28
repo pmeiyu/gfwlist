@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pZg3xknrF3v2YC0fKsM69g
+! Checksum: Q4t6PdrXzIVxtp+pipJWAg
 ! Expires: 12h
-! Last Modified:  Wed, 27 Jan 2010 21:01:10 +0800
+! Last Modified:  Fri, 29 Jan 2010 00:06:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1990,6 +1990,8 @@ zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%281973%E5%B9%B4%29
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
 zh.wikipedia.org*%E8%83%A1%E9%94%A6%E6%B6%9B
+!--Hu Yao Bang
+zh.wikipedia.org*%E8%83%A1%E8%80%80%E9%82%A6
 !--Hua Guo Feng
 zh.wikipedia.org*%E5%8D%8E%E5%9B%BD%E9%94%8B
 !--Hua Yuan Ruan Jian
