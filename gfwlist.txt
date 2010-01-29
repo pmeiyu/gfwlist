@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0cQdGTKArOWbAVozJBIFMA
+! Checksum: vOhGfjC5AL5yDEGoyJ6gGQ
 ! Expires: 12h
-! Last Modified:  Fri, 29 Jan 2010 21:22:05 +0800
+! Last Modified:  Sat, 30 Jan 2010 05:31:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -981,9 +981,9 @@ mail-archive.com
 ||makemymood.com
 www.manning.com
 markmail.org*message
-||marxist.net
 .marlito.com
 ||martau.com
+||marxist.net
 |http://www.mathtunnel.com/
 .mcy.hk
 .md-t.org
@@ -1352,7 +1352,7 @@ blog.sina.com.tw
 dailynews.sina.com/
 dailynews.sina.com%2F
 forum.sina.com.hk
-||google.sina.com
+||google.sina.com^
 |http://magazines.sina.com.tw
 |http://news.sina.com/
 news.sina.com.hk
