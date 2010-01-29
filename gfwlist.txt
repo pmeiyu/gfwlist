@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q4t6PdrXzIVxtp+pipJWAg
+! Checksum: PvL97vJGFUDROtGI0bVzKA
 ! Expires: 12h
-! Last Modified:  Fri, 29 Jan 2010 00:06:12 +0800
+! Last Modified:  Fri, 29 Jan 2010 21:02:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -63,6 +63,7 @@ info.51.ca
 .aboluowang.com
 ||aboluowang.com
 .aboutus.org
+||acgkj.com
 ||forum.addonsmirror.net
 ||wiki.addonsmirror.net
 .adiscuz.info
@@ -126,6 +127,7 @@ atlaspost.com
 ||autopattic.com
 ||www.avc.com
 avno1.com
+.avno3.com
 ||axureformac.com
 
 !--------------------------BB--------------------------
@@ -247,6 +249,8 @@ www.ccdtr.org
 cclife.org
 .cctongbao.com/article/2078732
 |http://www.cdef.org
+.cdjp.org
+||cdjp.org
 |http://www.cdnews.com.tw
 www.cdp1998.org
 cdpweb.org
@@ -282,6 +286,7 @@ chinadigitaltimes.net
 chinainperspective.net/ArtShow.aspx?
 chinainperspective.net%2FArtShow.aspx%3F
 ||chinaphile.com
+||chinanews.com.hk
 chinasoul.org
 blog.chinatimes.com
 gb.chinatimes.com/gate/gb/*2007Cti-News
@@ -451,6 +456,7 @@ edoors.com
 ||egamia.com
 ||elecite.com
 ||elisabethkublerross.com
+.elog-ch.net
 eltondisney.com
 .emodao.com
 ||emojiforichat.com
@@ -502,6 +508,7 @@ fillthesquare.org
 findbook.tw
 .fireofliberty.org
 ||fireofliberty.org
+||fireuploader.com
 ||flagfox.net
 
 !--flickr.com
@@ -972,7 +979,9 @@ mail-archive.com
 ||makemymood.com
 www.manning.com
 markmail.org*message
+||marxist.net
 .marlito.com
+||martau.com
 |http://www.mathtunnel.com/
 .mcy.hk
 .md-t.org
@@ -1347,6 +1356,7 @@ news.singtao.ca
 ||cdp.sinica.edu.tw
 ||sippey.com
 ||siteks.uk.to
+||sitemaps.org
 sitetag.us
 ||skulpt.org
 ||skydur.com
@@ -1669,6 +1679,8 @@ wallornot.org
 wangruoshui.net
 www.wangruowang.org
 ||we.bs^
+.wearn.com
+||wearn.com
 ||t.webbang.net
 ||webfee.org.ru
 webs-tv.net
