@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PvL97vJGFUDROtGI0bVzKA
+! Checksum: 0cQdGTKArOWbAVozJBIFMA
 ! Expires: 12h
-! Last Modified:  Fri, 29 Jan 2010 21:02:25 +0800
+! Last Modified:  Fri, 29 Jan 2010 21:22:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -603,6 +603,7 @@ gdzf.org
 .geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
 geocities.jp
+||geohot.com
 getchu.com
 ||getjetso.com
 ||getuploader.com
@@ -795,6 +796,7 @@ hellotxt.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
 ||hidemyass.com
+||highscalability.com
 ||hikipedia.info
 myweb.hinet.net
 .hjclub.info
@@ -1238,17 +1240,18 @@ python.org*download
 .qienkuen.org
 ||qienkuen.org
 qixianglu.cn
-bbs.qoos.com
-space.qoos.com
+||qoos.com
 blog.qooza.hk*dafengqixi
 |http://www.quarterlife.com
 |http://quke.cn
 qusi8.net
+.qvodzy.org
 nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
 
 !--------------------------RR--------------------------
 www.radioaustralia.net.au*chinese*articles*
+||radiovaticana.org
 .randyblue.com
 ||randyblue.com
 rangzen.org
@@ -1314,6 +1317,7 @@ sesawe.net
 ||seul.org
 .sevenload.com
 ||sevenload.com
+.sex8.cc
 .sexinsex.net
 !--IP of SexInSex
 67.220.91.23
@@ -1348,6 +1352,7 @@ blog.sina.com.tw
 dailynews.sina.com/
 dailynews.sina.com%2F
 forum.sina.com.hk
+||google.sina.com
 |http://magazines.sina.com.tw
 |http://news.sina.com/
 news.sina.com.hk
@@ -1355,6 +1360,7 @@ news.sina.com.tw
 news.singtao.ca
 ||cdp.sinica.edu.tw
 ||sippey.com
+||siteadvisor.com
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
@@ -1484,6 +1490,7 @@ tokyo-hot.com
 .topshareware.com
 ||topstyle4.com
 topsy.com
+.touch99.com
 ||tornadoweb.org
 torproject.org
 touch99.com
@@ -1692,6 +1699,8 @@ webworkerdaily.com
 .wefong.com
 weijingsheng.org
 wengewang.com
+.wengewang.org
+||wengewang.org
 ||wenku.com
 wenxuecity.com
 .wenyunchao.com
