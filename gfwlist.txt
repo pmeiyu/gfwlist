@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vOhGfjC5AL5yDEGoyJ6gGQ
+! Checksum: 0STVBo8tIXkkLH4FyPY7AQ
 ! Expires: 12h
-! Last Modified:  Sat, 30 Jan 2010 05:31:13 +0800
+! Last Modified:  Fri, 29 Jan 2010 21:40:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -229,6 +229,7 @@ bullogger.com
 holz.byethost8.com
 
 !--------------------------CC--------------------------
+.cadeoak.co.cc
 cafepress.com
 ||cantonese.ca
 canyu.org
@@ -844,6 +845,7 @@ hulu.com
 |http://i1.hk/
 |http://board.i-cable.com
 |http://cablenews.i-cable.com
+||iamvip.net
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 ||icanhascheezburger.com
@@ -856,6 +858,7 @@ ibiblio.org/pub/packages/ccic
 ||illusionfactory.com
 |http://im.tv/
 |http://www.im.tv/
+||imageboo.com
 ||imageshack.us
 ||imagevenue.com
 .imdb.com
@@ -1159,6 +1162,8 @@ peacehall.com
 penchinese.com
 ||penchinese.net
 .penchinese.net
+.penthouse.com
+||feeds.people.com
 perfdynamics.com
 philly.com
 ||photou.in
@@ -1185,6 +1190,7 @@ plurk.com
 .pornrapidshare.com
 ||abc.pp.ru
 ||prayforchina.net
+.privatepaste.com
 |http://dlstatusbar.proboards43.com/
 prozz.net
 .pokerstars.com
@@ -1263,6 +1269,7 @@ rcinet.ca
 .readingtimes.com.tw
 ||readingtimes.com.tw
 .realraptalk.com
+.redtube.com
 ||refer.ccbill.com
 ||reloaded.org
 renminbao.com
@@ -1359,6 +1366,7 @@ news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
 ||cdp.sinica.edu.tw
+.sinonet.ca
 ||sippey.com
 ||siteadvisor.com
 ||siteks.uk.to
@@ -1790,8 +1798,10 @@ xinsheng.net
 |http://www.xinhuanet.org/
 .xmarks.com
 ||xmarks.com
+||xnview.com
 .xnxx.com
 ||xnxx.com
+||xs.to
 xtube.com
 blog.xuite.net
 ||photo.xuite.net
