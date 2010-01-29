@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0STVBo8tIXkkLH4FyPY7AQ
+! Checksum: Dd/3TQE6txnMXWPTQaNKmw
 ! Expires: 12h
-! Last Modified:  Fri, 29 Jan 2010 21:40:44 +0800
+! Last Modified:  Fri, 29 Jan 2010 21:45:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -742,6 +742,7 @@ sites.google.com
 video.google.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
+myboooks.googlepages.com
 .googlevideo.com
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
@@ -950,6 +951,7 @@ lifestream.fm
 |http://cle.linux.org.tw/
 linuxconfig.org
 lipuman.com
+||livingonline.us
 ||locafollow.com
 
 !-------------live spaces-----
@@ -1962,6 +1964,8 @@ gfwProxyEnabled=yes
 zh.wikipedia.org*08%E5%AE%AA%E7%AB%A0
 !--1989 Nian
 zh.wikipedia.org*1989%E5%B9%B4
+!--610 Ban Gong Shi
+zh.wikipedia.org*610%E8%BE%A6%E5%85%AC%E5%AE%A4
 zh.wikipedia.org*Anti-CNN
 !--A Pei A Wang Jin Mei
 zh.wikipedia.org*%E9%98%BF%E6%B2%9B%C2%B7%E9%98%BF%E6%97%BA%E6%99%8B%E7%BE%8E
