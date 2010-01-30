@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: oJrbUnwS8uINT9GULaPJlQ
+! Checksum: pNjU7SEemIH+IstfYxHs0Q
 ! Expires: 12h
-! Last Modified:  Sat, 30 Jan 2010 13:05:57 +0800
+! Last Modified:  Sat, 30 Jan 2010 13:07:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2024,8 +2024,10 @@ zh.wikipedia.org*Google%E5%AE%A1%E6%9F%A5
 zh.wikipedia.org*%E5%9B%BD%E4%BF%9D
 !--Guo Bo Xiong
 zh.wikipedia.org*%E9%83%AD%E4%BC%AF%E9%9B%84
-!-Guo Nei An Quan Bao Wei Zhi Dui
+!--Guo Nei An Quan Bao Wei Zhi Dui
 zh.wikipedia.org*%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E4%BF%9D%E5%8D%AB%E6%94%AF%E9%98%9F
+!--Guo Wu Yuan Fang Fan He Chu Li Xie Jiao Wen Ti Ban Gong Shi
+zh.wikipedia.org*%E5%9C%8B%E5%8B%99%E9%99%A2%E9%98%B2%E7%AF%84%E5%92%8C%E8%99%95%E7%90%86%E9%82%AA%E6%95%99%E5%95%8F%E9%A1%8C%E8%BE%A6%E5%85%AC%E5%AE%A4
 !--He Guo Qiang
 zh.wikipedia.org*%E8%B4%BA%E5%9B%BD%E5%BC%BA
 !--Hou De Jian
