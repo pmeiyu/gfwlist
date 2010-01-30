@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UBhKeOYhcyXizJFuWqpWSw
+! Checksum: 0FxT1Y9CXhJplEZeTLf/4g
 ! Expires: 12h
-! Last Modified:  Sat, 30 Jan 2010 18:30:51 +0800
+! Last Modified:  Sat, 30 Jan 2010 18:36:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -478,7 +478,7 @@ eyny.com
 ||fa-in.org
 .facebook.com
 ||facebook.com
-/^https?:\/\/(?:\w+[\.-]?)*facebook\.com/
+!--/^https?:\/\/(?:\w+[\.-]?)*facebook\.com/
 !--facebook cdn
 ||fbcdn.net
 fail.hk
@@ -1855,7 +1855,7 @@ share.youthwant.com.tw
 topic.youthwant.com.tw
 .youtube.com
 ||youtube.com
-/^https?:\/\/(?:\w+[\.-]?)*youtube\.com/
+!--/^https?:\/\/(?:\w+[\.-]?)*youtube\.com/
 !-Youtube CDN
 .ytimg.com
 ytht.net
