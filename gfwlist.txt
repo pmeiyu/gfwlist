@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jSeoOakciVISFPp2SF77mg
+! Checksum: doNQJFxAl9ucVX5J+pwJZQ
 ! Expires: 12h
-! Last Modified:  Sat, 30 Jan 2010 18:39:12 +0800
+! Last Modified:  Sat, 30 Jan 2010 18:51:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -110,7 +110,7 @@ videoportal.aol.tw/video-detail
 ||roxypy.appspot.com
 ||twitese.appspot.com
 ||twittergadget.appspot.com
-/^https:\/\/(?:\w|-)+\.appspot\.com/
+!--/^https:\/\/(?:\w|-)+\.appspot\.com/
 ||areca-backup.org
 |http://www.arizonachinese.com
 www.asiademo.org
@@ -1600,7 +1600,7 @@ twitreferral.com
 ||twitstat.com
 .twitter.com
 ||twitter.com
-!--/^https?:\/\/(?:\w+[\.-]?)*twitter\.com/
+/^https?:\/\/(?:\w+[\.-]?)*twitter\.com/
 !--IP of Twitter
 128.121.146.228
 twittercounter.com
