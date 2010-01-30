@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eNZZ5KQ77ycbc1idk3xOkg
+! Checksum: 6fXwgFn2EXaK7DC7jWPvQw
 ! Expires: 12h
-! Last Modified:  Sat, 30 Jan 2010 19:09:35 +0800
+! Last Modified:  Sat, 30 Jan 2010 19:54:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1468,7 +1468,7 @@ thevivekspot.com
 thkphoto.com
 ||throughnightsfire.com
 .thumbzilla.com
-||thws.cn
+||thws.cn/
 tiananmenmother.org
 .tiandixing.org
 |http://tiandixing.org
