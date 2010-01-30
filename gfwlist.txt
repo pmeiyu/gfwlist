@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6fXwgFn2EXaK7DC7jWPvQw
+! Checksum: oJrbUnwS8uINT9GULaPJlQ
 ! Expires: 12h
-! Last Modified:  Sat, 30 Jan 2010 19:54:46 +0800
+! Last Modified:  Sat, 30 Jan 2010 13:05:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -259,9 +259,11 @@ cdpwu.org
 .cecc.gov
 |http://cecc.gov/
 ||cenews.eu
+||cengkewang.com
 |http://cgiproxy.us/
 |http://www.cgiproxy.us/
 ||www.cgs.tw
+||chandoo.org
 changkun.org
 .changingway.com
 |http://changingway.com/
@@ -896,6 +898,8 @@ blog.jackjia.com
 jeanyim.com
 ||jgoodies.com
 jieshibaobao.com
+.jinhai.de
+||jinhai.de
 jinn.li
 .jiruan.net
 .jizzhut.com
@@ -1058,6 +1062,8 @@ sidekick.myblog.hk
 ||myparagliding.com
 .mysinablog.com
 |http://mysinablog.com
+.blogs.myspace.com
+||blogs.myspace.com
 
 !--------------------------NN--------------------------
 ||nagarekumo.com
@@ -1658,6 +1664,7 @@ uncyclomedia.org
 .uniteddaily.com.my/index.php?
 |http://www.unknownspace.org/
 ||uocn.org
+.upload4u.info
 ||uploader.jp
 |http://myshare.url.com.tw/
 ||usacn.com
