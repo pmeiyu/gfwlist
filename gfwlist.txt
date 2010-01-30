@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fTRHkIg+MXlDp9dYdux5pw
+! Checksum: eNZZ5KQ77ycbc1idk3xOkg
 ! Expires: 12h
-! Last Modified:  Sat, 30 Jan 2010 18:54:19 +0800
+! Last Modified:  Sat, 30 Jan 2010 19:09:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -478,7 +478,7 @@ eyny.com
 ||fa-in.org
 .facebook.com
 ||facebook.com
-!--/^https?:\/\/(?:\w+[\.-]?)*facebook\.com/
+/^https?:\/\/[^\/]+facebook\.com/
 !--facebook cdn
 ||fbcdn.net
 fail.hk
@@ -1600,7 +1600,7 @@ twitreferral.com
 ||twitstat.com
 .twitter.com
 ||twitter.com
-!--/^https?:\/\/(?:\w+[\.-]?)*twitter\.com/
+/^https?:\/\/[^\/]+twitter\.com/
 !--IP of Twitter
 128.121.146.228
 twittercounter.com
@@ -1855,7 +1855,7 @@ share.youthwant.com.tw
 topic.youthwant.com.tw
 .youtube.com
 ||youtube.com
-!--/^https?:\/\/(?:\w+[\.-]?)*youtube\.com/
+/^https?:\/\/[^\/]+youtube\.com/
 !-Youtube CDN
 .ytimg.com
 ytht.net
