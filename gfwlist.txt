@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pNjU7SEemIH+IstfYxHs0Q
+! Checksum: vOlxGurlc+dThlKme/WqFA
 ! Expires: 12h
-! Last Modified:  Sat, 30 Jan 2010 13:07:15 +0800
+! Last Modified:  Mon, 01 Feb 2010 04:31:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -229,7 +229,6 @@ bullogger.com
 holz.byethost8.com
 
 !--------------------------CC--------------------------
-.cadeoak.co.cc
 cafepress.com
 ||cantonese.ca
 canyu.org
@@ -1195,20 +1194,14 @@ plurk.com
 .plusbb.com
 .pmates.com
 ||pocketmonsters.net
-||pornrapidshare.com
-.pornrapidshare.com
-||abc.pp.ru
-||prayforchina.net
-.privatepaste.com
-|http://dlstatusbar.proboards43.com/
-prozz.net
 .pokerstars.com
 ||pokerstars.com
-.pornbase.com
-||pornbase.com
 .popyard.com
 ||popyard.org
-||posterous.org
+.pornbase.com
+||pornbase.com
+.pornrapidshare.com
+||pornrapidshare.com
 
 !-------------Posterous-----
 ||holykaw.alltop.com
@@ -1240,12 +1233,17 @@ prozz.net
 |http://z-turn.cn/
 ||bill.zhong.pp.ru
 
+||posterous.org
 powerapple.com
+||abc.pp.ru
+||prayforchina.net
 ||presentationzen.com
 ||primedius.com
 privatepaste.com
+|http://dlstatusbar.proboards43.com/
 ||proxomitron.info
 ||proxypy.com
+prozz.net
 psiphon.ca
 |http://www.ptt.cc/
 ||purepdf.com
@@ -1507,7 +1505,6 @@ tokyo-hot.com
 .topshareware.com
 ||topstyle4.com
 topsy.com
-.touch99.com
 ||tornadoweb.org
 torproject.org
 touch99.com
