@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gYPNBe8K5xvIjshXnTWMdw
+! Checksum: SIckN4CBzqiBpOHUVooVjA
 ! Expires: 12h
-! Last Modified:  Mon, 01 Feb 2010 09:50:55 +0800
+! Last Modified:  Mon, 01 Feb 2010 10:42:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2165,6 +2165,8 @@ zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
 zh.wikipedia.org*%E6%9D%A8%E4%BD%B3%E8%A2%AD%E8%AD%A6%E6%A1%88
 !--Yong He Gong
 zh.wikipedia.org*%E9%9B%8D%E5%92%8C%E5%AE%AB
+!--You Ling Wang
+zh.wikipedia.org*%E5%B9%BD%E7%81%B5%E7%BD%91
 !--Yu Jie
 zh.wikipedia.org*%E4%BD%99%E6%9D%B0
 !--Yu Zheng Sheng
