@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: c0etI46/joCSwx7xodZvpA
+! Checksum: g1fSLS1E/XgF1fHc6sLY8Q
 ! Expires: 12h
-! Last Modified:  Tue, 02 Feb 2010 09:01:41 +0800
+! Last Modified:  Tue, 02 Feb 2010 10:57:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1327,6 +1327,7 @@ robtex.com
 .rssmeme.com
 ||rssmeme.com
 !-rthk.org.hk
+.rthk.org.hk/rthk/news/expressnews/news.
 rti.org.tw
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 .rushbee.com
