@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: H4qfs48Iub8XcjVmUFnwfA
+! Checksum: mwV/UIdBsNzWCn9XP/qZ6g
 ! Expires: 12h
-! Last Modified:  Wed, 03 Feb 2010 01:31:06 +0800
+! Last Modified:  Tue, 02 Feb 2010 20:14:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1496,6 +1496,7 @@ technologizer.com
 technorati.com
 ||teck.in/
 telecomspace.com
+theblemish.com
 ||thedieline.com
 ||thedw.us
 ||thelifeyoucansave.com
