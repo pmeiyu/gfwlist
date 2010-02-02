@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3POgQEu7aGMb9os39gmeeg
+! Checksum: q5iz1bm+Rhu1sYN8N8SStg
 ! Expires: 12h
-! Last Modified:  Tue, 02 Feb 2010 08:38:58 +0800
+! Last Modified:  Tue, 02 Feb 2010 08:54:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -376,7 +376,6 @@ cuihua.org
 |http://*t.niechen.com
 |http://*t.orzdream.com
 |http://*m.oulove.org
-|http://*t.waiwaier.com
 
 .daigou.in
 ||photos.dailyme.com
@@ -407,6 +406,8 @@ democrats.org
 diigo.com
 discuss.com.hk
 ||dit-inc.us
+.dizhidizhi.com
+||dl-laby.jp
 ||dlsite.com
 .dmm.co.jp
 ||dmtcs.org
@@ -785,6 +786,7 @@ great-firewall.com
 h1n1china.org
 .hacg.net/bbs
 |http://hackaday.com/
+.hacken.cc/bbs
 ||hackthatphone.com
 ||hackthatphone.net
 ||hakkatv.org.tw
@@ -823,7 +825,7 @@ global.hkepc.com*forum
 hkgolden.com
 .hkgreenradio.org/home
 .hkheadline.com*blog
-news.hkheadline.com*instantnews
+.hkheadline.com/instantnews
 hkisee.com
 hkjc.com
 .hkjp.org
@@ -889,6 +891,7 @@ is.gd/1VOp7
 .islam.org.hk
 .isaacmao.com
 ||isaacmao.com
+||ismprofessional.net
 .iterasi.net
 |http://iterasi.net
 .itweet.net
@@ -931,6 +934,7 @@ kanzhongguo.com
 ||keezmovies.com
 .kidoors.com
 .kingstone.com.tw
+.kink.com
 .kkbox.com.tw
 .kodiefiles.nl
 ||kompozer.net
@@ -974,6 +978,7 @@ lipuman.com
 |http:*hujiachina.spaces.live.com
 |http:*portis21.spaces.live.com
 |http:*siyi123123123.spaces.live.com
+|http:*twitese.spaces.live.com
 |http:*wangyi64.spaces.live.com
 |http:*wenyunchao.spaces.live.com
 |http:*yanghengjun.spaces.live.com
@@ -1058,6 +1063,7 @@ plurktop.mmdays.com
 .mplstudios.com
 .msguancha.com
 msn.com.tw
+||mthruf.com
 ||multiply.com
 ||muzi.com
 ||muzicana.uk.to
@@ -1136,7 +1142,7 @@ nysingtao.com
 observechina.net
 ||ogaoga.org
 twtr2src.ogaoga.org
-.oikos.com.tw/v4/news.php
+.oikos.com.tw/v4
 oizoblog.com
 old-cat.net
 omgili.com
@@ -1153,6 +1159,7 @@ www.orchidbbs.com
 ||orzistic.org
 osdir.com
 otweets.com
+.oursogo.com
 ||overstimulate.com
 share.ovi.com/media
 |http://www.oxbridgechina.org/bbs
@@ -1194,6 +1201,7 @@ picturesocial.com
 .ping.fm
 ||ping.fm/
 ||pingmicro.com
+||pinoy-n.com
 .piring.com
 ||pixnet.net
 @@||www.pixnet.net
@@ -1403,10 +1411,11 @@ m.slandr.net
 forum.slime.com.tw
 ||smashingshare.com
 ||snsanalystics.com
-||soc.mil
-.sod.co.jp
 ||so-ga.net
 .so-ga.net
+||soc.mil
+.sod.co.jp
+||sogclub.com
 ||soup.io/
 @@||static.soup.io
 .slinkset.com
@@ -1713,6 +1722,7 @@ www.voy.com
 ||w3schools.com
 .wahas.com
 waikeung.org/php_wind
+.waiwaier.com
 wallornot.org
 ||www.wan-press.org
 ||wangafu.net
@@ -1759,6 +1769,7 @@ wikidot.com
 .wikileaks.org
 ||wikimedia.org.mo
 ||willw.net
+zh.uncyclopedia.wikia.com
 !-WikiLeaks IP
 */88.80.13.160/*
 ||wikimapia.org
