@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: D6FDRXRqoe7XebZRJjO35A
+! Checksum: DCrX0HNWa9FOpqF+45/PPA
 ! Expires: 12h
-! Last Modified:  Tue, 02 Feb 2010 20:50:08 +0800
+! Last Modified:  Wed, 03 Feb 2010 07:05:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -51,6 +51,7 @@ info.51.ca
 ||8000.com
 |http://www.881903.com
 .888.com
+||888.com
 89-64.org
 .8cyber.com
 8ok.com/
@@ -1842,6 +1843,7 @@ wukangrui.net
 x1949x.com
 .xanga.com
 .xbookcn.com
+||xbookcn.com
 .xft.de/
 /xft.de/*
 xh4n.cn/blog
