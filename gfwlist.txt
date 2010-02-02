@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DCrX0HNWa9FOpqF+45/PPA
+! Checksum: VQNyloI3tJun1sHqT7rCQQ
 ! Expires: 12h
-! Last Modified:  Wed, 03 Feb 2010 07:05:42 +0800
+! Last Modified:  Tue, 02 Feb 2010 23:17:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1301,6 +1301,7 @@ rangzen.org
 ranyunfei.com
 .rapidshare1.com
 .rapidsharedata.com
+||ratoo.tk
 rcinet.ca
 .read100.com
 .readingtimes.com.tw
