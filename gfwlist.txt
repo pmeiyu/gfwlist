@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SIckN4CBzqiBpOHUVooVjA
+! Checksum: 3POgQEu7aGMb9os39gmeeg
 ! Expires: 12h
-! Last Modified:  Mon, 01 Feb 2010 10:42:19 +0800
+! Last Modified:  Tue, 02 Feb 2010 08:38:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -113,6 +113,7 @@ videoportal.aol.tw/video-detail
 /^https:\/\/(?:\w|-)+\.appspot\.com/
 ||areca-backup.org
 |http://www.arizonachinese.com
+||army.mil
 www.asiademo.org
 .asianbabymakers.com
 .asianews.it
@@ -128,6 +129,7 @@ atlaspost.com
 ||www.avc.com
 avno1.com
 .avno3.com
+||axiom-developer.org
 ||axureformac.com
 
 !--------------------------BB--------------------------
@@ -287,6 +289,8 @@ chinadigitaltimes.net
 ||chinainperspective.net
 chinainperspective.net/ArtShow.aspx?
 chinainperspective.net%2FArtShow.aspx%3F
+.chinamule.com
+||chinamule.com
 ||chinaphile.com
 ||chinanews.com.hk
 chinasoul.org
@@ -296,6 +300,8 @@ news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 news.chinatimes.com/2007Cti/2007Cti-News/2007Cti-News-Content/0,4521,130505
 chinaway.org
 ||chinaweekly.com
+.chinese-hermit.net
+||chinese-hermit.net
 .chinesen.de
 ||chinesen.de
 chinesenewsnet.com
@@ -529,6 +535,7 @@ www.forum4hk.com
 .free.fr/adsl
 kineox.free.fr
 ||firestorage.jp
+||flecheinthepeche.fr
 ||fofg.org
 ||fontyukle.com
 .fooooo.com
@@ -721,6 +728,7 @@ google.com*analytics*zh-CN
 |http://code.google.com/p/cngepi/downloads/
 code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
+code.google.com/p/program-think/wiki/Software/
 !--Feng Zheng Hu
 docs.google.com*view*id*dg5mtmj9_8g3hk27f5
 docs.google.com*View*id*dg5mtmj9_3188x48zcn
@@ -810,6 +818,7 @@ hk-pub.com
 ||hk32168.com
 .hkbf.org
 hkcccl.org.hk
+.hkday.net
 global.hkepc.com*forum
 hkgolden.com
 .hkgreenradio.org/home
@@ -967,6 +976,7 @@ lipuman.com
 |http:*siyi123123123.spaces.live.com
 |http:*wangyi64.spaces.live.com
 |http:*wenyunchao.spaces.live.com
+|http:*yanghengjun.spaces.live.com
 |http:*yezimary.spaces.live.com
 |http:*zengjinyan.spaces.live.com
 |http:*zhllg.spaces.live.com
@@ -989,6 +999,7 @@ mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
 www.manning.com
+||marines.mil
 markmail.org*message
 .marlito.com
 ||martau.com
@@ -1117,6 +1128,7 @@ no-ip.com
 forum.nownews.com
 .nowtorrents.com
 ntdtv.com
+||cbs.ntu.edu.tw
 ||nuexpo.com
 nysingtao.com
 
@@ -1155,6 +1167,7 @@ forum.palmislife.com
 .parade.com/dictators/2009
 .pastie.org
 ||pastie.org
+||blog.pathtosharepoint.com
 pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
@@ -1321,6 +1334,7 @@ savetibet.org
 ||say2.info
 scribd.com
 secretchina.com
+||secretgarden.no
 .seesmic.com
 ||seesmic.com
 ||seezone.net
@@ -1389,6 +1403,7 @@ m.slandr.net
 forum.slime.com.tw
 ||smashingshare.com
 ||snsanalystics.com
+||soc.mil
 .sod.co.jp
 ||so-ga.net
 .so-ga.net
@@ -1436,6 +1451,7 @@ cn2.streetvoice.com
 tw.streetvoice.com
 ||suicideblitz.info
 ||summize.com
+||syncback.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
 
@@ -1667,7 +1683,9 @@ uncyclomedia.org
 ||usacn.com
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
+||usmc.mil
 ustream.tv
+||uvumi.com
 .uwants.com
 
 !--------------------------VV--------------------------
@@ -1730,6 +1748,8 @@ www.wet123.com
 |http://widget.wetpaintserv.us/
 wetpussygames.com
 wezhiyong.org
+.wforum.com
+||wforum.com
 .whatblocked.com
 ||whatblocked.com
 .whitehats.com
