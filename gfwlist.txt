@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mwV/UIdBsNzWCn9XP/qZ6g
+! Checksum: Jm9qZ/YJ/xnEGwdDfGkE5w
 ! Expires: 12h
-! Last Modified:  Tue, 02 Feb 2010 20:14:09 +0800
+! Last Modified:  Tue, 02 Feb 2010 20:26:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -50,6 +50,7 @@ info.51.ca
 .8000.com
 ||8000.com
 |http://www.881903.com
+.888.com
 89-64.org
 .8cyber.com
 8ok.com/
