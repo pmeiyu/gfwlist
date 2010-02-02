@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: g1fSLS1E/XgF1fHc6sLY8Q
+! Checksum: fxmQa0TSmyj2E2/cC7t8Ag
 ! Expires: 12h
-! Last Modified:  Tue, 02 Feb 2010 10:57:57 +0800
+! Last Modified:  Tue, 02 Feb 2010 17:22:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -316,7 +316,6 @@ www.cityrag.com
 ||civicparty.hk
 psiphon.civisec.org
 |http://www.civisec.org
-.cjb.net
 ck101.com
 ||clip2net.com
 cmule.com
@@ -516,6 +515,7 @@ http://ff.im
 .fgmtv.org
 .fileden.com
 |http://fileden.com
+||filestube.com
 fillthesquare.org
 findbook.tw
 .fireofliberty.org
@@ -1620,6 +1620,7 @@ twisternow.com
 twistory.net
 .twit2d.com
 ||twit2d.com
+twitbrowser.net
 ||twitcause.com
 ||twitgether.com
 ||twiggit.org
