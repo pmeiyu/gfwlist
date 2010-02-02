@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: T/cyVbgac2ict/s0yf1Bbw
+! Checksum: vOKVokJz9Z3VnGxPBSav0w
 ! Expires: 12h
-! Last Modified:  Wed, 03 Feb 2010 00:08:17 +0800
+! Last Modified:  Wed, 03 Feb 2010 00:09:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -232,7 +232,6 @@ boxun.com
 .breakingtweets.com
 |http://breakingtweets.com
 bullogger.com
-||buxulianxiang.com
 holz.byethost8.com
 
 !--------------------------CC--------------------------
