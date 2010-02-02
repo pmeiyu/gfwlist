@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VQNyloI3tJun1sHqT7rCQQ
+! Checksum: cY0xgQhLhuYvqBU5s0yofQ
 ! Expires: 12h
-! Last Modified:  Tue, 02 Feb 2010 23:17:11 +0800
+! Last Modified:  Tue, 02 Feb 2010 23:54:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1160,6 +1160,7 @@ omnitalk.
 ||onebigfluke.com
 .oopsforum.com
 open.com.hk
+||openid.cn
 opera.com/mini
 ||mini.opera.com
 my.opera.com
