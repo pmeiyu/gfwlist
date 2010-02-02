@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vOKVokJz9Z3VnGxPBSav0w
+! Checksum: lAWzD9QNlSLwwh+EILmXDA
 ! Expires: 12h
-! Last Modified:  Wed, 03 Feb 2010 00:09:19 +0800
+! Last Modified:  Wed, 03 Feb 2010 08:18:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -709,7 +709,6 @@ grandtrial.org
 ||www.zimbu.org
 
 !-------------Google.ghs.72.14.203.121-----
-!-|http://www.autoproxy.org
 !-||blog.bao3.com.cn
 !-||myc.cnkk.org
 !-||www.geektang.com
