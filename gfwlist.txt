@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Jm9qZ/YJ/xnEGwdDfGkE5w
+! Checksum: D6FDRXRqoe7XebZRJjO35A
 ! Expires: 12h
-! Last Modified:  Tue, 02 Feb 2010 20:26:55 +0800
+! Last Modified:  Tue, 02 Feb 2010 20:50:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1841,6 +1841,7 @@ wukangrui.net
 !--------------------------XX--------------------------
 x1949x.com
 .xanga.com
+.xbookcn.com
 .xft.de/
 /xft.de/*
 xh4n.cn/blog
