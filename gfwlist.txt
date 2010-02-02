@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fxmQa0TSmyj2E2/cC7t8Ag
+! Checksum: ViOXE4NjtiLfcKX5EbT9Bw
 ! Expires: 12h
-! Last Modified:  Tue, 02 Feb 2010 17:22:28 +0800
+! Last Modified:  Wed, 03 Feb 2010 01:27:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -34,6 +34,7 @@
 .4tube.com
 ||4tube.com
 4shared.com
+bbs.51.ca
 info.51.ca
 ||520.be
 5maodang.com
