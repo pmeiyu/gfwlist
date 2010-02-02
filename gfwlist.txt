@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: q5iz1bm+Rhu1sYN8N8SStg
+! Checksum: c0etI46/joCSwx7xodZvpA
 ! Expires: 12h
-! Last Modified:  Tue, 02 Feb 2010 08:54:26 +0800
+! Last Modified:  Tue, 02 Feb 2010 09:01:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -388,6 +388,7 @@ dalailama.com
 ||damipan.com
 .danke4china.net
 danwei.org
+.daolan.net
 ||darpa.mil
 daxa.cn
 ||dba2csv.com
@@ -414,6 +415,7 @@ discuss.com.hk
 |http://www.docbook.org/
 .dojin.com
 ||dokoda.jp
+||domai.nr
 .domain.club.tw
 dongde.com
 dongtaiwang.com
@@ -731,6 +733,7 @@ code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
 code.google.com/p/program-think/wiki/Software/
 !--Feng Zheng Hu
+docs.google.com/View?id=d8xbpp6_4hhpb2dfd
 docs.google.com*view*id*dg5mtmj9_8g3hk27f5
 docs.google.com*View*id*dg5mtmj9_3188x48zcn
 feedproxy.google.com
@@ -1046,6 +1049,7 @@ mirrorbooks.com
 mitbbs.com
 .mixx.com
 ||mixx.com
+.mlcool.com
 mm36c.com
 ||mmaaxx.com
 plurktop.mmdays.com
@@ -1331,9 +1335,10 @@ rti.org.tw
 .rxhj.net
 ||rxhj.net
 
-!--------------------------SS--------------------------
+!-------------------------SS--------------------------
 ||s-a.cc
 ||s1heng.com
+.saiq.me
 .salvation.org.hk
 ||salvation.org.hk
 ||sandradodd.com
@@ -1354,6 +1359,7 @@ sesawe.net
 .sevenload.com
 ||sevenload.com
 .sex8.cc
+.sexandsubmission.com
 .sexinsex.net
 !--IP of SexInSex
 67.220.91.23
@@ -1416,6 +1422,7 @@ forum.slime.com.tw
 ||soc.mil
 .sod.co.jp
 ||sogclub.com
+||somee.com
 ||soup.io/
 @@||static.soup.io
 .slinkset.com
@@ -1763,6 +1770,7 @@ wezhiyong.org
 .whatblocked.com
 ||whatblocked.com
 .whitehats.com
+.whippedass.com
 ||whyx.org
 wikidot.com
 @@static.wikidot.com
