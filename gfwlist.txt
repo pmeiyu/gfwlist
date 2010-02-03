@@ -1,7 +1,7 @@
  [AutoProxy 0.2.9]
-! Checksum: MRe4SX6C73iA9Tslcz8lMQ
+! Checksum: 5nePTpJVtpo90cCNe7r/+A
 ! Expires: 12h
-! Last Modified:  Wed, 03 Feb 2010 22:11:38 +0800
+! Last Modified:  Wed, 03 Feb 2010 22:33:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -177,6 +177,7 @@ bignews.org
 ||bit.ly
 ||bkite.com
 ||blackberry.com/Downloads
+||blackra1n.com
 .blip.tv
 /blip.tv
 .blogcatalog.com
