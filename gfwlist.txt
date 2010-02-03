@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZcN+cCq7larrShwtRdS3ww
+! Checksum: 8i3lKPLphc0WtVLpvA48wA
 ! Expires: 12h
-! Last Modified:  Wed, 03 Feb 2010 08:31:17 +0800
+! Last Modified:  Wed, 03 Feb 2010 12:58:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -972,6 +972,7 @@ libertytimes.com.tw
 ||lifemotivations.com
 lifestream.fm
 ||lilzo.com
+||linkinpark.com
 |http://cle.linux.org.tw/
 linuxconfig.org
 lipuman.com
@@ -984,6 +985,7 @@ lipuman.com
 |http:*huajiadi.spaces.live.com
 |http:*hujiachina.spaces.live.com
 |http:*portis21.spaces.live.com
+|http:*program-think.spaces.live.com
 |http:*siyi123123123.spaces.live.com
 |http:*twitese.spaces.live.com
 |http:*wangyi64.spaces.live.com
@@ -1025,6 +1027,7 @@ mediafire.com
 ||megaporn.com
 .megaupload.com/?d=4
 megavideo.com
+||melon-peach.com
 memedia.cn
 .met-art.com
 .metacafe.com/watch
@@ -1107,6 +1110,7 @@ netcolony.com
 bolin.netfirms.com
 netme.cc
 new-3lunch.net
+.new-akiba.com
 newcenturynews.com
 .newgrounds.com
 .newnews.ca
@@ -1367,6 +1371,7 @@ sesawe.net
 ||sevenload.com
 .sex8.cc
 .sexandsubmission.com
+.sexhu.com
 .sexinsex.net
 !--IP of SexInSex
 67.220.91.23
