@@ -1,7 +1,7 @@
  [AutoProxy 0.2.9]
-! Checksum: TJ/PEkZBVK1nPoiw9ageXQ
+! Checksum: MRe4SX6C73iA9Tslcz8lMQ
 ! Expires: 12h
-! Last Modified:  Wed, 03 Feb 2010 22:06:46 +0800
+! Last Modified:  Wed, 03 Feb 2010 22:11:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1045,6 +1045,7 @@ mingpaonews.com
 .mingpaosf.com
 .mingpaotor.com
 .mingpaovan.com
+.mininova.org/tor/2593503
 .minzhuhua.net
 ||minzhuhua.net
 minzhuzhongguo.org
