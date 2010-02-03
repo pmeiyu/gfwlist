@@ -1,7 +1,7 @@
  [AutoProxy 0.2.9]
-! Checksum: Ac5FIig7kniBk/UKK6oQCw
+! Checksum: KAtySuXAB7zTjklU96pDLg
 ! Expires: 12h
-! Last Modified:  Wed, 03 Feb 2010 22:47:33 +0800
+! Last Modified:  Wed, 03 Feb 2010 22:51:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -197,6 +197,7 @@ boltbrowser.com*download
 bomb.tv
 ||books.com.tw
 .bot.nu
+.bravoteens.com
 briian.com
 brightkite.com
 bspon.com
@@ -591,6 +592,7 @@ friendfeed.com
 fuckgfw.org
 .fulisir.us
 fulue.com
+.funny-games.biz
 funp.com
 .futurechinaforum.org
 ||fzh999.net
@@ -787,6 +789,7 @@ gpass1.com
 |http://www.gproxy.com
 twitter.grader.com
 great-firewall.com
+gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gutenberg.org
 ||gwenbell.com
