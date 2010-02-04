@@ -1,7 +1,7 @@
  [AutoProxy 0.2.9]
-! Checksum: eXHGy0sTXAnJo95ho6RxMw
+! Checksum: EI18C8vNYnFTuiTg40gFsw
 ! Expires: 12h
-! Last Modified:  Thu, 04 Feb 2010 17:50:26 +0800
+! Last Modified:  Thu, 04 Feb 2010 12:28:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -745,17 +745,7 @@ docs.google.com/View?id=d8xbpp6_4hhpb2dfd
 docs.google.com*view*id*dg5mtmj9_8g3hk27f5
 docs.google.com*View*id*dg5mtmj9_3188x48zcn
 feedproxy.google.com
-|http:*groups.google.com*group
-!--groups.google.com*group*bypassgfw
-!--groups.google.com*group*cn.bbs.comp.dotnet
-!--groups.google.com*group*cn.fan
-!--groups.google.com*group*fans
-!--groups.google.com*group*gfw-blog
-!--groups.google.com*group*jieshibaobaozhijia
-!--groups.google.com*group*lihlii
-!--groups.google.com*group*mindex
-!--groups.google.com*group*python-cn
-!--groups.google.com*group*zh_wikipedia
+||groups.google.com
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 |http://picasaweb.google.com/
 sites.google.com
@@ -889,6 +879,7 @@ ibiblio.org/pub/packages/ccic
 ||imagevenue.com
 .imlive.com
 |http://www.inmediahk.net/
+||interfaceaddiction.com
 internetfreedom.org
 ||internetpopculture.com
 ||iphonehacks.com
@@ -941,6 +932,7 @@ kanzhongguo.com
 .keepandshare.com/visit/visit_page.php?i=688154
 .keezmovies.com
 ||keezmovies.com
+.khmusic.com.tw
 .kidoors.com
 .kingstone.com.tw
 .kink.com
@@ -1037,9 +1029,10 @@ memedia.cn
 middle-way.net
 .mihk.hk
 .mii8.com
+.mimi2000.info
 www5.mimima.com
 www6.mimima.com
-.mimi2000.info
+.mimip2p.net
 .mimivip.com
 .minghui.org
 mingpao.com
@@ -1176,6 +1169,7 @@ www.orchidbbs.com
 osdir.com
 otweets.com
 .oursogo.com
+|http://oursogo.com
 ||overstimulate.com
 share.ovi.com/media
 |http://www.oxbridgechina.org/bbs
@@ -1459,6 +1453,7 @@ sokamonline.com
 |http://www.sopcast.org
 soundofhope.org
 ||soupofmedia.com
+sourceforge.net/projects/portabletor/files/
 sowers.org.hk
 .speedpluss.org
 |http://my.spill.com
@@ -1847,7 +1842,7 @@ wowwiki.com
 wretch.cc
 .wtfpeople.com
 wuerkaixi.com
-.wujie.net
+wujie.net
 wukangrui.net
 
 !--------------------------XX--------------------------
@@ -2075,6 +2070,8 @@ zh.wikipedia.org*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 zh.wikipedia.org*%E6%96%B9%E5%8A%B1%E4%B9%8B
 !--Fen Qing
 zh.wikipedia.org*%E6%84%A4%E9%9D%92
+!--Gao Zhi Sheng
+zh.wikipedia.org*%E9%AB%98%E6%99%BA%E6%99%9F
 zh.wikipedia.org*GFW
 !--Google Shen Cha
 zh.wikipedia.org*Google%E5%AE%A1%E6%9F%A5
