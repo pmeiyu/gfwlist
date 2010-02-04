@@ -1,7 +1,7 @@
  [AutoProxy 0.2.9]
-! Checksum: KAtySuXAB7zTjklU96pDLg
+! Checksum: eXHGy0sTXAnJo95ho6RxMw
 ! Expires: 12h
-! Last Modified:  Wed, 03 Feb 2010 22:51:02 +0800
+! Last Modified:  Thu, 04 Feb 2010 17:50:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -832,7 +832,7 @@ hk-pub.com
 ||hk32168.com
 .hkbf.org
 hkcccl.org.hk
-.hkday.net
+hkday.net
 global.hkepc.com*forum
 hkgolden.com
 .hkgreenradio.org/home
