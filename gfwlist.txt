@@ -1,7 +1,7 @@
- [AutoProxy 0.2.9]
-! Checksum: EI18C8vNYnFTuiTg40gFsw
+[AutoProxy 0.2.9]
+! Checksum: siD+x96h+r1BoEpTrWOgOA
 ! Expires: 12h
-! Last Modified:  Thu, 04 Feb 2010 12:28:28 +0800
+! Last Modified:  Thu, 04 Feb 2010 23:37:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -975,6 +975,7 @@ lipuman.com
 
 !-------------live spaces-----
 |http:*flowerofhappiness.spaces.live.com
+|http:*gufeng521.spaces.live.com
 |http:*honeonet.spaces.live.com
 |http:*huajiadi.spaces.live.com
 |http:*hujiachina.spaces.live.com
@@ -1396,6 +1397,7 @@ shinychan.com
 ||shooshtime.com
 ||shulib.com
 |http://ch.shvoong.com/
+||simplenoteapp.com
 simpleproductivityblog.com
 bbs.sina.com/
 bbs.sina.com%2F
@@ -1620,11 +1622,13 @@ tweepml.org
 tweetmeme.com*story
 ||tweetrans.com
 tweetree.com
+||tweetwally.com
 .twibble.de
 ||twibble.de
 twibbon.com
 ||twigee.com
 ||twindexx.com
+||twilightrender.com
 twilog.org
 ||twip.me/
 ||twisell.com
@@ -2072,6 +2076,8 @@ zh.wikipedia.org*%E6%96%B9%E5%8A%B1%E4%B9%8B
 zh.wikipedia.org*%E6%84%A4%E9%9D%92
 !--Gao Zhi Sheng
 zh.wikipedia.org*%E9%AB%98%E6%99%BA%E6%99%9F
+!--Di Shi Yi Shi Ban Chan Er Er De Ni Geng Deng Que Ji Ni Ma
+zh.wikipedia.org*E6%9B%B4%E7%99%BB%E7%A2%BA%E5%90%89%E5%B0%BC%E7%91%AA
 zh.wikipedia.org*GFW
 !--Google Shen Cha
 zh.wikipedia.org*Google%E5%AE%A1%E6%9F%A5
