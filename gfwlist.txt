@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5WwYzuVh0u4T4mAm/JXF9g
+! Checksum: Te+8ZVpSTvYTQ8jrOEiZyw
 ! Expires: 12h
-! Last Modified:  Fri, 05 Feb 2010 22:56:07 +0800
+! Last Modified:  Sat, 06 Feb 2010 00:56:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -729,7 +729,7 @@ grandtrial.org
 !-------------Google.other-----
 |https://calendar.google.com
 |https://chrome.google.com
-|https://clients2.google.com
+|https://clients*.google.com
 |https://docs.google.com
 |https://services.google.com
 |https://talkgadget.google.com
