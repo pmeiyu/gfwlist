@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bxeKufQuSo3UqMiX5SS0Og
+! Checksum: 2tDhROiHueE1FYhkAV/NXw
 ! Expires: 12h
-! Last Modified:  Fri, 05 Feb 2010 00:44:33 +0800
+! Last Modified:  Fri, 05 Feb 2010 12:34:24 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -23,6 +23,8 @@
 2008xianzhang.info
 ||2photo.ru
 .2tips.com
+.36rain.com
+||36rain.com
 |http://3b8.cc/
 3boys2girls.com
 |http://3cc.cc/
