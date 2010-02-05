@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2PdzSQqweu2hH8ze/jMJRA
+! Checksum: 5WwYzuVh0u4T4mAm/JXF9g
 ! Expires: 12h
-! Last Modified:  Fri, 05 Feb 2010 21:12:17 +0800
+! Last Modified:  Fri, 05 Feb 2010 22:56:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -16,7 +16,7 @@
 .18kin.com
 .18p2p.com
 1bang1.cn
-.1bao.org
+||1bao.org
 ||1pondo.tv
 .1pondo.tv
 .2000fun.com*bbs
@@ -667,7 +667,8 @@ grandtrial.org
 ||dev.chromium.org
 @@||build.chromium.org
 ||rss.cnn.com
-||feeds.digg.com
+||feeds.digg.co
+||mail.diyang.orgm
 ||blog.doughellmann.com
 ||downforeveryoneorjustme.com
 ||dumblittleman.com
@@ -1927,6 +1928,8 @@ topic.youthwant.com.tw
 .youtube.com
 ||youtube.com
 /^https?:\/\/[^\/]+youtube\.com/
+.youtubecn.com
+||youtubecn.com
 !-Youtube CDN
 .ytimg.com
 ytht.net
