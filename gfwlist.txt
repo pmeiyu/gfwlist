@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: s67Obzy6pJ1X41iHdMA4rA
+! Checksum: ATf6Tg9JlRNwdxGahhCkbQ
 ! Expires: 12h
-! Last Modified:  Fri, 05 Feb 2010 12:43:35 +0800
+! Last Modified:  Fri, 05 Feb 2010 15:50:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -14,7 +14,6 @@
 ||1688.com.au
 .1688.com.au/site1
 .18kin.com
-.18p2p.com
 1bang1.cn
 .1bao.org
 ||1pondo.tv
@@ -609,6 +608,8 @@ forum.gamer.com.tw
 .gamez.com.tw
 ||gamez.com.tw
 gaopi.com
+.gaopi.net
+||gaopi.net
 gardennetworks.com
 ||gardennetworks.org
 !--IP of Garden Network
@@ -1753,6 +1754,7 @@ www.voy.com
 .wahas.com
 waikeung.org/php_wind
 .waiwaier.com
+|http://waiwaier.com
 wallornot.org
 ||www.wan-press.org
 ||wangafu.net
