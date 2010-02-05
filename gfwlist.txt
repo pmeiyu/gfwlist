@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ATf6Tg9JlRNwdxGahhCkbQ
+! Checksum: 2PdzSQqweu2hH8ze/jMJRA
 ! Expires: 12h
-! Last Modified:  Fri, 05 Feb 2010 15:50:59 +0800
+! Last Modified:  Fri, 05 Feb 2010 21:12:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -14,6 +14,7 @@
 ||1688.com.au
 .1688.com.au/site1
 .18kin.com
+.18p2p.com
 1bang1.cn
 .1bao.org
 ||1pondo.tv
