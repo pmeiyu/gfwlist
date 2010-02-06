@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: P1pH779GrCqoU4XMRi0yhg
+! Checksum: irMhOQ6mL0L0QbMleodNbw
 ! Expires: 12h
-! Last Modified:  Sat, 06 Feb 2010 12:18:32 +0800
+! Last Modified:  Sat, 06 Feb 2010 13:59:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -16,7 +16,7 @@
 .18kin.com
 .18p2p.com
 1bang1.cn
-||1bao.org
+.1bao.org
 ||1pondo.tv
 .1pondo.tv
 .2000fun.com*bbs
@@ -650,6 +650,7 @@ gongminliliang.com
 ||gopetition.com
 ||gpowered.net
 grandtrial.org
+||graphis.ne.jp
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
@@ -1766,6 +1767,7 @@ www.wangruowang.org
 ||we.bs^
 .wearn.com
 ||wearn.com
+||web2project.net
 ||t.webbang.net
 ||webfee.org.ru
 webs-tv.net
@@ -1863,6 +1865,7 @@ x1949x.com
 .xanga.com
 .xbookcn.com
 ||xbookcn.com
+x.xcity.jp
 .xft.de/
 /xft.de/*
 xh4n.cn/blog
