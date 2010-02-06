@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Te+8ZVpSTvYTQ8jrOEiZyw
+! Checksum: P1pH779GrCqoU4XMRi0yhg
 ! Expires: 12h
-! Last Modified:  Sat, 06 Feb 2010 00:56:21 +0800
+! Last Modified:  Sat, 06 Feb 2010 12:18:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -667,8 +667,8 @@ grandtrial.org
 ||dev.chromium.org
 @@||build.chromium.org
 ||rss.cnn.com
-||feeds.digg.co
-||mail.diyang.orgm
+||feeds.digg.com
+||mail.diyang.org
 ||blog.doughellmann.com
 ||downforeveryoneorjustme.com
 ||dumblittleman.com
