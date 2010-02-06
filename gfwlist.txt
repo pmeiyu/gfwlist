@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: q5x4J/XNIFxJKW+CU9jMOw
+! Checksum: 8/w9dAGGKjlKSBXGL3//mg
 ! Expires: 12h
-! Last Modified:  Sat, 06 Feb 2010 14:00:14 +0800
+! Last Modified:  Sun, 07 Feb 2010 00:31:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -587,7 +587,6 @@ friendfeed.com
 ||frommel.net
 ||fscked.org
 |http://www.fsurf.com/
-||ftchinese.com
 .ftv.com.tw
 .fuckcnnic.net
 ||fuckcnnic.net
@@ -940,6 +939,7 @@ kanzhongguo.com
 .keepandshare.com/visit/visit_page.php?i=688154
 .keezmovies.com
 ||keezmovies.com
+.kenengba.com/post/1149.html
 .khmusic.com.tw
 .kidoors.com
 .kingstone.com.tw
@@ -1006,6 +1006,7 @@ liveleak.com
 .longhair.hk
 ||lookingglasstheatre.org
 .lookpic.com
+lsforum.net
 .lubetube.com
 ||lubetube.com
 
@@ -1680,6 +1681,8 @@ twitthat.com
 |http://twitvid.com
 .twitzap.com
 /twitzap.com
+.twreg.info
+||twreg.info
 ||twttr.com
 .tycool.com
 ||tycool.com
