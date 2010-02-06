@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: irMhOQ6mL0L0QbMleodNbw
+! Checksum: q5x4J/XNIFxJKW+CU9jMOw
 ! Expires: 12h
-! Last Modified:  Sat, 06 Feb 2010 13:59:34 +0800
+! Last Modified:  Sat, 06 Feb 2010 14:00:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2091,7 +2091,7 @@ zh.wikipedia.org*%E6%84%A4%E9%9D%92
 !--Gao Zhi Sheng
 zh.wikipedia.org*%E9%AB%98%E6%99%BA%E6%99%9F
 !--Di Shi Yi Shi Ban Chan Er Er De Ni Geng Deng Que Ji Ni Ma
-zh.wikipedia.org*E6%9B%B4%E7%99%BB%E7%A2%BA%E5%90%89%E5%B0%BC%E7%91%AA
+zh.wikipedia.org*%E6%9B%B4%E7%99%BB%E7%A2%BA%E5%90%89%E5%B0%BC%E7%91%AA
 zh.wikipedia.org*GFW
 !--Google Shen Cha
 zh.wikipedia.org*Google%E5%AE%A1%E6%9F%A5
