@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gEw5hNr8Yiz1J58nGbDg9Q
+! Checksum: 0I+YNwJ5YHuhpQYaJF/6xg
 ! Expires: 12h
-! Last Modified:  Sun, 07 Feb 2010 18:23:12 +0800
+! Last Modified:  Sun, 07 Feb 2010 19:59:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -407,6 +407,7 @@ packages.debian.org*zh-cn*lenny*gpass
 ||deluxetemplates.net
 http://www.destroydebtwithcashgifting.com
 de-sci.org
+.delicious.com/GFWbookmark
 democrats.org
 ||demogirl.com
 ||derekgooogle.com
@@ -917,6 +918,7 @@ yy.iyatou.com/archives/1042
 !--------------------------JJ--------------------------
 blog.jackjia.com
 ||jaiku.com
+||japanesebeauties.net
 ||jdev.tw/
 jeanyim.com
 ||jgoodies.com
@@ -2036,6 +2038,8 @@ gfwProxyEnabled=yes
 |http:*search*%E6%97%A0%E7%95%8C
 !--Xie E
 |http:*search*%E9%82%AA%E6%81%B6
+!--Xin Tang Ren
+|http:*search*%E6%96%B0%E5%94%90%E4%BA%BA
 !--Zhao Zi Yang
 |http:*%E8%B5%B5%E7%B4%AB%E9%98%B3
 !--Zhong Gong
