@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0I+YNwJ5YHuhpQYaJF/6xg
+! Checksum: yH4xY4Nn3rHQcE6mwOwSJA
 ! Expires: 12h
-! Last Modified:  Sun, 07 Feb 2010 19:59:48 +0800
+! Last Modified:  Sun, 07 Feb 2010 20:01:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -407,7 +407,7 @@ packages.debian.org*zh-cn*lenny*gpass
 ||deluxetemplates.net
 http://www.destroydebtwithcashgifting.com
 de-sci.org
-.delicious.com/GFWbookmark
+delicious.com/GFWbookmark
 democrats.org
 ||demogirl.com
 ||derekgooogle.com
