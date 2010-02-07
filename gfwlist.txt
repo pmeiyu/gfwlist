@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8/w9dAGGKjlKSBXGL3//mg
+! Checksum: se4NmfG1e7JxHQlrMkSAJw
 ! Expires: 12h
-! Last Modified:  Sun, 07 Feb 2010 00:31:10 +0800
+! Last Modified:  Sun, 07 Feb 2010 12:42:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -860,7 +860,7 @@ hrichina.org
 ||hsjp.net
 ||huhaitai.com
 huitter.com
-hulu.com
+||hulu.com
 .humoron.com
 |http://www.hungerstrikeforaids.org
 
