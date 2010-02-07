@@ -1,11 +1,10 @@
 [AutoProxy 0.2.9]
-! Checksum: se4NmfG1e7JxHQlrMkSAJw
+! Checksum: sZXtk2V3KFmZHN2bPtrS3Q
 ! Expires: 12h
-! Last Modified:  Sun, 07 Feb 2010 12:42:40 +0800
+! Last Modified:  Sun, 07 Feb 2010 15:20:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
-1-apple.com.tw
 |http://nsf.110mb.com
 ||z-o-o-m.110mb.com
 .121pp.com
@@ -69,6 +68,7 @@ info.51.ca
 .aboluowang.com
 ||aboluowang.com
 .aboutus.org
+||academicearth.com
 ||acgkj.com
 ||forum.addonsmirror.net
 ||wiki.addonsmirror.net
@@ -882,6 +882,7 @@ ibiblio.org/pub/packages/ccic
 |http://im.tv/
 |http://www.im.tv/
 ||imageboo.com
+||imageflea.com
 ||imageshack.us
 ||imagevenue.com
 .imlive.com
@@ -1281,6 +1282,7 @@ powerapple.com
 ||abc.pp.ru
 ||prayforchina.net
 ||presentationzen.com
+.president.gov.tw
 ||primedius.com
 privatepaste.com
 |http://dlstatusbar.proboards43.com/
@@ -1379,6 +1381,7 @@ sesawe.net
 ||seul.org
 .sevenload.com
 ||sevenload.com
+.sex-11.com
 .sex8.cc
 .sexandsubmission.com
 .sexhu.com
@@ -1613,6 +1616,7 @@ bbs.tuitui.info
 ||blogs.thws.cn
 ||blog.topify.com
 ||blog.tr.im
+||status.twhirl.org
 !-||status.twitter.com
 ||cocoa.zonble.net
 
@@ -1940,6 +1944,7 @@ topic.youthwant.com.tw
 .ytimg.com
 ytht.net
 yuanming.net
+||yunchao.net
 |http://www.yzzk.com/
 
 !--------------------------ZZ--------------------------
