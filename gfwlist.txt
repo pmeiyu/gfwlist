@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sZXtk2V3KFmZHN2bPtrS3Q
+! Checksum: jutrcP/+sh3b3q4ZiazFYA
 ! Expires: 12h
-! Last Modified:  Sun, 07 Feb 2010 15:20:21 +0800
+! Last Modified:  Sun, 07 Feb 2010 15:23:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -101,6 +101,7 @@ anchorfree.com
 ||angel.hk
 anonymizer.com
 anonymouse.org
+||anthonycalzadilla.com
 ||about.aol.com
 ||aolchannels.aol.com
 ||daol.aol.com
@@ -365,6 +366,7 @@ cuihua.org
 .cuiweiping.net
 ||cuiweiping.net
 ||culture.tw
+||curvefish.com
 ||cynscribe.com
 
 !--------------------------DD--------------------------
@@ -642,6 +644,7 @@ getchu.com
 ||glennhilton.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
+||gmhz.org
 ||golang.org
 gongmeng.info
 gongminliliang.com
@@ -1038,6 +1041,7 @@ memedia.cn
 .met-art.com
 .metacafe.com/watch
 ||metacafe.com/watch
+||michaelmarketl.com
 middle-way.net
 .mihk.hk
 .mii8.com
@@ -1166,6 +1170,7 @@ twtr2src.ogaoga.org
 oizoblog.com
 old-cat.net
 omgili.com
+||omgubuntu.co.uk
 omnitalk.
 ||on.cc^
 ||onebigfluke.com
@@ -1213,6 +1218,7 @@ peacehall.com
 penchinese.com
 ||penchinese.net
 .penchinese.net
+||blog.pentalogic.net
 .penthouse.com
 ||feeds.people.com
 perfdynamics.com
@@ -2100,6 +2106,8 @@ zh.wikipedia.org*%E6%84%A4%E9%9D%92
 zh.wikipedia.org*%E9%AB%98%E6%99%BA%E6%99%9F
 !--Di Shi Yi Shi Ban Chan Er Er De Ni Geng Deng Que Ji Ni Ma
 zh.wikipedia.org*%E6%9B%B4%E7%99%BB%E7%A2%BA%E5%90%89%E5%B0%BC%E7%91%AA
+!--Gao Xing Jian
+zh.wikipedia.org*%E9%AB%98%E8%A1%8C%E5%81%A5
 zh.wikipedia.org*GFW
 !--Google Shen Cha
 zh.wikipedia.org*Google%E5%AE%A1%E6%9F%A5
