@@ -1,10 +1,11 @@
 [AutoProxy 0.2.9]
-! Checksum: jutrcP/+sh3b3q4ZiazFYA
+! Checksum: gEw5hNr8Yiz1J58nGbDg9Q
 ! Expires: 12h
-! Last Modified:  Sun, 07 Feb 2010 15:23:28 +0800
+! Last Modified:  Sun, 07 Feb 2010 18:23:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
+1-apple.com.tw
 |http://nsf.110mb.com
 ||z-o-o-m.110mb.com
 .121pp.com
