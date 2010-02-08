@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: agfQfFtE/049lF6fZ93/3w
+! Checksum: 9anjSm0NuyXDdAe9b35NYw
 ! Expires: 12h
-! Last Modified:  Mon, 08 Feb 2010 21:36:00 +0800
+! Last Modified:  Mon, 08 Feb 2010 21:38:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1337,7 +1337,6 @@ rcinet.ca
 ||refer.ccbill.com
 ||reloaded.org
 renminbao.com
-.pacificpoker.com
 .renyurenquan.org
 ||renyurenquan.org
 ||retweetrank.com
