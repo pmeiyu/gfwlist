@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mFHhbe2Obpjs0XgEqjgy6Q
+! Checksum: k/7PcLBrKGEUS/5F5hkXLg
 ! Expires: 12h
-! Last Modified:  Mon, 08 Feb 2010 10:50:36 +0800
+! Last Modified:  Mon, 08 Feb 2010 21:34:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -64,6 +64,7 @@ info.51.ca
 97xxoo.com
 .99bbs.com
 99p2p.com
+||9bis.com
 
 !--------------------------AA--------------------------
 .aboluowang.com
@@ -287,6 +288,7 @@ changkun.org
 ||charlescooke.me.uk
 chengmingmag.com
 chenjun.com
+||cherrysave.com
 ||chethstudios.net
 ||chibs.edu.tw
 china-week.com
@@ -727,15 +729,6 @@ grandtrial.org
 ||www.writeroom.ws
 ||www.zimbu.org
 
-!-------------Google.ghs.72.14.203.121-----
-!-||blog.bao3.com.cn
-!-||myc.cnkk.org
-!-||www.geektang.com
-!-||blog.helloell.com
-!-||gae.kangye.org
-!-||log.keso.cn
-!-|http://blog.wangcongming.info
-
 !-------------Google.other-----
 |https://calendar.google.com
 |https://chrome.google.com
@@ -749,8 +742,7 @@ grandtrial.org
 google.com*analytics*zh-CN
 .google.*great*firewall
 .google.com/gwt
-|http://www.google.com/search*q=dongtaiwang
-|http://www.google.com/search*free*gate
+!-Google Code
 |http://code.google.com/p/cngepi/downloads/
 code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
@@ -766,13 +758,14 @@ feedproxy.google.com
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 |http://picasaweb.google.com/
 sites.google.com
-|http:*spreadsheets.google.com
-|https://spreadsheets.google.com
+||spreadsheets.google.com
 video.google.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
 .googlevideo.com
+|http://www.google.com/search*q=dongtaiwang
+|http://www.google.com/search*free*gate
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
@@ -1158,6 +1151,7 @@ homepage2.nifty.com
 @@||static.ning.com
 @@||www.ning.com
 no-ip.com
+||nokola.com
 ||noobbox.com
 ||notebookaddon.tk
 .nownews.com/cybersex
@@ -1275,6 +1269,7 @@ plurk.com
 ||erinc.ca
 ||gfw.org.ua
 ||roteiro.geedr.com
+||po.inewton.cn
 ||markmilian.com
 ||blog.nicholaspatten.com
 ||am.pengyulong.com
@@ -1409,6 +1404,7 @@ sesawe.net
 .sexyandshocking.com
 ||sexyandshocking.com
 .sexyclips.org
+||sf520.com
 ||om.shaayad.com
 .shangfang.org
 |http://shangfang.org
@@ -2259,6 +2255,8 @@ zh.wikipedia.org*%E7%BF%92%E8%BF%91%E5%B9%B3
 zh.wikipedia.org*%E4%B9%A0%E8%BF%91%E5%B9%B3
 !--Xi Zang
 zh.wikipedia.org*%E8%A5%BF%E8%97%8F
+!--Xiang Gang Min Zhu Pai
+zh.wikipedia.org*%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E6%B4%BE
 !--Xie Yan Fei
 zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
 !--Xing Yun Fa Shi
