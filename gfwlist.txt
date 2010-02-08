@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wglHoFE3buQtJcXsDxl/5w
-! Expires: 12h
-! Last Modified:  Mon, 08 Feb 2010 22:54:28 +0800
+! Checksum: eW0HY6JLILPopBYrYiKuLg
+! Expires: 8h
+! Last Modified:  Mon, 08 Feb 2010 23:25:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2240,6 +2240,8 @@ zh.wikipedia.org*%E7%8E%8B%E4%B9%90%E6%B3%89
 zh.wikipedia.org*%E7%8E%8B%E5%8A%9B%E9%9B%84
 !--Wang Yang
 zh.wikipedia.org*%E6%B1%AA%E6%B4%8B
+!--Wei Se
+zh.wikipedia.org*%E5%94%AF%E8%89%B2
 !--Wen Chuan Di Zhen
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87
 !--Wo De Fen Dou
