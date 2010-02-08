@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9anjSm0NuyXDdAe9b35NYw
+! Checksum: Y1mhi0Vz3wtw6ZJ8rMQnVw
 ! Expires: 12h
-! Last Modified:  Mon, 08 Feb 2010 21:38:20 +0800
+! Last Modified:  Mon, 08 Feb 2010 22:01:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1524,6 +1524,7 @@ tangben.com
 .tblog.com
 tchrd.org
 tcno.net*doc*tor
+||techcrunch.com
 ||teamseesmic.com
 .teashark.com/download.html
 technologizer.com
