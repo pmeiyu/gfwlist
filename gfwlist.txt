@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9bfu774K+wghvMZpgW5yDg
+! Checksum: +qSoWkIsf+b7XEBGbZG7LQ
 ! Expires: 8h
-! Last Modified:  Wed, 10 Feb 2010 20:19:24 +0800
+! Last Modified:  Wed, 10 Feb 2010 20:28:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -888,6 +888,7 @@ huitter.com
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 ||icanhascheezburger.com
+||iconexpo.com
 .identi.ca
 |http://identi.ca
 .idv.tw
@@ -1029,6 +1030,7 @@ liveleak.com
 lsforum.net
 .lubetube.com
 ||lubetube.com
+||luoyonghao.net
 
 !--------------------------MM--------------------------
 homepage.mac.com
