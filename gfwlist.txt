@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qOx0UOeuAwg2H0+p4/7UXQ
+! Checksum: 2ieAweHX0F4gb4x0OU/UqQ
 ! Expires: 8h
-! Last Modified:  Wed, 10 Feb 2010 12:53:04 +0800
+! Last Modified:  Wed, 10 Feb 2010 20:11:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -67,6 +67,7 @@ info.51.ca
 ||9bis.com
 
 !--------------------------AA--------------------------
+||aircrack-ng.org
 .aboluowang.com
 ||aboluowang.com
 .aboutus.org
@@ -136,6 +137,8 @@ asianude4u.com
 ||asianwomensfilm.de
 ||2.askozia.com
 ||www.askozia.com
+.askynz.net
+||askynz.net
 astonmartinnews.com
 .atj.org.tw
 atlaspost.com
@@ -1169,6 +1172,7 @@ ntdtv.com
 ||cbs.ntu.edu.tw
 ||nuexpo.com
 nysingtao.com
+||nzchinese.net.nz
 
 !--------------------------OO--------------------------
 observechina.net
@@ -1877,6 +1881,7 @@ zh-cn.wordpress.com
 
 ||wormsculptor.com
 wowwiki.com
+||wp.com
 |http://wp.me/
 .wpoforum.com
 ||wpoforum.com
