@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jqo5rDh0n9zbb8CpbyS2Nw
+! Checksum: oQFq0ru/15DB3eX3PIwbxA
 ! Expires: 8h
-! Last Modified:  Wed, 10 Feb 2010 21:19:49 +0800
+! Last Modified:  Wed, 10 Feb 2010 21:36:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2299,8 +2299,8 @@ zh.wikipedia.org*%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E6%B4%BE
 zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
 !--Xing Yun Fa Shi
 zh.wikipedia.org*%E6%98%9F%E4%BA%91%E6%B3%95%E5%B8%88
-!--Xiong ?
-zh.wikipedia.org%E7%86%8A%E7%84%B1
+!--Xiong Yan
+zh.wikipedia.org*%E7%86%8A%E7%84%B1
 !--Xun Wen Chu
 zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 !--Yan Ming Fu
