@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XtIn0CXSYCJEBM9OP3l/7Q
+! Checksum: AgzMmfhintWo3IxsSijkSA
 ! Expires: 8h
-! Last Modified:  Mon, 08 Feb 2010 23:36:50 +0800
+! Last Modified:  Wed, 10 Feb 2010 12:49:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -84,6 +84,8 @@ advanscene.com
 |http://*blog.aiweiwei.com
 .akiba-online.com/forum/index.php
 ||alabout.com
+||aladding.com
+aladding.com
 ||alexatnet.com
 ||alexeyyurenev.com
 ||alexking.org
@@ -635,6 +637,7 @@ gdzf.org
 .geekcook.org
 ||geekcook.org
 ||geekinheels.com
+||geekmanuals.com
 .genie.x0.com
 .geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
