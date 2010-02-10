@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +qSoWkIsf+b7XEBGbZG7LQ
+! Checksum: nIZ9nsUqpmMhf0PD7wX58g
 ! Expires: 8h
-! Last Modified:  Wed, 10 Feb 2010 20:28:21 +0800
+! Last Modified:  Wed, 10 Feb 2010 20:50:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1123,6 +1123,7 @@ sidekick.myblog.hk
 |http://mysinablog.com
 .blogs.myspace.com
 ||blogs.myspace.com
+vids.myspace.com/index.cfm?fuseaction=vids.
 viewmorepics.myspace.com
 
 !--------------------------NN--------------------------
