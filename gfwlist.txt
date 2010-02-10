@@ -1,11 +1,12 @@
 [AutoProxy 0.2.9]
-! Checksum: 2ieAweHX0F4gb4x0OU/UqQ
+! Checksum: 9bfu774K+wghvMZpgW5yDg
 ! Expires: 8h
-! Last Modified:  Wed, 10 Feb 2010 20:11:14 +0800
+! Last Modified:  Wed, 10 Feb 2010 20:19:24 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 1-apple.com.tw
+.100hame.com
 |http://nsf.110mb.com
 ||z-o-o-m.110mb.com
 .121pp.com
@@ -65,6 +66,7 @@ info.51.ca
 .99bbs.com
 99p2p.com
 ||9bis.com
+||9bis.net
 
 !--------------------------AA--------------------------
 ||aircrack-ng.org
@@ -870,6 +872,8 @@ hotshare.net
 hrichina.org
 .hrw.org
 ||hsjp.net
+.huanghuagang.org
+||huanghuagang.org
 ||huhaitai.com
 huitter.com
 ||hulu.com
@@ -903,10 +907,12 @@ ibiblio.org/pub/packages/ccic
 internetfreedom.org
 ||internetpopculture.com
 ||iphonehacks.com
+||ipicture.ru
 ipobar.com
 ||iranshahr.com
 is.gd/1VO1f
 is.gd/1VOp7
+forum.iset.com.tw
 ||ishawn.net
 .islam.org.hk
 .isaacmao.com
@@ -1038,6 +1044,8 @@ markmail.org*message
 ||martau.com
 ||marxist.net
 |http://www.mathtunnel.com/
+||mauvaise-haleine.info
+member.maxi-247.org
 .mcy.hk
 .md-t.org
 ||md-t.org
@@ -1113,6 +1121,7 @@ sidekick.myblog.hk
 |http://mysinablog.com
 .blogs.myspace.com
 ||blogs.myspace.com
+viewmorepics.myspace.com
 
 !--------------------------NN--------------------------
 ||nagarekumo.com
@@ -1160,6 +1169,7 @@ homepage2.nifty.com
 @@||static.ning.com
 @@||www.ning.com
 no-ip.com
+||nobody.jp
 ||nokola.com
 ||noobbox.com
 ||notebookaddon.tk
@@ -1259,6 +1269,7 @@ plurk.com
 .plusbb.com
 .pmates.com
 ||pocketmonsters.net
+||podictionary.com
 .pokerstars.com
 ||pokerstars.com
 .popyard.com
@@ -1314,6 +1325,7 @@ prozz.net
 psiphon.ca
 |http://www.ptt.cc/
 ||purepdf.com
+pwned.com
 python.org*download
 
 !--------------------------QQ--------------------------
@@ -1399,6 +1411,7 @@ sejie.com
 .sendspace.com/file
 sesawe.net
 .sesawe.org
+forum.setty.com.tw
 ||seul.org
 .sevenload.com
 ||sevenload.com
@@ -1582,6 +1595,7 @@ tldp.org
 ||tlists.com
 .tnaflix.com
 ||tnaflix.com
+.tokyo-247.com
 tokyo-hot.com
 .topnews.in
 .topshareware.com
@@ -1939,6 +1953,8 @@ news.yam.com
 .ydy.com
 ||yesbra.com
 .yi.org
+.yidio.com
+||yidio.com
 ||yihanfans.org
 yilubbs.com
 ||yo2.cn
@@ -1953,7 +1969,7 @@ youmaker.com
 |http://www.youpai.org/
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
-www.yousendit.com
+.yousendit.com
 youthbao.com
 .youthnetradio.org/tmit/forum
 blog.youthwant.com.tw
