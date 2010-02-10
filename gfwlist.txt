@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dUb+V6oCX/2+oHTAndMXFQ
+! Checksum: jqo5rDh0n9zbb8CpbyS2Nw
 ! Expires: 8h
-! Last Modified:  Wed, 10 Feb 2010 21:18:33 +0800
+! Last Modified:  Wed, 10 Feb 2010 21:19:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1219,6 +1219,7 @@ otweets.com
 share.ovi.com/media
 |http://www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
+.ozchinese.com/bbs
 
 !--------------------------PP--------------------------
 ||p2pu.org
