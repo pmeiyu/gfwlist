@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3lComDas0Eya2MsQsHaOHQ
+! Checksum: tPhp7eZABzgVNZCjl23srQ
 ! Expires: 8h
-! Last Modified:  Fri, 12 Feb 2010 15:12:12 +0800
+! Last Modified:  Fri, 12 Feb 2010 22:13:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -902,7 +902,7 @@ ibiblio.org/pub/packages/ccic
 |http://www.im.tv/
 ||imageboo.com
 ||imageflea.com
-||imageshack.us
+imageshack.us
 ||imagevenue.com
 .imlive.com
 |http://www.inmediahk.net/
@@ -915,6 +915,8 @@ ipobar.com
 ||iranshahr.com
 is.gd/1VO1f
 is.gd/1VOp7
+.beta.iset.com.tw/forum
+||beta.iset.com.tw
 forum.iset.com.tw
 ||ishawn.net
 .islam.org.hk
@@ -1814,6 +1816,7 @@ wallornot.org
 |http://wlx.sowiki.net
 wangruoshui.net
 www.wangruowang.org
+.wattpad.com
 ||we.bs^
 .wearn.com
 ||wearn.com
