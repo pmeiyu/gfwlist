@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tPhp7eZABzgVNZCjl23srQ
+! Checksum: C+g1XnDnEysx6CdaTrXt0A
 ! Expires: 8h
-! Last Modified:  Fri, 12 Feb 2010 22:13:43 +0800
+! Last Modified:  Fri, 12 Feb 2010 22:19:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -22,6 +22,7 @@
 .1pondo.tv
 .2000fun.com*bbs
 2008xianzhang.info
+||22web.net
 ||2photo.ru
 .2tips.com
 .36rain.com
@@ -146,6 +147,7 @@ astonmartinnews.com
 atlaspost.com
 .atnext.com
 ||autopattic.com
+||av383.com
 ||www.avc.com
 avno1.com
 .avno3.com
@@ -222,6 +224,7 @@ buboo.tw
 .budaedu.org
 ||budaedu.org
 ||bullog.org
+||bullogger.org
 ||blambin.byethost16.com
 
 !-------------BlogSpot-----
@@ -255,6 +258,7 @@ holz.byethost8.com
 
 !--------------------------CC--------------------------
 cafepress.com
+download.camfrog.com
 ||cantonese.ca
 canyu.org
 .caobian.info
@@ -317,6 +321,7 @@ chinainperspective.net%2FArtShow.aspx%3F
 ||chinamule.com
 ||chinaphile.com
 ||chinanews.com.hk
+chinasocialdemocraticparty.com
 chinasoul.org
 blog.chinatimes.com
 gb.chinatimes.com/gate/gb/*2007Cti-News
@@ -629,6 +634,7 @@ forum.gamer.com.tw
 gaopi.com
 .gaopi.net
 ||gaopi.net
+||garcya.us
 gardennetworks.com
 ||gardennetworks.org
 !--IP of Garden Network
@@ -838,6 +844,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 ||highscalability.com
 ||hikipedia.info
 myweb.hinet.net
+.hisex.tv
 .hjclub.info
 ||hjclub.info
 hk-pub.com
@@ -1224,6 +1231,7 @@ share.ovi.com/media
 |http://www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
 .ozchinese.com/bbs
+bbs.ozchinese.com
 
 !--------------------------PP--------------------------
 ||p2pu.org
@@ -1297,7 +1305,6 @@ plurk.com
 ||designerol.com
 ||blog.dustincurtis.com
 ||erinc.ca
-||gfw.org.ua
 ||roteiro.geedr.com
 ||po.inewton.cn
 ||markmilian.com
@@ -1306,6 +1313,7 @@ plurk.com
 ||post.ly/
 ||posterous.com
 .posterous.com
+||ratoo.tk
 ||reflectionof.me
 ||log.riku.me
 ||steverubel.com
@@ -1358,7 +1366,6 @@ rangzen.org
 ranyunfei.com
 .rapidshare1.com
 .rapidsharedata.com
-||ratoo.tk
 rcinet.ca
 .read100.com
 .readingtimes.com.tw
@@ -1402,6 +1409,7 @@ rti.org.tw
 !-------------------------SS--------------------------
 ||s-a.cc
 ||s1heng.com
+||s3fox.net
 .saiq.me
 .salvation.org.hk
 ||salvation.org.hk
@@ -1614,6 +1622,7 @@ torproject.org
 touch99.com
 ||tr.im/DZ0o
 ||trackon.org
+||travelinlocal.com
 .trialofccp.org
 ||trialofccp.org
 ||tripod.com
@@ -1645,6 +1654,7 @@ bbs.tuitui.info
 ||chaos.e-spacy.com
 ||tumblr.fenglu.name
 ||fuckgfw.com
+||gfw.org.ua
 ||blog.hexxeh.net
 ||blog.instapaper.com
 ||blog.iphone-dev.org
