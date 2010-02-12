@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: oQFq0ru/15DB3eX3PIwbxA
+! Checksum: 3lComDas0Eya2MsQsHaOHQ
 ! Expires: 8h
-! Last Modified:  Wed, 10 Feb 2010 21:36:03 +0800
+! Last Modified:  Fri, 12 Feb 2010 15:12:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -333,6 +333,7 @@ chinesenewsnet.com
 ||chinesepen.org
 .chinesetalks.net/ch
 .chingcheong.com
+||chrispederick.com
 .citizenlab.org
 ||citizenlab.org
 www.cityrag.com
@@ -365,6 +366,7 @@ comefromchina.com
 commandlineisking.com
 .committeetoprotectbloggers.org
 .competitionforce.hk
+||coolinfographics.com
 |http://www.coolloud.org.tw/
 copytaste.com
 .copycat2u.net/bbs
@@ -2095,6 +2097,8 @@ gfwProxyEnabled=yes
 |http://en.wikipedia.org*Tiananmen_Square_protests_of_1989
 
 !-------------zh.Wiki----------
+!--512 Da Di Zhen
+zh.wikipedia.org*512%b4%f3%b5%d8%d5%f0
 !--08 Xian Zhang
 zh.wikipedia.org*08%E5%AE%AA%E7%AB%A0
 !--1989 Nian
