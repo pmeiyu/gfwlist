@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: u7laQ4uNtHPJi6i2IlR3Pg
+! Checksum: H+qpK4YF2HTn2k97vJqvfw
 ! Expires: 8h
-! Last Modified:  Fri, 12 Feb 2010 22:22:23 +0800
+! Last Modified:  Sat, 13 Feb 2010 12:13:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1644,6 +1644,7 @@ bbs.tuitui.info
 !-------------Tumblr-----
 ||tumblr.com
 @@||assets.tumblr.com
+@@||data.tumblr.com
 @@||media.tumblr.com
 @@||static.tumblr.com
 ||301works.org
