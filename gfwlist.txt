@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: H+qpK4YF2HTn2k97vJqvfw
+! Checksum: y6K7uuuhPqvpZEHMzJ5iZg
 ! Expires: 8h
-! Last Modified:  Sat, 13 Feb 2010 12:13:15 +0800
+! Last Modified:  Mon, 15 Feb 2010 02:02:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -422,6 +422,7 @@ danwei.org
 .daolan.net
 ||darpa.mil
 daxa.cn
+.daylife.com/topic/dalai_lama
 ||dba2csv.com
 packages.debian.org*zh-cn*lenny*gpass
 ||deluxetemplates.net
@@ -470,6 +471,8 @@ dphk.org
 ||dtiblog.com
 ||duanwz.com
 ||duckmylife.com
+.duihua.org
+||duihua.org
 .duoweitimes.com
 ||duoweitimes.com
 duping.net
@@ -1120,6 +1123,7 @@ msn.com.tw
 ||mthruf.com
 ||multiply.com
 ||muzi.com
+||muzi.net
 ||muzicana.uk.to
 sidekick.myblog.hk
 |http://www.mycould.com/
@@ -1418,6 +1422,7 @@ rti.org.tw
 savetibet.org
 ||say2.info
 scribd.com
+||searchfreefonts.com
 secretchina.com
 ||secretgarden.no
 .seesmic.com
@@ -1527,7 +1532,6 @@ sowers.org.hk
 squarespace.com
 ||sshgfw.com
 www.stackfile.com/freedur
-starcraft2.com
 usinfo.state.gov
 .state168.com
 ||avatar.status.net
@@ -1807,6 +1811,7 @@ mysite.verizon.net
 ||videosz.com
 ||vidoemo.com
 video.tiscali.it/canali/truveo
+||village-idiot.org
 .vimeo.com
 ||vimeo.com
 |http://www.visuwords.com/
@@ -2081,6 +2086,9 @@ gfwProxyEnabled=yes
 |http:*%E6%B0%91%E8%BF%90
 !--Qun Ti Mie Jue
 |http:*search*%E7%BE%A4%E4%BD%93%E7%81%AD%E7%BB%9D
+!--Se Qin
+!--Se Qingg
+|http:*search*%E8%89%B2%E6%83%85
 !--Wang Dan
 |http:*%E7%8E%8B%E4%B8%B9
 !--Wo De Fen Dou
