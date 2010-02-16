@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Tv4fgNWLUnwj8h4l+Sjyew
+! Checksum: hSEp4nJyNM1e0ql0y8z5DQ
 ! Expires: 8h
-! Last Modified:  Tue, 16 Feb 2010 22:29:37 +0800
+! Last Modified:  Tue, 16 Feb 2010 22:33:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -987,6 +987,7 @@ kanzhongguo.com
 .kui.name/event
 kulodao.com/bbs/
 |http://kunalanand.com
+||kurtmunger.com
 ||www.kyohk.net
 www2.kyohk.net
 |http://www.kzeng.info/
@@ -1125,6 +1126,7 @@ msn.com.tw
 ||muzi.com
 ||muzi.net
 ||muzicana.uk.to
+||mybyways.net
 sidekick.myblog.hk
 |http://www.mycould.com/
 ||myeclipseide.com
@@ -1927,6 +1929,7 @@ wowwiki.com
 wretch.cc
 .wtfpeople.com
 wuerkaixi.com
+wufi.org.tw
 wujie.net
 wukangrui.net
 
@@ -1946,6 +1949,7 @@ xinsheng.net
 |http://www.xinhuanet.org/
 .xmarks.com
 ||xmarks.com
+xmovies.com
 ||xnview.com
 .xnxx.com
 ||xnxx.com
