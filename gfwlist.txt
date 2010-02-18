@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0vOfS9W/qY/oJnGEq+I+Pg
+! Checksum: /snb/KBimYBIWBcvznjAYA
 ! Expires: 8h
-! Last Modified:  Fri, 19 Feb 2010 00:27:41 +0800
+! Last Modified:  Fri, 19 Feb 2010 00:28:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1698,6 +1698,8 @@ bbs.tuitui.info
 tvboxnow.com
 ||tvunetworks.com
 .gov.tw/
+.twaitter.com
+||twaitter.com
 .twbbs.net.tw
 twbbs.org
 ||twblogger.com
