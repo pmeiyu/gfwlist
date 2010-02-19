@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /snb/KBimYBIWBcvznjAYA
+! Checksum: MldG60/h2vA1G6F8wUhbpA
 ! Expires: 8h
-! Last Modified:  Fri, 19 Feb 2010 00:28:56 +0800
+! Last Modified:  Fri, 19 Feb 2010 15:47:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -460,6 +460,7 @@ dongtaiwang.com
 .dontfilter.us
 ||dopdf.com
 ||dopodomani.me
+dowei.org
 ||download.hr
 ||doxygen.org
 doubleaf.com
@@ -741,6 +742,7 @@ grandtrial.org
 ||blog.nihilogic.dk
 ||picky.olivida.com
 ||blog.persistent.info
+||robertmao.com
 ||blog.seeminglee.com
 ||rss.slashdot.org
 ||snsanalytics.com
@@ -1402,7 +1404,6 @@ revver.com
 ||a.rimg.com.tw
 ||b.rimg.com.tw
 ||c.rimg.com.tw
-robertmao.com
 robtex.com
 ||ronjoneswriter.com
 .roodo.com
