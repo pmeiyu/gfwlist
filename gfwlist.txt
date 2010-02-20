@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5gjhh7ael5YpznpZneu42Q
+! Checksum: PZV679zXJ4Jq1U8b/CkzAQ
 ! Expires: 8h
-! Last Modified:  Sat, 20 Feb 2010 12:26:02 +0800
+! Last Modified:  Sat, 20 Feb 2010 21:05:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -207,6 +207,8 @@ blogimg.jp
 ||blog.kangye.org
 .bloglines.com
 ||bloglines.com
+.blogllines.com
+||blogllines.com
 ||blogs.com
 @@||www.blogs.com
 .blogsome.com
@@ -529,7 +531,7 @@ eyny.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
 !--facebook cdn
-||fbcdn.net
+!--||fbcdn.net
 fail.hk
 ||failblog.org
 ||failforum.net
@@ -751,6 +753,7 @@ grandtrial.org
 ||www.techfob.com
 ||blog.thesilentnumber.me
 ||txt.io
+||ub0.cc
 ||www.wavesandbox.com
 ||willhains.com
 ||www.writeroom.ws
@@ -913,6 +916,7 @@ ibiblio.org/pub/packages/ccic
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
+||ijenny.cn
 ||illusionfactory.com
 |http://im.tv/
 |http://www.im.tv/
@@ -1158,6 +1162,7 @@ viewmorepics.myspace.com
 ||nakido.com
 cyberghost.natado.com
 nccwatch.org.tw
+.nch.com.tw
 .ncn.org
 ||ncn.org/
 |http://etools.ncol.com
@@ -1892,6 +1897,8 @@ wezhiyong.org
 .whitehats.com
 .whippedass.com
 ||whyx.org
+!--Wikia
+||www.wikia.com
 .wikileaks.org
 ||wikimedia.org.mo
 ||willw.net
