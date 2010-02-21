@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: i+wDqJRMORmTGIkMiuw3mw
+! Checksum: G083/+zzlHH/q6bMHAxkig
 ! Expires: 8h
-! Last Modified:  Sun, 21 Feb 2010 21:29:24 +0800
+! Last Modified:  Sun, 21 Feb 2010 21:33:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -187,6 +187,7 @@ beijingspring.com
 ||best298.url.tw
 bestforchina.org
 ||beyondcow.com
+||biblegateway.com
 bigandfree.com
 bignews.org
 .bigsound.org/portnoy
@@ -197,6 +198,7 @@ bignews.org
 ||bit.ly
 ||bkite.com
 ||blackra1n.com
+tor.blingblingsquad.net
 .blip.tv
 /blip.tv
 .blogcatalog.com
@@ -393,6 +395,7 @@ cuihua.org
 ||cuiweiping.net
 ||culture.tw
 ||curvefish.com
+||cvicse.com
 ||cynscribe.com
 
 !--------------------------DD--------------------------
@@ -626,6 +629,7 @@ friendfeed.com
 fuckgfw.org
 .fulisir.us
 fulue.com
+||funcage.com
 .funny-games.biz
 funp.com
 .futurechinaforum.org
@@ -1257,6 +1261,7 @@ bbs.ozchinese.com
 ||p2pu.org
 .pacificpoker.com
 forum.palmislife.com
+paperb.us
 .panluan.net
 ||panluan.net
 .panoramio.com/forum
@@ -1395,6 +1400,7 @@ rcinet.ca
 .readingtimes.com.tw
 ||readingtimes.com.tw
 .realraptalk.com
+blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 ||refer.ccbill.com
 ||reloaded.org
