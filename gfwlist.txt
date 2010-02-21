@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: G083/+zzlHH/q6bMHAxkig
+! Checksum: T08wNdzLWL0XYH6GOmWP2w
 ! Expires: 8h
-! Last Modified:  Sun, 21 Feb 2010 21:33:16 +0800
+! Last Modified:  Mon, 22 Feb 2010 02:05:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -964,6 +964,7 @@ blog.jackjia.com
 ||jdev.tw/
 jeanyim.com
 ||jgoodies.com
+||jiaoyou8.com
 jieshibaobao.com
 .jinhai.de
 ||jinhai.de
