@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 19AfA7SYZWM+zeqAO70rRw
+! Checksum: Cf/DxWFrHjDHDaDubI1baw
 ! Expires: 8h
-! Last Modified:  Mon, 22 Feb 2010 18:50:35 +0800
+! Last Modified:  Mon, 22 Feb 2010 23:21:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -86,7 +86,7 @@ advanscene.com
 ||aenhancers.com
 |http://www.aidsmuseum.cn/
 .aisex.com
-|http://*blog.aiweiwei.com
+blog.aiweiwei.com
 .akiba-online.com/forum/index.php
 ||alabout.com
 ||aladding.com
@@ -522,6 +522,7 @@ epochtimes.com
 etaiwannews.com
 ||etizer.org
 .evanlife.org.hk
+voxaleadnews.labs.exalead.com
 .exblog.jp
 ||exploader.net
 .extratorrent.com
@@ -1241,6 +1242,7 @@ ooosee.com/fuckgfw
 ||ooosee.com
 open.com.hk
 ||openid.cn
+||openid.net
 ||blog.opentumblr.com
 opera.com/mini
 ||mini.opera.com
@@ -1635,6 +1637,7 @@ tibetalk.com
 tibetfund.org
 ||tibetonline.tv
 .tibetonline.tv
+||tibetwrites.org
 |http:*.time.com/time/time100/leaders/profile/rebel
 ||blog.tiney.com
 ||tinypaste.com
