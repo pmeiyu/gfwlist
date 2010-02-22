@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Cf/DxWFrHjDHDaDubI1baw
+! Checksum: jPSggJ1YEmEiA3DrhToMJA
 ! Expires: 8h
-! Last Modified:  Mon, 22 Feb 2010 23:21:36 +0800
+! Last Modified:  Mon, 22 Feb 2010 23:29:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -639,6 +639,7 @@ funp.com
 
 !--------------------------GG--------------------------
 ||gabocorp.com
+||galenwu.com
 galge.com
 .gamebase.com.tw
 ||gamebase.com.tw
@@ -1196,6 +1197,7 @@ hk*.nextmedia.com
 tw*.nextmedia.com
 ||nexton-net.jp
 ngensis.com
+||ngs2.info
 tw.nicovideo.jp
 homepage2.nifty.com
 ||nihilex.com
