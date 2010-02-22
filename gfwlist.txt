@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: T08wNdzLWL0XYH6GOmWP2w
+! Checksum: 19AfA7SYZWM+zeqAO70rRw
 ! Expires: 8h
-! Last Modified:  Mon, 22 Feb 2010 02:05:13 +0800
+! Last Modified:  Mon, 22 Feb 2010 18:50:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -572,6 +572,7 @@ findbook.tw
 !--|http://farm1.static.flickr.com/
 !--|http://farm2.static.flickr.com/
 !--|http://farm4.static.flickr.com
+.flickr.com/photos/chinamove
 .flickr.com/photos/digitalboy100
 .flickr.com/photos/winterkanal
 
