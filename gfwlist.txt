@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Ju/oPmIPfUYak51pMKxQ4Q
+! Checksum: FsDg6n0okSK7anPb2GHWqA
 ! Expires: 8h
-! Last Modified:  Tue, 23 Feb 2010 22:48:12 +0800
+! Last Modified:  Tue, 23 Feb 2010 23:12:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1515,6 +1515,7 @@ news.singtao.ca
 ||cdp.sinica.edu.tw
 .sinonet.ca
 ||sippey.com
+||site90.net
 ||siteadvisor.com
 ||siteks.uk.to
 ||sitemaps.org
@@ -1557,6 +1558,7 @@ soundofhope.org
 ||soupofmedia.com
 sourceforge.net/projects/portabletor/files/
 sowers.org.hk
+.spankwire.com
 .speedpluss.org
 |http://my.spill.com
 ||splitweet.com
@@ -1588,6 +1590,7 @@ blog.syx86.cn/2009/09/puff
 .t35.com
 .t66y.com
 .tacem.org
+||tagwalk.com
 .taiwandaily.net
 ||taiwantt.org.tw
 ||taiwandaily.net
@@ -1997,6 +2000,7 @@ blog.xuite.net
 ||xuming.net
 xuzhiyong.net
 xvediox.com
+.xvideos.com
 ||xxxx.com.au
 xys.org
 xysblogs.org
