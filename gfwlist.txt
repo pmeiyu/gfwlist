@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ChswGokJLpKyVBOvz301/Q
+! Checksum: Ju/oPmIPfUYak51pMKxQ4Q
 ! Expires: 8h
-! Last Modified:  Tue, 23 Feb 2010 13:58:38 +0800
+! Last Modified:  Tue, 23 Feb 2010 22:48:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -209,8 +209,6 @@ blogimg.jp
 ||blog.kangye.org
 .bloglines.com
 ||bloglines.com
-.blogllines.com
-||blogllines.com
 ||blogs.com
 @@||www.blogs.com
 .blogsome.com
