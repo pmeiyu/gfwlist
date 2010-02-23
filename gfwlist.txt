@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 271PjTuYpv8q+2+QA7emMQ
+! Checksum: ChswGokJLpKyVBOvz301/Q
 ! Expires: 8h
-! Last Modified:  Tue, 23 Feb 2010 12:10:06 +0800
+! Last Modified:  Tue, 23 Feb 2010 13:58:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1645,6 +1645,7 @@ tibetfund.org
 ||tinypaste.com
 ||tinyurl.com/gfwlist
 .tistory.com
+||tkcs-collins.com
 ||tkit.tk
 tldp.org
 ||tlists.com
