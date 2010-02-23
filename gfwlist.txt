@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QprXx0qspK4Nd/gmJsJdJQ
+! Checksum: X9P/vDbcFcT5ttTBPgYRow
 ! Expires: 8h
-! Last Modified:  Tue, 23 Feb 2010 23:13:14 +0800
+! Last Modified:  Tue, 23 Feb 2010 23:16:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -153,6 +153,7 @@ atlaspost.com
 ||www.avc.com
 avno1.com
 .avno3.com
+||avoision.com
 ||axiom-developer.org
 ||axureformac.com
 
@@ -196,6 +197,7 @@ bignews.org
 ||bing.com/twitter
 .bit.ly
 ||bit.ly
+bjlzfz.com
 ||bkite.com
 ||blackra1n.com
 tor.blingblingsquad.net
@@ -422,8 +424,8 @@ cuihua.org
 ||dailymotion.com
 dajiyuan.com
 dalailama.com
-||dalailamaworld.com
 .dalailamaworld.com
+||dalailamaworld.com
 ||damipan.com
 .danke4china.net
 danwei.org
@@ -441,6 +443,7 @@ democrats.org
 ||demogirl.com
 ||derekgooogle.com
 ||desciclopedia.org
+||dev102.com
 .devkick.com
 ||devkick.com
 ||didyouknow.org
@@ -475,6 +478,7 @@ dphk.org
 .dream2006.net
 ||drikin.com
 ||drivingitalia.net
+|http://*dl.dropbox.com
 ||droidie.com
 .ds-hk.net
 ||dtiblog.com
@@ -1355,7 +1359,6 @@ postadult.com
 ||veempiire.com
 ||www.vegorpedersen.com
 ||ventureswell.com
-||blog.xiaxiaoyang.com
 |http://z-turn.cn/
 ||bill.zhong.pp.ru
 
@@ -1447,6 +1450,7 @@ rti.org.tw
 ||s1heng.com
 ||s3fox.net
 .saiq.me
+||saiq.me
 .salvation.org.hk
 ||salvation.org.hk
 ||sandradodd.com
@@ -1649,6 +1653,7 @@ tibetfund.org
 ||tinyurl.com/gfwlist
 .tistory.com
 ||tkcs-collins.com
+||tkforum.tk
 ||tkit.tk
 tldp.org
 ||tlists.com
@@ -1914,8 +1919,7 @@ wezhiyong.org
 .whitehats.com
 .whippedass.com
 ||whyx.org
-!--Wikia
-||www.wikia.com
+||wikia.com
 .wikileaks.org
 ||wikimedia.org.mo
 ||willw.net
