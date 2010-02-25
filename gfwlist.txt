@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: X9P/vDbcFcT5ttTBPgYRow
+! Checksum: Q4L5pZbHbFFjZYGXIiJfaw
 ! Expires: 8h
-! Last Modified:  Tue, 23 Feb 2010 23:16:38 +0800
+! Last Modified:  Thu, 25 Feb 2010 21:10:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -23,6 +23,7 @@
 .2000fun.com*bbs
 2008xianzhang.info
 ||22web.net
+||2dmoe.com
 ||2photo.ru
 .2tips.com
 .36rain.com
@@ -154,6 +155,7 @@ atlaspost.com
 avno1.com
 .avno3.com
 ||avoision.com
+||away3d.com
 ||axiom-developer.org
 ||axureformac.com
 
@@ -216,7 +218,7 @@ blogimg.jp
 ||blogs.com
 @@||www.blogs.com
 .blogsome.com
-.blogtd.org
+blogtd.org
 ||blogtd.org
 ||bobchao.net
 boltbrowser.com*download
@@ -616,6 +618,7 @@ freemoren.com
 freemorenews.com
 freetibet.org
 .freetzi.com
+||freewarezddl.com
 .freexinwen.com
 
 friendfeed.com
@@ -762,6 +765,7 @@ grandtrial.org
 ||snsanalytics.com
 ||socialwhois.com
 ||www.techfob.com
+||thecloudplayer.com
 ||blog.thesilentnumber.me
 ||txt.io
 ||ub0.cc
@@ -954,6 +958,7 @@ forum.iset.com.tw
 .isaacmao.com
 ||isaacmao.com
 ||ismprofessional.net
+||itechmax.com
 .iterasi.net
 |http://iterasi.net
 .itweet.net
@@ -981,6 +986,7 @@ jinn.li
 ||jkforum.net
 ||jobacle.com
 ||jounin.net
+.jp-sex.com
 |http://jpra1113.org
 ||wiki.js-kit.com
 ||juliereyc.com
@@ -1150,6 +1156,7 @@ msn.com.tw
 ||muzi.com
 ||muzi.net
 ||muzicana.uk.to
+||my219.cn
 ||mybyways.net
 sidekick.myblog.hk
 |http://www.mycould.com/
@@ -1252,7 +1259,6 @@ open.com.hk
 ||blog.opentumblr.com
 opera.com/mini
 ||mini.opera.com
-my.opera.com
 www.orchidbbs.com
 .orzistic.org
 ||orzistic.org
@@ -1424,6 +1430,7 @@ revver.com
 |http://rfachina.com
 .rfi.fr
 ||rfi.fr
+.rileyguide.com
 ||a.rimg.com.tw
 ||b.rimg.com.tw
 ||c.rimg.com.tw
@@ -1568,6 +1575,7 @@ sowers.org.hk
 .speedpluss.org
 |http://my.spill.com
 ||splitweet.com
+||sproutcore.com
 squarespace.com
 ||sshgfw.com
 www.stackfile.com/freedur
@@ -1588,6 +1596,7 @@ cn2.streetvoice.com
 tw.streetvoice.com
 ||suicideblitz.info
 ||summize.com
+||sweux.com
 ||syncback.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
@@ -1605,6 +1614,7 @@ tangben.com
 |http://tansioksiok.com/
 .taolun.info
 ||taolun.info
+blog.taragana.com
 .tblog.com
 tchrd.org
 tcno.net*doc*tor
