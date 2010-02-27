@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q4L5pZbHbFFjZYGXIiJfaw
+! Checksum: 3ZTGzdfOgNgIV5SSagSUjQ
 ! Expires: 8h
-! Last Modified:  Thu, 25 Feb 2010 21:10:55 +0800
+! Last Modified:  Sat, 27 Feb 2010 18:53:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -21,6 +21,7 @@
 ||1pondo.tv
 .1pondo.tv
 .2000fun.com*bbs
+205.209.177.79
 2008xianzhang.info
 ||22web.net
 ||2dmoe.com
@@ -74,6 +75,8 @@ info.51.ca
 ||aircrack-ng.org
 .aboluowang.com
 ||aboluowang.com
+.aboutgfw.com
+||aboutgfw.com
 .aboutus.org
 ||academicearth.com
 ||acgkj.com
@@ -218,8 +221,8 @@ blogimg.jp
 ||blogs.com
 @@||www.blogs.com
 .blogsome.com
+||blogtd.net
 blogtd.org
-||blogtd.org
 ||bobchao.net
 boltbrowser.com*download
 bomb.tv
@@ -309,6 +312,7 @@ changkun.org
 .chatterous.com
 ||chatterous.com
 ||charlescooke.me.uk
+||chedong.com
 chengmingmag.com
 chenjun.com
 ||cherrysave.com
@@ -590,6 +594,7 @@ www.forum4hk.com
 ||fotop.net
 .free.fr/adsl
 kineox.free.fr
+.freewebhostx.com
 ||firestorage.jp
 ||flecheinthepeche.fr
 ||fofg.org
@@ -864,6 +869,7 @@ hellotxt.com
 |http://www.hemidemi.com/
 .hemix.com
 ||heungkongdiscuss.com
+.hgamecn.com
 ||hi5.com/
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
@@ -958,6 +964,7 @@ forum.iset.com.tw
 .isaacmao.com
 ||isaacmao.com
 ||ismprofessional.net
+blog.istef.info/2007/10/21/myentunnel
 ||itechmax.com
 .iterasi.net
 |http://iterasi.net
@@ -1045,6 +1052,7 @@ lifestream.fm
 |http://cle.linux.org.tw/
 linuxconfig.org
 lipuman.com
+.liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
 ||livingonline.us
 ||locafollow.com
 
@@ -1210,6 +1218,7 @@ tw*.nextmedia.com
 ngensis.com
 ||ngs2.info
 tw.nicovideo.jp
+||nidaye.org
 homepage2.nifty.com
 ||nihilex.com
 ||ning.com
@@ -1282,6 +1291,7 @@ paperb.us
 ||panluan.net
 .panoramio.com/forum
 .parade.com/dictators/2009
+pastebin.ca
 .pastie.org
 ||pastie.org
 ||blog.pathtosharepoint.com
@@ -1435,6 +1445,7 @@ revver.com
 ||b.rimg.com.tw
 ||c.rimg.com.tw
 robtex.com
+||ghs.romeo-foxtrot.com
 ||ronjoneswriter.com
 .roodo.com
 ||roosong.cn
@@ -1685,6 +1696,7 @@ touch99.com
 ||trialofccp.org
 ||tripod.com
 @@||www.tripod.com
+||trustedbi.com
 .truveo.com
 tsquare.tv
 ||tttan.com
@@ -1837,6 +1849,7 @@ uighurbiz.net
 ultraxs.com
 uncyclomedia.org
 ||uncyclopedia.hk
+||uncyclopedia.info
 ||uncyclopedia.tw
 .uni.cc
 |http://unifoundry.com/
@@ -2079,6 +2092,7 @@ yuanming.net
 .zaobao.com.sg
 ||zaobao.com.sg
 www.zaurus.org.uk
+.zdnet.com.tw/news/software/0,2000085678,20111187,00
 .zengjinyan.org
 .zhanbin.net
 ||zhanbin.net
@@ -2174,6 +2188,7 @@ gfwProxyEnabled=yes
 |http://en.wikipedia.org*Golden_Shield_Project
 |http://en.wikipedia.org*Huang_Qi
 |http://en.wikipedia.org*Internet_censorship
+|http://en.wikipedia.org*Liu_Xiaobo
 |http://en.wikipedia.org*Shi_Tao
 |http://en.wikipedia.org*Tiananmen_Square_protests_of_1989
 
@@ -2432,6 +2447,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%BD%AF%E4%BB%B6%E8%BF%87
 !--Zhong Guo Wang Luo Shen Cha
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E7%B6%B2%E8%B7%AF%E5%AF%A9%E6%9F%A5
+!--Zhong Hua Min Guo Guo Min Da Hui
+zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E5%A4%A7%E6%9C%83
 !--Zhong Hua Min Guo Zhi Zang Li Shi
 zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%B2%BB%E8%97%8F%E6%AD%B7%E5%8F%B2
 !--Zhong Hua Ren Min Gong He Guo Wang Luo Shen Cha
