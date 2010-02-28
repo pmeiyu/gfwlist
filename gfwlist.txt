@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pBLiTUAzMNQX26OJ6mUdcQ
+! Checksum: rCfCdnSv6CcFXF9/uPshSQ
 ! Expires: 8h
-! Last Modified:  Sun, 28 Feb 2010 10:10:20 +0800
+! Last Modified:  Sun, 28 Feb 2010 22:38:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -373,6 +373,7 @@ cmule.com
 ||blog.cnblog.org
 .cnd.org
 |http://cnd.org
+||cnyoutube.com
 co.cc
 ||coat.co.jp
 |http://cochina.org
@@ -2265,6 +2266,8 @@ zh.wikipedia.org*%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E4%BF%9D%E5%8D%AB%E6%94%AF
 zh.wikipedia.org*%E5%9C%8B%E5%8B%99%E9%99%A2%E9%98%B2%E7%AF%84%E5%92%8C%E8%99%95%E7%90%86%E9%82%AA%E6%95%99%E5%95%8F%E9%A1%8C%E8%BE%A6%E5%85%AC%E5%AE%A4
 !--He Guo Qiang
 zh.wikipedia.org*%E8%B4%BA%E5%9B%BD%E5%BC%BA
+!--He Shang
+zh.wikipedia.org*%E6%B2%B3%E6%AE%87
 !--Hou De Jian
 zh.wikipedia.org*%E4%BE%AF%E5%BE%B7%E5%BB%BA
 !--Hu Jia (She Hui Huo Dong Jia) (+Redir)
