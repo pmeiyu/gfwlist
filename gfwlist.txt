@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rL9OX/sXbEcQa6h6o5s2fQ
+! Checksum: pBLiTUAzMNQX26OJ6mUdcQ
 ! Expires: 8h
-! Last Modified:  Sun, 28 Feb 2010 10:06:55 +0800
+! Last Modified:  Sun, 28 Feb 2010 10:10:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -93,7 +93,6 @@ advanscene.com
 blog.aiweiwei.com
 .akiba-online.com/forum/index.php
 ||alabout.com
-||aladding.com
 aladding.com
 ||alexatnet.com
 ||alexeyyurenev.com
