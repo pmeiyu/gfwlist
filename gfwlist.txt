@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3ZTGzdfOgNgIV5SSagSUjQ
+! Checksum: rL9OX/sXbEcQa6h6o5s2fQ
 ! Expires: 8h
-! Last Modified:  Sat, 27 Feb 2010 18:53:35 +0800
+! Last Modified:  Sun, 28 Feb 2010 10:06:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -173,7 +173,6 @@ baidu.jp/
 hen.bao.li
 |http://www.barnabu.co.uk
 barnesandnoble.com/bookSearch/isbnInquiry.asp
-||bayimg.com
 dajusha.baywords.com
 bbc.co.uk*chinese
 bbc.co.uk*zhongwen
