@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AlC+O73phQ0gfubLlFNntg
+! Checksum: ttofoH6Y5o2cd9pIDPTLmg
 ! Expires: 8h
-! Last Modified:  Mon, 01 Mar 2010 15:35:20 +0800
+! Last Modified:  Mon, 01 Mar 2010 16:06:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1986,10 +1986,10 @@ china.blogs.time.com
 !--@@||stats.wordpress.com
 ||xijie.wordpress.com
 zh-cn.wordpress.com
+!--||wp.com
 
 ||wormsculptor.com
 wowwiki.com
-||wp.com
 |http://wp.me/
 .wpoforum.com
 ||wpoforum.com
