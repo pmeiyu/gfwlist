@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rCfCdnSv6CcFXF9/uPshSQ
+! Checksum: mUVWC4NgOsnhgtOiG9wsDg
 ! Expires: 8h
-! Last Modified:  Sun, 28 Feb 2010 22:38:13 +0800
+! Last Modified:  Mon, 01 Mar 2010 10:48:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1938,7 +1938,6 @@ wezhiyong.org
 ||wforum.com
 .whatblocked.com
 ||whatblocked.com
-.whitehats.com
 .whippedass.com
 ||whyx.org
 ||wikia.com
@@ -2006,8 +2005,6 @@ x1949x.com
 .xbookcn.com
 ||xbookcn.com
 x.xcity.jp
-.xft.de/
-/xft.de/*
 xh4n.cn/blog
 xiaoma.org
 .xinmiao.com.hk
@@ -2025,7 +2022,6 @@ xmovies.com
 xtube.com
 blog.xuite.net
 ||photo.xuite.net
-||xuming.net
 xuzhiyong.net
 xvediox.com
 .xvideos.com
@@ -2054,7 +2050,6 @@ news.yam.com
 ||yidio.com
 ||yihanfans.org
 yilubbs.com
-||yo2.cn
 .yogichen.org
 ||yogichen.org
 yong.hu
