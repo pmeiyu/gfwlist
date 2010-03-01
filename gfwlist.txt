@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4TW3eWAndUBBMtRAOOYD2A
+! Checksum: 2aOoEDdkENzngGJladgHbw
 ! Expires: 8h
-! Last Modified:  Mon, 01 Mar 2010 16:42:09 +0800
+! Last Modified:  Mon, 01 Mar 2010 18:43:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -568,7 +568,6 @@ findbook.tw
 
 ||flickroom.org
 ||tradinggoddess.comyuming.flnet.org
-||formosaisland.org
 www.forum4hk.com
 ||fotop.net
 .free.fr/adsl
@@ -582,7 +581,6 @@ kineox.free.fr
 ||fooooo.com
 ||franklc.com
 ||puttycm.free.fr
-||free-culture.cc
 ||freebbs.tw
 freeciv.org
 .freedl.org
@@ -594,8 +592,6 @@ freeforums.org
 .freegao.com
 ||freegao.com
 ||freehaven.net
-.freehostia.com
-@@www.freehostia.com
 .freelotto.com
 ||freelotto.com
 freemoren.com
@@ -665,7 +661,6 @@ geocities.jp
 getchu.com
 ||getjetso.com
 ||getuploader.com
-||gigaom.com
 .ginx.com
 |http://ginx.com
 .girlsgonewild.com
@@ -676,7 +671,6 @@ getchu.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 ||gmhz.org
-||golang.org
 gongmeng.info
 gongminliliang.com
 .gopetition.com
@@ -821,7 +815,6 @@ twitter.grader.com
 great-firewall.com
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
-||gutenberg.org
 ||gwenbell.com
 
 !--------------------------HH--------------------------
