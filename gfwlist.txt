@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ttofoH6Y5o2cd9pIDPTLmg
+! Checksum: 06L3FaoMY5jOtvTktwC6BQ
 ! Expires: 8h
-! Last Modified:  Mon, 01 Mar 2010 16:06:42 +0800
+! Last Modified:  Mon, 01 Mar 2010 16:32:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -16,14 +16,13 @@
 .1688.com.au/site1
 .18kin.com
 .18p2p.com
-1bang1.cn
+.1bang1.cn
 .1bao.org
 ||1pondo.tv
 .1pondo.tv
 .2000fun.com*bbs
 205.209.177.79
 2008xianzhang.info
-||22web.net
 ||2dmoe.com
 ||2photo.ru
 .2tips.com
@@ -31,8 +30,6 @@
 ||36rain.com
 |http://3b8.cc/
 3boys2girls.com
-|http://3cc.cc/
-|http://www.3cc.cc/
 ||3park.net
 .3park.net
 .45av.net
@@ -136,7 +133,6 @@ twittergadget.appspot.com
 /^https:\/\/(?:\w|-)+\.appspot\.com/
 
 ||areca-backup.org
-|http://www.arizonachinese.com
 ||army.mil
 www.asiademo.org
 .asianbabymakers.com
@@ -165,7 +161,6 @@ avno1.com
 .babedump.com
 forum.baby-kingdom.com
 backchina.com
-backpackers.com.tw
 .badongo.com
 @@||baidu.com
 baidu.jp/
@@ -1884,19 +1879,16 @@ video.tiscali.it/canali/truveo
 ||village-idiot.org
 .vimeo.com
 ||vimeo.com
-|http://www.visuwords.com/
 voanews.com
 .vot.org
 ||vox.com/
 www.voy.com
 
 !--------------------------WW--------------------------
-||w3schools.com
 .wahas.com
 waikeung.org/php_wind
 .waiwaier.com
 |http://waiwaier.com
-||blog.wakoopa.com
 wallornot.org
 ||www.wan-press.org
 ||wangafu.net
@@ -1904,7 +1896,6 @@ wallornot.org
 wangruoshui.net
 www.wangruowang.org
 .wattpad.com
-||we.bs^
 .wearn.com
 ||wearn.com
 ||web2project.net
@@ -1974,6 +1965,7 @@ worldjournal.com
 !--||blog.thinglabs.com
 china.blogs.time.com
 !--||blog.tinypic.com
+!--||blog.wakoopa.com
 !--||wordpress.com
 !--@@|http://wordpress.com
 !--@@|http://www.wordpress.com
@@ -1989,7 +1981,6 @@ zh-cn.wordpress.com
 !--||wp.com
 
 ||wormsculptor.com
-wowwiki.com
 |http://wp.me/
 .wpoforum.com
 ||wpoforum.com
@@ -2044,7 +2035,6 @@ blog.yam.com
 n.yam.com
 news.yam.com
 .ydy.com
-||yesbra.com
 .yi.org
 .yidio.com
 ||yidio.com
