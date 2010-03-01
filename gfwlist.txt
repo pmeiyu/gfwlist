@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 06L3FaoMY5jOtvTktwC6BQ
+! Checksum: 4TW3eWAndUBBMtRAOOYD2A
 ! Expires: 8h
-! Last Modified:  Mon, 01 Mar 2010 16:32:05 +0800
+! Last Modified:  Mon, 01 Mar 2010 16:42:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -187,7 +187,6 @@ beijingspring.com
 bestforchina.org
 ||beyondcow.com
 ||biblegateway.com
-bigandfree.com
 bignews.org
 .bigsound.org/portnoy
 ||billywr.com
@@ -272,7 +271,6 @@ canyu.org
 caochangqing.com
 .caodan.org
 |http://www.carnegieendowment.org
-||casimages.com
 .catcatforum.com
 .catholic.org.hk
 ||catholic.org.hk
@@ -286,7 +284,6 @@ cclife.org
 |http://www.cdef.org
 .cdjp.org
 ||cdjp.org
-|http://www.cdnews.com.tw
 www.cdp1998.org
 cdpweb.org
 cdpwu.org
@@ -305,7 +302,6 @@ changkun.org
 .chatterous.com
 ||chatterous.com
 ||charlescooke.me.uk
-||chedong.com
 chengmingmag.com
 chenjun.com
 ||cherrysave.com
@@ -355,7 +351,6 @@ www.cityrag.com
 psiphon.civisec.org
 |http://www.civisec.org
 ck101.com
-||clip2net.com
 cmule.com
 .cmule.info
 ||cmule.info
@@ -412,9 +407,7 @@ cuihua.org
 |http://*t.ikemi.org
 |http://*t.kunshou.net
 |http://*t.leeiio.me
-|http://*t.maxcell.org
 |http://*t.neolee.cn
-|http://*t.niechen.com
 |http://*t.orzdream.com
 |http://*m.oulove.org
 
@@ -456,7 +449,6 @@ discuss.com.hk
 ||dlsite.com
 .dmm.co.jp
 ||dmtcs.org
-|http://www.docbook.org/
 .dojin.com
 ||dokoda.jp
 ||domai.nr
@@ -468,7 +460,6 @@ dongtaiwang.com
 .dongyangjing.com
 .dontfilter.us
 ||dopdf.com
-||dopodomani.me
 dowei.org
 ||download.hr
 ||doxygen.org
@@ -513,7 +504,6 @@ edoors.com
 |http://www.edubridge.com/
 ||tor.eff.org
 ||egamia.com
-||elecite.com
 ||elisabethkublerross.com
 .elog-ch.net
 eltondisney.com
@@ -525,7 +515,6 @@ epochtimes.com
 ||erights.net
 etaiwannews.com
 ||etizer.org
-.evanlife.org.hk
 voxaleadnews.labs.exalead.com
 .exblog.jp
 ||exploader.net
@@ -541,16 +530,12 @@ eyny.com
 !--facebook cdn
 ||fbcdn.net
 fail.hk
-||failblog.org
 ||failforum.net
 favstar.fm/users
 faydao.com
 @@i.faydao.com
 @@v.faydao.com
 fangeming.com
-fanqiang.org
-@@|http://www.fanqiang.org
-@@|http://fanqiang.org
 web.fc2.com
 video.fdbox.com
 forum*.fdzone.org
