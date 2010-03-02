@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BI7f3Dme4rB3+JQhF0dwDQ
+! Checksum: WJbpx9gzJ3zgGrRvdbVAFA
 ! Expires: 8h
-! Last Modified:  Tue, 02 Mar 2010 10:47:34 +0800
+! Last Modified:  Tue, 02 Mar 2010 11:30:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1867,8 +1867,6 @@ wenxuecity.com
 ||westca.com
 hkg.westkit.net
 www.wet123.com
-|http://www.wetpaintinjected.com/
-|http://widget.wetpaintserv.us/
 wetpussygames.com
 wezhiyong.org
 .wforum.com
