@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tAOxuXCkMFJidIaPi6Kb2Q
+! Checksum: BI7f3Dme4rB3+JQhF0dwDQ
 ! Expires: 8h
-! Last Modified:  Tue, 02 Mar 2010 10:42:22 +0800
+! Last Modified:  Tue, 02 Mar 2010 10:47:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -54,7 +54,7 @@ info.51.ca
 ||8000.com
 |http://www.881903.com
 .888.com
-||888.com
+||888.com/
 89-64.org
 .8cyber.com
 8ok.com/
@@ -1411,7 +1411,7 @@ rti.org.tw
 ||s1heng.com
 ||s3fox.net
 .saiq.me
-||saiq.me
+||saiq.me/
 .salvation.org.hk
 ||salvation.org.hk
 ||sandradodd.com
@@ -1499,7 +1499,7 @@ forum.slime.com.tw
 ||snsanalystics.com
 ||so-ga.net
 .so-ga.net
-||soc.mil
+||soc.mil/
 .sod.co.jp
 ||sogclub.com
 ||somee.com
@@ -1618,7 +1618,7 @@ tibetfund.org
 .tistory.com
 ||tkcs-collins.com
 ||tkforum.tk
-||tkit.tk
+||tkit.tk/
 tldp.org
 ||tlists.com
 .tnaflix.com
