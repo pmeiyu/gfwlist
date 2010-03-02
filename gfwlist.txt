@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2aOoEDdkENzngGJladgHbw
+! Checksum: 52mqjywwFv/3jNEYUBAlBA
 ! Expires: 8h
-! Last Modified:  Mon, 01 Mar 2010 18:43:55 +0800
+! Last Modified:  Mon, 01 Mar 2010 22:17:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -58,7 +58,6 @@ info.51.ca
 89-64.org
 .8cyber.com
 8ok.com/
-||9.ly
 ||909090909.info
 .91porn.com
 .92hg.com
@@ -208,11 +207,6 @@ blogimg.jp
 ||blog.kangye.org
 .bloglines.com
 ||bloglines.com
-.blogllines.com
-||blogllines.com
-||blogs.com
-@@||www.blogs.com
-.blogsome.com
 ||blogtd.net
 blogtd.org
 ||bobchao.net
@@ -332,7 +326,6 @@ gb.chinatimes.com/gate/gb/*2007Cti-News
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 news.chinatimes.com/2007Cti/2007Cti-News/2007Cti-News-Content/0,4521,130505
 chinaway.org
-||chinaweekly.com
 .chinese-hermit.net
 ||chinese-hermit.net
 .chinesen.de
@@ -1842,7 +1835,6 @@ ustream.tv
 
 !--------------------------VV--------------------------
 .vanilla-jp.com
-www.vansky.com
 ||vapurl.com
 veoh.com
 |http://verizon.net
