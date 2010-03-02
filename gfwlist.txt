@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 52mqjywwFv/3jNEYUBAlBA
+! Checksum: fRWMrF+nugr5KBz5WUoT1Q
 ! Expires: 8h
-! Last Modified:  Mon, 01 Mar 2010 22:17:55 +0800
+! Last Modified:  Tue, 02 Mar 2010 10:11:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -92,7 +92,6 @@ blog.aiweiwei.com
 aladding.com
 ||alexatnet.com
 ||alexeyyurenev.com
-||alexking.org
 .alivenotdead.com
 allhabit.com
 alliance.org.hk
@@ -106,7 +105,6 @@ amnestyusa.org
 .amoiist.com
 ||amoiist.com
 anchorfree.com
-|http://www.andylau.com
 ||angel.hk
 anonymizer.com
 anonymouse.org
@@ -1889,8 +1887,6 @@ wenxuecity.com
 ||westca.com
 hkg.westkit.net
 www.wet123.com
-|http://static.wetpaint.com/
-|http://www.wetpaint.com/
 |http://www.wetpaintinjected.com/
 |http://widget.wetpaintserv.us/
 wetpussygames.com
@@ -1902,10 +1898,11 @@ wezhiyong.org
 .whippedass.com
 ||whyx.org
 ||wikia.com
+@@||images.wikia.com
+zh.uncyclopedia.wikia.com
 .wikileaks.org
 ||wikimedia.org.mo
 ||willw.net
-zh.uncyclopedia.wikia.com
 !-WikiLeaks IP
 */88.80.13.160/*
 ||wikimapia.org
