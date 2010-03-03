@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WJbpx9gzJ3zgGrRvdbVAFA
+! Checksum: w2xUANMPfOsx1HnVXHTeIw
 ! Expires: 8h
-! Last Modified:  Tue, 02 Mar 2010 11:30:05 +0800
+! Last Modified:  Wed, 03 Mar 2010 22:22:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1892,38 +1892,38 @@ secure.wikimedia.org
 worldjournal.com
 
 !-------------Wordpress Blog-----
-!--||blog.bittorrent.com
-!--||blogmaverick.com
+||blog.bittorrent.com
+||blogmaverick.com
 ||breakingnewsworld.org
-!--||blog.drakengren.com
-!--||blog.feedly.com
-!--||blog.flickr.net
+||blog.drakengren.com
+||blog.feedly.com
+||blog.flickr.net
 ||fourwallsandaroof.com
 ||hoparoundtheglobe.com
-!--||blog.linkedin.com
+||blog.linkedin.com
 ||menro.me
 ||nandalala.com
 ||p2theme.com
-!--||blog.polldaddy.com
+||blog.polldaddy.com
 ||sharpinsandiego.com
-!--||blog.symbian.org
-!--||blog.thinglabs.com
+||blog.symbian.org
+||blog.thinglabs.com
 china.blogs.time.com
-!--||blog.tinypic.com
-!--||blog.wakoopa.com
-!--||wordpress.com
-!--@@|http://wordpress.com
-!--@@|http://www.wordpress.com
-!--@@|http://en.wordpress.com
-!--@@||files.wordpress.com
-!--@@|http://s.wordpress.com/wp-content
-!--@@|http://s1.wordpress.com
-!--@@|http://s2.wordpress.com
-!--@@|http://s3.wordpress.com
-!--@@||stats.wordpress.com
+||blog.tinypic.com
+||blog.wakoopa.com
+||wordpress.com
+@@|http://wordpress.com
+@@|http://www.wordpress.com
+@@|http://en.wordpress.com
+@@||files.wordpress.com
+@@|http://s.wordpress.com/wp-content
+@@|http://s1.wordpress.com
+@@|http://s2.wordpress.com
+@@|http://s3.wordpress.com
+@@||stats.wordpress.com
 ||xijie.wordpress.com
 zh-cn.wordpress.com
-!--||wp.com
+||wp.com
 
 ||wormsculptor.com
 |http://wp.me/
