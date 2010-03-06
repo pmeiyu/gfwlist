@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4bBSaXG9Brj6p+acn58Ecw
+! Checksum: 4yK8UEHNPGWowMpwaVyvDQ
 ! Expires: 8h
-! Last Modified:  Sat, 06 Mar 2010 20:23:57 +0800
+! Last Modified:  Sat, 06 Mar 2010 20:25:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -772,6 +772,8 @@ myboooks.googlepages.com
 .googlevideo.com
 |http://www.google.com/search*q=dongtaiwang
 |http://www.google.com/search*free*gate
+!--Da Lai La Ma
+|http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
