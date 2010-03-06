@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4yK8UEHNPGWowMpwaVyvDQ
+! Checksum: Rujvk/OaKZ80PFDbnLtLIQ
 ! Expires: 8h
-! Last Modified:  Sat, 06 Mar 2010 20:25:29 +0800
+! Last Modified:  Sun, 07 Mar 2010 00:31:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -655,6 +655,7 @@ getchu.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
 ||gmhz.org
+||goldwave.com
 gongmeng.info
 gongminliliang.com
 .gopetition.com
@@ -1956,6 +1957,7 @@ x1949x.com
 .xbookcn.com
 ||xbookcn.com
 x.xcity.jp
+||xesh.tk
 xh4n.cn/blog
 xiaoma.org
 .xinmiao.com.hk
