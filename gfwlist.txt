@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5Vn9Xc/vkdyPnkspYalbZA
+! Checksum: 4bBSaXG9Brj6p+acn58Ecw
 ! Expires: 8h
-! Last Modified:  Sat, 06 Mar 2010 20:18:44 +0800
+! Last Modified:  Sat, 06 Mar 2010 20:23:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -187,6 +187,7 @@ bestforchina.org
 ||biblegateway.com
 bignews.org
 .bigsound.org/portnoy
+||bikinivoyeur.com
 ||billywr.com
 ||bind2.com
 ||bing.com/twitter
@@ -1305,6 +1306,7 @@ plurk.com
 .porn2.com
 .pornbase.com
 ||pornbase.com
+.pornbase.org
 .pornrapidshare.com
 ||pornrapidshare.com
 postadult.com
@@ -1505,6 +1507,7 @@ news.singtao.ca
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
+||skimtube.com
 ||skulpt.org
 ||skydur.com
 |http://skype.com
@@ -1597,6 +1600,7 @@ technologizer.com
 technorati.com
 ||teck.in/
 telecomspace.com
+||the-bowser.com
 theblemish.com
 ||thedieline.com
 ||thedw.us
@@ -2214,10 +2218,13 @@ zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%281973%E5%B9%B4%29
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
 zh.wikipedia.org*%E8%83%A1%E9%94%A6%E6%B6%9B
+!--Hu Ping (Zuo Jia)
+zh.wikipedia.org*%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29
 !--Hu Yao Bang
 zh.wikipedia.org*%E8%83%A1%E8%80%80%E9%82%A6
-!--Hua Guo Feng
+!--Hua Guo Feng (s/t)
 zh.wikipedia.org*%E5%8D%8E%E5%9B%BD%E9%94%8B
+zh.wikipedia.org*%E8%8F%AF%E5%9C%8B%E9%8B%92
 !--Hua Yuan Ruan Jian
 zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E8%BD%AF%E4%BB%B6
 !--Hua Yuan Wang
