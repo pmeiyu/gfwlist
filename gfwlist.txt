@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OfHGcYPif+xoTt6snd3L2w
+! Checksum: 5Vn9Xc/vkdyPnkspYalbZA
 ! Expires: 8h
-! Last Modified:  Sat, 06 Mar 2010 20:15:03 +0800
+! Last Modified:  Sat, 06 Mar 2010 20:18:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -492,6 +492,7 @@ edoors.com
 ||elisabethkublerross.com
 .elog-ch.net
 eltondisney.com
+||emacsblog.org
 .emodao.com
 ||empflix.com
 ||endsoftpatents.org
@@ -1055,6 +1056,7 @@ markmail.org*message
 .marlito.com
 ||martau.com
 ||marxist.net
+||mathiew-badimon.com
 |http://www.mathtunnel.com/
 ||mauvaise-haleine.info
 member.maxi-247.org
@@ -1641,6 +1643,7 @@ tldp.org
 ||tnaflix.com
 .tokyo-247.com
 tokyo-hot.com
+.toodoc.com
 .topnews.in
 .topshareware.com
 ||topstyle4.com
@@ -1703,6 +1706,7 @@ bbs.tuitui.info
 ||blog.tr.im
 ||status.twhirl.org
 !-||status.twitter.com
+||bd.zhe.la
 ||cocoa.zonble.net
 
 ||tv-intros.com
@@ -1778,19 +1782,7 @@ twitthat.com
 .tycool.com
 ||tycool.com
 tynsoe.org
-
-!--Typepad
-!--.typepad.com
-!--@@www.typepad.com
-!--||blog.expofutures.com
-!--||legaltech.law.com
-!--||www.loiclemeur.com
-!--||latimesblogs.latimes.com
-!--||blog.palm.com
-!--||blog.seesmic.com
-!--||blogs.tampabay.com
-!--||contests.twilio.com
-
+lawprofessors.typepad.com/china_law_prof_blog
 ||tzangms.com
 
 !--------------------------UU--------------------------
@@ -1815,6 +1807,7 @@ uncyclomedia.org
 .uniteddaily.com.my/index.php?
 |http://www.unknownspace.org/
 ||uocn.org
+tor.updatestar.com
 .upload4u.info
 ||uploader.jp
 |http://myshare.url.com.tw/
