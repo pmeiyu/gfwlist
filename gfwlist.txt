@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: w2xUANMPfOsx1HnVXHTeIw
+! Checksum: OfHGcYPif+xoTt6snd3L2w
 ! Expires: 8h
-! Last Modified:  Wed, 03 Mar 2010 22:22:39 +0800
+! Last Modified:  Sat, 06 Mar 2010 20:15:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -49,6 +49,7 @@ info.51.ca
 64tianwang.com
 666kb.com
 6park.com
+70.85.48.252
 ||7capture.com
 .8000.com
 ||8000.com
@@ -83,6 +84,7 @@ info.51.ca
 adultfriendfinder.com
 advanscene.com
 ||advertfan.com
+||blog.aegisub.org
 ||aenhancers.com
 |http://www.aidsmuseum.cn/
 .aisex.com
@@ -116,6 +118,7 @@ video.aol.ca/video-detail
 video.aol.co.uk/video-detail
 video.aol.com
 videoportal.aol.tw/video-detail
+.ap-ch2.com
 
 !-Appspot
 ||bullog4cn.appspot.com
@@ -205,6 +208,7 @@ blogimg.jp
 ||bloglines.com
 ||blogtd.net
 blogtd.org
+||bnrmetal.com
 ||bobchao.net
 boltbrowser.com*download
 bomb.tv
@@ -315,6 +319,7 @@ chinasocialdemocraticparty.com
 chinasoul.org
 blog.chinatimes.com
 gb.chinatimes.com/gate/gb/*2007Cti-News
+life.chinatimes.com/2009Cti/Channel
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 news.chinatimes.com/2007Cti/2007Cti-News/2007Cti-News-Content/0,4521,130505
 chinaway.org
@@ -488,6 +493,7 @@ edoors.com
 .elog-ch.net
 eltondisney.com
 .emodao.com
+||empflix.com
 ||endsoftpatents.org
 ||entermap.com
 epochtimes.com
@@ -558,6 +564,7 @@ kineox.free.fr
 ||fooooo.com
 ||franklc.com
 ||puttycm.free.fr
+||free1gig.net
 ||freebbs.tw
 freeciv.org
 .freedl.org
@@ -786,6 +793,7 @@ twitter.grader.com
 great-firewall.com
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
+||gutteruncensored.com
 ||gwenbell.com
 
 !--------------------------HH--------------------------
@@ -851,6 +859,7 @@ img129.hotlinkimage.com
 hotshare.net
 ||hotspotshield.com
 .hotupub.com
+||hougaige.com
 .hqcdp.org
 ||hqcdp.org
 ||hqwalls.net
@@ -880,6 +889,7 @@ ibiblio.org/pub/packages/ccic
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
+||ignitedetroit.net
 ||ijenny.cn
 ||illusionfactory.com
 |http://im.tv/
@@ -902,6 +912,7 @@ is.gd/1VOp7
 .beta.iset.com.tw/forum
 ||beta.iset.com.tw
 forum.iset.com.tw
+.isheart.com
 ||ishawn.net
 .islam.org.hk
 .isaacmao.com
@@ -981,6 +992,7 @@ laomiu.com
 latelinenews.com
 ||leecheukyan.org
 ||leehare.cn
+.leenks.com
 ||lenwhite.com
 .lianyue.net
 ||lianyue.net
@@ -990,6 +1002,7 @@ latelinenews.com
 libertytimes.com.tw
 ||lifemotivations.com
 lifestream.fm
+||lightbotz.com
 ||lilzo.com
 ||linkinpark.com
 |http://cle.linux.org.tw/
@@ -1023,6 +1036,7 @@ liveleak.com
 .longhair.hk
 ||lookingglasstheatre.org
 .lookpic.com
+||lrfz.com
 lsforum.net
 .lubetube.com
 ||lubetube.com
@@ -1088,6 +1102,7 @@ mitbbs.com
 mm36c.com
 ||mmaaxx.com
 plurktop.mmdays.com
+.momotato.com
 ||monkeeh.com
 |http://maomy.motime.com/
 ||movabletype.com
@@ -1211,6 +1226,7 @@ open.com.hk
 ||blog.opentumblr.com
 opera.com/mini
 ||mini.opera.com
+my.opera.com
 www.orchidbbs.com
 .orzistic.org
 ||orzistic.org
