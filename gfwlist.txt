@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 81YjOuTS/JxtVECpC4i0oA
+! Checksum: VaB+V9AmODelozP9CVuYHA
 ! Expires: 8h
-! Last Modified:  Sun, 07 Mar 2010 22:58:05 +0800
+! Last Modified:  Mon, 08 Mar 2010 00:12:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -976,6 +976,7 @@ kanzhongguo.com
 .keezmovies.com
 ||keezmovies.com
 .kenengba.com/post/1149
+.kenengba.com/post/1163
 .khmusic.com.tw
 .kidoors.com
 .kingstone.com.tw
@@ -1399,6 +1400,7 @@ rcinet.ca
 .realraptalk.com
 blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
+||reflectivecode.com
 ||refer.ccbill.com
 ||reloaded.org
 renminbao.com
