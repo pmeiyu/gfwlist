@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Rujvk/OaKZ80PFDbnLtLIQ
+! Checksum: 8W6r8zWJdxxQDzLGV2wAdQ
 ! Expires: 8h
-! Last Modified:  Sun, 07 Mar 2010 00:31:07 +0800
+! Last Modified:  Sun, 07 Mar 2010 16:58:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1070,7 +1070,6 @@ member.maxi-247.org
 mediafire.com
 ||meetup.com
 ||megaporn.com
-.megaupload.com/?d=4
 megavideo.com
 ||melon-peach.com
 memedia.cn
