@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8W6r8zWJdxxQDzLGV2wAdQ
+! Checksum: FmpSUwuyEjlB2T/7UZKw5w
 ! Expires: 8h
-! Last Modified:  Sun, 07 Mar 2010 16:58:11 +0800
+! Last Modified:  Sun, 07 Mar 2010 21:02:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -132,6 +132,8 @@ twittergadget.appspot.com
 ||wenbingintwitter.appspot.com
 /^https:\/\/(?:\w|-)+\.appspot\.com/
 
+.archive.org
+||archive.org
 ||areca-backup.org
 ||army.mil
 www.asiademo.org
@@ -468,6 +470,7 @@ dphk.org
 ||duoweitimes.com
 duping.net
 dupola.com
+||dvorak.org
 .dw-world.com
 ||dw-world.com
 dw-world.de
@@ -923,6 +926,7 @@ forum.iset.com.tw
 .isaacmao.com
 ||isaacmao.com
 ||ismprofessional.net
+isohunt.com
 blog.istef.info/2007/10/21/myentunnel
 ||itechmax.com
 .iterasi.net
@@ -1041,6 +1045,7 @@ liveleak.com
 .longhair.hk
 ||lookingglasstheatre.org
 .lookpic.com
+||lookpic.com
 ||lrfz.com
 lsforum.net
 .lubetube.com
@@ -1130,6 +1135,7 @@ msn.com.tw
 ||my219.cn
 ||mybyways.net
 sidekick.myblog.hk
+||bbs.mychat.to
 |http://www.mycould.com/
 ||myeclipseide.com
 .myforum.com.hk
@@ -2319,6 +2325,8 @@ zh.wikipedia.org*%E9%AD%8F%E4%BA%AC%E7%94%9F
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87
 !--Wen Jia Bao
 zh.wikipedia.org*%E6%B8%A9%E5%AE%B6%E5%AE%9D
+!--Wang Bing Zhang
+zh.wikipedia.org*%E7%8E%8B%E7%82%B3%E7%AB%A0
 !--Wang Le Quan
 zh.wikipedia.org*%E7%8E%8B%E4%B9%90%E6%B3%89
 !--Wang Li Xiong
