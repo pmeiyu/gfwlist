@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rPugPe2aGXMwgY7/BdDHbQ
+! Checksum: O1CQMlX2a0sf0EC9BtuStQ
 ! Expires: 8h
-! Last Modified:  Mon, 08 Mar 2010 21:49:28 +0800
+! Last Modified:  Mon, 08 Mar 2010 22:08:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -175,6 +175,7 @@ bbc.co.uk*zhongwen
 newsvote.bbc.co.uk
 newsforums.bbc.co.uk
 ||bbg.gov/
+||bbsfeed.com
 bbsland.com
 www.bcc.com.tw/board
 blog.bcchinese.net
