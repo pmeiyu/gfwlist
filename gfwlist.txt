@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VaB+V9AmODelozP9CVuYHA
+! Checksum: tdhHU+pMaibKua+Kfew/dA
 ! Expires: 8h
-! Last Modified:  Mon, 08 Mar 2010 00:12:31 +0800
+! Last Modified:  Mon, 08 Mar 2010 21:25:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1586,6 +1586,7 @@ tw.streetvoice.com
 ||syncback.com
 sysresccd.org
 blog.syx86.cn/2009/09/puff
+.szbbs.net
 
 !--------------------------TT--------------------------
 .t35.com
