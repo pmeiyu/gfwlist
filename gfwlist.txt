@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tdhHU+pMaibKua+Kfew/dA
+! Checksum: rPugPe2aGXMwgY7/BdDHbQ
 ! Expires: 8h
-! Last Modified:  Mon, 08 Mar 2010 21:25:16 +0800
+! Last Modified:  Mon, 08 Mar 2010 21:49:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1524,6 +1524,7 @@ sitetag.us
 |http://skype.com
 |http://www.skype.com
 download.skype.com/SkypeSetup.exe
+share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
 ||slheng.com
 forum.slime.com.tw
