@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QMj69EBdYM3L1zlgycxaeQ
+! Checksum: z4BcA1P8GEOnnqSyOKKQKQ
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 21:12:59 +0800
+! Last Modified:  Tue, 09 Mar 2010 21:18:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -298,6 +298,7 @@ changkun.org
 ||charlescooke.me.uk
 chengmingmag.com
 chenjun.com
+||chenlu.info
 ||cherrysave.com
 ||chethstudios.net
 ||chibs.edu.tw
@@ -528,6 +529,7 @@ fangeming.com
 web.fc2.com
 video.fdbox.com
 forum*.fdzone.org
+||fourface.nodesnoop.com
 feedbooks.mobi
 feeds2.feedburner.com/chinagfwblog
 ||feedzshare.com
@@ -1659,6 +1661,7 @@ tuidang.net
 bbs.tuitui.info
 ||turningtorso.com
 ||tuxmachines.org
+||twohungrydudes.com
 
 !-------------Tumblr-----
 ||tumblr.com
