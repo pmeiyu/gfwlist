@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gg44nS3kTxmQHVDSDobEJQ
+! Checksum: HQx/p2/2bcWXT4uJw8+blQ
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 17:05:09 +0800
+! Last Modified:  Tue, 09 Mar 2010 17:14:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1578,17 +1578,14 @@ blog.syx86.cn/2009/09/puff
 ||taiwandaily.net
 takungpao.com
 tangben.com
-|http://tansioksiok.com/
 .taolun.info
 ||taolun.info
 blog.taragana.com
-.tblog.com
 tchrd.org
 tcno.net*doc*tor
 ||techcrunch.com
 ||teamseesmic.com
 .teashark.com/download.html
-technologizer.com
 technorati.com
 ||teck.in/
 telecomspace.com
@@ -1634,7 +1631,6 @@ tibetfund.org
 ||tkforum.tk
 ||tkit.tk/
 tldp.org
-||tlists.com
 .tnaflix.com
 ||tnaflix.com
 .tokyo-247.com
@@ -1660,7 +1656,6 @@ tsquare.tv
 ||tttan.com
 .tttan.com
 bb.ttv.com.tw/bb
-||anon.inf.tu-dresden.de
 tube8.com
 tuidang.net
 .tuite.de
@@ -1784,7 +1779,6 @@ lawprofessors.typepad.com/china_law_prof_blog
 !--------------------------UU--------------------------
 album.udn.com
 blog.udn.com
-bookmark.udn.com
 city.udn.com
 dignews.udn.com
 forum.udn.com
@@ -1812,7 +1806,6 @@ tor.updatestar.com
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
 ustream.tv
-||uvumi.com
 .uwants.com
 ||uyghurcongress.org
 
