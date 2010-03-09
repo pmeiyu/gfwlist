@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YfyVVkIYAx6pu6mematCCQ
+! Checksum: r7Gme566gaHGnYsOWG67Gw
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 21:25:51 +0800
+! Last Modified:  Tue, 09 Mar 2010 21:28:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -312,6 +312,7 @@ chinadigitaltimes.net
 ||chinafreepress.org
 |http://*chinagfw.org
 ||chinaguideblog.com
+||chinagfw.com
 .chinainperspective.com
 ||chinainperspective.net
 chinainperspective.net/ArtShow.aspx?
