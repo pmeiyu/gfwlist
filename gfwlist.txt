@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /iZIJSnjhAn+0keV2HfgUQ
+! Checksum: kI2mimQyVUyDL2aDAppBjw
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 16:36:30 +0800
+! Last Modified:  Tue, 09 Mar 2010 16:39:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -434,7 +434,8 @@ democrats.org
 ||devkick.com
 ||digitalalchemy.tv
 diigo.com
-discuss.com.hk
+.discuss.com.hk
+||discuss.com.hk
 ||dit-inc.us
 .dizhidizhi.com
 ||dl-laby.jp
