@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wHTjc1JAdR9+vvWEnFLNaQ
+! Checksum: wejKNZp6qw0vSvXvrZI65g
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 21:37:27 +0800
+! Last Modified:  Tue, 09 Mar 2010 21:42:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1653,6 +1653,7 @@ touch99.com
 ||trustedbi.com
 .truveo.com
 tsquare.tv
+||tt1069.net
 ||tttan.com
 .tttan.com
 bb.ttv.com.tw/bb
