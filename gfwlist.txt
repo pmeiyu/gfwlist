@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 64CprQ15DapcvFLMKOLuYg
+! Checksum: wHTjc1JAdR9+vvWEnFLNaQ
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 21:33:25 +0800
+! Last Modified:  Tue, 09 Mar 2010 21:37:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1162,6 +1162,7 @@ net.ru
 netcolony.com
 bolin.netfirms.com
 netme.cc
+networkedblogs.com
 new-3lunch.net
 .new-akiba.com
 newcenturynews.com
