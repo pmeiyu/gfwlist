@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kI2mimQyVUyDL2aDAppBjw
+! Checksum: gg44nS3kTxmQHVDSDobEJQ
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 16:39:08 +0800
+! Last Modified:  Tue, 09 Mar 2010 17:05:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -183,7 +183,6 @@ blog.bcchinese.net
 ||bebo.com
 ||beginlinux.com
 beijingspring.com
-.beiming.net
 .berlintwitterwall.com
 ||berlintwitterwall.com
 bestforchina.org
@@ -356,7 +355,6 @@ cmule.com
 ||blog.cnblog.org
 .cnd.org
 |http://cnd.org
-||cnyoutube.com
 co.cc
 ||coat.co.jp
 |http://cochina.org
@@ -376,7 +374,6 @@ copytaste.com
 crackle.com
 crd-net.org
 creaders.net
-crocodyl.org
 ||csuchen.de
 ||ctvro.com
 .cuhkacs.org*~benng
@@ -590,7 +587,6 @@ freemoren.com
 freemorenews.com
 freetibet.org
 .freetzi.com
-||freewarezddl.com
 .freexinwen.com
 
 friendfeed.com
@@ -627,7 +623,6 @@ forum.gamer.com.tw
 gaopi.com
 .gaopi.net
 ||gaopi.net
-||garcya.us
 gardennetworks.com
 ||gardennetworks.org
 !--IP of Garden Network
@@ -855,7 +850,6 @@ hkjc.com
 .hkjp.org
 .hkmensa.net
 .hkplaza.net/discuz
-hkreporter.com
 ||hkzone.org
 blog.hnjhj.com
 hongmeimei.com
@@ -1012,9 +1006,7 @@ libertytimes.com.tw
 ||lifemotivations.com
 lifestream.fm
 ||lightbotz.com
-||lilzo.com
 ||linkinpark.com
-|http://cle.linux.org.tw/
 linuxconfig.org
 lipuman.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
@@ -1039,7 +1031,6 @@ lipuman.com
 |http:*zhllg.spaces.live.com
 
 livejasmin.com
-liveleak.com
 ||livevideo.com
 .livevideo.com
 .longhair.hk
@@ -1113,8 +1104,6 @@ mm36c.com
 ||mmaaxx.com
 plurktop.mmdays.com
 .momotato.com
-||monkeeh.com
-|http://maomy.motime.com/
 ||movabletype.com
 |http://www.moztw.org
 !--.mp may be removed some time
@@ -1189,7 +1178,6 @@ ngensis.com
 tw.nicovideo.jp
 ||nidaye.org
 homepage2.nifty.com
-||nihilex.com
 ||ning.com
 @@||api.ning.com
 @@||blog.ning.com
@@ -1200,7 +1188,6 @@ homepage2.nifty.com
 @@||static.ning.com
 @@||www.ning.com
 no-ip.com
-||nobody.jp
 ||nokola.com
 ||noobbox.com
 ||notebookaddon.tk
@@ -1233,7 +1220,6 @@ ooosee.com/fuckgfw
 ||ooosee.com
 open.com.hk
 ||openid.cn
-||openid.net
 ||blog.opentumblr.com
 opera.com/mini
 ||mini.opera.com
@@ -1312,8 +1298,6 @@ plurk.com
 .popyard.com
 ||popyard.org
 .porn2.com
-.pornbase.com
-||pornbase.com
 .pornbase.org
 .pornrapidshare.com
 ||pornrapidshare.com
@@ -1400,7 +1384,6 @@ blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 ||reflectivecode.com
 ||refer.ccbill.com
-||reloaded.org
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
@@ -1567,8 +1550,6 @@ www.stackfile.com/freedur
 usinfo.state.gov
 .state168.com
 ||avatar.status.net
-||dave.status.net
-||status.status.net
 ||theme.status.net
 ||steveblank.com
 stickeraction.com/sesawe
