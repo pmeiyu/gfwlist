@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: O1CQMlX2a0sf0EC9BtuStQ
+! Checksum: /iZIJSnjhAn+0keV2HfgUQ
 ! Expires: 8h
-! Last Modified:  Mon, 08 Mar 2010 22:08:27 +0800
+! Last Modified:  Tue, 09 Mar 2010 16:36:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -811,7 +811,6 @@ h1n1china.org
 .hacg.net/bbs
 |http://hackaday.com/
 .hacken.cc/bbs
-||hackthatphone.com
 ||hackthatphone.net
 ||hakkatv.org.tw
 ||haoren.com
@@ -828,16 +827,14 @@ hellotxt.com
 .helpeachpeople.com
 ||helpeachpeople.com
 |http://www.hemidemi.com/
-.hemix.com
 ||heungkongdiscuss.com
-.hgamecn.com
 ||hi5.com/
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
 ||hidemyass.com
 ||highscalability.com
 ||hikipedia.info
-myweb.hinet.net
+||myweb.hinet.net
 .hisex.tv
 .hjclub.info
 ||hjclub.info
@@ -885,7 +882,6 @@ huitter.com
 |http://www.hungerstrikeforaids.org
 
 !--------------------------II--------------------------
-|http://i1.hk/
 |http://board.i-cable.com
 |http://cablenews.i-cable.com
 ||iamvip.net
