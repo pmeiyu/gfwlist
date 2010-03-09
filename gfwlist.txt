@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vW0jvxgOvkx0HCako1WjQA
+! Checksum: 9pBt8rOfO8KezOwUQJY2bQ
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 23:55:13 +0800
+! Last Modified:  Tue, 09 Mar 2010 23:56:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -791,7 +791,7 @@ myboooks.googlepages.com
 !--Tu Po
 |http:*.google.com*%E7%AA%81%E7%A0%B4
 !--Wang Xi Zhe
-google.com*search*%E7%8E%8B%E5%B8%8C%E5%93%B2
+search*%E7%8E%8B%E5%B8%8C%E5%93%B2
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhen Xiang
