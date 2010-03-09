@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: z4BcA1P8GEOnnqSyOKKQKQ
+! Checksum: YfyVVkIYAx6pu6mematCCQ
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 21:18:23 +0800
+! Last Modified:  Tue, 09 Mar 2010 21:25:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1258,7 +1258,6 @@ pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
 ||pbworks.com
 .pcdiscuss.com
-||pcflower.url.tw
 mypaper.pchome.com.tw
 |http://news.pchome.com.tw/
 pdetails.com
