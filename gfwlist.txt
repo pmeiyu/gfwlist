@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HQx/p2/2bcWXT4uJw8+blQ
+! Checksum: zHkbFWvtlvfPaBzq/etNQA
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 17:14:21 +0800
+! Last Modified:  Tue, 09 Mar 2010 17:27:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -882,7 +882,6 @@ huitter.com
 ||iamvip.net
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
-||icanhascheezburger.com
 ||iconexpo.com
 .identi.ca
 |http://identi.ca
@@ -1583,7 +1582,6 @@ tangben.com
 blog.taragana.com
 tchrd.org
 tcno.net*doc*tor
-||techcrunch.com
 ||teamseesmic.com
 .teashark.com/download.html
 technorati.com
@@ -1899,6 +1897,7 @@ worldjournal.com
 ||blog.flickr.net
 ||fourwallsandaroof.com
 ||hoparoundtheglobe.com
+||icanhascheezburger.com
 ||blog.linkedin.com
 ||menro.me
 ||nandalala.com
@@ -1906,6 +1905,7 @@ worldjournal.com
 ||blog.polldaddy.com
 ||sharpinsandiego.com
 ||blog.symbian.org
+||techcrunch.com
 ||blog.thinglabs.com
 china.blogs.time.com
 ||blog.tinypic.com
