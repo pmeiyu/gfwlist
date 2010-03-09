@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wejKNZp6qw0vSvXvrZI65g
+! Checksum: gN4nRp4l4QmA8XGUgtyzUA
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 21:42:49 +0800
+! Last Modified:  Tue, 09 Mar 2010 21:47:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1122,6 +1122,7 @@ plurktop.mmdays.com
 msn.com.tw
 ||mthruf.com
 ||multiply.com
+forum.mymaji.com
 ||muzi.com
 ||muzi.net
 ||muzicana.uk.to
