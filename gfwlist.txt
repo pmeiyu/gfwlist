@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zHkbFWvtlvfPaBzq/etNQA
+! Checksum: P3YtqD+nH0ebE5n0CcynUA
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 17:27:00 +0800
+! Last Modified:  Tue, 09 Mar 2010 19:48:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -183,10 +183,10 @@ blog.bcchinese.net
 ||bebo.com
 ||beginlinux.com
 beijingspring.com
+||beiming.net
 .berlintwitterwall.com
 ||berlintwitterwall.com
 bestforchina.org
-||beyondcow.com
 ||biblegateway.com
 bignews.org
 .bigsound.org/portnoy
@@ -1177,15 +1177,15 @@ ngensis.com
 tw.nicovideo.jp
 ||nidaye.org
 homepage2.nifty.com
-||ning.com
-@@||api.ning.com
-@@||blog.ning.com
-@@||creators.ning.com
-@@||developer.ning.com
-@@||help.ning.com
-@@||jobs.ning.com
-@@||static.ning.com
-@@||www.ning.com
+!--||ning.com
+!--@@||api.ning.com
+!--@@||blog.ning.com
+!--@@||creators.ning.com
+!--@@||developer.ning.com
+!--@@||help.ning.com
+!--@@||jobs.ning.com
+!--@@||static.ning.com
+!--@@||www.ning.com
 no-ip.com
 ||nokola.com
 ||noobbox.com
@@ -1279,8 +1279,6 @@ picturesocial.com
 ||pingmicro.com
 ||pinoy-n.com
 .piring.com
-||pixnet.net
-@@||www.pixnet.net
 .pk.com
 .planetsuzy.org
 ||platinumgames.com
@@ -1575,7 +1573,6 @@ blog.syx86.cn/2009/09/puff
 .taiwandaily.net
 ||taiwantt.org.tw
 ||taiwandaily.net
-takungpao.com
 tangben.com
 .taolun.info
 ||taolun.info
