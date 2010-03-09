@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gN4nRp4l4QmA8XGUgtyzUA
+! Checksum: TeCeG7vexvI0AfjT7XZwOg
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 21:47:25 +0800
+! Last Modified:  Tue, 09 Mar 2010 22:08:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1834,6 +1834,7 @@ voanews.com
 www.voy.com
 
 !--------------------------WW--------------------------
+lists.w3.org/archives/public
 .wahas.com
 waikeung.org/php_wind
 .waiwaier.com
