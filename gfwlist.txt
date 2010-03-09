@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: P3YtqD+nH0ebE5n0CcynUA
+! Checksum: QMj69EBdYM3L1zlgycxaeQ
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 19:48:18 +0800
+! Last Modified:  Tue, 09 Mar 2010 21:12:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -850,6 +850,7 @@ hkjc.com
 .hkjp.org
 .hkmensa.net
 .hkplaza.net/discuz
+||hkreporter.com
 ||hkzone.org
 blog.hnjhj.com
 hongmeimei.com
@@ -2001,7 +2002,7 @@ share.youthwant.com.tw
 topic.youthwant.com.tw
 .youtube.com
 ||youtube.com
-/^https?:\/\/[^\/]+youtube\.com/
+!--/^https?:\/\/[^\/]+youtube\.com/
 .youtubecn.com
 ||youtubecn.com
 !-Youtube CDN
