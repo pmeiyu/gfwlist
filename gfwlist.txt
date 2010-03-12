@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9pBt8rOfO8KezOwUQJY2bQ
+! Checksum: Elbbie8gl7SDjueKK6Rjug
 ! Expires: 8h
-! Last Modified:  Tue, 09 Mar 2010 23:56:48 +0800
+! Last Modified:  Fri, 12 Mar 2010 10:06:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1204,6 +1204,7 @@ no-ip.com
 |http://blog.nownews.com
 forum.nownews.com
 .nowtorrents.com
+bbs.nsysu.edu.tw
 ntdtv.com
 ||cbs.ntu.edu.tw
 ||nuexpo.com
