@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pRijXbORM5XUeVWKzwTxAQ
+! Checksum: rj5VF9ny37UgyCrXdxMTHw
 ! Expires: 8h
-! Last Modified:  Sat, 13 Mar 2010 22:54:39 +0800
+! Last Modified:  Sat, 13 Mar 2010 23:06:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1911,6 +1911,7 @@ wezhiyong.org
 ||wikia.com
 @@||images.wikia.com
 zh.uncyclopedia.wikia.com
+||wikiwiki.jp
 .wikileaks.org
 ||wikimedia.org.mo
 ||willw.net
