@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: J+5jKEqPTpcYXh3m5EgHGQ
+! Checksum: pRijXbORM5XUeVWKzwTxAQ
 ! Expires: 8h
-! Last Modified:  Sat, 13 Mar 2010 13:01:30 +0800
+! Last Modified:  Sat, 13 Mar 2010 22:54:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -136,6 +136,7 @@ twittergadget.appspot.com
 ||archive.org
 ||areca-backup.org
 ||army.mil
+||asapload.com
 www.asiademo.org
 .asianbabymakers.com
 .asianews.it
@@ -460,6 +461,7 @@ doubleaf.com
 dphk.org
 |http://www.dpp.org.tw/
 .dream2006.net
+||dreamquarium.com
 ||drikin.com
 ||drivingitalia.net
 |http://*dl.dropbox.com
@@ -467,6 +469,7 @@ dphk.org
 ||droidie.com
 .ds-hk.net
 ||dtiblog.com
+dtiserv2.com
 ||duanwz.com
 ||duckmylife.com
 .duihua.org
@@ -532,6 +535,8 @@ faydao.com
 @@i.faydao.com
 @@v.faydao.com
 fangeming.com
+.blog42.fc2.com
+sweetnaoko24.blog43.fc2.com
 web.fc2.com
 video.fdbox.com
 forum*.fdzone.org
@@ -563,6 +568,7 @@ findbook.tw
 .flickr.com/photos/digitalboy100
 .flickr.com/photos/winterkanal
 
+.fling.com
 ||tradinggoddess.comyuming.flnet.org
 www.forum4hk.com
 ||fotop.net
@@ -898,6 +904,7 @@ ibiblio.org/pub/packages/ccic
 ||iconexpo.com
 .identi.ca
 |http://identi.ca
+.idouga.com
 .idv.tw
 .ifanr.com/857
 .ifcss.org
@@ -1206,6 +1213,7 @@ no-ip.com
 ||nokola.com
 ||noobbox.com
 ||notebookaddon.tk
+||novelasia.com
 .nownews.com/cybersex
 |http://www.nownews.com/box
 |http://blog.nownews.com
@@ -1318,6 +1326,7 @@ plurk.com
 .pornbase.org
 .pornrapidshare.com
 ||pornrapidshare.com
+.porntube.com
 postadult.com
 
 !-------------Posterous-----
@@ -1460,6 +1469,7 @@ sejie.com
 .sendspace.com/file
 sesawe.net
 .sesawe.org
+||sethwklein.net
 forum.setty.com.tw
 ||seul.org
 .sevenload.com
@@ -1526,6 +1536,7 @@ sitetag.us
 download.skype.com/SkypeSetup.exe
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
+||slavasoft.com
 ||slheng.com
 forum.slime.com.tw
 ||smashingshare.com
@@ -1970,10 +1981,12 @@ x.xcity.jp
 xh4n.cn/blog
 xiaoma.org
 .xinmiao.com.hk
-xizang-zhiye.org
 ||xinmiao.com.hk
 xinsheng.net
 |http://www.xinhuanet.org/
+.xirang.us
+||xirang.us
+xizang-zhiye.org
 .xmarks.com
 ||xmarks.com
 xmovies.com
