@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: iBIbeBT42/ObqPmi6Ycqxg
+! Checksum: J+5jKEqPTpcYXh3m5EgHGQ
 ! Expires: 8h
-! Last Modified:  Fri, 12 Mar 2010 10:15:13 +0800
+! Last Modified:  Sat, 13 Mar 2010 13:01:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -442,6 +442,7 @@ diigo.com
 ||dlsite.com
 .dmm.co.jp
 ||dmtcs.org
+||dolc.de
 .dojin.com
 ||dokoda.jp
 ||domai.nr
@@ -462,6 +463,7 @@ dphk.org
 ||drikin.com
 ||drivingitalia.net
 |http://*dl.dropbox.com
+|http://files.getdropbox.com
 ||droidie.com
 .ds-hk.net
 ||dtiblog.com
@@ -473,6 +475,7 @@ dphk.org
 ||duoweitimes.com
 duping.net
 dupola.com
+dupola.net
 ||dvorak.org
 .dw-world.com
 ||dw-world.com
@@ -496,6 +499,7 @@ bbs.ecstart.com
 edoors.com
 ||tor.eff.org
 ||egamia.com
+||eic-av.com
 ||elisabethkublerross.com
 .elog-ch.net
 eltondisney.com
@@ -779,6 +783,7 @@ myboooks.googlepages.com
 .googlevideo.com
 |http://www.google.com/search*q=dongtaiwang
 |http://www.google.com/search*free*gate
+google.com/support/youtube/bin/request.py?contact_type=abuse&
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Na Mi Bi Ya
@@ -1079,6 +1084,7 @@ memedia.cn
 .met-art.com
 .metacafe.com/watch
 ||metacafe.com/watch
+mhradio.org
 ||michaelmarketl.com
 middle-way.net
 .mihk.hk
@@ -1230,7 +1236,6 @@ ooosee.com/fuckgfw
 ||ooosee.com
 open.com.hk
 ||openid.cn
-||blog.opentumblr.com
 opera.com/mini
 ||mini.opera.com
 my.opera.com
@@ -1289,6 +1294,10 @@ picturesocial.com
 ||pingmicro.com
 ||pinoy-n.com
 .piring.com
+||pixnet.net
+@@||www.pixnet.net
+@@||blog.pixnet.net
+@@||forum.pixnet.net
 .pk.com
 .planetsuzy.org
 ||platinumgames.com
@@ -1298,6 +1307,7 @@ plurk.com
 .plus28.com
 .plusbb.com
 .pmates.com
+||po2b.com
 ||pocketmonsters.net
 ||podictionary.com
 .pokerstars.com
@@ -1359,6 +1369,8 @@ pwned.com
 python.org*download
 
 !--------------------------QQ--------------------------
+.qanote.com
+||qanote.com
 .qienkuen.org
 ||qienkuen.org
 qixianglu.cn
@@ -1522,6 +1534,7 @@ forum.slime.com.tw
 .so-ga.net
 ||soc.mil/
 .sod.co.jp
+||softpanorama.org
 ||sogclub.com
 ||somee.com
 .soumo.info
@@ -1595,6 +1608,7 @@ technorati.com
 ||teck.in/
 telecomspace.com
 ||the-bowser.com
+||theappleblog.com
 theblemish.com
 ||thedieline.com
 ||thedw.us
@@ -1608,10 +1622,8 @@ thevivekspot.com
 thkphoto.com
 ||throughnightsfire.com
 .thumbzilla.com
-||thws.cn/
 tiananmenmother.org
-.tiandixing.org
-|http://tiandixing.org
+||tiandixing.org
 .tianhuayuan.com
 tiantibooks.org
 .tianzhu.org
@@ -1680,6 +1692,7 @@ bbs.tuitui.info
 ||301works.org
 ||news.atebits.com
 ||tumblr.awflasher.com
+||blog.couch.io
 !-||blog.bit.ly
 ||cubicle17.com
 ||chaos.e-spacy.com
@@ -1698,7 +1711,7 @@ bbs.tuitui.info
 ||madmenfootnotes.com
 ||marco.org
 ||minimalmac.com
-||nickcheng.com
+||blog.opentumblr.com
 ||blogs.thws.cn
 ||blog.topify.com
 ||blog.tr.im
@@ -1784,6 +1797,7 @@ lawprofessors.typepad.com/china_law_prof_blog
 ||tzangms.com
 
 !--------------------------UU--------------------------
+humanities.uchicago.edu/faculty/ywang/hi
 album.udn.com
 blog.udn.com
 city.udn.com
@@ -1867,6 +1881,7 @@ weijingsheng.org
 wengewang.com
 .wengewang.org
 ||wengewang.org
+.wenhui.ch
 ||wenku.com
 wenxuecity.com
 .wenyunchao.com
@@ -1951,6 +1966,7 @@ x1949x.com
 ||xbookcn.com
 x.xcity.jp
 ||xesh.tk
+.xfm.pp.ru
 xh4n.cn/blog
 xiaoma.org
 .xinmiao.com.hk
@@ -1999,6 +2015,10 @@ yilubbs.com
 ||yogichen.org
 yong.hu
 forum.yorkbbs.ca
+!-------------yo2-----
+||yo2.cn
+||yo2cdn.com
+||thws.cn
 .youjizz.com
 ||youjizz.com
 youmaker.com
