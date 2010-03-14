@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rj5VF9ny37UgyCrXdxMTHw
+! Checksum: WyWMPp2esVY60r/8SQk+zQ
 ! Expires: 8h
-! Last Modified:  Sat, 13 Mar 2010 23:06:56 +0800
+! Last Modified:  Sun, 14 Mar 2010 16:13:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -694,8 +694,7 @@ grandtrial.org
 ||www.bestwebproxy.net
 ||feeds.cbsnews.com
 ||chromeexperiments.com
-||blog.chromium.org
-||dev.chromium.org
+||chromium.org
 @@||build.chromium.org
 ||rss.cnn.com
 ||feeds.digg.com
