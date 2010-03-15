@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 22CYxJFXYOtTisqtU1k2Hw
+! Checksum: RodVod/vlb5yfWxcc2wcBw
 ! Expires: 8h
-! Last Modified:  Tue, 16 Mar 2010 00:37:43 +0800
+! Last Modified:  Tue, 16 Mar 2010 00:41:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -505,7 +505,7 @@ hkjp.easyweb.hk
 ebookee.com
 bbs.ecstart.com
 edoors.com
-.edubridge.com
+.edubridge.com/erxiantang/library
 ||eevpn.com
 ||tor.eff.org
 ||egamia.com
