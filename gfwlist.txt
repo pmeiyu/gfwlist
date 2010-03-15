@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WyWMPp2esVY60r/8SQk+zQ
+! Checksum: 22CYxJFXYOtTisqtU1k2Hw
 ! Expires: 8h
-! Last Modified:  Sun, 14 Mar 2010 16:13:37 +0800
+! Last Modified:  Tue, 16 Mar 2010 00:37:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -14,6 +14,7 @@
 .141hongkong.com
 ||1688.com.au
 .1688.com.au/site1
+173ng.com
 .18kin.com
 .18p2p.com
 .1bang1.cn
@@ -198,6 +199,7 @@ bignews.org
 .bit.ly
 ||bit.ly
 bjlzfz.com
+.bjzm.org
 ||bkite.com
 ||blackra1n.com
 tor.blingblingsquad.net
@@ -349,6 +351,7 @@ ck101.com
 cmule.com
 .cmule.info
 ||cmule.info
+cmule2.com
 ||blog.cna.com.tw
 ||famousblog.cna.com.tw
 .cnavista.com.tw*shop*stores_app
@@ -361,6 +364,7 @@ cmule.com
 co.cc
 ||coat.co.jp
 |http://cochina.org
+.code1984.com/64
 ||codecguide.com
 |http://codepad.org/
 ||coedmagazine.com
@@ -442,6 +446,7 @@ diigo.com
 ||dl-laby.jp
 ||dlsite.com
 .dmm.co.jp
+||dmpan.com
 ||dmtcs.org
 ||dolc.de
 .dojin.com
@@ -500,6 +505,8 @@ hkjp.easyweb.hk
 ebookee.com
 bbs.ecstart.com
 edoors.com
+.edubridge.com
+||eevpn.com
 ||tor.eff.org
 ||egamia.com
 ||eic-av.com
@@ -869,6 +876,7 @@ hkjc.com
 .hkplaza.net/discuz
 ||hkreporter.com
 ||hkzone.org
+apps.hloli.net/gfwtube
 blog.hnjhj.com
 hongmeimei.com
 .hootsuite.com
@@ -1173,6 +1181,7 @@ nccwatch.org.tw
 |http://etools.ncol.com
 |https://etools.ncol.com
 www.ned.org
+||nekoslovakia.net
 ||nesn.com
 net.ru
 netcolony.com
@@ -1321,6 +1330,7 @@ plurk.com
 ||pokerstars.com
 .popyard.com
 ||popyard.org
+.porn.com
 .porn2.com
 .pornbase.org
 .pornrapidshare.com
@@ -1365,6 +1375,7 @@ powerapple.com
 ||presentationzen.com
 .president.gov.tw
 ||primedius.com
+||privacybox.de
 privatepaste.com
 |http://dlstatusbar.proboards43.com/
 ||proxomitron.info
@@ -1473,6 +1484,7 @@ forum.setty.com.tw
 ||seul.org
 .sevenload.com
 ||sevenload.com
+.sex.com
 .sex-11.com
 .sex8.cc
 .sexandsubmission.com
@@ -1941,7 +1953,6 @@ worldjournal.com
 ||blog.polldaddy.com
 ||sharpinsandiego.com
 ||blog.symbian.org
-||techcrunch.com
 ||blog.thinglabs.com
 china.blogs.time.com
 ||blog.tinypic.com
@@ -1979,7 +1990,7 @@ x.xcity.jp
 ||xesh.tk
 .xfm.pp.ru
 xh4n.cn/blog
-xiaoma.org
+||xiaoma.org
 .xinmiao.com.hk
 ||xinmiao.com.hk
 xinsheng.net
