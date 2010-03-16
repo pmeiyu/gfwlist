@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dQrefA1fDe636heTpZnoSg
+! Checksum: Pn1rvB98VIS8ACg39DIVmQ
 ! Expires: 8h
-! Last Modified:  Tue, 16 Mar 2010 09:16:19 +0800
+! Last Modified:  Tue, 16 Mar 2010 20:49:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -965,6 +965,7 @@ jeanyim.com
 ||jgoodies.com
 ||jiaoyou8.com
 jieshibaobao.com
+jingpin.org/fuck-gfw-history
 .jinhai.de
 ||jinhai.de
 jinn.li
@@ -1750,6 +1751,7 @@ tvboxnow.com
 .twbbs.net.tw
 twbbs.org
 ||twblogger.com
+tweepmag.com
 tweepml.org
 ||tweete.net
 |http://*m.tweete.net
