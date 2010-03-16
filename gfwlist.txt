@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Pn1rvB98VIS8ACg39DIVmQ
+! Checksum: W1NA2esAQkSPUKXUOIZUrw
 ! Expires: 8h
-! Last Modified:  Tue, 16 Mar 2010 20:49:45 +0800
+! Last Modified:  Tue, 16 Mar 2010 22:12:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1140,6 +1140,7 @@ plurktop.mmdays.com
 |http://www.mpinews.com/
 ||mplstudios.com
 .mplstudios.com
+mofla.tv
 .msguancha.com
 msn.com.tw
 ||mthruf.com
@@ -1702,7 +1703,6 @@ tuidang.net
 bbs.tuitui.info
 ||turningtorso.com
 ||tuxmachines.org
-||twohungrydudes.com
 
 !-------------Tumblr-----
 ||tumblr.com
@@ -1782,6 +1782,8 @@ twitgoo.com
 ||twithive.com
 .twitiq.com
 ||twitiq.com
+.twitlonger.com
+||twitlonger.com
 twitoaster.com
 ||twitonmsn.com
 .twitpic.com
@@ -1809,6 +1811,7 @@ twitthat.com
 |http://twitvid.com
 .twitzap.com
 /twitzap.com
+||twohungrydudes.com
 .twreg.info
 ||twreg.info
 ||twttr.com
@@ -1848,7 +1851,8 @@ tor.updatestar.com
 |http://www.cafc.uscourts.gov/
 http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
-ustream.tv
+.ustream.tv
+||ustream.tv
 .uwants.com
 ||uyghurcongress.org
 
