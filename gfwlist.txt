@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RodVod/vlb5yfWxcc2wcBw
+! Checksum: dQrefA1fDe636heTpZnoSg
 ! Expires: 8h
-! Last Modified:  Tue, 16 Mar 2010 00:41:18 +0800
+! Last Modified:  Tue, 16 Mar 2010 09:16:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -808,8 +808,6 @@ google.com/support/youtube/bin/request.py?contact_type=abuse&
 |http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tu Po
 |http:*.google.com*%E7%AA%81%E7%A0%B4
-!--Wang Xi Zhe
-search*%E7%8E%8B%E5%B8%8C%E5%93%B2
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhen Xiang
@@ -2110,8 +2108,10 @@ gfwProxyEnabled=yes
 |http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
 |http:*%E5%8A%A8%E6%80%81%E7%BD%91
-!--Duo Wei
+!--Duo Wei (Traditional)
 |http:*search*%E5%A4%9A%E7%B6%AD
+!--Duo Wei (Simplified)
+|http:*search*%E5%A4%9A%E7%BB%B4
 !--(Li) Fa Hui
 |http:*search*%E6%B3%95%E4%BC%9A
 !--fa lun da fa
@@ -2147,6 +2147,8 @@ gfwProxyEnabled=yes
 |http:*search*%E8%89%B2%E6%83%85
 !--Wang Dan
 |http:*%E7%8E%8B%E4%B8%B9
+!--Wang Xi Zhe
+|http:*search*%E7%8E%8B%E5%B8%8C%E5%93%B2
 !--Wo De Fen Dou
 |http:*search*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Jie
