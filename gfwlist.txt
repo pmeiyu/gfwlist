@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: W1NA2esAQkSPUKXUOIZUrw
+! Checksum: wGouMCl1ds2W/gbfpXUa5w
 ! Expires: 8h
-! Last Modified:  Tue, 16 Mar 2010 22:12:13 +0800
+! Last Modified:  Wed, 17 Mar 2010 20:23:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -255,6 +255,7 @@ boxun.com
 .boxun.tv
 ||boxun.tv
 .boyis.com
+||brandonhutchinson.com
 .breakingtweets.com
 |http://breakingtweets.com
 bullogger.com
@@ -999,6 +1000,7 @@ kanzhongguo.com
 .kingstone.com.tw
 .kink.com
 .kkbox.com.tw
+.knowledgerush.com/kr/encyclopedia
 .kodiefiles.nl
 ||kompozer.net
 .ktop.com.tw
@@ -1036,7 +1038,6 @@ linuxconfig.org
 lipuman.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
 ||livingonline.us
-||locafollow.com
 
 !-------------live spaces-----
 |http:*flowerofhappiness.spaces.live.com
@@ -1058,7 +1059,9 @@ lipuman.com
 livejasmin.com
 ||livevideo.com
 .livevideo.com
+||locafollow.com
 .longhair.hk
+||longtermly.net
 ||lookingglasstheatre.org
 .lookpic.com
 ||lookpic.com
@@ -1716,6 +1719,7 @@ bbs.tuitui.info
 ||blog.couch.io
 !-||blog.bit.ly
 ||cubicle17.com
+||drewolanoff.com
 ||chaos.e-spacy.com
 ||tumblr.fenglu.name
 ||fuckgfw.com
@@ -1734,6 +1738,7 @@ bbs.tuitui.info
 ||minimalmac.com
 ||blog.opentumblr.com
 ||blogs.thws.cn
+||tomsc.com
 ||blog.topify.com
 ||blog.tr.im
 ||status.twhirl.org
