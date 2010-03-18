@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LUIQEo0TsEoz+1GHIck+MQ
+! Checksum: 9IXwyYugFcJ/p0/oCtuVvg
 ! Expires: 8h
-! Last Modified:  Wed, 17 Mar 2010 20:37:43 +0800
+! Last Modified:  Fri, 19 Mar 2010 01:11:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1444,8 +1444,10 @@ robtex.com
 ||ronjoneswriter.com
 .roodo.com
 ||roosong.cn
-|http://www.rsf.org/
-|http://www.rsf-chinese.org/
+.rsf.org
+||rsf.org/
+.rsf-chinese.org
+||rsf-chinese.org
 .rssmeme.com
 ||rssmeme.com
 !-rthk.org.hk
