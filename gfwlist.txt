@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6NcFfmqMzXHce9w+gi/aJg
+! Checksum: rRemdPoRgnNNHV8OfkoLYA
 ! Expires: 8h
-! Last Modified:  Fri, 19 Mar 2010 15:43:34 +0800
+! Last Modified:  Fri, 19 Mar 2010 23:58:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1381,6 +1381,8 @@ postadult.com
 ||bill.zhong.pp.ru
 
 ||posterous.org
+.power.com
+||power.com
 powerapple.com
 ||abc.pp.ru
 ||prayforchina.net
