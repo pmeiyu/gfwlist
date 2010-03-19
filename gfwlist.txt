@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9IXwyYugFcJ/p0/oCtuVvg
+! Checksum: v4EBIszBcP7evu+apapPfA
 ! Expires: 8h
-! Last Modified:  Fri, 19 Mar 2010 01:11:46 +0800
+! Last Modified:  Fri, 19 Mar 2010 12:56:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -52,6 +52,7 @@ info.51.ca
 6park.com
 70.85.48.252
 ||7capture.com
+||7ztm.de.vu
 .8000.com
 ||8000.com
 |http://www.881903.com
@@ -98,6 +99,8 @@ aladding.com
 .alivenotdead.com
 allhabit.com
 alliance.org.hk
+.allinfo.com
+||allinfo.com
 ||alonweb.com
 ||alternate-tools.com
 @@|https://s3.amazonaws.com
@@ -219,6 +222,7 @@ blogtd.org
 ||bobchao.net
 boltbrowser.com*download
 bomb.tv
+||bonersgames.com
 ||books.com.tw
 .bot.nu
 .bravoteens.com
@@ -258,6 +262,7 @@ boxun.com
 ||brandonhutchinson.com
 .breakingtweets.com
 |http://breakingtweets.com
+||buffalo-bbs.com
 bullogger.com
 holz.byethost8.com
 
@@ -684,6 +689,7 @@ gongminliliang.com
 .gopetition.com
 ||gopetition.com
 ||gpowered.net
+||gradient.tk
 grandtrial.org
 ||graphis.ne.jp
 ||greatfirewallofchina.net
@@ -1029,6 +1035,7 @@ latelinenews.com
 .liaowangxizang.net
 ||liberal.org.hk
 libertytimes.com.tw
+.lidecheng.com/blog/fucking-gfw
 ||lifemotivations.com
 lifestream.fm
 ||lightbotz.com
@@ -1196,6 +1203,8 @@ newcenturynews.com
 .newgrounds.com
 .newnews.ca
 ||newnews.ca
+.newscn.org
+||newscn.org
 bbs.newsgroup.la
 bbs2.newsgroup.la
 forum.newsgroup.la
@@ -1385,6 +1394,7 @@ privatepaste.com
 prozz.net
 psiphon.ca
 |http://www.ptt.cc/
+||pureconcepts.net
 ||purepdf.com
 pwned.com
 python.org*download
@@ -1687,6 +1697,7 @@ topsy.com
 ||tornadoweb.org
 torproject.org
 touch99.com
+||toutfr.com
 ||tr.im/DZ0o
 ||trackon.org
 ||travelinlocal.com
@@ -1861,6 +1872,7 @@ http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 .ustream.tv
 ||ustream.tv
 .uwants.com
+.uwants.net
 ||uyghurcongress.org
 
 !--------------------------VV--------------------------
