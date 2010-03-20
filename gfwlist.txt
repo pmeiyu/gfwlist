@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rRemdPoRgnNNHV8OfkoLYA
+! Checksum: 49zMsmKcJkHr0pd9H68ImQ
 ! Expires: 8h
-! Last Modified:  Fri, 19 Mar 2010 23:58:29 +0800
+! Last Modified:  Sat, 20 Mar 2010 09:59:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -49,6 +49,7 @@ info.51.ca
 64memo.org
 64tianwang.com
 666kb.com
+69.93.3.113
 6park.com
 70.85.48.252
 ||7capture.com
@@ -177,6 +178,7 @@ barnesandnoble.com/bookSearch/isbnInquiry.asp
 dajusha.baywords.com
 bbc.co.uk*chinese
 bbc.co.uk*zhongwen
+news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsvote.bbc.co.uk
 newsforums.bbc.co.uk
 ||bbg.gov/
@@ -1377,6 +1379,7 @@ postadult.com
 ||veempiire.com
 ||www.vegorpedersen.com
 ||ventureswell.com
+||webfee.tk
 |http://z-turn.cn/
 ||bill.zhong.pp.ru
 
@@ -1976,6 +1979,7 @@ worldjournal.com
 ||menro.me
 ||nandalala.com
 ||p2theme.com
+||blog.pixelpipe.com
 ||blog.polldaddy.com
 ||sharpinsandiego.com
 ||blog.symbian.org
@@ -2037,6 +2041,7 @@ blog.xuite.net
 xuzhiyong.net
 xvediox.com
 .xvideos.com
+.xxbbx.com
 ||xxxx.com.au
 xys.org
 xysblogs.org
