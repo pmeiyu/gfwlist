@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 49zMsmKcJkHr0pd9H68ImQ
+! Checksum: upB3RUK7fuNGiDLE28fP4Q
 ! Expires: 8h
-! Last Modified:  Sat, 20 Mar 2010 09:59:19 +0800
+! Last Modified:  Sun, 21 Mar 2010 12:02:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -147,8 +147,6 @@ www.asiademo.org
 .asianews.it
 asianude4u.com
 ||asianwomensfilm.de
-||2.askozia.com
-||www.askozia.com
 .askynz.net
 ||askynz.net
 astonmartinnews.com
