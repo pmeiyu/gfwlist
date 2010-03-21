@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: upB3RUK7fuNGiDLE28fP4Q
+! Checksum: 80DFX6W1H+w0B2Ezf90VHA
 ! Expires: 8h
-! Last Modified:  Sun, 21 Mar 2010 12:02:04 +0800
+! Last Modified:  Sun, 21 Mar 2010 22:41:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -326,6 +326,8 @@ chinadigitaltimes.net
 ||chinainperspective.net
 chinainperspective.net/ArtShow.aspx?
 chinainperspective.net%2FArtShow.aspx%3F
+.chinainperspective.org
+||chinainperspective.org
 .chinamule.com
 ||chinamule.com
 ||chinaphile.com
@@ -780,7 +782,7 @@ google.com*analytics*zh-CN
 |http://code.google.com/p/cngepi/downloads/
 code.google.com*p*gappproxy
 code.google.com*p*autoproxy*updates*list
-code.google.com/p/program-think/wiki/Software/
+code.google.com/p/program-think/wiki/Software
 !-Google Docs
 docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !--Feng Zheng Hu
@@ -1055,6 +1057,7 @@ lipuman.com
 |http:*portis21.spaces.live.com
 |http:*program-think.spaces.live.com
 |http:*siyi123123123.spaces.live.com
+|http:*sublexical.spaces.live.com
 |http:*twitese.spaces.live.com
 |http:*wangyi64.spaces.live.com
 |http:*wenyunchao.spaces.live.com
@@ -1140,6 +1143,7 @@ mm36c.com
 ||mmaaxx.com
 plurktop.mmdays.com
 .momotato.com
+||morningsun.org
 ||movabletype.com
 |http://www.moztw.org
 !--.mp may be removed some time
@@ -1557,6 +1561,7 @@ news.singtao.ca
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
+||sjum.cn
 ||skimtube.com
 ||skulpt.org
 ||skydur.com
@@ -1653,6 +1658,7 @@ telecomspace.com
 theblemish.com
 ||thedieline.com
 ||thedw.us
+||thegatesnotes.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
@@ -1903,6 +1909,8 @@ www.voy.com
 !--------------------------WW--------------------------
 lists.w3.org/archives/public
 .wahas.com
+.waigaobu.com
+||waigaobu.com
 waikeung.org/php_wind
 .waiwaier.com
 |http://waiwaier.com
@@ -2059,6 +2067,9 @@ blog.yam.com
 n.yam.com
 news.yam.com
 .ydy.com
+yeeyi.com
+.yfrog.com
+||yfrog.com
 .yi.org
 .yidio.com
 ||yidio.com
