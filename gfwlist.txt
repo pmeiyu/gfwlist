@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 80DFX6W1H+w0B2Ezf90VHA
+! Checksum: EQ5oYAIPosW89YyYYZ8aBQ
 ! Expires: 8h
-! Last Modified:  Sun, 21 Mar 2010 22:41:13 +0800
+! Last Modified:  Mon, 22 Mar 2010 12:33:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1070,6 +1070,7 @@ livejasmin.com
 ||livevideo.com
 .livevideo.com
 ||locafollow.com
+||logmike.com
 .longhair.hk
 ||longtermly.net
 ||lookingglasstheatre.org
@@ -1555,6 +1556,7 @@ news.sina.com.tw
 news.singtao.ca
 ||cdp.sinica.edu.tw
 .sinonet.ca
+.sinopitt.info
 ||sippey.com
 ||site90.net
 ||siteadvisor.com
