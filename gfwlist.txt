@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ayKBc2ytbhbdAGwZK10UEw
+! Checksum: mKSStqrmjtlhwNzgvjW0kw
 ! Expires: 8h
-! Last Modified:  Tue, 23 Mar 2010 17:09:37 +0900
+! Last Modified:  Tue, 23 Mar 2010 18:08:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -698,7 +698,7 @@ grandtrial.org
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
 
-!----Google Cache Server-----
+!----Google Cache-----
 ||74.125.94.160
 search?q=cache
 
