@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mKSStqrmjtlhwNzgvjW0kw
+! Checksum: kyqDrVcCGGTyZ9oVZo8Dtg
 ! Expires: 8h
-! Last Modified:  Tue, 23 Mar 2010 18:08:22 +0800
+! Last Modified:  Tue, 23 Mar 2010 21:22:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -698,11 +698,23 @@ grandtrial.org
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
 
-!----Google Cache-----
-||74.125.94.160
-search?q=cache
+!-------------Google Code-----
+|http://code.google.com/p/cngepi/downloads
+code.google.com*p*gappproxy
+code.google.com*p*autoproxy*updates*list
+code.google.com/p/program-think/wiki/Software
 
-!-------------Google.ghs-----
+!-------------Google Docs-----
+|https://docs.google.com
+|http:*spreadsheets.google.com
+|https://spreadsheets.google.com
+docs.google.com/View?id=dhh5gtxb_145nsxgctcc
+!--Feng Zheng Hu
+docs.google.com/View?id=d8xbpp6_4hhpb2dfd
+docs.google.com*view*id*dg5mtmj9_8g3hk27f5
+docs.google.com*View*id*dg5mtmj9_3188x48zcn
+
+!-------------Google ghs-----
 ||allentian.com
 ||developer.android.com
 ||source.android.com
@@ -766,45 +778,12 @@ search?q=cache
 ||www.wavesandbox.com
 ||willhains.com
 
-!-------------Google.other-----
-|https://calendar.google.com
-|https://chrome.google.com
-|https://clients*.google.com
-|https://docs.google.com
-|https://services.google.com
-|https://talkgadget.google.com
-|https://tools.google.com
-@@|https://www.google.com
-.ggpht.com
-google.com*analytics*zh-CN
-.google.*great*firewall
-.google.com/gwt
-!-Google Code
-|http://code.google.com/p/cngepi/downloads/
-code.google.com*p*gappproxy
-code.google.com*p*autoproxy*updates*list
-code.google.com/p/program-think/wiki/Software
-!-Google Docs
-docs.google.com/View?id=dhh5gtxb_145nsxgctcc
-!--Feng Zheng Hu
-docs.google.com/View?id=d8xbpp6_4hhpb2dfd
-docs.google.com*view*id*dg5mtmj9_8g3hk27f5
-docs.google.com*View*id*dg5mtmj9_3188x48zcn
-feedproxy.google.com
-||groups.google.com
-groups.google.com*group
-knol.google.com/k/-/08/3jhi1zdzvxj3f
-|http://picasaweb.google.com/
-sites.google.com
-|http:*spreadsheets.google.com
-|https://spreadsheets.google.com
-video.google.com
-anti.anti.cnn.googlepages.com
-||freegateget.googlepages.com
-myboooks.googlepages.com
-.googlevideo.com
+!-------------Google Search-----
+||74.125.94.160
+/search?q=cache
 |http://www.google.com/search*q=dongtaiwang
 |http://www.google.com/search*free*gate
+.google.*great*firewall
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Na Mi Bi Ya
@@ -823,6 +802,29 @@ myboooks.googlepages.com
 |http:*.google.*%E7%9C%9F%E7%9B%B8
 !--Zi You Men
 |http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
+
+!-------------Google.other-----
+|https://calendar.google.com
+|https://chrome.google.com
+|https://clients*.google.com
+|https://services.google.com
+|https://talkgadget.google.com
+|https://tools.google.com
+@@|https://www.google.com
+.ggpht.com
+google.com*analytics*zh-CN
+.google.com/gwt
+feedproxy.google.com
+||groups.google.com
+groups.google.com*group
+knol.google.com/k/-/08/3jhi1zdzvxj3f
+|http://picasaweb.google.com/
+sites.google.com
+video.google.com
+anti.anti.cnn.googlepages.com
+||freegateget.googlepages.com
+myboooks.googlepages.com
+.googlevideo.com
 
 |http://www.govindicators.org
 gpass1.com
@@ -2223,7 +2225,7 @@ gfwProxyEnabled=yes
 
 !-------------zh.Wiki----------
 !--512 Da Di Zhen
-zh.wikipedia.org*512%b4%f3%b5%d8%d5%f0
+zh.wikipedia.org*512%E5%A4%A7%E5%9C%B0%E9%9C%87
 !--08 Xian Zhang
 zh.wikipedia.org*08%E5%AE%AA%E7%AB%A0
 !--1989 Nian
