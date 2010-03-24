@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: I/ep5KfEdbv8TBRw8JWPPw
+! Checksum: yDKqQRCWcXy3qZ/RCC//ug
 ! Expires: 8h
-! Last Modified:  Thu, 25 Mar 2010 01:20:02 +0800
+! Last Modified:  Thu, 25 Mar 2010 01:56:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -787,7 +787,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Hu
-|http:*.google.*search*%E8%83%A1
+|http:*.google.*/search*%E8%83%A1
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
@@ -802,6 +802,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhen Xiang
 |http:*.google.*%E7%9C%9F%E7%9B%B8
+!--Zhou Mo
+|http:*.google.*/search*%E5%91%A8%E6%9C%AB
 !--Zi You Men
 |http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 
