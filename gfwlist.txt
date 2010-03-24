@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3rde+M1SIQ4PfI0UIVN21g
+! Checksum: xofjefeE2I5CGF83BCNbpw
 ! Expires: 8h
-! Last Modified:  Wed, 24 Mar 2010 12:50:44 +0800
+! Last Modified:  Wed, 24 Mar 2010 14:38:38 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1170,7 +1170,7 @@ forum.mymaji.com
 ||muzi.com
 ||muzi.net
 ||muzicana.uk.to
-||my219.cn
+||www.my219.cn
 ||mybyways.net
 sidekick.myblog.hk
 ||bbs.mychat.to
