@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kyqDrVcCGGTyZ9oVZo8Dtg
+! Checksum: +CbiSu4vNGLNFltnm3izPQ
 ! Expires: 8h
-! Last Modified:  Tue, 23 Mar 2010 21:22:40 +0800
+! Last Modified:  Wed, 24 Mar 2010 12:42:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1004,12 +1004,14 @@ kanzhongguo.com
 .keezmovies.com
 ||keezmovies.com
 .kenengba.com
+||kenengba.com
 wiki.keso.cn/Home
 .khmusic.com.tw
 .kidoors.com
 .kingstone.com.tw
 .kink.com
 .kkbox.com.tw
+||knb.im
 .knowledgerush.com/kr/encyclopedia
 .kodiefiles.nl
 ||kompozer.net
@@ -1721,6 +1723,7 @@ touch99.com
 @@||www.tripod.com
 ||trustedbi.com
 .truveo.com
+ts60.com
 tsquare.tv
 ||tt1069.net
 ||tttan.com
