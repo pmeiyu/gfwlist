@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xofjefeE2I5CGF83BCNbpw
+! Checksum: JbLIDilrGP774+yeZxKvaQ
 ! Expires: 8h
-! Last Modified:  Wed, 24 Mar 2010 14:38:38 +0900
+! Last Modified:  Wed, 24 Mar 2010 21:20:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -786,8 +786,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 .google.*great*firewall
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
-!--Hu Jin Tao
-|http:*.google.*search*%E8%83%A1%E9%94%A6%E6%B6%9B
+!--Hu
+|http:*.google.*search*%E8%83%A1
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
