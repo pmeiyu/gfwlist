@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +CbiSu4vNGLNFltnm3izPQ
+! Checksum: 3rde+M1SIQ4PfI0UIVN21g
 ! Expires: 8h
-! Last Modified:  Wed, 24 Mar 2010 12:42:58 +0800
+! Last Modified:  Wed, 24 Mar 2010 12:50:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -786,6 +786,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 .google.*great*firewall
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
+!--Hu Jin Tao
+|http:*.google.*search*%E8%83%A1%E9%94%A6%E6%B6%9B
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
@@ -1965,13 +1967,14 @@ wezhiyong.org
 @@||images.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikiwiki.jp
-.wikileaks.org
+||wikileaks.org
+@@||secure.wikileaks.org
 ||wikimedia.org.mo
 ||willw.net
 !-WikiLeaks IP
 */88.80.13.160/*
 ||wikimapia.org
-secure.wikimedia.org
+||secure.wikimedia.org
 ||wiredpen.com
 .wo.tc
 ||woeser.com
