@@ -1,5 +1,4 @@
 [AutoProxy 0.2.9]
-! Checksum: nh7spDMmCZr7eUF2b6rGeg
 ! Checksum: 
 ! Expires: 8h
 ! Last Modified:  Fri, 26 Mar 2010 00:44:19 +0800
