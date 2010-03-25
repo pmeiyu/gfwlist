@@ -1,7 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: H5PC51qOY4PAL2vnS0wA8A
+! Checksum: gXXUlLUP2reYjhm9asb6mA
+! Checksum: 
 ! Expires: 8h
-! Last Modified:  Fri, 26 Mar 2010 00:38:11 +0800
+! Last Modified:  Fri, 26 Mar 2010 00:40:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
