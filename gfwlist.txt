@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 
+! Checksum: rtJfo3yf7itjGukfJjeDRw
 ! Expires: 8h
-! Last Modified:  Fri, 26 Mar 2010 00:44:19 +0800
+! Last Modified:  Fri, 26 Mar 2010 01:14:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2204,7 +2204,7 @@ gfwProxyEnabled=yes
 !--Jiang Liu Mang
 |http:*search*%E6%B1%9F%E6%B5%81%E6%B0%93
 !--Jiang Ze Min
-|http:*.google.*search*江泽民
+|http:*.google.*search*%E6%B1%9F%E6%B3%BD%E6%B0%91
 !--Kan Zhong Guo
 |http:*search*%E7%9C%8B%E4%B8%AD%E5%9B%BD
 !--Liu Si
