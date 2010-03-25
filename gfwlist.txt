@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qY0JLTpFcoGW2Vx+bGdLiA
+! Checksum: yAkSsUEIBznQLExnD9J6TA
 ! Expires: 8h
-! Last Modified:  Thu, 25 Mar 2010 20:48:29 +0800
+! Last Modified:  Thu, 25 Mar 2010 21:04:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -688,6 +688,7 @@ zh.globalvoicesonline.org
 ||goldwave.com
 gongmeng.info
 gongminliliang.com
+.googlesile.com
 .gopetition.com
 ||gopetition.com
 ||gpowered.net
