@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mJlVCVrPJrH3YpYUZkLLpw
+! Checksum: qY0JLTpFcoGW2Vx+bGdLiA
 ! Expires: 8h
-! Last Modified:  Thu, 25 Mar 2010 13:43:59 +0800
+! Last Modified:  Thu, 25 Mar 2010 20:48:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1081,6 +1081,7 @@ lipuman.com
 |http:*honeonet.spaces.live.com
 |http:*huajiadi.spaces.live.com
 |http:*hujiachina.spaces.live.com
+|http:*ieemdai.spaces.live.com
 |http:*portis21.spaces.live.com
 |http:*program-think.spaces.live.com
 |http:*siyi123123123.spaces.live.com
@@ -2131,7 +2132,6 @@ topic.youthwant.com.tw
 ||youtube.com
 !--/^https?:\/\/[^\/]+youtube\.com/
 .youtubecn.com
-||youtubecn.com
 !-Youtube CDN
 .ytimg.com
 ytht.net
@@ -2202,6 +2202,8 @@ gfwProxyEnabled=yes
 |http:*search*%E5%8A%A0%E5%AF%86%E4%BB%A3%E7%90%86
 !--Jiang Liu Mang
 |http:*search*%E6%B1%9F%E6%B5%81%E6%B0%93
+!--Jiang Ze Min
+|http:*.google.*search*江泽民
 !--Kan Zhong Guo
 |http:*search*%E7%9C%8B%E4%B8%AD%E5%9B%BD
 !--Liu Si
@@ -2214,8 +2216,6 @@ gfwProxyEnabled=yes
 |http:*%E6%B0%91%E8%BF%9B%E5%85%9A
 !--(Nong) Min Yun (Dong Hui)
 |http:*%E6%B0%91%E8%BF%90
-!--Qun Ti Mie Jue
-|http:*search*%E7%BE%A4%E4%BD%93%E7%81%AD%E7%BB%9D
 !--Se Qing
 |http:*search*%E8%89%B2%E6%83%85
 !--Wang Dan
