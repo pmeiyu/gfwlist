@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: gXXUlLUP2reYjhm9asb6mA
+! Checksum: nh7spDMmCZr7eUF2b6rGeg
 ! Checksum: 
 ! Expires: 8h
-! Last Modified:  Fri, 26 Mar 2010 00:40:19 +0800
+! Last Modified:  Fri, 26 Mar 2010 00:44:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2537,4 +2537,3 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 zh.wikipedia.org*Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E8%A8%98%E9%8C%84/2009/11/04
 !-Li Shi Shang De Jin Tian
 zh.wikipedia.org*%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9
-
