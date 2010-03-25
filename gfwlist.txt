@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Brsmw3XmFSFQR7dT6YAjhg
+! Checksum: mJlVCVrPJrH3YpYUZkLLpw
 ! Expires: 8h
-! Last Modified:  Thu, 25 Mar 2010 13:42:06 +0800
+! Last Modified:  Thu, 25 Mar 2010 13:43:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1050,6 +1050,7 @@ www2.kyohk.net
 !--------------------------LL--------------------------
 .la-forum.org
 ||la-forum.org
+||ladygaga.com
 .lalulalu.com
 |http://www.lancsky.com/
 laomiu.com
@@ -2443,6 +2444,8 @@ zh.wikipedia.org*%E6%B1%AA%E6%B4%8B
 zh.wikipedia.org*%E5%94%AF%E8%89%B2
 !--Wen Chuan Di Zhen
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87
+!--Wen Yun Song
+zh.wikipedia.org*%E6%B8%A9%E4%BA%91%E6%9D%BE
 !--Wo De Fen Dou
 zh.wikipedia.org*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Er Kai Xi
