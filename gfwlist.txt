@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: b32EXNOvVm1+RydcBKgZXA
+! Checksum: Brsmw3XmFSFQR7dT6YAjhg
 ! Expires: 8h
-! Last Modified:  Thu, 25 Mar 2010 02:09:49 +0800
+! Last Modified:  Thu, 25 Mar 2010 13:42:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -787,8 +787,6 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 .google.*great*firewall
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
-!--Hu
-|http:*.google.*/search*%E8%83%A1
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
@@ -807,6 +805,25 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http:*.google.*/search*%E5%91%A8%E6%9C%AB
 !--Zi You Men
 |http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
+!-----Surnames-----
+!--He
+|http:*.google.*/search*%E8%B4%BA
+!--Hu
+|http:*.google.*/search*%E8%83%A1
+!--Huang
+|http:*.google.*/search*%E9%BB%84
+!--Jia
+|http:*.google.*/search*%E8%B4%BE
+!--Li
+|http:*.google.*/search*%E6%9D%8E
+!--Wen
+|http:*.google.*/search*%E6%B8%A9
+!--Wu
+|http:*.google.*/search*%E5%90%B4
+!--Xi
+|http:*.google.*/search*%E4%B9%A0
+!--Zhou
+|http:*.google.*/search*%E5%91%A8
 
 !-------------Google.other-----
 |https://calendar.google.com
