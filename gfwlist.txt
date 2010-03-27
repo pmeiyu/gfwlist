@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rtJfo3yf7itjGukfJjeDRw
+! Checksum: W4yU5fBSEV7jkCGnWnQ4TA
 ! Expires: 8h
-! Last Modified:  Fri, 26 Mar 2010 01:14:26 +0800
+! Last Modified:  Sat, 27 Mar 2010 19:34:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -100,6 +100,7 @@ aladding.com
 .alivenotdead.com
 allhabit.com
 alliance.org.hk
+.allinfa.com
 .allinfo.com
 ||allinfo.com
 ||alonweb.com
@@ -112,6 +113,7 @@ amnestyusa.org
 .amoiist.com
 ||amoiist.com
 anchorfree.com
+||anda.pk
 ||angel.hk
 anonymizer.com
 anonymouse.org
@@ -216,6 +218,7 @@ blogimg.jp
 ||blog.kangye.org
 .bloglines.com
 ||bloglines.com
+rconversation.blogs.com
 ||blogtd.net
 blogtd.org
 ||bnrmetal.com
@@ -627,6 +630,7 @@ friendfeed.com
 ||frommel.net
 ||fscked.org
 |http://www.fsurf.com/
+.ftchinese.com/story/001031915
 .ftv.com.tw
 .fuckcnnic.net
 ||fuckcnnic.net
@@ -657,6 +661,7 @@ gardennetworks.com
 !--IP of Garden Network
 72.52.81.22
 ||garretttaylor.com
+||gartlive.com
 ||gaymap.cc
 .gazotube.com
 ||gazotube.com
@@ -726,6 +731,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||chromeexperiments.com
 ||chromium.org
 @@||build.chromium.org
+||myc.cnkk.org
 ||rss.cnn.com
 ||feeds.digg.com
 ||mail.diyang.org
@@ -788,6 +794,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 .google.*great*firewall
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
+|http:*.google.*gfw
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
@@ -994,6 +1001,7 @@ yy.iyatou.com/archives/1042
 blog.jackjia.com
 ||jaiku.com
 ||japanesebeauties.net
+.jaylee.cn/firefox-tor-torbutton
 ||jdev.tw/
 jeanyim.com
 ||jgoodies.com
@@ -1026,8 +1034,7 @@ kanzhongguo.com
 .keepandshare.com/visit/visit_page.php?i=688154
 .keezmovies.com
 ||keezmovies.com
-.kenengba.com
-||kenengba.com
+|http:*kenengba.com
 wiki.keso.cn/Home
 .khmusic.com.tw
 .kidoors.com
@@ -1118,6 +1125,7 @@ web.mac.com
 mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
+||making-the-web.com
 www.manning.com
 ||marines.mil
 markmail.org*message
@@ -1429,6 +1437,7 @@ privatepaste.com
 |http://dlstatusbar.proboards43.com/
 ||proxomitron.info
 ||proxypy.com
+proxyroad.com
 prozz.net
 psiphon.ca
 |http://www.ptt.cc/
@@ -1662,6 +1671,7 @@ support/youtube/bin/request.py?contact_type=abuse&
 ||sweux.com
 ||syncback.com
 sysresccd.org
+blog.syx86.com/2009/09/puff
 blog.syx86.cn/2009/09/puff
 .szbbs.net
 
@@ -1747,6 +1757,7 @@ touch99.com
 ||tripod.com
 @@||www.tripod.com
 ||trustedbi.com
+truth101.co.tv/post
 .truveo.com
 ts60.com
 tsquare.tv
@@ -1871,6 +1882,7 @@ twitthat.com
 |http://twitvid.com
 .twitzap.com
 /twitzap.com
+twiyia.com
 ||twohungrydudes.com
 .twreg.info
 ||twreg.info
@@ -2026,6 +2038,7 @@ worldjournal.com
 china.blogs.time.com
 ||blog.tinypic.com
 ||blog.wakoopa.com
+||wattsupwiththat.com
 ||wordpress.com
 @@|http://wordpress.com
 @@|http://www.wordpress.com
@@ -2053,10 +2066,12 @@ wukangrui.net
 
 !--------------------------XX--------------------------
 x1949x.com
+abigale1.xanga.com
 .xbookcn.com
 ||xbookcn.com
 x.xcity.jp
 ||xesh.tk
+destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
 xh4n.cn/blog
 ||xiaoma.org
