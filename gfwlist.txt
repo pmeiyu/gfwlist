@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: IeNH4OF7R3zPTv8Yr/wVZg
+! Checksum: 0KjB+81P43U9w59EIgeQ7w
 ! Expires: 8h
-! Last Modified:  Tue, 30 Mar 2010 20:45:11 +0800
+! Last Modified:  Tue, 30 Mar 2010 20:48:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -728,6 +728,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||allentian.com
 ||developer.android.com
 ||source.android.com
+||appbrain.com
 ||www.benjamingolub.com
 ||rss.berryreview.com
 ||www.bestwebproxy.net
@@ -1029,6 +1030,7 @@ jinn.li
 ||jkforum.net
 ||jobacle.com
 ||jounin.net
+||journalofdemocracy.org
 .jp-sex.com
 |http://jpra1113.org
 ||wiki.js-kit.com
