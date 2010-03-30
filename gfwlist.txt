@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zzK+fieVKjjLSiy5Jlk6wQ
+! Checksum: IeNH4OF7R3zPTv8Yr/wVZg
 ! Expires: 8h
-! Last Modified:  Tue, 30 Mar 2010 20:35:10 +0800
+! Last Modified:  Tue, 30 Mar 2010 20:45:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -176,11 +176,11 @@ hen.bao.li
 |http://www.barnabu.co.uk
 barnesandnoble.com/bookSearch/isbnInquiry.asp
 dajusha.baywords.com
-bbc.co.uk*chinese
-bbc.co.uk*zhongwen
-news.bbc.co.uk/onthisday*newsid_2496000/2496277
-newsvote.bbc.co.uk
-newsforums.bbc.co.uk
+http:*bbc.co.uk*chinese
+http:*bbc.co.uk*zhongwen
+http:*news.bbc.co.uk/onthisday*newsid_2496000/2496277
+http:*newsvote.bbc.co.uk
+http:*newsforums.bbc.co.uk
 ||bbg.gov/
 ||bbsfeed.com
 bbsland.com
@@ -194,6 +194,7 @@ beijingspring.com
 .berlintwitterwall.com
 ||berlintwitterwall.com
 bestforchina.org
+bet365.com
 ||biblegateway.com
 bignews.org
 .bigsound.org/portnoy
@@ -479,6 +480,7 @@ doubleaf.com
 dphk.org
 |http://www.dpp.org.tw/
 .dream2006.net
+komica2.dreamhosters.com
 ||dreamquarium.com
 ||drikin.com
 ||drivingitalia.net
@@ -789,6 +791,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 
 !-------------Google Search-----
 ||74.125.94.160
+|http:*.google.*rfa
 |http:*/search?q=cache
 |http:*google*search*q=cache
 |http://www.google.com/search*q=dongtaiwang
@@ -805,6 +808,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http:*.google.com*%E8%BF%AB%E5%AE%B3
 !--Qian Shi Jin Sheng
 |http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
+!--Tan Zuo Ren
+*.google.*/search*%CC%B7%D7%F7%C8%CB
 !--Tian An Men
 |http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tu Po
@@ -850,8 +855,7 @@ google.com*analytics*zh-CN
 .google.com/gwt
 feedproxy.google.com
 ||groups.google.com
-groups.google.com*group
-groups.google.de/group
+groups.google.*group
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 |http://picasaweb.google.com/
 sites.google.com
@@ -885,6 +889,8 @@ hbo.com/docs/*/china
 |http://www.heartyit.com/
 .hecaitou.net
 ||hecaitou.net
+.hechaji.com
+||hecjaji.com
 ||hellonewyork.us
 hellotxt.com
 .hellouk.org/forum/lofiversion
@@ -958,6 +964,7 @@ ibiblio.org/pub/packages/ccic
 |http://identi.ca
 .idouga.com
 .idv.tw
+||ifan.cz.cc
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
@@ -1064,6 +1071,7 @@ www2.kyohk.net
 !--------------------------LL--------------------------
 .la-forum.org
 ||la-forum.org
+ladbrokes.com
 ||ladygaga.com
 .lalulalu.com
 |http://www.lancsky.com/
@@ -1183,6 +1191,7 @@ mirrorbooks.com
 mitbbs.com
 .mixx.com
 ||mixx.com
+||mizzmona.com
 .mlcool.com
 mm36c.com
 ||mmaaxx.com
@@ -1662,8 +1671,6 @@ squarespace.com
 www.stackfile.com/freedur
 usinfo.state.gov
 .state168.com
-||avatar.status.net
-||theme.status.net
 ||steveblank.com
 stickeraction.com/sesawe
 .stoptibetcrisis.net
@@ -2043,6 +2050,7 @@ worldjournal.com
 ||blog.pixelpipe.com
 ||blog.polldaddy.com
 ||sharpinsandiego.com
+||smedio.com
 ||blog.symbian.org
 ||blog.thinglabs.com
 china.blogs.time.com
