@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eCYm3wBBy/aw5kHmT7rFNQ
+! Checksum: /9wBWuzNza1u2JIANxpi4A
 ! Expires: 8h
-! Last Modified:  Thu, 01 Apr 2010 04:55:54 +0800
+! Last Modified:  Thu, 01 Apr 2010 05:17:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -515,7 +515,6 @@ e-info.org.tw
 .e-traderland.net/board
 ||e71fanatics.com
 ||easylife.tw
-easylinuxcds.com
 hkjp.easyweb.hk
 ebookee.com
 bbs.ecstart.com
@@ -531,7 +530,6 @@ eltondisney.com
 ||emacsblog.org
 .emodao.com
 ||empflix.com
-||endsoftpatents.org
 ||entermap.com
 epochtimes.com
 ||erights.net
@@ -674,7 +672,6 @@ gdzf.org
 ||geekatlas.com
 .geekcook.org
 ||geekcook.org
-||geekinheels.com
 ||geekmanuals.com
 .genie.x0.com
 .geocities.com/SiliconValley/Circuit/5683/download.html
@@ -873,7 +870,6 @@ great-firewall.com
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gutteruncensored.com
-||gwenbell.com
 
 !--------------------------HH--------------------------
 h1n1china.org
