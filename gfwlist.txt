@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bQ2aVP6m6kyo+hdLu5tkGQ
+! Checksum: 2zJ6lLIsYmE+iyuYlM+hcw
 ! Expires: 8h
-! Last Modified:  Thu, 01 Apr 2010 05:55:48 +0800
+! Last Modified:  Thu, 01 Apr 2010 06:30:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -618,7 +618,7 @@ freeforums.org
 ||freelotto.com
 freemoren.com
 freemorenews.com
-freetibet.org
+www.freetibet.org
 .freetzi.com
 .freexinwen.com
 
@@ -679,6 +679,7 @@ geocities.jp
 ||geohot.com
 getchu.com
 ||getjetso.com
+.getjetso.com/forum
 ||getuploader.com
 .ginx.com
 |http://ginx.com
@@ -861,7 +862,6 @@ anti.anti.cnn.googlepages.com
 myboooks.googlepages.com
 .googlevideo.com
 
-|http://www.govindicators.org
 gpass1.com
 twitter.grader.com
 great-firewall.com
@@ -2047,6 +2047,7 @@ worldjournal.com
 ||sharpinsandiego.com
 ||smedio.com
 ||blog.symbian.org
+||technologizer.com
 ||blog.thinglabs.com
 china.blogs.time.com
 ||blog.tinypic.com
