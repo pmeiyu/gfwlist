@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /9wBWuzNza1u2JIANxpi4A
+! Checksum: bQ2aVP6m6kyo+hdLu5tkGQ
 ! Expires: 8h
-! Last Modified:  Thu, 01 Apr 2010 05:17:10 +0800
+! Last Modified:  Thu, 01 Apr 2010 05:55:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -614,7 +614,6 @@ freeflowlife.net
 freeforums.org
 .freegao.com
 ||freegao.com
-||freehaven.net
 .freelotto.com
 ||freelotto.com
 freemoren.com
@@ -772,7 +771,6 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||mycleenr.com
 ||blog.naanstudio.com
 ||blog.nihilogic.dk
-||picky.olivida.com
 ||blog.persistent.info
 ||robertmao.com
 ||blog.seeminglee.com
@@ -841,7 +839,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http:*.google.*/search*%E5%91%A8
 
 !-------------Google.other-----
-|https://calendar.google.com
+!--|https://calendar.google.com
 |https://chrome.google.com
 |https://clients*.google.com
 |https://services.google.com
@@ -852,8 +850,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 google.com*analytics*zh-CN
 .google.com/gwt
 feedproxy.google.com
-||groups.google.com
-groups.google.*group
+|http://groups.google.com
+|http:*groups.google.*group
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 |http://picasaweb.google.com/
 sites.google.com
@@ -879,7 +877,6 @@ h1n1china.org
 ||hackthatphone.net
 ||hakkatv.org.tw
 ||haoren.com
-||happiness-project.com
 ||happyradio.com.tw
 hbo.com/docs/*/china
 .hdzone.org
