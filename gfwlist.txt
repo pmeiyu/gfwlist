@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0KjB+81P43U9w59EIgeQ7w
+! Checksum: tsj2SoHJz0pcDNOgwQVWWg
 ! Expires: 8h
-! Last Modified:  Tue, 30 Mar 2010 20:48:27 +0800
+! Last Modified:  Wed, 31 Mar 2010 23:36:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -802,7 +802,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 |http:*.google.*gfw
 !--Xi Lai
-|http:*.google.com*%E5%BA%B7%E7%86%99%E6%9D%A5
+|http:*.google.com*%E7%86%99%E6%9D%A5
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
