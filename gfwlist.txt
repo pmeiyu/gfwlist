@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tsj2SoHJz0pcDNOgwQVWWg
+! Checksum: OSJmuVmUpureZh1CzILaoQ
 ! Expires: 8h
-! Last Modified:  Wed, 31 Mar 2010 23:36:29 +0800
+! Last Modified:  Thu, 01 Apr 2010 04:30:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -792,7 +792,6 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 
 !-------------Google Search-----
 ||74.125.94.160
-|http:*.google.*rfa
 |http:*/search?q=cache
 |http:*google*search*q=cache
 |http://www.google.com/search*q=dongtaiwang
