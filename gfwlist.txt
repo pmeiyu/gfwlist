@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2zJ6lLIsYmE+iyuYlM+hcw
+! Checksum: 64HGx78efzZGK7PO230BJg
 ! Expires: 8h
-! Last Modified:  Thu, 01 Apr 2010 06:30:57 +0800
+! Last Modified:  Thu, 01 Apr 2010 13:02:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -854,7 +854,6 @@ feedproxy.google.com
 |http://groups.google.com
 |http:*groups.google.*group
 knol.google.com/k/-/08/3jhi1zdzvxj3f
-|http://picasaweb.google.com/
 sites.google.com
 video.google.com
 anti.anti.cnn.googlepages.com
