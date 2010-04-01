@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 64HGx78efzZGK7PO230BJg
+! Checksum: tzXYdoe0GoVpWVTasmXzAQ
 ! Expires: 8h
-! Last Modified:  Thu, 01 Apr 2010 13:02:04 +0800
+! Last Modified:  Thu, 01 Apr 2010 13:09:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -876,7 +876,6 @@ h1n1china.org
 ||hackthatphone.net
 ||hakkatv.org.tw
 ||haoren.com
-||happyradio.com.tw
 hbo.com/docs/*/china
 .hdzone.org
 |http://www.heartyit.com/
@@ -895,7 +894,6 @@ hellotxt.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
 ||hidemyass.com
-||highscalability.com
 ||hikipedia.info
 ||myweb.hinet.net
 .hisex.tv
@@ -905,7 +903,6 @@ hk-pub.com
 .hk32168.com
 ||hk32168.com
 .hkbf.org
-hkcccl.org.hk
 hkday.net
 global.hkepc.com*forum
 .hkfreezone.com
@@ -978,14 +975,12 @@ internetfreedom.org
 ||iphonehacks.com
 ||ipicture.ru
 ipobar.com
-||iranshahr.com
 is.gd/1VO1f
 is.gd/1VOp7
 .beta.iset.com.tw/forum
 ||beta.iset.com.tw
 forum.iset.com.tw
 .isheart.com
-||ishawn.net
 .islam.org.hk
 .isaacmao.com
 ||isaacmao.com
@@ -1005,7 +1000,6 @@ yy.iyatou.com/archives/1042
 
 !--------------------------JJ--------------------------
 blog.jackjia.com
-||jaiku.com
 ||japanesebeauties.net
 .jaylee.cn/firefox-tor-torbutton
 ||jdev.tw/
