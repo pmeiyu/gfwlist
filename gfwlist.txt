@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tzXYdoe0GoVpWVTasmXzAQ
+! Checksum: IQlsgCMOj3ZN5/7ibQ5FTw
 ! Expires: 8h
-! Last Modified:  Thu, 01 Apr 2010 13:09:38 +0800
+! Last Modified:  Thu, 01 Apr 2010 13:41:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -536,7 +536,6 @@ epochtimes.com
 etaiwannews.com
 ||etizer.org
 voxaleadnews.labs.exalead.com
-.exblog.jp
 ||exploader.net
 .extratorrent.com
 ||extratorrent.com
@@ -946,7 +945,6 @@ huitter.com
 !--------------------------II--------------------------
 |http://board.i-cable.com
 |http://cablenews.i-cable.com
-||iamvip.net
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 ||iconexpo.com
@@ -1011,11 +1009,9 @@ jingpin.org/fuck-gfw-history
 .jinhai.de
 ||jinhai.de
 jinn.li
-.jiruan.net
+ac.jiruan.net
 .jizzhut.com
 ||jkforum.net
-||jobacle.com
-||jounin.net
 ||journalofdemocracy.org
 .jp-sex.com
 |http://jpra1113.org
