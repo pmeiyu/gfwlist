@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8lMaX5KRVfSpjZGaTJ3tWQ
+! Checksum: q7b8+mmPnf/PIf5AlHqA8g
 ! Expires: 8h
-! Last Modified:  Sat, 03 Apr 2010 10:03:09 +0800
+! Last Modified:  Sat, 03 Apr 2010 10:07:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -465,6 +465,7 @@ diigo.com
 ||dolc.de
 .dojin.com
 ||dokoda.jp
+.domai.com
 ||domai.nr
 .domain.club.tw
 dongde.com
@@ -748,7 +749,9 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 !--http://blog.friendfeed.com
 ||blog.gatein.org
 ||feeds.gawker.com
+||gmer.net
 ||blog.go2web20.net
+||blog.google.org
 ||www.greasespot.net
 ||blog.growlforwindows.com
 ||hogbaysoftware.com
@@ -771,6 +774,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||blog.nihilogic.dk
 ||blog.persistent.info
 ||robertmao.com
+||salmiyuck.com
+||sleepingtime.org
 ||blog.seeminglee.com
 ||rss.slashdot.org
 ||snsanalytics.com
@@ -780,6 +785,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||blog.thesilentnumber.me
 ||txt.io
 ||ub0.cc
+||tp.vbap.com.au
 ||www.wavesandbox.com
 ||willhains.com
 
@@ -1178,6 +1184,7 @@ mitbbs.com
 mm36c.com
 ||mmaaxx.com
 plurktop.mmdays.com
+.mofosex.com
 .momotato.com
 ||morningsun.org
 ||movabletype.com
@@ -1427,6 +1434,7 @@ postadult.com
 ||power.com
 powerapple.com
 ||abc.pp.ru
+||top1.pp.ru
 ||prayforchina.net
 ||presentationzen.com
 .president.gov.tw
@@ -1612,6 +1620,7 @@ m.slandr.net
 ||slavasoft.com
 ||slheng.com
 forum.slime.com.tw
+.slutload.com
 ||smashingshare.com
 ||snsanalystics.com
 ||so-ga.net
