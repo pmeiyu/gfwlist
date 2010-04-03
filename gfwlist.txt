@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UU3E5X4pTNvHytI03HPbdA
+! Checksum: pBG3mkuJzSsc8xlp8mWHeA
 ! Expires: 8h
-! Last Modified:  Sat, 03 Apr 2010 10:41:03 +0800
+! Last Modified:  Sat, 03 Apr 2010 19:21:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -622,13 +622,7 @@ freemorenews.com
 www.freetibet.org
 .freetzi.com
 .freexinwen.com
-
-friendfeed.com
-!--|http://*friendfeed.com%2Fe
-!--|http://*friendfeed.com/e
-!--|http://*friendfeed.com/chinese-at-ff
-!--|http://*friendfeed.com/qifei
-
+http:*friendfeed.com
 ||frommel.net
 ||fscked.org
 |http://www.fsurf.com/
@@ -758,6 +752,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||blog.google.org
 ||www.greasespot.net
 ||blog.growlforwindows.com
+||blog.headius.com
 ||hogbaysoftware.com
 ||blog.jsquaredjavascript.com
 ||tomatovpn.keithmoyer.com
@@ -820,6 +815,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http:*.google.com*%E7%AA%81%E7%A0%B4
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
+!--Zhang De Jiang
+|http:*.google.*/search*%D5%C5%B5%C2%BD%AD
 !--Zhen Xiang
 |http:*.google.*%E7%9C%9F%E7%9B%B8
 !--Zhou Mo
@@ -1585,6 +1582,7 @@ forum.setty.com.tw
 |http://shangfang.org
 shapeservices.com
 ||sharecool.org
+||sharepointeducation.com
 .shaunthesheep.com
 ||shaunthesheep.com
 shenshou.org
@@ -1796,11 +1794,6 @@ bbs.tuitui.info
 ||tuxmachines.org
 
 !-------------Tumblr-----
-||tumblr.com
-@@||assets.tumblr.com
-@@||data.tumblr.com
-@@||media.tumblr.com
-@@||static.tumblr.com
 ||301works.org
 ||news.atebits.com
 ||tumblr.awflasher.com
@@ -2408,8 +2401,10 @@ zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Jin Dun Gong Cheng ?
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
-!--Li Changchun
+!--Li Chang Chun
 zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
+!--Li Hong Zhi
+zh.wikipedia.org*%E6%9D%8E%E6%B4%AA%E5%BF%97
 !--Li Peng
 zh.wikipedia.org*%C0%EE%C5%F4
 !--Li Yuan Chao
