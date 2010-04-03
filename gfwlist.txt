@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2Y/XkJ8WGL/g69OAquKhhA
+! Checksum: ElGMy9TJjZ72AJ0tDbaAgA
 ! Expires: 8h
-! Last Modified:  Sat, 03 Apr 2010 20:24:53 +0800
+! Last Modified:  Sat, 03 Apr 2010 20:43:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -849,6 +849,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 !--|https://calendar.google.com
 |https://chrome.google.com
 |https://clients*.google.com
+|https://code.google.com
 |https://services.google.com
 |https://talkgadget.google.com
 |https://tools.google.com
