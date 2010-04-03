@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PxF2KP3Dk+7h0r2hdnhqUQ
+! Checksum: 8lMaX5KRVfSpjZGaTJ3tWQ
 ! Expires: 8h
-! Last Modified:  Fri, 02 Apr 2010 08:22:23 +0800
+! Last Modified:  Sat, 03 Apr 2010 10:03:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -554,9 +554,7 @@ faydao.com
 @@i.faydao.com
 @@v.faydao.com
 fangeming.com
-.blog42.fc2.com
-sweetnaoko24.blog43.fc2.com
-web.fc2.com
+fc2.com
 video.fdbox.com
 forum*.fdzone.org
 ||fourface.nodesnoop.com
