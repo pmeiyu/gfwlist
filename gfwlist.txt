@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kYnrM6i3ByCjMGguEorseg
+! Checksum: lrVXw007LNb7+vsgMlM32g
 ! Expires: 8h
-! Last Modified:  Sun, 04 Apr 2010 12:29:38 +0800
+! Last Modified:  Sun, 04 Apr 2010 12:34:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1308,7 +1308,6 @@ omgili.com
 omnitalk.
 ||on.cc^
 ||onebigfluke.com
-||onlinelinkscan.com
 .oopsforum.com
 ooosee.com/fuckgfw
 ||ooosee.com
@@ -1319,7 +1318,6 @@ my.opera.com
 www.orchidbbs.com
 .orzistic.org
 ||orzistic.org
-osdir.com
 otweets.com
 .oursogo.com
 |http://oursogo.com
@@ -1331,7 +1329,6 @@ share.ovi.com/media
 bbs.ozchinese.com
 
 !--------------------------PP--------------------------
-||p2pu.org
 .pacificpoker.com
 forum.palmislife.com
 paperb.us
@@ -1360,7 +1357,6 @@ penchinese.com
 ||blog.pentalogic.net
 .penthouse.com
 ||feeds.people.com
-perfdynamics.com
 philly.com
 ||photou.in
 picturesocial.com
