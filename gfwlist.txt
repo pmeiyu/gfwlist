@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ElGMy9TJjZ72AJ0tDbaAgA
+! Checksum: Ty+V8pEypz8TtUmAH68I8A
 ! Expires: 8h
-! Last Modified:  Sat, 03 Apr 2010 20:43:05 +0800
+! Last Modified:  Sun, 04 Apr 2010 11:43:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -622,7 +622,13 @@ freemorenews.com
 www.freetibet.org
 .freetzi.com
 .freexinwen.com
-http:*friendfeed.com
+
+friendfeed.com
+!--|http://*friendfeed.com%2Fe
+!--|http://*friendfeed.com/e
+!--|http://*friendfeed.com/chinese-at-ff
+!--|http://*friendfeed.com/qifei
+
 ||frommel.net
 ||fscked.org
 |http://www.fsurf.com/
@@ -752,7 +758,6 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||blog.google.org
 ||www.greasespot.net
 ||blog.growlforwindows.com
-||blog.headius.com
 ||hogbaysoftware.com
 ||blog.jsquaredjavascript.com
 ||tomatovpn.keithmoyer.com
@@ -815,8 +820,6 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http:*.google.com*%E7%AA%81%E7%A0%B4
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
-!--Zhang De Jiang
-|http:*.google.*/search*%D5%C5%B5%C2%BD%AD
 !--Zhen Xiang
 |http:*.google.*%E7%9C%9F%E7%9B%B8
 !--Zhou Mo
@@ -849,7 +852,6 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 !--|https://calendar.google.com
 |https://chrome.google.com
 |https://clients*.google.com
-|https://code.google.com
 |https://services.google.com
 |https://talkgadget.google.com
 |https://tools.google.com
@@ -858,7 +860,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 google.com*analytics*zh-CN
 .google.com/gwt
 feedproxy.google.com
-||groups.google.com
+|http://groups.google.com
 |http:*groups.google.*group
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 picasaweb.google.com
@@ -1026,7 +1028,6 @@ ac.jiruan.net
 ||jkforum.net
 ||journalofdemocracy.org
 .jp-sex.com
-|http://jpra1113.org
 ||wiki.js-kit.com
 ||juliereyc.com
 .junefourth-20.net
@@ -1055,7 +1056,6 @@ wiki.keso.cn/Home
 .knowledgerush.com/kr/encyclopedia
 .kodiefiles.nl
 ||kompozer.net
-.ktop.com.tw
 ||ktsee.tk
 .ktzhk.com
 .kui.name/event
@@ -1089,8 +1089,6 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 ||lifemotivations.com
 lifestream.fm
-||lightbotz.com
-||linkinpark.com
 linuxconfig.org
 lipuman.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
@@ -1140,7 +1138,6 @@ mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
 ||making-the-web.com
-www.manning.com
 ||marines.mil
 markmail.org*message
 .marlito.com
@@ -1197,7 +1194,6 @@ mm36c.com
 ||mmaaxx.com
 plurktop.mmdays.com
 .mofosex.com
-.momotato.com
 ||morningsun.org
 ||movabletype.com
 |http://www.moztw.org
@@ -1583,7 +1579,6 @@ forum.setty.com.tw
 |http://shangfang.org
 shapeservices.com
 ||sharecool.org
-||sharepointeducation.com
 .shaunthesheep.com
 ||shaunthesheep.com
 shenshou.org
@@ -1795,6 +1790,11 @@ bbs.tuitui.info
 ||tuxmachines.org
 
 !-------------Tumblr-----
+||tumblr.com
+@@||assets.tumblr.com
+@@||data.tumblr.com
+@@||media.tumblr.com
+@@||static.tumblr.com
 ||301works.org
 ||news.atebits.com
 ||tumblr.awflasher.com
@@ -2402,10 +2402,8 @@ zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Jin Dun Gong Cheng ?
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
-!--Li Chang Chun
+!--Li Changchun
 zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
-!--Li Hong Zhi
-zh.wikipedia.org*%E6%9D%8E%E6%B4%AA%E5%BF%97
 !--Li Peng
 zh.wikipedia.org*%C0%EE%C5%F4
 !--Li Yuan Chao
