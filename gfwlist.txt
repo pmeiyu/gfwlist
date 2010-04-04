@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Ty+V8pEypz8TtUmAH68I8A
+! Checksum: VFmNhjuq5Qve88AZYW9zWA
 ! Expires: 8h
-! Last Modified:  Sun, 04 Apr 2010 11:43:18 +0800
+! Last Modified:  Sun, 04 Apr 2010 12:17:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1081,7 +1081,6 @@ latelinenews.com
 .leenks.com
 ||lenwhite.com
 .lianyue.net
-||lianyue.net
 ||liaowangxizang.net
 .liaowangxizang.net
 ||liberal.org.hk
@@ -1128,11 +1127,8 @@ livejasmin.com
 lsforum.net
 .lubetube.com
 ||lubetube.com
-||luoyonghao.net
 
 !--------------------------MM--------------------------
-homepage.mac.com
-web.mac.com
 .macau-focus.com
 mail-archive.com
 |http://cq.mail163.to/
@@ -1197,10 +1193,10 @@ plurktop.mmdays.com
 ||morningsun.org
 ||movabletype.com
 |http://www.moztw.org
-!--.mp may be removed some time
-.mp/
-@@chi.mp
-||secure.mp
+||mp/
+@@||chi.mp/
+@@||get.mp/
+@@||www.mp/
 ||mpettis.com
 |http://www.mpinews.com/
 ||mplstudios.com
