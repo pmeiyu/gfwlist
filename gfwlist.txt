@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4AteZornFziKSCDxbz0eKQ
+! Checksum: yUv4/Emnvkxhy9mtqUfYvg
 ! Expires: 8h
-! Last Modified:  Sun, 04 Apr 2010 22:34:49 +0800
+! Last Modified:  Mon, 05 Apr 2010 01:17:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -534,6 +534,7 @@ eltondisney.com
 ||emacsblog.org
 .emodao.com
 ||empflix.com
+||emucr.com
 ||entermap.com
 epochtimes.com
 ||erights.net
@@ -580,6 +581,7 @@ findbook.tw
 ||fireofliberty.org
 ||fireuploader.com
 ||flagfox.net
+fleshbot.com
 
 !--flickr.com
 !--|http://farm1.static.flickr.com/
@@ -622,13 +624,7 @@ freemorenews.com
 www.freetibet.org
 .freetzi.com
 .freexinwen.com
-
-friendfeed.com
-!--|http://*friendfeed.com%2Fe
-!--|http://*friendfeed.com/e
-!--|http://*friendfeed.com/chinese-at-ff
-!--|http://*friendfeed.com/qifei
-
+http:*friendfeed.com
 ||frommel.net
 ||fscked.org
 |http://www.fsurf.com/
@@ -698,6 +694,7 @@ gongminliliang.com
 .googlesile.com
 .gopetition.com
 ||gopetition.com
+||gotfr.com
 ||gpowered.net
 ||gradient.tk
 grandtrial.org
@@ -758,6 +755,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||blog.google.org
 ||www.greasespot.net
 ||blog.growlforwindows.com
+||blog.headius.com
 ||hogbaysoftware.com
 ||blog.jsquaredjavascript.com
 ||tomatovpn.keithmoyer.com
@@ -804,6 +802,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 |http:*.google.*gfw
+!--Jin Tao
+|http:*.google.*/search*%E9%94%A6%E6%B6%9B
 !--Xi Lai
 |http:*.google.com*%E7%86%99%E6%9D%A5
 !--Na Mi Bi Ya
@@ -820,6 +820,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http:*.google.com*%E7%AA%81%E7%A0%B4
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
+!--Zhang De Jiang
+|http:*.google.*/search*%D5%C5%B5%C2%BD%AD
 !--Zhen Xiang
 |http:*.google.*%E7%9C%9F%E7%9B%B8
 !--Zhou Mo
@@ -852,6 +854,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 !--|https://calendar.google.com
 |https://chrome.google.com
 |https://clients*.google.com
+|https://code.google.com
 |https://services.google.com
 |https://talkgadget.google.com
 |https://tools.google.com
@@ -860,7 +863,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 google.com*analytics*zh-CN
 .google.com/gwt
 feedproxy.google.com
-|http://groups.google.com
+||groups.google.com
 |http:*groups.google.*group
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 picasaweb.google.com
@@ -1028,11 +1031,13 @@ ac.jiruan.net
 ||jkforum.net
 ||journalofdemocracy.org
 .jp-sex.com
+|http://jpra1113.org
 ||wiki.js-kit.com
 ||juliereyc.com
 .junefourth-20.net
 |http://junefourth-20.net
 justsoit.com
+.jyxf.net
 
 !--------------------------KK--------------------------
 .kagyuoffice.org.tw
@@ -1056,6 +1061,7 @@ wiki.keso.cn/Home
 .knowledgerush.com/kr/encyclopedia
 .kodiefiles.nl
 ||kompozer.net
+.ktop.com.tw
 ||ktsee.tk
 .ktzhk.com
 .kui.name/event
@@ -1081,6 +1087,7 @@ latelinenews.com
 .leenks.com
 ||lenwhite.com
 .lianyue.net
+||lianyue.net
 ||liaowangxizang.net
 .liaowangxizang.net
 ||liberal.org.hk
@@ -1088,6 +1095,8 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 ||lifemotivations.com
 lifestream.fm
+||lightbotz.com
+||linkinpark.com
 linuxconfig.org
 lipuman.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
@@ -1127,13 +1136,17 @@ livejasmin.com
 lsforum.net
 .lubetube.com
 ||lubetube.com
+||luoyonghao.net
 
 !--------------------------MM--------------------------
+homepage.mac.com
+web.mac.com
 .macau-focus.com
 mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
 ||making-the-web.com
+www.manning.com
 ||marines.mil
 markmail.org*message
 .marlito.com
@@ -1189,14 +1202,16 @@ mitbbs.com
 mm36c.com
 ||mmaaxx.com
 plurktop.mmdays.com
+||mobile01.com
 .mofosex.com
+.momotato.com
 ||morningsun.org
 ||movabletype.com
 |http://www.moztw.org
-||mp/
-@@||chi.mp/
-@@||get.mp/
-@@||www.mp/
+!--.mp may be removed some time
+.mp/
+@@chi.mp
+||secure.mp
 ||mpettis.com
 |http://www.mpinews.com/
 ||mplstudios.com
@@ -1230,6 +1245,7 @@ vids.myspace.com/index.cfm?fuseaction=vids.
 viewmorepics.myspace.com
 
 !--------------------------NN--------------------------
+||nagarekumo.com
 ||naitik.net
 ||navicat.com
 .nakido.com
@@ -1262,6 +1278,7 @@ bbs2.newsgroup.la
 forum.newsgroup.la
 ||newspace21.com
 newstin.com
+|http://www.newsvine.com/
 hk*.nextmedia.com
 tw*.nextmedia.com
 ||nexton-net.jp
@@ -1308,20 +1325,24 @@ omgili.com
 omnitalk.
 ||on.cc^
 ||onebigfluke.com
+||onlinelinkscan.com
 .oopsforum.com
 ooosee.com/fuckgfw
 ||ooosee.com
 open.com.hk
 ||openid.cn
 opera.com/mini
+||mini.opera.com
 my.opera.com
 www.orchidbbs.com
 .orzistic.org
 ||orzistic.org
+osdir.com
 otweets.com
 .oursogo.com
 |http://oursogo.com
 ||overstimulate.com
+||ovh.net
 share.ovi.com/media
 |http://www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
@@ -1329,6 +1350,7 @@ share.ovi.com/media
 bbs.ozchinese.com
 
 !--------------------------PP--------------------------
+||p2pu.org
 .pacificpoker.com
 forum.palmislife.com
 paperb.us
@@ -1357,8 +1379,10 @@ penchinese.com
 ||blog.pentalogic.net
 .penthouse.com
 ||feeds.people.com
+perfdynamics.com
 philly.com
 ||photou.in
+.picidae.net
 picturesocial.com
 .pidown.com
 .pign.net
@@ -1373,8 +1397,10 @@ picturesocial.com
 @@||forum.pixnet.net
 .pk.com
 .planetsuzy.org
+||platinumgames.com
 plays.com.tw
 plurk.com
+||plurkk.com
 ||plurktemplates.com
 .plus28.com
 .plusbb.com
@@ -1422,6 +1448,7 @@ postadult.com
 ||www.vegorpedersen.com
 ||ventureswell.com
 ||webfee.tk
+|http://z-turn.cn/
 ||bill.zhong.pp.ru
 
 ||posterous.org
@@ -1453,6 +1480,7 @@ python.org*download
 ||qanote.com
 .qienkuen.org
 ||qienkuen.org
+||qingre.com
 qixianglu.cn
 bbs.qmzdd.com
 ||qmzdd.com
@@ -1566,6 +1594,7 @@ forum.setty.com.tw
 |http://shangfang.org
 shapeservices.com
 ||sharecool.org
+||sharepointeducation.com
 .shaunthesheep.com
 ||shaunthesheep.com
 shenshou.org
@@ -1603,7 +1632,6 @@ news.singtao.ca
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
-@@||sixxs.org
 ||sjum.cn
 ||skimtube.com
 ||skulpt.org
@@ -1669,6 +1697,7 @@ cn2.streetvoice.com
 tw.streetvoice.com
 ||suicideblitz.info
 ||summize.com
+||superspeed.com
 support/youtube/bin/request.py?contact_type=abuse&
 ||sweux.com
 ||syncback.com
@@ -1778,11 +1807,6 @@ bbs.tuitui.info
 ||tuxmachines.org
 
 !-------------Tumblr-----
-||tumblr.com
-@@||assets.tumblr.com
-@@||data.tumblr.com
-@@||media.tumblr.com
-@@||static.tumblr.com
 ||301works.org
 ||news.atebits.com
 ||tumblr.awflasher.com
@@ -2390,8 +2414,10 @@ zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Jin Dun Gong Cheng ?
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
-!--Li Changchun
+!--Li Chang Chun
 zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
+!--Li Hong Zhi
+zh.wikipedia.org*%E6%9D%8E%E6%B4%AA%E5%BF%97
 !--Li Peng
 zh.wikipedia.org*%C0%EE%C5%F4
 !--Li Yuan Chao
@@ -2406,6 +2432,8 @@ zh.wikipedia.org*%E5%88%98%E6%85%A7%E5%8D%BF
 zh.wikipedia.org*%E5%8A%89%E6%85%A7%E5%8D%BF
 !--Liu Si (Ge Qu / Shi Ji / Shi Jian)
 zh.wikipedia.org*%E5%85%AD%E5%9B%9B
+!--Liu Si Shi Jian
+zh-yue.wikipedia.org*%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
 !--Liu Yan Dong
 zh.wikipedia.org*%E5%88%98%E5%BB%B6%E4%B8%9C
 !--Liu Yun Shan
