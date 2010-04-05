@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YP0GJRC6s6q0o0bNhnrpgA
+! Checksum: YxHLVhQPabkTw74rGcDuZA
 ! Expires: 8h
-! Last Modified:  Mon, 05 Apr 2010 11:41:05 +0800
+! Last Modified:  Mon, 05 Apr 2010 18:37:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -757,6 +757,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||blog.growlforwindows.com
 ||blog.headius.com
 ||hogbaysoftware.com
+||blog.joint.net
 ||blog.jsquaredjavascript.com
 ||tomatovpn.keithmoyer.com
 ||www.keithmoyer.com
@@ -822,6 +823,8 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhang De Jiang
 |http:*.google.*/search*%D5%C5%B5%C2%BD%AD
+!--Zhen Li Bu
+|http:*.google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
 |http:*.google.*%E7%9C%9F%E7%9B%B8
 !--Zhou Mo
@@ -1907,6 +1910,7 @@ lawprofessors.typepad.com/china_law_prof_blog
 humanities.uchicago.edu/faculty/ywang/hi
 album.udn.com
 blog.udn.com
+bookmark.udn.com/bookmark
 city.udn.com
 dignews.udn.com
 forum.udn.com
@@ -2175,7 +2179,8 @@ yuanming.net
 !--------------------------ZZ--------------------------
 |http://zaobao.com/
 |http://luntan.zaobao.com/
-.zaobao.com*special*china*cnpol*pages2*cnpol090729
+.zaobao.com/special/china/cnpol/pages2/cnpol090729
+.zaobao.com/special/sitemap
 .zaobao.com.sg
 ||zaobao.com.sg
 www.zaurus.org.uk
