@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yUv4/Emnvkxhy9mtqUfYvg
+! Checksum: YP0GJRC6s6q0o0bNhnrpgA
 ! Expires: 8h
-! Last Modified:  Mon, 05 Apr 2010 01:17:39 +0800
+! Last Modified:  Mon, 05 Apr 2010 11:41:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1031,7 +1031,6 @@ ac.jiruan.net
 ||jkforum.net
 ||journalofdemocracy.org
 .jp-sex.com
-|http://jpra1113.org
 ||wiki.js-kit.com
 ||juliereyc.com
 .junefourth-20.net
@@ -1061,7 +1060,6 @@ wiki.keso.cn/Home
 .knowledgerush.com/kr/encyclopedia
 .kodiefiles.nl
 ||kompozer.net
-.ktop.com.tw
 ||ktsee.tk
 .ktzhk.com
 .kui.name/event
@@ -1087,7 +1085,6 @@ latelinenews.com
 .leenks.com
 ||lenwhite.com
 .lianyue.net
-||lianyue.net
 ||liaowangxizang.net
 .liaowangxizang.net
 ||liberal.org.hk
@@ -1095,8 +1092,6 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 ||lifemotivations.com
 lifestream.fm
-||lightbotz.com
-||linkinpark.com
 linuxconfig.org
 lipuman.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
@@ -1136,17 +1131,13 @@ livejasmin.com
 lsforum.net
 .lubetube.com
 ||lubetube.com
-||luoyonghao.net
 
 !--------------------------MM--------------------------
-homepage.mac.com
-web.mac.com
 .macau-focus.com
 mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
 ||making-the-web.com
-www.manning.com
 ||marines.mil
 markmail.org*message
 .marlito.com
@@ -1204,14 +1195,13 @@ mm36c.com
 plurktop.mmdays.com
 ||mobile01.com
 .mofosex.com
-.momotato.com
 ||morningsun.org
 ||movabletype.com
 |http://www.moztw.org
-!--.mp may be removed some time
-.mp/
-@@chi.mp
-||secure.mp
+||mp/
+@@||chi.mp/
+@@||get.mp/
+@@||www.mp/
 ||mpettis.com
 |http://www.mpinews.com/
 ||mplstudios.com
@@ -1245,7 +1235,6 @@ vids.myspace.com/index.cfm?fuseaction=vids.
 viewmorepics.myspace.com
 
 !--------------------------NN--------------------------
-||nagarekumo.com
 ||naitik.net
 ||navicat.com
 .nakido.com
@@ -1278,7 +1267,6 @@ bbs2.newsgroup.la
 forum.newsgroup.la
 ||newspace21.com
 newstin.com
-|http://www.newsvine.com/
 hk*.nextmedia.com
 tw*.nextmedia.com
 ||nexton-net.jp
@@ -1325,19 +1313,16 @@ omgili.com
 omnitalk.
 ||on.cc^
 ||onebigfluke.com
-||onlinelinkscan.com
 .oopsforum.com
 ooosee.com/fuckgfw
 ||ooosee.com
 open.com.hk
 ||openid.cn
 opera.com/mini
-||mini.opera.com
 my.opera.com
 www.orchidbbs.com
 .orzistic.org
 ||orzistic.org
-osdir.com
 otweets.com
 .oursogo.com
 |http://oursogo.com
@@ -1350,7 +1335,6 @@ share.ovi.com/media
 bbs.ozchinese.com
 
 !--------------------------PP--------------------------
-||p2pu.org
 .pacificpoker.com
 forum.palmislife.com
 paperb.us
@@ -1379,7 +1363,6 @@ penchinese.com
 ||blog.pentalogic.net
 .penthouse.com
 ||feeds.people.com
-perfdynamics.com
 philly.com
 ||photou.in
 .picidae.net
@@ -1397,7 +1380,6 @@ picturesocial.com
 @@||forum.pixnet.net
 .pk.com
 .planetsuzy.org
-||platinumgames.com
 plays.com.tw
 plurk.com
 ||plurkk.com
@@ -1448,7 +1430,6 @@ postadult.com
 ||www.vegorpedersen.com
 ||ventureswell.com
 ||webfee.tk
-|http://z-turn.cn/
 ||bill.zhong.pp.ru
 
 ||posterous.org
@@ -1632,6 +1613,7 @@ news.singtao.ca
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
+@@||sixxs.org
 ||sjum.cn
 ||skimtube.com
 ||skulpt.org
