@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9xOkGI2JsR2GjA/oZs0nMw
+! Checksum: iww5wo0LtiKEEFi+BSrUIQ
 ! Expires: 8h
-! Last Modified:  Wed, 07 Apr 2010 00:20:52 +0800
+! Last Modified:  Wed, 07 Apr 2010 00:25:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1785,6 +1785,7 @@ tsquare.tv
 ||tttan.com
 .tttan.com
 bb.ttv.com.tw/bb
+.tube.com
 tube8.com
 tuidang.net
 .tuite.de
