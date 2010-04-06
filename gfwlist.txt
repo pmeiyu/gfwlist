@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YxHLVhQPabkTw74rGcDuZA
+! Checksum: vWagYkM1tneb4LJtHmn7lQ
 ! Expires: 8h
-! Last Modified:  Mon, 05 Apr 2010 18:37:58 +0800
+! Last Modified:  Tue, 06 Apr 2010 12:18:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -260,6 +260,7 @@ blogwind.com
 bloomfortune.com
 bolour.com
 |http://www.books.com.tw/
+.box.net/shared/ymcm3k0cy8
 boxcn.net/shared/v8dku73p1h
 boxun.com
 .boxun.tv
@@ -922,6 +923,7 @@ hk-pub.com
 hkday.net
 .hkej.com
 ||hkej.com
+.hkepc.com/forum/viewthread.php?tid=1153322
 global.hkepc.com*forum
 .hkfreezone.com
 hkgolden.com
@@ -1626,6 +1628,7 @@ sitetag.us
 download.skype.com/SkypeSetup.exe
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
+.slashgear.com
 ||slavasoft.com
 ||slheng.com
 forum.slime.com.tw
