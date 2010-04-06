@@ -1,12 +1,12 @@
 [AutoProxy 0.2.9]
-! Checksum: 4rBVGo5/j0vXaP5quAhllQ
+! Checksum: 9xOkGI2JsR2GjA/oZs0nMw
 ! Expires: 8h
-! Last Modified:  Tue, 06 Apr 2010 23:57:49 +0800
+! Last Modified:  Wed, 07 Apr 2010 00:20:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 1-apple.com.tw
-.100hame.com
+100hame.com
 |http://nsf.110mb.com
 ||z-o-o-m.110mb.com
 .121pp.com
@@ -17,23 +17,19 @@
 173ng.com
 .18kin.com
 .18p2p.com
-.1bang1.cn
 .1bao.org
-||1pondo.tv
 .1pondo.tv
-.2000fun.com*bbs
-205.209.177.79
-2008xianzhang.info
+||1pondo.tv
+2000fun.com/bbs
+.2008xianzhang.info
 ||2dmoe.com
 ||2photo.ru
 .2tips.com
 .36rain.com
 ||36rain.com
 |http://3b8.cc/
-3boys2girls.com
-||3park.net
-.3park.net
-.45av.net
+.3boys2girls.com
+3park.net
 ||45av.net
 .4tube.com
 ||4tube.com
@@ -42,11 +38,11 @@ bbs.51.ca
 blog.51.ca
 info.51.ca
 ||520.be
-5maodang.com
+5av.net
+.5maodang.com
 .6-4.net
 ||6-4.net/
-64memo.com
-64memo.org
+64memo
 64tianwang.com
 666kb.com
 69.93.3.113
@@ -66,7 +62,7 @@ info.51.ca
 .91porn.com
 .92hg.com
 97xxoo.com
-.99bbs.com
+99bbs.com
 99p2p.com
 ||9bis.com
 ||9bis.net
