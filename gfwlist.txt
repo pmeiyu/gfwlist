@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vWagYkM1tneb4LJtHmn7lQ
+! Checksum: 4rBVGo5/j0vXaP5quAhllQ
 ! Expires: 8h
-! Last Modified:  Tue, 06 Apr 2010 12:18:55 +0800
+! Last Modified:  Tue, 06 Apr 2010 23:57:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -570,6 +570,7 @@ feeds2.feedburner.com/chinagfwblog
 feer.com
 .fengzhenghu.com
 ||fengzhenghu.com
+.fevernet.com/index.php
 http://ff.im
 @@|https://ff.im
 .fgmtv.org
@@ -719,6 +720,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 docs.google.com/View?id=d8xbpp6_4hhpb2dfd
 docs.google.com*view*id*dg5mtmj9_8g3hk27f5
 docs.google.com*View*id*dg5mtmj9_3188x48zcn
+docs.google.com/View?id=dgjxsxws_148fvpz6wdg
 
 !-------------Google ghs-----
 ||allentian.com
@@ -777,6 +779,7 @@ docs.google.com*View*id*dg5mtmj9_3188x48zcn
 ||blog.naanstudio.com
 ||blog.nihilogic.dk
 ||blog.persistent.info
+||rapid.pk
 ||robertmao.com
 ||salmiyuck.com
 ||sleepingtime.org
@@ -1825,6 +1828,7 @@ bbs.tuitui.info
 ||blog.tr.im
 ||status.twhirl.org
 !-||status.twitter.com
+||photo.utom.us
 ||bd.zhe.la
 ||cocoa.zonble.net
 
