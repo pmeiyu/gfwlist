@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: v93emZfWXwBTY3c0yd4XIg
+! Checksum: EGJZoMPY4KqxZGb/V5YgHg
 ! Expires: 8h
-! Last Modified:  Wed, 07 Apr 2010 13:03:44 +0800
+! Last Modified:  Wed, 07 Apr 2010 13:22:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -685,6 +685,7 @@ getchu.com
 ||glennhilton.com
 globalmuseumoncommunism.org
 zh.globalvoicesonline.org
+gmbd.cn
 ||gmhz.org
 ||goldwave.com
 gongmeng.info
