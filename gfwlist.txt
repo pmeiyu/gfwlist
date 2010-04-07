@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EniUV2nyY9nSO1wUjdGo2Q
+! Checksum: v93emZfWXwBTY3c0yd4XIg
 ! Expires: 8h
-! Last Modified:  Wed, 07 Apr 2010 12:21:10 +0800
+! Last Modified:  Wed, 07 Apr 2010 13:03:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1686,6 +1686,7 @@ tw.streetvoice.com
 ||summize.com
 ||superspeed.com
 support/youtube/bin/request.py?contact_type=abuse&
+/support/youtube/bin/static.py?page=start.cs&
 ||sweux.com
 ||syncback.com
 sysresccd.org
