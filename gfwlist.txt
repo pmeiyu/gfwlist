@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EGJZoMPY4KqxZGb/V5YgHg
+! Checksum: NQUn4PybmNSyhrd2bpHPoQ
 ! Expires: 8h
-! Last Modified:  Wed, 07 Apr 2010 13:22:39 +0800
+! Last Modified:  Wed, 07 Apr 2010 13:33:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -619,6 +619,7 @@ freeforums.org
 ||freelotto.com
 freemoren.com
 freemorenews.com
+||www.bulbous.freeserve.co.uk
 www.freetibet.org
 .freetzi.com
 .freexinwen.com
@@ -2095,6 +2096,7 @@ abigale1.xanga.com
 .xbookcn.com
 ||xbookcn.com
 x.xcity.jp
+.xcritic.com
 ||xesh.tk
 destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
@@ -2413,6 +2415,7 @@ zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
 zh.wikipedia.org*%E6%9D%8E%E6%B4%AA%E5%BF%97
 !--Li Peng
 zh.wikipedia.org*%C0%EE%C5%F4
+zh.wikipedia.org*%E6%9D%8E%E9%B9%8F
 !--Li Yuan Chao
 zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
 !--Lin Guo Xiong
