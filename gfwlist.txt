@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: iww5wo0LtiKEEFi+BSrUIQ
+! Checksum: EniUV2nyY9nSO1wUjdGo2Q
 ! Expires: 8h
-! Last Modified:  Wed, 07 Apr 2010 00:25:35 +0800
+! Last Modified:  Wed, 07 Apr 2010 12:21:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -714,7 +714,7 @@ code.google.com/p/program-think/wiki/Software
 docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !--Feng Zheng Hu
 docs.google.com/View?id=d8xbpp6_4hhpb2dfd
-docs.google.com*view*id*dg5mtmj9_8g3hk27f5
+docs.google.com*View*id*dg5mtmj9_8g3hk27f5
 docs.google.com*View*id*dg5mtmj9_3188x48zcn
 docs.google.com/View?id=dgjxsxws_148fvpz6wdg
 
