@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VM6VvaQLmLJq76QITxeJxQ
+! Checksum: T+Ev0+TXCBVEoQsdPh2yaA
 ! Expires: 8h
-! Last Modified:  Wed, 07 Apr 2010 23:58:39 +0800
+! Last Modified:  Thu, 08 Apr 2010 10:58:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -712,12 +712,12 @@ code.google.com/p/program-think/wiki/Software
 |https://docs.google.com
 |http:*spreadsheets.google.com
 |https://spreadsheets.google.com
-docs.google.com/View?id=dhh5gtxb_145nsxgctcc
-!--Feng Zheng Hu
 docs.google.com/View?id=d8xbpp6_4hhpb2dfd
 docs.google.com*View*id*dg5mtmj9_8g3hk27f5
 docs.google.com*View*id*dg5mtmj9_3188x48zcn
 docs.google.com/View?id=dgjxsxws_148fvpz6wdg
+docs.google.com*dgtbmwd6_934gg99v6g4
+docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
 ||allentian.com
@@ -1198,6 +1198,7 @@ mitbbs.com
 mm36c.com
 ||mmaaxx.com
 plurktop.mmdays.com
+||mobatek.net
 ||mobile01.com
 .mofosex.com
 ||morningsun.org
