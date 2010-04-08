@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qIgR78Lz+Yd7giE4eisdSQ
+! Checksum: WBmH+yIlqzuukMs2xgcQag
 ! Expires: 8h
-! Last Modified:  Thu, 08 Apr 2010 16:07:47 +0800
+! Last Modified:  Thu, 08 Apr 2010 21:09:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -809,8 +809,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 |http:*.google.*gfw
 !--Jin Tao
 |http:*.google.*/search*%E9%94%A6%E6%B6%9B
-!--Xi Lai
-|http:*.google.com*%E7%86%99%E6%9D%A5
+!--Meng Ying Wei Ming Hu
+|http:*.google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Po Hai
@@ -818,11 +818,15 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !--Qian Shi Jin Sheng
 |http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Tan Zuo Ren
-*.google.*/search*%CC%B7%D7%F7%C8%CB
+|http:**.google.*/search*%CC%B7%D7%F7%C8%CB
 !--Tian An Men
 |http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tu Po
 |http:*.google.com*%E7%AA%81%E7%A0%B4
+!--Wang Xiao Ya
+|http:*.google.*q=%E7%8E%8B%E5%B0%8F%E4%B8%AB
+!--Xi Lai
+|http:*.google.com*%E7%86%99%E6%9D%A5
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhang De Jiang
@@ -1308,6 +1312,7 @@ bbs.nsysu.edu.tw
 ntdtv.com
 ||cbs.ntu.edu.tw
 ||nuexpo.com
+||nurgo-software.com
 nysingtao.com
 ||nzchinese.net.nz
 
