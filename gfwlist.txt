@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WBmH+yIlqzuukMs2xgcQag
+! Checksum: /lOu1STGaH7aC4vKXadkSw
 ! Expires: 8h
-! Last Modified:  Thu, 08 Apr 2010 21:09:30 +0800
+! Last Modified:  Thu, 08 Apr 2010 21:53:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -82,49 +82,48 @@ info.51.ca
 .adiscuz.info
 .adult168.com
 adultfriendfinder.com
-adultvideodump.com
-advanscene.com
+.adultvideodump.com
+||advanscene.com
 ||advertfan.com
-||blog.aegisub.org
 ||aenhancers.com
-|http://www.aidsmuseum.cn/
-.aisex.com
+||aidsmuseum.cn
+aisex.com
 blog.aiweiwei.com
+||blog.aiweiwei.com
 .akiba-online.com/forum/index.php
 ||alabout.com
 aladding.com
-||alexatnet.com
-||alexeyyurenev.com
+||aladding.com
 .alivenotdead.com
-allhabit.com
+.allhabit.com
 alliance.org.hk
+||alliance.org.hk
 .allinfa.com
-||allinfa.com
-.allinfo.com
 ||allinfo.com
-||alonweb.com
 ||alternate-tools.com
 @@|https://s3.amazonaws.com
 ||americanaccent.com
-amiblockedornot.com
+||amiblockedornot.com
 .amnesty.org
-amnestyusa.org
+||amnesty.org
+.amnestyusa.org
+||amnestyusa.org
 .amoiist.com
-||amoiist.com
-anchorfree.com
+.anchorfree.com
+||anchorfree.com
 ||anda.pk
 ||angel.hk
-anonymizer.com
+.anonymizer.com
 anonymouse.org
 ||anthonycalzadilla.com
 ||about.aol.com
 ||aolchannels.aol.com
-||daol.aol.com
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
 video.aol.com
+||video.aol.com
 videoportal.aol.tw/video-detail
-.ap-ch2.com
+ap-ch2.com
 
 !-Appspot
 ||bullog4cn.appspot.com
@@ -141,23 +140,23 @@ twittergadget.appspot.com
 .archive.org
 ||archive.org
 ||areca-backup.org
-||army.mil
 ||asapload.com
-www.asiademo.org
+asiademo.org
+||asiademo.org
 .asianbabymakers.com
-.asianews.it
+asianews.it
 asianude4u.com
 ||asianwomensfilm.de
 .askynz.net
 ||askynz.net
-astonmartinnews.com
-.atj.org.tw
-atlaspost.com
+||astonmartinnews.com
+||atj.org.tw
+.atlaspost.com
+||atlaspost.com
 .atnext.com
-||autopattic.com
-||av383.com
+||atnext.com
 .aventertainments.com
-avno1.com
+.avno1.com
 .avno3.com
 ||avoision.com
 ||away3d.com
@@ -722,6 +721,7 @@ docs.google.com*dgtbmwd6_934gg99v6g4
 docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
+||blog.aegisub.org
 ||allentian.com
 ||developer.android.com
 ||pdk.android.com
