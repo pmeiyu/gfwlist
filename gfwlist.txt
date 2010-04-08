@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: T+Ev0+TXCBVEoQsdPh2yaA
+! Checksum: RsVGG6HAcBQbWcwWmJVrbg
 ! Expires: 8h
-! Last Modified:  Thu, 08 Apr 2010 10:58:27 +0800
+! Last Modified:  Thu, 08 Apr 2010 12:26:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -22,6 +22,7 @@
 ||1pondo.tv
 2000fun.com/bbs
 .2008xianzhang.info
+205.209.177.79
 ||2dmoe.com
 ||2photo.ru
 .2tips.com
@@ -823,7 +824,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhang De Jiang
-|http:*.google.*/search*%D5%C5%B5%C2%BD%AD
+|http:*.google.*search*%D5%C5%B5%C2%BD%AD
 !--Zhen Li Bu
 |http:*.google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
@@ -2187,7 +2188,7 @@ yuanming.net
 !--------------------------ZZ--------------------------
 |http://zaobao.com/
 |http://luntan.zaobao.com/
-.zaobao.com/special/china/cnpol/pages2/cnpol090729
+.zaobao.com/special/china/cnpol/pages2
 .zaobao.com/special/sitemap
 .zaobao.com.sg
 ||zaobao.com.sg
