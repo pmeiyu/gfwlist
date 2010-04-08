@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RsVGG6HAcBQbWcwWmJVrbg
+! Checksum: qIgR78Lz+Yd7giE4eisdSQ
 ! Expires: 8h
-! Last Modified:  Thu, 08 Apr 2010 12:26:16 +0800
+! Last Modified:  Thu, 08 Apr 2010 16:07:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -309,6 +309,7 @@ changkun.org
 .chatterous.com
 ||chatterous.com
 ||charlescooke.me.uk
+||cheangct.com
 chengmingmag.com
 chenjun.com
 ||chenlu.info
@@ -776,6 +777,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||mycleenr.com
 ||blog.naanstudio.com
 ||blog.nihilogic.dk
+||blog.notdot.net
 ||blog.persistent.info
 ||rapid.pk
 ||robertmao.com
@@ -1098,6 +1100,7 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 ||lifemotivations.com
 lifestream.fm
+abitno.linpie.com/use-ipv6-to-fuck-gfw
 linuxconfig.org
 lipuman.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
