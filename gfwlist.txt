@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CkxUbUBLp2KpKviYfdPqsQ
+! Checksum: m/fC1SkSvf98cw8IAOGurw
 ! Expires: 8h
-! Last Modified:  Thu, 08 Apr 2010 21:58:26 +0800
+! Last Modified:  Sat, 10 Apr 2010 00:03:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1738,6 +1738,7 @@ thepiratebay.org
 ||thesponty.com
 ||thetibetpost.com
 thevivekspot.com
+threatchaos.com
 thkphoto.com
 ||throughnightsfire.com
 .thumbzilla.com
