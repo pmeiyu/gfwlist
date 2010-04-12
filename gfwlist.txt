@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wjsnCP8DqzAWagBXZOyiIg
+! Checksum: 3yYHC3NgAS8CxeoZq/lOBw
 ! Expires: 8h
-! Last Modified:  Tue, 13 Apr 2010 02:47:38 +0800
+! Last Modified:  Tue, 13 Apr 2010 03:36:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -123,7 +123,7 @@ video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
 videoportal.aol.tw/video-detail
-ap-ch2.com
+.ap-ch2.com
 
 !-Appspot
 ||bullog4cn.appspot.com
@@ -297,6 +297,7 @@ cdpweb.org
 cdpwu.org
 .cecc.gov
 |http://cecc.gov/
+||cellulo.info
 ||cenews.eu
 ||cengkewang.com
 |http://cgiproxy.us/
@@ -439,10 +440,10 @@ daxa.cn
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
 ||dba2csv.com
-packages.debian.org*zh-cn*lenny*gpass
-||deluxetemplates.net
 de-sci.org
+packages.debian.org/zh-cn/lenny/gpass
 delicious.com/GFWbookmark
+||deluxetemplates.net
 democrats.org
 ||demogirl.com
 ||derekgooogle.com
@@ -462,7 +463,6 @@ diigo.com
 .dmm.co.jp
 ||dmpan.com
 ||dmtcs.org
-@@||douban.com
 ||dolc.de
 .dojin.com
 ||dokoda.jp
@@ -475,10 +475,11 @@ dongtaiwang.com
 ||dongtaiwang.net
 .dongyangjing.com
 .dontfilter.us
+@@||douban.com
+doubleaf.com
 dowei.org
 ||download.hr
 ||doxygen.org
-doubleaf.com
 dphk.org
 |http://www.dpp.org.tw/
 .dream2006.net
@@ -486,9 +487,8 @@ komica2.dreamhosters.com
 ||dreamquarium.com
 ||drikin.com
 ||drivingitalia.net
-|http://*dl.dropbox.com
-|http://files.getdropbox.com
 ||droidie.com
+|http://*dl.dropbox.com
 .ds-hk.net
 ||dtiblog.com
 dtiserv2.com
@@ -548,8 +548,6 @@ eyny.com
 .facebook.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
-!--facebook cdn
-||fbcdn.net
 fail.hk
 ||failforum.net
 favstar.fm/users
@@ -557,6 +555,8 @@ faydao.com
 @@i.faydao.com
 @@v.faydao.com
 fangeming.com
+||fb.me
+||fbcdn.net
 fc2.com
 video.fdbox.com
 forum*.fdzone.org
@@ -675,6 +675,7 @@ hk.geocities.com
 geocities.jp
 ||geohot.com
 getchu.com
+|http://files.getdropbox.com
 ||getjetso.com
 .getjetso.com/forum
 ||getuploader.com
@@ -722,12 +723,14 @@ docs.google.com*dgtbmwd6_934gg99v6g4
 docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
+||52wm.info
 ||blog.aegisub.org
 ||allentian.com
 ||developer.android.com
 ||pdk.android.com
 ||source.android.com
 ||appbrain.com
+||avwikipedia.com
 ||www.benjamingolub.com
 ||rss.berryreview.com
 ||www.bestwebproxy.net
@@ -763,9 +766,11 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||hogbaysoftware.com
 ||blog.joint.net
 ||blog.jsquaredjavascript.com
+||keepassdroid.com
 ||tomatovpn.keithmoyer.com
 ||www.keithmoyer.com
 ||blog.kengao.tw
+||usbloadergx.koureio.net
 ||blog.kowalczyk.info
 ||www.kunalanand.com
 ||feeds.limi.net
@@ -783,6 +788,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.persistent.info
 ||rapid.pk
 ||robertmao.com
+||ghs.romeo-foxtrot.com
 ||salmiyuck.com
 ||sleepingtime.org
 ||blog.seeminglee.com
@@ -820,11 +826,11 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !--Qian Shi Jin Sheng
 |http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Tan Zuo Ren
-|http:*.google.*/search*%CC%B7%D7%F7%C8%CB
+|http:*.google.*search*%CC%B7%D7%F7%C8%CB
 !--Tian An Men
 |http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
-!--Tu Po
-|http:*.google.com*%E7%AA%81%E7%A0%B4
+!--Wang Gang
+|http:*google*search*%E7%8E%8B%E5%88%9A
 !--Wang Xiao Ya
 |http:*.google.*q=%E7%8E%8B%E5%B0%8F%E4%B8%AB
 !--Xi Lai
@@ -997,6 +1003,7 @@ blogs.icerocket.com/tag
 imageshack.us
 ||imagevenue.com
 .imlive.com
+||incredibox.fr
 |http://www.inmediahk.net/
 ||interfaceaddiction.com
 internetfreedom.org
@@ -1053,6 +1060,7 @@ justsoit.com
 .jyxf.net
 
 !--------------------------KK--------------------------
+||ka-wai.com
 .kagyuoffice.org.tw
 ||kagyuoffice.org.tw
 karayou.com
@@ -1135,6 +1143,7 @@ livejasmin.com
 ||livevideo.com
 .livevideo.com
 ||locafollow.com
+||localhostr.com
 ||logmike.com
 .longhair.hk
 ||longtermly.net
@@ -1380,6 +1389,7 @@ penchinese.com
 ||blog.pentalogic.net
 .penthouse.com
 ||feeds.people.com
+||petapixel.com
 philly.com
 ||photou.in
 .picidae.net
@@ -1409,11 +1419,13 @@ plurk.com
 ||podictionary.com
 .pokerstars.com
 ||pokerstars.com
+||popularpages.net
 .popyard.com
 ||popyard.org
 .porn.com
 .porn2.com
 .pornbase.org
+.pornhub.com
 .pornrapidshare.com
 ||pornrapidshare.com
 .porntube.com
@@ -1525,7 +1537,6 @@ revver.com
 ||b.rimg.com.tw
 ||c.rimg.com.tw
 robtex.com
-||ghs.romeo-foxtrot.com
 ||ronjoneswriter.com
 .roodo.com
 ||roosong.cn
@@ -1703,6 +1714,7 @@ support/youtube/bin/request.py?contact_type=abuse&
 ||sweux.com
 ||syncback.com
 sysresccd.org
+.sytes.net
 blog.syx86.com/2009/09/puff
 blog.syx86.cn/2009/09/puff
 .szbbs.net
@@ -1740,6 +1752,7 @@ thepiratebay.org
 ||thesponty.com
 ||thetibetpost.com
 thevivekspot.com
+threatchaos.com
 thkphoto.com
 ||throughnightsfire.com
 .thumbzilla.com
@@ -1810,6 +1823,7 @@ bbs.tuitui.info
 
 !-------------Tumblr-----
 ||301works.org
+||365singles.com.ar
 ||news.atebits.com
 ||tumblr.awflasher.com
 ||blog.couch.io
@@ -1818,6 +1832,7 @@ bbs.tuitui.info
 ||drewolanoff.com
 ||chaos.e-spacy.com
 ||tumblr.fenglu.name
+||blog.foursquare.com
 ||fuckgfw.com
 ||gfw.org.ua
 ||blog.hexxeh.net
@@ -1962,6 +1977,7 @@ earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||uyghurcongress.org
 
 !--------------------------VV--------------------------
+||value-domain.com
 .vanemu.cn
 .vanilla-jp.com
 ||vapurl.com
@@ -2158,11 +2174,13 @@ news.yam.com
 yeeyi.com
 .yfrog.com
 ||yfrog.com
+||yfrog.us
 .yi.org
 .yidio.com
 ||yidio.com
 ||yihanfans.org
 yilubbs.com
+||yimg.com
 .yogichen.org
 ||yogichen.org
 yong.hu
