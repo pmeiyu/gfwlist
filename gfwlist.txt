@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: aXytQLj4KsGZNak40kZg5A
+! Checksum: wjsnCP8DqzAWagBXZOyiIg
 ! Expires: 8h
-! Last Modified:  Tue, 13 Apr 2010 01:28:39 +0800
+! Last Modified:  Tue, 13 Apr 2010 02:47:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -745,6 +745,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||s.evernote.com
 ||evhead.com
 ||fatvat.co.uk
+||fdcn.org
 ||feedego.com
 ||fftogo.com
 ||mclee.foolme.net
