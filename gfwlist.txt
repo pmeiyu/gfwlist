@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nfrAcb4Ug5Cl2aJQ7yTv/g
+! Checksum: dtHe4w5UwI37XHNX7ok8Fg
 ! Expires: 8h
-! Last Modified:  Tue, 13 Apr 2010 17:54:25 +0800
+! Last Modified:  Tue, 13 Apr 2010 19:19:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -111,7 +111,7 @@ alliance.org.hk
 .amoiist.com
 .anchorfree.com
 ||anchorfree.com
-||anda.pk
+||anda.pk/
 ||angel.hk
 .anonymizer.com
 anonymouse.org
@@ -463,7 +463,7 @@ diigo.com
 .dmm.co.jp
 ||dmpan.com
 ||dmtcs.org
-||dolc.de
+||dolc.de/
 .dojin.com
 ||dokoda.jp
 .domai.com
@@ -1353,7 +1353,7 @@ otweets.com
 .oursogo.com
 |http://oursogo.com
 ||overstimulate.com
-||ovh.net
+||ovh.net/
 share.ovi.com/media
 |http://www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
@@ -1642,7 +1642,7 @@ news.singtao.ca
 ||sitemaps.org
 sitetag.us
 @@||sixxs.org
-||sjum.cn
+||sjum.cn/
 ||skimtube.com
 ||skulpt.org
 ||skydur.com
@@ -2124,7 +2124,7 @@ abigale1.xanga.com
 ||xbookcn.com
 x.xcity.jp
 .xcritic.com
-||xesh.tk
+||xesh.tk/
 destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
 xh4n.cn/blog
@@ -2188,7 +2188,7 @@ forum.yorkbbs.ca
 !-------------yo2-----
 ||yo2.cn
 ||yo2cdn.com
-||thws.cn
+||thws.cn/
 .youjizz.com
 ||youjizz.com
 youmaker.com
