@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QyAEtQoS46IaL+3AMVDnaQ
+! Checksum: HYS+tgcrHndVYBX8y30XTQ
 ! Expires: 8h
-! Last Modified:  Tue, 13 Apr 2010 20:22:05 +0800
+! Last Modified:  Wed, 14 Apr 2010 00:59:23 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -832,7 +832,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !--Qian Shi Jin Sheng
 |http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Tan Zuo Ren
-|http:*.google.*search*%CC%B7%D7%F7%C8%CB
+|http:*.google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men
 |http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Wang Gang
@@ -844,7 +844,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhang De Jiang
-|http:*.google.*search*%D5%C5%B5%C2%BD%AD
+|http:*.google.*search*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhen Li Bu
 |http:*.google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
