@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3yYHC3NgAS8CxeoZq/lOBw
+! Checksum: nfrAcb4Ug5Cl2aJQ7yTv/g
 ! Expires: 8h
-! Last Modified:  Tue, 13 Apr 2010 03:36:38 +0800
+! Last Modified:  Tue, 13 Apr 2010 17:54:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -707,9 +707,9 @@ grandtrial.org
 
 !-------------Google Code-----
 |http://code.google.com/p/cngepi/downloads
-code.google.com*p*gappproxy
-code.google.com*p*autoproxy*updates*list
-code.google.com/p/program-think/wiki/Software
+|http:*code.google.com/p/gappproxy
+|http:*code.google.com/p/autoproxy/updates/list
+|http:*code.google.com/p/program-think/wiki/Software
 
 !-------------Google Docs-----
 |https://docs.google.com
