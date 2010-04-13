@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: noDIJKA21NEX6WSNmsM/0A
+! Checksum: QyAEtQoS46IaL+3AMVDnaQ
 ! Expires: 8h
-! Last Modified:  Tue, 13 Apr 2010 20:19:49 +0800
+! Last Modified:  Tue, 13 Apr 2010 20:22:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -15,6 +15,7 @@
 ||1688.com.au
 .1688.com.au/site1
 173ng.com
+.18aol.com
 .18kin.com
 .18p2p.com
 .1bao.org
@@ -126,16 +127,14 @@ videoportal.aol.tw/video-detail
 .ap-ch2.com
 
 !-Appspot
-||bullog4cn.appspot.com
-||free4internet.appspot.com
-||gfw.appspot.com
-||meme2028.appspot.com
-||mickeywaley.appspot.com
-||roxypy.appspot.com
-||twitese.appspot.com
+bullog4cn.appspot.com
+/^https?:\/\/[^\/]+free4internetdd\.appspot\.com/
+gfw.appspot.com
+meme2028.appspot.com
+twitese.appspot.com
+twitter-mirror.appspot.com
 twittergadget.appspot.com
-||wenbingintwitter.appspot.com
-/^https:\/\/(?:\w|-)+\.appspot\.com/
+/^https:\/\/[^\/]+\.appspot\.com/
 
 .archive.org
 ||archive.org
@@ -157,6 +156,7 @@ asianude4u.com
 ||atnext.com
 @@|https://autoproxy.org/
 .aventertainments.com
+||avidemux.org
 .avno1.com
 .avno3.com
 ||avoision.com
@@ -334,6 +334,7 @@ chinainperspective.net/ArtShow.aspx?
 chinainperspective.net%2FArtShow.aspx%3F
 .chinainperspective.org
 ||chinainperspective.org
+||chinainterimgov.org
 .chinamule.com
 ||chinamule.com
 ||chinaphile.com
@@ -551,11 +552,13 @@ eyny.com
 /^https?:\/\/[^\/]+facebook\.com/
 fail.hk
 ||failforum.net
+fanfou.im
+/^https?:\/\/[^\/]+fanfou\.im/
+fangeming.com
 favstar.fm/users
 faydao.com
 @@i.faydao.com
 @@v.faydao.com
-fangeming.com
 ||fb.me
 ||fbcdn.net
 fc2.com
@@ -741,6 +744,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 @@||build.chromium.org
 ||myc.cnkk.org
 ||rss.cnn.com
+||debugmode.com
 ||feeds.digg.com
 ||mail.diyang.org
 ||blog.doughellmann.com
@@ -755,7 +759,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||mclee.foolme.net
 ||freeholidaywifi.com
 ||www.frienddeck.com
-!--http://blog.friendfeed.com
 ||blog.gatein.org
 ||feeds.gawker.com
 ||gmer.net
@@ -767,6 +770,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||hogbaysoftware.com
 ||blog.joint.net
 ||blog.jsquaredjavascript.com
+||blog.jtbworld.com
 ||keepassdroid.com
 ||tomatovpn.keithmoyer.com
 ||www.keithmoyer.com
@@ -796,6 +800,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||rss.slashdot.org
 ||snsanalytics.com
 ||socialwhois.com
+||tagxedo.com
 ||www.techfob.com
 ||thecloudplayer.com
 ||blog.thesilentnumber.me
@@ -909,6 +914,7 @@ h1n1china.org
 ||hackthatphone.net
 ||hakkatv.org.tw
 ||haoren.com
+||hasaowall.com
 hbo.com/docs/*/china
 .hdzone.org
 |http://www.heartyit.com/
@@ -1012,6 +1018,7 @@ internetfreedom.org
 ||iphonehacks.com
 ||ipicture.ru
 ipobar.com
+||ironicsoftware.com
 is.gd/1VO1f
 is.gd/1VOp7
 .beta.iset.com.tw/forum
@@ -1037,6 +1044,7 @@ yy.iyatou.com/archives/1042
 
 !--------------------------JJ--------------------------
 blog.jackjia.com
+||jamessenior.com
 ||japanesebeauties.net
 .jaylee.cn/firefox-tor-torbutton
 ||jdev.tw/
@@ -1299,17 +1307,9 @@ tw*.nextmedia.com
 ngensis.com
 ||ngs2.info
 tw.nicovideo.jp
+nicovideo.tw
 ||nidaye.org
 homepage2.nifty.com
-!--||ning.com
-!--@@||api.ning.com
-!--@@||blog.ning.com
-!--@@||creators.ning.com
-!--@@||developer.ning.com
-!--@@||help.ning.com
-!--@@||jobs.ning.com
-!--@@||static.ning.com
-!--@@||www.ning.com
 no-ip.com
 ||nokola.com
 ||noobbox.com
@@ -1348,6 +1348,7 @@ open.com.hk
 opera.com/mini
 my.opera.com
 www.orchidbbs.com
+||orn.jp
 .orzistic.org
 ||orzistic.org
 otweets.com
@@ -1678,8 +1679,8 @@ sneakme.net
 gmail-remote-command.en.softonic.com
 blog.sogoo.org
 sokamonline.com
-||songjiajun.com
-.songjiajun.com
+.songjianjun.com
+||songjianjun.com
 |http://www.songza.com/
 |http://songza.com/
 .sopcast.com
@@ -1853,6 +1854,7 @@ bbs.tuitui.info
 ||tomsc.com
 ||blog.topify.com
 ||blog.tr.im
+||tumblweed.org
 ||status.twhirl.org
 !-||status.twitter.com
 ||photo.utom.us
@@ -1967,6 +1969,7 @@ tor.updatestar.com
 .upload4u.info
 ||uploader.jp
 |http://myshare.url.com.tw/
+||urlborg.com
 ||usacn.com
 |http://www.cafc.uscourts.gov/
 earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
