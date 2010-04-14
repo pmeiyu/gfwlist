@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kf9YusAgh/UcpWb34YqekQ
+! Checksum: Eya4wZHzUzl7QKN3Qe2V6Q
 ! Expires: 8h
-! Last Modified:  Wed, 14 Apr 2010 15:11:36 +0800
+! Last Modified:  Wed, 14 Apr 2010 15:33:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1918,6 +1918,7 @@ twitreferral.com
 !--IP of Twitter
 128.121.146.228
 twittercounter.com
+||twitterfeed.com
 |http:*twitterfeed.com
 .twittergadget.com
 ||twittergadget.com
