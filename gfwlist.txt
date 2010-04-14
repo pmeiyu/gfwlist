@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Eya4wZHzUzl7QKN3Qe2V6Q
+! Checksum: 8Dk1VvMt1cE6LRhT4GhJyw
 ! Expires: 8h
-! Last Modified:  Wed, 14 Apr 2010 15:33:15 +0800
+! Last Modified:  Wed, 14 Apr 2010 20:10:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -347,6 +347,7 @@ life.chinatimes.com/2009Cti/Channel
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 news.chinatimes.com/2007Cti/2007Cti-News/2007Cti-News-Content/0,4521,130505
 chinaway.org
+.chinayuanmin.org
 .chinese-hermit.net
 ||chinese-hermit.net
 .chinesen.de
@@ -1340,6 +1341,7 @@ omgili.com
 omnitalk.
 ||on.cc^
 ||onebigfluke.com
+||caterpillar.onlyfun.net
 .oopsforum.com
 ooosee.com/fuckgfw
 ||ooosee.com
@@ -2130,6 +2132,7 @@ abigale1.xanga.com
 ||xbookcn.com
 x.xcity.jp
 .xcritic.com
+||xdelta.org
 ||xesh.tk/
 destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
@@ -2490,6 +2493,8 @@ zh.wikipedia.org*%C8%BC%C9%D5%C6%BF
 zh.wikipedia.org*%E7%87%83%E7%83%A7%E7%93%B6
 !--Re Bi Ya
 zh.wikipedia.org*%E7%83%AD%E6%AF%94%E5%A8%85
+!--San Nian Zi Ran Zai Hai
+zh.wikipedia.org*%E4%B8%89%E5%B9%B4%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3
 !--Sheng Xiong Gan Di
 zh.wikipedia.org*%E5%9C%A3%E9%9B%84%E7%94%98%E5%9C%B0
 !--Shi Tao
