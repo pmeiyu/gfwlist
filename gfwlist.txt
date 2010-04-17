@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: m3U7Ck/be1fduY/GZTg/kA
+! Checksum: 344QUcY7DobL0ZOMAtATBw
 ! Expires: 8h
-! Last Modified:  Sat, 17 Apr 2010 22:54:37 +0800
+! Last Modified:  Sat, 17 Apr 2010 23:02:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -25,7 +25,6 @@
 .2008xianzhang.info
 205.209.177.79
 ||2dmoe.com
-||2photo.ru
 .2tips.com
 .36rain.com
 ||36rain.com
@@ -126,6 +125,7 @@ video.aol.com
 ||video.aol.com
 videoportal.aol.tw/video-detail
 .ap-ch2.com
+||apirocks.com
 
 !-Appspot
 bullog4cn.appspot.com
@@ -603,6 +603,7 @@ fleshbot.com
 www.forum4hk.com
 ||fotop.net
 .free.fr/adsl
+||dimitrik.free.fr
 kineox.free.fr
 .freewebhostx.com
 ||firestorage.jp
@@ -765,6 +766,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||mclee.foolme.net
 ||freeholidaywifi.com
 ||www.frienddeck.com
+||funpea.com
 ||blog.gatein.org
 ||feeds.gawker.com
 ||gmer.net
@@ -913,6 +915,7 @@ gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gtkforums.com
 ||gutteruncensored.com
+||gzone-anime.info
 
 !--------------------------HH--------------------------
 h1n1china.org
@@ -1237,6 +1240,7 @@ plurktop.mmdays.com
 ||mobatek.net
 ||mobile01.com
 .mofosex.com
+.momimi.us
 ||morningsun.org
 ||movabletype.com
 |http://www.moztw.org
@@ -1314,6 +1318,7 @@ tw*.nextmedia.com
 ||nexton-net.jp
 ngensis.com
 ||ngs2.info
+||nic.cz.cc
 tw.nicovideo.jp
 nicovideo.tw
 ||nidaye.org
@@ -1739,6 +1744,7 @@ blog.syx86.cn/2009/09/puff
 .taiwandaily.net
 ||taiwantt.org.tw
 ||taiwandaily.net
+||talbenshahar.com
 tangben.com
 .taolun.info
 ||taolun.info
@@ -2146,6 +2152,7 @@ destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
 xh4n.cn/blog
 xhamster.com
+one.xthost.info
 ||xiaoma.org
 .xinmiao.com.hk
 ||xinmiao.com.hk
