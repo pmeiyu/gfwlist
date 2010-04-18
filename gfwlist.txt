@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 344QUcY7DobL0ZOMAtATBw
+! Checksum: 5gCG9K9ZH5B+REsyz0ygSA
 ! Expires: 8h
-! Last Modified:  Sat, 17 Apr 2010 23:02:58 +0800
+! Last Modified: Sun, 18 Apr 2010 16:08:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1824,6 +1824,7 @@ touch99.com
 truth101.co.tv/post
 .truveo.com
 ts60.com
+@@ts60.com
 .tsemtulku.com
 tsquare.tv
 ||tt1069.net
