@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0PTxqxzP4uBlSQ3rjU0HOQ
+! Checksum: Dcfx18QirI+33WS6ZuAnjA
 ! Expires: 8h
-! Last Modified: Mon, 19 Apr 2010 00:45:33 +0800
+! Last Modified: Mon, 19 Apr 2010 02:07:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1984,7 +1984,6 @@ uncyclomedia.org
 ||uncyclopedia.info
 ||uncyclopedia.tw
 .uni.cc
-|http://unifoundry.com/
 .uniteddaily.com.my/index.php?
 |http://www.unknownspace.org/
 ||uocn.org
