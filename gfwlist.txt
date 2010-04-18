@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FmHxq9Y/yPtHlSpq8wa4FQ
+! Checksum: 0xazgpoZ+FXDrtmidLV4qw
 ! Expires: 8h
-! Last Modified: Sun, 18 Apr 2010 23:20:04 +0800
+! Last Modified: Sun, 18 Apr 2010 23:21:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -210,7 +210,6 @@ bjlzfz.com
 ||blackra1n.com
 tor.blingblingsquad.net
 .blip.tv
-/blip.tv
 .blogcatalog.com
 ||blogcatalog.com
 |http://*blogger.com
