@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FcxoABrJmJLlmCC8lOi8lw
+! Checksum: FmHxq9Y/yPtHlSpq8wa4FQ
 ! Expires: 8h
-! Last Modified: Sun, 18 Apr 2010 22:38:13 +0900
+! Last Modified: Sun, 18 Apr 2010 23:20:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2084,8 +2084,6 @@ zh.uncyclopedia.wikia.com
 @@||secure.wikileaks.org
 ||wikimedia.org.mo
 ||willw.net
-!-WikiLeaks IP
-*/88.80.13.160/*
 ||wikimapia.org
 ||secure.wikimedia.org
 ||wiredpen.com
