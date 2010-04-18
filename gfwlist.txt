@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Xy83E+gkGHpgt48TXvJBDA
+! Checksum: 0PTxqxzP4uBlSQ3rjU0HOQ
 ! Expires: 8h
-! Last Modified: 一, 19  4月 2010 00:12:28 +0800
+! Last Modified: Mon, 19 Apr 2010 00:45:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1757,6 +1757,7 @@ tcno.net*doc*tor
 .teashark.com/download.html
 technorati.com
 ||teck.in/
+||tek-tips.com
 telecomspace.com
 ||the-bowser.com
 ||theappleblog.com
