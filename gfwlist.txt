@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Dcfx18QirI+33WS6ZuAnjA
+! Checksum: 6T1T+5TjWlHOrpm6oxSG4Q
 ! Expires: 8h
-! Last Modified: Mon, 19 Apr 2010 02:07:02 +0800
+! Last Modified: Tue, 20 Apr 2010 20:17:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1953,7 +1953,6 @@ twitthat.com
 .twitvid.com
 |http://twitvid.com
 .twitzap.com
-/twitzap.com
 twiyia.com
 ||twohungrydudes.com
 .twreg.info
@@ -2116,17 +2115,6 @@ china.blogs.time.com
 ||blog.tinypic.com
 ||blog.wakoopa.com
 ||wattsupwiththat.com
-||wordpress.com
-@@|http://wordpress.com
-@@|http://www.wordpress.com
-@@|http://en.wordpress.com
-@@||files.wordpress.com
-@@|http://s.wordpress.com/wp-content
-@@|http://s1.wordpress.com
-@@|http://s2.wordpress.com
-@@|http://s3.wordpress.com
-@@||stats.wordpress.com
-||xijie.wordpress.com
 zh-cn.wordpress.com
 ||wp.com
 
