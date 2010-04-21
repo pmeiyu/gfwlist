@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6T1T+5TjWlHOrpm6oxSG4Q
+! Checksum: FRdjkIDaDEMC4QCzL6Pjmg
 ! Expires: 8h
-! Last Modified: Tue, 20 Apr 2010 20:17:28 +0800
+! Last Modified: Wed, 21 Apr 2010 22:29:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -19,11 +19,13 @@
 .18kin.com
 .18p2p.com
 .1bao.org
+||1free.ws
 .1pondo.tv
 ||1pondo.tv
 2000fun.com/bbs
 .2008xianzhang.info
 205.209.177.79
+||20x.cc
 ||2dmoe.com
 .2tips.com
 .36rain.com
@@ -91,6 +93,7 @@ adultfriendfinder.com
 aisex.com
 blog.aiweiwei.com
 ||blog.aiweiwei.com
+||ajsands.com
 .akiba-online.com/forum/index.php
 ||alabout.com
 aladding.com
@@ -195,6 +198,7 @@ beijingspring.com
 ||berlintwitterwall.com
 bestforchina.org
 bet365.com
+||bfsh.hk
 ||biblegateway.com
 bignews.org
 .bigsound.org/portnoy
@@ -221,6 +225,7 @@ blogimg.jp
 rconversation.blogs.com
 ||blogtd.net
 blogtd.org
+.bloomberg.com*pid=20601087
 ||bnrmetal.com
 ||bobchao.net
 boltbrowser.com*download
@@ -229,6 +234,7 @@ bomb.tv
 ||books.com.tw
 .bot.nu
 .bravoteens.com
+.briefdream.com/%E7%B4%A0%E6%A3%BA
 briian.com
 brightkite.com
 bspon.com
@@ -558,6 +564,7 @@ fail.hk
 fanfou.im
 /^https?:\/\/[^\/]+fanfou\.im/
 fangeming.com
+.farwestchina.com
 favstar.fm/users
 faydao.com
 @@i.faydao.com
@@ -599,6 +606,7 @@ fleshbot.com
 
 .fling.com
 ||tradinggoddess.comyuming.flnet.org
+||fooledbyrandomness.com
 www.forum4hk.com
 ||fotop.net
 .free.fr/adsl
@@ -779,6 +787,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.joint.net
 ||blog.jsquaredjavascript.com
 ||blog.jtbworld.com
+||kathyschwalbe.com
 ||keepassdroid.com
 ||tomatovpn.keithmoyer.com
 ||www.keithmoyer.com
@@ -831,6 +840,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 |http:*.google.*gfw
 !--Jin Tao
 |http:*.google.*/search*%E9%94%A6%E6%B6%9B
+!--Lu Xi
+.google.*%E9%B2%81%E6%98%95
 !--Meng Ying Wei Ming Hu
 |http:*.google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
 !--Na Mi Bi Ya
@@ -1070,6 +1081,7 @@ jinn.li
 ac.jiruan.net
 .jizzhut.com
 ||jkforum.net
+||jobso.tv
 ||journalofdemocracy.org
 .jp-sex.com
 ||wiki.js-kit.com
@@ -1513,6 +1525,7 @@ bbs.qmzdd.com
 ||qmzdd.com
 ||qoos.com
 blog.qooza.hk*dafengqixi
+||qstatus.com
 |http://www.quarterlife.com
 |http://quke.cn
 qusi8.net
@@ -1689,6 +1702,7 @@ forum.slime.com.tw
 @@||static.soup.io
 .slinkset.com
 sneakme.net
+||sns.ly
 .sobees.com
 ||sobees.com
 ||soft-artemis.com
@@ -1756,6 +1770,7 @@ tcno.net*doc*tor
 ||teamseesmic.com
 .teashark.com/download.html
 technorati.com
+||techparaiso.com
 ||teck.in/
 ||tek-tips.com
 telecomspace.com
@@ -1825,6 +1840,7 @@ touch99.com
 @@||www.tripod.com
 ||trustedbi.com
 truth101.co.tv/post
+||truthcn.com
 .truveo.com
 ts60.com
 @@ts60.com
@@ -2080,10 +2096,11 @@ zh.uncyclopedia.wikia.com
 ||wikiwiki.jp
 ||wikileaks.org
 @@||secure.wikileaks.org
-||wikimedia.org.mo
-||willw.net
 ||wikimapia.org
 ||secure.wikimedia.org
+||wikimedia.org.mo
+||willw.net
+||windowsphoneme.com
 ||wiredpen.com
 .wo.tc
 ||woeser.com
@@ -2119,6 +2136,7 @@ zh-cn.wordpress.com
 ||wp.com
 
 ||wormsculptor.com
+||tw.wowarmory.com
 |http://wp.me/
 .wpoforum.com
 ||wpoforum.com
@@ -2455,6 +2473,8 @@ zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
 zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
 !--Li Hong Zhi
 zh.wikipedia.org*%E6%9D%8E%E6%B4%AA%E5%BF%97
+!--Li Ke Qiang
+zh.wikipedia.org*%E6%9D%8E%E5%85%8B%E5%BC%BA
 !--Li Peng
 zh.wikipedia.org*%C0%EE%C5%F4
 zh.wikipedia.org*%E6%9D%8E%E9%B9%8F
