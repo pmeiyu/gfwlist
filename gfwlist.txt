@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FRdjkIDaDEMC4QCzL6Pjmg
+! Checksum: mUkj4e+s2nFh5DK8pnKhgA
 ! Expires: 8h
-! Last Modified: Wed, 21 Apr 2010 22:29:41 +0800
+! Last Modified: Wed, 21 Apr 2010 23:37:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -189,6 +189,7 @@ http:*newsforums.bbc.co.uk
 bbsland.com
 www.bcc.com.tw/board
 blog.bcchinese.net
+.bdsm.com.tw
 .bebo.com
 ||bebo.com
 ||beginlinux.com
