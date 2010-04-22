@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mUkj4e+s2nFh5DK8pnKhgA
+! Checksum: wCWs6ZzuoYBW3ZHNRsDxDA
 ! Expires: 8h
-! Last Modified: Wed, 21 Apr 2010 23:37:17 +0800
+! Last Modified: Thu, 22 Apr 2010 23:28:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -696,6 +696,7 @@ getchu.com
 ||getjetso.com
 .getjetso.com/forum
 ||getuploader.com
+||getyouram.com
 .ginx.com
 |http://ginx.com
 .girlsgonewild.com
@@ -822,10 +823,12 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.techfob.com
 ||thecloudplayer.com
 ||blog.thesilentnumber.me
+||twazzup.com
 ||txt.io
 ||ub0.cc
 ||tp.vbap.com.au
 ||www.wavesandbox.com
+||whatbrowser.org
 ||willhains.com
 
 !-------------Google Search-----
@@ -1010,6 +1013,7 @@ huitter.com
 !--------------------------II--------------------------
 |http://board.i-cable.com
 |http://cablenews.i-cable.com
+.iasiaweekly.com
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 blogs.icerocket.com/tag
@@ -1510,6 +1514,7 @@ proxyroad.com
 prozz.net
 psiphon.ca
 |http://www.ptt.cc/
+.puffstore.com
 ||pureconcepts.net
 ||purepdf.com
 pwned.com
@@ -1527,6 +1532,7 @@ bbs.qmzdd.com
 ||qoos.com
 blog.qooza.hk*dafengqixi
 ||qstatus.com
+||quadedge.com
 |http://www.quarterlife.com
 |http://quke.cn
 qusi8.net
@@ -1993,6 +1999,7 @@ paper.udn.com
 video.udn.com
 .ueuo.com
 uighurbiz.net
+.ulike.net
 ||ultrawebsitehosting.com
 ultraxs.com
 uncyclomedia.org
@@ -2596,6 +2603,8 @@ zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
 !--Yang Jia Xi Jing An
 zh.wikipedia.org*%E6%9D%A8%E4%BD%B3%E8%A2%AD%E8%AD%A6%E6%A1%88
+!--Yi Li Shen
+zh.wikipedia.org*%E8%9A%81%E5%8A%9B%E7%A5%9E
 !--Yong He Gong
 zh.wikipedia.org*%E9%9B%8D%E5%92%8C%E5%AE%AB
 !--You Ling Wang
