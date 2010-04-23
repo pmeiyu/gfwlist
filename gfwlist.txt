@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wCWs6ZzuoYBW3ZHNRsDxDA
+! Checksum: OA6R/Y6TWp+ckYckjRstTQ
 ! Expires: 8h
-! Last Modified: Thu, 22 Apr 2010 23:28:39 +0800
+! Last Modified: Sat, 24 Apr 2010 00:57:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1862,6 +1862,7 @@ tube8.com
 tuidang.net
 .tuite.de
 ||tuite.de
+.tuite.im
 bbs.tuitui.info
 ||turningtorso.com
 ||tuxmachines.org
