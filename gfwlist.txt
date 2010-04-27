@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OA6R/Y6TWp+ckYckjRstTQ
+! Checksum: 2nqS1xC7LWdZV6vlDK6YDA
 ! Expires: 8h
-! Last Modified: Sat, 24 Apr 2010 00:57:18 +0800
+! Last Modified: Tue, 27 Apr 2010 18:09:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -22,6 +22,9 @@
 ||1free.ws
 .1pondo.tv
 ||1pondo.tv
+|http:*1yu.cn
+@@||1yu.cn
+@@||51yu.cn
 2000fun.com/bbs
 .2008xianzhang.info
 205.209.177.79
