@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2nqS1xC7LWdZV6vlDK6YDA
+! Checksum: TDTloc2VKakTbIDc3/9t2Q
 ! Expires: 8h
-! Last Modified: Tue, 27 Apr 2010 18:09:27 +0800
+! Last Modified: Tue, 27 Apr 2010 18:24:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -22,7 +22,8 @@
 ||1free.ws
 .1pondo.tv
 ||1pondo.tv
-|http:*1yu.cn
+!--following rule is temporarily disabled due to issue #110
+!--|http:*1yu.cn
 @@||1yu.cn
 @@||51yu.cn
 2000fun.com/bbs
@@ -1852,8 +1853,9 @@ touch99.com
 truth101.co.tv/post
 ||truthcn.com
 .truveo.com
-ts60.com
-@@ts60.com
+!--following rule is temporarily disabled due to issue #110
+!--|http:*ts60.com
+@@||ts60.com
 .tsemtulku.com
 tsquare.tv
 ||tt1069.net
