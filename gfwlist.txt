@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JCNnJDmR/5TAS4k1ongPJA
+! Checksum: aXTQJthZjUPO7r7+3rEdNQ
 ! Expires: 8h
-! Last Modified: Tue, 27 Apr 2010 18:31:31 +0800
+! Last Modified: Wed, 28 Apr 2010 16:38:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -846,6 +846,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 |http:*.google.*gfw
+!--Ji Zhe Wu Jiang Jie
+|http:*.google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
 !--Jin Tao
 |http:*.google.*/search*%E9%94%A6%E6%B6%9B
 !--Lu Xi
