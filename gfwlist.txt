@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: y35KMKXarfP3yeFk80Kx7Q
+! Checksum: TF4r8ZZo9o1TvaYOKp0+9w
 ! Expires: 8h
-! Last Modified: Wed, 28 Apr 2010 22:49:49 +0800
+! Last Modified: Sat, 01 May 2010 21:34:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -660,6 +660,7 @@ fulue.com
 .funny-games.biz
 funp.com
 .futurechinaforum.org
+||futuremessage.org
 ||fzh999.net
 
 !--------------------------GG--------------------------
@@ -1875,6 +1876,11 @@ bbs.tuitui.info
 ||tuxmachines.org
 
 !-------------Tumblr-----
+||tumblr.com
+@@||assets.tumblr.com
+@@||data.tumblr.com
+@@||media.tumblr.com
+@@||static.tumblr.com
 ||301works.org
 ||365singles.com.ar
 ||news.atebits.com
@@ -1882,13 +1888,15 @@ bbs.tuitui.info
 ||blog.couch.io
 !-||blog.bit.ly
 ||cubicle17.com
+||davidkaneda.com
 ||drewolanoff.com
 ||chaos.e-spacy.com
+||eyespirit.info
 ||tumblr.fenglu.name
 ||blog.foursquare.com
 ||fredwilson.vc
 ||fuckgfw.com
-||gfw.org.ua
+||news.ghostery.com
 ||blog.hexxeh.net
 ||blog.instapaper.com
 ||blog.iphone-dev.org
@@ -1910,7 +1918,9 @@ bbs.tuitui.info
 ||status.twhirl.org
 !-||status.twitter.com
 ||photo.utom.us
+||wordboner.com
 ||bd.zhe.la
+||tumblr.zhe.la
 ||cocoa.zonble.net
 
 ||tv-intros.com
