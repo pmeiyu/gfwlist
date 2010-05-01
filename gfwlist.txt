@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wBfSlYC9ecTWKm026q9TOQ
+! Checksum: Se2Ta2Wn8nkUot2oZ8rKag
 ! Expires: 8h
-! Last Modified: Sat, 01 May 2010 22:02:58 +0800
+! Last Modified: Sat, 01 May 2010 22:10:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1917,6 +1917,7 @@ bbs.tuitui.info
 ||chaos.e-spacy.com
 ||eyespirit.info
 ||tumblr.fenglu.name
+||ialmostlaugh.com
 ||life.fly4ever.me
 ||blog.foursquare.com
 ||fredwilson.vc
@@ -1936,6 +1937,7 @@ bbs.tuitui.info
 ||minimalmac.com
 ||blog.opentumblr.com
 ||blogs.thws.cn
+||thisiswhyyouarefat.com
 ||tomsc.com
 ||blog.topify.com
 ||blog.tr.im
