@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TF4r8ZZo9o1TvaYOKp0+9w
+! Checksum: wBfSlYC9ecTWKm026q9TOQ
 ! Expires: 8h
-! Last Modified: Sat, 01 May 2010 21:34:03 +0800
+! Last Modified: Sat, 01 May 2010 22:02:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -22,6 +22,7 @@
 ||1free.ws
 .1pondo.tv
 ||1pondo.tv
+bbs.1tor.com
 !--following rule is temporarily disabled due to issue #110
 !--|http:*1yu.cn
 @@||1yu.cn/
@@ -138,7 +139,9 @@ videoportal.aol.tw/video-detail
 bullog4cn.appspot.com
 /^https?:\/\/[^\/]+free4internetdd\.appspot\.com/
 gfw.appspot.com
+go2china8.appspot.com
 meme2028.appspot.com
+nest.appspot.com
 twitese.appspot.com
 twitter-mirror.appspot.com
 twittergadget.appspot.com
@@ -410,6 +413,8 @@ copytaste.com
 crackle.com
 crd-net.org
 creaders.net
+||crossthewall.net
+.crossthewall.net
 ||csuchen.de
 ||ctvro.com
 .cuhkacs.org*~benng
@@ -438,6 +443,8 @@ forum.cyberctm.com/forum
 |http://*t.orzdream.com
 |http://*m.oulove.org
 
+||dadi360.com
+.dadi360.com
 .daigou.in
 ||photos.dailyme.com
 .dailymotion.com
@@ -457,6 +464,7 @@ cn.dayabook.com
 ||dba2csv.com
 de-sci.org
 packages.debian.org/zh-cn/lenny/gpass
+||debugbar.com
 delicious.com/GFWbookmark
 ||deluxetemplates.net
 democrats.org
@@ -540,11 +548,12 @@ edoors.com
 .edubridge.com/erxiantang/library
 ||eevpn.com
 ||tor.eff.org
+||efixusers.org
 ||egamia.com
 ||eic-av.com
 ||elisabethkublerross.com
 .elog-ch.net
-eltondisney.com
+http://*eltondisney.com
 ||emacsblog.org
 .emodao.com
 ||empflix.com
@@ -592,6 +601,7 @@ http://ff.im
 .fgmtv.org
 .fileden.com
 |http://fileden.com
+.filespump.compw
 ||filestube.com
 fillthesquare.org
 findbook.tw
@@ -615,6 +625,7 @@ fleshbot.com
 www.forum4hk.com
 ||fotop.net
 .free.fr/adsl
+||allonlinux.free.fr
 ||dimitrik.free.fr
 kineox.free.fr
 .freewebhostx.com
@@ -755,6 +766,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||animeraku.com
 ||appbrain.com
 ||avwikipedia.com
+||bbleaks.com
 ||www.benjamingolub.com
 ||rss.berryreview.com
 ||www.bestwebproxy.net
@@ -790,6 +802,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.growlforwindows.com
 ||blog.headius.com
 ||hogbaysoftware.com
+||ironhelmet.com
 ||t.jiecii.com
 ||blog.joint.net
 ||blog.jsquaredjavascript.com
@@ -804,17 +817,21 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.kunalanand.com
 ||feeds.limi.net
 ||www.liteapplications.com
+||blog.liukangxu.info
 ||blog.llvm.org
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
 ||milazi.com
 ||twitter.missiu.com
+||mobicents.org
 ||feeds.mobileread.com
 ||mycleenr.com
 ||blog.naanstudio.com
 ||blog.nihilogic.dk
+||nogoodatcoding.com
 ||blog.notdot.net
 ||blog.persistent.info
+||talk.news.pts.org.tw
 ||rapid.pk
 ||robertmao.com
 ||ghs.romeo-foxtrot.com
@@ -829,8 +846,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||thecloudplayer.com
 ||blog.thesilentnumber.me
 ||twazzup.com
-||txt.io
-||ub0.cc
+|http://txt.io
+|http://ub0.cc
 ||tp.vbap.com.au
 ||www.wavesandbox.com
 ||whatbrowser.org
@@ -1011,9 +1028,9 @@ hrichina.org
 ||hsjp.net
 .huanghuagang.org
 ||huanghuagang.org
+|http://huan.in
 ||huhaitai.com
 huitter.com
-||hulu.com
 .humoron.com
 |http://www.hungerstrikeforaids.org
 
@@ -1089,7 +1106,6 @@ jieshibaobao.com
 jingpin.org/fuck-gfw-history
 .jinhai.de
 ||jinhai.de
-jinn.li
 ac.jiruan.net
 .jizzhut.com
 ||jkforum.net
@@ -1122,7 +1138,6 @@ wiki.keso.cn/Home
 .kingstone.com.tw
 .kink.com
 .kkbox.com.tw
-||knb.im
 .knowledgerush.com/kr/encyclopedia
 .kodiefiles.nl
 ||kompozer.net
@@ -1159,8 +1174,8 @@ libertytimes.com.tw
 ||lifemotivations.com
 lifestream.fm
 abitno.linpie.com/use-ipv6-to-fuck-gfw
+.linglingfa.com
 linuxconfig.org
-lipuman.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
 ||livingonline.us
 
@@ -1199,6 +1214,8 @@ livejasmin.com
 lsforum.net
 .lubetube.com
 ||lubetube.com
+||lupm.org
+.lupm.org
 
 !--------------------------MM--------------------------
 .macau-focus.com
@@ -1261,12 +1278,14 @@ mitbbs.com
 mm36c.com
 ||mmaaxx.com
 plurktop.mmdays.com
+.mmmca.com
 ||mobatek.net
 ||mobile01.com
 .mofosex.com
 .momimi.us
 ||morningsun.org
 ||movabletype.com
+||moviefap.com
 |http://www.moztw.org
 ||mp/
 @@||chi.mp/
@@ -1282,12 +1301,12 @@ msn.com.tw
 ||mthruf.com
 ||multiply.com
 forum.mymaji.com
+multiupload.com
 ||muzi.com
 ||muzi.net
 ||muzicana.uk.to
 ||www.my219.cn
 ||mybyways.net
-sidekick.myblog.hk
 ||bbs.mychat.to
 |http://www.mycould.com/
 ||myeclipseide.com
@@ -1420,6 +1439,7 @@ pbwiki.com
 |http:*forum.pchome.com.tw
 |http:*mypaper.pchome.com.tw
 |http:*news.pchome.com.tw
+.pcworld.com/downloads/file/fid,71209-order
 pdetails.com
 peacefire.org
 peacehall.com
@@ -1471,6 +1491,9 @@ plurk.com
 ||pornrapidshare.com
 .porntube.com
 postadult.com
+psblog.name
+||puffstore.com
+.puffstore.com
 
 !-------------Posterous-----
 ||holykaw.alltop.com
@@ -1574,6 +1597,7 @@ revver.com
 .rfa.org
 .rfachina.com
 |http://rfachina.com
+.rfamobile.org
 .rfi.fr
 ||rfi.fr
 .rileyguide.com
@@ -1608,6 +1632,7 @@ rti.org.tw
 ||saiq.me/
 .salvation.org.hk
 ||salvation.org.hk
+.samair.ru/proxy/type-01
 ||sandradodd.com
 .sanmin.com.tw
 savetibet.org
@@ -1716,7 +1741,7 @@ forum.slime.com.tw
 @@||static.soup.io
 .slinkset.com
 sneakme.net
-||sns.ly
+|http://sns.ly
 .sobees.com
 ||sobees.com
 ||soft-artemis.com
@@ -1774,6 +1799,7 @@ blog.syx86.cn/2009/09/puff
 .taiwandaily.net
 ||taiwantt.org.tw
 ||taiwandaily.net
+taiwan-sex.com
 ||talbenshahar.com
 tangben.com
 .taolun.info
@@ -1868,8 +1894,6 @@ bb.ttv.com.tw/bb
 .tube.com
 tube8.com
 tuidang.net
-.tuite.de
-||tuite.de
 .tuite.im
 bbs.tuitui.info
 ||turningtorso.com
@@ -1893,6 +1917,7 @@ bbs.tuitui.info
 ||chaos.e-spacy.com
 ||eyespirit.info
 ||tumblr.fenglu.name
+||life.fly4ever.me
 ||blog.foursquare.com
 ||fredwilson.vc
 ||fuckgfw.com
@@ -1930,6 +1955,8 @@ tvboxnow.com
 .gov.tw/
 .twaitter.com
 ||twaitter.com
+||twaud.io
+.twaud.io
 .twbbs.net.tw
 twbbs.org
 ||twblogger.com
@@ -2048,6 +2075,7 @@ earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 .vanemu.cn
 .vanilla-jp.com
 ||vapurl.com
+||vcf-online.org
 veoh.com
 |http://verizon.net
 |http://www.verizon.net
@@ -2065,6 +2093,7 @@ voanews.com
 .vot.org
 ||vox.com/
 www.voy.com
+||vpnworldwide.com
 
 !--------------------------WW--------------------------
 lists.w3.org/archives/public
@@ -2149,6 +2178,7 @@ worldjournal.com
 ||p2theme.com
 ||blog.pixelpipe.com
 ||blog.polldaddy.com
+||rayous.com
 ||sharpinsandiego.com
 ||smedio.com
 ||blog.symbian.org
@@ -2159,7 +2189,7 @@ china.blogs.time.com
 ||blog.wakoopa.com
 ||wattsupwiththat.com
 zh-cn.wordpress.com
-||wp.com
+|http://wp.com
 
 ||wormsculptor.com
 ||tw.wowarmory.com
@@ -2175,6 +2205,7 @@ wukangrui.net
 
 !--------------------------XX--------------------------
 x1949x.com
+x365x.com
 abigale1.xanga.com
 .xbookcn.com
 ||xbookcn.com
@@ -2201,7 +2232,6 @@ xmovies.com
 ||xnview.com
 .xnxx.com
 ||xnxx.com
-||xs.to
 xtube.com
 blog.xuite.net
 ||photo.xuite.net
@@ -2277,9 +2307,11 @@ yuanming.net
 .zaobao.com/special/sitemap
 .zaobao.com.sg
 ||zaobao.com.sg
+.zaozon.com
 www.zaurus.org.uk
 .zdnet.com.tw/news/software/0,2000085678,20111187,00
 .zengjinyan.org
+||zeutch.com
 .zhanbin.net
 ||zhanbin.net
 zhengjian.org
