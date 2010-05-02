@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Se2Ta2Wn8nkUot2oZ8rKag
+! Checksum: WEJ1gso3BnU34W2TY2T8rw
 ! Expires: 8h
-! Last Modified: Sat, 01 May 2010 22:10:03 +0800
+! Last Modified: Sun, 02 May 2010 14:07:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -601,7 +601,7 @@ http://ff.im
 .fgmtv.org
 .fileden.com
 |http://fileden.com
-.filespump.compw
+.filespump.com
 ||filestube.com
 fillthesquare.org
 findbook.tw
@@ -1894,6 +1894,8 @@ bb.ttv.com.tw/bb
 .tube.com
 tube8.com
 tuidang.net
+||tuite.de
+|http:*.tuite.de
 .tuite.im
 bbs.tuitui.info
 ||turningtorso.com
