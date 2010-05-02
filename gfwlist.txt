@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mzz2J0waIuruDRV8UcWhKQ
+! Checksum: sKrmxY6BmGLRWY2EwBBczQ
 ! Expires: 1h
-! Last Modified: Sun, 02 May 2010 14:08:03 +0800
+! Last Modified: Sun, 02 May 2010 14:55:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -23,10 +23,8 @@
 .1pondo.tv
 ||1pondo.tv
 bbs.1tor.com
-!--following rule is temporarily disabled due to issue #110
-!--|http:*1yu.cn
-@@||1yu.cn/
-@@||51yu.cn/
+|http:*1yu.cn
+@@|http://www.51yu.cn/
 2000fun.com/bbs
 .2008xianzhang.info
 205.209.177.79
