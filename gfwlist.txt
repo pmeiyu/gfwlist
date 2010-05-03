@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sKrmxY6BmGLRWY2EwBBczQ
+! Checksum: QewzYeaAQpPXfcHy2aJkIg
 ! Expires: 1h
-! Last Modified: Sun, 02 May 2010 14:55:14 +0800
+! Last Modified: Mon, 03 May 2010 23:12:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -781,6 +781,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.doughellmann.com
 ||downforeveryoneorjustme.com
 ||dumblittleman.com
+||feeds.dzone.com
 ||s.evernote.com
 ||evhead.com
 ||fatvat.co.uk
@@ -850,6 +851,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.wavesandbox.com
 ||whatbrowser.org
 ||willhains.com
+||wolfire.com
 
 !-------------Google Search-----
 ||74.125.94.160
@@ -1040,6 +1042,7 @@ ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 blogs.icerocket.com/tag
 ||iconexpo.com
+w.idaiwan.com/forum
 .identi.ca
 |http://identi.ca
 .idouga.com
@@ -1085,6 +1088,7 @@ blog.istef.info/2007/10/21/myentunnel
 |http://iterasi.net
 .itweet.net
 |http://itweet.net
+.iu45.com
 yy.iyatou.com/archives/1042
 .iyin.net
 ||iyin.net
@@ -1449,6 +1453,7 @@ penchinese.com
 .penthouse.com
 ||feeds.people.com
 ||petapixel.com
+petardas.com
 philly.com
 ||photou.in
 .picidae.net
@@ -1769,6 +1774,7 @@ usinfo.state.gov
 .state168.com
 ||steveblank.com
 stickeraction.com/sesawe
+||stonegames.net
 .stoptibetcrisis.net
 ||stoptibetcrisis.net
 ||stoweboyd.com
@@ -1885,6 +1891,7 @@ truth101.co.tv/post
 @@||ts60.com
 .tsemtulku.com
 tsquare.tv
+.tt1069.com
 ||tt1069.net
 ||tttan.com
 .tttan.com
@@ -1937,7 +1944,7 @@ bbs.tuitui.info
 ||minimalmac.com
 ||blog.opentumblr.com
 ||blogs.thws.cn
-||thisiswhyyouarefat.com
+||thisiswhyyouarefat.comb
 ||tomsc.com
 ||blog.topify.com
 ||blog.tr.im
@@ -2409,6 +2416,7 @@ gfwProxyEnabled=yes
 |http://en.wikipedia.org*Deep_packet_inspection
 |http://en.wikipedia.org*Freegate
 |http://en.wikipedia.org*Golden_Shield_Project
+|http://en.wikipedia.org/wiki/Hong_Kong
 |http://en.wikipedia.org*Huang_Qi
 |http://en.wikipedia.org*Internet_censorship
 |http://en.wikipedia.org*Liu_Xiaobo
