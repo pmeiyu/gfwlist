@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2W5JePl7BVps57CAJE5h9w
+! Checksum: qRFVODxPaohuTN/7WtJx6g
 ! Expires: 4h
-! Last Modified: Tue, 04 May 2010 00:08:36 +0800
+! Last Modified: Tue, 04 May 2010 00:14:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -204,7 +204,7 @@ beijingspring.com
 ||berlintwitterwall.com
 bestforchina.org
 bet365.com
-||bfsh.hk
+||bfsh.hk/
 ||biblegateway.com
 bignews.org
 .bigsound.org/portnoy
@@ -2149,7 +2149,7 @@ www.wet123.com
 wetpussygames.com
 wezhiyong.org
 .wforum.com
-||wforum.com
+||wforum.com/
 .whatblocked.com
 ||whatblocked.com
 .whippedass.com
