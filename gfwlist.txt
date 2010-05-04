@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qRFVODxPaohuTN/7WtJx6g
+! Checksum: euET0tK6l3SvuRiULAb8DQ
 ! Expires: 4h
-! Last Modified: Tue, 04 May 2010 00:14:07 +0800
+! Last Modified: Tue, 04 May 2010 23:52:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -896,8 +896,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 |http:*.google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
 |http:*.google.*%E7%9C%9F%E7%9B%B8
-!--Zhou Mo
-|http:*.google.*/search*%E5%91%A8%E6%9C%AB
 !--Zi You Men
 |http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zou Dian Tai
