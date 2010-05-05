@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: euET0tK6l3SvuRiULAb8DQ
+! Checksum: BHQo64cx3Tt0EooVfScfFA
 ! Expires: 4h
-! Last Modified: Tue, 04 May 2010 23:52:04 +0800
+! Last Modified: Wed, 05 May 2010 12:16:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -179,6 +179,7 @@ forum.baby-kingdom.com
 backchina.com
 .badongo.com
 @@||baidu.com
+@@||baidu.com$document
 baidu.jp/
 hen.bao.li
 |http://www.barnabu.co.uk
@@ -497,6 +498,7 @@ dongtaiwang.com
 .dongyangjing.com
 .dontfilter.us
 @@||douban.com
+@@||douban.com$document
 doubleaf.com
 dowei.org
 ||download.hr
@@ -1712,6 +1714,7 @@ news.singtao.ca
 ||sitemaps.org
 sitetag.us
 @@||sixxs.org
+@@||sixxs.org$document
 ||sjum.cn/
 ||skimtube.com
 ||skulpt.org
