@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BHQo64cx3Tt0EooVfScfFA
+! Checksum: j1okiVyK5fG7SP9lpA3aMA
 ! Expires: 4h
-! Last Modified: Wed, 05 May 2010 12:16:57 +0800
+! Last Modified: Wed, 05 May 2010 21:46:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -771,6 +771,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||rss.berryreview.com
 ||www.bestwebproxy.net
 ||feeds.boingboing.net
+||secrets.blacktree.com
 ||feeds.cbsnews.com
 ||chromeexperiments.com
 ||chromium.org
@@ -1133,7 +1134,8 @@ kanzhongguo.com
 .keepandshare.com/visit/visit_page.php?i=688154
 .keezmovies.com
 ||keezmovies.com
-|http:*kenengba.com
+.kenengba.com
+||kenengba.com
 wiki.keso.cn/Home
 .khmusic.com.tw
 .kidoors.com
