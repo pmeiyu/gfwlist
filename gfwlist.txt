@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: j1okiVyK5fG7SP9lpA3aMA
+! Checksum: 4eg0R4CHaVik9hXlG3f49g
 ! Expires: 4h
-! Last Modified: Wed, 05 May 2010 21:46:47 +0800
+! Last Modified: Fri, 07 May 2010 00:35:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -110,6 +110,7 @@ alliance.org.hk
 ||alternate-tools.com
 @@|https://s3.amazonaws.com
 ||americanaccent.com
+||americangreencard.com
 ||amiblockedornot.com
 .amnesty.org
 ||amnesty.org
@@ -779,6 +780,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||myc.cnkk.org
 ||rss.cnn.com
 ||debugmode.com
+||designers-artists.com
 ||feeds.digg.com
 ||mail.diyang.org
 ||blog.doughellmann.com
@@ -823,6 +825,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.llvm.org
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
+||masamixes.com
 ||milazi.com
 ||twitter.missiu.com
 ||mobicents.org
@@ -1180,6 +1183,7 @@ lifestream.fm
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 .linglingfa.com
 linuxconfig.org
+.lipuman.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
 ||livingonline.us
 
@@ -2310,6 +2314,7 @@ topic.youthwant.com.tw
 ytht.net
 yuanming.net
 ||yunchao.net
+||yvesgeleyn.com
 |http://www.yzzk.com/
 
 !--------------------------ZZ--------------------------
@@ -2407,6 +2412,8 @@ gfwProxyEnabled=yes
 |http:*search*%E6%96%B0%E5%94%90%E4%BA%BA
 !--Zhao Zi Yang
 |http:*%E8%B5%B5%E7%B4%AB%E9%98%B3
+!--Zhong Guo Yuan Min Da Tong Meng
+|http:.google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zhong Gong
 |http:*search*%E4%B8%AD%E5%8A%9F
 !--Zhong Xuan Bu
