@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4eg0R4CHaVik9hXlG3f49g
+! Checksum: 3FotvmOGrtJWbk+6NemPWA
 ! Expires: 4h
-! Last Modified: Fri, 07 May 2010 00:35:53 +0800
+! Last Modified: Fri, 07 May 2010 00:48:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2519,6 +2519,8 @@ zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 zh.wikipedia.org*%E8%83%A1%E9%94%A6%E6%B6%9B
 !--Hu Ping (Zuo Jia)
 zh.wikipedia.org*%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29
+!--Hu Wen Ti Zhi (Who&Wen :D)
+zh.wikipedia.org*%E8%83%A1%E6%B8%A9%E4%BD%93%E5%88%B6
 !--Hu Yao Bang
 zh.wikipedia.org*%E8%83%A1%E8%80%80%E9%82%A6
 !--Hua Guo Feng (s/t)
@@ -2546,12 +2548,16 @@ zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Jin Dun Gong Cheng ?
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
+!--Jue Shi
+zh.wikipedia.org*%E7%BB%9D%E9%A3%9F
 !--Li Chang Chun
 zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
 !--Li Hong Zhi
 zh.wikipedia.org*%E6%9D%8E%E6%B4%AA%E5%BF%97
 !--Li Ke Qiang
 zh.wikipedia.org*%E6%9D%8E%E5%85%8B%E5%BC%BA
+!--Li Rui Huan
+zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%8E%AF
 !--Li Peng
 zh.wikipedia.org*%C0%EE%C5%F4
 zh.wikipedia.org*%E6%9D%8E%E9%B9%8F
@@ -2606,6 +2612,8 @@ zh.wikipedia.org*%E5%B8%88%E6%B6%9B
 zh.wikipedia.org*%E9%87%8A%E6%98%9F%E4%BA%91
 !--Si Wu Xing Dong
 zh.wikipedia.org*%E5%9B%9B%E4%BA%94%E8%A1%8C%E5%8B%95
+!--Song Bing Bing
+zh.wikipedia.org*%E5%AE%8B%E5%BD%AC%E5%BD%AC
 !--Su Jia Tun Shi Jian
 zh.wikipedia.org*%E8%8B%8F%E5%AE%B6%E5%B1%AF%E4%BA%8B%E4%BB%B6
 !--Tan Zuo Ren
@@ -2658,6 +2666,8 @@ zh.wikipedia.org*%E7%BF%92%E8%BF%91%E5%B9%B3
 zh.wikipedia.org*%E4%B9%A0%E8%BF%91%E5%B9%B3
 !--Xi Zang
 zh.wikipedia.org*%E8%A5%BF%E8%97%8F
+!--Xi Zhong Xun
+zh.wikipedia.org*%E4%B9%A0%E4%BB%B2%E5%8B%8B
 !--Xiang Gang Min Zhu Pai
 zh.wikipedia.org*%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E6%B4%BE
 !--Xie Yan Fei
@@ -2684,6 +2694,8 @@ zh.wikipedia.org*%E4%BD%99%E6%9D%B0
 zh.wikipedia.org*%E4%BF%9E%E6%AD%A3%E5%A3%B0
 !--Zhang De Jiang
 zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
+!--Zhang Yi He
+zh.wikipedia.org*%E7%AB%A0%E8%A9%92%E5%92%8C
 !--Zhang Yu
 zh.wikipedia.org*%E5%BC%A0%E9%92%B0
 !--Zhang Yu - Traditional
@@ -2728,6 +2740,9 @@ zh.wikipedia.org*%E8%BD%AC%E6%B3%95%E8%BD%AE
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zhou
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
+!--Ling Ba Xian Zhang--WikiSource
+zh.wikisource.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
+!\\
 
 !------Temporary
 !-----2009/11
