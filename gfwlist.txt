@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dKGFqOPkYYC+rIOecbllzQ
+! Checksum: gYnGWEyIjkjryOoKpKlhQQ
 ! Expires: 4h
-! Last Modified: Fri, 07 May 2010 22:55:53 +0800
+! Last Modified: Sat, 08 May 2010 00:26:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -75,6 +75,12 @@ info.51.ca
 99p2p.com
 ||9bis.com
 ||9bis.net
+
+!--Fake IPs
+4.36.66.178
+202.181.7.85
+203.161.230.171
+216.234.179.13
 
 !--------------------------AA--------------------------
 ||aircrack-ng.org
@@ -220,7 +226,6 @@ bignews.org
 ||bit.ly
 bjlzfz.com
 .bjzm.org
-||bkite.com
 ||blackra1n.com
 tor.blingblingsquad.net
 .blip.tv
@@ -247,6 +252,7 @@ bomb.tv
 .briefdream.com/%E7%B4%A0%E6%A3%BA
 briian.com
 brightkite.com
+||bkite.com
 bspon.com
 .btmon.com
 buboo.tw
@@ -825,6 +831,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.kowalczyk.info
 ||www.kunalanand.com
 ||docs.latexlab.org
+||leechermods.com
 ||feeds.limi.net
 ||www.liteapplications.com
 ||blog.liukangxu.info
@@ -983,6 +990,7 @@ hbo.com/docs/*/china
 ||hecjaji.com
 ||hellonewyork.us
 hellotxt.com
+||htxt.com
 .hellouk.org/forum/lofiversion
 .helpeachpeople.com
 ||helpeachpeople.com
@@ -1233,7 +1241,7 @@ lsforum.net
 
 !--------------------------MM--------------------------
 .macau-focus.com
-||mad-ar.ch
+||mad-ar.chh
 mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
