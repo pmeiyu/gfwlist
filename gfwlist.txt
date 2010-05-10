@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lT0vn6MQE0qQMrDIcmrDKg
+! Checksum: OFGoS9mGwMEGyk+jE7ojqA
 ! Expires: 4h
-! Last Modified: Sat, 08 May 2010 04:14:43 +0800
+! Last Modified: Mon, 10 May 2010 17:57:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -15,7 +15,7 @@
 ||1688.com.au
 .1688.com.au/site1
 173ng.com
-||17e.org
+||17e.org/
 .17e.org
 .18aol.com
 .18kin.com
@@ -524,7 +524,7 @@ komica2.dreamhosters.com
 ||drivingitalia.net
 ||droidie.com
 ||www.dropbox.com
-|http://*dl.dropbox.com
+|http://*.dropbox.com
 .ds-hk.net
 ||dtiblog.com
 dtiserv2.com
@@ -949,7 +949,6 @@ http:*.google.com*search*namibia*nuctech
 |http:*.google.*/search*%E5%91%A8
 
 !-------------Google.other-----
-!--|https://calendar.google.com
 |https://chrome.google.com
 |https://clients*.google.com
 !--|https://code.google.com
@@ -975,7 +974,7 @@ myboooks.googlepages.com
 
 gpass1.com
 twitter.grader.com
-great-firewall.@com
+great-firewall.com
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gtkforums.com
@@ -1252,7 +1251,7 @@ lsforum.net
 
 !--------------------------MM--------------------------
 .macau-focus.com
-||mad-ar.chh
+||mad-ar.ch
 mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
