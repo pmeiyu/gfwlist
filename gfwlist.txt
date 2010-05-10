@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Hf8LPXYgQOFKq2uEqC7+dw
+! Checksum: f73KFwM+INf2QeFh0VJxvw
 ! Expires: 4h
-! Last Modified: Mon, 10 May 2010 23:42:27 +0800
+! Last Modified: Mon, 10 May 2010 23:46:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -759,7 +759,6 @@ grandtrial.org
 |http:*code.google.com/p/program-think/wiki/Software
 
 !-------------Google Docs-----
-|https://docs.google.com
 |http:*spreadsheets.google.com
 |https://spreadsheets.google.com
 |http://docs.google.com/View?id=d8xbpp6_4hhpb2dfd
@@ -950,11 +949,6 @@ http:*.google.com*search*namibia*nuctech
 |http:*.google.*/search*%E5%91%A8
 
 !-------------Google.other-----
-|https://chrome.google.com
-|https://clients*.google.com
-!--|https://code.google.com
-|https://services.google.com
-|https://talkgadget.google.com
 |https://tools.google.com
 @@|https://www.google.com
 @@|https://*.googleusercontent.com
