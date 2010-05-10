@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Wz4XTVEKsu6sorHZqdtKQQ
+! Checksum: lT0vn6MQE0qQMrDIcmrDKg
 ! Expires: 4h
-! Last Modified: Sat, 08 May 2010 03:58:22 +0800
+! Last Modified: Sat, 08 May 2010 04:14:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -762,12 +762,12 @@ grandtrial.org
 |https://docs.google.com
 |http:*spreadsheets.google.com
 |https://spreadsheets.google.com
-docs.google.com/View?id=d8xbpp6_4hhpb2dfd
-docs.google.com*View*id*dg5mtmj9_8g3hk27f5
-docs.google.com*View*id*dg5mtmj9_3188x48zcn
-docs.google.com/View?id=dgjxsxws_148fvpz6wdg
-docs.google.com*dgtbmwd6_934gg99v6g4
-docs.google.com/View?id=dhh5gtxb_145nsxgctcc
+|http://docs.google.com/View?id=d8xbpp6_4hhpb2dfd
+|http://docs.google.com*View*id*dg5mtmj9_8g3hk27f5
+|http://docs.google.com*View*id*dg5mtmj9_3188x48zcn
+|http://docs.google.com/View?id=dgjxsxws_148fvpz6wdg
+|http://docs.google.com*dgtbmwd6_934gg99v6g4
+|http://docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
 ||52wm.info
@@ -900,6 +900,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 |http:*.google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
 !--Na Mi Bi Ya
 |http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
+!--Namibia + Nuctech
+http:*.google.com*search*namibia*nuctech
 !--Po Hai
 |http:*.google.com*%E8%BF%AB%E5%AE%B3
 !--Qian Shi Jin Sheng
