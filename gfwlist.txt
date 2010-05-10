@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OFGoS9mGwMEGyk+jE7ojqA
+! Checksum: Hf8LPXYgQOFKq2uEqC7+dw
 ! Expires: 4h
-! Last Modified: Mon, 10 May 2010 17:57:32 +0800
+! Last Modified: Mon, 10 May 2010 23:42:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -252,8 +252,8 @@ bomb.tv
 .bravoteens.com
 .briefdream.com/%E7%B4%A0%E6%A3%BA
 briian.com
-brightkite.com
 ||bkite.com
+brightkite.com
 bspon.com
 .btmon.com
 buboo.tw
@@ -792,6 +792,7 @@ grandtrial.org
 @@||build.chromium.org
 ||myc.cnkk.org
 ||rss.cnn.com
+||cocoawithlove.com
 ||debugmode.com
 ||designers-artists.com
 ||feeds.digg.com
@@ -820,7 +821,7 @@ grandtrial.org
 ||gqueues.com
 ||blog.headius.com
 ||hogbaysoftware.com
-|huhaitai.com
+||huhaitai.com
 ||blog.humanrightsfirst.org
 ||ironhelmet.com
 ||t.jiecii.com
@@ -1286,7 +1287,7 @@ middle-way.net
 .mii8.com
 .mimi2000.info
 www5.mimima.com
-www6.mimima.com
+www6.mimima.comhuhai
 .mimip2p.net
 .mimivip.com
 .minghui.org
@@ -1823,6 +1824,7 @@ support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
 ||sweux.com
 ||syncback.com
+||sysadmin1138.net
 sysresccd.org
 .sytes.net
 blog.syx86.com/2009/09/puff
@@ -2232,6 +2234,7 @@ china.blogs.time.com
 ||blog.tinypic.com
 ||blog.wakoopa.com
 ||wattsupwiththat.com
+||webmink.com
 zh-cn.wordpress.com
 |http://wp.com
 
