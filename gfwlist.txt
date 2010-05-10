@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gYnGWEyIjkjryOoKpKlhQQ
+! Checksum: Wz4XTVEKsu6sorHZqdtKQQ
 ! Expires: 4h
-! Last Modified: Sat, 08 May 2010 00:26:01 +0800
+! Last Modified: Sat, 08 May 2010 03:58:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -248,6 +248,7 @@ bomb.tv
 ||bonersgames.com
 ||books.com.tw
 .bot.nu
+||developers.box.net
 .bravoteens.com
 .briefdream.com/%E7%B4%A0%E6%A3%BA
 briian.com
@@ -366,6 +367,7 @@ chinainperspective.net%2FArtShow.aspx%3F
 chinasocialdemocraticparty.com
 chinasoul.org
 blog.chinatimes.com
+camera.chinatimes.com
 gb.chinatimes.com/gate/gb/*2007Cti-News
 life.chinatimes.com/2009Cti/Channel
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
@@ -521,6 +523,7 @@ komica2.dreamhosters.com
 ||drikin.com
 ||drivingitalia.net
 ||droidie.com
+||www.dropbox.com
 |http://*dl.dropbox.com
 .ds-hk.net
 ||dtiblog.com
@@ -782,6 +785,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.bestwebproxy.net
 ||feeds.boingboing.net
 ||secrets.blacktree.com
+||moblog.bradleyit.com
 ||feeds.cbsnews.com
 ||chromeexperiments.com
 ||chromium.org
@@ -816,6 +820,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||gqueues.com
 ||blog.headius.com
 ||hogbaysoftware.com
+|huhaitai.com
 ||blog.humanrightsfirst.org
 ||ironhelmet.com
 ||t.jiecii.com
@@ -838,6 +843,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.llvm.org
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
+||macbuzzer.com
 ||masamixes.com
 ||milazi.com
 ||twitter.missiu.com
@@ -867,6 +873,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 |http://txt.io
 |http://ub0.cc
 ||tp.vbap.com.au
+||visualquest.in
 ||www.wavesandbox.com
 ||whatbrowser.org
 ||willhains.com
@@ -948,6 +955,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 |https://talkgadget.google.com
 |https://tools.google.com
 @@|https://www.google.com
+@@|https://*.googleusercontent.com
 .ggpht.com
 google.com*analytics*zh-CN
 .google.com/gwt
@@ -965,10 +973,11 @@ myboooks.googlepages.com
 
 gpass1.com
 twitter.grader.com
-great-firewall.com
+great-firewall.@com
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gtkforums.com
+||gtricks.com
 ||gutteruncensored.com
 ||gzone-anime.info
 
@@ -1044,10 +1053,10 @@ hotshare.net
 hrichina.org
 .hrw.org
 ||hsjp.net
+huairen.me
 .huanghuagang.org
 ||huanghuagang.org
 |http://huan.in
-||huhaitai.com
 huitter.com
 .humoron.com
 |http://www.hungerstrikeforaids.org
@@ -1245,6 +1254,7 @@ lsforum.net
 mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
+||makeyourwordboner.com
 ||making-the-web.com
 ||marines.mil
 markmail.org*message
@@ -1795,6 +1805,7 @@ www.stackfile.com/freedur
 usinfo.state.gov
 .state168.com
 ||steveblank.com
+.stickam.com
 stickeraction.com/sesawe
 ||stonegames.net
 .stoptibetcrisis.net
@@ -2201,6 +2212,7 @@ worldjournal.com
 ||blog.feedly.com
 ||blog.flickr.net
 ||fourwallsandaroof.com
+||hiveminds.co.uk
 ||hoparoundtheglobe.com
 ||icanhascheezburger.com
 ||blog.linkedin.com
