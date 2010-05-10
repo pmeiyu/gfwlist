@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: f73KFwM+INf2QeFh0VJxvw
+! Checksum: yu4HRsxgjDFHapBaA31pEg
 ! Expires: 4h
-! Last Modified: Mon, 10 May 2010 23:46:38 +0800
+! Last Modified: Mon, 10 May 2010 23:55:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -144,7 +144,6 @@ videoportal.aol.tw/video-detail
 
 !-Appspot
 bullog4cn.appspot.com
-/^https?:\/\/[^\/]+free4internetdd\.appspot\.com/
 gfw.appspot.com
 go2china8.appspot.com
 meme2028.appspot.com
@@ -152,7 +151,6 @@ nest.appspot.com
 twitese.appspot.com
 twitter-mirror.appspot.com
 twittergadget.appspot.com
-/^https:\/\/[^\/]+\.appspot\.com/
 
 .archive.org
 ||archive.org
@@ -609,8 +607,6 @@ feer.com
 .fengzhenghu.com
 ||fengzhenghu.com
 .fevernet.com/index.php
-http://ff.im
-@@|https://ff.im
 .fgmtv.org
 .fileden.com
 |http://fileden.com
