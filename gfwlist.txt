@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yu4HRsxgjDFHapBaA31pEg
+! Checksum: CCqys4mbmQwVgGKt+0G+xQ
 ! Expires: 4h
-! Last Modified: Mon, 10 May 2010 23:55:54 +0800
+! Last Modified: Tue, 11 May 2010 14:46:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -224,6 +224,7 @@ bignews.org
 ||bit.ly
 bjlzfz.com
 .bjzm.org
+||bkite.com
 ||blackra1n.com
 tor.blingblingsquad.net
 .blip.tv
@@ -250,7 +251,6 @@ bomb.tv
 .bravoteens.com
 .briefdream.com/%E7%B4%A0%E6%A3%BA
 briian.com
-||bkite.com
 brightkite.com
 bspon.com
 .btmon.com
