@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nmWsk40heYkaJlec13pSfw
+! Checksum: fDUK0wg9S2+ffeTe4MYRNw
 ! Expires: 4h
-! Last Modified: Wed, 12 May 2010 22:35:32 +0800
+! Last Modified: Thu, 13 May 2010 03:29:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1525,9 +1525,6 @@ plurk.com
 .porntube.com
 .pornvisit.com
 postadult.com
-psblog.name
-||puffstore.com
-.puffstore.com
 
 !-------------Posterous-----
 ||holykaw.alltop.com
@@ -1576,9 +1573,11 @@ privatepaste.com
 ||proxypy.com
 proxyroad.com
 prozz.net
+psblog.name
 psiphon.ca
 |http://www.ptt.cc/
 .puffstore.com
+||puffstore.com
 ||pureconcepts.net
 ||purepdf.com
 pwned.com
@@ -2478,8 +2477,6 @@ zh.wikipedia.org*610%E8%BE%A6%E5%85%AC%E5%AE%A4
 zh.wikipedia.org*Anti-CNN
 !--A Pei A Wang Jin Mei
 zh.wikipedia.org*%E9%98%BF%E6%B2%9B%C2%B7%E9%98%BF%E6%97%BA%E6%99%8B%E7%BE%8E
-!--Ai Er Lan Jue Shi Kang Yi
-zh.wikipedia.org*%E7%88%B1%E5%B0%94%E5%85%B0%E7%BB%9D%E9%A3%9F%E6%8A%97%E8%AE%AE
 !--Ban Chan
 zh.wikipedia.org*%E7%8F%AD%E7%A6%85
 !--Bao Tong
