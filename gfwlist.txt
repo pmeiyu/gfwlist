@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CCqys4mbmQwVgGKt+0G+xQ
+! Checksum: nmWsk40heYkaJlec13pSfw
 ! Expires: 4h
-! Last Modified: Tue, 11 May 2010 14:46:40 +0800
+! Last Modified: Wed, 12 May 2010 22:35:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -143,6 +143,7 @@ videoportal.aol.tw/video-detail
 ||apirocks.com
 
 !-Appspot
+|http://autoproxy2pac.appspot.com
 bullog4cn.appspot.com
 gfw.appspot.com
 go2china8.appspot.com
@@ -173,8 +174,6 @@ asianude4u.com
 @@|https://autoproxy.org/
 .aventertainments.com
 ||avidemux.org
-.avno1.com
-.avno3.com
 ||avoision.com
 ||away3d.com
 ||axiom-developer.org
@@ -216,6 +215,8 @@ bet365.com
 ||biblegateway.com
 bignews.org
 .bigsound.org/portnoy
+.bigtube.com
+||bigtube.com
 ||bikinivoyeur.com
 ||billywr.com
 ||bind2.com
@@ -402,7 +403,6 @@ cmule2.com
 ||blog.cnblog.org
 .cnd.org
 |http://cnd.org
-co.cc
 ||www.coat.co.jp
 |http://cochina.org
 .code1984.com/64
@@ -569,6 +569,7 @@ http://*eltondisney.com
 .emodao.com
 ||empflix.com
 ||emucr.com
+||englishfromengland.co.uk
 ||entermap.com
 epochtimes.com
 ||erights.net
@@ -607,6 +608,7 @@ feer.com
 .fengzhenghu.com
 ||fengzhenghu.com
 .fevernet.com/index.php
+|http://ff.im
 .fgmtv.org
 .fileden.com
 |http://fileden.com
@@ -716,8 +718,8 @@ gdzf.org
 hk.geocities.com
 geocities.jp
 ||geohot.com
-getchu.com
 |http://files.getdropbox.com
+||www.getdropbox.com
 ||getjetso.com
 .getjetso.com/forum
 ||getuploader.com
@@ -823,6 +825,7 @@ grandtrial.org
 ||blog.joint.net
 ||blog.jsquaredjavascript.com
 ||blog.jtbworld.com
+||junauza.com
 ||kathyschwalbe.com
 ||keepassdroid.com
 ||tomatovpn.keithmoyer.com
@@ -846,6 +849,7 @@ grandtrial.org
 ||mobicents.org
 ||feeds.mobileread.com
 ||mycleenr.com
+||mytwishirt.com
 ||blog.naanstudio.com
 ||blog.nihilogic.dk
 ||nogoodatcoding.com
@@ -1252,6 +1256,7 @@ mail-archive.com
 markmail.org*message
 .marlito.com
 ||martau.com
+maruta.be/forget
 ||marxist.net
 ||mathiew-badimon.com
 |http://www.mathtunnel.com/
@@ -1264,6 +1269,7 @@ mediafire.com
 ||meetup.com
 lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 ||megaporn.com
+||megarotic.com
 megavideo.com
 ||melon-peach.com
 memedia.cn
@@ -1277,14 +1283,14 @@ middle-way.net
 .mii8.com
 .mimi2000.info
 www5.mimima.com
-www6.mimima.comhuhai
+www6.mimima.com
 .mimip2p.net
 .mimivip.com
 .minghui.org
 mingpao.com
 .mingpaomonthly.com
 mingpaonews.com
-|http://www.mingpaony.com/
+|http://www.mingpaony.com/--bb
 .mingpaosf.com
 .mingpaotor.com
 .mingpaovan.com
@@ -1515,7 +1521,9 @@ plurk.com
 .pornhub.com
 .pornrapidshare.com
 ||pornrapidshare.com
+.pornstarclub.com
 .porntube.com
+.pornvisit.com
 postadult.com
 psblog.name
 ||puffstore.com
@@ -1942,6 +1950,7 @@ bbs.tuitui.info
 ||365singles.com.ar
 ||news.atebits.com
 ||tumblr.awflasher.com
+||bobulate.com
 ||blog.couch.io
 !-||blog.bit.ly
 ||cubicle17.com
@@ -2198,6 +2207,7 @@ zh.uncyclopedia.wikia.com
 worldjournal.com
 
 !-------------Wordpress Blog-----
+||tech.blog.aknin.name
 ||blog.bittorrent.com
 ||blogmaverick.com
 ||breakingnewsworld.org
@@ -2207,6 +2217,7 @@ worldjournal.com
 ||fourwallsandaroof.com
 ||hiveminds.co.uk
 ||hoparoundtheglobe.com
+||hunbulin.com
 ||icanhascheezburger.com
 ||blog.linkedin.com
 ||menro.me
@@ -2226,6 +2237,7 @@ china.blogs.time.com
 ||wattsupwiththat.com
 ||webmink.com
 zh-cn.wordpress.com
+rfaunplugged.wordpress.com
 |http://wp.com
 
 ||wormsculptor.com
@@ -2514,6 +2526,8 @@ zh.wikipedia.org*%E6%84%A4%E9%9D%92
 zh.wikipedia.org*%E9%AB%98%E6%99%BA%E6%99%9F
 !--Di Shi Yi Shi Ban Chan Er Er De Ni Geng Deng Que Ji Ni Ma
 zh.wikipedia.org*%E6%9B%B4%E7%99%BB%E7%A2%BA%E5%90%89%E5%B0%BC%E7%91%AA
+!--Gai Ge Li Cheng
+zh.wikipedia.org*%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B
 !--Gao Xing Jian
 zh.wikipedia.org*%E9%AB%98%E8%A1%8C%E5%81%A5
 zh.wikipedia.org*GFW
@@ -2561,9 +2575,10 @@ zh.wikipedia.org*%E9%9C%8D%E8%8B%B1%E6%9D%B1
 zh.wikipedia.org*%E5%98%89%E9%9D%96
 !--Jia Le Fu
 zh.wikipedia.org*%E5%AE%B6%E4%B9%90%E7%A6%8F
-!--Jiang Ze Min
+!--Jia Qing Lin
+zh.wikipedia.org*%E8%B3%88%E6%85%B6%E6%9E%97
+!--Jiang Ze Min (s/t)
 zh.wikipedia.org*%E6%B1%9F%E6%B3%BD%E6%B0%91
-!--Jiang Ze Min Tranditional
 zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
 !--Jin Dun Gong Cheng
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
@@ -2663,6 +2678,8 @@ zh.wikipedia.org*%E7%8E%8B%E4%B9%90%E6%B3%89
 zh.wikipedia.org*%E7%8E%8B%E5%8A%9B%E9%9B%84
 !--Wang Yang
 zh.wikipedia.org*%E6%B1%AA%E6%B4%8B
+!--Wang Zhao Guo
+zh.wikipedia.org*%E7%8E%8B%E5%85%86%E5%9B%BD
 !--Wei Se
 zh.wikipedia.org*%E5%94%AF%E8%89%B2
 !--Wen Chuan Di Zhen
