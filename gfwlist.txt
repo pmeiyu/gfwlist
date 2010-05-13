@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fDUK0wg9S2+ffeTe4MYRNw
+! Checksum: TXPh3kdW95yXE6KqJwqHPQ
 ! Expires: 4h
-! Last Modified: Thu, 13 May 2010 03:29:06 +0800
+! Last Modified: Thu, 13 May 2010 12:43:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -631,7 +631,8 @@ fleshbot.com
 .flickr.com/photos/winterkanal
 
 .fling.com
-||tradinggoddess.comyuming.flnet.org
+||tradinggoddess.com
+yuming.flnet.org
 ||fooledbyrandomness.com
 www.forum4hk.com
 ||fotop.net
@@ -790,6 +791,7 @@ grandtrial.org
 ||myc.cnkk.org
 ||rss.cnn.com
 ||cocoawithlove.com
+||dataliberation.org
 ||debugmode.com
 ||designers-artists.com
 ||feeds.digg.com
@@ -1290,7 +1292,7 @@ www6.mimima.com
 mingpao.com
 .mingpaomonthly.com
 mingpaonews.com
-|http://www.mingpaony.com/--bb
+|http://www.mingpaony.com/
 .mingpaosf.com
 .mingpaotor.com
 .mingpaovan.com
