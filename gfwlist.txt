@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qD46bItRklputsMuAxZHBg
+! Checksum: kOVJ6WamQYKx1KzeBqpf1Q
 ! Expires: 4h
-! Last Modified: Fri, 14 May 2010 00:18:25 +0800
+! Last Modified: Sat, 15 May 2010 00:54:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -878,6 +878,8 @@ grandtrial.org
 ||tp.vbap.com.au
 ||visualquest.in
 ||www.wavesandbox.com
+||t.webbang.net
+||webfee.org.ru
 ||whatbrowser.org
 ||willhains.com
 ||wolfire.com
@@ -1542,9 +1544,11 @@ postadult.com
 ||designerol.com
 ||blog.dustincurtis.com
 ||erinc.ca
+||blog.fizzik.com
 ||roteiro.geedr.com
 ||po.inewton.cn
 ||markmilian.com
+||mehack.com
 ||blog.nicholaspatten.com
 ||am.pengyulong.com
 ||post.ly/
@@ -2168,8 +2172,6 @@ washeng.net
 .wearn.com
 ||wearn.com
 ||web2project.net
-||t.webbang.net
-||webfee.org.ru
 webs-tv.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
@@ -2192,7 +2194,8 @@ www.wet123.com
 wetpussygames.com
 wezhiyong.org
 .wforum.com
-||wforum.com/
+||wforum.com
+wg1966.com
 .whatblocked.com
 ||whatblocked.com
 .whippedass.com
