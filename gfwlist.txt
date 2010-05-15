@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kOVJ6WamQYKx1KzeBqpf1Q
+! Checksum: 2eWRcO+mgiYCIHuRh7U5tg
 ! Expires: 4h
-! Last Modified: Sat, 15 May 2010 00:54:29 +0800
+! Last Modified: Sun, 16 May 2010 01:40:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -726,6 +726,7 @@ geocities.jp
 .getjetso.com/forum
 ||getuploader.com
 ||getyouram.com
+gigporno.ru
 .ginx.com
 |http://ginx.com
 .girlsgonewild.com
@@ -858,6 +859,8 @@ grandtrial.org
 ||nogoodatcoding.com
 ||blog.notdot.net
 ||blog.persistent.info
+||pigsgourdsandwikis.com
+||portablesoft.org.ru
 ||talk.news.pts.org.tw
 ||rapid.pk
 ||robertmao.com
@@ -883,6 +886,7 @@ grandtrial.org
 ||whatbrowser.org
 ||willhains.com
 ||wolfire.com
+||blog.wundercounter.com
 
 !-------------Google Search-----
 ||74.125.94.160
@@ -1442,7 +1446,6 @@ ooosee.com/fuckgfw
 open.com.hk
 ||openid.cn
 opera.com/mini
-my.opera.com
 www.orchidbbs.com
 ||orn.jp
 .orzistic.org
@@ -1559,6 +1562,7 @@ postadult.com
 ||log.riku.me
 ||steverubel.com
 ||blog.tweetdeck.com
+||log.thws.cn
 ||vatn.org
 ||veempiire.com
 ||www.vegorpedersen.com
@@ -1846,6 +1850,7 @@ blog.syx86.cn/2009/09/puff
 .taiwandaily.net
 ||taiwantt.org.tw
 ||taiwandaily.net
+taiwankiss.com
 taiwan-sex.com
 ||talbenshahar.com
 tangben.com
