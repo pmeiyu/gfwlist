@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2eWRcO+mgiYCIHuRh7U5tg
+! Checksum: 1CTQLrdzpL7SU3MNoXEemg
 ! Expires: 4h
-! Last Modified: Sun, 16 May 2010 01:40:58 +0800
+! Last Modified: Sun, 16 May 2010 22:15:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -869,6 +869,7 @@ grandtrial.org
 ||sleepingtime.org
 ||blog.seeminglee.com
 ||rss.slashdot.org
+||snapabug.com
 ||snsanalytics.com
 ||socialwhois.com
 ||tagxedo.com
@@ -907,7 +908,7 @@ grandtrial.org
 !--Lu Xi
 |http:*.google.*%E9%B2%81%E6%98%95
 !--Meng Jian Zhu
-|http:.google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
+|http:*.google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
 !--Meng Ying Wei Ming Hu
 |http:*.google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
 !--Na Mi Bi Ya
@@ -1041,6 +1042,7 @@ hkjc.com
 .hkjp.org
 .hkmensa.net
 .hkplaza.net/discuz
+.hkreporter.com
 ||hkreporter.com
 ||hkzone.org
 apps.hloli.net/gfwtube
@@ -1086,6 +1088,7 @@ w.idaiwan.com/forum
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
+||antidrm.hpg.ig.com.br
 igfw.tk
 ||ignitedetroit.net
 ||ijenny.cn
@@ -1185,6 +1188,7 @@ wiki.keso.cn/Home
 kulodao.com/bbs/
 |http://kunalanand.com
 ||kurtmunger.com
+kusocity.com
 ||www.kyohk.net
 www2.kyohk.net
 |http://www.kzeng.info/
@@ -1219,6 +1223,7 @@ linuxconfig.org
 ||livingonline.us
 
 !-------------live spaces-----
+|http:*cc9007.spaces.live.com
 |http:*flowerofhappiness.spaces.live.com
 |http:*gufeng521.spaces.live.com
 |http:*honeonet.spaces.live.com
@@ -1259,6 +1264,7 @@ lsforum.net
 !--------------------------MM--------------------------
 .macau-focus.com
 ||mad-ar.ch
+mang.ma/d
 mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
@@ -2160,8 +2166,7 @@ www.voy.com
 lists.w3.org/archives/public
 ||waffle1999.com
 .wahas.com
-.waigaobu.com
-||waigaobu.com
+http:*.waigaobu.com
 waikeung.org/php_wind
 .waiwaier.com
 |http://waiwaier.com
