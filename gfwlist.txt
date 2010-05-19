@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1CTQLrdzpL7SU3MNoXEemg
-! Expires: 4h
-! Last Modified: Sun, 16 May 2010 22:15:06 +0800
+! Checksum: FxCrP+imIg+doFuq02vqxQ
+! Expires: 6h
+! Last Modified: Wed, 19 May 2010 13:06:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -453,6 +453,7 @@ forum.cyberctm.com/forum
 |http://*t.orzdream.com
 |http://*m.oulove.org
 
+dadazim.com
 ||dadi360.com
 .dadi360.com
 .daigou.in
@@ -613,6 +614,8 @@ feer.com
 .fgmtv.org
 .fileden.com
 |http://fileden.com
+.filefactory.com
+||filefactory.com
 .filespump.com
 ||filestube.com
 fillthesquare.org
@@ -629,6 +632,7 @@ fleshbot.com
 !--|http://farm4.static.flickr.com
 .flickr.com/photos/chinamove
 .flickr.com/photos/digitalboy100
+.flickr.com/photos/fzhenghu
 .flickr.com/photos/winterkanal
 
 .fling.com
@@ -763,6 +767,7 @@ grandtrial.org
 |http:*spreadsheets.google.com
 |https://spreadsheets.google.com
 |http://docs.google.com/View?id=d8xbpp6_4hhpb2dfd
+|http://docs.google.com/View?id=dds68dz_9cqgm8vgq
 |http://docs.google.com*View*id*dg5mtmj9_8g3hk27f5
 |http://docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http://docs.google.com/View?id=dgjxsxws_148fvpz6wdg
@@ -863,11 +868,13 @@ grandtrial.org
 ||portablesoft.org.ru
 ||talk.news.pts.org.tw
 ||rapid.pk
+||reclaimprivacy.org
 ||robertmao.com
 ||ghs.romeo-foxtrot.com
 ||salmiyuck.com
-||sleepingtime.org
 ||blog.seeminglee.com
+||skydrivemanager.com
+||sleepingtime.org
 ||rss.slashdot.org
 ||snapabug.com
 ||snsanalytics.com
@@ -965,11 +972,11 @@ http:*.google.com*search*namibia*nuctech
 |https://tools.google.com
 @@|https://www.google.com
 @@|https://*.googleusercontent.com
+|http:*.google.com/moderator
 .ggpht.com
-google.com*analytics*zh-CN
+|http:*google.com*analytics*zh-CN
 .google.com/gwt
 feedproxy.google.com
-||groups.google.com
 |http:*groups.google.*group
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 picasaweb.google.com
@@ -1658,6 +1665,7 @@ revver.com
 ||b.rimg.com.tw
 ||c.rimg.com.tw
 robtex.com
+||romnation.net
 ||ronjoneswriter.com
 .roodo.com
 ||roosong.cn
@@ -1840,6 +1848,7 @@ tw.streetvoice.com
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
 ||sweux.com
+||swift-tools.net
 ||syncback.com
 ||sysadmin1138.net
 sysresccd.org
@@ -1940,9 +1949,7 @@ touch99.com
 truth101.co.tv/post
 ||truthcn.com
 .truveo.com
-!--following rule is temporarily disabled due to issue #110
-!--|http:*ts60.com
-@@||ts60.com
+|http:*ts60.com
 .tsemtulku.com
 tsquare.tv
 .tt1069.com
@@ -1975,6 +1982,7 @@ bbs.tuitui.info
 ||blog.couch.io
 !-||blog.bit.ly
 ||cubicle17.com
+cookingtothegoodlife.com/ 
 ||davidkaneda.com
 ||drewolanoff.com
 ||chaos.e-spacy.com
@@ -1998,6 +2006,7 @@ bbs.tuitui.info
 ||madmenfootnotes.com
 ||marco.org
 ||minimalmac.com
+||navigeaters.com
 ||blog.opentumblr.com
 ||blogs.thws.cn
 ||thisiswhyyouarefat.com
@@ -2129,6 +2138,7 @@ tor.updatestar.com
 |http://www.cafc.uscourts.gov/
 earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
+|http:*us.to
 .ustream.tv
 ||ustream.tv
 .uwants.com
@@ -2305,6 +2315,7 @@ xmovies.com
 xtube.com
 blog.xuite.net
 ||photo.xuite.net
+vlog.xuite.net
 xuzhiyong.net
 xvediox.com
 .xvideos.com
@@ -2379,6 +2390,7 @@ yuanming.net
 .zaobao.com.sg
 ||zaobao.com.sg
 .zaozon.com
+||zarias.com
 www.zaurus.org.uk
 .zdnet.com.tw/news/software/0,2000085678,20111187,00
 .zengjinyan.org
