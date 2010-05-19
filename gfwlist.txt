@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TVounSscPKW0ljzRfOuc6g
+! Checksum: Ja5PupDnjjePYfOZ69fqLA
 ! Expires: 6h
-! Last Modified: Wed, 19 May 2010 13:29:31 +0800
+! Last Modified: Wed, 19 May 2010 23:36:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -280,8 +280,6 @@ blogwind.com
 bloomfortune.com
 bolour.com
 |http://www.books.com.tw/
-.box.net/shared/ymcm3k0cy8
-boxcn.net/shared/v8dku73p1h
 boxun.com
 .boxun.tv
 ||boxun.tv
@@ -524,7 +522,6 @@ komica2.dreamhosters.com
 ||drivingitalia.net
 ||droidie.com
 ||dropbox.com
-.dropbox.com
 .ds-hk.net
 ||dtiblog.com
 dtiserv2.com
@@ -604,7 +601,8 @@ video.fdbox.com
 forum*.fdzone.org
 ||fourface.nodesnoop.com
 feedbooks.mobi
-feeds2.feedburner.com/chinagfwblog
+|http://feeds.feedburner.com/gfwlist
+|http://feeds2.feedburner.com/chinagfwblog
 ||feedzshare.com
 feer.com
 .fengzhenghu.com
