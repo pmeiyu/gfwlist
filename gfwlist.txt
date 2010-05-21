@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9VJK+0aQqByKSR02jBL95A
+! Checksum: tIsIpYxXWt1Sg99B+oMW0w
 ! Expires: 6h
-! Last Modified: Sat, 22 May 2010 01:26:29 +0800
+! Last Modified: Sat, 22 May 2010 01:27:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2015,7 +2015,6 @@ cookingtothegoodlife.com/
 ||thisiswhyyouarefat.com
 ||tomsc.com
 ||blog.topify.com
-||blog.tr.im
 ||tumblweed.org
 ||status.twhirl.org
 !-||status.twitter.com
