@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Ja5PupDnjjePYfOZ69fqLA
+! Checksum: 9VJK+0aQqByKSR02jBL95A
 ! Expires: 6h
-! Last Modified: Wed, 19 May 2010 23:36:02 +0800
+! Last Modified: Sat, 22 May 2010 01:26:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -406,8 +406,9 @@ cmule2.com
 |http://cochina.org
 .code1984.com/64
 ||codecguide.com
-|http://codepad.org/
+|http://codepad.org
 ||coedmagazine.com
+||collateralmurder.com
 ||google.coloor.net
 comefromchina.com
 commandlineisking.com
@@ -447,9 +448,11 @@ forum.cyberctm.com/forum
 |http://*t.ikemi.org
 |http://*t.kunshou.net
 |http://*t.leeiio.me
+|http://*mang.ma/d
 |http://*t.neolee.cn
 |http://*t.orzdream.com
 |http://*m.oulove.org
+|http://*shkspr.mobi/dabr
 
 dadazim.com
 ||dadi360.com
@@ -542,7 +545,8 @@ www.dwheeler.com
 .dwnews.com
 ||dwnews.com
 xys.dxiong.com
-|http://www.dynawebinc.com/
+|http://www.dynawebinc.com
+.dzze.com
 
 !--------------------------EE--------------------------
 g.e-hentai.org
@@ -643,6 +647,7 @@ www.forum4hk.com
 ||allonlinux.free.fr
 ||dimitrik.free.fr
 kineox.free.fr
+freeman2.com
 .freewebhostx.com
 ||firestorage.jp
 ||flecheinthepeche.fr
@@ -722,6 +727,7 @@ gdzf.org
 hk.geocities.com
 geocities.jp
 ||geohot.com
+||geometrictools.com
 |http://files.getdropbox.com
 ||www.getdropbox.com
 ||getjetso.com
@@ -934,6 +940,8 @@ http:*.google.com*search*namibia*nuctech
 |http:*.google.*q=%E7%8E%8B%E5%B0%8F%E4%B8%AB
 !--Xi Lai
 |http:*.google.com*%E7%86%99%E6%9D%A5
+!--Ying Di
+|http:*.google.*%E5%BD%B1%E5%B8%9D
 !--Yue Hou Ji Fen
 |http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhang De Jiang
@@ -1110,12 +1118,11 @@ imageshack.us
 ||interfaceaddiction.com
 internetfreedom.org
 ||internetpopculture.com
+||iphonedownloadblog.com
 ||iphonehacks.com
 ||ipicture.ru
 ipobar.com
 ||ironicsoftware.com
-is.gd/1VO1f
-is.gd/1VOp7
 .beta.iset.com.tw/forum
 ||beta.iset.com.tw
 forum.iset.com.tw
@@ -1269,7 +1276,6 @@ lsforum.net
 !--------------------------MM--------------------------
 .macau-focus.com
 ||mad-ar.ch
-mang.ma/d
 mail-archive.com
 |http://cq.mail163.to/
 ||makemymood.com
@@ -1801,7 +1807,7 @@ forum.slime.com.tw
 @@||static.soup.io
 .slinkset.com
 sneakme.net
-|http://sns.ly
+||sns.ly
 .sobees.com
 ||sobees.com
 ||soft-artemis.com
@@ -1936,7 +1942,6 @@ topsy.com
 .torproject.org
 touch99.com
 ||toutfr.com
-||tr.im/DZ0o
 ||trackon.org
 ||travelinlocal.com
 .trialofccp.org
@@ -1958,9 +1963,9 @@ bb.ttv.com.tw/bb
 .tube.com
 tube8.com
 tuidang.net
-||tuite.de
 |http:*.tuite.de
-.tuite.im
+|http:*tuite.im
+tuite.in
 bbs.tuitui.info
 ||turningtorso.com
 ||tuxmachines.org
@@ -2132,11 +2137,11 @@ tor.updatestar.com
 ||uploader.jp
 |http://myshare.url.com.tw/
 ||urlborg.com
+|http:*us.to
 ||usacn.com
 |http://www.cafc.uscourts.gov/
 earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
-|http:*us.to
 .ustream.tv
 ||ustream.tv
 .uwants.com
@@ -2189,6 +2194,7 @@ washeng.net
 .wattpad.com
 .wearn.com
 ||wearn.com
+twitese.webbang.net
 ||web2project.net
 webs-tv.net
 webshots.com
@@ -2310,6 +2316,7 @@ xmovies.com
 ||xnview.com
 .xnxx.com
 ||xnxx.com
+||k2.xrea.com
 xtube.com
 blog.xuite.net
 ||photo.xuite.net
@@ -2378,6 +2385,7 @@ ytht.net
 yuanming.net
 ||yunchao.net
 ||yvesgeleyn.com
+yx51.net
 |http://www.yzzk.com/
 
 !--------------------------ZZ--------------------------
