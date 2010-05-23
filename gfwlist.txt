@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tIsIpYxXWt1Sg99B+oMW0w
+! Checksum: gMg8r4mzc+46Dz/LqiLjjw
 ! Expires: 6h
-! Last Modified: Sat, 22 May 2010 01:27:59 +0800
+! Last Modified: Sun, 23 May 2010 22:02:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -102,6 +102,7 @@ adultfriendfinder.com
 ||advertfan.com
 ||aenhancers.com
 ||aidsmuseum.cn
+||dashboard.aim.com
 aisex.com
 blog.aiweiwei.com
 ||blog.aiweiwei.com
@@ -867,10 +868,12 @@ grandtrial.org
 ||blog.nihilogic.dk
 ||nogoodatcoding.com
 ||blog.notdot.net
+||blog.obvious.com
 ||blog.persistent.info
 ||pigsgourdsandwikis.com
 ||portablesoft.org.ru
 ||talk.news.pts.org.tw
+||python-excel.org
 ||rapid.pk
 ||reclaimprivacy.org
 ||robertmao.com
@@ -1079,7 +1082,7 @@ hrichina.org
 huairen.me
 .huanghuagang.org
 ||huanghuagang.org
-|http://huan.in
+||hugoroy.eu
 huitter.com
 .humoron.com
 |http://www.hungerstrikeforaids.org
@@ -1209,7 +1212,6 @@ www2.kyohk.net
 .la-forum.org
 ||la-forum.org
 ladbrokes.com
-||ladygaga.com
 .lalulalu.com
 |http://www.lancsky.com/
 laomiu.com
@@ -1555,6 +1557,9 @@ plurk.com
 postadult.com
 
 !-------------Posterous-----
+||post.ly/
+||posterous.com
+.posterous.com
 ||holykaw.alltop.com
 ||post.anyu.org
 ||bralio.com
@@ -1571,12 +1576,10 @@ postadult.com
 ||mehack.com
 ||blog.nicholaspatten.com
 ||am.pengyulong.com
-||post.ly/
-||posterous.com
-.posterous.com
 ||ratoo.tk
 ||reflectionof.me
 ||log.riku.me
+||sshgfw.com
 ||steverubel.com
 ||blog.tweetdeck.com
 ||log.thws.cn
@@ -1831,7 +1834,8 @@ sowers.org.hk
 ||splitweet.com
 ||sproutcore.com
 squarespace.com
-||sshgfw.com
+.sshcenter.com
+||sshcenter.com
 www.stackfile.com/freedur
 usinfo.state.gov
 .state168.com
@@ -1991,6 +1995,7 @@ cookingtothegoodlife.com/
 ||chaos.e-spacy.com
 ||eyespirit.info
 ||tumblr.fenglu.name
+||fuckgfw.com
 ||ialmostlaugh.com
 ||life.fly4ever.me
 ||blog.foursquare.com
@@ -2109,6 +2114,7 @@ lawprofessors.typepad.com/china_law_prof_blog
 ||tzangms.com
 
 !--------------------------UU--------------------------
+.srcf.ucam.org/salon/
 humanities.uchicago.edu/faculty/ywang/hi
 album.udn.com
 blog.udn.com
@@ -2185,6 +2191,7 @@ waikeung.org/php_wind
 wallornot.org
 ||www.wan-press.org
 ||wangafu.net
+wanglixiong.com
 |http://wlx.sowiki.net
 wangruoshui.net
 www.wangruowang.org
@@ -2300,6 +2307,7 @@ destiny.xfiles.to/ubbthreads
 xh4n.cn/blog
 xhamster.com
 one.xthost.info
+s.xiaod.in
 ||xiaoma.org
 .xinmiao.com.hk
 ||xinmiao.com.hk
@@ -2665,6 +2673,8 @@ zh.wikipedia.org*%E6%B0%91%E4%B8%BB%E9%BB%A8_(%E9%A6%99%E6%B8%AF)
 zh.wikipedia.org*%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96
 !--Nuo Wei
 zh.wikipedia.org*%E6%8C%AA%E5%A8%81
+!--Peng Li Yuan
+zh.wikipedia.org*%E5%BD%AD%E4%B8%BD%E5%AA%9B
 !--Po Wang
 zh.wikipedia.org*%E7%A0%B4%E7%BD%91
 !--Qing Chao
