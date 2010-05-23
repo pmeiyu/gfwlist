@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gMg8r4mzc+46Dz/LqiLjjw
+! Checksum: 2IjPz0UR8C7x3MBsdNpQoQ
 ! Expires: 6h
-! Last Modified: Sun, 23 May 2010 22:02:04 +0800
+! Last Modified: Sun, 23 May 2010 22:05:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -441,6 +441,7 @@ forum.cyberctm.com/forum
 !-------------Dabr-----
 .dabr.co.uk
 ||dabr.co.uk
+|http://asdfg.jp/dabr
 |http://*www.cao.im
 |http://*t.fineao.cn
 |http://*funp.org
@@ -1221,6 +1222,7 @@ latelinenews.com
 ||leehare.cn
 .leenks.com
 ||lenwhite.com
+http:*li2z.cn/t
 .lianyue.net
 ||liaowangxizang.net
 .liaowangxizang.net
