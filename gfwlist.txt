@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: J1z7xqw3tqQwTMF0KUjGJw
+! Checksum: NQmgRjA8htXSobLs/wJnKw
 ! Expires: 6h
-! Last Modified: Mon, 24 May 2010 20:51:56 +0800
+! Last Modified: Tue, 25 May 2010 00:50:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1966,6 +1966,7 @@ truth101.co.tv/post
 ||truthcn.com
 .truveo.com
 |http:*ts60.com
+@@||ts60.com
 .tsemtulku.com
 tsquare.tv
 .tt1069.com
@@ -1976,6 +1977,7 @@ bb.ttv.com.tw/bb
 .tube.com
 tube8.com
 tuidang.net
+||tuite.de
 |http:*.tuite.de
 |http:*tuite.im
 tuite.in
