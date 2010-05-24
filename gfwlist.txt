@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2IjPz0UR8C7x3MBsdNpQoQ
+! Checksum: J1z7xqw3tqQwTMF0KUjGJw
 ! Expires: 6h
-! Last Modified: Sun, 23 May 2010 22:05:56 +0800
+! Last Modified: Mon, 24 May 2010 20:51:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -118,7 +118,7 @@ alliance.org.hk
 .allinfa.com
 ||allinfo.com
 ||alternate-tools.com
-@@|https://s3.amazonaws.com
+@@|https:*s3.amazonaws.com
 ||americanaccent.com
 ||americangreencard.com
 ||amiblockedornot.com
@@ -407,7 +407,7 @@ cmule2.com
 |http://cochina.org
 .code1984.com/64
 ||codecguide.com
-|http://codepad.org
+|http://*codepad.org
 ||coedmagazine.com
 ||collateralmurder.com
 ||google.coloor.net
@@ -416,6 +416,9 @@ commandlineisking.com
 .committeetoprotectbloggers.org
 .competitionforce.hk
 ||coolinfographics.com
+!--wikileaks ip
+||collateralmurder.com
+||collateralmurder.org
 |http://www.coolloud.org.tw/
 copytaste.com
 .copycat2u.net/bbs
@@ -441,13 +444,15 @@ forum.cyberctm.com/forum
 !-------------Dabr-----
 .dabr.co.uk
 ||dabr.co.uk
-|http://asdfg.jp/dabr
+|http://*asdfg.jp/dabr
 |http://*www.cao.im
 |http://*t.fineao.cn
 |http://*funp.org
 |http://*heix.pp.ru
 |http://*.higfw.com
 |http://*t.ikemi.org
+|http://.imkev.com
+||imkev.com
 |http://*t.kunshou.net
 |http://*t.leeiio.me
 |http://*mang.ma/d
@@ -460,7 +465,8 @@ dadazim.com
 ||dadi360.com
 .dadi360.com
 .daigou.in
-||photos.dailyme.com
+.dailidaili.com
+dailidaili.com
 .dailymotion.com
 ||dailymotion.com
 dajiyuan.com
@@ -627,6 +633,7 @@ findbook.tw
 .fireofliberty.org
 ||fireofliberty.org
 ||fireuploader.com
+twitter.fishnote.net
 ||flagfox.net
 fleshbot.com
 
@@ -1991,7 +1998,8 @@ bbs.tuitui.info
 ||blog.couch.io
 !-||blog.bit.ly
 ||cubicle17.com
-cookingtothegoodlife.com/ 
+||cookingtothegoodlife.com
+||photos.dailyme.com
 ||davidkaneda.com
 ||drewolanoff.com
 ||chaos.e-spacy.com
@@ -2053,6 +2061,7 @@ tweetmeme.com*story
 ||tweetrans.com
 tweetree.com
 ||tweetwally.com
+tweetymail.com
 |http:*twibase.com
 .twibble.de
 ||twibble.de
@@ -2237,7 +2246,6 @@ wg1966.com
 zh.uncyclopedia.wikia.com
 ||wikiwiki.jp
 ||wikileaks.org
-@@||secure.wikileaks.org
 ||wikimapia.org
 ||secure.wikimedia.org
 ||wikimedia.org.mo
