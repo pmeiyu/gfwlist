@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NQmgRjA8htXSobLs/wJnKw
+! Checksum: wiNKjH+fvHYiXDH23IiWkg
 ! Expires: 6h
-! Last Modified: Tue, 25 May 2010 00:50:13 +0800
+! Last Modified: Tue, 25 May 2010 01:50:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -915,6 +915,7 @@ grandtrial.org
 ||74.125.94.160
 |http:*/search?q=cache
 |http:*/search%3Fq%3Dcache
+|http:*%2Fsearch%3Fq%3Dcache
 |http:*google*search*q=cache
 |http://www.google.com/search*q=dongtaiwang
 |http://www.google.com/search*free*gate
