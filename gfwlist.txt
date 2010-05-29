@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Cq9v2FL4g5Ub2+kQgxlpqg
+! Checksum: pmkuJWbqd9kzths29Ru1vA
 ! Expires: 6h
-! Last Modified: Fri, 28 May 2010 11:43:33 +0800
+! Last Modified: Sat, 29 May 2010 12:37:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -436,6 +436,7 @@ cuihua.org
 .cuiweiping.net
 ||cuiweiping.net
 ||culture.tw
+||curious-creature.org
 ||curvefish.com
 ||cvicse.com
 forum.cyberctm.com/forum
@@ -823,6 +824,7 @@ grandtrial.org
 ||downforeveryoneorjustme.com
 ||dumblittleman.com
 ||feeds.dzone.com
+||eishay.com
 ||s.evernote.com
 ||evhead.com
 ||fatvat.co.uk
@@ -836,6 +838,7 @@ grandtrial.org
 ||blog.gatein.org
 ||feeds.gawker.com
 ||gmer.net
+||gmote.org
 ||blog.go2web20.net
 ||blog.google.org
 ||www.greasespot.net
@@ -889,6 +892,7 @@ grandtrial.org
 ||python-excel.org
 ||rapid.pk
 ||reclaimprivacy.org
+||blog.reddit.com
 ||robertmao.com
 ||ghs.romeo-foxtrot.com
 ||salmiyuck.com
@@ -2267,6 +2271,7 @@ zh.uncyclopedia.wikia.com
 ||wikimedia.org.mo
 ||willw.net
 ||windowsphoneme.com
+winwhispers.info
 ||wiredpen.com
 .wo.tc
 ||woeser.com
@@ -2288,6 +2293,7 @@ worldjournal.com
 ||icanhascheezburger.com
 ||blog.linkedin.com
 ||menro.me
+||michaeldehaan.net
 ||nandalala.com
 ||p2theme.com
 ||blog.pixelpipe.com
