@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pmkuJWbqd9kzths29Ru1vA
+! Checksum: 1ugVQfLHwX9pgebwlVfRWg
 ! Expires: 6h
-! Last Modified: Sat, 29 May 2010 12:37:44 +0800
+! Last Modified: Tue, 01 Jun 2010 23:58:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -43,7 +43,6 @@ bbs.1tor.com
 ||45av.net
 .4tube.com
 ||4tube.com
-4shared.com
 bbs.51.ca
 blog.51.ca
 info.51.ca
@@ -224,8 +223,6 @@ bignews.org
 ||billywr.com
 ||bind2.com
 ||bing.com/twitter
-.bit.ly
-||bit.ly
 bjlzfz.com
 .bjzm.org
 ||bkite.com
@@ -254,7 +251,7 @@ bomb.tv
 ||developers.box.net
 .bravoteens.com
 .briefdream.com/%E7%B4%A0%E6%A3%BA
-briian.com
+!-briian.com
 brightkite.com
 bspon.com
 .btmon.com
@@ -706,7 +703,7 @@ funp.com
 ||futuremessage.org
 ||fzh999.net
 
-!--------------------------GG--------------------------
+!------------------------gg------------------------
 ||gabocorp.com
 ||galenwu.com
 galge.com
@@ -740,6 +737,7 @@ hk.geocities.com
 geocities.jp
 ||geohot.com
 ||geometrictools.com
+||get-digital-help.com
 |http://files.getdropbox.com
 ||www.getdropbox.com
 ||getjetso.com
@@ -808,6 +806,7 @@ grandtrial.org
 ||feeds.boingboing.net
 ||secrets.blacktree.com
 ||moblog.bradleyit.com
+||breakingnews.com
 ||feeds.cbsnews.com
 ||chromeexperiments.com
 ||chromium.org
@@ -1085,8 +1084,7 @@ hkjc.com
 apps.hloli.net/gfwtube
 blog.hnjhj.com
 hongmeimei.com
-.hootsuite.com
-||hootsuite.com
+|http://hootsuite.com/ajax/stream
 ||hopto.org
 ||hostingpics.net
 img129.hotlinkimage.com
@@ -1188,6 +1186,7 @@ ac.jiruan.net
 ||jobso.tv
 ||journalofdemocracy.org
 .jp-sex.com
+||wiki.jqueryui.com
 ||wiki.js-kit.com
 ||juliereyc.com
 .junefourth-20.net
@@ -1372,6 +1371,7 @@ plurktop.mmdays.com
 ||moviefap.com
 |http://www.moztw.org
 ||mp/
+@@||j.mp
 @@||chi.mp/
 @@||get.mp/
 @@||www.mp/
@@ -1390,6 +1390,7 @@ multiupload.com
 ||muzi.net
 ||muzicana.uk.to
 ||www.my219.cn
+||myaudiocast.com
 ||mybyways.net
 ||bbs.mychat.to
 |http://www.mycould.com/
@@ -1556,7 +1557,7 @@ picturesocial.com
 .planetsuzy.org
 plays.com.tw
 plurk.com
-||plurkk.com
+||plurk.com
 ||plurktemplates.com
 .plus28.com
 .plusbb.com
@@ -1670,6 +1671,7 @@ www.radioaustralia.net.au*chinese*articles*
 rangzen.org
 ranyunfei.com
 .rapidshare1.com
+||rapidshare8.com
 .rapidsharedata.com
 rcinet.ca
 .read100.com
@@ -2015,7 +2017,7 @@ bbs.tuitui.info
 ||bobulate.com
 ||bonjourlesgeeks.com
 ||blog.couch.io
-!-||blog.bit.ly
+||blog.bit.ly
 ||cubicle17.com
 ||cookingtothegoodlife.com
 ||photos.dailyme.com
@@ -2090,6 +2092,7 @@ twibbon.com
 ||twilightrender.com
 twilog.org
 ||twip.me/
+twistar.cc
 ||twisell.com
 twisternow.com
 twistory.net
@@ -2202,8 +2205,6 @@ mysite.verizon.net
 ||vidoemo.com
 video.tiscali.it/canali/truveo
 ||village-idiot.org
-.vimeo.com
-||vimeo.com
 voanews.com
 .vot.org
 ||vox.com/
@@ -2349,8 +2350,6 @@ xinshijue.com
 .xirang.us
 ||xirang.us
 xizang-zhiye.org
-.xmarks.com
-||xmarks.com
 xmovies.com
 ||xnview.com
 .xnxx.com
