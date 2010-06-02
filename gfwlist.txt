@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: P4Pf8jvAFYGbZSYKY9POdw
+! Checksum: uyddXFHiJXaWBn45kkF3Bg
 ! Expires: 6h
-! Last Modified: Wed, 02 Jun 2010 08:48:19 +0800
+! Last Modified: Wed, 02 Jun 2010 16:47:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -543,7 +543,6 @@ dtiserv2.com
 ||duoweitimes.com
 duping.net
 dupola.com
-dupola.net
 ||dvorak.org
 .dw-world.com
 ||dw-world.com
@@ -1083,7 +1082,7 @@ hkjc.com
 apps.hloli.net/gfwtube
 blog.hnjhj.com
 hongmeimei.com
-|http://hootsuite.com/ajax/stream
+|http://*hootsuite.com
 ||hopto.org
 ||hostingpics.net
 img129.hotlinkimage.com
@@ -1133,6 +1132,7 @@ igfw.tk
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
+|http://*img.ly
 .imlive.com
 ||incredibox.fr
 |http://www.inmediahk.net/
@@ -1491,7 +1491,6 @@ www.orchidbbs.com
 ||orn.jp
 .orzistic.org
 ||orzistic.org
-otweets.com
 .oursogo.com
 |http://oursogo.com
 ||overstimulate.com
@@ -1735,8 +1734,6 @@ scribd.com
 ||searchfreefonts.com
 secretchina.com
 ||secretgarden.no
-.seesmic.com
-||seesmic.com
 ||seezone.net
 sejie.com
 .sendspace.com/file
@@ -1968,7 +1965,6 @@ tokyo-hot.com
 .topnews.in
 .topshareware.com
 ||topstyle4.com
-topsy.com
 ||tornadoweb.org
 .torproject.org
 touch99.com
@@ -2072,11 +2068,8 @@ tvboxnow.com
 twbbs.org
 ||twblogger.com
 tweepmag.com
-tweepml.org
 ||tweete.net
 |http://*m.tweete.net
-.tweetmeme.com
-||tweetmeme.com
 tweetmeme.com*story
 ||tweetrans.com
 tweetree.com
@@ -2101,12 +2094,7 @@ twitbrowser.net
 ||twitcause.com
 ||twitgether.com
 ||twiggit.org
-twitgoo.com
 ||twithive.com
-.twitiq.com
-||twitiq.com
-.twitlonger.com
-||twitlonger.com
 twitoaster.com
 ||twitonmsn.com
 .twitpic.com
@@ -2117,10 +2105,6 @@ twitreferral.com
 .twitter.com
 ||twitter.com
 /^https?:\/\/[^\/]+twitter\.com/
-!--IP of Twitter
-128.121.146.228
-twittercounter.com
-||twitterfeed.com
 |http:*twitterfeed.com
 .twittergadget.com
 ||twittergadget.com
@@ -2131,8 +2115,6 @@ twitthat.com
 ||twitthis.com
 .twitturly.com
 |http://twitturly.com
-.twitvid.com
-|http://twitvid.com
 .twitzap.com
 twiyia.com
 ||twohungrydudes.com
