@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1ugVQfLHwX9pgebwlVfRWg
+! Checksum: P4Pf8jvAFYGbZSYKY9POdw
 ! Expires: 6h
-! Last Modified: Tue, 01 Jun 2010 23:58:07 +0800
+! Last Modified: Wed, 02 Jun 2010 08:48:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -239,7 +239,6 @@ blogimg.jp
 ||bloglines.com
 rconversation.blogs.com
 blogtd.net
-blogtd.org
 .bloomberg.com*pid=20601087
 ||bnrmetal.com
 ||bobchao.net
