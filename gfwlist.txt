@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: uyddXFHiJXaWBn45kkF3Bg
+! Checksum: Zz0wLDeKMvlZdq3LqJtReg
 ! Expires: 6h
-! Last Modified: Wed, 02 Jun 2010 16:47:28 +0800
+! Last Modified: Wed, 02 Jun 2010 18:16:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1132,7 +1132,8 @@ igfw.tk
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
-|http://*img.ly
+.img.ly
+||img.ly
 .imlive.com
 ||incredibox.fr
 |http://www.inmediahk.net/
@@ -1271,6 +1272,7 @@ linuxconfig.org
 |http:*twitese.spaces.live.com
 |http:*wangyi64.spaces.live.com
 |http:*wenyunchao.spaces.live.com
+|http:*williamlong.spaces.live.com
 |http:*yanghengjun.spaces.live.com
 |http:*yezimary.spaces.live.com
 |http:*zengjinyan.spaces.live.com
@@ -2042,6 +2044,7 @@ bbs.tuitui.info
 ||minimalmac.com
 ||navigeaters.com
 ||blog.opentumblr.com
+||thedailywh.at
 ||blogs.thws.cn
 ||thisiswhyyouarefat.com
 ||tomsc.com
@@ -2365,9 +2368,6 @@ n.yam.com
 news.yam.com
 .ydy.com
 yeeyi.com
-.yfrog.com
-||yfrog.com
-||yfrog.us
 .yi.org
 .yidio.com
 ||yidio.com
