@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kTlz/63JI8nqvAnDy34ccQ
+! Checksum: k/HWpcWKadaVOP8ZN2tHEw
 ! Expires: 6h
-! Last Modified: Thu, 03 Jun 2010 09:37:12 +0800
+! Last Modified: Thu, 03 Jun 2010 20:29:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -738,6 +738,7 @@ geocities.jp
 ||get-digital-help.com
 |http://files.getdropbox.com
 ||www.getdropbox.com
+.getfreedur.com
 ||getjetso.com
 .getjetso.com/forum
 ||getuploader.com
@@ -1040,6 +1041,7 @@ hbo.com/docs/*/china
 .hechaji.com
 ||hecjaji.com
 ||hellonewyork.us
+||helloqueer.com
 hellotxt.com
 ||htxt.com
 .hellouk.org/forum/lofiversion
@@ -1104,6 +1106,7 @@ huitter.com
 |http://www.hungerstrikeforaids.org
 
 !--------------------------II--------------------------
+||i2runner.com
 |http://board.i-cable.com
 |http://cablenews.i-cable.com
 .iasiaweekly.com
@@ -1314,6 +1317,7 @@ maruta.be/forget
 |http://www.mathtunnel.com/
 ||mauvaise-haleine.info
 member.maxi-247.org
+||memowind.org
 .mcy.hk
 .md-t.org
 ||md-t.org
@@ -1483,8 +1487,6 @@ omnitalk.
 ||onebigfluke.com
 ||caterpillar.onlyfun.net
 .oopsforum.com
-ooosee.com/fuckgfw
-||ooosee.com
 open.com.hk
 ||openid.cn
 opera.com/mini
@@ -1553,6 +1555,7 @@ picturesocial.com
 @@||blog.pixnet.net
 @@||forum.pixnet.net
 .pk.com
+||placemix.com
 .planetsuzy.org
 plays.com.tw
 plurk.com
@@ -1900,6 +1903,7 @@ blog.syx86.cn/2009/09/puff
 taiwankiss.com
 taiwan-sex.com
 ||talbenshahar.com
+||tamiaode.tk
 tangben.com
 .taolun.info
 ||taolun.info
@@ -1966,6 +1970,7 @@ tokyo-hot.com
 .topnews.in
 .topshareware.com
 ||topstyle4.com
+topsy.com/s?q=*gfw
 ||tornadoweb.org
 .torproject.org
 touch99.com
@@ -2062,8 +2067,6 @@ bbs.tuitui.info
 tvboxnow.com
 ||tvunetworks.com
 .gov.tw/
-.twaitter.com
-||twaitter.com
 ||twaud.io
 .twaud.io
 .twbbs.net.tw
@@ -2074,7 +2077,6 @@ tweepmag.com
 |http://*m.tweete.net
 tweetmeme.com*story
 ||tweetrans.com
-tweetree.com
 ||tweetwally.com
 tweetymail.com
 |http:*twibase.com
@@ -2097,7 +2099,6 @@ twitbrowser.net
 ||twitgether.com
 ||twiggit.org
 ||twithive.com
-twitoaster.com
 ||twitonmsn.com
 .twitpic.com
 ||twitpic.com
@@ -2107,12 +2108,11 @@ twitreferral.com
 .twitter.com
 ||twitter.com
 /^https?:\/\/[^\/]+twitter\.com/
-|http:*twitterfeed.com
+twitterfeed.com
 .twittergadget.com
 ||twittergadget.com
 .twitterkr.com
 ||twitterkr.com
-||twittermail.com
 twitthat.com
 ||twitthis.com
 .twitturly.com
