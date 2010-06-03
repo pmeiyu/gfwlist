@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: k/HWpcWKadaVOP8ZN2tHEw
+! Checksum: /JKhSOFVHVU5DBkCzLVEgw
 ! Expires: 6h
-! Last Modified: Thu, 03 Jun 2010 20:29:45 +0800
+! Last Modified: Thu, 03 Jun 2010 22:32:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2721,6 +2721,8 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 zh.wikipedia.org*%E7%8E%8B%E5%B2%90%E5%B1%B1
 !--Wang Wei Lin
 zh.wikipedia.org*%E7%8E%8B%E7%BB%B4%E6%9E%97
+!--Wang You Cai
+zh.wikipedia.org*%E7%8E%8B%E6%9C%89%E6%89%8D
 !--Wei Jing Sheng
 zh.wikipedia.org*%E9%AD%8F%E4%BA%AC%E7%94%9F
 !--Wen Chuan Da Di Zhen
@@ -2810,6 +2812,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A
 !--Zhong Guo Gong Chan Dang -- Traditional Chinese
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB
+!--Zhong Guo Min Zhu Dang
+zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
 !--Zhong Guo Min Zhu Yun Dong
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8
 !--Zhong (Hua Ren Min Gong He) Guo Ren Quan
