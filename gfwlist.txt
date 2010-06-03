@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Zz0wLDeKMvlZdq3LqJtReg
+! Checksum: kTlz/63JI8nqvAnDy34ccQ
 ! Expires: 6h
-! Last Modified: Wed, 02 Jun 2010 18:16:17 +0800
+! Last Modified: Thu, 03 Jun 2010 09:37:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -777,7 +777,6 @@ grandtrial.org
 
 !-------------Google Docs-----
 |http:*spreadsheets.google.com
-|https://spreadsheets.google.com
 |http://docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
 |http://docs.google.com/View?id=d8xbpp6_4hhpb2dfd
 |http://docs.google.com/View?id=dds68dz_9cqgm8vgq
