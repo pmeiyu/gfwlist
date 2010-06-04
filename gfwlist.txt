@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /JKhSOFVHVU5DBkCzLVEgw
+! Checksum: YGhERft2Xyh5KbGA+D99Bw
 ! Expires: 6h
-! Last Modified: Thu, 03 Jun 2010 22:32:26 +0800
+! Last Modified: Fri, 04 Jun 2010 11:43:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1313,6 +1313,7 @@ markmail.org*message
 ||martau.com
 maruta.be/forget
 ||marxist.net
+mashable.com
 ||mathiew-badimon.com
 |http://www.mathtunnel.com/
 ||mauvaise-haleine.info
@@ -1732,6 +1733,7 @@ rti.org.tw
 .samair.ru/proxy/type-01
 ||sandradodd.com
 .sanmin.com.tw
+http:*sapikachu.net
 savetibet.org
 ||say2.info
 scribd.com
@@ -2423,6 +2425,7 @@ www.zaurus.org.uk
 ||zhanbin.net
 zhengjian.org
 ||zhongmeng.org
+zhufeng.me
 .ziddu.com/download
 .zoozle.net
 ||zuihulu.net
