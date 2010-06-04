@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QyL1T1Wu+1Wubw7eph8Tyw
+! Checksum: EAPFe9rrb2eGKem+G2jZ5g
 ! Expires: 6h
-! Last Modified: Fri, 04 Jun 2010 12:24:34 +0800
+! Last Modified: Fri, 04 Jun 2010 14:15:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -649,6 +649,7 @@ fleshbot.com
 yuming.flnet.org
 ||fooledbyrandomness.com
 www.forum4hk.com
+foursquare.com
 ||fotop.net
 .free.fr/adsl
 ||allonlinux.free.fr
@@ -1376,7 +1377,6 @@ plurktop.mmdays.com
 ||moviefap.com
 |http://www.moztw.org
 ||mp/
-@@||j.mp
 @@||chi.mp/
 @@||get.mp/
 @@||www.mp/
