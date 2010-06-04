@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YGhERft2Xyh5KbGA+D99Bw
+! Checksum: QyL1T1Wu+1Wubw7eph8Tyw
 ! Expires: 6h
-! Last Modified: Fri, 04 Jun 2010 11:43:20 +0800
+! Last Modified: Fri, 04 Jun 2010 12:24:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1685,6 +1685,7 @@ blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 ||reflectivecode.com
 ||refer.ccbill.com
+http:*remembering_tiananmen_20_years
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
