@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vkz+Zvdqgu8GNkoSyPP9lQ
+! Checksum: 8vFqg7nte2JpHQh2X4W2Yw
 ! Expires: 6h
-! Last Modified: Sat, 05 Jun 2010 01:50:28 +0800
+! Last Modified: Sun, 06 Jun 2010 11:52:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2390,7 +2390,6 @@ forum.yorkbbs.ca
 .youjizz.com
 ||youjizz.com
 youmaker.com
-.youporn.com
 |http://www.youpai.org/
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
