@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8vFqg7nte2JpHQh2X4W2Yw
+! Checksum: bkvQ7ZIcvVtDfS102c4kuA
 ! Expires: 6h
-! Last Modified: Sun, 06 Jun 2010 11:52:25 +0800
+! Last Modified: Mon, 07 Jun 2010 17:35:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -33,6 +33,8 @@ bbs.1tor.com
 205.209.177.79
 ||20x.cc
 ||2dmoe.com
+.2shared.com
+||2shared.com
 .2tips.com
 .36rain.com
 ||36rain.com
@@ -220,12 +222,12 @@ bignews.org
 .bigtube.com
 ||bigtube.com
 ||bikinivoyeur.com
+||bill2-software.com
 ||billywr.com
 ||bind2.com
 ||bing.com/twitter
 bjlzfz.com
 .bjzm.org
-||bkite.com
 ||blackra1n.com
 tor.blingblingsquad.net
 .blip.tv
@@ -250,7 +252,7 @@ bomb.tv
 ||developers.box.net
 .bravoteens.com
 .briefdream.com/%E7%B4%A0%E6%A3%BA
-!-briian.com
+||bkite.com
 brightkite.com
 bspon.com
 .btmon.com
@@ -473,7 +475,9 @@ dalailama.com
 ||dalailamaworld.com
 ||damipan.com
 .danke4china.net
-danwei.org
+||danke4china.net
+.danwei.org
+||danwei.org
 .daolan.net
 ||darpa.mil
 daxa.cn
@@ -598,6 +602,8 @@ fail.hk
 ||failforum.net
 fanfou.im
 /^https?:\/\/[^\/]+fanfou\.im/
+|http:*fanfou.de
+|http:*fanfou.la
 fangeming.com
 .farwestchina.com
 en.favotter.net
@@ -650,6 +656,7 @@ fleshbot.com
 yuming.flnet.org
 ||fooledbyrandomness.com
 www.forum4hk.com
+||4sq.com
 foursquare.com
 ||fotop.net
 .free.fr/adsl
@@ -1046,7 +1053,7 @@ hbo.com/docs/*/china
 ||hellonewyork.us
 ||helloqueer.com
 hellotxt.com
-||htxt.com
+||htxt.it
 .hellouk.org/forum/lofiversion
 .helpeachpeople.com
 ||helpeachpeople.com
@@ -1372,6 +1379,9 @@ mm36c.com
 plurktop.mmdays.com
 .mmmca.com
 ||mobatek.net
+||moby.to
+.mobypicture.com
+||mobypicture.com
 ||mobile01.com
 .mofosex.com
 .momimi.us
@@ -2195,7 +2205,6 @@ mysite.verizon.net
 ||vidoemo.com
 video.tiscali.it/canali/truveo
 ||village-idiot.org
-voanews.com
 .vot.org
 ||vox.com/
 www.voy.com
@@ -2528,6 +2537,7 @@ gfwProxyEnabled=yes
 |http://en.wikipedia.org*Internet_censorship
 |http://en.wikipedia.org*Liu_Xiaobo
 |http://en.wikipedia.org*Shi_Tao
+|http://en.wikipedia.org*Tank_man
 |http://en.wikipedia.org*Tiananmen_Square_protests_of_1989
 
 !-------------zh.Wiki----------
