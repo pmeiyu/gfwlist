@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bkvQ7ZIcvVtDfS102c4kuA
+! Checksum: JOSq4L0ju58cZrHYIakEEg
 ! Expires: 6h
-! Last Modified: Mon, 07 Jun 2010 17:35:21 +0800
+! Last Modified: Tue, 08 Jun 2010 19:12:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2790,6 +2790,8 @@ zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
 zh.wikipedia.org*%E6%98%9F%E4%BA%91%E6%B3%95%E5%B8%88
 !--Xiong Yan
 zh.wikipedia.org*%E7%86%8A%E7%84%B1
+!--Xu Jia Tun
+zh.wikipedia.org*%E8%AE%B8%E5%AE%B6%E5%B1%AF
 !--Xun Wen Chu
 zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 !--Yan Ming Fu
