@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q+TMm9b94LstbV0/4VhcOQ
+! Checksum: VMkGyf/rYx8k5oRwV1Be9Q
 ! Expires: 6h
-! Last Modified: Thu, 10 Jun 2010 01:05:35 +0800
+! Last Modified: Sun, 13 Jun 2010 02:29:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -657,6 +657,7 @@ fleshbot.com
 ||tradinggoddess.com
 yuming.flnet.org
 ||fooledbyrandomness.com
+blog.foolsmountain.com
 www.forum4hk.com
 ||4sq.com
 foursquare.com
@@ -764,7 +765,8 @@ gigporno.ru
 ||glacierparkmagazine.com
 ||glennhilton.com
 globalmuseumoncommunism.org
-zh.globalvoicesonline.org
+.globalvoicesonline.org
+||globalvoicesonline.org
 gmbd.cn
 ||gmhz.org
 ||goldwave.com
@@ -781,6 +783,17 @@ grandtrial.org
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
+.greenparty.org.tw
+||greenparty.org.tw
+gpass1.com
+twitter.grader.com
+great-firewall.com
+gs-discuss.com
+.gseeker.com/50226711/eeieyoutubeagooglec_121822.php
+||gtkforums.com
+||gtricks.com
+||gutteruncensored.com
+||gzone-anime.info
 
 !-------------Google Code-----
 |http://code.google.com/p/cngepi/downloads
@@ -817,6 +830,7 @@ grandtrial.org
 ||secrets.blacktree.com
 ||moblog.bradleyit.com
 ||breakingnews.com
+||canonfilmmakerslive.com
 ||feeds.cbsnews.com
 ||chromeexperiments.com
 ||chromium.org
@@ -876,6 +890,7 @@ grandtrial.org
 ||docs.latexlab.org
 ||leechermods.com
 ||feeds.limi.net
+||linksalpha.com
 ||www.liteapplications.com
 ||blog.liukangxu.info
 ||blog.llvm.org
@@ -1028,16 +1043,6 @@ anti.anti.cnn.googlepages.com
 myboooks.googlepages.com
 .googlevideo.com
 
-gpass1.com
-twitter.grader.com
-great-firewall.com
-gs-discuss.com
-.gseeker.com/50226711/eeieyoutubeagooglec_121822.php
-||gtkforums.com
-||gtricks.com
-||gutteruncensored.com
-||gzone-anime.info
-
 !--------------------------HH--------------------------
 h1n1china.org
 .hacg.net/bbs
@@ -1097,8 +1102,7 @@ hkjc.com
 apps.hloli.net/gfwtube
 blog.hnjhj.com
 hongmeimei.com
-.hootsuite.com
-||hootsuite.com
+hootsuite.com
 ||hopto.org
 ||hostingpics.net
 img129.hotlinkimage.com
@@ -1159,6 +1163,7 @@ internetfreedom.org
 ||internetpopculture.com
 ||iphonedownloadblog.com
 ||iphonehacks.com
+||iphonix.fr
 ||ipicture.ru
 ipobar.com
 ||ironicsoftware.com
@@ -1272,6 +1277,7 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 linuxconfig.org
 .lipuman.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
+http:*liu.lu
 ||livingonline.us
 
 !-------------live spaces-----
@@ -1559,6 +1565,7 @@ penchinese.com
 ||petapixel.com
 petardas.com
 philly.com
+||photofocus.com
 ||photou.in
 .picidae.net
 picturesocial.com
@@ -1903,6 +1910,7 @@ cn2.streetvoice.com
 tw.streetvoice.com
 ||suicideblitz.info
 ||summize.com
+http:*suoluo.org
 ||superspeed.com
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
@@ -2036,6 +2044,7 @@ bbs.tuitui.info
 ||365singles.com.ar
 ||news.atebits.com
 ||tumblr.awflasher.com
+||blog.birdhouseapp.com
 ||bobulate.com
 ||bonjourlesgeeks.com
 ||blog.couch.io
@@ -2156,6 +2165,7 @@ fanfou.im
 |http:*fanfou.de
 |http:*fanfou.la
 guomin.us/login
+t.fishnote.net
 twitter.fishnote.net
 |http:*tuite.im
 tuite.in
@@ -2358,6 +2368,8 @@ xhamster.com
 one.xthost.info
 s.xiaod.in
 ||xiaoma.org
+.xiaohexie.com
+||xiaohexie.com
 .xinmiao.com.hk
 ||xinmiao.com.hk
 xinsheng.net
