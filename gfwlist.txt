@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VMkGyf/rYx8k5oRwV1Be9Q
+! Checksum: 2g0khrMsnhceAjr3E6Z4ag
 ! Expires: 6h
-! Last Modified: Sun, 13 Jun 2010 02:29:49 +0800
+! Last Modified: Sun, 13 Jun 2010 02:39:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -264,7 +264,7 @@ buboo.tw
 ||bullogger.org
 ||blambin.byethost16.com
 
-!-------------BlogSpot-----
+!-------------Blogspot-----
 .blogspot.com
 !2newcenturynet.blogspot.com
 !bloooooooogger.blogspot.com
@@ -355,6 +355,8 @@ chinadigitaltimes.net
 ||chinafreepress.org
 |http://*chinagfw.org
 ||chinaguideblog.com
+.chinagreenparty.org
+||chinagreenparty.org
 ||chinagfw.com
 .chinainperspective.com
 ||chinainperspective.net
@@ -363,6 +365,8 @@ chinainperspective.net%2FArtShow.aspx%3F
 .chinainperspective.org
 ||chinainperspective.org
 ||chinainterimgov.org
+.chinagreenparty.org
+||chinagreenparty.org
 .chinamule.com
 ||chinamule.com
 ||chinaphile.com
@@ -1281,6 +1285,7 @@ http:*liu.lu
 ||livingonline.us
 
 !-------------live spaces-----
+|http:*china-green-party.spaces.live.com
 |http:*cc9007.spaces.live.com
 |http:*flowerofhappiness.spaces.live.com
 |http:*gufeng521.spaces.live.com
