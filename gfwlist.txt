@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jJpkKoanc3NHVBNStmXwdg
+! Checksum: S2FARGpW2UtCMc8A8XidJA
 ! Expires: 6h
-! Last Modified: Sun, 13 Jun 2010 13:32:46 +0800
+! Last Modified: Sun, 13 Jun 2010 05:54:19 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -52,39 +52,31 @@ info.51.ca
 .aboluowang.com
 ||aboluowang.com
 .aboutgfw.com
-||aboutgfw.com
 .aboutus.org
+||aboutus.org
 ||academicearth.com
 ||acgkj.com
 ||forum.addonsmirror.net
 ||wiki.addonsmirror.net
-.adiscuz.info
 .adult168.com
-adultfriendfinder.com
-.adultvideodump.com
 ||advanscene.com
 ||advertfan.com
 ||aenhancers.com
 ||aidsmuseum.cn
 ||dashboard.aim.com
-aisex.com
+.aisex.com
 blog.aiweiwei.com
-||blog.aiweiwei.com
 ||ajaxplorer.info
 ||ajsands.com
-.akiba-online.com/forum/index.php
 ||alabout.com
 aladding.com
 ||aladding.com
-.alivenotdead.com
-.allhabit.com
 alliance.org.hk
 ||alliance.org.hk
 .allinfa.com
 ||allinfo.com
 ||alternate-tools.com
 @@|https:*s3.amazonaws.com
-||americanaccent.com
 ||americangreencard.com
 ||amiblockedornot.com
 .amnesty.org
@@ -92,12 +84,9 @@ alliance.org.hk
 .amnestyusa.org
 ||amnestyusa.org
 .amoiist.com
-.anchorfree.com
 ||anchorfree.com
 ||anda.pk/
-||angel.hk
 .anonymizer.com
-anonymouse.org
 ||anthonycalzadilla.com
 ||about.aol.com
 ||aolchannels.aol.com
@@ -105,14 +94,10 @@ video.aol.ca/video-detail
 video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
-videoportal.aol.tw/video-detail
-.ap-ch2.com
 ||apirocks.com
 
 !-Appspot
-|http://autoproxy2pac.appspot.com
 bullog4cn.appspot.com
-gfw.appspot.com
 go2china8.appspot.com
 meme2028.appspot.com
 nest.appspot.com
@@ -126,9 +111,7 @@ twittergadget.appspot.com
 ||asapload.com
 asiademo.org
 ||asiademo.org
-.asianbabymakers.com
 asianews.it
-asianude4u.com
 ||asianwomensfilm.de
 .askynz.net
 ||askynz.net
@@ -138,12 +121,8 @@ asianude4u.com
 ||atlaspost.com
 .atnext.com
 ||atnext.com
-@@|https://autoproxy.org/
-.aventertainments.com
-||avidemux.org
+ |avidemux.org
 ||avoision.com
-||away3d.com
-||axiom-developer.org
 ||axureformac.com
 
 !--------------------------BB--------------------------
