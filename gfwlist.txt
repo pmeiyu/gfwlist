@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Xl4LwdFDiOpTupMp0fTWng
+! Checksum: dvPSSCq78GQOzQODL6ROsw
 ! Expires: 6h
-! Last Modified: Sun, 13 Jun 2010 06:15:01 +0000
+! Last Modified: Sun, 13 Jun 2010 06:20:15 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -631,7 +631,7 @@ funp.com
 ||futuremessage.org
 ||fzh999.net
 
-!------------------------gg------------------------
+!------------------------GG------------------------
 ||gabocorp.com
 ||galenwu.com
 galge.com
@@ -641,6 +641,8 @@ galge.com
 forum.gamer.com.tw
 .gamez.com.tw
 ||gamez.com.tw
+.gaoming.net
+||gaoming.net
 gaopi.com
 .gaopi.net
 ||gaopi.net
