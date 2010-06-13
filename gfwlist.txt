@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: C/g0z6Britest1qTVbk4RQ
+! Checksum: F6gPhOhALgkwroFoBhS8XQ
 ! Expires: 6h
-! Last Modified: Sun, 13 Jun 2010 06:44:08 +0000
+! Last Modified: Sun, 13 Jun 2010 07:00:22 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -109,6 +109,7 @@ twittergadget.appspot.com
 ||archive.org
 ||areca-backup.org
 ||asapload.com
+asdfg.jp/dabr
 asiademo.org
 ||asiademo.org
 asianews.it
@@ -208,6 +209,7 @@ holz.byethost8.com
 
 !--------------------------CC--------------------------
 .canyu.org
+.cao.im
 .caobian.info
 ||caobian.info
 caochangqing.com
@@ -333,56 +335,30 @@ forum.cyberctm.com/forum
 ||cynscribe.com
 
 !--------------------------DD--------------------------
-!-------------Dabr-----
 .dabr.co.uk
-||dabr.co.uk
-|http://*asdfg.jp/dabr
-|http://*www.cao.im
-|http://*t.fineao.cn
-|http://*funp.org
-|http://*heix.pp.ru
-|http://*.higfw.com
-|http://*t.ikemi.org
-|http://.imkev.com
-||imkev.com
-|http://*t.kunshou.net
-|http://*t.leeiio.me
-|http://*mang.ma/d
-|http://*t.neolee.cn
-|http://*t.orzdream.com
-|http://*m.oulove.org
-|http://*shkspr.mobi/dabr
-
 dadazim.com
-||dadi360.com
+||dadazim.com
 .dadi360.com
-.daigou.in
 .dailidaili.com
-dailidaili.com
-.dailymotion.com
-||dailymotion.com
-dajiyuan.com
+.dajiyuan.com
+||dajiyuan.com
 dalailama.com
 .dalailamaworld.com
 ||dalailamaworld.com
-||damipan.com
 .danke4china.net
 ||danke4china.net
 .danwei.org
-||danwei.org
 .daolan.net
-||darpa.mil
 daxa.cn
+||daxa.cn
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
-||dba2csv.com
-de-sci.org
 packages.debian.org/zh-cn/lenny/gpass
-||debugbar.com
 ||delcamp.net
 delicious.com/GFWbookmark
 ||deluxetemplates.net
-democrats.org
+.democrats.org
+||democrats.org
 ||demogirl.com
 ||derekgooogle.com
 ||desciclopedia.org
@@ -525,6 +501,7 @@ feer.com
 ||filestube.com
 fillthesquare.org
 findbook.tw
+t.fineao.cn
 .fireofliberty.org
 ||fireofliberty.org
 ||fireuploader.com
@@ -961,6 +938,7 @@ hellotxt.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
 ||hidemyass.com
+.higfw.com
 ||hikipedia.info
 ||myweb.hinet.net
 .hisex.tv
@@ -1035,6 +1013,7 @@ w.idaiwan.com/forum
 igfw.tk
 ||ignitedetroit.net
 ||ijenny.cn
+t.ikemi.org
 ||illusionfactory.com
 |http://im.tv/
 |http://www.im.tv/
@@ -1044,6 +1023,8 @@ imageshack.us
 ||imagevenue.com
 .img.ly
 ||img.ly
+.imkev.com
+||imkev.com
 .imlive.com
 ||incredibox.fr
 |http://www.inmediahk.net/
@@ -1150,6 +1131,7 @@ laomiu.com
 latelinenews.com
 ||leecheukyan.org
 ||leehare.cn
+t.leeiio.me
 .leenks.com
 ||lenwhite.com
 http:*li2z.cn/t
@@ -1340,6 +1322,7 @@ nccwatch.org.tw
 |https://etools.ncol.com
 www.ned.org
 ||nekoslovakia.net
+t.neolee.cn
 ||nesn.com
 net.ru
 netcolony.com
@@ -1407,8 +1390,10 @@ open.com.hk
 opera.com/mini
 www.orchidbbs.com
 ||orn.jp
+t.orzdream.com
 .orzistic.org
 ||orzistic.org
+m.oulove.org
 .oursogo.com
 |http://oursogo.com
 ||overstimulate.com
@@ -1538,6 +1523,7 @@ postadult.com
 ||power.com
 powerapple.com
 ||abc.pp.ru
+heix.pp.ru
 ||top1.pp.ru
 ||prayforchina.net
 ||presentationzen.com
@@ -1698,6 +1684,7 @@ shinychan.com
 ||shixiao.org
 ||shizhao.org
 .shizhao.org
+shkspr.mobi/dabr
 .shooshtime.com
 ||shooshtime.com
 ||shulib.com
