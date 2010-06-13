@@ -1,88 +1,51 @@
 [AutoProxy 0.2.9]
-! Checksum: 2g0khrMsnhceAjr3E6Z4ag
+! Checksum: jJpkKoanc3NHVBNStmXwdg
 ! Expires: 6h
-! Last Modified: Sun, 13 Jun 2010 02:39:18 +0800
+! Last Modified: Sun, 13 Jun 2010 13:32:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 1-apple.com.tw
-100hame.com
-|http://nsf.110mb.com
-||z-o-o-m.110mb.com
-.121pp.com
+||1-apple.com.tw
+||nsf.110mb.com
 ||121pp.com
-.141hongkong.com
-||1688.com.au
-.1688.com.au/site1
-||172.31.1.95
 173ng.com
-||17e.org/
+||173ng.com
 .17e.org
-.18aol.com
-.18kin.com
-.18p2p.com
 .1bao.org
 ||1free.ws
-.1pondo.tv
 ||1pondo.tv
 bbs.1tor.com
-|http:*1yu.cn
-@@|http://www.51yu.cn/
-2000fun.com/bbs
 .2008xianzhang.info
-205.209.177.79
-||20x.cc
-||2dmoe.com
+||2008xianzhang.info
 .2shared.com
 ||2shared.com
-.2tips.com
-.36rain.com
 ||36rain.com
-|http://3b8.cc/
-.3boys2girls.com
-3park.net
+||3b8.cc/
 4.gp
-||45av.net
-.4tube.com
-||4tube.com
-bbs.51.ca
+||bbs.51.ca
 blog.51.ca
 info.51.ca
+||info.51.ca
 ||520.be
-5av.net
 .5maodang.com
-.6-4.net
 ||6-4.net/
 64memo
 64tianwang.com
 666kb.com
-69.93.3.113
 6park.com
-70.85.48.252
+||6park.com
 ||7capture.com
 ||7ztm.de.vu
 .8000.com
 ||8000.com
-|http://www.881903.com
 .888.com
-||888.com/
 89-64.org
-.8cyber.com
-8ok.com/
+||89-64.org
 ||909090909.info
-.91porn.com
-.92hg.com
-97xxoo.com
-99bbs.com
-99p2p.com
+.99bbs.com
 ||9bis.com
 ||9bis.net
-
-!--Fake IPs
-4.36.66.178
-202.181.7.85
-203.161.230.171
-216.234.179.13
 
 !--------------------------AA--------------------------
 ||aircrack-ng.org
