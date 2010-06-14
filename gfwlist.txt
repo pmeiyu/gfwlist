@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OW6sWxeN2VZGYxprih5+YQ
+! Checksum: ea51WyYO94IwXtWxJz1PlQ
 ! Expires: 6h
-! Last Modified: Mon, 14 Jun 2010 09:38:47 +0800
+! Last Modified: Mon, 14 Jun 2010 09:46:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -152,6 +152,7 @@ beijingspring.com
 .bestforchina.org
 ||bestforchina.org
 .bet365.com
+||bfnn.org
 ||bfsh.hk/
 ||biblegateway.com
 .bignews.org
@@ -470,6 +471,7 @@ eyny.com
 /^https?:\/\/[^\/]+facebook\.com/
 fail.hk
 ||failforum.net
+.fangbinxing.com
 fangeming.com
 .farwestchina.com
 en.favotter.net
@@ -484,6 +486,8 @@ video.fdbox.com
 forum*.fdzone.org
 ||fourface.nodesnoop.com
 feedbooks.mobi
+|http:*feeds.feedburner.com
+|http:*goo.gl/fb/
 |http://feeds.feedburner.com/gfwlist
 |http://feeds2.feedburner.com/chinagfwblog
 ||feedzshare.com
