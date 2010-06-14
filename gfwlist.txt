@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FwH/W972B0AiayJIcSHrng
+! Checksum: C7cARUYXCGGWp6yK11HnWw
 ! Expires: 6h
-! Last Modified: Mon, 14 Jun 2010 11:09:48 +0800
+! Last Modified: Tue, 15 Jun 2010 00:13:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -430,7 +430,6 @@ xys.dxiong.com
 .dzze.com
 
 !--------------------------EE--------------------------
-g.e-hentai.org
 e-info.org.tw
 .e-traderland.net/board
 ||e71fanatics.com
