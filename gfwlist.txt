@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: C7cARUYXCGGWp6yK11HnWw
+! Checksum: rSb4xFAsI9W+jfP2r7yVxA
 ! Expires: 6h
-! Last Modified: Tue, 15 Jun 2010 00:13:20 +0800
+! Last Modified: Tue, 15 Jun 2010 02:27:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -504,7 +504,6 @@ feer.com
 ||filestube.com
 fillthesquare.org
 findbook.tw
-t.fineao.cn
 .fireofliberty.org
 ||fireofliberty.org
 ||fireuploader.com
@@ -563,7 +562,7 @@ freemorenews.com
 www.freetibet.org
 .freetzi.com
 .freexinwen.com
-http:*friendfeed.com
+|http:*friendfeed.com
 ||frommel.net
 ||fscked.org
 |http://www.fsurf.com/
@@ -625,6 +624,7 @@ geocities.jp
 .getjetso.com/forum
 ||getuploader.com
 ||getyouram.com
+gfw.org.ua
 gigporno.ru
 .ginx.com
 |http://ginx.com
@@ -803,6 +803,7 @@ gs-discuss.com
 ||thecloudplayer.com
 ||blog.thesilentnumber.me
 ||twazzup.com
+||twivert.com
 |http://txt.io
 |http://ub0.cc
 ||tp.vbap.com.au
@@ -993,6 +994,7 @@ huairen.me
 huitter.com
 .humoron.com
 |http://www.hungerstrikeforaids.org
+||huping.net
 
 !--------------------------II--------------------------
 ||i2runner.com
@@ -1752,6 +1754,7 @@ sneakme.net
 ||sns.ly
 .sobees.com
 ||sobees.com
+socialwhale.com
 ||soft-artemis.com
 |http://en.softonic.com
 gmail-remote-command.en.softonic.com
@@ -2009,6 +2012,8 @@ twitbrowser.net
 ||twitgether.com
 ||twiggit.org
 ||twithive.com
+.twitlonger.com
+||twitlonger.com
 ||twitonmsn.com
 .twitpic.com
 ||twitpic.com
