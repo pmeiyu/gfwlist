@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ea51WyYO94IwXtWxJz1PlQ
+! Checksum: FwH/W972B0AiayJIcSHrng
 ! Expires: 6h
-! Last Modified: Mon, 14 Jun 2010 09:46:26 +0800
+! Last Modified: Mon, 14 Jun 2010 11:09:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1455,6 +1455,7 @@ picturesocial.com
 ||pingmicro.com
 ||pinoy-n.com
 .piring.com
+||s.pixfs.net
 ||css.pixnet.in
 ||pixnet.net
 |http:*.pixnet.net
