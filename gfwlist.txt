@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: as+Ljd2NG8qS5rzINQ1hhQ
+! Checksum: 3bh/KDh/G/7BLHHRd+tOmw
 ! Expires: 6h
-! Last Modified: Tue, 15 Jun 2010 19:58:59 +0800
+! Last Modified: Tue, 15 Jun 2010 20:12:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -163,11 +163,11 @@ beijingspring.com
 ||billywr.com
 ||bjlzfz.com
 bjzc.org
-||bjzc.org
+||bjzc.org/
 ||blackra1n.com
 tor.blingblingsquad.net
 .blip.tv
-||blip.tv
+||blip.tv/
 .blogcatalog.com
 ||blogcatalog.com
 .blogger.com
@@ -316,7 +316,7 @@ comefromchina.com
 ||collateralmurder.org
 ||coolloud.org.tw
 cpj.org
-||cpj.org
+||cpj.org/
 crackle.com
 ||crackle.com
 crd-net.org
@@ -352,7 +352,7 @@ dalailama.com
 .danwei.org
 .daolan.net
 daxa.cn
-||daxa.cn
+||daxa.cn/
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
 packages.debian.org/zh-cn/lenny/gpass
@@ -527,7 +527,7 @@ yuming.flnet.org
 ||fooledbyrandomness.com
 blog.foolsmountain.com
 www.forum4hk.com
-||4sq.com
+||4sq.com/
 foursquare.com
 ||fotop.net
 .free.fr/adsl
@@ -934,7 +934,7 @@ hbo.com/docs/*/china
 ||hellonewyork.us
 ||helloqueer.com
 hellotxt.com
-||htxt.it
+||htxt.it/
 .hellouk.org/forum/lofiversion
 .helpeachpeople.com
 ||helpeachpeople.com
@@ -1268,7 +1268,7 @@ mm36c.com
 plurktop.mmdays.com
 .mmmca.com
 ||mobatek.net
-||moby.to
+||moby.to/
 .mobypicture.com
 ||mobypicture.com
 ||mobile01.com
