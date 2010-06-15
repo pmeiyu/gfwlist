@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: v35uvf38HggHrmhLYTbrhg
+! Checksum: as+Ljd2NG8qS5rzINQ1hhQ
 ! Expires: 6h
-! Last Modified: Tue, 15 Jun 2010 13:41:47 +0800
+! Last Modified: Tue, 15 Jun 2010 19:58:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -341,6 +341,7 @@ dadazim.com
 ||dadazim.com
 .dadi360.com
 .dailidaili.com
+||dailidaili.com
 .dajiyuan.com
 ||dajiyuan.com
 dalailama.com
