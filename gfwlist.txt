@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3bh/KDh/G/7BLHHRd+tOmw
+! Checksum: jtq2ph+pYbqizK5xUUCEZg
 ! Expires: 6h
-! Last Modified: Tue, 15 Jun 2010 20:12:52 +0800
+! Last Modified: Tue, 15 Jun 2010 20:23:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -226,7 +226,7 @@ caochangqing.com
 cclife.org
 .cctongbao.com/article/2078732
 cdjp.org
-||cdjp.org
+||cdjp.org/
 cdp1998.org
 ||cdp1998.org
 cdpweb.org
@@ -305,7 +305,7 @@ psiphon.civisec.org
 .cmule.com
 .cnavista.com.tw/shop/stores_app
 .cnd.org
-||cnd.org
+||cnd.org/
 ||cochina.org
 .code1984.com/64
 ||collateralmurder.com
@@ -2170,7 +2170,7 @@ www.wet123.com
 wetpussygames.com
 wezhiyong.org
 .wforum.com
-||wforum.com
+||wforum.com/
 wg1966.com
 .whatblocked.com
 ||whatblocked.com
