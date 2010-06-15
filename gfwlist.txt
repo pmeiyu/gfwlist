@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rSb4xFAsI9W+jfP2r7yVxA
+! Checksum: uDAMRiPMYLZRXHZDhhNcyA
 ! Expires: 6h
-! Last Modified: Tue, 15 Jun 2010 02:27:23 +0800
+! Last Modified: Tue, 15 Jun 2010 10:21:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -418,6 +418,7 @@ dtiserv2.com
 ||duoweitimes.com
 duping.net
 dupola.com
+dupola.net
 ||dvorak.org
 .dw-world.com
 ||dw-world.com
@@ -1886,6 +1887,7 @@ tokyo-hot.com
 .topnews.in
 .topshareware.com
 ||topstyle4.com
+topsy.com
 topsy.com/s?q=*gfw
 ||tornadoweb.org
 .torproject.org
@@ -1988,6 +1990,7 @@ twbbs.org
 tweepmag.com
 ||tweete.net
 |http://*m.tweete.net
+tweetmeme.com
 tweetmeme.com*story
 ||tweetrans.com
 ||tweetwally.com
