@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GoUAYAqjgIkQlbhY7wJXvg
+! Checksum: v35uvf38HggHrmhLYTbrhg
 ! Expires: 6h
-! Last Modified: Tue, 15 Jun 2010 13:14:05 +0800
+! Last Modified: Tue, 15 Jun 2010 13:41:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1887,8 +1887,8 @@ tokyo-hot.com
 .topnews.in
 .topshareware.com
 ||topstyle4.com
-topsy.com
-topsy.com/s?q=*gfw
+||topsy.com
+|http:*topsy.com
 ||tornadoweb.org
 .torproject.org
 touch99.com
