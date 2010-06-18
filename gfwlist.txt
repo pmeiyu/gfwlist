@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: cs8mQBU85D5ZpFsAogscfw
+! Checksum: 4iSSlVZ4diqmxDOVQKWl3g
 ! Expires: 6h
-! Last Modified: Fri, 18 Jun 2010 11:07:51 +0800
+! Last Modified: Fri, 18 Jun 2010 11:11:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -838,8 +838,6 @@ gs-discuss.com
 |http://www.google.com/search*free*gate
 |http:*.google.*great*firewall
 |http:*.google.com*tits
-!--A Chan Ri Ji (jason5ng32)
-|http*.google.*%E9%98%BF%E7%A6%85%E6%97%A5%E8%AE%B0
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 |http:*.google.*gfw
@@ -865,6 +863,8 @@ http:*.google.com*search*namibia*nuctech
 |http:*.google.com*%E8%BF%AB%E5%AE%B3
 !--Qian Shi Jin Sheng
 |http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
+!--Ri Ji
+|http*.google.%E6%97%A5%E8%AE%B0
 !--Tan Zuo Ren
 |http:*.google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men
