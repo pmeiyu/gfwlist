@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jtq2ph+pYbqizK5xUUCEZg
+! Checksum: cs8mQBU85D5ZpFsAogscfw
 ! Expires: 6h
-! Last Modified: Tue, 15 Jun 2010 20:23:28 +0800
+! Last Modified: Fri, 18 Jun 2010 11:07:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -108,6 +108,7 @@ twittergadget.appspot.com
 .archive.org
 ||archive.org
 ||areca-backup.org
+||ark10.org
 ||asapload.com
 asdfg.jp/dabr
 asiademo.org
@@ -293,7 +294,9 @@ chinesenewsnet.com
 .chinesetalks.net/ch
 .chingcheong.com
 ||chingcheong.com
+!--same ip as twitlonger
 ||chrispederick.com
+||chrispederick.net
 .citizenlab.org
 city9x.com
 .civicparty.hk
@@ -302,6 +305,7 @@ city9x.com
 psiphon.civisec.org
 .ck101.com
 ||ck101.com
+||classicalguitarblog.net
 .cmule.com
 .cnavista.com.tw/shop/stores_app
 .cnd.org
@@ -337,6 +341,7 @@ forum.cyberctm.com/forum
 
 !--------------------------DD--------------------------
 .dabr.co.uk
+||dabr.co.uk
 dadazim.com
 ||dadazim.com
 .dadi360.com
@@ -470,6 +475,7 @@ eyny.com
 .facebook.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
+fanqiangyakexi.net
 fail.hk
 ||failforum.net
 .fangbinxing.com
@@ -685,6 +691,7 @@ gs-discuss.com
 
 !-------------Google ghs-----
 ||52wm.info
+||abrah.am
 ||blog.aegisub.org
 ||allentian.com
 ||developer.android.com
@@ -725,6 +732,7 @@ gs-discuss.com
 ||fdcn.org
 ||feedego.com
 ||fftogo.com
+||flightsimtalk.com
 ||mclee.foolme.net
 ||freeholidaywifi.com
 ||www.frienddeck.com
@@ -808,6 +816,7 @@ gs-discuss.com
 ||twivert.com
 |http://txt.io
 |http://ub0.cc
+||valuedlessons.com
 ||tp.vbap.com.au
 ||visualquest.in
 ||www.wavesandbox.com
@@ -817,6 +826,7 @@ gs-discuss.com
 ||willhains.com
 ||wolfire.com
 ||blog.wundercounter.com
+||yostranger.com
 
 !-------------Google Search-----
 ||74.125.94.160
@@ -828,6 +838,8 @@ gs-discuss.com
 |http://www.google.com/search*free*gate
 |http:*.google.*great*firewall
 |http:*.google.com*tits
+!--A Chan Ri Ji (jason5ng32)
+|http*.google.*%E9%98%BF%E7%A6%85%E6%97%A5%E8%AE%B0
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 |http:*.google.*gfw
@@ -835,8 +847,12 @@ gs-discuss.com
 |http:*.google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
 !--Jin Tao
 |http:*.google.*/search*%E9%94%A6%E6%B6%9B
+!--Liu Qi
+|http:*.google.*search*%E5%88%98%E6%B7%87
 !--Lu Xi
 |http:*.google.*%E9%B2%81%E6%98%95
+!--Ma Kai
+|http:*.google.*%E9%A9%AC%E5%87%AF
 !--Meng Jian Zhu
 |http:*.google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
 !--Meng Ying Wei Ming Hu
@@ -1152,8 +1168,10 @@ libertytimes.com.tw
 lifestream.fm
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 .linglingfa.com
-linuxconfig.org
+||linuxconfig.org
+||linux-engineer.net
 .lipuman.com
+||liudejun.com
 .liuhanyu.com/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E5%B7%A5%E5%85%B7
 http:*liu.lu
 ||livingonline.us
@@ -2220,13 +2238,15 @@ worldjournal.com
 ||blog.symbian.org
 ||technologizer.com
 ||blog.thinglabs.com
-china.blogs.time.com
+||china.blogs.time.com
 ||blog.tinypic.com
 ||blog.wakoopa.com
 ||wattsupwiththat.com
 ||webmink.com
 rfaunplugged.wordpress.com
+xijie.wordpress.com
 zh-cn.wordpress.com
+zh-sg.wordpress.com
 |http://wp.com
 
 ||wormsculptor.com
@@ -2245,6 +2265,7 @@ wukangrui.net
 x1949x.com
 x365x.com
 abigale1.xanga.com
+||xanga.com
 .xbookcn.com
 ||xbookcn.com
 x.xcity.jp
@@ -2597,6 +2618,8 @@ zh.wikipedia.org*%E5%88%98%E5%AE%BE%E9%9B%81
 zh.wikipedia.org*%E5%88%98%E6%85%A7%E5%8D%BF
 !--Liu Hui Qing - Traditional
 zh.wikipedia.org*%E5%8A%89%E6%85%A7%E5%8D%BF
+!--Liu Qi
+zh.wikipedia.org*%E5%88%98%E6%B7%87
 !--Liu Si (Ge Qu / Shi Ji / Shi Jian)
 zh.wikipedia.org*%E5%85%AD%E5%9B%9B
 !--Liu Si Shi Jian
@@ -2763,6 +2786,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%BD%AF%E4%BB%B6%E8%BF%87
 !--Zhong Guo Wang Luo Shen Cha
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E7%B6%B2%E8%B7%AF%E5%AF%A9%E6%9F%A5
+!--Zhong Hua Ren Min Gong He Guo Xian Fa
+zh.wikipedia.org*%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AE%AA%E6%B3%95
 !--Zhong Hua Min Guo Guo Min Da Hui
 zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E5%A4%A7%E6%9C%83
 !--Zhong Hua Min Guo Zhi Zang Li Shi
