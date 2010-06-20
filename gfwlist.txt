@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4iSSlVZ4diqmxDOVQKWl3g
+! Checksum: VbijAqM0c+z1V7k8KvklBQ
 ! Expires: 6h
-! Last Modified: Fri, 18 Jun 2010 11:11:16 +0800
+! Last Modified: Sun, 20 Jun 2010 11:59:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -86,6 +86,7 @@ alliance.org.hk
 .amoiist.com
 ||anchorfree.com
 ||anda.pk/
+||anobii.com
 .anonymizer.com
 ||anthonycalzadilla.com
 ||about.aol.com
@@ -206,6 +207,9 @@ brightkite.com
 ||budaedu.org
 ||buffalo-bbs.com
 ||bullog.org
+.bullogger.com
+||bullogger.com
+||buugaa.com
 ||blambin.byethost16.com
 holz.byethost8.com
 
@@ -747,6 +751,7 @@ gs-discuss.com
 ||blog.growlforwindows.com
 ||gqueues.com
 ||blog.headius.com
+||helpmvp.com
 ||hogbaysoftware.com
 ||huhaitai.com
 ||blog.humanrightsfirst.org
@@ -920,7 +925,7 @@ http:*.google.com*search*namibia*nuctech
 .ggpht.com
 |http:*google.com*analytics*zh-CN
 .google.com/gwt
-feedproxy.google.com
+|http:*feedproxy.google.com
 |http:*groups.google.*group
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 picasaweb.google.com
@@ -1036,8 +1041,8 @@ w.idaiwan.com/forum
 igfw.tk
 ||ignitedetroit.net
 ||ijenny.cn
-t.ikemi.org
 ||illusionfactory.com
+||ilove80.be
 |http://im.tv/
 |http://www.im.tv/
 ||imageboo.com
@@ -1199,10 +1204,12 @@ http:*liu.lu
 |http:*zhllg.spaces.live.com
 
 livejasmin.com
+||livesino.net
 ||livevideo.com
 .livevideo.com
 ||locafollow.com
 ||localhostr.com
+||lockdown.com
 ||logmike.com
 .longhair.hk
 ||longtermly.net
@@ -1733,6 +1740,8 @@ news.singtao.ca
 ||cdp.sinica.edu.tw
 .sinonet.ca
 .sinopitt.info
+.sinoants.com
+||sinoants.com
 ||sippey.com
 ||site90.net
 ||siteadvisor.com
@@ -1951,6 +1960,7 @@ bbs.tuitui.info
 ||blog.birdhouseapp.com
 ||bobulate.com
 ||bonjourlesgeeks.com
+||blog.boxcar.io
 ||blog.couch.io
 ||blog.bit.ly
 ||cubicle17.com
@@ -2327,14 +2337,18 @@ yeeyi.com
 ||yidio.com
 ||yihanfans.org
 yilubbs.com
+.yipub.com
+||yipub.com
 .yogichen.org
 ||yogichen.org
 yong.hu
 forum.yorkbbs.ca
+
 !-------------yo2-----
 ||yo2.cn
 ||yo2cdn.com
 ||thws.cn/
+
 .youjizz.com
 ||youjizz.com
 youmaker.com
