@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vaU9OA7FtDNzvt7a5JMVYQ
+! Checksum: NJA4nZ0qWzu1buUlCb1FFA
 ! Expires: 6h
-! Last Modified: Tue, 22 Jun 2010 15:21:22 +0800
+! Last Modified: Tue, 22 Jun 2010 17:07:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -872,7 +872,7 @@ http:*.google.com*search*namibia*nuctech
 !--Qian Shi Jin Sheng
 |http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Ri Ji
-|http*.google.%E6%97%A5%E8%AE%B0
+|http:*.google.%E6%97%A5%E8%AE%B0
 !--Tan Zuo Ren
 |http:*.google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men
