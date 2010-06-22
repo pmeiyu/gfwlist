@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: s+LS1ymylqigbKgFgQbyyg
+! Checksum: vaU9OA7FtDNzvt7a5JMVYQ
 ! Expires: 6h
-! Last Modified: Tue, 22 Jun 2010 09:44:59 +0800
+! Last Modified: Tue, 22 Jun 2010 15:21:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -249,6 +249,7 @@ cdpwu.org
 ||changp.com
 ||digitalnomadsproject.org
 ||transgressionism.org
+||chartshooser.com
 chengmingmag.com
 ||chenlu.info
 ||cherrysave.com
@@ -578,7 +579,8 @@ www.freetibet.org
 ||frommel.net
 ||fscked.org
 |http://www.fsurf.com/
-.ftchinese.com/story/001031915
+||ftchinese.com/story/001
+.ftchinese.com/story/001
 .ftv.com.tw
 .fuckcnnic.net
 ||fuckcnnic.net
@@ -794,6 +796,7 @@ gs-discuss.com
 ||blog.notdot.net
 ||blog.obvious.com
 ||feeds.people.com
+||percyalpha.com
 ||blog.persistent.info
 ||pigsgourdsandwikis.com
 ||portablesoft.org.ru
@@ -1061,6 +1064,7 @@ internetfreedom.org
 ||internetpopculture.com
 ||iphonedownloadblog.com
 ||iphonehacks.com
+||iphonepk.net
 ||iphonix.fr
 ||ipicture.ru
 ipobar.com
@@ -1575,6 +1579,7 @@ psiphon.ca
 |http://www.ptt.cc/
 .puffstore.com
 ||puffstore.com
+||pullfolio.com
 ||pureconcepts.net
 ||purepdf.com
 pwned.com
