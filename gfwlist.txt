@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VbijAqM0c+z1V7k8KvklBQ
+! Checksum: s+LS1ymylqigbKgFgQbyyg
 ! Expires: 6h
-! Last Modified: Sun, 20 Jun 2010 11:59:02 +0800
+! Last Modified: Tue, 22 Jun 2010 09:44:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1096,6 +1096,7 @@ blog.jackjia.com
 jeanyim.com
 ||jgoodies.com
 ||jiaoyou8.com
+|http:*.jiehua.cz
 jieshibaobao.com
 jingpin.org/fuck-gfw-history
 .jinhai.de
