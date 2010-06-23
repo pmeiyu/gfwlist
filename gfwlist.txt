@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NJA4nZ0qWzu1buUlCb1FFA
+! Checksum: pfD48rllG/TFzrox14SZ3Q
 ! Expires: 6h
-! Last Modified: Tue, 22 Jun 2010 17:07:00 +0800
+! Last Modified: Wed, 23 Jun 2010 16:50:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -755,6 +755,7 @@ gs-discuss.com
 ||blog.headius.com
 ||helpmvp.com
 ||hogbaysoftware.com
+||www.html5rocks.com
 ||huhaitai.com
 ||blog.humanrightsfirst.org
 ||inote.tw
