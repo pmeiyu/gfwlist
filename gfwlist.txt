@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9qKXNb4EZtBzYRNS0U9WgQ
+! Checksum: OOqDJ7DAag0TNfaD7eHTNg
 ! Expires: 6h
-! Last Modified: Thu, 24 Jun 2010 11:56:14 +0800
+! Last Modified: Thu, 24 Jun 2010 12:02:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -839,7 +839,7 @@ gs-discuss.com
 
 !-------------Google Search-----
 ||74.125.94.160
-|http:*.google.com/complete/search
+|http:*.google.com*/complete/search
 |http:*/search?q=cache
 |http:*/search%3Fq%3Dcache
 |http:*%2Fsearch%3Fq%3Dcache
