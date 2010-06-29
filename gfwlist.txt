@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OOqDJ7DAag0TNfaD7eHTNg
+! Checksum: D5++2cY2AuWSyAMlsL1rQQ
 ! Expires: 6h
-! Last Modified: Thu, 24 Jun 2010 12:02:46 +0800
+! Last Modified: Tue, 29 Jun 2010 11:46:03 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -35,6 +35,7 @@ info.51.ca
 666kb.com
 6park.com
 ||6park.com
+||6v6dota.com
 ||7capture.com
 ||7ztm.de.vu
 .8000.com
@@ -99,6 +100,7 @@ video.aol.com
 
 !-Appspot
 bullog4cn.appspot.com
+chnshot.appspot.com
 go2china8.appspot.com
 meme2028.appspot.com
 nest.appspot.com
@@ -1092,6 +1094,7 @@ yy.iyatou.com/archives/1042
 ||iyin.net
 .izaobao.com
 .izaobao.us
+.izles.net
 
 !--------------------------JJ--------------------------
 blog.jackjia.com
@@ -1265,6 +1268,7 @@ memedia.cn
 .met-art.com
 .metacafe.com/watch
 ||metacafe.com/watch
+||meteorshowersonline.com
 mhradio.org
 ||michaelmarketl.com
 middle-way.net
@@ -1453,6 +1457,7 @@ paperb.us
 .panoramio.com/forum
 .parade.com/dictators/2009
 pastebin.ca
+||pastebin.com
 .pastie.org
 ||pastie.org
 ||blog.pathtosharepoint.com
@@ -1809,6 +1814,7 @@ sourceforge.net/projects/portabletor/files/
 sowers.org.hk
 .spankwire.com
 .speedpluss.org
+||spencertipping.com
 |http://my.spill.com
 ||splitweet.com
 ||sproutcore.com
@@ -1992,6 +1998,7 @@ bbs.tuitui.info
 ||jayparkinsonmd.com
 ||blog.joeyrobert.org
 ||my.keso.cn
+||kevinrose.com
 ||blog.kickstarter.com
 ||blog.kl.am
 ||log.lightory.net
@@ -2057,6 +2064,8 @@ twitbrowser.net
 ||twitonmsn.com
 .twitpic.com
 ||twitpic.com
+twitiq.com
+||twitiq.com
 twitreferral.com
 .twitstat.com
 ||twitstat.com
@@ -2364,6 +2373,7 @@ youmaker.com
 |http://www.your-freedom.net/
 |https://www.your-freedom.net/
 .yousendit.com
+||yousendit.com
 youthbao.com
 .youthnetradio.org/tmit/forum
 blog.youthwant.com.tw
