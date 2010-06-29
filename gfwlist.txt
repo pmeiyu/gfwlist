@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: D5++2cY2AuWSyAMlsL1rQQ
+! Checksum: XRko+VJjU6SaZnQqoij+dQ
 ! Expires: 6h
-! Last Modified: Tue, 29 Jun 2010 11:46:03 +0000
+! Last Modified: Tue, 29 Jun 2010 11:49:10 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -207,6 +207,7 @@ brightkite.com
 ||brightkite.com
 .budaedu.org
 ||budaedu.org
+||buddyrunner.com
 ||buffalo-bbs.com
 ||bullog.org
 .bullogger.com
@@ -456,6 +457,7 @@ edoors.com
 .edubridge.com/erxiantang/library
 ||eevpn.com
 ||tor.eff.org
+||efixusers.com
 ||efixusers.org
 ||egamia.com
 ||eic-av.com
@@ -627,6 +629,7 @@ gdzf.org
 ||geekcook.org
 ||geekmanuals.com
 .genie.x0.com
+.geocities.co.jp
 .geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
 geocities.jp
@@ -937,6 +940,7 @@ http:*.google.com*search*namibia*nuctech
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 picasaweb.google.com
 sites.google.com
+|https://talkgadget.google.com/
 video.google.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
@@ -2214,6 +2218,7 @@ hkg.westkit.net
 www.wet123.com
 wetpussygames.com
 wezhiyong.org
+||wezone.net
 .wforum.com
 ||wforum.com/
 wg1966.com
@@ -2705,6 +2710,8 @@ zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
+!--Tor
+zh.wikipedia.org*Tor
 !--Tu Po Wang Luo Shen Cha (zhwb)
 zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !--Wang Qi Shan
