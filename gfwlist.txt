@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lFZ9hsaTVvh8US4IGzlMmQ
+! Checksum: xr07Zxe0wITNkmQvCU9CCw
 ! Expires: 6h
-! Last Modified: Tue, 06 Jul 2010 19:41:22 +0800
+! Last Modified: Tue, 06 Jul 2010 19:43:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2078,6 +2078,7 @@ twitbrowser.net
 ||twitcause.com
 ||twitgether.com
 ||twiggit.org
+twitgoo.com
 twitiq.com
 ||twithive.com
 .twitlonger.com
