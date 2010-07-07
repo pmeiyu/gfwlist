@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xr07Zxe0wITNkmQvCU9CCw
+! Checksum: HFZjLWfC614sGbbK8ucWhw
 ! Expires: 6h
-! Last Modified: Tue, 06 Jul 2010 19:43:35 +0800
+! Last Modified: Wed, 07 Jul 2010 09:00:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -585,7 +585,7 @@ freemorenews.com
 ||www.bulbous.freeserve.co.uk
 www.freetibet.org
 .freetzi.com
-|freewallpaper4.me
+||freewallpaper4.me
 .freexinwen.com
 |http:*friendfeed.com
 ||frommel.net
