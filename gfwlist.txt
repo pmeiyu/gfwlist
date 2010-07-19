@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gf96czxtR54BHHJO5smiog
+! Checksum: lSGmadLKXeAUCplQsaP47A
 ! Expires: 6h
-! Last Modified: Wed, 14 Jul 2010 17:44:22 +0800
+! Last Modified: Mon, 19 Jul 2010 20:20:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1936,6 +1936,7 @@ tibetfund.org
 |http:*.time.com/time/time100/leaders/profile/rebel
 ||blog.tiney.com
 ||tinypaste.com
+||i28.tinypic.com
 ||tinyurl.com/gfwlist
 .tistory.com
 ||tkcs-collins.com
