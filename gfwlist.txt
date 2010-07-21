@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9C++Dpn622PKljxFqkQj/g
+! Checksum: GMdSrmj753MFQJ2z7rfqoA
 ! Expires: 6h
-! Last Modified: Wed, 21 Jul 2010 10:19:49 +0800
+! Last Modified: Wed, 21 Jul 2010 17:49:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -322,6 +322,7 @@ psiphon.civisec.org
 ||ck101.com
 ||classicalguitarblog.net
 .cmule.com
+||cmule.com
 .cnavista.com.tw/shop/stores_app
 .cnd.org
 ||cnd.org/
@@ -694,6 +695,7 @@ gs-discuss.com
 |http:*code.google.com/p/gappproxy
 |http:*code.google.com/p/autoproxy/updates/list
 |http:*code.google.com/p/program-think/wiki/Software
+|http:*code.google.com/p/twitese
 
 !-------------Google Docs-----
 |http:*spreadsheets.google.com
@@ -862,6 +864,8 @@ gs-discuss.com
 |http://www.google.com/search*free*gate
 |http:*.google.*great*firewall
 |http:*.google.com*tits
+!--Bei Guo Zhi Chun
+|http:*.google*search*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 |http:*.google.*gfw
@@ -943,6 +947,7 @@ http:*.google.com*search*namibia*nuctech
 |https://tools.google.com
 @@|https://www.google.com
 @@|https://*.googleusercontent.com
+@@||google.cn/music
 |http:*webcache.googleusercontent.com
 |http:*.google.com/moderator
 .ggpht.com
@@ -1442,7 +1447,7 @@ twtr2src.ogaoga.org
 .oikos.com.tw/v4
 oizoblog.com
 old-cat.net
-||omgfacts.com
+||omg-facts.com
 omgili.com
 omnitalk.
 ||on.cc^
@@ -1712,6 +1717,7 @@ scribd.com
 ||searchfreefonts.com
 secretchina.com
 ||secretgarden.no
+seesmic.com
 ||seezone.net
 sejie.com
 .sendspace.com/file
@@ -2025,6 +2031,7 @@ bbs.tuitui.info
 ||kevinrose.com
 ||blog.kickstarter.com
 ||blog.kl.am
+||t.kun.im
 ||log.lightory.net
 ||madmenfootnotes.com
 ||marco.org
@@ -2036,13 +2043,13 @@ bbs.tuitui.info
 ||thisiswhyyouarefat.com
 ||tomsc.com
 ||blog.topify.com
+||twohungrydudes.com
 ||tumblweed.org
 ||status.twhirl.org
 !-||status.twitter.com
 ||photo.utom.us
 ||wordboner.com
 ||bd.zhe.la
-||tumblr.zhe.la
 ||cocoa.zonble.net
 
 ||tv-intros.com
@@ -2050,6 +2057,7 @@ bbs.tuitui.info
 tvboxnow.com
 ||tvunetworks.com
 .gov.tw/
+twa.sh
 ||twaud.io
 .twaud.io
 .twbbs.net.tw
@@ -2059,7 +2067,7 @@ tweepmag.com
 ||tweete.net
 |http://*m.tweete.net
 tweetmeme.com
-tweetmeme.com*story
+||tweetphoto.com
 ||tweetrans.com
 ||tweetwally.com
 tweetymail.com
@@ -2067,7 +2075,7 @@ tweetymail.com
 .twibble.de
 ||twibble.de
 twibbon.com
-||twigee.com
+||twibs.com
 ||twindexx.com
 ||twilightrender.com
 twilog.org
@@ -2109,7 +2117,6 @@ twitthat.com
 |http://twitturly.com
 .twitzap.com
 twiyia.com
-||twohungrydudes.com
 .twreg.info
 ||twreg.info
 ||twttr.com
