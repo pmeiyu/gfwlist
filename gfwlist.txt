@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lSGmadLKXeAUCplQsaP47A
+! Checksum: 9C++Dpn622PKljxFqkQj/g
 ! Expires: 6h
-! Last Modified: Mon, 19 Jul 2010 20:20:23 +0800
+! Last Modified: Wed, 21 Jul 2010 10:19:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1092,6 +1092,7 @@ internetfreedom.org
 ||ipicture.ru
 ipobar.com
 ||ironicsoftware.com
+||ironpython.net
 .beta.iset.com.tw/forum
 ||beta.iset.com.tw
 forum.iset.com.tw
