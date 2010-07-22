@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GMdSrmj753MFQJ2z7rfqoA
+! Checksum: hsMI2woe2YapVavEprcNAA
 ! Expires: 6h
-! Last Modified: Wed, 21 Jul 2010 17:49:56 +0800
+! Last Modified: Thu, 22 Jul 2010 14:52:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -631,6 +631,7 @@ gardennetworks.com
 ||gazotube.com
 ||gclooney.com
 gdzf.org
+||geek-art.net
 ||geekatlas.com
 .geekcook.org
 ||geekcook.org
@@ -895,6 +896,8 @@ http:*.google.com*search*namibia*nuctech
 |http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Ri Ji
 |http:*.google.*%E6%97%A5%E8%AE%B0
+!--Tai Zi
+|http:*.google.*%E5%A4%AA%E5%AD%90
 !--Tan Zuo Ren
 |http:*.google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men
@@ -1321,6 +1324,8 @@ minzhuzhongguo.org
 .miroko.tw
 mirrorbooks.com
 mitbbs.com
+.mixero.com
+||mixero.com
 .mixx.com
 ||mixx.com
 ||mizzmona.com
