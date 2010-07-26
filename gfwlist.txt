@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dP1CmxT4dTMsYjlGXBjrMw
+! Checksum: xe1Wa8SecluihVFVHXdnpg
 ! Expires: 6h
-! Last Modified: Mon, 26 Jul 2010 13:20:29 +0800
+! Last Modified: Mon, 26 Jul 2010 15:51:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -716,7 +716,6 @@ gs-discuss.com
 ||allentian.com
 ||developer.android.com
 ||pdk.android.com
-||source.android.com
 ||animeraku.com
 ||appbrain.com
 ||avwikipedia.com
