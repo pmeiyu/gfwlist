@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xe1Wa8SecluihVFVHXdnpg
+! Checksum: XdC3mUudkNxAD+H0m/DbWQ
 ! Expires: 6h
-! Last Modified: Mon, 26 Jul 2010 15:51:44 +0800
+! Last Modified: Mon, 26 Jul 2010 21:07:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1660,6 +1660,7 @@ rcinet.ca
 .read100.com
 .readingtimes.com.tw
 ||readingtimes.com.tw
+||readitlaterlist.com
 .realraptalk.com
 blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
