@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hsMI2woe2YapVavEprcNAA
+! Checksum: dP1CmxT4dTMsYjlGXBjrMw
 ! Expires: 6h
-! Last Modified: Thu, 22 Jul 2010 14:52:23 +0800
+! Last Modified: Mon, 26 Jul 2010 13:20:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1638,6 +1638,7 @@ blog.qooza.hk*dafengqixi
 ||qstatus.com
 !--plus.net
 ||qtrac.eu
+||qtweeter.com
 ||quadedge.com
 |http://www.quarterlife.com
 |http://quke.cn
@@ -2322,6 +2323,7 @@ zh-sg.wordpress.com
 .wpoforum.com
 ||wpoforum.com
 wretch.cc
+chinese.wsj.com
 .wtfpeople.com
 wuerkaixi.com
 wufi.org.tw
