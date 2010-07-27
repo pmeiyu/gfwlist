@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XdC3mUudkNxAD+H0m/DbWQ
+! Checksum: S1lbMFuj//+KStzsJ3dGtA
 ! Expires: 6h
-! Last Modified: Mon, 26 Jul 2010 21:07:43 +0800
+! Last Modified: Tue, 27 Jul 2010 13:27:24 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2323,7 +2323,7 @@ zh-sg.wordpress.com
 .wpoforum.com
 ||wpoforum.com
 wretch.cc
-chinese.wsj.com
+http:*cn.wsj.com
 .wtfpeople.com
 wuerkaixi.com
 wufi.org.tw
