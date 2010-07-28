@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: S1lbMFuj//+KStzsJ3dGtA
+! Checksum: Fm7idyWP9G83eSChBv2Blw
 ! Expires: 6h
-! Last Modified: Tue, 27 Jul 2010 13:27:24 +0800
+! Last Modified: Wed, 28 Jul 2010 18:58:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -955,6 +955,7 @@ http:*.google.com*search*namibia*nuctech
 .ggpht.com
 |http:*google.com*analytics*zh-CN
 .google.com/gwt
+||encrypted.google.com
 |http:*feedproxy.google.com
 |http:*groups.google.*group
 knol.google.com/k/-/08/3jhi1zdzvxj3f
