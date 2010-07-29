@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +qJ716QZgb6GyMbHrNhWNw
+! Checksum: dlBZcW1voIPkIDqHLRpYXA
 ! Expires: 6h
-! Last Modified: Thu, 29 Jul 2010 10:59:41 +0800
+! Last Modified: Thu, 29 Jul 2010 21:02:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -960,6 +960,7 @@ http:*.google.com*search*namibia*nuctech
 ||encrypted.google.com
 |http:*feedproxy.google.com
 |http:*groups.google.*group
+.google.com.hk/wenda
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 picasaweb.google.com
 sites.google.com
@@ -2336,7 +2337,6 @@ wukangrui.net
 !--------------------------XX--------------------------
 x1949x.com
 x365x.com
-abigale1.xanga.com
 ||xanga.com
 .xbookcn.com
 ||xbookcn.com
@@ -2533,6 +2533,8 @@ gfwProxyEnabled=yes
 |http:*search*%E9%82%AA%E6%81%B6
 !--Xin Tang Ren
 |http:*search*%E6%96%B0%E5%94%90%E4%BA%BA
+!--Xin Yu Si
+|http:*search*%E6%96%B0%E8%AF%AD%E4%B8%9D
 !--Zhao Zi Yang
 |http:*%E8%B5%B5%E7%B4%AB%E9%98%B3
 !--Zhong Guo Yuan Min Da Tong Meng
