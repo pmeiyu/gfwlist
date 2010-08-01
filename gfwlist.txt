@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dlBZcW1voIPkIDqHLRpYXA
+! Checksum: UFNhSzaQnpYXWapkkWbheA
 ! Expires: 6h
-! Last Modified: Thu, 29 Jul 2010 21:02:54 +0800
+! Last Modified: Mon, 02 Aug 2010 00:15:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1289,7 +1289,7 @@ member.maxi-247.org
 .mcy.hk
 .md-t.org
 ||md-t.org
-mediafire.com
+!--mediafire.com
 ||meetup.com
 lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 ||megaporn.com
