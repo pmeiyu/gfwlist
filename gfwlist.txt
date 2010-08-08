@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UFNhSzaQnpYXWapkkWbheA
+! Checksum: RQTlGxYBLhkcv/shUdc0Gg
 ! Expires: 6h
-! Last Modified: Mon, 02 Aug 2010 00:15:35 +0800
+! Last Modified: Sun, 08 Aug 2010 15:59:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -137,6 +137,7 @@ forum.baby-kingdom.com
 backchina.com
 ||backchina.com
 .badongo.com
+||baidu.jp
 hen.bao.li
 ||bao.li
 ||barnabu.co.uk
