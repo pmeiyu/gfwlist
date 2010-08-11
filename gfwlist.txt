@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RQTlGxYBLhkcv/shUdc0Gg
+! Checksum: BNVYg+2qqSEeHCvfFc0irQ
 ! Expires: 6h
-! Last Modified: Sun, 08 Aug 2010 15:59:12 +0800
+! Last Modified: Wed, 11 Aug 2010 10:26:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1170,6 +1170,7 @@ kanzhongguo.com
 ||keezmovies.com
 .kenengba.com
 ||kenengba.com
+||log.keso.cn
 wiki.keso.cn/Home
 .khmusic.com.tw
 .kidoors.com
