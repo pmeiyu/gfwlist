@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ks8Ps8ZwWRrz3GQgXf9QRg
+! Checksum: HyAYvtwxqEWLq8KOmjO2Mg
 ! Expires: 6h
-! Last Modified: Wed, 11 Aug 2010 10:41:08 +0800
+! Last Modified: Wed, 11 Aug 2010 11:48:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -36,6 +36,7 @@ info.51.ca
 6park.com
 ||6park.com
 ||6v6dota.com
+||72pines.com
 ||7capture.com
 ||7ztm.de.vu
 .8000.com
@@ -99,6 +100,8 @@ video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
 ||apirocks.com
+||appbase.com
+|http:nb.proxy.appbase.com
 
 !-Appspot
 bullog4cn.appspot.com
@@ -137,7 +140,6 @@ forum.baby-kingdom.com
 backchina.com
 ||backchina.com
 .badongo.com
-||baidu.jp
 hen.bao.li
 ||bao.li
 ||barnabu.co.uk
@@ -429,8 +431,8 @@ komica2.dreamhosters.com
 ||drikin.com
 ||drivingitalia.net
 ||droidie.com
+.dropbox.com
 ||dropbox.com
-|http:*.dropbox.com
 .ds-hk.net
 ||dtiblog.com
 dtiserv2.com
@@ -454,7 +456,7 @@ xys.dxiong.com
 |http://www.dynawebinc.com
 .dzze.com
 
-!--------------------------EE--------------------------
+!------------------------EE------------------------
 e-info.org.tw
 .e-traderland.net/board
 ||e71fanatics.com
@@ -478,6 +480,7 @@ http://*eltondisney.com
 .emodao.com
 ||empflix.com
 ||emucr.com
+chinese.engadget.com
 ||englishfromengland.co.uk
 ||entermap.com
 epochtimes.com
@@ -646,6 +649,8 @@ geocities.jp
 ||geohot.com
 ||geometrictools.com
 ||get-digital-help.com
+|http://files.getdropbox.com
+||www.getdropbox.com
 .getfreedur.com
 ||getjetso.com
 .getjetso.com/forum
@@ -868,6 +873,8 @@ gs-discuss.com
 |http:*.google*search*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
 !--Da Lai La Ma
 |http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
+!--Fan Qiang
+|http:*.google.*%E7%BF%BB%E5%A2%99
 |http:*.google.*gfw
 !--Guan Jian Shi Ke
 |http:*.google.*%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB
@@ -1169,7 +1176,6 @@ kanzhongguo.com
 ||keezmovies.com
 .kenengba.com
 ||kenengba.com
-||log.keso.cn
 wiki.keso.cn/Home
 .khmusic.com.tw
 .kidoors.com
@@ -1468,12 +1474,13 @@ open.com.hk
 opera.com/mini
 www.orchidbbs.com
 ||orn.jp
-t.orzdream.com
+|http:*t.orzdream.com
 .orzistic.org
 ||orzistic.org
 m.oulove.org
 .oursogo.com
 |http://oursogo.com
+|http:*ow.ly
 ||overstimulate.com
 ||ovh.net/
 share.ovi.com/media
@@ -1598,7 +1605,6 @@ postadult.com
 ||webfee.tk
 ||bill.zhong.pp.ru
 
-||posterous.org
 .power.com
 ||power.com
 powerapple.com
@@ -1609,6 +1615,7 @@ heix.pp.ru
 ||presentationzen.com
 .president.gov.tw
 ||primedius.com
+|http:*prisoner-state-secret-journal-premier
 ||privacybox.de
 privatepaste.com
 |http://dlstatusbar.proboards43.com/
@@ -1665,7 +1672,6 @@ rcinet.ca
 .read100.com
 .readingtimes.com.tw
 ||readingtimes.com.tw
-||readitlaterlist.com
 .realraptalk.com
 blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
@@ -1773,6 +1779,7 @@ shkspr.mobi/dabr
 ||shooshtime.com
 ||shulib.com
 |http://ch.shvoong.com/
+||simplecd.org
 ||simplenoteapp.com
 simpleproductivityblog.com
 bbs.sina.com/
@@ -2328,7 +2335,6 @@ zh-sg.wordpress.com
 .wpoforum.com
 ||wpoforum.com
 wretch.cc
-http:*cn.wsj.com
 .wtfpeople.com
 wuerkaixi.com
 wufi.org.tw
