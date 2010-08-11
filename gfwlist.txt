@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BNVYg+2qqSEeHCvfFc0irQ
+! Checksum: ks8Ps8ZwWRrz3GQgXf9QRg
 ! Expires: 6h
-! Last Modified: Wed, 11 Aug 2010 10:26:00 +0800
+! Last Modified: Wed, 11 Aug 2010 10:41:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -430,6 +430,7 @@ komica2.dreamhosters.com
 ||drivingitalia.net
 ||droidie.com
 ||dropbox.com
+|http:*.dropbox.com
 .ds-hk.net
 ||dtiblog.com
 dtiserv2.com
@@ -645,8 +646,6 @@ geocities.jp
 ||geohot.com
 ||geometrictools.com
 ||get-digital-help.com
-|http://files.getdropbox.com
-||www.getdropbox.com
 .getfreedur.com
 ||getjetso.com
 .getjetso.com/forum
