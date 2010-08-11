@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HyAYvtwxqEWLq8KOmjO2Mg
+! Checksum: iUUmTcf/Pj5FrQ5IJabbfA
 ! Expires: 6h
-! Last Modified: Wed, 11 Aug 2010 11:48:07 +0800
+! Last Modified: Thu, 12 Aug 2010 03:47:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -140,6 +140,7 @@ forum.baby-kingdom.com
 backchina.com
 ||backchina.com
 .badongo.com
+||baidu.jp
 hen.bao.li
 ||bao.li
 ||barnabu.co.uk
@@ -431,7 +432,7 @@ komica2.dreamhosters.com
 ||drikin.com
 ||drivingitalia.net
 ||droidie.com
-.dropbox.com
+|http:*.dropbox.com
 ||dropbox.com
 .ds-hk.net
 ||dtiblog.com
@@ -649,8 +650,6 @@ geocities.jp
 ||geohot.com
 ||geometrictools.com
 ||get-digital-help.com
-|http://files.getdropbox.com
-||www.getdropbox.com
 .getfreedur.com
 ||getjetso.com
 .getjetso.com/forum
@@ -1177,6 +1176,7 @@ kanzhongguo.com
 .kenengba.com
 ||kenengba.com
 wiki.keso.cn/Home
+||log.keso.cn
 .khmusic.com.tw
 .kidoors.com
 .kingstone.com.tw
