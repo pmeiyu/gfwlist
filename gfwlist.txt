@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: iUUmTcf/Pj5FrQ5IJabbfA
+! Checksum: DH8/D/x7tj8ucRNbzYAcBg
 ! Expires: 6h
-! Last Modified: Thu, 12 Aug 2010 03:47:57 +0800
+! Last Modified: Fri, 13 Aug 2010 23:24:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -101,7 +101,6 @@ video.aol.com
 ||video.aol.com
 ||apirocks.com
 ||appbase.com
-|http:nb.proxy.appbase.com
 
 !-Appspot
 bullog4cn.appspot.com
