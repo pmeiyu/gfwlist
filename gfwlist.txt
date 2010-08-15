@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: oFUoQzUe8oPcP4WNvJXh2Q
+! Checksum: pglef1IFHPgepjjtZ/iQWQ
 ! Expires: 6h
-! Last Modified: Sun, 15 Aug 2010 20:22:57 +0800
+! Last Modified: Sun, 15 Aug 2010 21:59:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -418,7 +418,6 @@ dongtaiwang.com
 .dongyangjing.com
 .dontfilter.us
 @@||douban.com
-@@||douban.com^$document
 doubleaf.com
 dowei.org
 ||download.hr
@@ -1806,7 +1805,6 @@ news.singtao.ca
 ||sitemaps.org
 sitetag.us
 @@||sixxs.org
-@@||sixxs.org^$document
 ||sjum.cn/
 ||skimtube.com
 ||skulpt.org
