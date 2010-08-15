@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DH8/D/x7tj8ucRNbzYAcBg
+! Checksum: oFUoQzUe8oPcP4WNvJXh2Q
 ! Expires: 6h
-! Last Modified: Fri, 13 Aug 2010 23:24:49 +0800
+! Last Modified: Sun, 15 Aug 2010 20:22:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1789,7 +1789,6 @@ blog.sina.com.tw
 dailynews.sina.com/
 dailynews.sina.com%2F
 forum.sina.com.hk
-||google.sina.com^
 |http://magazines.sina.com.tw
 |http://news.sina.com/
 news.sina.com.hk
@@ -2287,6 +2286,7 @@ winwhispers.info
 wjd.name
 .wo.tc
 ||woeser.com
+.wofa.us
 .woopie.jp/video
 worldjournal.com
 
@@ -2326,6 +2326,7 @@ rfaunplugged.wordpress.com
 xijie.wordpress.com
 zh-cn.wordpress.com
 zh-sg.wordpress.com
+zhenxiang.wordpress.com
 |http://wp.com
 
 ||wormsculptor.com
