@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pglef1IFHPgepjjtZ/iQWQ
+! Checksum: rOLGj+jKZi9ciYbedVvsCg
 ! Expires: 6h
-! Last Modified: Sun, 15 Aug 2010 21:59:46 +0800
+! Last Modified: Wed, 18 Aug 2010 23:11:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -145,6 +145,7 @@ hen.bao.li
 ||barnabu.co.uk
 dajusha.baywords.com
 .bbc.co.uk/chinese
+.bbc.co.uk/ukchina/simp
 .bbc.co.uk/zhongwen
 news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
@@ -221,6 +222,7 @@ brightkite.com
 .bullogger.com
 ||bullogger.com
 ||buugaa.com
+buzzurl.jpf
 ||blambin.byethost16.com
 holz.byethost8.com
 
@@ -2212,6 +2214,8 @@ mysite.verizon.net
 ||vidoemo.com
 video.tiscali.it/canali/truveo
 ||village-idiot.org
+.vimeo.com
+||vimeo.com
 voanews.com/chinese
 .vot.org
 ||vox.com/
