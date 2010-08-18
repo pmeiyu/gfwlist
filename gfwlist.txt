@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bjSAjMXBLtYzYdVhzX0ozA
+! Checksum: TceM8ae2N0m8AtdEVS3okQ
 ! Expires: 6h
-! Last Modified: Thu, 19 Aug 2010 03:12:35 +0800
+! Last Modified: Thu, 19 Aug 2010 03:25:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -736,6 +736,7 @@ gs-discuss.com
 ||breakingnews.com
 ||canonfilmmakerslive.com
 ||feeds.cbsnews.com
+||chinesealbumart.com
 ||chromeexperiments.com
 ||chromium.org
 @@||build.chromium.org
@@ -743,6 +744,8 @@ gs-discuss.com
 ||myc.cnkk.org
 ||rss.cnn.com
 ||cocoawithlove.com
+||blog.danmarner.com
+||github.danmarner.com
 ||dataliberation.org
 ||debugmode.com
 ||designers-artists.com
@@ -805,6 +808,7 @@ gs-discuss.com
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
 ||macbuzzer.com
+||marcmontebello.com
 ||masamixes.com
 ||milazi.com
 ||twitter.missiu.com
@@ -831,7 +835,9 @@ gs-discuss.com
 ||robertmao.com
 ||ghs.romeo-foxtrot.com
 ||salmiyuck.com
+||samsal.com
 ||blog.seeminglee.com
+||shermann.name
 ||skydrivemanager.com
 ||sleepingtime.org
 ||rss.slashdot.org
@@ -844,6 +850,7 @@ gs-discuss.com
 ||thecloudplayer.com
 ||blog.thesilentnumber.me
 ||transparentuptime.com
+||tunnelfree.co.cc
 ||twazzup.com
 ||twivert.com
 |http://txt.io
@@ -2519,6 +2526,8 @@ gfwProxyEnabled=yes
 |http:*%E8%83%A1%E6%B5%B7%E5%B3%B0
 !--Hu Hai Qing
 |http:*%E8%83%A1%E6%B5%B7%E6%B8%85
+!--Hua Hua Gong Zi
+|http:*search*%E8%8A%B1%E8%8A%B1%E5%85%AC%E5%AD%90
 !--Jia Mi Dai Li (GB/U8)
 |http:*search*%BC%D3%C3%DC%B4%FA%C0%ED
 |http:*search*%E5%8A%A0%E5%AF%86%E4%BB%A3%E7%90%86
@@ -2757,6 +2766,8 @@ zh.wikipedia.org*%E7%83%AD%E6%AF%94%E5%A8%85
 zh.wikipedia.org*%E4%B8%89%E5%B9%B4%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3
 !--Sheng Xiong Gan Di
 zh.wikipedia.org*%E5%9C%A3%E9%9B%84%E7%94%98%E5%9C%B0
+!--Shi Jie Jing Ji Dao Bao
+zh.wikipedia.org*%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E5%AF%BC%E6%8A%A5
 !--Shi Tao
 zh.wikipedia.org*%E5%B8%88%E6%B6%9B
 !--Shi Xing Yun
