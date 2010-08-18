@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CCsnbot9BZFr1n56uP0Lzw
+! Checksum: bjSAjMXBLtYzYdVhzX0ozA
 ! Expires: 6h
-! Last Modified: Thu, 19 Aug 2010 01:13:14 +0800
+! Last Modified: Thu, 19 Aug 2010 03:12:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -106,6 +106,7 @@ video.aol.com
 bullog4cn.appspot.com
 chnshot.appspot.com
 go2china8.appspot.com
+
 meme2028.appspot.com
 nest.appspot.com
 twitese.appspot.com
@@ -283,6 +284,7 @@ chinagfw.org
 ||chinagfw.org
 .chinagreenparty.org
 ||chinagreenparty.org
+chinaxchina.com/howto
 .chinainperspective.com
 chinainperspective.net/ArtShow.aspx?
 ||chinainperspective.net
@@ -717,6 +719,7 @@ gs-discuss.com
 ||52wm.info
 ||abrah.am
 ||blog.aegisub.org
+||agon-online.com
 ||allentian.com
 ||developer.android.com
 ||pdk.android.com
@@ -928,6 +931,8 @@ http:*.google.com*search*namibia*nuctech
 |http:*.google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
 |http:*.google.*%E7%9C%9F%E7%9B%B8
+!--Zhong Guo Yuan Min Da Tong Meng
+|http:.google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zi You Men
 |http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zou Dian Tai
@@ -1469,6 +1474,7 @@ omnitalk.
 ||on.cc^
 ||onebigfluke.com
 ||caterpillar.onlyfun.net
+.onlylady.cn
 .oopsforum.com
 open.com.hk
 ||openid.cn
@@ -1482,6 +1488,8 @@ m.oulove.org
 .oursogo.com
 |http://oursogo.com
 |http:*ow.ly
+|http://ht.ly
+||mash.to/
 ||overstimulate.com
 ||ovh.net/
 share.ovi.com/media
@@ -1880,6 +1888,7 @@ cn.streetvoice.com/article
 cn.streetvoice.com/diary
 cn2.streetvoice.com
 tw.streetvoice.com
+.student.tw/db
 ||suicideblitz.info
 ||summize.com
 http:*suoluo.org
@@ -2541,14 +2550,14 @@ gfwProxyEnabled=yes
 |http:*search*%E6%97%A0%E7%95%8C
 !--Xie E
 |http:*search*%E9%82%AA%E6%81%B6
+!--Xi Nao
+|http:*search*%E6%B4%97%E8%84%91
 !--Xin Tang Ren
 |http:*search*%E6%96%B0%E5%94%90%E4%BA%BA
 !--Xin Yu Si
 |http:*search*%E6%96%B0%E8%AF%AD%E4%B8%9D
 !--Zhao Zi Yang
 |http:*%E8%B5%B5%E7%B4%AB%E9%98%B3
-!--Zhong Guo Yuan Min Da Tong Meng
-|http:.google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zhong Gong
 |http:*search*%E4%B8%AD%E5%8A%9F
 !--Zhong Xuan Bu
