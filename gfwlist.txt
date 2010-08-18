@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rOLGj+jKZi9ciYbedVvsCg
+! Checksum: CCsnbot9BZFr1n56uP0Lzw
 ! Expires: 6h
-! Last Modified: Wed, 18 Aug 2010 23:11:57 +0800
+! Last Modified: Thu, 19 Aug 2010 01:13:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -864,6 +864,7 @@ gs-discuss.com
 |http:*/search%3Fq%3Dcache
 |http:*%2Fsearch%3Fq%3Dcache
 |http:*google*search*q=cache
+|http:*.google.com/reader/view/feed
 |http://www.google.com/search*q=dongtaiwang
 |http://www.google.com/search*free*gate
 |http:*.google.*great*firewall
