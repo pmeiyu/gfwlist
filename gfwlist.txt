@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fgQsVTqwlVVntA1KhacMmA
+! Checksum: XoClD+1SBeZWdAgXtZlKKg
 ! Expires: 6h
-! Last Modified: Thu, 19 Aug 2010 08:14:16 +0000
+! Last Modified: Thu, 19 Aug 2010 22:11:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -34,6 +34,7 @@ info.51.ca
 666kb.com
 6park.com
 ||6park.com
+||www.6v6dota.com
 ||72pines.com
 ||7capture.com
 ||7ztm.de.vu
@@ -68,6 +69,7 @@ adultfriendfinder.com
 .aisex.com
 blog.aiweiwei.com
 ||ajaxplorer.info
+||www.ajsands.com
 ||alabout.com
 aladding.com
 ||aladding.com
@@ -129,6 +131,7 @@ asianews.it
 ||axureformac.com
 
 !--------------------------BB--------------------------
+forum.baby-kingdom.com
 backchina.com
 ||backchina.com
 ||baidu.jp
@@ -223,6 +226,8 @@ caochangqing.com
 ||caochangqing.com
 .catholic.org.hk
 ||catholic.org.hk
+.ccc.de
+||ccc.de
 .ccdtr.org
 ||ccdtr.org
 cclife.org
@@ -2348,6 +2353,8 @@ zh.wikipedia.org*%E6%96%B9%E5%8A%B1%E4%B9%8B
 zh.wikipedia.org*%E6%96%B9%E8%88%9F%E5%AD%90
 !--Fen Qing
 zh.wikipedia.org*%E6%84%A4%E9%9D%92
+!--Feng Zheng Hu
+zh.wikipedia.org*%E5%86%AF%E6%AD%A3%E8%99%8E
 !--Gao Zhi Sheng
 zh.wikipedia.org*%E9%AB%98%E6%99%BA%E6%99%9F
 !--Di Shi Yi Shi Ban Chan Er Er De Ni Geng Deng Que Ji Ni Ma
