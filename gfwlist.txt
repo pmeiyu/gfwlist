@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: cJ8zWtHNO5OJYwY5gt2pvQ
+! Checksum: NvMYP2LK2BYBBZ9BCOQ2gQ
 ! Expires: 6h
-! Last Modified: Thu, 19 Aug 2010 04:46:17 +0000
+! Last Modified: Thu, 19 Aug 2010 14:50:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -95,6 +95,8 @@ video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
 ||apirocks.com
+.apigee.com
+||apugee.com
 ||appbase.com
 
 !-Appspot
@@ -593,7 +595,7 @@ gs-discuss.com
 |http://docs.google.com*View*id*dg5mtmj9_8g3hk27f5
 |http://docs.google.com*View*id*dg5mtmj9_3188x48zcn
 |http://docs.google.com/View?id=dgjxsxws_148fvpz6wdg
-|http://docs.google.com*dgtbmwd6_934gg99v6g4
+|http://docs.google.com*dgtbmwd6_934gg99v6g4cc
 |http://docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
@@ -1312,6 +1314,7 @@ postadult.com
 ||erinc.ca
 ||blog.fizzik.com
 ||roteiro.geedr.com
+||nf.id.au
 ||po.inewton.cn
 ||markmilian.com
 ||mehack.com
@@ -1851,11 +1854,15 @@ twitreferral.com
 .twitter.com
 ||twitter.com
 /^https?:\/\/[^\/]+twitter\.com/
+.twittercounter.com
+||twittercounter.com
 twitterfeed.com
 .twittergadget.com
 ||twittergadget.com
 .twitterkr.com
 ||twitterkr.com
+twittertim.es
+||twittertim.es
 twitthat.com
 ||twitthis.com
 .twitturly.com
