@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NvMYP2LK2BYBBZ9BCOQ2gQ
+! Checksum: fgQsVTqwlVVntA1KhacMmA
 ! Expires: 6h
-! Last Modified: Thu, 19 Aug 2010 14:50:13 +0800
+! Last Modified: Thu, 19 Aug 2010 08:14:16 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -76,7 +76,6 @@ alliance.org.hk
 .allinfa.com
 ||allinfo.com
 ||alternate-tools.com
-@@|https:*s3.amazonaws.com
 ||americangreencard.com
 ||amiblockedornot.com
 .amnesty.org
@@ -294,7 +293,6 @@ chinesenewsnet.com
 .chinesetalks.net/ch
 .chingcheong.com
 ||chingcheong.com
-!--same ip as twitlonger
 ||chrispederick.com
 ||chrispederick.net
 .citizenlab.org
@@ -382,15 +380,14 @@ dongtaiwang.com
 ||dongtaiwang.net
 .dongyangjing.com
 .dontfilter.us
-@@||douban.com
 doubleaf.com
 dowei.org
 dphk.org
-|http://www.dpp.org.tw/
+||dpp.org.tw/
 ||drikin.com
 ||drivingitalia.net
 ||droidie.com
-|http:*.dropbox.com
+.dropbox.com
 ||dropbox.com
 ||dtiblog.com
 dtiserv2.com
@@ -411,7 +408,7 @@ www.dwheeler.com
 .dwnews.com
 ||dwnews.com
 xys.dxiong.com
-|http://www.dynawebinc.com
+www.dynawebinc.com
 .dzze.com
 
 !------------------------EE------------------------
@@ -426,7 +423,7 @@ edoors.com
 ||efixusers.com
 ||eic-av.com
 ||elisabethkublerross.com
-http://*eltondisney.com
+.eltondisney.com
 ||emacsblog.org
 ||empflix.com
 chinese.engadget.com
@@ -452,13 +449,12 @@ fangeming.com
 en.favotter.net
 favstar.fm
 ||fbcdn.net
-|http:*fc2.com
+fc2.com
 video.fdbox.com
 ||fourface.nodesnoop.com
 feedbooks.mobi
-|http:*feeds.feedburner.com
-|http://feeds.feedburner.com/gfwlist
-|http://feeds2.feedburner.com/chinagfwblog
+feeds.feedburner.com
+feeds2.feedburner.com/chinagfwblog
 ||feedzshare.com
 feer.com
 .fengzhenghu.com
@@ -506,10 +502,10 @@ freemorenews.com
 www.freetibet.org
 ||freewallpaper4.me
 .freexinwen.com
-|http:*friendfeed.com
+friendfeed.com
 ||frommel.net
 ||fscked.org
-|http://www.fsurf.com/
+www.fsurf.com/
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
@@ -555,7 +551,7 @@ geocities.jp
 gfw.org.ua
 gigporno.ru
 .ginx.com
-|http://ginx.com
+ginx.com
 ||glennhilton.com
 globalmuseumoncommunism.org
 .globalvoicesonline.org
@@ -583,20 +579,20 @@ gs-discuss.com
 ||gzone-anime.info
 
 !-------------Google Code-----
-|http:*code.google.com/p/gappproxy
-|http:*code.google.com/p/autoproxy/updates/list
-|http:*code.google.com/p/program-think/wiki/Software
-|http:*code.google.com/p/twitese
+code.google.com/p/gappproxy
+code.google.com/p/autoproxy/updates/list
+code.google.com/p/program-think/wiki/Software
+code.google.com/p/twitese
 
 !-------------Google Docs-----
-|http://docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
-|http://docs.google.com/View?id=d8xbpp6_4hhpb2dfd
-|http://docs.google.com/View?id=dds68dz_9cqgm8vgq
-|http://docs.google.com*View*id*dg5mtmj9_8g3hk27f5
-|http://docs.google.com*View*id*dg5mtmj9_3188x48zcn
-|http://docs.google.com/View?id=dgjxsxws_148fvpz6wdg
-|http://docs.google.com*dgtbmwd6_934gg99v6g4cc
-|http://docs.google.com/View?id=dhh5gtxb_145nsxgctcc
+docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
+docs.google.com/View?id=d8xbpp6_4hhpb2dfd
+docs.google.com/View?id=dds68dz_9cqgm8vgq
+docs.google.com*View*id*dg5mtmj9_8g3hk27f5
+docs.google.com*View*id*dg5mtmj9_3188x48zcn
+docs.google.com/View?id=dgjxsxws_148fvpz6wdg
+docs.google.com*dgtbmwd6_934gg99v6g4cc
+docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
 ||blog.aegisub.org
@@ -612,8 +608,6 @@ gs-discuss.com
 ||feeds.cbsnews.com
 ||chromeexperiments.com
 ||chromium.org
-@@||build.chromium.org
-@@||src.chromium.org
 ||rss.cnn.com
 ||blog.danmarner.com
 ||github.danmarner.com
@@ -686,7 +680,7 @@ gs-discuss.com
 ||transparentuptime.com
 ||twazzup.com
 ||twivert.com
-|http://ub0.cc
+ub0.cc
 ||tp.vbap.com.au
 ||www.wavesandbox.com
 ||t.webbang.net
@@ -696,120 +690,117 @@ gs-discuss.com
 
 !-------------Google Search-----
 ||74.125.94.160
-|http:*.google.com*/complete/search
-|http:*/search?q=cache
-|http:*/search%3Fq%3Dcache
-|http:*%2Fsearch%3Fq%3Dcache
-|http:*google*search*q=cache
-|http:*.google.com/reader/view/feed
-|http://www.google.com/search*q=dongtaiwang
-|http:*.google.*great*firewall
-|http:*.google.com*tits
+.google.com*/complete/search
+/search?q=cache
+/search%3Fq%3Dcache
+%2Fsearch%3Fq%3Dcache
+google*search*q=cache
+.google.com/reader/view/feed
+www.google.com/search*q=dongtaiwang
+.google.*great*firewall
+.google.com*tits
 !--Bei Guo Zhi Chun
-|http:*.google*search*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
+.google*search*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
 !--Da Lai La Ma
-|http:*.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
+.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Fan Qiang
-|http:*.google.*%E7%BF%BB%E5%A2%99
-|http:*.google.*gfw
+.google.*%E7%BF%BB%E5%A2%99
+.google.*gfw
 !--Gao Zhi Sheng
-|http:*.google.*%E9%AB%98%E6%99%BA%E6%99%9F
+.google.*%E9%AB%98%E6%99%BA%E6%99%9F
 !--Gong Chan Dang
-|http:*.google.*%E5%85%B1%E4%BA%A7%E5%85%9A
+.google.*%E5%85%B1%E4%BA%A7%E5%85%9A
 !--Guan Jian Shi Ke
-|http:*.google.*%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB
+.google.*%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB
 !--Ji Zhe Wu Jiang Jie
-|http:*.google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
+.google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
 !--Jiang Ze Min
-|http:*.google.*search*%E6%B1%9F%E6%B3%BD%E6%B0%91
+.google.*search*%E6%B1%9F%E6%B3%BD%E6%B0%91
 !--Jin Tao
-|http:*.google.*/search*%E9%94%A6%E6%B6%9B
+.google.*/search*%E9%94%A6%E6%B6%9B
 !--Liu Qi
-|http:*.google.*search*%E5%88%98%E6%B7%87
+.google.*search*%E5%88%98%E6%B7%87
 !--Liu Si
-|http:*.google.*%E5%85%AD%E5%9B%9B
+.google.*%E5%85%AD%E5%9B%9B
 !--Lu Xi
-|http:*.google.*%E9%B2%81%E6%98%95
+.google.*%E9%B2%81%E6%98%95
 !--Ma Kai
-|http:*.google.*%E9%A9%AC%E5%87%AF
+.google.*%E9%A9%AC%E5%87%AF
 !--Meng Jian Zhu
-|http:*.google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
+.google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
 !--Meng Ying Wei Ming Hu
-|http:*.google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
+.google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
 !--Na Mi Bi Ya
-|http:*.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
+.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Namibia + Nuctech
-http:*.google.com*search*namibia*nuctech
+.google.com*search*namibia*nuctech
 !--Po Hai
-|http:*.google.com*%E8%BF%AB%E5%AE%B3
+.google.com*%E8%BF%AB%E5%AE%B3
 !--Qian Shi Jin Sheng
-|http:*.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
+.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Ri Ji
-|http:*.google.*%E6%97%A5%E8%AE%B0
+.google.*%E6%97%A5%E8%AE%B0
 !--Tai Zi
-|http:*.google.*%E5%A4%AA%E5%AD%90
+.google.*%E5%A4%AA%E5%AD%90
 !--Tan Zuo Ren
-|http:*.google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
+.google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men
-|http:*google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
+google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Wang Gang
-|http:*google*search*%E7%8E%8B%E5%88%9A
+google*search*%E7%8E%8B%E5%88%9A
 !--Wang Yang
 http:*.google.*search*%E6%B1%AA%E6%B4%8B
 !--Wang Qi Shan
-|http:*.google.*search*%E7%8E%8B%E5%B2%90%E5%B1%B1
+.google.*search*%E7%8E%8B%E5%B2%90%E5%B1%B1
 !--Wang Xiao Ya
-|http:*.google.*q=%E7%8E%8B%E5%B0%8F%E4%B8%AB
+.google.*q=%E7%8E%8B%E5%B0%8F%E4%B8%AB
 !--Xi Lai
-|http:*.google.com*%E7%86%99%E6%9D%A5
+.google.com*%E7%86%99%E6%9D%A5
 !--Ying Di
-|http:*.google.*%E5%BD%B1%E5%B8%9D
+.google.*%E5%BD%B1%E5%B8%9D
 !--Yue Hou Ji Fen
-|http://*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
+*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhang De Jiang
-|http:*.google.*search*%E5%BC%A0%E5%BE%B7%E6%B1%9F
+.google.*search*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhen Li Bu
-|http:*.google.*%E7%9C%9F%E7%90%86%E9%83%A8
+.google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
-|http:*.google.*%E7%9C%9F%E7%9B%B8
+.google.*%E7%9C%9F%E7%9B%B8
 !--Zhong Guo Yuan Min Da Tong Meng
 |http:.google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zi You Men
-|http:*.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
+.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zou Dian Tai
-|http:*.google.*q=%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
+.google.*q=%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 !-----Surnames-----
 !--He
-|http:*.google.*/search*%E8%B4%BA
+.google.*/search*%E8%B4%BA
 !--Hu
-|http:*.google.*/search*%E8%83%A1
+.google.*/search*%E8%83%A1
 !--Huang
-!--|http:*.google.*/search*%E9%BB%84
+!--.google.*/search*%E9%BB%84
 !--Jia
-|http:*.google.*/search*%E8%B4%BE
+.google.*/search*%E8%B4%BE
 !--Li
-|http:*.google.*/search*%E6%9D%8E
+.google.*/search*%E6%9D%8E
 !--Liu
-|http:*.google.*/search*%E5%88%98
+.google.*/search*%E5%88%98
 !--Wen
-|http:*.google.*/search*%E6%B8%A9
+.google.*/search*%E6%B8%A9
 !--Wu
-|http:*.google.*/search*%E5%90%B4
+.google.*/search*%E5%90%B4
 !--Xi
-|http:*.google.*/search*%E4%B9%A0
+.google.*/search*%E4%B9%A0
 !--Zhou
-|http:*.google.*/search*%E5%91%A8
+.google.*/search*%E5%91%A8
 
 !-------------Google.other-----
-@@|https://www.google.com
-@@|https://*.googleusercontent.com
-@@||google.cn/music
-|http:*webcache.googleusercontent.com
-|http:*.google.com/moderator
-|http:*google.com*analytics*zh-CN
+webcache.googleusercontent.com
+.google.com/moderator
+google.com*analytics*zh-CN
 ||encrypted.google.com
-|http:*feedproxy.google.com
-|http:*groups.google.*group
+feedproxy.google.com
+groups.google.*group
 .google.com.hk/wenda
 knol.google.com/k/-/08/3jhi1zdzvxj3f
 sites.google.com
@@ -826,7 +817,7 @@ h1n1china.org
 ||hackthatphone.net
 ||hakkatv.org.tw
 ||hasaowall.com
-|http://www.heartyit.com/
+.heartyit.com
 .hechaji.com
 ||hecjaji.com
 ||hellonewyork.us
@@ -873,7 +864,7 @@ hrichina.org
 .huanghuagang.org
 ||huanghuagang.org
 ||hugoroy.eu
-|http://www.hungerstrikeforaids.org
+www.hungerstrikeforaids.org
 ||huping.net
 
 !--------------------------II--------------------------
@@ -883,7 +874,7 @@ ibiblio.org/pub/packages/ccic
 blogs.icerocket.com/tag
 w.idaiwan.com/forum
 .identi.ca
-|http://identi.ca
+identi.ca
 .idouga.com
 .idv.tw
 ||ifan.cz.cc
@@ -895,8 +886,8 @@ igfw.tk
 ||ignitedetroit.net
 ||illusionfactory.com
 ||ilove80.be
-|http://im.tv/
-|http://www.im.tv/
+im.tv/
+www.im.tv/
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
@@ -906,7 +897,7 @@ imageshack.us
 ||imkev.com
 .imlive.com
 ||incredibox.fr
-|http://www.inmediahk.net/
+.inmediahk.net
 ||interfaceaddiction.com
 internetfreedom.org
 ||internetpopculture.com
@@ -926,7 +917,7 @@ forum.iset.com.tw
 isohunt.com
 blog.istef.info/2007/10/21/myentunnel
 .itweet.net
-|http://itweet.net
+itweet.net
 .iu45.com
 yy.iyatou.com/archives/1042
 .izles.net
@@ -936,7 +927,7 @@ blog.jackjia.com
 jeanyim.com
 ||jgoodies.com
 ||jiaoyou8.com
-|http:*.jiehua.cz
+.jiehua.cz
 jieshibaobao.com
 jingpin.org/fuck-gfw-history
 ac.jiruan.net
@@ -947,7 +938,7 @@ ac.jiruan.net
 ||wiki.js-kit.com
 ||juliereyc.com
 .junefourth-20.net
-|http://junefourth-20.net
+junefourth-20.net
 .jyxf.net
 
 !--------------------------KK--------------------------
@@ -969,7 +960,7 @@ wiki.keso.cn/Home
 ||kurtmunger.com
 kusocity.com
 ||www.kyohk.net
-|http://www.kzeng.info/
+www.kzeng.info/
 
 !--------------------------LL--------------------------
 ladbrokes.com
@@ -979,7 +970,7 @@ latelinenews.com
 ||leecheukyan.org
 t.leeiio.me
 ||lenwhite.com
-http:*li2z.cn/t
+li2z.cn/t
 .lianyue.net
 ||liaowangxizang.net
 .liaowangxizang.net
@@ -1044,7 +1035,7 @@ maruta.be/forget
 ||marxist.net
 mashable.com
 ||mathiew-badimon.com
-|http://www.mathtunnel.com/
+.mathtunnel.com
 .md-t.org
 ||md-t.org
 !--mediafire.com
@@ -1066,7 +1057,7 @@ middle-way.net
 mingpao.com
 .mingpaomonthly.com
 mingpaonews.com
-|http://www.mingpaony.com/
+.mingpaony.com
 .mingpaosf.com
 .mingpaotor.com
 .mingpaovan.com
@@ -1096,7 +1087,7 @@ plurktop.mmdays.com
 @@||get.mp/
 @@||www.mp/
 ||mpettis.com
-|http://www.mpinews.com/
+www.mpinews.com/
 .msguancha.com
 ||mthruf.com
 ||multiply.com
@@ -1106,7 +1097,7 @@ multiupload.com
 ||muzi.net
 ||myaudiocast.com
 ||bbs.mychat.to
-|http://www.mycould.com/
+www.mycould.com/
 ||myeclipseide.com
 .myforum.com.hk
 ||myforum.com.hk
@@ -1128,8 +1119,7 @@ nccwatch.org.tw
 .nch.com.tw
 .ncn.org
 ||ncn.org/
-|http://etools.ncol.com
-|https://etools.ncol.com
+||etools.ncol.com
 www.ned.org
 ||nekoslovakia.net
 t.neolee.cn
@@ -1169,8 +1159,8 @@ no-ip.com
 ||notebookaddon.tk
 ||novelasia.com
 .nownews.com/cybersex
-|http://www.nownews.com/box
-|http://blog.nownews.com
+www.nownews.com/box
+blog.nownews.com
 forum.nownews.com
 .nowtorrents.com
 bbs.nsysu.edu.tw
@@ -1201,19 +1191,19 @@ open.com.hk
 opera.com/mini
 www.orchidbbs.com
 ||orn.jp
-|http:*t.orzdream.com
+t.orzdream.com
 .orzistic.org
 ||orzistic.org
 m.oulove.org
 .oursogo.com
-|http://oursogo.com
-|http:*ow.ly
-|http://ht.ly
+oursogo.com
+ow.ly
+ht.ly
 ||mash.to/
 ||overstimulate.com
 ||ovh.net/
 share.ovi.com/media
-|http://www.oxbridgechina.org/bbs
+www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
 .ozchinese.com/bbs
 bbs.ozchinese.com
@@ -1237,9 +1227,9 @@ pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
 ||pbworks.com
 .pcdiscuss.com
-|http:*forum.pchome.com.tw
-|http:*mypaper.pchome.com.tw
-|http:*news.pchome.com.tw
+forum.pchome.com.tw
+mypaper.pchome.com.tw
+news.pchome.com.tw
 .pcworld.com/downloads/file/fid,71209-order
 pdetails.com
 peacefire.org
@@ -1269,7 +1259,7 @@ picturesocial.com
 ||s.pixfs.net
 ||css.pixnet.in
 ||pixnet.net
-|http:*.pixnet.net
+.pixnet.net
 .pk.com
 ||placemix.com
 .planetsuzy.org
@@ -1345,10 +1335,10 @@ heix.pp.ru
 ||presentationzen.com
 .president.gov.tw
 ||primedius.com
-|http:*prisoner-state-secret-journal-premier
+prisoner-state-secret-journal-premier
 ||privacybox.de
 privatepaste.com
-|http://dlstatusbar.proboards43.com/
+dlstatusbar.proboards43.com/
 ||prosiben.de
 ||proxomitron.info
 ||proxypy.com
@@ -1356,7 +1346,7 @@ proxyroad.com
 prozz.net
 psblog.name
 psiphon.ca
-|http://www.ptt.cc/
+www.ptt.cc/
 .puffstore.com
 ||puffstore.com
 ||pullfolio.com
@@ -1381,8 +1371,8 @@ blog.qooza.hk*dafengqixi
 ||qtrac.eu
 ||qtweeter.com
 ||quadedge.com
-|http://www.quarterlife.com
-|http://quke.cn
+www.quarterlife.com
+quke.cn
 qusi8.net
 .qvodzy.org
 nemesis2.qx.net*pages*MyEnTunnel
@@ -1407,7 +1397,7 @@ blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 ||reflectivecode.com
 ||refer.ccbill.com
-http:*remembering_tiananmen_20_years
+remembering_tiananmen_20_years
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
@@ -1416,7 +1406,7 @@ retweetist.com
 revver.com
 .rfa.org
 .rfachina.com
-|http://rfachina.com
+rfachina.com
 .rfamobile.org
 .rfi.fr
 ||rfi.fr
@@ -1447,7 +1437,7 @@ rti.org.tw
 
 !-------------------------SS--------------------------
 ||s-a.cc
-|http:*blog.s135.com/google_ssl
+blog.s135.com/google_ssl
 ||s1heng.com
 ||s3fox.net
 .saiq.me
@@ -1458,7 +1448,7 @@ rti.org.tw
 sandnoble.com/bookSearch/isbnInquiry.asp
 ||sandradodd.com
 .sanmin.com.tw
-http:*sapikachu.net
+sapikachu.net
 savetibet.org
 ||say2.info
 scribd.com
@@ -1493,7 +1483,7 @@ forum.setty.com.tw
 ||sf520.com
 ||om.shaayad.com
 .shangfang.org
-|http://shangfang.org
+shangfang.org
 shapeservices.com
 ||sharecool.org
 ||sharepointeducation.com
@@ -1509,7 +1499,7 @@ shkspr.mobi/dabr
 .shooshtime.com
 ||shooshtime.com
 ||shulib.com
-|http://ch.shvoong.com/
+ch.shvoong.com/
 ||simplecd.org
 ||simplenoteapp.com
 simpleproductivityblog.com
@@ -1517,12 +1507,12 @@ bbs.sina.com/
 bbs.sina.com%2F
 blog.sina.com.hk
 blog.sina.com.tw
-|http://books.sina.com.tw
+books.sina.com.tw
 dailynews.sina.com/
 dailynews.sina.com%2F
 forum.sina.com.hk
-|http://magazines.sina.com.tw
-|http://news.sina.com/
+magazines.sina.com.tw
+news.sina.com/
 news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
@@ -1542,8 +1532,8 @@ sitetag.us
 ||skimtube.com
 ||skulpt.org
 ||skydur.com
-|http://skype.com
-|http://www.skype.com
+skype.com
+www.skype.com
 download.skype.com/SkypeSetup.exe
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
@@ -1573,16 +1563,16 @@ sneakme.net
 ||sobees.com
 socialwhale.com
 ||soft-artemis.com
-|http://en.softonic.com
+en.softonic.com
 gmail-remote-command.en.softonic.com
 blog.sogoo.org
 sokamonline.com
 .songjianjun.com
 ||songjianjun.com
-|http://www.songza.com/
-|http://songza.com/
+www.songza.com/
+songza.com/
 .sopcast.com
-|http://www.sopcast.org
+www.sopcast.org
 soundofhope.org
 ||soupofmedia.com
 sourceforge.net/projects/portabletor/files/
@@ -1590,7 +1580,7 @@ sowers.org.hk
 .spankwire.com
 .speedpluss.org
 ||spencertipping.com
-|http://my.spill.com
+my.spill.com
 ||splitweet.com
 ||sproutcore.com
 squarespace.com
@@ -1613,7 +1603,7 @@ tw.streetvoice.com
 .student.tw/db
 ||suicideblitz.info
 ||summize.com
-http:*suoluo.org
+suoluo.org
 ||superspeed.com
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
@@ -1677,7 +1667,7 @@ tiananmenmother.org
 tiantibooks.org
 .tianzhu.org
 .tibet.com
-|http://tibet.com
+tibet.com
 .tibet.net
 ||tibet.net
 tibet.org.tw
@@ -1688,7 +1678,7 @@ tibetfund.org
 ||tibetonline.tv
 .tibetonline.tv
 ||tibetwrites.org
-|http:*.time.com/time/time100/leaders/profile/rebel
+.time.com/time/time100/leaders/profile/rebel
 ||blog.tiney.com
 ||tinypaste.com
 ||i28.tinypic.com
@@ -1707,7 +1697,7 @@ tokyo-hot.com
 .topshareware.com
 ||topstyle4.com
 ||topsy.com
-|http:*topsy.com
+topsy.com
 ||tornadoweb.org
 .torproject.org
 touch99.com
@@ -1723,7 +1713,7 @@ touch99.com
 truth101.co.tv/post
 ||truthcn.com
 .truveo.com
-|http:*ts60.com
+ts60.com
 @@||ts60.com
 .tsemtulku.com
 tsquare.tv
@@ -1801,7 +1791,7 @@ bbs.tuitui.info
 ||cocoa.zonble.net
 
 ||tv-intros.com
-|http://forum.tvb.com/
+forum.tvb.com/
 tvboxnow.com
 ||tvunetworks.com
 .gov.tw/
@@ -1813,13 +1803,13 @@ twbbs.org
 ||twblogger.com
 tweepmag.com
 ||tweete.net
-|http://*m.tweete.net
+*m.tweete.net
 tweetmeme.com
 ||tweetphoto.com
 ||tweetrans.com
 ||tweetwally.com
 tweetymail.com
-|http:*twibase.com
+twibase.com
 .twibble.de
 ||twibble.de
 twibbon.com
@@ -1866,7 +1856,7 @@ twittertim.es
 twitthat.com
 ||twitthis.com
 .twitturly.com
-|http://twitturly.com
+twitturly.com
 .twitzap.com
 twiyia.com
 .twreg.info
@@ -1881,12 +1871,12 @@ lawprofessors.typepad.com/china_law_prof_blog
 !-------------Twitese-----
 fanfou.im
 /^https?:\/\/[^\/]+fanfou\.im/
-|http:*fanfou.de
-|http:*fanfou.la
+fanfou.de
+fanfou.la
 guomin.us/login
 t.fishnote.net
 twitter.fishnote.net
-|http:*tuite.im
+tuite.im
 tuite.in
 twitese.webbang.net
 
@@ -1912,16 +1902,16 @@ uncyclomedia.org
 ||uncyclopedia.tw
 .uni.cc
 .uniteddaily.com.my/index.php?
-|http://www.unknownspace.org/
+www.unknownspace.org/
 ||uocn.org
 tor.updatestar.com
 .upload4u.info
 ||uploader.jp
-|http://myshare.url.com.tw/
+myshare.url.com.tw/
 ||urlborg.com
-|http:*us.to
+us.to
 ||usacn.com
-|http://www.cafc.uscourts.gov/
+www.cafc.uscourts.gov/
 earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
 .ustream.tv
@@ -1939,8 +1929,8 @@ earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||vcf-online.org
 ||vcfbuilder.org
 veoh.com
-|http://verizon.net
-|http://www.verizon.net
+verizon.net
+www.verizon.net
 mysite.verizon.net
 ||verybs.com
 .vft.com.tw
@@ -1962,16 +1952,16 @@ www.voy.com
 lists.w3.org/archives/public
 ||waffle1999.com
 .wahas.com
-http:*.waigaobu.com
+.waigaobu.com
 waikeung.org/php_wind
 .waiwaier.com
-|http://waiwaier.com
+waiwaier.com
 wallornot.org
 ||www.wan-press.org
 ||wanderinghorse.net
 ||wangafu.net
 wanglixiong.com
-|http://wlx.sowiki.net
+wlx.sowiki.net
 wangruoshui.net
 www.wangruowang.org
 ||war2wall.info
@@ -1985,7 +1975,7 @@ webshots.com
 websitepulse.com/help/testtools.china-test.html
 ||webupd8.org
 webworkerdaily.com
-|http://www.weekmag.info/
+www.weekmag.info/
 .wefong.com
 weijingsheng.org
 wengewang.com
@@ -2065,11 +2055,11 @@ xijie.wordpress.com
 zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
-|http://wp.com
+wp.com
 
 ||wormsculptor.com
 ||tw.wowarmory.com
-|http://wp.me/
+wp.me/
 .wpoforum.com
 ||wpoforum.com
 wretch.cc
@@ -2101,7 +2091,7 @@ s.xiaod.in
 ||xinmiao.com.hk
 xinsheng.net
 xinshijue.com
-|http://www.xinhuanet.org/
+www.xinhuanet.org/
 .xirang.us
 ||xirang.us
 xizang-zhiye.org
@@ -2160,8 +2150,8 @@ forum.yorkbbs.ca
 .youjizz.com
 ||youjizz.com
 youmaker.com
-|http://www.youpai.org/
-|http://www.your-freedom.net/
+www.youpai.org/
+www.your-freedom.net/
 |https://www.your-freedom.net/
 .yousendit.com
 ||yousendit.com
@@ -2181,11 +2171,11 @@ yuanming.net
 ||yunchao.net
 ||yvesgeleyn.com
 yx51.net
-|http://www.yzzk.com/
+www.yzzk.com/
 
 !--------------------------ZZ--------------------------
-|http://zaobao.com/
-|http://luntan.zaobao.com/
+zaobao.com/
+luntan.zaobao.com/
 .zaobao.com/special/china/cnpol/pages2
 .zaobao.com/special/sitemap
 .zaobao.com.sg
@@ -2214,97 +2204,97 @@ zyzg.us
 
 !--------------------------Other----------------------
 gfwProxyEnabled=yes
-|http:*falun
-|http:*freenet
-|http:*q=freedom
-|http:*search*safeweb
-|http:*q=triangle
-|http:*ultrareach
-|http:*ultrasurf
+falun
+freenet
+q=freedom
+search*safeweb
+q=triangle
+ultrareach
+ultrasurf
 
 !--Ba Ke
-|http:*%E7%BD%A2%E8%AF%BE
+%E7%BD%A2%E8%AF%BE
 !--Bao Tong
-|http:*search*%E9%B2%8D%E5%BD%A4
+search*%E9%B2%8D%E5%BD%A4
 !--Da Ji Yuan
-|http:*search*%E5%A4%A7%E7%BA%AA%E5%85%83
+search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--dong tai wang
-|http:*%E5%8A%A8%E6%80%81%E7%BD%91
+%E5%8A%A8%E6%80%81%E7%BD%91
 !--Duo Wei (hans/hant)
-|http:*search*%E5%A4%9A%E7%B6%AD
-|http:*search*%E5%A4%9A%E7%BB%B4
-|http:*search*freegate
+search*%E5%A4%9A%E7%B6%AD
+search*%E5%A4%9A%E7%BB%B4
+search*freegate
 !--(Li) Fa Hui
-|http:*search*%E6%B3%95%E4%BC%9A
+search*%E6%B3%95%E4%BC%9A
 !--fa lun da fa
-|http:*%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
+%E6%B3%95%E8%BD%AE%E5%A4%A7%E6%B3%95
 !--Fa Lun Gong: Traditional Chinese
-|http:*%E6%B3%95%E8%BC%AA%E5%8A%9F
+%E6%B3%95%E8%BC%AA%E5%8A%9F
 !--Fa Lun Gong: Simplified Chinese
-|http:*%E6%B3%95%E8%BD%AE%E5%8A%9F
+%E6%B3%95%E8%BD%AE%E5%8A%9F
 !--Hu Hai Feng
-|http:*%E8%83%A1%E6%B5%B7%E5%B3%B0
+%E8%83%A1%E6%B5%B7%E5%B3%B0
 !--Hu Hai Qing
-|http:*%E8%83%A1%E6%B5%B7%E6%B8%85
+%E8%83%A1%E6%B5%B7%E6%B8%85
 !--Hua Hua Gong Zi
-|http:*search*%E8%8A%B1%E8%8A%B1%E5%85%AC%E5%AD%90
+search*%E8%8A%B1%E8%8A%B1%E5%85%AC%E5%AD%90
 !--Jia Mi Dai Li (GB/U8)
-|http:*search*%BC%D3%C3%DC%B4%FA%C0%ED
-|http:*search*%E5%8A%A0%E5%AF%86%E4%BB%A3%E7%90%86
+search*%BC%D3%C3%DC%B4%FA%C0%ED
+search*%E5%8A%A0%E5%AF%86%E4%BB%A3%E7%90%86
 !--Jiang Liu Mang
-|http:*search*%E6%B1%9F%E6%B5%81%E6%B0%93
+search*%E6%B1%9F%E6%B5%81%E6%B0%93
 !--Kan Zhong Guo
-|http:*search*%E7%9C%8B%E4%B8%AD%E5%9B%BD
+search*%E7%9C%8B%E4%B8%AD%E5%9B%BD
 !--Liu Si
-|http:*search*%E5%85%AD%E5%9B%9B
+search*%E5%85%AD%E5%9B%9B
 !--Liu Xiao Bo
-|http:*%E5%88%98%E6%99%93%E6%B3%A2
+%E5%88%98%E6%99%93%E6%B3%A2
 !--Mei Guo Zhi Yin
-|http:*%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3
+%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3
 !--Min Jin Dang
-|http:*%E6%B0%91%E8%BF%9B%E5%85%9A
+%E6%B0%91%E8%BF%9B%E5%85%9A
 !--(Nong) Min Yun (Dong Hui)
-|http:*%E6%B0%91%E8%BF%90
+%E6%B0%91%E8%BF%90
 !--Se Qing
-|http:*search*%E8%89%B2%E6%83%85
+search*%E8%89%B2%E6%83%85
 !--Wang Dan
-|http:*%E7%8E%8B%E4%B8%B9
+%E7%8E%8B%E4%B8%B9
 !--Wang Xi Zhe
-|http:*search*%E7%8E%8B%E5%B8%8C%E5%93%B2
+search*%E7%8E%8B%E5%B8%8C%E5%93%B2
 !--Wo De Fen Dou
-|http:*search*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
+search*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Jie
-|http:*search*%E6%97%A0%E7%95%8C
+search*%E6%97%A0%E7%95%8C
 !--Xie E
-|http:*search*%E9%82%AA%E6%81%B6
+search*%E9%82%AA%E6%81%B6
 !--Xi Nao
-|http:*search*%E6%B4%97%E8%84%91
+search*%E6%B4%97%E8%84%91
 !--Xin Tang Ren
-|http:*search*%E6%96%B0%E5%94%90%E4%BA%BA
+search*%E6%96%B0%E5%94%90%E4%BA%BA
 !--Xin Yu Si
-|http:*search*%E6%96%B0%E8%AF%AD%E4%B8%9D
+search*%E6%96%B0%E8%AF%AD%E4%B8%9D
 !--Zhao Zi Yang
-|http:*%E8%B5%B5%E7%B4%AB%E9%98%B3
+%E8%B5%B5%E7%B4%AB%E9%98%B3
 !--Zhong Gong
-|http:*search*%E4%B8%AD%E5%8A%9F
+search*%E4%B8%AD%E5%8A%9F
 !--Zhong Xuan Bu
-|http:*search*%E4%B8%AD%E5%AE%A3%E9%83%A8
+search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 !-------------en.WikiPedia-----
-|http://en.wikipedia.org*Book_burning
-|http://en.wikipedia.org*Censorship_in_the_People%27s_Republic_of_China
-|http://en.wikipedia.org*Dalai_Lama
-|http://en.wikipedia.org*Deep_packet_inspection
-|http://en.wikipedia.org*Freegate
-|http://en.wikipedia.org*Golden_Shield_Project
-|http://en.wikipedia.org/wiki/Hong_Kong
-|http://en.wikipedia.org*Huang_Qi
-|http://en.wikipedia.org*Internet_censorship
-|http://en.wikipedia.org*Liu_Xiaobo
-|http://en.wikipedia.org*Shi_Tao
-|http://en.wikipedia.org*Tank_man
-|http://en.wikipedia.org*Tiananmen_Square_protests_of_1989
-|http://en.wikipedia.org*Tibetan_independence_movement
+en.wikipedia.org*Book_burning
+en.wikipedia.org*Censorship_in_the_People%27s_Republic_of_China
+en.wikipedia.org*Dalai_Lama
+en.wikipedia.org*Deep_packet_inspection
+en.wikipedia.org*Freegate
+en.wikipedia.org*Golden_Shield_Project
+en.wikipedia.org/wiki/Hong_Kong
+en.wikipedia.org*Huang_Qi
+en.wikipedia.org*Internet_censorship
+en.wikipedia.org*Liu_Xiaobo
+en.wikipedia.org*Shi_Tao
+en.wikipedia.org*Tank_man
+en.wikipedia.org*Tiananmen_Square_protests_of_1989
+en.wikipedia.org*Tibetan_independence_movement
 
 !-------------zh.Wiki----------
 !--512 Da Di Zhen
@@ -2641,7 +2631,6 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 !--Ling Ba Xian Zhang--WikiSource
 zh.wikisource.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
-!\\
 
 !------Temporary
 !-----2009/11
