@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: H107hK104r/3iKPzesNI+g
+! Checksum: KvLvwJCMYNRA3csOr2o1sg
 ! Expires: 6h
-! Last Modified: Fri, 20 Aug 2010 13:01:52 +0800
+! Last Modified: Fri, 20 Aug 2010 13:25:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -114,6 +114,7 @@ twittergadget.appspot.com
 ||archive.org
 ||areca-backup.org
 ||ark10.org
+asdfg.jp/dabr
 asiademo.org
 ||asiademo.org
 asianews.it
@@ -285,7 +286,7 @@ chinasocialdemocraticparty.com
 chinasoul.org
 ||chinasoul.org
 blog.chinatimes.com
-||blog.chinatimes.com
+camera.chinatimes.com
 gb.chinatimes.com/gate/gb*2007Cti-News
 chinaway.org
 chinayuanmin.org
@@ -362,6 +363,7 @@ daxa.cn
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
 packages.debian.org/zh-cn/lenny/gpass
+||www.debugmode.com
 ||delcamp.net
 delicious.com/GFWbookmark
 .democrats.org
@@ -576,6 +578,7 @@ grandtrial.org
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
 gpass1.com
+||gqueues.com
 great-firewall.com
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
@@ -805,17 +808,18 @@ http:*.google.*search*%E6%B1%AA%E6%B4%8B
 
 !-------------Google.other-----
 @@||google.cn/music
-webcache.googleusercontent.com
 .google.com/moderator
+.google.com.hk/wenda
 google.com*analytics*zh-CN
 ||encrypted.google.com
 feedproxy.google.com
 groups.google.*group
-.google.com.hk/wenda
 knol.google.com/k/-/08/3jhi1zdzvxj3f
+picasaweb.google.com
 sites.google.com
 |https://talkgadget.google.com/
 video.google.com
+webcache.googleusercontent.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
@@ -991,6 +995,7 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 .linglingfa.com
+||linksalpha.com
 ||linuxconfig.org
 ||linux-engineer.net
 .lipuman.com
@@ -1555,6 +1560,7 @@ forum.slime.com.tw
 ||so-news.com
 .so-news.com
 ||soc.mil/
+||www.socialwhois.com
 .sod.co.jp
 ||softpanorama.org
 ||sogclub.com
