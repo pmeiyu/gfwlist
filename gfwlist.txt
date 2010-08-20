@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6bTijMCGGLg9omW+0E5yTA
+! Checksum: H107hK104r/3iKPzesNI+g
 ! Expires: 6h
-! Last Modified: Fri, 20 Aug 2010 12:46:51 +0800
+! Last Modified: Fri, 20 Aug 2010 13:01:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1540,9 +1540,7 @@ sitetag.us
 ||skimtube.com
 ||skulpt.org
 ||skydur.com
-skype.com
-www.skype.com
-download.skype.com/SkypeSetup.exe
+||skype.com
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
 .slashgear.com
@@ -1571,16 +1569,11 @@ sneakme.net
 ||sobees.com
 socialwhale.com
 ||soft-artemis.com
-en.softonic.com
-gmail-remote-command.en.softonic.com
 blog.sogoo.org
 sokamonline.com
 .songjianjun.com
 ||songjianjun.com
-www.songza.com/
-songza.com/
 .sopcast.com
-www.sopcast.org
 soundofhope.org
 ||soupofmedia.com
 sourceforge.net/projects/portabletor/files/
@@ -1588,7 +1581,6 @@ sowers.org.hk
 .spankwire.com
 .speedpluss.org
 ||spencertipping.com
-my.spill.com
 ||splitweet.com
 ||sproutcore.com
 squarespace.com
@@ -1675,7 +1667,7 @@ tiananmenmother.org
 tiantibooks.org
 .tianzhu.org
 .tibet.com
-tibet.com
+||tibet.com
 .tibet.net
 ||tibet.net
 tibet.org.tw
@@ -1864,7 +1856,7 @@ twittertim.es
 twitthat.com
 ||twitthis.com
 .twitturly.com
-twitturly.com
+||twitturly.com
 .twitzap.com
 twiyia.com
 .twreg.info
@@ -1910,7 +1902,7 @@ uncyclomedia.org
 ||uncyclopedia.tw
 .uni.cc
 .uniteddaily.com.my/index.php?
-www.unknownspace.org/
+||unknownspace.org
 ||uocn.org
 tor.updatestar.com
 .upload4u.info
@@ -1919,7 +1911,6 @@ myshare.url.com.tw/
 ||urlborg.com
 us.to
 ||usacn.com
-www.cafc.uscourts.gov/
 earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
 .ustream.tv
@@ -1937,9 +1928,7 @@ earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||vcf-online.org
 ||vcfbuilder.org
 veoh.com
-verizon.net
-www.verizon.net
-mysite.verizon.net
+.verizon.net
 ||verybs.com
 .vft.com.tw
 .videosz.com
@@ -1963,13 +1952,12 @@ lists.w3.org/archives/public
 .waigaobu.com
 waikeung.org/php_wind
 .waiwaier.com
-waiwaier.com
 wallornot.org
 ||www.wan-press.org
 ||wanderinghorse.net
 ||wangafu.net
 wanglixiong.com
-wlx.sowiki.net
+||wlx.sowiki.net
 wangruoshui.net
 www.wangruowang.org
 ||war2wall.info
@@ -1983,7 +1971,7 @@ webshots.com
 websitepulse.com/help/testtools.china-test.html
 ||webupd8.org
 webworkerdaily.com
-www.weekmag.info/
+.weekmag.info
 .wefong.com
 weijingsheng.org
 wengewang.com
@@ -2063,11 +2051,11 @@ xijie.wordpress.com
 zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
-wp.com
+||wp.com
 
 ||wormsculptor.com
 ||tw.wowarmory.com
-wp.me/
+||wp.me
 .wpoforum.com
 ||wpoforum.com
 wretch.cc
@@ -2099,7 +2087,7 @@ s.xiaod.in
 ||xinmiao.com.hk
 xinsheng.net
 xinshijue.com
-www.xinhuanet.org/
+xinhuanet.org
 .xirang.us
 ||xirang.us
 xizang-zhiye.org
@@ -2158,9 +2146,9 @@ forum.yorkbbs.ca
 .youjizz.com
 ||youjizz.com
 youmaker.com
-www.youpai.org/
-www.your-freedom.net/
-|https://www.your-freedom.net/
+.youpai.org
+||youpai.org
+.your-freedom.net
 .yousendit.com
 ||yousendit.com
 youthbao.com
@@ -2179,10 +2167,9 @@ yuanming.net
 ||yunchao.net
 ||yvesgeleyn.com
 yx51.net
-www.yzzk.com/
 
 !--------------------------ZZ--------------------------
-zaobao.com/
+|http://zaobao.com/
 luntan.zaobao.com/
 .zaobao.com/special/china/cnpol/pages2
 .zaobao.com/special/sitemap
