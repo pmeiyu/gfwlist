@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0wxgKcANct7WEmzSb9D63w
+! Checksum: AscJTSfCDSYmggDZqSQV7g
 ! Expires: 6h
-! Last Modified: Fri, 20 Aug 2010 18:25:48 +0800
+! Last Modified: Fri, 20 Aug 2010 18:52:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -253,7 +253,6 @@ cdpwu.org
 ||digitalnomadsproject.org
 ||transgressionism.org
 chengmingmag.com
-||chenlu.info
 ||cherrysave.com
 .china-week.com
 china101.com
@@ -380,6 +379,7 @@ diigo.com
 ||dl-laby.jp
 ||dlsite.com
 .dojin.com
+.dolc.de/forum
 .domain.club.tw
 dongde.com
 dongtaiwang.com
@@ -1665,6 +1665,7 @@ theblemish.com
 ||thedieline.com
 ||thedw.us
 ||thegatesnotes.com
+||thehungrydudes.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
@@ -1672,8 +1673,8 @@ thepiratebay.org
 ||thesponty.com
 ||thetibetpost.com
 thevivekspot.com
-threatchaos.com
 thkphoto.com
+threatchaos.com
 ||throughnightsfire.com
 .thumbzilla.com
 tiananmenmother.org
@@ -1818,7 +1819,7 @@ twbbs.org
 ||twblogger.com
 tweepmag.com
 ||tweete.net
-*m.tweete.net
+m.tweete.net
 tweetmeme.com
 ||tweetphoto.com
 ||tweetrans.com
@@ -1874,6 +1875,7 @@ twitthat.com
 ||twitturly.com
 .twitzap.com
 twiyia.com
+||twohungrydudes.com
 .twreg.info
 ||twreg.info
 ||twttr.com
