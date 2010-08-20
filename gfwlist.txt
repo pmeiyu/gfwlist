@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XoClD+1SBeZWdAgXtZlKKg
+! Checksum: 6bTijMCGGLg9omW+0E5yTA
 ! Expires: 6h
-! Last Modified: Thu, 19 Aug 2010 22:11:57 +0800
+! Last Modified: Fri, 20 Aug 2010 12:46:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -385,6 +385,7 @@ dongtaiwang.com
 ||dongtaiwang.net
 .dongyangjing.com
 .dontfilter.us
+@@||douban.com
 doubleaf.com
 dowei.org
 dphk.org
@@ -413,7 +414,7 @@ www.dwheeler.com
 .dwnews.com
 ||dwnews.com
 xys.dxiong.com
-www.dynawebinc.com
+||dynawebinc.com
 .dzze.com
 
 !------------------------EE------------------------
@@ -510,7 +511,7 @@ www.freetibet.org
 friendfeed.com
 ||frommel.net
 ||fscked.org
-www.fsurf.com/
+.fsurf.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
@@ -556,7 +557,7 @@ geocities.jp
 gfw.org.ua
 gigporno.ru
 .ginx.com
-ginx.com
+||ginx.com
 ||glennhilton.com
 globalmuseumoncommunism.org
 .globalvoicesonline.org
@@ -613,6 +614,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||feeds.cbsnews.com
 ||chromeexperiments.com
 ||chromium.org
+@@||build.chromium.org
+@@||src.chromium.org
 ||rss.cnn.com
 ||blog.danmarner.com
 ||github.danmarner.com
@@ -685,7 +688,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||transparentuptime.com
 ||twazzup.com
 ||twivert.com
-ub0.cc
+||ub0.cc
 ||tp.vbap.com.au
 ||www.wavesandbox.com
 ||t.webbang.net
@@ -694,6 +697,7 @@ ub0.cc
 ||blog.wundercounter.com
 
 !-------------Google Search-----
+@@|https://www.google.com
 ||74.125.94.160
 .google.com*/complete/search
 /search?q=cache
@@ -701,7 +705,7 @@ ub0.cc
 %2Fsearch%3Fq%3Dcache
 google*search*q=cache
 .google.com/reader/view/feed
-www.google.com/search*q=dongtaiwang
+|http://www.google.com*/search*q=dongtaiwang
 .google.*great*firewall
 .google.com*tits
 !--Bei Guo Zhi Chun
@@ -764,7 +768,7 @@ http:*.google.*search*%E6%B1%AA%E6%B4%8B
 !--Ying Di
 .google.*%E5%BD%B1%E5%B8%9D
 !--Yue Hou Ji Fen
-*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
+.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhang De Jiang
 .google.*search*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhen Li Bu
@@ -800,6 +804,7 @@ http:*.google.*search*%E6%B1%AA%E6%B4%8B
 .google.*/search*%E5%91%A8
 
 !-------------Google.other-----
+@@||google.cn/music
 webcache.googleusercontent.com
 .google.com/moderator
 google.com*analytics*zh-CN
@@ -822,7 +827,7 @@ h1n1china.org
 ||hackthatphone.net
 ||hakkatv.org.tw
 ||hasaowall.com
-.heartyit.com
+||heartyit.com
 .hechaji.com
 ||hecjaji.com
 ||hellonewyork.us
@@ -869,7 +874,7 @@ hrichina.org
 .huanghuagang.org
 ||huanghuagang.org
 ||hugoroy.eu
-www.hungerstrikeforaids.org
+||hungerstrikeforaids.org
 ||huping.net
 
 !--------------------------II--------------------------
@@ -879,7 +884,6 @@ ibiblio.org/pub/packages/ccic
 blogs.icerocket.com/tag
 w.idaiwan.com/forum
 .identi.ca
-identi.ca
 .idouga.com
 .idv.tw
 ||ifan.cz.cc
@@ -891,8 +895,8 @@ igfw.tk
 ||ignitedetroit.net
 ||illusionfactory.com
 ||ilove80.be
-im.tv/
-www.im.tv/
+||im.tv
+@@||myvlog.im.tv
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
@@ -903,6 +907,7 @@ imageshack.us
 .imlive.com
 ||incredibox.fr
 .inmediahk.net
+||inmediahk.net
 ||interfaceaddiction.com
 internetfreedom.org
 ||internetpopculture.com
@@ -922,6 +927,7 @@ forum.iset.com.tw
 isohunt.com
 blog.istef.info/2007/10/21/myentunnel
 .itweet.net
+||itweet.net
 itweet.net
 .iu45.com
 yy.iyatou.com/archives/1042
@@ -943,7 +949,7 @@ ac.jiruan.net
 ||wiki.js-kit.com
 ||juliereyc.com
 .junefourth-20.net
-junefourth-20.net
+||junefourth-20.net
 .jyxf.net
 
 !--------------------------KK--------------------------
@@ -965,7 +971,8 @@ wiki.keso.cn/Home
 ||kurtmunger.com
 kusocity.com
 ||www.kyohk.net
-www.kzeng.info/
+.kzeng.info
+||kzeng.info
 
 !--------------------------LL--------------------------
 ladbrokes.com
@@ -1040,7 +1047,6 @@ maruta.be/forget
 ||marxist.net
 mashable.com
 ||mathiew-badimon.com
-.mathtunnel.com
 .md-t.org
 ||md-t.org
 !--mediafire.com
@@ -1092,7 +1098,7 @@ plurktop.mmdays.com
 @@||get.mp/
 @@||www.mp/
 ||mpettis.com
-www.mpinews.com/
+mpinews.com
 .msguancha.com
 ||mthruf.com
 ||multiply.com
@@ -1102,7 +1108,7 @@ multiupload.com
 ||muzi.net
 ||myaudiocast.com
 ||bbs.mychat.to
-www.mycould.com/
+||www.mycould.com
 ||myeclipseide.com
 .myforum.com.hk
 ||myforum.com.hk
@@ -1164,8 +1170,8 @@ no-ip.com
 ||notebookaddon.tk
 ||novelasia.com
 .nownews.com/cybersex
-www.nownews.com/box
-blog.nownews.com
+.nownews.com/box
+||blog.nownews.com
 forum.nownews.com
 .nowtorrents.com
 bbs.nsysu.edu.tw
@@ -1202,13 +1208,13 @@ t.orzdream.com
 m.oulove.org
 .oursogo.com
 oursogo.com
-ow.ly
-ht.ly
+.ow.ly
+||ow.ly
+||ht.ly
 ||mash.to/
 ||overstimulate.com
 ||ovh.net/
 share.ovi.com/media
-www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
 .ozchinese.com/bbs
 bbs.ozchinese.com
@@ -1343,7 +1349,8 @@ heix.pp.ru
 prisoner-state-secret-journal-premier
 ||privacybox.de
 privatepaste.com
-dlstatusbar.proboards43.com/
+||proboards.com
+@@||www.proboards.com
 ||prosiben.de
 ||proxomitron.info
 ||proxypy.com
@@ -1351,7 +1358,7 @@ proxyroad.com
 prozz.net
 psblog.name
 psiphon.ca
-www.ptt.cc/
+.ptt.cc
 .puffstore.com
 ||puffstore.com
 ||pullfolio.com
@@ -1376,8 +1383,6 @@ blog.qooza.hk*dafengqixi
 ||qtrac.eu
 ||qtweeter.com
 ||quadedge.com
-www.quarterlife.com
-quke.cn
 qusi8.net
 .qvodzy.org
 nemesis2.qx.net*pages*MyEnTunnel
@@ -1411,7 +1416,6 @@ retweetist.com
 revver.com
 .rfa.org
 .rfachina.com
-rfachina.com
 .rfamobile.org
 .rfi.fr
 ||rfi.fr
@@ -1488,7 +1492,7 @@ forum.setty.com.tw
 ||sf520.com
 ||om.shaayad.com
 .shangfang.org
-shangfang.org
+||shangfang.org
 shapeservices.com
 ||sharecool.org
 ||sharepointeducation.com
@@ -1510,14 +1514,13 @@ ch.shvoong.com/
 simpleproductivityblog.com
 bbs.sina.com/
 bbs.sina.com%2F
-blog.sina.com.hk
+||blog.sina.com.hk
 blog.sina.com.tw
-books.sina.com.tw
-dailynews.sina.com/
-dailynews.sina.com%2F
+||books.sina.com.tw
+dailynews.sina.com/bg
 forum.sina.com.hk
-magazines.sina.com.tw
-news.sina.com/
+||magazines.sina.com.tw
+||news.sina.com/
 news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
