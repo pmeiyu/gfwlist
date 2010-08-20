@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LYfshvVEbJ4E6Fh+veAK8A
+! Checksum: 0wxgKcANct7WEmzSb9D63w
 ! Expires: 6h
-! Last Modified: Fri, 20 Aug 2010 15:39:02 +0800
+! Last Modified: Fri, 20 Aug 2010 18:25:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -712,6 +712,10 @@ google*search*q=cache
 .google.com/reader/view/feed
 |http://www.google.com*/search*q=dongtaiwang
 .google.*great*firewall
+.google.*protest*1989
+.google.*search*Tankman
+.google.*Tiananmen
+.google.*Tibetan*independence
 .google.com*tits
 !--Bei Guo Zhi Chun
 .google*search*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
@@ -2289,20 +2293,20 @@ search*%E4%B8%AD%E5%8A%9F
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 !-------------en.WikiPedia-----
-en.wikipedia.org*Book_burning
-en.wikipedia.org*Censorship_in_the_People%27s_Republic_of_China
-en.wikipedia.org*Dalai_Lama
-en.wikipedia.org*Deep_packet_inspection
-en.wikipedia.org*Freegate
-en.wikipedia.org*Golden_Shield_Project
-en.wikipedia.org/wiki/Hong_Kong
-en.wikipedia.org*Huang_Qi
-en.wikipedia.org*Internet_censorship
-en.wikipedia.org*Liu_Xiaobo
-en.wikipedia.org*Shi_Tao
-en.wikipedia.org*Tank_man
-en.wikipedia.org*Tiananmen_Square_protests_of_1989
-en.wikipedia.org*Tibetan_independence_movement
+|http://en.wikipedia.org*Book_burning
+|http://en.wikipedia.org*Censorship_in_the_People%27s_Republic_of_China
+|http://en.wikipedia.org*Dalai_Lama
+|http://en.wikipedia.org*Deep_packet_inspection
+|http://en.wikipedia.org*Freegate
+|http://en.wikipedia.org*Golden_Shield_Project
+|http://en.wikipedia.org/wiki/Hong_Kong
+|http://en.wikipedia.org*Huang_Qi
+|http://en.wikipedia.org*Internet_censorship
+|http://en.wikipedia.org*Liu_Xiaobo
+|http://en.wikipedia.org*Shi_Tao
+|http://en.wikipedia.org*Tank_man
+|http://en.wikipedia.org*Tiananmen_Square_protests_of_1989
+|http://en.wikipedia.org*Tibetan_independence_movement
 
 !-------------zh.Wiki----------
 !--512 Da Di Zhen
