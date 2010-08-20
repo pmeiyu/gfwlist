@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KvLvwJCMYNRA3csOr2o1sg
+! Checksum: LYfshvVEbJ4E6Fh+veAK8A
 ! Expires: 6h
-! Last Modified: Fri, 20 Aug 2010 13:25:28 +0800
+! Last Modified: Fri, 20 Aug 2010 15:39:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -97,7 +97,6 @@ video.aol.com
 ||video.aol.com
 ||apirocks.com
 .apigee.com
-||apugee.com
 ||appbase.com
 
 !-Appspot
@@ -288,6 +287,7 @@ chinasoul.org
 blog.chinatimes.com
 camera.chinatimes.com
 gb.chinatimes.com/gate/gb*2007Cti-News
+news.chinatimes.com/2007Cti*0,4521,130505
 chinaway.org
 chinayuanmin.org
 ||chinayuanmin.org
@@ -577,6 +577,7 @@ grandtrial.org
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
+.greenparty.org.tw
 gpass1.com
 ||gqueues.com
 great-firewall.com
@@ -615,6 +616,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||secrets.blacktree.com
 ||moblog.bradleyit.com
 ||feeds.cbsnews.com
+||www.chinesealbumart.com
 ||chromeexperiments.com
 ||chromium.org
 @@||build.chromium.org
@@ -832,6 +834,8 @@ h1n1china.org
 ||hakkatv.org.tw
 ||hasaowall.com
 ||heartyit.com
+.hecaitou.net
+||hecaitou.net
 .hechaji.com
 ||hecjaji.com
 ||hellonewyork.us
@@ -1068,6 +1072,7 @@ memedia.cn
 mhradio.org
 ||michaelmarketl.com
 middle-way.net
+.mihk.hk/forum
 .mimivip.com
 .minghui.org
 mingpao.com
@@ -1999,12 +2004,14 @@ wezhiyong.org
 wg1966.com
 .whatblocked.com
 ||whatblocked.com
+||whatbrowser.org
 .whippedass.com
 ||whyx.org
 ||wikia.com
 @@||images.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikiwiki.jp
+.wikileaks.org
 ||wikileaks.org
 ||wikimapia.org
 ||secure.wikimedia.org
