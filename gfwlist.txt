@@ -1,13 +1,14 @@
 [AutoProxy 0.2.9]
-! Checksum: AscJTSfCDSYmggDZqSQV7g
+! Checksum: c7agQ9VIOhV9xn3Xjj2fow
 ! Expires: 6h
-! Last Modified: Fri, 20 Aug 2010 18:52:23 +0800
+! Last Modified: Sat, 21 Aug 2010 13:09:43 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 1-apple.com.tw
 ||1-apple.com.tw
 ||121pp.com
+t.16class.cn
 173ng.com
 ||173ng.com
 .17e.org
@@ -100,6 +101,7 @@ video.aol.com
 ||appbase.com
 
 !-Appspot
+https://*.appspot.com/
 bullog4cn.appspot.com
 chnshot.appspot.com
 go2china8.appspot.com
@@ -218,6 +220,7 @@ holz.byethost8.com
 
 !--------------------------CC--------------------------
 .cafepress.com
+||canonfilmmakerslive.com
 .canyu.org
 .cao.im
 .caobian.info
@@ -348,6 +351,7 @@ dadazim.com
 .dadi360.com
 .dailidaili.com
 ||dailidaili.com
+.dailymotion.com
 .dajiyuan.com
 ||dajiyuan.com
 dalailama.com
@@ -451,6 +455,7 @@ eyny.com
 fanqiangyakexi.net
 fail.hk
 ||failforum.net
+.fan-qiang.com
 .fangbinxing.com
 fangeming.com
 .farwestchina.com
@@ -459,6 +464,7 @@ favstar.fm
 ||fbcdn.net
 fc2.com
 video.fdbox.com
+||fdcn.org
 ||fourface.nodesnoop.com
 feedbooks.mobi
 feeds.feedburner.com
@@ -566,6 +572,7 @@ globalmuseumoncommunism.org
 ||globalvoicesonline.org
 gmbd.cn
 ||gmhz.org
+||gmote.org
 ||goldwave.com
 gongmeng.info
 gongminliliang.com
@@ -959,6 +966,7 @@ ac.jiruan.net
 ||journalofdemocracy.org
 ||wiki.jqueryui.com
 ||wiki.js-kit.com
+t.jteet.com
 ||juliereyc.com
 .junefourth-20.net
 ||junefourth-20.net
@@ -1508,6 +1516,7 @@ forum.setty.com.tw
 .shangfang.org
 ||shangfang.org
 shapeservices.com
+.sharebee.com
 ||sharecool.org
 ||sharepointeducation.com
 .shaunthesheep.com
@@ -1790,6 +1799,7 @@ bbs.tuitui.info
 ||madmenfootnotes.com
 ||marco.org
 ||minimalmac.com
+||blog.mongodb.org
 ||navigeaters.com
 ||blog.opentumblr.com
 ||thedailywh.at
@@ -1818,6 +1828,8 @@ twa.sh
 twbbs.org
 ||twblogger.com
 tweepmag.com
+.tweetbackup.com
+||tweetbackup.com
 ||tweete.net
 m.tweete.net
 tweetmeme.com
