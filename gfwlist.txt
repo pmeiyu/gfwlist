@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: O3suKc0uWFwz3pOSZG8ejw
+! Checksum: Dq2azxNfCM4Bgo+DGW4pxg
 ! Expires: 6h
-! Last Modified: Sat, 21 Aug 2010 13:22:59 +0000
+! Last Modified: Sat, 21 Aug 2010 13:28:41 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -98,6 +98,7 @@ video.aol.com
 ||video.aol.com
 ||apirocks.com
 .apigee.com
+||apigee.com
 ||appbase.com
 
 !-Appspot
@@ -211,6 +212,7 @@ brightkite.com
 ||budaedu.org
 ||buddyrunner.com
 ||buffalo-bbs.com
+.bullog.org
 ||bullog.org
 .bullogger.com
 ||bullogger.com
@@ -502,6 +504,7 @@ freeman2.com
 ||fofg.org
 .fooooo.com
 ||fooooo.com
+||foxdie.us
 ||franklc.com
 ||puttycm.free.fr
 freeciv.org
@@ -1203,6 +1206,7 @@ no-ip.com
 ||blog.nownews.com
 forum.nownews.com
 .nowtorrents.com
+.nps.gov
 bbs.nsysu.edu.tw
 ntdtv.com
 ||cbs.ntu.edu.tw
@@ -1424,6 +1428,7 @@ www.radioaustralia.net.au*chinese*articles*
 ||randyblue.com
 rangzen.org
 ranyunfei.com
+||rapid.pk
 .rapidshare1.com
 ||rapidshare8.com
 .rapidsharedata.com
@@ -1841,6 +1846,7 @@ tweepmag.com
 ||tweete.net
 m.tweete.net
 tweetmeme.com
+tweetphoto.com
 ||tweetphoto.com
 ||tweetrans.com
 ||tweetwally.com
