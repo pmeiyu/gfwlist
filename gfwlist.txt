@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OcH4PErNRL4dMyLOFKnuZA
+! Checksum: O3suKc0uWFwz3pOSZG8ejw
 ! Expires: 6h
-! Last Modified: Sat, 21 Aug 2010 13:15:33 +0000
+! Last Modified: Sat, 21 Aug 2010 13:22:59 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -146,6 +146,7 @@ dajusha.baywords.com
 .bbc.co.uk/zhongwen
 news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
+||bbleaks.com
 ||bbsfeed.com
 bbsland.com
 .bcc.com.tw/board
@@ -524,6 +525,7 @@ friendfeed.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
+fulue.com
 funp.com
 ||funpea.com
 .futurechinaforum.org
@@ -865,6 +867,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .higfw.com
 .hjclub.info
 ||hjclub.info
+.hk-pub.com/forum
 .hk32168.com
 ||hk32168.com
 .hkbf.org
@@ -970,6 +973,7 @@ ac.jiruan.net
 ||wiki.js-kit.com
 t.jteet.com
 ||juliereyc.com
+||junauza.com
 .junefourth-20.net
 ||junefourth-20.net
 .jyxf.net
@@ -1581,6 +1585,7 @@ forum.slime.com.tw
 ||so-news.com
 .so-news.com
 ||soc.mil/
+||socialnmobile.com
 ||www.socialwhois.com
 .sod.co.jp
 ||softpanorama.org
