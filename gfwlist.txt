@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CNVD3/HqIiZ65FY5mDzGGg
+! Checksum: OcH4PErNRL4dMyLOFKnuZA
 ! Expires: 6h
-! Last Modified: Sat, 21 Aug 2010 13:09:52 +0000
+! Last Modified: Sat, 21 Aug 2010 13:15:33 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -290,6 +290,7 @@ blog.chinatimes.com
 camera.chinatimes.com
 gb.chinatimes.com/gate/gb*2007Cti-News
 news.chinatimes.com/2007Cti*0,4521,130505
+news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 chinaway.org
 chinayuanmin.org
 ||chinayuanmin.org
@@ -524,6 +525,7 @@ friendfeed.com
 ||fuckcnnic.net
 fuckgfw.org
 funp.com
+||funpea.com
 .futurechinaforum.org
 ||futuremessage.org
 ||fzh999.net
@@ -1115,6 +1117,7 @@ plurktop.mmdays.com
 ||morningsun.org
 ||movabletype.com
 ||moviefap.com
+||moztw.org
 ||mp/
 @@||chi.mp/
 @@||get.mp/
