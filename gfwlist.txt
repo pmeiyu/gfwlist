@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Dq2azxNfCM4Bgo+DGW4pxg
+! Checksum: gw7o/KmfdSYXrSxxW/kGEg
 ! Expires: 6h
-! Last Modified: Sat, 21 Aug 2010 13:28:41 +0000
+! Last Modified: Mon, 23 Aug 2010 02:57:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -102,7 +102,7 @@ video.aol.com
 ||appbase.com
 
 !-Appspot
-https://*.appspot.com/
+|https:*.appspot.com/
 bullog4cn.appspot.com
 chnshot.appspot.com
 go2china8.appspot.com
@@ -676,6 +676,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||usbloadergx.koureio.net
 ||blog.kowalczyk.info
 ||docs.latexlab.org
+||blog.lidaobing.info
 ||feeds.limi.net
 ||www.liteapplications.com
 ||blog.liukangxu.info
