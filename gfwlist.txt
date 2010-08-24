@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gw7o/KmfdSYXrSxxW/kGEg
+! Checksum: O+9Cs300H4thksJBmcAGSA
 ! Expires: 6h
-! Last Modified: Mon, 23 Aug 2010 02:57:14 +0800
+! Last Modified: Tue, 24 Aug 2010 09:41:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1459,6 +1459,7 @@ revver.com
 ||b.rimg.com.tw
 ||c.rimg.com.tw
 robtex.com
+||robustnessiskey.com
 ||romnation.net
 ||ronjoneswriter.com
 .roodo.com
