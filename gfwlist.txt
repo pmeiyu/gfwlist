@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yBHps3EX7sKMbVmWO37rhg
+! Checksum: wK4fmui8J0+RWK91aPJmvQ
 ! Expires: 6h
-! Last Modified: Thu, 26 Aug 2010 21:27:35 +0800
+! Last Modified: Thu, 26 Aug 2010 21:38:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -733,7 +733,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 %2Fsearch%3Fq%3Dcache
 google*search*q=cache
 .google.com/reader/view/feed
-|http://www.google.com*/search*q=dongtaiwang
 .google.*great*firewall
 .google.*protest*1989
 .google.*search*Tankman
@@ -790,7 +789,7 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Wang Gang
 google*search*%E7%8E%8B%E5%88%9A
 !--Wang Yang
-http:*.google.*search*%E6%B1%AA%E6%B4%8B
+.google.*search*%E6%B1%AA%E6%B4%8B
 !--Wang Qi Shan
 .google.*search*%E7%8E%8B%E5%B2%90%E5%B1%B1
 !--Wang Xiao Ya
@@ -808,7 +807,7 @@ http:*.google.*search*%E6%B1%AA%E6%B4%8B
 !--Zhen Xiang
 .google.*%E7%9C%9F%E7%9B%B8
 !--Zhong Guo Yuan Min Da Tong Meng
-|http:.google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
+.google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zi You Men
 .google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zou Dian Tai
@@ -1043,7 +1042,7 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||liudejun.com
 liuxiaotong.com
 ||liuxiaotong.com
-http:*liu.lu
+liu.lu
 ||livingonline.us
 
 !-------------live spaces-----
@@ -2346,20 +2345,20 @@ search*%E4%B8%AD%E5%8A%9F
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 !-------------en.WikiPedia-----
-|http://en.wikipedia.org*Book_burning
-|http://en.wikipedia.org*Censorship_in_the_People%27s_Republic_of_China
-|http://en.wikipedia.org*Dalai_Lama
-|http://en.wikipedia.org*Deep_packet_inspection
-|http://en.wikipedia.org*Freegate
-|http://en.wikipedia.org*Golden_Shield_Project
-|http://en.wikipedia.org/wiki/Hong_Kong
-|http://en.wikipedia.org*Huang_Qi
-|http://en.wikipedia.org*Internet_censorship
-|http://en.wikipedia.org*Liu_Xiaobo
-|http://en.wikipedia.org*Shi_Tao
-|http://en.wikipedia.org*Tank_man
-|http://en.wikipedia.org*Tiananmen_Square_protests_of_1989
-|http://en.wikipedia.org*Tibetan_independence_movement
+en.wikipedia.org/wiki/Book_burning
+en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
+en.wikipedia.org/wiki/Dalai_Lama
+en.wikipedia.org/wiki/Deep_packet_inspection
+en.wikipedia.org/wiki/Freegate
+en.wikipedia.org/wiki/Golden_Shield_Project
+en.wikipedia.org/wiki/Hong_Kong
+en.wikipedia.org/wiki/Huang_Qi
+en.wikipedia.org/wiki/Internet_censorship
+en.wikipedia.org/wiki/Liu_Xiaobo
+en.wikipedia.org/wiki/Shi_Tao
+en.wikipedia.org/wiki/Tank_man
+en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
+en.wikipedia.org/wiki/Tibetan_independence_movement
 
 !-------------zh.Wiki----------
 !--512 Da Di Zhen
