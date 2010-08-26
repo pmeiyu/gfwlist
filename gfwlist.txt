@@ -1,14 +1,13 @@
 [AutoProxy 0.2.9]
-! Checksum: O+9Cs300H4thksJBmcAGSA
+! Checksum: 6XL6Iiq1LGaU+1lkhIu95Q
 ! Expires: 6h
-! Last Modified: Tue, 24 Aug 2010 09:41:00 +0800
+! Last Modified: Thu, 26 Aug 2010 19:03:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 1-apple.com.tw
 ||1-apple.com.tw
 ||121pp.com
-t.16class.cn
 173ng.com
 ||173ng.com
 .17e.org
@@ -98,11 +97,10 @@ video.aol.com
 ||video.aol.com
 ||apirocks.com
 .apigee.com
-||apigee.com
+||apugee.com
 ||appbase.com
 
 !-Appspot
-|https:*.appspot.com/
 bullog4cn.appspot.com
 chnshot.appspot.com
 go2china8.appspot.com
@@ -116,7 +114,6 @@ twittergadget.appspot.com
 ||archive.org
 ||areca-backup.org
 ||ark10.org
-asdfg.jp/dabr
 asiademo.org
 ||asiademo.org
 asianews.it
@@ -147,7 +144,8 @@ dajusha.baywords.com
 .bbc.co.uk/zhongwen
 news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
-||bbleaks.com
+.bbcchinese.com
+||bbcchinese.com
 ||bbsfeed.com
 bbsland.com
 .bcc.com.tw/board
@@ -208,11 +206,11 @@ boxun.com
 ||bkite.com
 brightkite.com
 ||brightkite.com
+||bt95.com
 .budaedu.org
 ||budaedu.org
 ||buddyrunner.com
 ||buffalo-bbs.com
-.bullog.org
 ||bullog.org
 .bullogger.com
 ||bullogger.com
@@ -223,7 +221,6 @@ holz.byethost8.com
 
 !--------------------------CC--------------------------
 .cafepress.com
-||canonfilmmakerslive.com
 .canyu.org
 .cao.im
 .caobian.info
@@ -259,6 +256,7 @@ cdpwu.org
 ||digitalnomadsproject.org
 ||transgressionism.org
 chengmingmag.com
+||chenlu.info
 ||cherrysave.com
 .china-week.com
 china101.com
@@ -290,10 +288,8 @@ chinasocialdemocraticparty.com
 chinasoul.org
 ||chinasoul.org
 blog.chinatimes.com
-camera.chinatimes.com
+||blog.chinatimes.com
 gb.chinatimes.com/gate/gb*2007Cti-News
-news.chinatimes.com/2007Cti*0,4521,130505
-news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 chinaway.org
 chinayuanmin.org
 ||chinayuanmin.org
@@ -355,7 +351,6 @@ dadazim.com
 .dadi360.com
 .dailidaili.com
 ||dailidaili.com
-.dailymotion.com
 .dajiyuan.com
 ||dajiyuan.com
 dalailama.com
@@ -370,11 +365,11 @@ daxa.cn
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
 packages.debian.org/zh-cn/lenny/gpass
-||www.debugmode.com
 ||delcamp.net
 delicious.com/GFWbookmark
 .democrats.org
 ||democrats.org
+||deutsche-welle.de
 ||dev102.com
 !--ProBlogger
 ||digital-photography-school.com
@@ -387,7 +382,6 @@ diigo.com
 ||dl-laby.jp
 ||dlsite.com
 .dojin.com
-.dolc.de/forum
 .domain.club.tw
 dongde.com
 dongtaiwang.com
@@ -395,7 +389,6 @@ dongtaiwang.com
 ||dongtaiwang.net
 .dongyangjing.com
 .dontfilter.us
-@@||douban.com
 doubleaf.com
 dowei.org
 dphk.org
@@ -424,7 +417,7 @@ www.dwheeler.com
 .dwnews.com
 ||dwnews.com
 xys.dxiong.com
-||dynawebinc.com
+www.dynawebinc.com
 .dzze.com
 
 !------------------------EE------------------------
@@ -456,19 +449,19 @@ eyny.com
 .facebook.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
+||fbcdn.net
 fanqiangyakexi.net
 fail.hk
 ||failforum.net
-.fan-qiang.com
 .fangbinxing.com
 fangeming.com
 .farwestchina.com
 en.favotter.net
 favstar.fm
-||fbcdn.net
+||favstar.fm
+faydao.com/weblog
 fc2.com
 video.fdbox.com
-||fdcn.org
 ||fourface.nodesnoop.com
 feedbooks.mobi
 feeds.feedburner.com
@@ -504,7 +497,6 @@ freeman2.com
 ||fofg.org
 .fooooo.com
 ||fooooo.com
-||foxdie.us
 ||franklc.com
 ||puttycm.free.fr
 freeciv.org
@@ -524,13 +516,11 @@ www.freetibet.org
 friendfeed.com
 ||frommel.net
 ||fscked.org
-.fsurf.com
+www.fsurf.com/
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
-fulue.com
 funp.com
-||funpea.com
 .futurechinaforum.org
 ||futuremessage.org
 ||fzh999.net
@@ -572,14 +562,13 @@ geocities.jp
 gfw.org.ua
 gigporno.ru
 .ginx.com
-||ginx.com
+ginx.com
 ||glennhilton.com
 globalmuseumoncommunism.org
 .globalvoicesonline.org
 ||globalvoicesonline.org
 gmbd.cn
 ||gmhz.org
-||gmote.org
 ||goldwave.com
 gongmeng.info
 gongminliliang.com
@@ -591,9 +580,7 @@ grandtrial.org
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
-.greenparty.org.tw
 gpass1.com
-||gqueues.com
 great-firewall.com
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
@@ -622,6 +609,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.aegisub.org
 ||developer.android.com
 ||pdk.android.com
+||answercow.com
 ||appbrain.com
 ||avwikipedia.com
 ||www.benjamingolub.com
@@ -630,11 +618,11 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||secrets.blacktree.com
 ||moblog.bradleyit.com
 ||feeds.cbsnews.com
-||www.chinesealbumart.com
 ||chromeexperiments.com
 ||chromium.org
 @@||build.chromium.org
 @@||src.chromium.org
+||citizentube.com
 ||rss.cnn.com
 ||blog.danmarner.com
 ||github.danmarner.com
@@ -676,7 +664,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||usbloadergx.koureio.net
 ||blog.kowalczyk.info
 ||docs.latexlab.org
-||blog.lidaobing.info
 ||feeds.limi.net
 ||www.liteapplications.com
 ||blog.liukangxu.info
@@ -687,6 +674,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||twitter.missiu.com
 ||feeds.mobileread.com
 ||mytwishirt.com
+||blog.netflix.com
 ||blog.nihilogic.dk
 ||nogoodatcoding.com
 ||blog.notdot.net
@@ -708,7 +696,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||transparentuptime.com
 ||twazzup.com
 ||twivert.com
-||ub0.cc
+ub0.cc
 ||tp.vbap.com.au
 ||www.wavesandbox.com
 ||t.webbang.net
@@ -717,7 +705,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.wundercounter.com
 
 !-------------Google Search-----
-@@|https://www.google.com
 ||74.125.94.160
 .google.com*/complete/search
 /search?q=cache
@@ -725,12 +712,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 %2Fsearch%3Fq%3Dcache
 google*search*q=cache
 .google.com/reader/view/feed
-|http://www.google.com*/search*q=dongtaiwang
+www.google.com/search*q=dongtaiwang
 .google.*great*firewall
-.google.*protest*1989
-.google.*search*Tankman
-.google.*Tiananmen
-.google.*Tibetan*independence
 .google.com*tits
 !--Bei Guo Zhi Chun
 .google*search*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
@@ -792,7 +775,7 @@ http:*.google.*search*%E6%B1%AA%E6%B4%8B
 !--Ying Di
 .google.*%E5%BD%B1%E5%B8%9D
 !--Yue Hou Ji Fen
-.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
+*.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhang De Jiang
 .google.*search*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhen Li Bu
@@ -828,19 +811,17 @@ http:*.google.*search*%E6%B1%AA%E6%B4%8B
 .google.*/search*%E5%91%A8
 
 !-------------Google.other-----
-@@||google.cn/music
+webcache.googleusercontent.com
 .google.com/moderator
-.google.com.hk/wenda
 google.com*analytics*zh-CN
 ||encrypted.google.com
 feedproxy.google.com
 groups.google.*group
+.google.com.hk/wenda
 knol.google.com/k/-/08/3jhi1zdzvxj3f
-picasaweb.google.com
 sites.google.com
 |https://talkgadget.google.com/
 video.google.com
-webcache.googleusercontent.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
@@ -852,9 +833,7 @@ h1n1china.org
 ||hackthatphone.net
 ||hakkatv.org.tw
 ||hasaowall.com
-||heartyit.com
-.hecaitou.net
-||hecaitou.net
+.heartyit.com
 .hechaji.com
 ||hecjaji.com
 ||hellonewyork.us
@@ -871,7 +850,6 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .higfw.com
 .hjclub.info
 ||hjclub.info
-.hk-pub.com/forum
 .hk32168.com
 ||hk32168.com
 .hkbf.org
@@ -902,7 +880,7 @@ hrichina.org
 .huanghuagang.org
 ||huanghuagang.org
 ||hugoroy.eu
-||hungerstrikeforaids.org
+www.hungerstrikeforaids.org
 ||huping.net
 
 !--------------------------II--------------------------
@@ -912,6 +890,7 @@ ibiblio.org/pub/packages/ccic
 blogs.icerocket.com/tag
 w.idaiwan.com/forum
 .identi.ca
+||identi.ca
 .idouga.com
 .idv.tw
 ||ifan.cz.cc
@@ -923,8 +902,8 @@ igfw.tk
 ||ignitedetroit.net
 ||illusionfactory.com
 ||ilove80.be
-||im.tv
-@@||myvlog.im.tv
+im.tv/
+www.im.tv/
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
@@ -935,7 +914,6 @@ imageshack.us
 .imlive.com
 ||incredibox.fr
 .inmediahk.net
-||inmediahk.net
 ||interfaceaddiction.com
 internetfreedom.org
 ||internetpopculture.com
@@ -955,7 +933,6 @@ forum.iset.com.tw
 isohunt.com
 blog.istef.info/2007/10/21/myentunnel
 .itweet.net
-||itweet.net
 itweet.net
 .iu45.com
 yy.iyatou.com/archives/1042
@@ -975,11 +952,9 @@ ac.jiruan.net
 ||journalofdemocracy.org
 ||wiki.jqueryui.com
 ||wiki.js-kit.com
-t.jteet.com
 ||juliereyc.com
-||junauza.com
 .junefourth-20.net
-||junefourth-20.net
+junefourth-20.net
 .jyxf.net
 
 !--------------------------KK--------------------------
@@ -987,12 +962,14 @@ t.jteet.com
 .kagyuoffice.org.tw
 ||kagyuoffice.org.tw
 kanzhongguo.com
+||karayou.com
 ||kcsoftwares.com
 .kechara.com
 .keepandshare.com/visit/visit_page.php?i=688154
+.kendincos.net
+.kenengba.com
 ||kenengba.com
 wiki.keso.cn/Home
-||log.keso.cn
 .khmusic.com.tw
 .kingstone.com.tw
 .knowledgerush.com/kr/encyclopedia
@@ -1001,8 +978,7 @@ wiki.keso.cn/Home
 ||kurtmunger.com
 kusocity.com
 ||www.kyohk.net
-.kzeng.info
-||kzeng.info
+www.kzeng.info/
 
 !--------------------------LL--------------------------
 ladbrokes.com
@@ -1021,7 +997,6 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 .linglingfa.com
-||linksalpha.com
 ||linuxconfig.org
 ||linux-engineer.net
 .lipuman.com
@@ -1078,6 +1053,7 @@ maruta.be/forget
 ||marxist.net
 mashable.com
 ||mathiew-badimon.com
+.mathtunnel.com
 .md-t.org
 ||md-t.org
 !--mediafire.com
@@ -1094,7 +1070,6 @@ memedia.cn
 mhradio.org
 ||michaelmarketl.com
 middle-way.net
-.mihk.hk/forum
 .mimivip.com
 .minghui.org
 mingpao.com
@@ -1125,23 +1100,23 @@ plurktop.mmdays.com
 ||morningsun.org
 ||movabletype.com
 ||moviefap.com
-||moztw.org
 ||mp/
 @@||chi.mp/
 @@||get.mp/
 @@||www.mp/
 ||mpettis.com
-mpinews.com
+www.mpinews.com/
 .msguancha.com
 ||mthruf.com
 ||multiply.com
 forum.mymaji.com
 multiupload.com
+musicalsound.com.tw
 ||muzi.com
 ||muzi.net
 ||myaudiocast.com
 ||bbs.mychat.to
-||www.mycould.com
+www.mycould.com/
 ||myeclipseide.com
 .myforum.com.hk
 ||myforum.com.hk
@@ -1203,11 +1178,10 @@ no-ip.com
 ||notebookaddon.tk
 ||novelasia.com
 .nownews.com/cybersex
-.nownews.com/box
-||blog.nownews.com
+www.nownews.com/box
+blog.nownews.com
 forum.nownews.com
 .nowtorrents.com
-.nps.gov
 bbs.nsysu.edu.tw
 ntdtv.com
 ||cbs.ntu.edu.tw
@@ -1242,13 +1216,13 @@ t.orzdream.com
 m.oulove.org
 .oursogo.com
 oursogo.com
-.ow.ly
-||ow.ly
-||ht.ly
+ow.ly
+ht.ly
 ||mash.to/
 ||overstimulate.com
 ||ovh.net/
 share.ovi.com/media
+www.oxbridgechina.org/bbs
 ||www.oxfam.org.hk
 .ozchinese.com/bbs
 bbs.ozchinese.com
@@ -1383,8 +1357,7 @@ heix.pp.ru
 prisoner-state-secret-journal-premier
 ||privacybox.de
 privatepaste.com
-||proboards.com
-@@||www.proboards.com
+dlstatusbar.proboards43.com/
 ||prosiben.de
 ||proxomitron.info
 ||proxypy.com
@@ -1392,7 +1365,7 @@ proxyroad.com
 prozz.net
 psblog.name
 psiphon.ca
-.ptt.cc
+www.ptt.cc/
 .puffstore.com
 ||puffstore.com
 ||pullfolio.com
@@ -1417,6 +1390,8 @@ blog.qooza.hk*dafengqixi
 ||qtrac.eu
 ||qtweeter.com
 ||quadedge.com
+www.quarterlife.com
+quke.cn
 qusi8.net
 .qvodzy.org
 nemesis2.qx.net*pages*MyEnTunnel
@@ -1429,7 +1404,6 @@ www.radioaustralia.net.au*chinese*articles*
 ||randyblue.com
 rangzen.org
 ranyunfei.com
-||rapid.pk
 .rapidshare1.com
 ||rapidshare8.com
 .rapidsharedata.com
@@ -1451,6 +1425,7 @@ retweetist.com
 revver.com
 .rfa.org
 .rfachina.com
+rfachina.com
 .rfamobile.org
 .rfi.fr
 ||rfi.fr
@@ -1459,7 +1434,6 @@ revver.com
 ||b.rimg.com.tw
 ||c.rimg.com.tw
 robtex.com
-||robustnessiskey.com
 ||romnation.net
 ||ronjoneswriter.com
 .roodo.com
@@ -1528,9 +1502,8 @@ forum.setty.com.tw
 ||sf520.com
 ||om.shaayad.com
 .shangfang.org
-||shangfang.org
+shangfang.org
 shapeservices.com
-.sharebee.com
 ||sharecool.org
 ||sharepointeducation.com
 .shaunthesheep.com
@@ -1551,13 +1524,14 @@ ch.shvoong.com/
 simpleproductivityblog.com
 bbs.sina.com/
 bbs.sina.com%2F
-||blog.sina.com.hk
+blog.sina.com.hk
 blog.sina.com.tw
-||books.sina.com.tw
-dailynews.sina.com/bg
+books.sina.com.tw
+dailynews.sina.com/
+dailynews.sina.com%2F
 forum.sina.com.hk
-||magazines.sina.com.tw
-||news.sina.com/
+magazines.sina.com.tw
+news.sina.com/
 news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
@@ -1577,7 +1551,9 @@ sitetag.us
 ||skimtube.com
 ||skulpt.org
 ||skydur.com
-||skype.com
+skype.com
+www.skype.com
+download.skype.com/SkypeSetup.exe
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
 .slashgear.com
@@ -1592,8 +1568,6 @@ forum.slime.com.tw
 ||so-news.com
 .so-news.com
 ||soc.mil/
-||socialnmobile.com
-||www.socialwhois.com
 .sod.co.jp
 ||softpanorama.org
 ||sogclub.com
@@ -1608,11 +1582,16 @@ sneakme.net
 ||sobees.com
 socialwhale.com
 ||soft-artemis.com
+en.softonic.com
+gmail-remote-command.en.softonic.com
 blog.sogoo.org
 sokamonline.com
 .songjianjun.com
 ||songjianjun.com
+www.songza.com/
+songza.com/
 .sopcast.com
+www.sopcast.org
 soundofhope.org
 ||soupofmedia.com
 sourceforge.net/projects/portabletor/files/
@@ -1620,6 +1599,7 @@ sowers.org.hk
 .spankwire.com
 .speedpluss.org
 ||spencertipping.com
+my.spill.com
 ||splitweet.com
 ||sproutcore.com
 squarespace.com
@@ -1632,6 +1612,7 @@ usinfo.state.gov
 .stickam.com
 stickeraction.com/sesawe
 ||stonegames.net
+||stoneip.info
 .stoptibetcrisis.net
 ||stoptibetcrisis.net
 ||stoweboyd.com
@@ -1689,7 +1670,6 @@ theblemish.com
 ||thedieline.com
 ||thedw.us
 ||thegatesnotes.com
-||thehungrydudes.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
@@ -1697,8 +1677,8 @@ thepiratebay.org
 ||thesponty.com
 ||thetibetpost.com
 thevivekspot.com
-thkphoto.com
 threatchaos.com
+thkphoto.com
 ||throughnightsfire.com
 .thumbzilla.com
 tiananmenmother.org
@@ -1707,7 +1687,7 @@ tiananmenmother.org
 tiantibooks.org
 .tianzhu.org
 .tibet.com
-||tibet.com
+tibet.com
 .tibet.net
 ||tibet.net
 tibet.org.tw
@@ -1718,6 +1698,7 @@ tibetfund.org
 ||tibetonline.tv
 .tibetonline.tv
 ||tibetwrites.org
+.time.com/time/specials/packages/article/0,28804
 .time.com/time/time100/leaders/profile/rebel
 ||blog.tiney.com
 ||tinypaste.com
@@ -1814,7 +1795,6 @@ bbs.tuitui.info
 ||madmenfootnotes.com
 ||marco.org
 ||minimalmac.com
-||blog.mongodb.org
 ||navigeaters.com
 ||blog.opentumblr.com
 ||thedailywh.at
@@ -1843,12 +1823,9 @@ twa.sh
 twbbs.org
 ||twblogger.com
 tweepmag.com
-.tweetbackup.com
-||tweetbackup.com
 ||tweete.net
-m.tweete.net
+*m.tweete.net
 tweetmeme.com
-tweetphoto.com
 ||tweetphoto.com
 ||tweetrans.com
 ||tweetwally.com
@@ -1900,10 +1877,9 @@ twittertim.es
 twitthat.com
 ||twitthis.com
 .twitturly.com
-||twitturly.com
+twitturly.com
 .twitzap.com
 twiyia.com
-||twohungrydudes.com
 .twreg.info
 ||twreg.info
 ||twttr.com
@@ -1947,7 +1923,7 @@ uncyclomedia.org
 ||uncyclopedia.tw
 .uni.cc
 .uniteddaily.com.my/index.php?
-||unknownspace.org
+www.unknownspace.org/
 ||uocn.org
 tor.updatestar.com
 .upload4u.info
@@ -1956,6 +1932,7 @@ myshare.url.com.tw/
 ||urlborg.com
 us.to
 ||usacn.com
+www.cafc.uscourts.gov/
 earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
 .ustream.tv
@@ -1973,7 +1950,9 @@ earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||vcf-online.org
 ||vcfbuilder.org
 veoh.com
-.verizon.net
+verizon.net
+www.verizon.net
+mysite.verizon.net
 ||verybs.com
 .vft.com.tw
 .videosz.com
@@ -1989,6 +1968,7 @@ voanews.com/chinese
 ||vox.com/
 www.voy.com
 ||vpnworldwide.com
+.vpner.net
 
 !--------------------------WW--------------------------
 lists.w3.org/archives/public
@@ -1997,12 +1977,13 @@ lists.w3.org/archives/public
 .waigaobu.com
 waikeung.org/php_wind
 .waiwaier.com
+waiwaier.com
 wallornot.org
 ||www.wan-press.org
 ||wanderinghorse.net
 ||wangafu.net
 wanglixiong.com
-||wlx.sowiki.net
+wlx.sowiki.net
 wangruoshui.net
 www.wangruowang.org
 ||war2wall.info
@@ -2016,7 +1997,7 @@ webshots.com
 websitepulse.com/help/testtools.china-test.html
 ||webupd8.org
 webworkerdaily.com
-.weekmag.info
+www.weekmag.info/
 .wefong.com
 weijingsheng.org
 wengewang.com
@@ -2038,14 +2019,12 @@ wezhiyong.org
 wg1966.com
 .whatblocked.com
 ||whatblocked.com
-||whatbrowser.org
 .whippedass.com
 ||whyx.org
 ||wikia.com
 @@||images.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikiwiki.jp
-.wikileaks.org
 ||wikileaks.org
 ||wikimapia.org
 ||secure.wikimedia.org
@@ -2093,16 +2072,17 @@ worldjournal.com
 ||blog.wakoopa.com
 ||wattsupwiththat.com
 ||webmink.com
+caiting666.wordpress.com
 rfaunplugged.wordpress.com
 xijie.wordpress.com
 zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
-||wp.com
+wp.com
 
 ||wormsculptor.com
 ||tw.wowarmory.com
-||wp.me
+wp.me/
 .wpoforum.com
 ||wpoforum.com
 wretch.cc
@@ -2134,7 +2114,7 @@ s.xiaod.in
 ||xinmiao.com.hk
 xinsheng.net
 xinshijue.com
-xinhuanet.org
+www.xinhuanet.org/
 .xirang.us
 ||xirang.us
 xizang-zhiye.org
@@ -2193,9 +2173,9 @@ forum.yorkbbs.ca
 .youjizz.com
 ||youjizz.com
 youmaker.com
-.youpai.org
-||youpai.org
-.your-freedom.net
+www.youpai.org/
+www.your-freedom.net/
+|https://www.your-freedom.net/
 .yousendit.com
 ||yousendit.com
 youthbao.com
@@ -2203,6 +2183,7 @@ youthbao.com
 blog.youthwant.com.tw
 share.youthwant.com.tw
 topic.youthwant.com.tw
+youtu.be
 .youtube.com
 ||youtube.com
 !--/^https?:\/\/[^\/]+youtube\.com/
@@ -2214,9 +2195,10 @@ yuanming.net
 ||yunchao.net
 ||yvesgeleyn.com
 yx51.net
+www.yzzk.com/
 
 !--------------------------ZZ--------------------------
-|http://zaobao.com/
+zaobao.com/
 luntan.zaobao.com/
 .zaobao.com/special/china/cnpol/pages2
 .zaobao.com/special/sitemap
@@ -2226,6 +2208,7 @@ luntan.zaobao.com/
 ||zarias.com
 www.zaurus.org.uk
 .zdnet.com.tw/news/software/0,2000085678,20111187,00
+.zdnet.com.tw/news/software/0,2000085678,20111187,00
 .zengjinyan.org
 ||zeutch.com
 .zhanbin.net
@@ -2234,6 +2217,8 @@ zhengjian.org
 ||zhongmeng.org
 zhufeng.me
 .ziddu.com/download
+.zonaeuropa.com
+||zonaeuropa.com
 .zoozle.net
 ||zuihulu.net
 .zuihulu.net
@@ -2323,20 +2308,20 @@ search*%E4%B8%AD%E5%8A%9F
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 !-------------en.WikiPedia-----
-|http://en.wikipedia.org*Book_burning
-|http://en.wikipedia.org*Censorship_in_the_People%27s_Republic_of_China
-|http://en.wikipedia.org*Dalai_Lama
-|http://en.wikipedia.org*Deep_packet_inspection
-|http://en.wikipedia.org*Freegate
-|http://en.wikipedia.org*Golden_Shield_Project
-|http://en.wikipedia.org/wiki/Hong_Kong
-|http://en.wikipedia.org*Huang_Qi
-|http://en.wikipedia.org*Internet_censorship
-|http://en.wikipedia.org*Liu_Xiaobo
-|http://en.wikipedia.org*Shi_Tao
-|http://en.wikipedia.org*Tank_man
-|http://en.wikipedia.org*Tiananmen_Square_protests_of_1989
-|http://en.wikipedia.org*Tibetan_independence_movement
+en.wikipedia.org*Book_burning
+en.wikipedia.org*Censorship_in_the_People%27s_Republic_of_China
+en.wikipedia.org*Dalai_Lama
+en.wikipedia.org*Deep_packet_inspection
+en.wikipedia.org*Freegate
+en.wikipedia.org*Golden_Shield_Project
+en.wikipedia.org/wiki/Hong_Kong
+en.wikipedia.org*Huang_Qi
+en.wikipedia.org*Internet_censorship
+en.wikipedia.org*Liu_Xiaobo
+en.wikipedia.org*Shi_Tao
+en.wikipedia.org*Tank_man
+en.wikipedia.org*Tiananmen_Square_protests_of_1989
+en.wikipedia.org*Tibetan_independence_movement
 
 !-------------zh.Wiki----------
 !--512 Da Di Zhen
@@ -2360,6 +2345,8 @@ zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E8%87%AA
 zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5
 !--Bo Xi Lai
 zh.wikipedia.org*%E8%96%84%E7%86%99%E6%9D%A5
+!--Bu La Ge Zhi Chun
+zh.wikipedia.org*%E5%B8%83%E6%8B%89%E6%A0%BC%E4%B9%8B%E6%98%A5
 !--Cai Ling
 zh.wikipedia.org*%E6%9F%B4%E7%8E%B2
 !--Cao Chang Qing
@@ -2454,6 +2441,8 @@ zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Jin Dun Gong Cheng ?
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
+!--Jiu Ping Gong Chan Dang
+zh.wikipedia.org*%E4%B9%9D%E8%AF%84%E5%85%B1%E4%BA%A7%E5%85%9A
 !--Jue Shi
 zh.wikipedia.org*%E7%BB%9D%E9%A3%9F
 !--Li Chang Chun
@@ -2597,6 +2586,8 @@ zh.wikipedia.org*%E4%B9%A0%E4%BB%B2%E5%8B%8B
 zh.wikipedia.org*%E9%A6%99%E6%B8%AF*%E6%B0%91%E4%B8%BB%E6%B4%BE
 !--Xie Yan Fei
 zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
+!--Xin Wen Zi You Lue Duo Zhe
+zh.wikipedia.org*%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1%E6%8E%A0%E5%A4%BA%E8%80%85
 !--Xing Yun Fa Shi
 zh.wikipedia.org*%E6%98%9F%E4%BA%91%E6%B3%95%E5%B8%88
 !--Xiong Yan
