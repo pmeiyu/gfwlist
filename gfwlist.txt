@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lqsLP1IMaRkXtzDlr0f90g
+! Checksum: yBHps3EX7sKMbVmWO37rhg
 ! Expires: 6h
-! Last Modified: Thu, 26 Aug 2010 21:25:08 +0800
+! Last Modified: Thu, 26 Aug 2010 21:27:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -868,6 +868,7 @@ h1n1china.org
 ||hellonewyork.us
 ||helloqueer.com
 hellotxt.com
+||hellotxt.com
 ||htxt.it/
 .hellouk.org/forum/lofiversion
 .helpeachpeople.com
@@ -897,8 +898,10 @@ hkjc.com
 ||hkzone.org
 apps.hloli.net/gfwtube
 blog.hnjhj.com
+||derekhsu.homeip.net
 hongmeimei.com
 hootsuite.com
+||hootsuite.com
 hotpot.hk
 ||hotspotshield.com
 ||hougaige.com
@@ -918,6 +921,7 @@ hrichina.org
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 blogs.icerocket.com/tag
+||iconpaper.org
 w.idaiwan.com/forum
 .identi.ca
 ||identi.ca
@@ -2248,6 +2252,7 @@ www.zaurus.org.uk
 ||zhanbin.net
 zhengjian.org
 ||zhongmeng.org
+||zhreader.com
 zhufeng.me
 .ziddu.com/download
 .zonaeuropa.com
