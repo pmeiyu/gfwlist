@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wK4fmui8J0+RWK91aPJmvQ
+! Checksum: nKLPymoNihfkbzEewWQ7mA
 ! Expires: 6h
-! Last Modified: Thu, 26 Aug 2010 21:38:21 +0800
+! Last Modified: Thu, 26 Aug 2010 21:40:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -17,7 +17,7 @@ t.16class.cn
 ||1free.ws
 ||1pondo.tv
 bbs.1tor.com
-.2008xianzhang.info-g
+.2008xianzhang.info
 ||2008xianzhang.info
 .2shared.com
 ||2shared.com
