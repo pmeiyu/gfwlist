@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YBUCTTGRw9c20ssQlHY5Xg
+! Checksum: lqsLP1IMaRkXtzDlr0f90g
 ! Expires: 6h
-! Last Modified: Thu, 26 Aug 2010 20:50:29 +0800
+! Last Modified: Thu, 26 Aug 2010 21:25:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -17,7 +17,7 @@ t.16class.cn
 ||1free.ws
 ||1pondo.tv
 bbs.1tor.com
-.2008xianzhang.info
+.2008xianzhang.info-g
 ||2008xianzhang.info
 .2shared.com
 ||2shared.com
@@ -148,6 +148,8 @@ dajusha.baywords.com
 .bbc.co.uk/zhongwen
 news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
+.bbcchinese.com
+||bbcchinese.com
 ||bbleaks.com
 ||bbsfeed.com
 bbsland.com
@@ -209,6 +211,7 @@ boxun.com
 ||bkite.com
 brightkite.com
 ||brightkite.com
+||bt95.com
 .budaedu.org
 ||budaedu.org
 ||buddyrunner.com
@@ -376,6 +379,7 @@ packages.debian.org/zh-cn/lenny/gpass
 delicious.com/GFWbookmark
 .democrats.org
 ||democrats.org
+||deutsche-welle.de
 ||dev102.com
 !--ProBlogger
 ||digital-photography-school.com
@@ -442,6 +446,7 @@ edoors.com
 ||elisabethkublerross.com
 .eltondisney.com
 ||emacsblog.org
+.emory.edu
 ||empflix.com
 chinese.engadget.com
 ||englishfromengland.co.uk
@@ -457,6 +462,7 @@ eyny.com
 .facebook.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
+||fbcdn.net
 fanqiangyakexi.net
 fail.hk
 ||failforum.net
@@ -466,7 +472,7 @@ fangeming.com
 .farwestchina.com
 en.favotter.net
 favstar.fm
-||fbcdn.net
+||favstar.fm
 fc2.com
 video.fdbox.com
 ||fdcn.org
@@ -688,6 +694,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||twitter.missiu.com
 ||feeds.mobileread.com
 ||mytwishirt.com
+||blog.netflix.com
 ||blog.nihilogic.dk
 ||nogoodatcoding.com
 ||blog.notdot.net
@@ -913,6 +920,7 @@ ibiblio.org/pub/packages/ccic
 blogs.icerocket.com/tag
 w.idaiwan.com/forum
 .identi.ca
+||identi.ca
 .idouga.com
 .idv.tw
 ||ifan.cz.cc
@@ -988,12 +996,14 @@ t.jteet.com
 .kagyuoffice.org.tw
 ||kagyuoffice.org.tw
 kanzhongguo.com
+||karayou.com
 ||kcsoftwares.com
 .kechara.com
 .keepandshare.com/visit/visit_page.php?i=688154
+.kendincos.net
+.kenengba.com
 ||kenengba.com
 wiki.keso.cn/Home
-||log.keso.cn
 .khmusic.com.tw
 .kingstone.com.tw
 .knowledgerush.com/kr/encyclopedia
@@ -1078,6 +1088,7 @@ markmail.org*message
 maruta.be/forget
 ||marxist.net
 mashable.com
+||mashable.com
 ||mathiew-badimon.com
 .md-t.org
 ||md-t.org
@@ -1633,6 +1644,7 @@ usinfo.state.gov
 .stickam.com
 stickeraction.com/sesawe
 ||stonegames.net
+||stoneip.info
 .stoptibetcrisis.net
 ||stoptibetcrisis.net
 ||stoweboyd.com
@@ -1720,6 +1732,7 @@ tibetfund.org
 .tibetonline.tv
 ||tibetwrites.org
 .time.com/time/time100/leaders/profile/rebel
+.time.com/time/specials/packages/article/0,28804
 ||blog.tiney.com
 ||tinypaste.com
 ||i28.tinypic.com
@@ -2094,6 +2107,7 @@ worldjournal.com
 ||blog.wakoopa.com
 ||wattsupwiththat.com
 ||webmink.com
+caiting666.wordpress.com
 rfaunplugged.wordpress.com
 xijie.wordpress.com
 zh-cn.wordpress.com
@@ -2204,6 +2218,7 @@ youthbao.com
 blog.youthwant.com.tw
 share.youthwant.com.tw
 topic.youthwant.com.tw
+youtu.be
 .youtube.com
 ||youtube.com
 !--/^https?:\/\/[^\/]+youtube\.com/
@@ -2235,6 +2250,8 @@ zhengjian.org
 ||zhongmeng.org
 zhufeng.me
 .ziddu.com/download
+.zonaeuropa.com
+||zonaeuropa.com
 .zoozle.net
 ||zuihulu.net
 .zuihulu.net
@@ -2361,6 +2378,8 @@ zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E8%87%AA
 zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5
 !--Bo Xi Lai
 zh.wikipedia.org*%E8%96%84%E7%86%99%E6%9D%A5
+!--Bu La Ge Zhi Chun
+zh.wikipedia.org*%E5%B8%83%E6%8B%89%E6%A0%BC%E4%B9%8B%E6%98%A5
 !--Cai Ling
 zh.wikipedia.org*%E6%9F%B4%E7%8E%B2
 !--Cao Chang Qing
@@ -2455,6 +2474,8 @@ zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
 zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 !--Jin Dun Gong Cheng ?
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
+!--Jiu Ping Gong Chan Dang
+zh.wikipedia.org*%E4%B9%9D%E8%AF%84%E5%85%B1%E4%BA%A7%E5%85%9A
 !--Jue Shi
 zh.wikipedia.org*%E7%BB%9D%E9%A3%9F
 !--Li Chang Chun
@@ -2598,6 +2619,8 @@ zh.wikipedia.org*%E4%B9%A0%E4%BB%B2%E5%8B%8B
 zh.wikipedia.org*%E9%A6%99%E6%B8%AF*%E6%B0%91%E4%B8%BB%E6%B4%BE
 !--Xie Yan Fei
 zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
+!--Xin Wen Zi You Lue Duo Zhe
+zh.wikipedia.org*%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1%E6%8E%A0%E5%A4%BA%E8%80%85
 !--Xing Yun Fa Shi
 zh.wikipedia.org*%E6%98%9F%E4%BA%91%E6%B3%95%E5%B8%88
 !--Xiong Yan
