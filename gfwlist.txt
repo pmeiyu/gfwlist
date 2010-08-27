@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nKLPymoNihfkbzEewWQ7mA
+! Checksum: UX6lFzelDAtaxX2dIZ/tCQ
 ! Expires: 6h
-! Last Modified: Thu, 26 Aug 2010 21:40:08 +0800
+! Last Modified: Fri, 27 Aug 2010 15:57:26 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -21,6 +21,7 @@ bbs.1tor.com
 ||2008xianzhang.info
 .2shared.com
 ||2shared.com
+.315lz.com
 ||36rain.com
 ||3b8.cc/
 4.gp
@@ -626,6 +627,7 @@ docs.google.com*dgtbmwd6_934gg99v6g4cc
 docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
+||abelhadigital.com
 ||blog.aegisub.org
 ||developer.android.com
 ||pdk.android.com
@@ -687,6 +689,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||feeds.limi.net
 ||www.liteapplications.com
 ||blog.liukangxu.info
+||oasisnewsroom.live4ever.us
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
 ||masamixes.com
@@ -723,6 +726,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||webfee.org.ru
 ||willhains.com
 ||blog.wundercounter.com
+||yooper.be
 
 !-------------Google Search-----
 @@|https://www.google.com
@@ -1170,6 +1174,7 @@ viewmorepics.myspace.com
 
 !--------------------------NN--------------------------
 ||naitik.net
+||namsisi.com
 ||navicat.com
 .nakido.com
 ||nakido.com
@@ -2168,6 +2173,7 @@ vlog.xuite.net
 xuzhiyong.net
 xvediox.com
 .xvideos.com
+||xwp.pl
 .xxbbx.com
 ||xxxx.com.au
 xys.org
