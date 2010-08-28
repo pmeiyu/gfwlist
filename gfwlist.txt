@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TKkFjRpZSL3cK2j85LutmQ
+! Checksum: MFSzvJJ3EEpxJ7oM14T1tw
 ! Expires: 6h
-! Last Modified: Sat, 28 Aug 2010 01:23:17 +0000
+! Last Modified: Sat, 28 Aug 2010 12:50:58 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2021,6 +2021,7 @@ lists.w3.org/archives/public
 .waigaobu.com
 waikeung.org/php_wind
 .waiwaier.com
+|http://waiwaier.com
 wallornot.org
 ||www.wan-press.org
 ||wanderinghorse.net
