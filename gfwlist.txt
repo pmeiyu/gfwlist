@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fUPkdmHuieWp5G/MwcSK0A
+! Checksum: TKkFjRpZSL3cK2j85LutmQ
 ! Expires: 6h
-! Last Modified: Fri, 27 Aug 2010 16:02:37 +0000
+! Last Modified: Sat, 28 Aug 2010 01:23:17 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -715,6 +715,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||samsal.com
 ||blog.seeminglee.com
 ||rss.slashdot.org
+||w.sns.ly
 ||tagxedo.com
 ||www.techfob.com
 ||blog.thesilentnumber.me
