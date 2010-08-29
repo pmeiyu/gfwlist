@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: oAMdQEqQROW0FHKqrdHyJQ
+! Checksum: XRtpNWZ1k0MJn8eAvLI4FQ
 ! Expires: 6h
-! Last Modified: Sun, 29 Aug 2010 14:07:22 +0800
+! Last Modified: Sun, 29 Aug 2010 14:18:12 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -618,7 +618,8 @@ code.google.com/p/program-think/wiki/Software
 code.google.com/p/twitese
 
 !-------------Google Docs-----
-|https://docs.google.com/
+|https://docs*.google.com/
+|https://spreadsheets*.google.com
 docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
 docs.google.com/View?id=d8xbpp6_4hhpb2dfd
 docs.google.com/View?id=dds68dz_9cqgm8vgq
@@ -629,24 +630,25 @@ docs.google.com*dgtbmwd6_934gg99v6g4cc
 docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
+!-A
 ||abelhadigital.com
 ||blog.aegisub.org
 ||developer.android.com
 ||pdk.android.com
 ||appbrain.com
 ||avwikipedia.com
+!-B
 ||www.benjamingolub.com
 ||rss.berryreview.com
-||feeds.boingboing.net
 ||secrets.blacktree.com
+||feeds.boingboing.net
 ||moblog.bradleyit.com
+!-C
 ||feeds.cbsnews.com
 ||www.chinesealbumart.com
 ||chromeexperiments.com
-||chromium.org
-@@||build.chromium.org
-@@||src.chromium.org
 ||rss.cnn.com
+!-D
 ||blog.danmarner.com
 ||github.danmarner.com
 ||designers-artists.com
@@ -656,36 +658,46 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||downforeveryoneorjustme.com
 ||dumblittleman.com
 ||feeds.dzone.com
+!-E
 ||s.evernote.com
 ||evhead.com
+!-F
 ||fftogo.com
 ||flightsimtalk.com
 ||mclee.foolme.net
 ||www.frienddeck.com
+!-G
 ||blog.gatein.org
 ||feeds.gawker.com
+||geektang.com
 ||gmer.net
 ||blog.go2web20.net
 ||blog.google.org
 ||www.greasespot.net
 ||blog.growlforwindows.com
+!-H
 ||blog.headius.com
 ||hogbaysoftware.com
 ||www.html5rocks.com
 ||huhaitai.com
 ||blog.humanrightsfirst.org
+!-I
 ||inote.tw
 ||ironhelmet.com
+||iwfwcf.com
+!-J
 ||t.jiecii.com
 ||blog.joint.net
 ||blog.jsquaredjavascript.com
 ||blog.jtbworld.com
+!-K
 ||kathyschwalbe.com
 ||tomatovpn.keithmoyer.com
 ||www.keithmoyer.com
 ||blog.kengao.tw
 ||usbloadergx.koureio.net
 ||blog.kowalczyk.info
+!-L
 ||docs.latexlab.org
 ||blog.lidaobing.info
 ||feeds.limi.net
@@ -694,42 +706,56 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||oasisnewsroom.live4ever.us
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
+!-M
 ||masamixes.com
 ||milazi.com
 ||twitter.missiu.com
 ||feeds.mobileread.com
 ||mytwishirt.com
+!-N
 ||blog.netflix.com
 ||blog.nihilogic.dk
 ||nogoodatcoding.com
 ||blog.notdot.net
+!-O
 ||blog.obvious.com
+!-P
 ||feeds.people.com
 ||blog.persistent.info
 ||portablesoft.org.ru
 ||talk.news.pts.org.tw
 ||python-excel.org
+!-Q
+!-R
 ||blog.reddit.com
 ||robertmao.com
 ||ghs.romeo-foxtrot.com
+!-S
 ||samsal.com
 ||blog.seeminglee.com
 ||rss.slashdot.org
 ||w.sns.ly
+!-T
 ||tagxedo.com
 ||www.techfob.com
 ||blog.thesilentnumber.me
 ||transparentuptime.com
 ||twazzup.com
 ||twivert.com
+!-U
 ||ub0.cc
+!-V
 ||tp.vbap.com.au
+!-W
 ||www.wavesandbox.com
 ||t.webbang.net
 ||webfee.org.ru
 ||willhains.com
 ||blog.wundercounter.com
+!-X
+!-Y
 ||yooper.be
+!-Z
 
 !-------------Google Search-----
 ||74.125.94.160
@@ -1143,6 +1169,7 @@ plurktop.mmdays.com
 ||mobatek.net
 .mobypicture.com
 ||mobypicture.com
+c1522.mooo.com
 ||morningsun.org
 ||movabletype.com
 ||moviefap.com
