@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XRtpNWZ1k0MJn8eAvLI4FQ
+! Checksum: 7UyISunrt/wY2t8bnXgXQg
 ! Expires: 6h
-! Last Modified: Sun, 29 Aug 2010 14:18:12 +0000
+! Last Modified: Tue, 31 Aug 2010 16:02:23 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -76,6 +76,8 @@ blog.aiweiwei.com
 ||alabout.com
 aladding.com
 ||aladding.com
+||alkasir.com
+bbs.allhabit.com
 alliance.org.hk
 ||alliance.org.hk
 .allinfa.com
@@ -592,6 +594,8 @@ gmbd.cn
 ||goldwave.com
 gongmeng.info
 gongminliliang.com
+.goodreaders.com
+||goodreaders.com
 .googlesile.com
 .gopetition.com
 ||gopetition.com
@@ -734,6 +738,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||samsal.com
 ||blog.seeminglee.com
 ||rss.slashdot.org
+||snippetsapp.com
 ||w.sns.ly
 !-T
 ||tagxedo.com
@@ -780,8 +785,8 @@ google*search*q=cache
 .google.*gfw
 !--Gao Zhi Sheng
 .google.*%E9%AB%98%E6%99%BA%E6%99%9F
-!--Gong Chan Dang
-.google.*%E5%85%B1%E4%BA%A7%E5%85%9A
+!--Gong Chan
+.google.*%E5%85%B1%E4%BA%A7
 !--Guan Jian Shi Ke
 .google.*%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB
 !--Ji Zhe Wu Jiang Jie
@@ -1169,6 +1174,7 @@ plurktop.mmdays.com
 ||mobatek.net
 .mobypicture.com
 ||mobypicture.com
+||mondex.org
 c1522.mooo.com
 ||morningsun.org
 ||movabletype.com
@@ -1180,6 +1186,8 @@ c1522.mooo.com
 @@||www.mp/
 ||mpettis.com
 mpinews.com
+mrtweet.com
+||mrtweet.com
 .msguancha.com
 ||mthruf.com
 ||multiply.com
@@ -1242,6 +1250,7 @@ tw*.nextmedia.com
 ngensis.com
 ||ngs2.info
 ||nic.cz.cc
+||blog.nicovideo,jp
 tw.nicovideo.jp
 nicovideo.tw
 ||nidaye.org
@@ -1895,6 +1904,9 @@ twa.sh
 twbbs.org
 ||twblogger.com
 tweepmag.com
+.tweepml.org
+||tweepml.org
+|http://tweepml.org/
 .tweetbackup.com
 ||tweetbackup.com
 ||tweete.net
