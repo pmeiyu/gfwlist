@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7UyISunrt/wY2t8bnXgXQg
+! Checksum: t1UJlU9/28Xz5NIqYe0gZg
 ! Expires: 6h
-! Last Modified: Tue, 31 Aug 2010 16:02:23 +0000
+! Last Modified: Wed, 01 Sep 2010 13:05:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -319,6 +319,7 @@ city9x.com
 .civicparty.hk
 ||civicparty.hk
 psiphon.civisec.org
+||shell.cjb.net
 .ck101.com
 ||ck101.com
 ||classicalguitarblog.net
@@ -440,6 +441,7 @@ e-info.org.tw
 .e-traderland.net/board
 hkjp.easyweb.hk
 ebookee.com
+||echofon.com
 bbs.ecstart.com
 edoors.com
 .edubridge.com/erxiantang/library
@@ -1004,8 +1006,7 @@ forum.iset.com.tw
 isohunt.com
 blog.istef.info/2007/10/21/myentunnel
 .itweet.net
-||itweet.net
-itweet.net
+|http://itweet.net
 .iu45.com
 yy.iyatou.com/archives/1042
 .izles.net
@@ -1473,6 +1474,7 @@ blog.qooza.hk*dafengqixi
 ||qstatus.com
 !--plus.net
 ||qtrac.eu
+||efksoft.com
 ||qtweeter.com
 ||quadedge.com
 qusi8.net
@@ -1909,6 +1911,8 @@ tweepmag.com
 |http://tweepml.org/
 .tweetbackup.com
 ||tweetbackup.com
+tweetboard.com
+||tweetboard.com
 ||tweete.net
 m.tweete.net
 tweetmeme.com
