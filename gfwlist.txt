@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: v806BIk2DZSBPIiY4YFJuQ
+! Checksum: 71SX0eN/ebEOy7NAWlO2FQ
 ! Expires: 6h
-! Last Modified: Wed, 01 Sep 2010 14:17:34 +0000
+! Last Modified: Thu, 02 Sep 2010 09:01:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2280,6 +2280,7 @@ youtu.be
 ||youtube.com
 !--/^https?:\/\/[^\/]+youtube\.com/
 .youtubecn.com
+blog.youxu.info/2010/03/14/west-chamber
 !-Youtube CDN
 .ytimg.com
 ytht.net
