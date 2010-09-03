@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: J9ngvd+Zh9EL+YJvMOFkKg
+! Checksum: rnMmrjy7MDkAz+kLil+d9g
 ! Expires: 6h
-! Last Modified: Fri, 03 Sep 2010 00:02:23 +0800
+! Last Modified: Fri, 03 Sep 2010 09:59:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -112,6 +112,7 @@ chnshot.appspot.com
 go2china8.appspot.com
 meme2028.appspot.com
 nest.appspot.com
+proxypy.appspot.com
 twitese.appspot.com
 twitter-mirror.appspot.com
 twittergadget.appspot.com
