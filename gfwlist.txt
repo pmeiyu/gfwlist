@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rnMmrjy7MDkAz+kLil+d9g
+! Checksum: Hot7DVE6OoUI7lVmfTaWlw
 ! Expires: 6h
-! Last Modified: Fri, 03 Sep 2010 09:59:00 +0800
+! Last Modified: Fri, 03 Sep 2010 11:48:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1450,6 +1450,8 @@ privatepaste.com
 ||prosiben.de
 ||proxomitron.info
 ||proxypy.com
+.proxypy.net
+||proxypy.net
 proxyroad.com
 prozz.net
 psblog.name
