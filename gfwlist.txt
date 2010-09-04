@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Hot7DVE6OoUI7lVmfTaWlw
+! Checksum: P9Fu//nS4j1BeZUupLD7rA
 ! Expires: 6h
-! Last Modified: Fri, 03 Sep 2010 11:48:13 +0800
+! Last Modified: Sat, 04 Sep 2010 13:40:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -81,6 +81,7 @@ bbs.allhabit.com
 alliance.org.hk
 ||alliance.org.hk
 .allinfa.com
+|http://allinfa.com
 ||allinfo.com
 ||alternate-tools.com
 ||americangreencard.com
@@ -384,6 +385,7 @@ packages.debian.org/zh-cn/lenny/gpass
 delicious.com/GFWbookmark
 .democrats.org
 ||democrats.org
+||demonoid.com
 ||deutsche-welle.de
 ||dev102.com
 !--ProBlogger
@@ -714,6 +716,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
 !-M
+||madebysofa.com
 ||masamixes.com
 ||milazi.com
 ||twitter.missiu.com
@@ -734,6 +737,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||python-excel.org
 !-Q
 !-R
+||r-chart.com
 ||blog.reddit.com
 ||robertmao.com
 ||ghs.romeo-foxtrot.com
@@ -997,6 +1001,7 @@ internetfreedom.org
 ||iphonix.fr
 ||ipicture.ru
 ipobar.com
+||ippotv.com
 ||ironicsoftware.com
 ||ironpython.net
 .beta.iset.com.tw/forum
@@ -1682,6 +1687,7 @@ soundofhope.org
 ||soupofmedia.com
 sourceforge.net/projects/portabletor/files/
 sowers.org.hk
+||space-scape.com
 .spankwire.com
 .speedpluss.org
 ||spencertipping.com
@@ -1763,6 +1769,8 @@ thepiratebay.org
 ||thesponty.com
 ||thetibetpost.com
 thevivekspot.com
+.thisav.com
+|http://thisav.com
 thkphoto.com
 threatchaos.com
 ||throughnightsfire.com
@@ -1862,12 +1870,14 @@ bbs.tuitui.info
 ||eyespirit.info
 ||tumblr.fenglu.name
 ||fuckgfw.com
+||blog.gowalla.com
 ||ialmostlaugh.com
 ||life.fly4ever.me
-||blog.foursquare.com
+!--||blog.foursquare.com
 ||fredwilson.vc
 ||fuckgfw.com
 ||news.ghostery.com
+||givemesomethingtoread.com
 ||blog.hexxeh.net
 ||blog.instapaper.com
 ||blog.iphone-dev.org
@@ -1928,7 +1938,7 @@ tweetphoto.com
 tweetymail.com
 twibase.com
 .twibble.de
-||twibble.degoogle
+||twibble.de
 twibbon.com
 ||twibs.com
 ||twindexx.com
@@ -2137,6 +2147,7 @@ worldjournal.com
 
 !-------------Wordpress Blog-----
 ||tech.blog.aknin.name
+||automattic.com
 ||bhorowitz.com
 ||blog.bittorrent.com
 ||blogmaverick.com
@@ -2279,6 +2290,8 @@ youthbao.com
 blog.youthwant.com.tw
 share.youthwant.com.tw
 topic.youthwant.com.tw
+.youporn.com
+|http://youporn.com
 youtu.be
 .youtube.com
 ||youtube.com
@@ -2330,8 +2343,10 @@ gfwProxyEnabled=yes
 falun
 freenet
 q=freedom
+q%3Dfreedom
 search*safeweb
 q=triangle
+q%3DTriangle
 ultrareach
 ultrasurf
 
