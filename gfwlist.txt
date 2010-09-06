@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XJOQ/O5B83oFFqv3bjuItA
+! Checksum: 3Iw9cpHygnS8MhR3qPNSDA
 ! Expires: 6h
-! Last Modified: Sun, 05 Sep 2010 18:31:13 +0800
+! Last Modified: Mon, 06 Sep 2010 14:09:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -29,6 +29,7 @@ bbs.1tor.com
 blog.51.ca
 info.51.ca
 ||info.51.ca
+||51myvpn.com
 ||520.be
 .5maodang.com
 ||6-4.net/
@@ -125,6 +126,8 @@ twittergadget.appspot.com
 asdfg.jp/dabr
 asiademo.org
 ||asiademo.org
+.asiaharvest.org
+||asiaharvest,irg
 asianews.it
 ||asianwomensfilm.de
 .askynz.net
@@ -742,6 +745,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||robertmao.com
 ||ghs.romeo-foxtrot.com
 !-S
+||salmiyuck.com
 ||samsal.com
 ||blog.seeminglee.com
 ||rss.slashdot.org
@@ -767,6 +771,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-X
 !-Y
 ||yooper.be
+||tsong.yunxi.net
 !-Z
 
 !-------------Google Search-----
@@ -947,6 +952,7 @@ blog.hnjhj.com
 hongmeimei.com
 hootsuite.com
 ||hootsuite.com
+||hotfile.com
 hotpot.hk
 ||hotspotshield.com
 ||hougaige.com
@@ -1337,6 +1343,7 @@ pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbwiki.com
 ||pbworks.com
+||pbxes.org
 .pcdiscuss.com
 forum.pchome.com.tw
 mypaper.pchome.com.tw
@@ -1825,7 +1832,8 @@ touch99.com
 ||tripod.com
 @@||www.tripod.com
 ||trustedbi.com
-truth101.co.tv/post
+.truth101.co.tv
+|http://truth101.co.tv
 ||truthcn.com
 .truveo.com
 ts60.com
@@ -2023,9 +2031,8 @@ uighurbiz.net
 ||ultrawebsitehosting.com
 ultraxs.com
 uncyclomedia.org
-||uncyclopedia.hk
-||uncyclopedia.info
-||uncyclopedia.tw
+uncyclopedia.info
+||unholyknight.com
 .uni.cc
 .uniteddaily.com.my/index.php?
 ||unknownspace.org
