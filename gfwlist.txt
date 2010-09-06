@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3Iw9cpHygnS8MhR3qPNSDA
+! Checksum: XkJapQu2F06qUCCw5gUkQg
 ! Expires: 6h
-! Last Modified: Mon, 06 Sep 2010 14:09:00 +0800
+! Last Modified: Tue, 07 Sep 2010 01:49:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -127,7 +127,7 @@ asdfg.jp/dabr
 asiademo.org
 ||asiademo.org
 .asiaharvest.org
-||asiaharvest,irg
+||asiaharvest.org
 asianews.it
 ||asianwomensfilm.de
 .askynz.net
@@ -769,6 +769,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||willhains.com
 ||blog.wundercounter.com
 !-X
+||xiaogaozi.org
 !-Y
 ||yooper.be
 ||tsong.yunxi.net
@@ -1033,6 +1034,7 @@ jeanyim.com
 .jiehua.cz
 jieshibaobao.com
 jingpin.org/fuck-gfw-history
+zhao.jinhai.de
 ac.jiruan.net
 ||jkforum.net
 ||jobso.tv
@@ -1100,6 +1102,7 @@ liu.lu
 !-------------live spaces-----
 china-green-party.spaces.live.com
 cc9007.spaces.live.com
+chenyehao.spaces.live.com
 flowerofhappiness.spaces.live.com
 gufeng521.spaces.live.com
 honeonet.spaces.live.com
