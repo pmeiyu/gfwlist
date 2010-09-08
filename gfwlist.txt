@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XkJapQu2F06qUCCw5gUkQg
+! Checksum: 67LgQ4aFjvxmKvDj3Kz91Q
 ! Expires: 6h
-! Last Modified: Tue, 07 Sep 2010 01:49:51 +0800
+! Last Modified: Wed, 08 Sep 2010 14:17:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -953,7 +953,6 @@ blog.hnjhj.com
 hongmeimei.com
 hootsuite.com
 ||hootsuite.com
-||hotfile.com
 hotpot.hk
 ||hotspotshield.com
 ||hougaige.com
