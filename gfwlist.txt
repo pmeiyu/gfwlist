@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 67LgQ4aFjvxmKvDj3Kz91Q
+! Checksum: obUEF0H412MbopIGUs/xSQ
 ! Expires: 6h
-! Last Modified: Wed, 08 Sep 2010 14:17:30 +0800
+! Last Modified: Thu, 09 Sep 2010 22:21:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -335,11 +335,8 @@ psiphon.civisec.org
 ||cnd.org/
 ||cochina.org
 .code1984.com/64
-||collateralmurder.com
 comefromchina.com
 ||comefromchina.com
-||collateralmurder.com
-||collateralmurder.org
 ||coolloud.org.tw
 cpj.org
 ||cpj.org/
@@ -482,6 +479,7 @@ fail.hk
 fangeming.com
 .farwestchina.com
 en.favotter.net
+||faststone.org
 favstar.fm
 ||favstar.fm
 fc2.com
@@ -655,6 +653,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||secrets.blacktree.com
 ||feeds.boingboing.net
 ||moblog.bradleyit.com
+||buzzcantweet.com
 !-C
 ||feeds.cbsnews.com
 ||www.chinesealbumart.com
@@ -665,6 +664,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||github.danmarner.com
 ||designers-artists.com
 ||feeds.digg.com
+||linux.dipin.info
 ||mail.diyang.org
 ||blog.doughellmann.com
 ||downforeveryoneorjustme.com
@@ -750,7 +750,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.seeminglee.com
 ||rss.slashdot.org
 ||snippetsapp.com
-||w.sns.ly
+||sns.ly
 !-T
 ||tagxedo.com
 ||www.techfob.com
@@ -1032,6 +1032,8 @@ jeanyim.com
 ||jiaoyou8.com
 .jiehua.cz
 jieshibaobao.com
+.jimoparty.com
+|http://jimoparty.com
 jingpin.org/fuck-gfw-history
 zhao.jinhai.de
 ac.jiruan.net
@@ -1074,6 +1076,8 @@ kusocity.com
 !--------------------------LL--------------------------
 ladbrokes.com
 .lalulalu.com
+laogai.org
+||laogai.org
 laomiu.com
 latelinenews.com
 ||leecheukyan.org
@@ -1099,6 +1103,7 @@ liu.lu
 ||livingonline.us
 
 !-------------live spaces-----
+chenyehao.spaces.live.com
 china-green-party.spaces.live.com
 cc9007.spaces.live.com
 chenyehao.spaces.live.com
@@ -1110,6 +1115,7 @@ hujiachina.spaces.live.com
 ieemdai.spaces.live.com
 portis21.spaces.live.com
 program-think.spaces.live.com
+singularitys.spaces.live.com
 siyi123123123.spaces.live.com
 sublexical.spaces.live.com
 twitese.spaces.live.com
@@ -1149,7 +1155,7 @@ mashable.com
 ||mathiew-badimon.com
 .md-t.org
 ||md-t.org
-!--mediafire.com
+||mediafire.com
 ||meetup.com
 lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 ||megaporn.com
@@ -1331,6 +1337,7 @@ bbs.ozchinese.com
 .pacificpoker.com
 page2rss.com
 forum.palmislife.com
+||paper-replika.com
 paperb.us
 .panluan.net
 ||panluan.net
@@ -1536,6 +1543,8 @@ revver.com
 ||a.rimg.com.tw
 ||b.rimg.com.tw
 ||c.rimg.com.tw
+.rlwlw.com
+||rlwlw.com
 robtex.com
 ||robustnessiskey.com
 ||romnation.net
@@ -1681,7 +1690,6 @@ forum.slime.com.tw
 @@||static.soup.io
 .slinkset.com
 sneakme.net
-||sns.ly
 .sobees.com
 ||sobees.com
 socialwhale.com
@@ -1806,7 +1814,6 @@ tibetfund.org
 ||tinypaste.com
 ||i28.tinypic.com
 ||tidyread.com
-||tinyurl.com/gfwlist
 .tistory.com
 ||tkcs-collins.com
 ||tkforum.tk
@@ -1878,16 +1885,15 @@ bbs.tuitui.info
 ||chaos.e-spacy.com
 ||eyespirit.info
 ||tumblr.fenglu.name
-||fuckgfw.com
-||blog.gowalla.com
-||ialmostlaugh.com
 ||life.fly4ever.me
-!--||blog.foursquare.com
 ||fredwilson.vc
+!--||blog.foursquare.com
 ||fuckgfw.com
 ||news.ghostery.com
 ||givemesomethingtoread.com
+||blog.gowalla.com
 ||blog.hexxeh.net
+||ialmostlaugh.com
 ||blog.instapaper.com
 ||blog.iphone-dev.org
 ||jayparkinsonmd.com
@@ -1904,9 +1910,11 @@ bbs.tuitui.info
 ||blog.mongodb.org
 ||navigeaters.com
 ||blog.opentumblr.com
+||blog.pikchur.com
 ||thedailywh.at
-||blogs.thws.cn
+||thechangelog.com
 ||thisiswhyyouarefat.com
+||blogs.thws.cn
 ||tomsc.com
 ||blog.topify.com
 ||twohungrydudes.com
@@ -1994,7 +2002,6 @@ twitthat.com
 ||twitturly.com
 .twitzap.com
 twiyia.com
-||twohungrydudes.com
 .twreg.info
 ||twreg.info
 ||twttr.com
@@ -2138,6 +2145,8 @@ zh.uncyclopedia.wikia.com
 ||wikiwiki.jp
 .wikileaks.org
 ||wikileaks.org
+||collateralmurder.com
+||collateralmurder.org
 ||wikimapia.org
 ||secure.wikimedia.org
 ||wikimedia.org.mo
@@ -2174,6 +2183,7 @@ worldjournal.com
 ||p2theme.com
 ||blog.pixelpipe.com
 ||blog.polldaddy.com
+||rawfoodsos.com
 ||rayous.com
 ||sharpinsandiego.com
 ||smedio.com
@@ -2220,8 +2230,9 @@ xh4n.cn/blog
 xhamster.com
 one.xthost.info
 s.xiaod.in
-||xiaoma.org
+||xiaogaozi.org
 .xiaohexie.com
+||xiaoma.org
 ||xiaohexie.com
 .xinmiao.com.hk
 ||xinmiao.com.hk
