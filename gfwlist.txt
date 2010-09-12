@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: obUEF0H412MbopIGUs/xSQ
+! Checksum: ewHWAVZbmd8nd4n0jOXGCg
 ! Expires: 6h
-! Last Modified: Thu, 09 Sep 2010 22:21:23 +0800
+! Last Modified: Sun, 12 Sep 2010 22:18:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -165,6 +165,7 @@ bbsland.com
 blog.bcchinese.net
 .bebo.com
 ||bebo.com
+||beijing1989.com
 beijingspring.com
 ||beijingspring.com
 .berlintwitterwall.com
@@ -751,6 +752,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||rss.slashdot.org
 ||snippetsapp.com
 ||sns.ly
+||sunjidong.net
 !-T
 ||tagxedo.com
 ||www.techfob.com
@@ -1336,6 +1338,9 @@ bbs.ozchinese.com
 !--------------------------PP--------------------------
 .pacificpoker.com
 page2rss.com
+!--4m sites 1 ip
+||paint.net
+||coveringweb.com
 forum.palmislife.com
 ||paper-replika.com
 paperb.us
@@ -1893,6 +1898,7 @@ bbs.tuitui.info
 ||givemesomethingtoread.com
 ||blog.gowalla.com
 ||blog.hexxeh.net
+||blog.hotpotato.com
 ||ialmostlaugh.com
 ||blog.instapaper.com
 ||blog.iphone-dev.org
@@ -1987,6 +1993,7 @@ twitreferral.com
 .twitter.com
 ||twitter.com
 /^https?:\/\/[^\/]+twitter\.com/
+||twitter.jp
 .twittercounter.com
 ||twittercounter.com
 twitterfeed.com
@@ -2037,6 +2044,8 @@ video.udn.com
 .ueuo.com
 uighurbiz.net
 .ulike.net
+||ultravpn.fr
+.ultrevpn.fr
 ||ultrawebsitehosting.com
 ultraxs.com
 uncyclomedia.org
@@ -2202,7 +2211,6 @@ zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
 ||wp.com
-
 ||wormsculptor.com
 ||tw.wowarmory.com
 ||wp.me
