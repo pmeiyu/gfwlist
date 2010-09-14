@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ewHWAVZbmd8nd4n0jOXGCg
+! Checksum: ypi/vTvcHZY7fF/0GQYn3w
 ! Expires: 6h
-! Last Modified: Sun, 12 Sep 2010 22:18:12 +0800
+! Last Modified: Wed, 15 Sep 2010 02:30:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -387,6 +387,8 @@ delicious.com/GFWbookmark
 .democrats.org
 ||democrats.org
 ||demonoid.com
+||de-sci.org
+.de-sci.org
 ||deutsche-welle.de
 ||dev102.com
 !--ProBlogger
@@ -464,6 +466,7 @@ epochtimes.com
 ||erights.net
 etaiwannews.com
 ||etizer.org
+www.eulam.com
 ||exploader.net
 eyny.com
 
@@ -686,6 +689,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||gmer.net
 ||blog.go2web20.net
 ||blog.google.org
+||graphycalc.com
 ||www.greasespot.net
 ||blog.growlforwindows.com
 !-H
@@ -758,6 +762,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.techfob.com
 ||blog.thesilentnumber.me
 ||transparentuptime.com
+||triangulationblog.com
 ||twazzup.com
 ||twivert.com
 !-U
@@ -1793,6 +1798,7 @@ thevivekspot.com
 .thisav.com
 |http://thisav.com
 thkphoto.com
+||thomasbernhard.org
 threatchaos.com
 ||throughnightsfire.com
 .thumbzilla.com
@@ -1865,6 +1871,7 @@ tuidang.net
 bbs.tuitui.info
 ||turningtorso.com
 ||tuxmachines.org
+||tuxtraining.com
 
 !-------------Tumblr-----
 ||tumblr.com
@@ -1876,6 +1883,7 @@ bbs.tuitui.info
 ||365singles.com.ar
 ||news.atebits.com
 ||tumblr.awflasher.com
+||basetimesheightdividedby2.com
 ||blog.birdhouseapp.com
 ||bobulate.com
 ||bonjourlesgeeks.com
@@ -1938,6 +1946,8 @@ tvboxnow.com
 ||tvunetworks.com
 .gov.tw/
 twa.sh
+twapperkeeper.com
+||twapperkeeper.com
 ||twaud.io
 .twaud.io
 .twbbs.net.tw
@@ -2382,6 +2392,8 @@ ultrasurf
 search*%E9%B2%8D%E5%BD%A4
 !--Da Ji Yuan
 search*%E5%A4%A7%E7%BA%AA%E5%85%83
+!--Diao Yu Dao
+search*%E9%92%93%E9%B1%BC%E5%B2%9B
 !--dong tai wang
 %E5%8A%A8%E6%80%81%E7%BD%91
 !--Duo Wei (hans/hant)
@@ -2454,6 +2466,7 @@ en.wikipedia.org/wiki/Golden_Shield_Project
 en.wikipedia.org/wiki/Hong_Kong
 en.wikipedia.org/wiki/Huang_Qi
 en.wikipedia.org/wiki/Internet_censorship
+en.wikipedia.org/wiki/Java_Anon_Proxy
 en.wikipedia.org/wiki/Liu_Xiaobo
 en.wikipedia.org/wiki/Shi_Tao
 en.wikipedia.org/wiki/Tank_man
