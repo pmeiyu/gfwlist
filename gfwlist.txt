@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ypi/vTvcHZY7fF/0GQYn3w
+! Checksum: TEgZN94oNUAn5HSopFYDEg
 ! Expires: 6h
-! Last Modified: Wed, 15 Sep 2010 02:30:44 +0800
+! Last Modified: Sat, 18 Sep 2010 03:05:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -220,6 +220,7 @@ boxun.com
 ||bkite.com
 brightkite.com
 ||brightkite.com
+www.ibros.org
 ||bt95.com
 .budaedu.org
 ||budaedu.org
@@ -542,7 +543,8 @@ freemorenews.com
 www.freetibet.org
 ||freewallpaper4.me
 .freexinwen.com
-friendfeed.com
+.friendfeed.com
+|http://friendfeed.com
 ||frommel.net
 ||fscked.org
 .fsurf.com
@@ -1272,6 +1274,7 @@ newcenturynews.com
 bbs.newsgroup.la
 bbs2.newsgroup.la
 forum.newsgroup.la
+||newsminer.com
 ||newspace21.com
 newstin.com
 hk*.nextmedia.com
@@ -1301,6 +1304,8 @@ ntdtv.com
 ||cbs.ntu.edu.tw
 ||nuexpo.com
 ||nurgo-software.com
+.noypf.com
+||nyopf.com
 nysingtao.com
 ||nzchinese.net.nz
 
@@ -1902,6 +1907,7 @@ bbs.tuitui.info
 ||fredwilson.vc
 !--||blog.foursquare.com
 ||fuckgfw.com
+||generesis.com
 ||news.ghostery.com
 ||givemesomethingtoread.com
 ||blog.gowalla.com
@@ -2021,6 +2027,8 @@ twitthat.com
 twiyia.com
 .twreg.info
 ||twreg.info
+.twtkr.com
+|http://twtkr.com
 ||twttr.com
 .tycool.com
 ||tycool.com
@@ -2343,6 +2351,8 @@ yuanming.net
 yx51.net
 
 !--------------------------ZZ--------------------------
+||zannel.com
+||tap11.com
 |http://zaobao.com/
 luntan.zaobao.com/
 .zaobao.com/special/china/cnpol/pages2
