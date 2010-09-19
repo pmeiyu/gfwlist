@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TEgZN94oNUAn5HSopFYDEg
+! Checksum: rci1czZUBIcOFUPaXTLJig
 ! Expires: 6h
-! Last Modified: Sat, 18 Sep 2010 03:05:47 +0800
+! Last Modified: Sun, 19 Sep 2010 10:23:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -255,6 +255,7 @@ cclife.org
 .cctongbao.com/article/2078732
 cdjp.org
 ||cdjp.org/
+.cdnews.com.tw/cdnews_site/docDetail.jsp?
 cdp1998.org
 ||cdp1998.org
 cdpweb.org
