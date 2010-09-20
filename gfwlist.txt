@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rci1czZUBIcOFUPaXTLJig
+! Checksum: 25ep41c4igWsw9guivjkEg
 ! Expires: 6h
-! Last Modified: Sun, 19 Sep 2010 10:23:00 +0800
+! Last Modified: Mon, 20 Sep 2010 23:20:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -71,9 +71,12 @@ adultfriendfinder.com
 ||aenhancers.com
 ||aidsmuseum.cn
 .aisex.com
+||ait.org.tw
 blog.aiweiwei.com
 ||ajaxplorer.info
 ||www.ajsands.com
+.akiraclub.com
+||akiraclub.com
 ||alabout.com
 aladding.com
 ||aladding.com
@@ -320,8 +323,10 @@ chinesenewsnet.com
 .chinesetalks.net/ch
 .chingcheong.com
 ||chingcheong.com
+--same ip
 ||chrispederick.com
 ||chrispederick.net
+||allaboutalpha.com
 .citizenlab.org
 city9x.com
 .civicparty.hk
@@ -333,6 +338,7 @@ psiphon.civisec.org
 ||classicalguitarblog.net
 .cmule.com
 ||cmule.com
+||cna.com.tw
 .cnavista.com.tw/shop/stores_app
 .cnd.org
 ||cnd.org/
@@ -340,6 +346,8 @@ psiphon.civisec.org
 .code1984.com/64
 comefromchina.com
 ||comefromchina.com
+.coolaler.com
+||coolaler.com
 ||coolloud.org.tw
 cpj.org
 ||cpj.org/
@@ -665,6 +673,11 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||feeds.cbsnews.com
 ||www.chinesealbumart.com
 ||chromeexperiments.com
+||chromium.org
+@@||build.chromium.org
+@@||git.chromium.org
+@@||planet.chromium.org
+@@||src.chromium.org
 ||rss.cnn.com
 !-D
 ||blog.danmarner.com
@@ -1277,6 +1290,7 @@ bbs2.newsgroup.la
 forum.newsgroup.la
 ||newsminer.com
 ||newspace21.com
+newspeak.cc/story
 newstin.com
 hk*.nextmedia.com
 tw*.nextmedia.com
@@ -1433,9 +1447,9 @@ plurk.com
 postadult.com
 
 !-------------Posterous-----
-||post.ly/
-||posterous.com
+|http://post.ly
 .posterous.com
+|http://posterous.com
 ||holykaw.alltop.com
 ||post.anyu.org
 ||bralio.com
@@ -1622,6 +1636,7 @@ forum.setty.com.tw
 .sexhuang.com
 .sexinsex.net
 !--IP of SexInSex
+67.220.91.18
 67.220.91.23
 ||sexyandfunny.com
 .sexyandfunny.com
@@ -2425,6 +2440,8 @@ search*%E6%B3%95%E4%BC%9A
 %E8%83%A1%E6%B5%B7%E6%B8%85
 !--Hua Hua Gong Zi
 search*%E8%8A%B1%E8%8A%B1%E5%85%AC%E5%AD%90
+!--Ji Yuan
+search*%BC%CD%D4%AA
 !--Jia Mi Dai Li (GB/U8)
 search*%BC%D3%C3%DC%B4%FA%C0%ED
 search*%E5%8A%A0%E5%AF%86%E4%BB%A3%E7%90%86
