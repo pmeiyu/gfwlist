@@ -1,13 +1,16 @@
 [AutoProxy 0.2.9]
-! Checksum: 25ep41c4igWsw9guivjkEg
+! Checksum: u3fCBtthJfBpxk8YYl5/tQ
 ! Expires: 6h
-! Last Modified: Mon, 20 Sep 2010 23:20:47 +0800
+! Last Modified: Fri, 24 Sep 2010 15:36:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 1-apple.com.tw
 ||1-apple.com.tw
 ||121pp.com
+.12bet.com
+||12bet.com
+.141hongkong.com/forum/forumdisplay.php?fid=59
 t.16class.cn
 173ng.com
 ||173ng.com
@@ -25,6 +28,7 @@ bbs.1tor.com
 ||36rain.com
 ||3b8.cc/
 4.gp
+taiwannation.50webs.com
 ||bbs.51.ca
 blog.51.ca
 info.51.ca
@@ -323,7 +327,7 @@ chinesenewsnet.com
 .chinesetalks.net/ch
 .chingcheong.com
 ||chingcheong.com
---same ip
+!--same ip
 ||chrispederick.com
 ||chrispederick.net
 ||allaboutalpha.com
@@ -1089,6 +1093,8 @@ wiki.keso.cn/Home
 .kingstone.com.tw
 .knowledgerush.com/kr/encyclopedia
 ||kompozer.net
+.koornk.com
+||koornk.com
 .kui.name/event
 ||kurtmunger.com
 kusocity.com
@@ -1959,6 +1965,8 @@ bbs.tuitui.info
 !-||status.twitter.com
 ||photo.utom.us
 ||wordboner.com
+||wordsandturds.com
+||xmusic.fm
 ||bd.zhe.la
 ||cocoa.zonble.net
 
@@ -2146,6 +2154,7 @@ wanglixiong.com
 ||wlx.sowiki.net
 wangruoshui.net
 www.wangruowang.org
+wapedia.mobi/zhsimp
 ||war2wall.info
 washeng.net
 .wattpad.com
@@ -2222,6 +2231,7 @@ worldjournal.com
 ||blog.linkedin.com
 ||menro.me
 ||michaeldehaan.net
+||mynokiablog.com
 ||nandalala.com
 ||p2theme.com
 ||blog.pixelpipe.com
