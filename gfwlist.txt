@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: u3fCBtthJfBpxk8YYl5/tQ
+! Checksum: P4nF5V3u8VDHoMD8I0L8PA
 ! Expires: 6h
-! Last Modified: Fri, 24 Sep 2010 15:36:16 +0800
+! Last Modified: Sat, 25 Sep 2010 10:29:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1326,7 +1326,7 @@ ntdtv.com
 ||nuexpo.com
 ||nurgo-software.com
 .noypf.com
-||nyopf.com
+||noypf.com
 nysingtao.com
 ||nzchinese.net.nz
 
