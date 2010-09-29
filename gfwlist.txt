@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ok2M7eekK+BvUcDWe9rE5A
+! Checksum: DmOxIOgHwK07fwhawdJSAw
 ! Expires: 6h
-! Last Modified: Thu, 30 Sep 2010 00:14:22 +0800
+! Last Modified: Thu, 30 Sep 2010 00:26:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -349,7 +349,6 @@ psiphon.civisec.org
 ||cnd.org/
 ||cochina.org
 .code1984.com/64
-||codinginparadise.org
 comefromchina.com
 ||comefromchina.com
 .coolaler.com
@@ -699,6 +698,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||dumblittleman.com
 ||feeds.dzone.com
 !-E
+||www.echofon.com
 ||s.evernote.com
 ||evhead.com
 !-F
