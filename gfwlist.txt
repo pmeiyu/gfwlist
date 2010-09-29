@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8MBz81rtYp/WYFEN1PKtqA
+! Checksum: bZqh7dFHI7pWrCCFwgYO7Q
 ! Expires: 6h
-! Last Modified: Wed, 29 Sep 2010 14:40:09 +0800
+! Last Modified: Wed, 29 Sep 2010 14:45:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -620,6 +620,8 @@ gmbd.cn
 ||goldwave.com
 gongmeng.info
 gongminliliang.com
+.goodreads.com
+||goodreads.com
 .goodreaders.com
 ||goodreaders.com
 .googlesile.com
