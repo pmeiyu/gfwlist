@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: P4nF5V3u8VDHoMD8I0L8PA
+! Checksum: AZhoKW86pX9JR3IvOIsX7w
 ! Expires: 6h
-! Last Modified: Sat, 25 Sep 2010 10:29:00 +0800
+! Last Modified: Wed, 29 Sep 2010 14:37:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -27,6 +27,7 @@ bbs.1tor.com
 .315lz.com
 ||36rain.com
 ||3b8.cc/
+||3dtin.com
 4.gp
 taiwannation.50webs.com
 ||bbs.51.ca
