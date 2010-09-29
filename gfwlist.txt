@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AZhoKW86pX9JR3IvOIsX7w
+! Checksum: 8MBz81rtYp/WYFEN1PKtqA
 ! Expires: 6h
-! Last Modified: Wed, 29 Sep 2010 14:37:55 +0800
+! Last Modified: Wed, 29 Sep 2010 14:40:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1723,6 +1723,7 @@ forum.slime.com.tw
 ||softpanorama.org
 ||sogclub.com
 ||somee.com
+||sorting-algorithms.com
 .soumo.info
 ||soup.io/
 @@||static.soup.io
