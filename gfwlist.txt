@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DmOxIOgHwK07fwhawdJSAw
+! Checksum: xM+AQ8EevDBLUfXW8Jy5yA
 ! Expires: 6h
-! Last Modified: Thu, 30 Sep 2010 00:26:07 +0800
+! Last Modified: Fri, 01 Oct 2010 03:19:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -85,6 +85,7 @@ blog.aiweiwei.com
 ||alabout.com
 aladding.com
 ||aladding.com
+||alasbarricadas.org
 ||alkasir.com
 bbs.allhabit.com
 alliance.org.hk
@@ -213,6 +214,7 @@ blogtd.net
 .bloomberg.com*pid=20601087
 ||bloomfortune.com
 ||bnrmetal.com
+boardreader.com/thread
 boltbrowser.com/download
 ||bonersgames.com
 .bot.nu
@@ -409,7 +411,10 @@ delicious.com/GFWbookmark
 !--ProBlogger
 ||digital-photography-school.com
 ||digitalalchemy.tv
-diigo.com
+.diaoyuislands.org
+||diaoyuislands.org
+.diigo.com
+||diigo.com
 .discuss.com.hk
 ||discuss.com.hk
 ||dit-inc.us
@@ -429,7 +434,8 @@ dongtaiwang.com
 doubleaf.com
 dowei.org
 dphk.org
-||dpp.org.tw/
+||dpp.org.tw
+||dreamaquarium.com
 ||drikin.com
 ||drivingitalia.net
 ||droidie.com
@@ -535,6 +541,7 @@ foursquare.com
 ||allonlinux.free.fr
 ||dimitrik.free.fr
 kineox.free.fr
+.free-vpn.info/mrzhang
 freeman2.com
 ||flecheinthepeche.fr
 ||fofg.org
@@ -710,6 +717,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.gatein.org
 ||feeds.gawker.com
 ||geektang.com
+||geohot.us
 ||gmer.net
 ||blog.go2web20.net
 ||blog.google.org
@@ -736,6 +744,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||tomatovpn.keithmoyer.com
 ||www.keithmoyer.com
 ||blog.kengao.tw
+||khanacademy.org
 ||usbloadergx.koureio.net
 ||blog.kowalczyk.info
 !-L
@@ -765,6 +774,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||feeds.people.com
 ||blog.persistent.info
 ||portablesoft.org.ru
+||prasannatech.net
 ||talk.news.pts.org.tw
 ||python-excel.org
 !-Q
@@ -784,10 +794,12 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-T
 ||tagxedo.com
 ||www.techfob.com
+||theiphonewiki.com
 ||blog.thesilentnumber.me
 ||transparentuptime.com
 ||triangulationblog.com
 ||twazzup.com
+||art.twgg.org
 ||twivert.com
 !-U
 ||ub0.cc
@@ -1377,7 +1389,9 @@ page2rss.com
 ||paint.net
 ||coveringweb.com
 forum.palmislife.com
+!--Same IP
 ||paper-replika.com
+||eriversoft.com
 paperb.us
 .panluan.net
 ||panluan.net
@@ -1998,6 +2012,7 @@ tweetboard.com
 ||tweetboard.com
 ||tweete.net
 m.tweete.net
+||mtw.tl
 tweetmeme.com
 tweetphoto.com
 ||tweetphoto.com
@@ -2017,8 +2032,6 @@ twistar.cc
 ||twisell.com
 twisternow.com
 twistory.net
-.twit2d.com
-||twit2d.com
 twitbrowser.net
 ||twitcause.com
 ||twitgether.com
@@ -2033,8 +2046,18 @@ twitiq.com
 .twitpic.com
 ||twitpic.com
 twitreferral.com
+!--Same IP
+.twit2d.com
+||twit2d.com
 .twitstat.com
 ||twitstat.com
+||dotheyfolloweachother.com
+||firstfivefollowers.com
+||retweeteffect.com
+||tweeplike.me
+||tweepguide.com
+||turbotwitter.com
+
 .twitter.com
 ||twitter.com
 /^https?:\/\/[^\/]+twitter\.com/
@@ -2229,6 +2252,7 @@ worldjournal.com
 ||blog.feedly.com
 ||blog.flickr.net
 ||fourwallsandaroof.com
+||herbsutter.com
 ||hiveminds.co.uk
 ||hoparoundtheglobe.com
 ||hunbulin.com
@@ -2259,6 +2283,8 @@ xijie.wordpress.com
 zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
+||android.wordpress.org
+||ios.wordpress.org
 ||wp.com
 ||wormsculptor.com
 ||tw.wowarmory.com
@@ -2480,6 +2506,8 @@ search*%E8%89%B2%E6%83%85
 %E7%8E%8B%E4%B8%B9
 !--Wang Xi Zhe
 search*%E7%8E%8B%E5%B8%8C%E5%93%B2
+!--Wen Zi Yu
+search*%E6%96%87%E5%AD%97%E7%8B%B1
 !--Wo De Fen Dou
 search*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Jie
