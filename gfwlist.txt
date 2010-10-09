@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Wa6IlzWY9cN7kwC584Ri6w
+! Checksum: U7fCCvwKiovNEnwNyL5LKQ
 ! Expires: 6h
-! Last Modified: Thu, 07 Oct 2010 10:52:50 +0800
+! Last Modified: Sat, 09 Oct 2010 11:36:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -567,6 +567,7 @@ freemoren.com
 freemorenews.com
 .freeoz.org/bbs
 ||www.bulbous.freeserve.co.uk
+||freessh.us
 www.freetibet.org
 ||freewallpaper4.me
 .freexinwen.com
@@ -815,6 +816,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.wavesandbox.com
 ||t.webbang.net
 ||webfee.org.ru
+||blog.webmproject.org
 ||willhains.com
 ||blog.wundercounter.com
 !-X
@@ -1280,6 +1282,7 @@ multiupload.com
 ||myforum.com.uk
 .myfreshnet.com
 ||myparagliding.com
+fongyou.mysinablog.com/index.php
 .blogs.myspace.com
 ||blogs.myspace.com
 vids.myspace.com/index.cfm?fuseaction=vids.
@@ -1334,6 +1337,7 @@ nicovideo.tw
 ||nidaye.org
 homepage2.nifty.com
 no-ip.com
+nobelprize.org/nobel_prizes/peace/laureates/2010
 ||nokola.com
 ||noobbox.com
 ||notebookaddon.tk
@@ -1513,6 +1517,7 @@ postadult.com
 ||www.vegorpedersen.com
 ||ventureswell.com
 ||webfee.tk
+||whereiswerner.com
 ||bill.zhong.pp.ru
 
 .power.com
@@ -1939,6 +1944,7 @@ bbs.tuitui.info
 ||news.atebits.com
 ||tumblr.awflasher.com
 ||basetimesheightdividedby2.com
+||benjaminste.in
 ||blog.birdhouseapp.com
 ||bobulate.com
 ||bonjourlesgeeks.com
@@ -1949,6 +1955,7 @@ bbs.tuitui.info
 ||cookingtothegoodlife.com
 ||photos.dailyme.com
 ||davidkaneda.com
+||davidslog.com
 ||blog.davidziegler.net
 ||drewolanoff.com
 ||chaos.e-spacy.com
@@ -2196,6 +2203,7 @@ wangruoshui.net
 www.wangruowang.org
 wapedia.mobi/zhsimp
 ||war2wall.info
+.makzhou.warehouse333.com
 washeng.net
 .wattpad.com
 .wearn.com
@@ -2542,6 +2550,7 @@ search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 !-------------en.WikiPedia-----
 en.wikipedia.org/wiki/Book_burning
 en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
+en.wikipedia.org/wiki/Charter_08
 en.wikipedia.org/wiki/Dalai_Lama
 en.wikipedia.org/wiki/Deep_packet_inspection
 en.wikipedia.org/wiki/Freegate
