@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jWXhOUXcAIqTlKx3q611nA
+! Checksum: U+H/YcRoBxTDerNqrbEIGQ
 ! Expires: 6h
-! Last Modified: Sun, 10 Oct 2010 13:51:57 +0800
+! Last Modified: Thu, 14 Oct 2010 23:28:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -57,6 +57,7 @@ info.51.ca
 .99bbs.com
 ||9bis.com
 ||9bis.net
+.9city.me/archiver*308578.html
 
 !--------------------------AA--------------------------
 a5.com.ru
@@ -250,6 +251,8 @@ holz.byethost8.com
 
 !--------------------------CC--------------------------
 .cafepress.com
+.cn.calameo.com
+|http://cn.calameo.com
 ||canonfilmmakerslive.com
 .canyu.org
 .cao.im
@@ -377,6 +380,9 @@ creaders.net
 ||curvefish.com
 forum.cyberctm.com/forum
 ||cynscribe.com
+||ifan.cz.cc
+||mike.cz.cc
+||nic.cz.cc
 
 !--------------------------DD--------------------------
 .dabr.co.uk
@@ -426,6 +432,7 @@ delicious.com/GFWbookmark
 .dizhidizhi.com
 ||dl-laby.jp
 ||dlsite.com
+.docstoc.com/docs
 .dojin.com
 .dolc.de/forum
 .domain.club.tw
@@ -576,6 +583,7 @@ www.freetibet.org
 ||frommel.net
 ||fscked.org
 .fsurf.com
+.ftchinese.com/story/001034926
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
@@ -622,6 +630,7 @@ geocities.jp
 ||getyouram.com
 gfw.org.ua
 gigporno.ru
+||gimpshop.com
 .ginx.com
 ||ginx.com
 ||glennhilton.com
@@ -701,6 +710,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 @@||src.chromium.org
 ||rss.cnn.com
 !-D
+||dailytodo.org
 ||blog.danmarner.com
 ||github.danmarner.com
 ||designers-artists.com
@@ -797,9 +807,11 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||rss.slashdot.org
 ||snippetsapp.com
 ||sns.ly
+||ssbook.com
 ||sunjidong.net
 !-T
 ||tagxedo.com
+||blog.tatoeba.org
 ||www.techfob.com
 ||theiphonewiki.com
 ||blog.thesilentnumber.me
@@ -810,6 +822,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||twivert.com
 !-U
 ||ub0.cc
+||jonny.ubuntu-tw.net
 !-V
 ||tp.vbap.com.au
 !-W
@@ -910,6 +923,8 @@ google*search*%E7%8E%8B%E5%88%9A
 .google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
 .google.*%E7%9C%9F%E7%9B%B8
+!--Zhong Gong
+.google.%D6%D0%B9%B2
 !--Zhong Guo Yuan Min Da Tong Meng
 .google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zi You Men
@@ -948,6 +963,7 @@ google.com*analytics*zh-CN
 feedproxy.google.com
 groups.google.*group
 knol.google.com/k/-/08/3jhi1zdzvxj3f
+news.google.com.hk/nwshp?hl=zh-cn&tab=wn
 picasaweb.google.com
 sites.google.com
 |https://talkgadget.google.com/
@@ -1031,7 +1047,6 @@ w.idaiwan.com/forum
 ||identi.ca
 .idouga.com
 .idv.tw
-||ifan.cz.cc
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
@@ -1116,6 +1131,7 @@ kanzhongguo.com
 ||kenengba.com
 wiki.keso.cn/Home
 .khmusic.com.tw
+kinghost.com
 .kingstone.com.tw
 .knowledgerush.com/kr/encyclopedia
 ||kompozer.net
@@ -1215,6 +1231,7 @@ mashable.com
 lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 ||megaporn.com
 ||megarotic.com
+||megaupload.com
 megavideo.com
 ||melon-peach.com
 memedia.cn
@@ -1328,14 +1345,17 @@ newstin.com
 hk*.nextmedia.com
 tw*.nextmedia.com
 ||nexton-net.jp
+.nexttv.com.tw
 ngensis.com
 ||ngs2.info
-||nic.cz.cc
 ||blog.nicovideo,jp
 tw.nicovideo.jp
 nicovideo.tw
 ||nidaye.org
 homepage2.nifty.com
+taiwanyes.ning.com
+njuice.com
+||njuice.com
 no-ip.com
 nobelprize.org/nobel_prizes/peace/laureates/2010
 ||nokola.com
@@ -1401,6 +1421,7 @@ page2rss.com
 !--4m sites 1 ip
 ||paint.net
 ||coveringweb.com
+.palacemoon.com
 forum.palmislife.com
 !--Same IP
 ||paper-replika.com
@@ -1562,12 +1583,11 @@ python.org*download
 qixianglu.cn
 bbs.qmzdd.com
 ||qmzdd.com
+.qkshare.com
 ||qoos.com
 blog.qooza.hk*dafengqixi
-||qstatus.com
-!--plus.net
-||qtrac.eu
 ||efksoft.com
+||qstatus.com
 ||qtweeter.com
 ||quadedge.com
 qusi8.net
@@ -1701,8 +1721,7 @@ shkspr.mobi/dabr
 .shooshtime.com
 ||shooshtime.com
 ||shulib.com
-ch.shvoong.com/
-||simplecd.org
+ch.shvoong.com
 ||simplenoteapp.com
 simpleproductivityblog.com
 bbs.sina.com/
@@ -2076,6 +2095,7 @@ twitreferral.com
 ||tweepguide.com
 ||turbotwitter.com
 
+||t.co
 .twitter.com
 ||twitter.com
 /^https?:\/\/[^\/]+twitter\.com/
@@ -2121,6 +2141,7 @@ twitese.webbang.net
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
 humanities.uchicago.edu/faculty/ywang/hi
+udn.com/news/main
 album.udn.com
 blog.udn.com
 bookmark.udn.com/bookmark
@@ -2309,9 +2330,11 @@ zhenxiang.wordpress.com
 ||wormsculptor.com
 ||tw.wowarmory.com
 ||wp.me
+
 .wpoforum.com
 ||wpoforum.com
 wretch.cc
+cn.wsj.com/gb/20101008/beu181914
 .wtfpeople.com
 wuerkaixi.com
 wufi.org.tw
