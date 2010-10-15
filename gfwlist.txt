@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: U+H/YcRoBxTDerNqrbEIGQ
+! Checksum: e7XGb7bg4w4sWj8IAUSZMA
 ! Expires: 6h
-! Last Modified: Thu, 14 Oct 2010 23:28:45 +0800
+! Last Modified: Fri, 15 Oct 2010 21:29:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -213,7 +213,8 @@ blogimg.jp
 rconversation.blogs.com
 blogspot.com
 blogtd.net
-||blogtd.net
+.blogtd.org
+|http://blogtd.org
 ||bloodshed.net
 .bloomberg.com*pid=20601087
 ||bloomfortune.com
@@ -244,6 +245,11 @@ www.ibros.org
 ||bullog.org
 .bullogger.com
 ||bullogger.com
+!--businesstimes
+||businesstimes.com.cn
+||businesstimes.com.hk
+||hkbt.com.hk
+||yibada.com
 ||buugaa.com
 buzzurl.jp
 ||blambin.byethost16.com
@@ -251,6 +257,7 @@ holz.byethost8.com
 
 !--------------------------CC--------------------------
 .cafepress.com
+.calameo.com/books
 .cn.calameo.com
 |http://cn.calameo.com
 ||canonfilmmakerslive.com
@@ -583,7 +590,8 @@ www.freetibet.org
 ||frommel.net
 ||fscked.org
 .fsurf.com
-.ftchinese.com/story/001034926
+.ftchinese.com
+|http://ftchinese.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
@@ -2171,6 +2179,7 @@ myshare.url.com.tw/
 ||urlborg.com
 us.to
 ||usacn.com
+beta.usejump.com
 earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
 .ustream.tv
@@ -2334,7 +2343,7 @@ zhenxiang.wordpress.com
 .wpoforum.com
 ||wpoforum.com
 wretch.cc
-cn.wsj.com/gb/20101008/beu181914
+cn.wsj.com
 .wtfpeople.com
 wuerkaixi.com
 wufi.org.tw
