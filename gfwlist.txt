@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jM+6PrMjuF6qjvx69trT3w
+! Checksum: JzNCpNzx8SQAT4n9aBoteQ
 ! Expires: 6h
-! Last Modified: Fri, 15 Oct 2010 22:12:10 +0800
+! Last Modified: Sun, 17 Oct 2010 14:52:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -16,6 +16,10 @@ t.16class.cn
 ||173ng.com
 .17e.org
 ||17e.org
+.1984bbs.org
+|http://1984bbs.org
+1984bbs.com
+||1984bbs.com
 .1bao.org
 ||1free.ws
 ||1pondo.tv
@@ -449,7 +453,8 @@ dongtaiwang.com
 ||dongtaiwang.net
 .dongyangjing.com
 .dontfilter.us
-@@||douban.com
+.dotplane.com
+||dotplane.com
 doubleaf.com
 dowei.org
 dphk.org
@@ -1990,6 +1995,7 @@ bbs.tuitui.info
 ||blog.davidziegler.net
 ||drewolanoff.com
 ||chaos.e-spacy.com
+||eamonnbrennan.com
 ||eyespirit.info
 ||tumblr.fenglu.name
 ||life.fly4ever.me
@@ -2108,10 +2114,13 @@ twitreferral.com
 ||turbotwitter.com
 
 ||t.co
+||twt.tl
+||twttr.com
 .twitter.com
 ||twitter.com
-/^https?:\/\/[^\/]+twitter\.com/
 ||twitter.jp
+/^https?:\/\/[^\/]+twitter\.com/
+
 .twittercounter.com
 ||twittercounter.com
 twitterfeed.com
@@ -2131,7 +2140,6 @@ twiyia.com
 ||twreg.info
 .twtkr.com
 |http://twtkr.com
-||twttr.com
 .tycool.com
 ||tycool.com
 tynsoe.org
@@ -2346,6 +2354,8 @@ zhenxiang.wordpress.com
 
 .wpoforum.com
 ||wpoforum.com
+.wqyd.org
+||wqyd.org
 wretch.cc
 cn.wsj.com
 .wtfpeople.com
@@ -2428,6 +2438,8 @@ yilubbs.com
 ||yogichen.org
 yong.hu
 forum.yorkbbs.ca
+.yzzk.com
+||yzzk.com
 
 !-------------yo2-----
 ||yo2.cn
