@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JzNCpNzx8SQAT4n9aBoteQ
+! Checksum: bch64324iE204zvLyH/FCw
 ! Expires: 6h
-! Last Modified: Sun, 17 Oct 2010 14:52:25 +0800
+! Last Modified: Tue, 19 Oct 2010 12:04:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1108,6 +1108,7 @@ blog.istef.info/2007/10/21/myentunnel
 |http://itweet.net
 .iu45.com
 yy.iyatou.com/archives/1042
+.izaobao.us
 .izles.net
 
 !--------------------------JJ--------------------------
@@ -1413,6 +1414,7 @@ omnitalk.
 .oopsforum.com
 open.com.hk
 ||openid.cn
+||openid.com
 opera.com/mini
 www.orchidbbs.com
 ||orn.jp
@@ -2358,6 +2360,7 @@ zhenxiang.wordpress.com
 ||wqyd.org
 wretch.cc
 cn.wsj.com
+chinese.wsj.com
 .wtfpeople.com
 wuerkaixi.com
 wufi.org.tw
@@ -2465,6 +2468,7 @@ youtu.be
 .youtube.com
 ||youtube.com
 !--/^https?:\/\/[^\/]+youtube\.com/
+.youtube-nocookie.com
 .youtubecn.com
 blog.youxu.info/2010/03/14/west-chamber
 !-Youtube CDN
