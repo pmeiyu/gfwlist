@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qMQMB70FVSqO7cGJHkD0ZA
+! Checksum: jf8texRxF+AnDBAPVsEilQ
 ! Expires: 6h
-! Last Modified: Thu, 21 Oct 2010 19:44:19 +0800
+! Last Modified: Thu, 21 Oct 2010 19:55:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -668,10 +668,6 @@ gongminliliang.com
 ||gopetition.com
 grandtrial.org
 ||graphis.ne.jp
-||0.gravatar.com
-||1.gravatar.com
-||2.gravatar.com
-||s.gravatar.com
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
