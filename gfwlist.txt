@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bch64324iE204zvLyH/FCw
+! Checksum: qMQMB70FVSqO7cGJHkD0ZA
 ! Expires: 6h
-! Last Modified: Tue, 19 Oct 2010 12:04:49 +0800
+! Last Modified: Thu, 21 Oct 2010 19:44:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -140,6 +140,8 @@ twittergadget.appspot.com
 ||archive.org
 ||areca-backup.org
 ||ark10.org
+.arctosia.com
+|http://arctosia.com
 asdfg.jp/dabr
 asiademo.org
 ||asiademo.org
@@ -366,6 +368,7 @@ psiphon.civisec.org
 .cnavista.com.tw/shop/stores_app
 .cnd.org
 ||cnd.org/
+cn.news.cnyes.com
 ||cochina.org
 .code1984.com/64
 comefromchina.com
@@ -590,8 +593,7 @@ freemorenews.com
 www.freetibet.org
 ||freewallpaper4.me
 .freexinwen.com
-.friendfeed.com
-|http://friendfeed.com
+friendfeed.com
 ||frommel.net
 ||fscked.org
 .fsurf.com
@@ -639,6 +641,7 @@ geocities.jp
 ||get-digital-help.com
 .getfreedur.com
 .getjetso.com/forum
+getiton.com
 ||getuploader.com
 ||getyouram.com
 gfw.org.ua
@@ -755,6 +758,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||gmer.net
 ||blog.go2web20.net
 ||blog.google.org
+||govecn.org
 ||graphycalc.com
 ||www.greasespot.net
 ||blog.growlforwindows.com
@@ -798,6 +802,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||feeds.mobileread.com
 ||mytwishirt.com
 !-N
+||needjav.net
 ||blog.netflix.com
 ||blog.nihilogic.dk
 ||nogoodatcoding.com
@@ -840,6 +845,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-U
 ||ub0.cc
 ||jonny.ubuntu-tw.net
+||ultrasn0w.ca
 !-V
 ||tp.vbap.com.au
 !-W
@@ -851,6 +857,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.wundercounter.com
 !-X
 ||xiaogaozi.org
+||xzy.org.ru
 !-Y
 ||yooper.be
 ||tsong.yunxi.net
@@ -1018,6 +1025,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hjclub.info
 ||hjclub.info
 .hk-pub.com/forum
+|http://hk-pub.com/forum
 .hk32168.com
 ||hk32168.com
 .hkbf.org
@@ -1413,7 +1421,6 @@ omnitalk.
 .onlylady.cn
 .oopsforum.com
 open.com.hk
-||openid.cn
 ||openid.com
 opera.com/mini
 www.orchidbbs.com
@@ -1949,6 +1956,7 @@ touch99.com
 ||trialofccp.org
 ||tripod.com
 @@||www.tripod.com
+||trulyergonomic.com
 ||trustedbi.com
 .truth101.co.tv
 |http://truth101.co.tv
@@ -2803,6 +2811,8 @@ zh.wikipedia.org*%E4%B8%89%E5%B9%B4%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3
 zh.wikipedia.org*%E5%9C%A3%E9%9B%84%E7%94%98%E5%9C%B0
 !--Shi Jie Jing Ji Dao Bao
 zh.wikipedia.org*%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E5%AF%BC%E6%8A%A5
+!--Shi Si Shi Da Lai
+zh.wikipedia.org*%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96
 !--Shi Tao
 zh.wikipedia.org*%E5%B8%88%E6%B6%9B
 !--Shi Xing Yun
