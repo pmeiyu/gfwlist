@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vvlDVWlLCSnsVx9mTOi5Dg
+! Checksum: eX30R1rjOX/v/69weogtuQ
 ! Expires: 6h
-! Last Modified: Sun, 24 Oct 2010 12:30:48 +0800
+! Last Modified: Sun, 24 Oct 2010 16:52:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -165,6 +165,7 @@ asianews.it
 forum.baby-kingdom.com
 backchina.com
 ||backchina.com
+.backpackers.com.tw/forum
 ||baidu.jp
 hen.bao.li
 ||bao.li
@@ -339,6 +340,8 @@ gb.chinatimes.com/gate/gb*2007Cti-News
 news.chinatimes.com/2007Cti*0,4521,130505
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 chinaway.org
+.chinaworker.info
+||chinaworker.info
 chinayuanmin.org
 ||chinayuanmin.org
 .chinese-hermit.net
@@ -518,6 +521,7 @@ etaiwannews.com
 www.eulam.com
 ||exploader.net
 eyny.com
+.ezpc.tk/category/soft
 
 !--------------------------FF--------------------------
 .facebook.com
@@ -741,6 +745,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||feeds.dzone.com
 !-E
 ||www.echofon.com
+||epc-jav.com
 ||s.evernote.com
 ||evhead.com
 !-F
@@ -1064,6 +1069,7 @@ hrichina.org
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 blogs.icerocket.com/tag
+||icl-fi.org
 ||iconpaper.org
 w.idaiwan.com/forum
 .identi.ca
@@ -1244,6 +1250,7 @@ mail-archive.com
 markmail.org*message
 ||martau.com
 maruta.be/forget
+.marxist.com
 ||marxist.net
 mashable.com
 ||mashable.com
@@ -1257,6 +1264,7 @@ lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%B
 ||megarotic.com
 ||megaupload.com
 megavideo.com
+meirixiaochao.com
 ||melon-peach.com
 memedia.cn
 .metacafe.com
@@ -1311,6 +1319,7 @@ mrtweet.com
 ||multiply.com
 forum.mymaji.com
 multiupload.com
+||muouju.com
 ||muzi.com
 ||muzi.net
 ||myaudiocast.com
@@ -1896,6 +1905,7 @@ thepiratebay.org
 ||thesartorialist.com
 ||thesponty.com
 ||thetibetpost.com
+thetrotskymovie.com/
 thevivekspot.com
 .thisav.com
 |http://thisav.com
