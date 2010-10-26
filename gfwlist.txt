@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eX30R1rjOX/v/69weogtuQ
+! Checksum: yEWV6fVQ+3FwvUKsHRi9hw
 ! Expires: 6h
-! Last Modified: Sun, 24 Oct 2010 16:52:04 +0800
+! Last Modified: Tue, 26 Oct 2010 13:15:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -352,6 +352,8 @@ chinesenewsnet.com
 .chinesetalks.net/ch
 .chingcheong.com
 ||chingcheong.com
+christianstudy.com
+||christianstudy.com
 !--same ip
 ||chrispederick.com
 ||chrispederick.net
@@ -580,6 +582,7 @@ freeman2.com
 ||fofg.org
 .fooooo.com
 ||fooooo.com
+||fourthinternational.org
 ||foxdie.us
 ||franklc.com
 ||puttycm.free.fr
@@ -602,8 +605,6 @@ friendfeed.com
 ||frommel.net
 ||fscked.org
 .fsurf.com
-.ftchinese.com
-|http://ftchinese.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
@@ -730,6 +731,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 @@||git.chromium.org
 @@||planet.chromium.org
 @@||src.chromium.org
+||clementine-player.org
 ||rss.cnn.com
 !-D
 ||dailytodo.org
@@ -1089,6 +1091,8 @@ igfw.tk
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
+.imdb.com
+|http://imdb.com
 .img.ly
 ||img.ly
 .imkev.com
@@ -1183,6 +1187,7 @@ laomiu.com
 latelinenews.com
 ||leecheukyan.org
 t.leeiio.me
+||leftgamerreview.org
 ||lenwhite.com
 li2z.cn/t
 .lianyue.net
@@ -1394,10 +1399,12 @@ nobelprize.org/nobel_prizes/peace/laureates/2010
 ||noobbox.com
 ||notebookaddon.tk
 ||novelasia.com
-.nownews.com/cybersex
-.nownews.com/box
-||blog.nownews.com
-forum.nownews.com
+.nownews.com
+||nownews.com
+!.nownews.com/cybersex
+!.nownews.com/box
+!||blog.nownews.com
+!forum.nownews.com
 .nowtorrents.com
 .nps.gov
 bbs.nsysu.edu.tw
@@ -1495,6 +1502,7 @@ philly.com
 ||photofocus.com
 ||photou.in
 .picidae.net
+||img*.picturedip.com
 picturesocial.com
 .pidown.com
 .pign.net
@@ -2717,6 +2725,7 @@ zh.wikipedia.org*%E8%B4%BA%E5%9B%BD%E5%BC%BA
 zh.wikipedia.org*%E6%B2%B3%E6%AE%87
 !--Hou De Jian
 zh.wikipedia.org*%E4%BE%AF%E5%BE%B7%E5%BB%BA
+zh.wikipedia.org*%E4%BE%AF%E8%B5%9B%E5%9B%A0%E6%B1%9F
 !--Hu Jia (She Hui Huo Dong Jia) (+Redir)
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%281973%E5%B9%B4%29
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
