@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7sEdrLBnXi3p+iE8+oO0fA
+! Checksum: 8XqthrBEDLlQRYCGDSlDCA
 ! Expires: 6h
-! Last Modified: Sat, 30 Oct 2010 10:50:29 +0800
+! Last Modified: Sat, 30 Oct 2010 20:29:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1653,7 +1653,7 @@ ranyunfei.com
 ||rapidshare8.com
 .rapidsharedata.com
 rapidscan.me
-+|http://rapidscan.me
+|http://rapidscan.me
 rcinet.ca
 .read100.com
 .readingtimes.com.tw
