@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jQxMO8j8TL2YoqPkuAAYKQ
+! Checksum: 7sEdrLBnXi3p+iE8+oO0fA
 ! Expires: 6h
-! Last Modified: Fri, 29 Oct 2010 11:47:19 +0800
+! Last Modified: Sat, 30 Oct 2010 10:50:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -809,6 +809,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||milazi.com
 ||twitter.missiu.com
 ||feeds.mobileread.com
+||www.modernizr.com
 ||mytwishirt.com
 !-N
 ||needjav.net
