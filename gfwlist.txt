@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8XqthrBEDLlQRYCGDSlDCA
+! Checksum: lWyOhGkIOlHaounRcQU17w
 ! Expires: 6h
-! Last Modified: Sat, 30 Oct 2010 20:29:31 +0800
+! Last Modified: Sat, 30 Oct 2010 21:03:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -382,6 +382,7 @@ comefromchina.com
 .coolaler.com
 ||coolaler.com
 ||coolloud.org.tw
+corumcollege.com
 cpj.org
 ||cpj.org/
 crackle.com
@@ -522,6 +523,7 @@ epochtimes.com
 etaiwannews.com
 ||etizer.org
 www.eulam.com
+||everdark.info
 ||exploader.net
 eyny.com
 .ezpc.tk/category/soft
@@ -673,6 +675,7 @@ gongminliliang.com
 ||goodreads.com
 .goodreaders.com
 ||goodreaders.com
+||goofind.com
 .googlesile.com
 .gopetition.com
 ||gopetition.com
@@ -690,6 +693,7 @@ gs-discuss.com
 ||gtkforums.com
 ||gtricks.com
 ||gutteruncensored.com
+.gzm.tv
 ||gzone-anime.info
 
 !-------------Google Code-----
@@ -1082,6 +1086,7 @@ w.idaiwan.com/forum
 .identi.ca
 ||identi.ca
 .idouga.com
+forum.idsam.com
 .idv.tw
 .ifanr.com/857
 .ifcss.org
@@ -1654,6 +1659,7 @@ ranyunfei.com
 .rapidsharedata.com
 rapidscan.me
 |http://rapidscan.me
+.rayfme.com/bbs
 rcinet.ca
 .read100.com
 .readingtimes.com.tw
@@ -1885,6 +1891,7 @@ blog.syx86.cn/2009/09/puff
 !--------------------------TT--------------------------
 .t35.com
 .t66y.com
+||t66y.com
 .tacem.org
 ||tagwalk.com
 .taiwandaily.net
@@ -2171,6 +2178,7 @@ twitthat.com
 twiyia.com
 .twreg.info
 ||twreg.info
+||twstar.net
 .twtkr.com
 |http://twtkr.com
 .tycool.com
@@ -3001,7 +3009,7 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 !--Ling Ba Xian Zhang--WikiSource
 zh.wikisource.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
-
+zh.wikipedia.org/wiki/Special:Contributions
 !------Temporary
 !-----2009/11
 !-YeMianCunFeiTaoLun/JiLu/2009/11/04
