@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lWyOhGkIOlHaounRcQU17w
+! Checksum: TjHDrLlRwLeOCIrgFp20Ng
 ! Expires: 6h
-! Last Modified: Sat, 30 Oct 2010 21:03:44 +0800
+! Last Modified: Tue, 02 Nov 2010 22:36:00 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -16,10 +16,10 @@ t.16class.cn
 ||173ng.com
 .17e.org
 ||17e.org
-.1984bbs.org
-|http://1984bbs.org
 1984bbs.com
 ||1984bbs.com
+.1984bbs.org
+||1984bbs.org
 .1bao.org
 ||1free.ws
 ||1pondo.tv
@@ -260,6 +260,7 @@ www.ibros.org
 ||yibada.com
 ||buugaa.com
 buzzurl.jp
+||bythehost15.com
 ||blambin.byethost16.com
 holz.byethost8.com
 
@@ -809,11 +810,13 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.louisgray.com
 !-M
 ||madebysofa.com
+||mademoisellerobot.com
 ||masamixes.com
 ||milazi.com
 ||twitter.missiu.com
 ||feeds.mobileread.com
 ||www.modernizr.com
+||modk.it
 ||mytwishirt.com
 !-N
 ||needjav.net
@@ -849,6 +852,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||tagxedo.com
 ||blog.tatoeba.org
 ||www.techfob.com
+||the8pen.com
 ||theiphonewiki.com
 ||blog.thesilentnumber.me
 ||transparentuptime.com
@@ -1310,10 +1314,12 @@ mitbbs.com
 .mixx.com
 ||mixx.com
 ||mizzmona.com
+.mk5000.com
 .mlcool.com
 ||mmaaxx.com
 plurktop.mmdays.com
 ||mobatek.net
+.mobile01.com
 .mobypicture.com
 ||mobypicture.com
 ||mondex.org
@@ -2859,6 +2865,9 @@ zh.wikipedia.org*%E9%87%8A%E6%98%9F%E4%BA%91
 zh.wikipedia.org*%E5%9B%9B%E4%BA%94%E8%A1%8C%E5%8B%95
 !--Song Bing Bing
 zh.wikipedia.org*%E5%AE%8B%E5%BD%AC%E5%BD%AC
+!--Song Ren Qiong(chs/cht)
+zh.wikipedia.org*%E5%AE%8B%E4%BB%BB%E7%A9%B7
+zh.wikipedia.org*%E5%AE%8B%E4%BB%BB%E7%AA%AE
 !--Su Jia Tun Shi Jian
 zh.wikipedia.org*%E8%8B%8F%E5%AE%B6%E5%B1%AF%E4%BA%8B%E4%BB%B6
 !--Tan Zuo Ren
