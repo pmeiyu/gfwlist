@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TjHDrLlRwLeOCIrgFp20Ng
+! Checksum: KoWmxbWC16qGOXdijkE6Nw
 ! Expires: 6h
-! Last Modified: Tue, 02 Nov 2010 22:36:00 +0800
+! Last Modified: Sun, 07 Nov 2010 12:31:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -496,6 +496,7 @@ www.dwheeler.com
 .dwnews.com
 ||dwnews.com
 xys.dxiong.com
+dy24k.info
 ||dynawebinc.com
 .dzze.com
 
@@ -525,6 +526,8 @@ etaiwannews.com
 ||etizer.org
 www.eulam.com
 ||everdark.info
+||exblog.jp
+@@||www.exblog.jp
 ||exploader.net
 eyny.com
 .ezpc.tk/category/soft
@@ -535,6 +538,8 @@ eyny.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
 ||fbcdn.net
+||fb.me
+@@||on.fb.me
 fanqiangyakexi.net
 fail.hk
 ||failforum.net
@@ -763,6 +768,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||flightsimtalk.com
 ||mclee.foolme.net
 ||www.frienddeck.com
+||fringetelevision.com
 !-G
 ||blog.gatein.org
 ||feeds.gawker.com
@@ -848,6 +854,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||sns.ly
 ||ssbook.com
 ||sunjidong.net
+||syniumsoftware.com
 !-T
 ||tagxedo.com
 ||blog.tatoeba.org
@@ -855,6 +862,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||the8pen.com
 ||theiphonewiki.com
 ||blog.thesilentnumber.me
+||blog.think-async.com
 ||transparentuptime.com
 ||triangulationblog.com
 ||twazzup.com
@@ -942,6 +950,8 @@ google*search*q=cache
 .google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men
 google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
+!--Tian Mie
+.google.*q=%E5%A4%A9%E7%81%AD
 !--Wang Gang
 google*search*%E7%8E%8B%E5%88%9A
 !--Wang Yang
@@ -1131,6 +1141,7 @@ forum.iset.com.tw
 .islam.org.hk
 .isaacmao.com
 ||isaacmao.com
+||isgreat.org
 ||ismprofessional.net
 isohunt.com
 blog.istef.info/2007/10/21/myentunnel
@@ -1378,6 +1389,7 @@ t.neolee.cn
 net.ru
 netcolony.com
 bolin.netfirms.com
+zh.netlog.com
 netme.cc
 networkedblogs.com
 neverforget8964.org
@@ -1547,6 +1559,7 @@ plurk.com
 ||podictionary.com
 .pokerstars.com
 ||pokerstars.com
+zh.pokerstrategy.com
 ||popularpages.net
 .popyard.com
 ||popyard.org
@@ -2404,8 +2417,6 @@ zhenxiang.wordpress.com
 .wqyd.org
 ||wqyd.org
 wretch.cc
-cn.wsj.com
-chinese.wsj.com
 .wtfpeople.com
 wuerkaixi.com
 wufi.org.tw
