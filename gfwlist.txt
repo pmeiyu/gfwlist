@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KoWmxbWC16qGOXdijkE6Nw
+! Checksum: 2BGBX8oBdNWX2dvHu9RSig
 ! Expires: 6h
-! Last Modified: Sun, 07 Nov 2010 12:31:50 +0800
+! Last Modified: Mon, 08 Nov 2010 14:54:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -150,6 +150,7 @@ asiademo.org
 ||asiaharvest.org
 asianews.it
 ||asianwomensfilm.de
+||askstudent.com
 .askynz.net
 ||askynz.net
 ||astonmartinnews.com
@@ -2355,6 +2356,7 @@ zh.uncyclopedia.wikia.com
 ||willw.net
 ||windowsphoneme.com
 winwhispers.info
+||wiredbytes.com
 ||wiredpen.com
 wjd.name
 .wo.tc
