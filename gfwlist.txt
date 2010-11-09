@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2BGBX8oBdNWX2dvHu9RSig
+! Checksum: 7TpcSygUUL7mvFtDqfvicQ
 ! Expires: 6h
-! Last Modified: Mon, 08 Nov 2010 14:54:33 +0800
+! Last Modified: Tue, 09 Nov 2010 21:34:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -304,8 +304,6 @@ cdpwu.org
 ||chandoo.org
 .changp.com
 ||changp.com
-||digitalnomadsproject.org
-||transgressionism.org
 chengmingmag.com
 ||cherrysave.com
 .china-week.com
@@ -342,6 +340,7 @@ camera.chinatimes.com
 gb.chinatimes.com/gate/gb*2007Cti-News
 news.chinatimes.com/2007Cti*0,4521,130505
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
+chinatweeps.com
 chinaway.org
 .chinaworker.info
 ||chinaworker.info
@@ -448,6 +447,7 @@ delicious.com/GFWbookmark
 ||digitalalchemy.tv
 .diaoyuislands.org
 ||diaoyuislands.org
+||digitalnomadsproject.org
 .diigo.com
 ||diigo.com
 .discuss.com.hk
@@ -2002,6 +2002,7 @@ touch99.com
 ||totalcmd.net
 ||toutfr.com
 ||trackon.org
+||transgressionism.org
 ||travelinlocal.com
 .trialofccp.org
 ||trialofccp.org
