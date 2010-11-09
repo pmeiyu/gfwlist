@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7TpcSygUUL7mvFtDqfvicQ
+! Checksum: noOLy53cNuTAXBDGgsLK0g
 ! Expires: 6h
-! Last Modified: Tue, 09 Nov 2010 21:34:49 +0800
+! Last Modified: Tue, 09 Nov 2010 22:12:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -33,6 +33,7 @@ bbs.1tor.com
 ||3b8.cc/
 ||3dtin.com
 4.gp
+||4bluestones.biz
 taiwannation.50webs.com
 ||bbs.51.ca
 blog.51.ca
@@ -84,6 +85,7 @@ adultfriendfinder.com
 .aisex.com
 ||ait.org.tw
 blog.aiweiwei.com
+||blog.aiweiwei.com
 .aiweiweiblog.com
 ||aiweiweiblog.com
 ||aiyori.org
@@ -1190,6 +1192,7 @@ kanzhongguo.com
 .kenengba.com
 ||kenengba.com
 wiki.keso.cn/Home
+||keyfans.com
 .khmusic.com.tw
 kinghost.com
 .kingstone.com.tw
@@ -2189,6 +2192,7 @@ twitterfeed.com
 ||twittergadget.com
 .twitterkr.com
 ||twitterkr.com
+||twittermail.com
 twittertim.es
 ||twittertim.es
 twitthat.com
@@ -2402,15 +2406,21 @@ worldjournal.com
 ||blog.wakoopa.com
 ||wattsupwiththat.com
 ||webmink.com
-caiting666.wordpress.com
-rfaunplugged.wordpress.com
-xijie.wordpress.com
-zh-cn.wordpress.com
-zh-sg.wordpress.com
-zhenxiang.wordpress.com
+!-caiting666.wordpress.com
+!-rfaunplugged.wordpress.com
+!-zh-cn.wordpress.com
+!-zh-sg.wordpress.com
+!-zhenxiang.wordpress.com
+||wordpress.com
+@@|http://wordpress.com
+@@|https://wordpress.com
+@@||files.wordpress.com
 ||android.wordpress.org
 ||ios.wordpress.org
 ||wp.com
+@@||s0.wp.com
+@@||s1.wp.com
+@@||s2.wp.com
 ||wormsculptor.com
 ||tw.wowarmory.com
 ||wp.me
