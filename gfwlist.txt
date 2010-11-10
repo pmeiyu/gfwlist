@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: t1TduhobQYUlsIjqQRbpxg
+! Checksum: wyyxqy2mfZYYwXP+aaT5SA
 ! Expires: 6h
-! Last Modified: Wed, 10 Nov 2010 09:11:14 +0800
+! Last Modified: Wed, 10 Nov 2010 21:10:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2317,6 +2317,7 @@ washeng.net
 .wearn.com
 ||wearn.com
 ||web2project.net
+webbang.net
 webs-tv.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
