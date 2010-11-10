@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8Qyyhaj/Ls3Uck1pqphPPQ
+! Checksum: Iy9+We5MGJIJvMPZPH0KiA
 ! Expires: 6h
-! Last Modified: Thu, 11 Nov 2010 01:02:16 +0800
+! Last Modified: Thu, 11 Nov 2010 01:47:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1227,8 +1227,9 @@ libertytimes.com.tw
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 .linglingfa.com
 ||linksalpha.com
-||linuxconfig.org
 ||linux-engineer.net
+||linuxconfig.org
+||linuxreviews.org
 .lipuman.com
 ||liudejun.com
 liuxiaotong.com
@@ -2137,6 +2138,7 @@ tweetphoto.com
 ||tweetrans.com
 ||tweetwally.com
 tweetymail.com
+||twforum.com
 twibase.com
 .twibble.de
 ||twibble.de
