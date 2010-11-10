@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: noOLy53cNuTAXBDGgsLK0g
+! Checksum: t1TduhobQYUlsIjqQRbpxg
 ! Expires: 6h
-! Last Modified: Tue, 09 Nov 2010 22:12:03 +0800
+! Last Modified: Wed, 10 Nov 2010 09:11:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2406,21 +2406,17 @@ worldjournal.com
 ||blog.wakoopa.com
 ||wattsupwiththat.com
 ||webmink.com
-!-caiting666.wordpress.com
-!-rfaunplugged.wordpress.com
-!-zh-cn.wordpress.com
-!-zh-sg.wordpress.com
-!-zhenxiang.wordpress.com
+caiting666.wordpress.com
+rfaunplugged.wordpress.com
+zh-cn.wordpress.com
+zh-sg.wordpress.com
+zhenxiang.wordpress.com
 ||wordpress.com
 @@|http://wordpress.com
 @@|https://wordpress.com
 @@||files.wordpress.com
 ||android.wordpress.org
 ||ios.wordpress.org
-||wp.com
-@@||s0.wp.com
-@@||s1.wp.com
-@@||s2.wp.com
 ||wormsculptor.com
 ||tw.wowarmory.com
 ||wp.me
