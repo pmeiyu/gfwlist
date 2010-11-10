@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wyyxqy2mfZYYwXP+aaT5SA
+! Checksum: 8Qyyhaj/Ls3Uck1pqphPPQ
 ! Expires: 6h
-! Last Modified: Wed, 10 Nov 2010 21:10:03 +0800
+! Last Modified: Thu, 11 Nov 2010 01:02:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -879,7 +879,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||tp.vbap.com.au
 !-W
 ||www.wavesandbox.com
-||t.webbang.net
 ||webfee.org.ru
 ||blog.webmproject.org
 ||willhains.com
@@ -2222,7 +2221,6 @@ t.fishnote.net
 twitter.fishnote.net
 tuite.im
 tuite.in
-twitese.webbang.net
 
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
@@ -2413,6 +2411,7 @@ zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
 ||wordpress.com
+|http://wp.com/
 @@|http://wordpress.com
 @@|https://wordpress.com
 @@||files.wordpress.com
