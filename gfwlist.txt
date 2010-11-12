@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: T37C9isF614DaMdyT2x/Tg
+! Checksum: pN44AL4PmRiaz0I3XI4a1w
 ! Expires: 6h
-! Last Modified: Fri, 12 Nov 2010 07:41:13 +0000
+! Last Modified: Fri, 12 Nov 2010 20:33:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -162,6 +162,7 @@ asianews.it
 .atnext.com
 ||atnext.com
 .autoproxy.org
+|http://autoproxy.org
 ||avidemux.org
 ||avoision.com
 ||axureformac.com
@@ -359,6 +360,8 @@ chinesenewsnet.com
 ||chingcheong.com
 christianstudy.com
 ||christianstudy.com
+chuizi.net
+||chuizi.net
 !--same ip
 ||chrispederick.com
 ||chrispederick.net
@@ -585,6 +588,7 @@ flickr.com/photos/vanvan/529925157
 yuming.flnet.org
 blog.foolsmountain.com
 www.forum4hk.com
+pioneer-worker.forums-free.com
 foursquare.com
 ||fotop.net
 .free.fr/adsl
@@ -781,6 +785,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||gmer.net
 ||blog.go2web20.net
 ||blog.google.org
+||blog.golang.org
 ||govecn.org
 ||graphycalc.com
 ||www.greasespot.net
@@ -1413,6 +1418,8 @@ forum.newsgroup.la
 ||newspace21.com
 newspeak.cc/story
 newstin.com
+newtalk.tw
+||newtalk.tw
 hk*.nextmedia.com
 tw*.nextmedia.com
 ||nexton-net.jp
@@ -1545,6 +1552,7 @@ picturesocial.com
 ||pingmicro.com
 ||pinoy-n.com
 .piring.com
+||pixelqi.com
 ||s.pixfs.net
 ||css.pixnet.in
 ||pixnet.net
