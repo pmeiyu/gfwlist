@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pN44AL4PmRiaz0I3XI4a1w
+! Checksum: eEfOz+bi2yVWR3ll5Q3Y0Q
 ! Expires: 6h
-! Last Modified: Fri, 12 Nov 2010 20:33:44 +0800
+! Last Modified: Sun, 14 Nov 2010 14:49:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -270,6 +270,7 @@ buzzurl.jp
 holz.byethost8.com
 
 !--------------------------CC--------------------------
+||c-est-simple.com
 .cafepress.com
 .calameo.com/books
 .cn.calameo.com
@@ -508,6 +509,8 @@ dy24k.info
 .dzze.com
 
 !------------------------EE------------------------
+||e-gold.com
+.e-gold.com
 e-info.org.tw
 .e-traderland.net/board
 hkjp.easyweb.hk
@@ -1381,6 +1384,7 @@ vids.myspace.com/index.cfm?fuseaction=vids.
 viewmorepics.myspace.com
 
 !--------------------------NN--------------------------
+old.nabble.com
 ||naitik.net
 ||namsisi.com
 ||navicat.com
@@ -1512,7 +1516,6 @@ paperb.us
 .panoramio.com/forum
 .parade.com/dictators/2009
 pastebin.ca
-||pastebin.com
 .pastie.org
 ||pastie.org
 ||blog.pathtosharepoint.com
@@ -2406,6 +2409,7 @@ worldjournal.com
 ||blog.polldaddy.com
 ||rawfoodsos.com
 ||rayous.com
+||semicolonapps.com
 ||sharpinsandiego.com
 ||smedio.com
 ||blog.symbian.org
