@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eEfOz+bi2yVWR3ll5Q3Y0Q
+! Checksum: Icz7IxRZg8Q+onjigho5Dw
 ! Expires: 6h
-! Last Modified: Sun, 14 Nov 2010 14:49:08 +0800
+! Last Modified: Sat, 20 Nov 2010 21:15:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -732,6 +732,7 @@ docs.google.com*dgtbmwd6_934gg99v6g4cc
 docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
+||20thingsilearned.com
 !-A
 ||abelhadigital.com
 ||blog.aegisub.org
@@ -1766,6 +1767,7 @@ scribd.com
 secretchina.com
 ||secretgarden.no
 seesmic.com
+||seesmic.com
 ||seezone.net
 sejie.com
 .sendspace.com/file
@@ -2103,6 +2105,7 @@ bbs.tuitui.info
 ||blog.mongodb.org
 ||navigeaters.com
 ||blog.opentumblr.com
+||blog.path.com
 ||blog.pikchur.com
 ||thedailywh.at
 ||thechangelog.com
@@ -2299,6 +2302,7 @@ video.tiscali.it/canali/truveo
 .vimeo.com
 ||vimeo.com
 ||vinniev.com
+voachineseblog.com/heqinglian
 voanews.com/chinese
 .vot.org
 ||vox.com/
@@ -2514,6 +2518,7 @@ yeeyi.com
 ||yidio.com
 ||yihanfans.org
 yilubbs.com
+xa.yimg.com
 .yipub.com
 ||yipub.com
 ||yixiaocuo.com
