@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Icz7IxRZg8Q+onjigho5Dw
+! Checksum: v/cjOS4fcnv6XIdRB6W4sA
 ! Expires: 6h
-! Last Modified: Sat, 20 Nov 2010 21:15:34 +0800
+! Last Modified: Mon, 22 Nov 2010 01:35:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -588,6 +588,7 @@ fleshbot.com
 .flickr.com/photos/fzhenghu
 flickr.com/photos/vanvan/529925157
 .flickr.com/photos/winterkanal
+flickrhivemind.net
 yuming.flnet.org
 blog.foolsmountain.com
 www.forum4hk.com
