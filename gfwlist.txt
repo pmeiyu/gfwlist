@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: v/cjOS4fcnv6XIdRB6W4sA
+! Checksum: zMQzm0rKqYZ19neoEDrZOQ
 ! Expires: 6h
-! Last Modified: Mon, 22 Nov 2010 01:35:25 +0800
+! Last Modified: Thu, 25 Nov 2010 12:26:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -74,6 +74,7 @@ a5.com.ru
 ||aboutus.org
 ||academicearth.com
 ||acgkj.com
+||addictedtocoffee.de
 ||forum.addonsmirror.net
 ||wiki.addonsmirror.net
 .adult168.com
@@ -105,6 +106,7 @@ alliance.org.hk
 |http://allinfa.com
 ||allinfo.com
 ||alternate-tools.com
+nc.alwaysdata.net
 ||americangreencard.com
 ||amiblockedornot.com
 .amnesty.org
@@ -625,6 +627,7 @@ www.freetibet.org
 ||freewallpaper4.me
 .freexinwen.com
 friendfeed.com
+friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 ||frommel.net
 ||fscked.org
 .fsurf.com
@@ -832,6 +835,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||madebysofa.com
 ||mademoisellerobot.com
 ||masamixes.com
+||blog.metasploit.com
 ||milazi.com
 ||twitter.missiu.com
 ||feeds.mobileread.com
@@ -1071,6 +1075,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 ||hk32168.com
 .hkbf.org
 hkday.net
+.hkej.com/template/forum
 .hkepc.com/forum/viewthread.php?tid=1153322
 global.hkepc.com*forum
 hkgolden.com
@@ -2319,6 +2324,7 @@ waikeung.org/php_wind
 .waiwaier.com
 |http://waiwaier.com
 wallornot.org
+||wallpapercasa.com
 ||www.wan-press.org
 ||wanderinghorse.net
 ||wangafu.net
@@ -2527,6 +2533,8 @@ xa.yimg.com
 ||yogichen.org
 yong.hu
 forum.yorkbbs.ca
+.yyii.org
+||yyii.org
 .yzzk.com
 ||yzzk.com
 
