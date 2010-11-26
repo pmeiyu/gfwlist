@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zMQzm0rKqYZ19neoEDrZOQ
+! Checksum: +6ai+RbQIVp20I+AcLttBw
 ! Expires: 6h
-! Last Modified: Thu, 25 Nov 2010 12:26:09 +0800
+! Last Modified: Fri, 26 Nov 2010 14:23:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -393,6 +393,7 @@ comefromchina.com
 ||coolaler.com
 ||coolloud.org.tw
 corumcollege.com
+||blog.couchone.com
 cpj.org
 ||cpj.org/
 crackle.com
