@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +6ai+RbQIVp20I+AcLttBw
+! Checksum: sy43v/9Bi2v47m9Mz/xM+Q
 ! Expires: 6h
-! Last Modified: Fri, 26 Nov 2010 14:23:25 +0800
+! Last Modified: Sat, 27 Nov 2010 13:22:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -773,6 +773,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||mail.diyang.org
 ||blog.doughellmann.com
 ||downforeveryoneorjustme.com
+||dropmocks.com
 ||dumblittleman.com
 ||feeds.dzone.com
 !-E
@@ -862,6 +863,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-R
 ||r-chart.com
 ||blog.reddit.com
+||feeds.reuters.com
 ||robertmao.com
 ||ghs.romeo-foxtrot.com
 !-S
@@ -2016,6 +2018,7 @@ tldp.org
 tokyo-hot.com
 .toodoc.com
 .topnews.in
+||topshare.us
 .topshareware.com
 ||topstyle4.com
 ||topsy.com
@@ -2109,6 +2112,7 @@ bbs.tuitui.info
 ||madmenfootnotes.com
 ||marco.org
 ||minimalmac.com
+||modfetish.com
 ||blog.mongodb.org
 ||navigeaters.com
 ||blog.opentumblr.com
