@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: cCuYQqG/6h5a7ieisXZ/3A
+! Checksum: k0dp0pIgG2wrPjE7RMVnhA
 ! Expires: 6h
-! Last Modified: Sun, 28 Nov 2010 18:05:29 +0800
+! Last Modified: Sun, 28 Nov 2010 22:12:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1898,6 +1898,7 @@ soundofhope.org
 ||soupofmedia.com
 sourceforge.net/projects/portabletor/files/
 sowers.org.hk
+||wlx.sowiki.net
 ||space-scape.com
 .spankwire.com
 .speedpluss.org
@@ -2342,7 +2343,6 @@ wallornot.org
 ||wanderinghorse.net
 ||wangafu.net
 wanglixiong.com
-||wlx.sowiki.net
 wangruoshui.net
 www.wangruowang.org
 wapedia.mobi/zhsimp
@@ -2387,7 +2387,6 @@ wg1966.com
 ||wikia.com
 @@||images.wikia.com
 zh.uncyclopedia.wikia.com
-||wikiwiki.jp
 .wikileaks.org
 ||wikileaks.org
 ||collateralmurder.com
@@ -2395,6 +2394,8 @@ zh.uncyclopedia.wikia.com
 ||wikimapia.org
 ||secure.wikimedia.org
 ||wikimedia.org.mo
+zh.wikisource.org
+||wikiwiki.jp
 ||willw.net
 ||windowsphoneme.com
 winwhispers.info
