@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: d/ZXaXxZLA8YJ6XIjuTpIw
+! Checksum: r9m8QefqO6pVUiOYOMVG3Q
 ! Expires: 6h
-! Last Modified: Sun, 28 Nov 2010 22:56:44 +0800
+! Last Modified: Sun, 28 Nov 2010 23:10:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2398,7 +2398,6 @@ zh.uncyclopedia.wikia.com
 ||wikimapia.org
 ||secure.wikimedia.org
 ||wikimedia.org.mo
-zh.wikisource.org
 ||wikiwiki.jp
 ||willw.net
 ||windowsphoneme.com
@@ -3085,7 +3084,7 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zhou
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 !--Ling Ba Xian Zhang--WikiSource
-zh.wikisource.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
+!--zh.wikisource.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 zh.wikipedia.org/wiki/Special:Contributions
 zh.wikisource.org
 !------Temporary
