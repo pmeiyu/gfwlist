@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /aRgxvWo13WYYzLkoBc66A
+! Checksum: JtMgXjwWuUm4qZ0G3ZHiiQ
 ! Expires: 6h
-! Last Modified: Sun, 28 Nov 2010 11:26:57 +0800
+! Last Modified: Sun, 28 Nov 2010 13:16:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -49,7 +49,6 @@ info.51.ca
 6park.com
 ||6park.com
 ||www.6v6dota.com
-||72pines.com
 ||7capture.com
 ||7ztm.de.vu
 .8000.com
@@ -277,6 +276,7 @@ holz.byethost8.com
 .calameo.com/books
 .cn.calameo.com
 |http://cn.calameo.com
+canadameet.com
 ||canonfilmmakerslive.com
 .canyu.org
 .cao.im
@@ -886,6 +886,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.think-async.com
 ||transparentuptime.com
 ||triangulationblog.com
+||blog.tsunanet.net
 ||twazzup.com
 ||art.twgg.org
 ||twivert.com
@@ -1397,6 +1398,7 @@ viewmorepics.myspace.com
 old.nabble.com
 ||naitik.net
 ||namsisi.com
+||naveensrinivasan.com
 ||navicat.com
 .nakido.com
 ||nakido.com
@@ -2067,6 +2069,7 @@ bbs.tuitui.info
 @@||static.tumblr.com
 ||301works.org
 ||365singles.com.ar
+||art-or-porn.com
 ||news.atebits.com
 ||tumblr.awflasher.com
 ||basetimesheightdividedby2.com
@@ -2324,6 +2327,8 @@ www.voy.com
 !--------------------------WW--------------------------
 lists.w3.org/archives/public
 ||waffle1999.com
+.jyzj.waqn.com
+http://jyzj.waqn.com
 .wahas.com
 .waigaobu.com
 waikeung.org/php_wind
@@ -2422,6 +2427,7 @@ worldjournal.com
 ||mynokiablog.com
 ||nandalala.com
 ||p2theme.com
+||pixelbread.com
 ||blog.pixelpipe.com
 ||blog.polldaddy.com
 ||rawfoodsos.com
