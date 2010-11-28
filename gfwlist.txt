@@ -1,10 +1,12 @@
 [AutoProxy 0.2.9]
-! Checksum: k0dp0pIgG2wrPjE7RMVnhA
+! Checksum: d/ZXaXxZLA8YJ6XIjuTpIw
 ! Expires: 6h
-! Last Modified: Sun, 28 Nov 2010 22:12:27 +0800
+! Last Modified: Sun, 28 Nov 2010 22:56:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
+.0rz.tw
+||0rz.tw
 1-apple.com.tw
 ||1-apple.com.tw
 ||121pp.com
@@ -723,6 +725,7 @@ gs-discuss.com
 code.google.com/p/gappproxy
 code.google.com/p/autoproxy/updates/list
 code.google.com/p/program-think/wiki/Software
+code.google.com/p/scholarzhang
 code.google.com/p/twitese
 
 !-------------Google Docs-----
@@ -1251,6 +1254,7 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||linux-engineer.net
 ||linuxconfig.org
 ||linuxreviews.org
+linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lipuman.com
 ||liudejun.com
 liuxiaotong.com
@@ -3083,6 +3087,7 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 !--Ling Ba Xian Zhang--WikiSource
 zh.wikisource.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 zh.wikipedia.org/wiki/Special:Contributions
+zh.wikisource.org
 !------Temporary
 !-----2009/11
 !-YeMianCunFeiTaoLun/JiLu/2009/11/04
