@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: P78EvUYi0eWqYpYSimXpuQ
+! Checksum: /aRgxvWo13WYYzLkoBc66A
 ! Expires: 6h
-! Last Modified: Sun, 28 Nov 2010 11:04:24 +0800
+! Last Modified: Sun, 28 Nov 2010 11:26:57 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -441,7 +441,7 @@ daxa.cn
 ||daxa.cn/
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
-||debian.org
+packages.debian.org/zh-cn/lenny/gpass
 ||www.debugmode.com
 ||delcamp.net
 delicious.com/GFWbookmark
