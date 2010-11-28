@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JtMgXjwWuUm4qZ0G3ZHiiQ
+! Checksum: cCuYQqG/6h5a7ieisXZ/3A
 ! Expires: 6h
-! Last Modified: Sun, 28 Nov 2010 13:16:35 +0800
+! Last Modified: Sun, 28 Nov 2010 18:05:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -393,6 +393,7 @@ comefromchina.com
 ||coolaler.com
 ||coolloud.org.tw
 corumcollege.com
+||couchdbwiki.com
 ||blog.couchone.com
 cpj.org
 ||cpj.org/
@@ -1309,6 +1310,7 @@ maruta.be/forget
 .marxists.org/chinese
 mashable.com
 ||mashable.com
+||matainja.com
 ||mathiew-badimon.com
 .md-t.org
 ||md-t.org
