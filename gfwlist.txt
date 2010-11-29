@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9cS5/l7J2oMR2S5Vrnk0JQ
+! Checksum: SwoFzQtHxSr19cHghfTnXQ
 ! Expires: 6h
-! Last Modified: Mon, 29 Nov 2010 20:51:42 +0800
+! Last Modified: Mon, 29 Nov 2010 23:56:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -844,6 +844,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||madebysofa.com
 ||mademoisellerobot.com
 ||masamixes.com
+||www.metamuse.net
 ||blog.metasploit.com
 ||milazi.com
 ||twitter.missiu.com
