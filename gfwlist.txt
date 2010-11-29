@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: r9m8QefqO6pVUiOYOMVG3Q
+! Checksum: 23z3ez/1hldVh+qHATeFOA
 ! Expires: 6h
-! Last Modified: Sun, 28 Nov 2010 23:10:03 +0800
+! Last Modified: Mon, 29 Nov 2010 18:21:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -215,6 +215,7 @@ bjzc.org
 ||bjzc.org/
 ||blackra1n.com
 ||limera1n.com
+||limesn0w.com
 ||purplera1n.com
 tor.blingblingsquad.net
 .blip.tv
@@ -668,6 +669,7 @@ gardennetworks.com
 .gdbt.net/forum
 gdzf.org
 ||geek-art.net
+geekerhome.com/2010/03/xixiang-project-cross-gfw
 ||geekmanuals.com
 .geocities.co.jp
 .geocities.com/SiliconValley/Circuit/5683/download.html
@@ -811,6 +813,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||huhaitai.com
 ||blog.humanrightsfirst.org
 !-I
+||ihas1337code.com
 ||inote.tw
 ||ironhelmet.com
 ||iwfwcf.com
@@ -1394,7 +1397,7 @@ multiupload.com
 ||myforum.com.uk
 .myfreshnet.com
 ||myparagliding.com
-fongyou.mysinablog.com/index.php
+mysinablog.com
 .blogs.myspace.com
 ||blogs.myspace.com
 vids.myspace.com/index.cfm?fuseaction=vids.
@@ -1482,6 +1485,7 @@ nysingtao.com
 
 !--------------------------OO--------------------------
 ||wiki.oauth.net
+obmem.com
 observechina.net
 ||ogaoga.org
 twtr2src.ogaoga.org
