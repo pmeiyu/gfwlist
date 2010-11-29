@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 23z3ez/1hldVh+qHATeFOA
+! Checksum: 9cS5/l7J2oMR2S5Vrnk0JQ
 ! Expires: 6h
-! Last Modified: Mon, 29 Nov 2010 18:21:42 +0800
+! Last Modified: Mon, 29 Nov 2010 20:51:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -920,7 +920,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-------------Google Search-----
 @@||google.cn
 ||74.125.94.160
-.google.com*/complete/search
+.google.*/complete/search
 /search?q=cache
 /search%3Fq%3Dcache
 %2Fsearch%3Fq%3Dcache
