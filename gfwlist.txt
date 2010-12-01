@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SwoFzQtHxSr19cHghfTnXQ
+! Checksum: U53pQWuQBNQ74WSD8XqtTQ
 ! Expires: 6h
-! Last Modified: Mon, 29 Nov 2010 23:56:45 +0800
+! Last Modified: Wed, 01 Dec 2010 13:35:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -922,6 +922,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 @@||google.cn
 ||74.125.94.160
 .google.*/complete/search
+ww.google.*/complete/search
 /search?q=cache
 /search%3Fq%3Dcache
 %2Fsearch%3Fq%3Dcache
@@ -995,6 +996,8 @@ google*search*%E7%8E%8B%E5%88%9A
 .google.*%E6%9C%88%E6%9C%88
 !--Ying Di
 .google.*%E5%BD%B1%E5%B8%9D
+!--Yu Zheng Sheng
+.google.*search*%E4%BF%9E%E6%AD%A3%E5%A3%B0
 !--Yue Hou Ji Fen
 .google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zhang De Jiang
@@ -1194,6 +1197,7 @@ jieshibaobao.com
 jingpin.org/fuck-gfw-history
 zhao.jinhai.de
 ac.jiruan.net
+|http://jinn.li
 ||jkforum.net
 ||jobso.tv
 ||journalofdemocracy.org
@@ -1491,6 +1495,7 @@ observechina.net
 ||ogaoga.org
 twtr2src.ogaoga.org
 .oikos.com.tw/v4
+.oiktv.com
 oizoblog.com
 old-cat.net
 ||omg-facts.com
