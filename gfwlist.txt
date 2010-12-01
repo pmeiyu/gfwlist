@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: U53pQWuQBNQ74WSD8XqtTQ
+! Checksum: pM+Y9d19pbFWJ+wHwAXISA
 ! Expires: 6h
-! Last Modified: Wed, 01 Dec 2010 13:35:28 +0800
+! Last Modified: Wed, 01 Dec 2010 22:23:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -922,7 +922,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 @@||google.cn
 ||74.125.94.160
 .google.*/complete/search
-ww.google.*/complete/search
 /search?q=cache
 /search%3Fq%3Dcache
 %2Fsearch%3Fq%3Dcache
@@ -1271,10 +1270,9 @@ liu.lu
 ||livingonline.us
 
 !-------------live spaces-----
-chenyehao.spaces.live.com
-china-green-party.spaces.live.com
 cc9007.spaces.live.com
 chenyehao.spaces.live.com
+china-green-party.spaces.live.com
 flowerofhappiness.spaces.live.com
 gufeng521.spaces.live.com
 honeonet.spaces.live.com
@@ -1721,7 +1719,7 @@ ranyunfei.com
 .rapidshare1.com
 ||rapidshare8.com
 .rapidsharedata.com
-rapidscan.me
+.rapidscan.me
 |http://rapidscan.me
 .rayfme.com/bbs
 rcinet.ca
@@ -2501,7 +2499,6 @@ xh4n.cn/blog
 xhamster.com
 one.xthost.info
 s.xiaod.in
-||xiaogaozi.org
 .xiaohexie.com
 ||xiaoma.org
 ||xiaohexie.com
@@ -2565,12 +2562,8 @@ forum.yorkbbs.ca
 ||yyii.org
 .yzzk.com
 ||yzzk.com
-
-!-------------yo2-----
 ||yo2.cn
 ||yo2cdn.com
-||thws.cn/
-
 .youjizz.com
 ||youjizz.com
 youmaker.com
