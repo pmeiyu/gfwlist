@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Zyw+W3ybyhfQxRVsXOnuIA
+! Checksum: EFByL3J9V5tjD9Dt7cfSOg
 ! Expires: 6h
-! Last Modified: Thu, 02 Dec 2010 11:33:47 +0800
+! Last Modified: Fri, 03 Dec 2010 21:25:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -364,6 +364,7 @@ chinesenewsnet.com
 .chinesetalks.net/ch
 .chingcheong.com
 ||chingcheong.com
+chn.chosun.com/servlet/china.ArticleList.ArticleList?code=FFA
 christianstudy.com
 ||christianstudy.com
 chuizi.net
@@ -832,6 +833,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||usbloadergx.koureio.net
 ||blog.kowalczyk.info
 !-L
+||blog.lastpass.com
 ||docs.latexlab.org
 ||blog.lidaobing.info
 ||feeds.limi.net
@@ -895,12 +897,14 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||transparentuptime.com
 ||triangulationblog.com
 ||blog.tsunanet.net
+||en.tuxero.com
 ||twazzup.com
 ||art.twgg.org
 ||twivert.com
 !-U
 ||ub0.cc
 ||jonny.ubuntu-tw.net
+||ukehk.com
 ||ultrasn0w.ca
 !-V
 ||tp.vbap.com.au
@@ -1371,6 +1375,7 @@ plurktop.mmdays.com
 ||mobypicture.com
 ||mondex.org
 c1522.mooo.com
+bbs.morbell.com
 ||morningsun.org
 ||movabletype.com
 ||moviefap.com
@@ -1490,6 +1495,7 @@ nysingtao.com
 ||wiki.oauth.net
 obmem.com
 observechina.net
+||october-review.org
 ||ogaoga.org
 twtr2src.ogaoga.org
 .oikos.com.tw/v4
@@ -1537,6 +1543,7 @@ forum.palmislife.com
 !--Same IP
 ||paper-replika.com
 ||eriversoft.com
+paper.li
 paperb.us
 .panluan.net
 ||panluan.net
@@ -2084,6 +2091,7 @@ bbs.tuitui.info
 @@||static.tumblr.com
 ||301works.org
 ||365singles.com.ar
+||blog.agile.ws
 ||art-or-porn.com
 ||news.atebits.com
 ||tumblr.awflasher.com
@@ -2148,8 +2156,10 @@ bbs.tuitui.info
 ||status.twhirl.org
 !-||status.twitter.com
 ||photo.utom.us
+||whydidyoubuymethat.com
 ||wordboner.com
 ||wordsandturds.com
+||worstthingieverate.com
 ||xmusic.fm
 ||bd.zhe.la
 ||cocoa.zonble.net
@@ -2399,10 +2409,12 @@ wg1966.com
 ||wikia.com
 @@||images.wikia.com
 zh.uncyclopedia.wikia.com
+||wikileaks.ch
 .wikileaks.org
 ||wikileaks.org
 ||collateralmurder.com
 ||collateralmurder.org
+wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wikimapia.org
 ||secure.wikimedia.org
 ||wikimedia.org.mo
@@ -2743,6 +2755,8 @@ zh.wikipedia.org*610%E8%BE%A6%E5%85%AC%E5%AE%A4
 zh.wikipedia.org*Anti-CNN
 !--A Pei A Wang Jin Mei
 zh.wikipedia.org*%E9%98%BF%E6%B2%9B%C2%B7%E9%98%BF%E6%97%BA%E6%99%8B%E7%BE%8E
+!--Ai Wei Wei
+zh.wikipedia.org%E8%89%BE%E6%9C%AA%E6%9C%AA
 !--Ban Chan
 zh.wikipedia.org*%E7%8F%AD%E7%A6%85
 !--Bao Tong
@@ -3028,6 +3042,8 @@ zh.wikipedia.org*%E5%B9%BD%E7%81%B5%E7%BD%91
 zh.wikipedia.org*%E4%BD%99%E6%9D%B0
 !--Yu Zheng Sheng
 zh.wikipedia.org*%E4%BF%9E%E6%AD%A3%E5%A3%B0
+!--Yuan Hong Bin
+zh.wikipedia.org*%E8%A2%81%E7%BA%A2%E5%86%B0
 !--Zhang De Jiang
 zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhang Yi He
