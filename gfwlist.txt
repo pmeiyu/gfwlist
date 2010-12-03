@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rzbRQqVU1sFhpT8Fm/oSRQ
+! Checksum: SvQjzb4lYabAYRmu9EHnKA
 ! Expires: 6h
-! Last Modified: Sat, 04 Dec 2010 02:40:40 +0800
+! Last Modified: Sat, 04 Dec 2010 02:44:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2410,6 +2410,9 @@ wg1966.com
 @@||images.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikileaks.ch
+||wikileaks.de
+||wikileaks.fi
+||wikileaks.nl
 .wikileaks.org
 ||wikileaks.org
 ||collateralmurder.com
