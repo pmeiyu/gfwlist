@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EFByL3J9V5tjD9Dt7cfSOg
+! Checksum: rzbRQqVU1sFhpT8Fm/oSRQ
 ! Expires: 6h
-! Last Modified: Fri, 03 Dec 2010 21:25:54 +0800
+! Last Modified: Sat, 04 Dec 2010 02:40:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2756,7 +2756,7 @@ zh.wikipedia.org*Anti-CNN
 !--A Pei A Wang Jin Mei
 zh.wikipedia.org*%E9%98%BF%E6%B2%9B%C2%B7%E9%98%BF%E6%97%BA%E6%99%8B%E7%BE%8E
 !--Ai Wei Wei
-zh.wikipedia.org%E8%89%BE%E6%9C%AA%E6%9C%AA
+zh.wikipedia.org*%E8%89%BE%E6%9C%AA%E6%9C%AA
 !--Ban Chan
 zh.wikipedia.org*%E7%8F%AD%E7%A6%85
 !--Bao Tong
