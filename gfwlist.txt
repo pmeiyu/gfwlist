@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SvQjzb4lYabAYRmu9EHnKA
+! Checksum: 432o/OHY2KuN7CVVjbsqzw
 ! Expires: 6h
-! Last Modified: Sat, 04 Dec 2010 02:44:12 +0800
+! Last Modified: Sun, 05 Dec 2010 11:30:14 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2625,6 +2625,7 @@ www.zaurus.org.uk
 .zhanbin.net
 ||zhanbin.net
 zhengjian.org
+||zhinengluyou.com
 zhonggtuotese.net
 ||zhongmeng.org
 ||zhreader.com
