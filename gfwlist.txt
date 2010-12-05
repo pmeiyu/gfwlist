@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UNoxTpvoBos5Q5ldjO3Wxw
+! Checksum: BK8LNp+XlfHgwdQcp9Z3eg
 ! Expires: 6h
-! Last Modified: Sun, 05 Dec 2010 13:40:45 +0800
+! Last Modified: Sun, 05 Dec 2010 21:33:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -138,6 +138,7 @@ go2china8.appspot.com
 meme2028.appspot.com
 nest.appspot.com
 proxypy.appspot.com
+squall0629.appspot.com
 twitese.appspot.com
 twitter-mirror.appspot.com
 twittergadget.appspot.com
@@ -814,6 +815,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||huhaitai.com
 ||blog.humanrightsfirst.org
 !-I
+||igorware.com
 ||ihas1337code.com
 ||inote.tw
 ||ironhelmet.com
@@ -1514,6 +1516,7 @@ open.com.hk
 ||openid.com
 ||blog.openinkpot.org
 opera.com/mini
+my.opera.com/dahema
 www.orchidbbs.com
 ||orn.jp
 t.orzdream.com
@@ -1722,6 +1725,7 @@ www.radioaustralia.net.au*chinese*articles*
 ||randyblue.com
 rangzen.org
 ranyunfei.com
+||ranyunfei.com
 ||rapid.pk
 .rapidshare1.com
 ||rapidshare8.com
@@ -1869,6 +1873,7 @@ news.singtao.ca
 ||sippey.com
 ||site90.net
 ||siteadvisor.com
+.sitebro.tw
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
@@ -1930,7 +1935,7 @@ squarespace.com
 www.stackfile.com/freedur
 usinfo.state.gov
 .state168.com
-||steveblank.com
+||steel-storm.com
 .stickam.com
 stickeraction.com/sesawe
 ||stonegames.net
@@ -2427,6 +2432,8 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 winwhispers.info
 ||wiredbytes.com
 ||wiredpen.com
+.wisevid.com
+||wisevid.com
 wjd.name
 .wo.tc
 ||woeser.com
@@ -2464,6 +2471,7 @@ worldjournal.com
 ||semicolonapps.com
 ||sharpinsandiego.com
 ||smedio.com
+||steveblank.com
 ||blog.symbian.org
 ||technologizer.com
 ||blog.thinglabs.com
