@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BK8LNp+XlfHgwdQcp9Z3eg
+! Checksum: AKdRzXyOFuy3fpu17RCDtA
 ! Expires: 6h
-! Last Modified: Sun, 05 Dec 2010 21:33:23 +0800
+! Last Modified: Mon, 06 Dec 2010 16:35:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -573,7 +573,6 @@ favstar.fm
 faydao.com/weblog
 fc2.com
 video.fdbox.com
-||fdcn.org
 ||fourface.nodesnoop.com
 feedbooks.mobi
 feeds.feedburner.com
@@ -790,6 +789,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||s.evernote.com
 ||evhead.com
 !-F
+||fdcn.org
 ||fftogo.com
 ||flightsimtalk.com
 ||mclee.foolme.net
@@ -2414,6 +2414,8 @@ wg1966.com
 ||wikia.com
 @@||images.wikia.com
 zh.uncyclopedia.wikia.com
+213.251.145.96
+||213.251.145.96
 ||wikileaks.ch
 ||wikileaks.de
 ||wikileaks.fi
