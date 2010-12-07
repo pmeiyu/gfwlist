@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AKdRzXyOFuy3fpu17RCDtA
+! Checksum: FFOZ0A58S45vHHv1Wmcn2g
 ! Expires: 6h
-! Last Modified: Mon, 06 Dec 2010 16:35:05 +0800
+! Last Modified: Tue, 07 Dec 2010 15:19:09 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -454,6 +454,7 @@ delicious.com/GFWbookmark
 .democrats.org
 ||democrats.org
 ||demonoid.com
+||demonoid.me
 ||de-sci.org
 .de-sci.org
 ||deutsche-welle.de
