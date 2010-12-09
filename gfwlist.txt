@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FFOZ0A58S45vHHv1Wmcn2g
+! Checksum: JuWvIFyxFJEjFuzTKcUPoA
 ! Expires: 6h
-! Last Modified: Tue, 07 Dec 2010 15:19:09 +0900
+! Last Modified: Thu, 09 Dec 2010 14:47:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -132,16 +132,16 @@ video.aol.com
 
 !-Appspot
 |https:*.appspot.com/
-bullog4cn.appspot.com
-chnshot.appspot.com
-go2china8.appspot.com
-meme2028.appspot.com
-nest.appspot.com
-proxypy.appspot.com
-squall0629.appspot.com
-twitese.appspot.com
-twitter-mirror.appspot.com
-twittergadget.appspot.com
+!-bullog4cn.appspot.com
+!-chnshot.appspot.com
+!-go2china8.appspot.com
+!-meme2028.appspot.com
+!-nest.appspot.com
+!-proxypy.appspot.com
+!-squall0629.appspot.com
+!-twitese.appspot.com
+!-twitter-mirror.appspot.com
+!-twittergadget.appspot.com
 
 .archive.org
 ||archive.org
@@ -268,6 +268,7 @@ www.ibros.org
 ||businesstimes.com.hk
 ||hkbt.com.hk
 ||yibada.com
+bugbeep.com
 ||buugaa.com
 buzzurl.jp
 ||bythehost15.com
@@ -616,6 +617,7 @@ freeman2.com
 ||fooooo.com
 ||fourthinternational.org
 ||foxdie.us
+||foxsub.com
 ||franklc.com
 ||puttycm.free.fr
 freeciv.org
@@ -887,6 +889,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||snippetsapp.com
 ||sns.ly
 ||ssbook.com
+||sshforwarding.com
 ||sunjidong.net
 ||syniumsoftware.com
 !-T
@@ -1271,6 +1274,8 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lipuman.com
 ||liudejun.com
+.liujianshu.com
+||liujianshu.com
 liuxiaotong.com
 ||liuxiaotong.com
 liu.lu
@@ -1518,6 +1523,7 @@ open.com.hk
 ||blog.openinkpot.org
 opera.com/mini
 my.opera.com/dahema
+opnir.com/215/myentunnel-ssh-autoproxy-cross-gfw
 www.orchidbbs.com
 ||orn.jp
 t.orzdream.com
@@ -1839,6 +1845,7 @@ shapeservices.com
 .sharebee.com
 ||sharecool.org
 ||sharepointeducation.com
+||sharkdolphin.com
 .shaunthesheep.com
 ||shaunthesheep.com
 shenshou.org
@@ -2665,6 +2672,12 @@ q=triangle
 q%3DTriangle
 ultrareach
 ultrasurf
+
+!--temporary
+.appspot.com
+.bbc.co.uk
+edition.cnn.com
+.nrk.no
 
 !--Ba Ke
 %E7%BD%A2%E8%AF%BE
