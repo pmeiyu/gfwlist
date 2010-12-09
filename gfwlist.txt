@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4VnuNSUM7tqBdHethpuhag
+! Checksum: KSq/eFxj+a3aQ7d2tfBVSA
 ! Expires: 6h
-! Last Modified: Thu, 09 Dec 2010 18:22:03 +0800
+! Last Modified: Thu, 09 Dec 2010 18:42:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2680,6 +2680,7 @@ ultrasurf
 edition.cnn.com
 .nicovideo.jp
 .nrk.no
+.voanews.com
 
 !--Ba Ke
 %E7%BD%A2%E8%AF%BE
