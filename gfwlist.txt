@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pJViy3RWFQzQGyF+VRh96A
+! Checksum: 4VnuNSUM7tqBdHethpuhag
 ! Expires: 6h
-! Last Modified: Thu, 09 Dec 2010 17:47:04 +0800
+! Last Modified: Thu, 09 Dec 2010 18:22:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2675,7 +2675,7 @@ ultrasurf
 
 !--temporary
 .appspot.com
-/^https?://[^/]+appspot.com/
+/^https?:\/\/[^\/]+appspot\.com/
 .bbc.co.uk
 edition.cnn.com
 .nicovideo.jp
