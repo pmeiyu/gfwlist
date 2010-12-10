@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xbWQ8HGowb/q0Ks1DDakNQ
+! Checksum: b20ouAQrx8xMN9/mQjL4Ig
 ! Expires: 6h
-! Last Modified: Fri, 10 Dec 2010 15:37:40 +0800
+! Last Modified: Fri, 10 Dec 2010 20:11:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -976,7 +976,7 @@ google*search*q=cache
 !--Na Mi Bi Ya
 .google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Nuo Bei Er He Ping Jiang / Nobel Peace Prize
-.google.%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96
+.google.*%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96
 !--Namibia + Nuctech
 .google.com*search*namibia*nuctech
 !--Po Hai
@@ -2676,6 +2676,7 @@ ultrareach
 ultrasurf
 
 !--temporary
+.aftenposten.no/nyheter/iriks/article3943144.ece	
 .appspot.com
 /^https?:\/\/[^\/]+appspot\.com/
 .bbc.co.uk
