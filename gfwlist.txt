@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: b20ouAQrx8xMN9/mQjL4Ig
+! Checksum: 138irSz2NwCDUR88LUPM6w
 ! Expires: 6h
-! Last Modified: Fri, 10 Dec 2010 20:11:22 +0800
+! Last Modified: Sat, 11 Dec 2010 16:28:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -115,6 +115,7 @@ nc.alwaysdata.net
 .amnestyusa.org
 ||amnestyusa.org
 .amoiist.com
+amzs.me
 ||anchorfree.com
 ||anobii.com
 .anonymizer.com
@@ -395,6 +396,7 @@ cn.news.cnyes.com
 .code1984.com/64
 comefromchina.com
 ||comefromchina.com
+||conoyo.com
 .coolaler.com
 ||coolaler.com
 ||coolloud.org.tw
@@ -1243,6 +1245,7 @@ kinghost.com
 .koornk.com
 ||koornk.com
 .kui.name/event
+kun.im
 ||kurtmunger.com
 kusocity.com
 ||www.kyohk.net
@@ -1523,6 +1526,8 @@ omnitalk.
 open.com.hk
 ||openid.com
 ||blog.openinkpot.org
+.openleaks.org
+||openleaks.org
 opera.com/mini
 my.opera.com/dahema
 opnir.com/215/myentunnel-ssh-autoproxy-cross-gfw
@@ -1809,6 +1814,7 @@ sapikachu.net
 savetibet.org
 ||say2.info
 scribd.com
+seapuff.com
 ||searchfreefonts.com
 secretchina.com
 ||secretgarden.no
@@ -2676,7 +2682,7 @@ ultrareach
 ultrasurf
 
 !--temporary
-.aftenposten.no/nyheter/iriks/article3943144.ece	
+.aftenposten.no/nyheter/iriks/article3943144.ece
 .appspot.com
 /^https?:\/\/[^\/]+appspot\.com/
 .bbc.co.uk
