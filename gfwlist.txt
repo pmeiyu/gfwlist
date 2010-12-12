@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Hutz0fFWrl2tCUUxjpg1oQ
+! Checksum: kGml/twtpJB9cPV0cl3fPQ
 ! Expires: 6h
-! Last Modified: Sat, 11 Dec 2010 19:38:31 +0800
+! Last Modified: Sun, 12 Dec 2010 14:17:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2586,6 +2586,7 @@ n.yam.com
 news.yam.com
 .ydy.com
 yeeyi.com
+yfrog.com
 .yi.org
 .yidio.com
 ||yidio.com
