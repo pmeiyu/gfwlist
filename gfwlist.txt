@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZJ2pSB2spv2Vu9b8yYBn6g
+! Checksum: LE40ulKFOhap6xRublxE0w
 ! Expires: 6h
-! Last Modified: Mon, 13 Dec 2010 13:00:41 +0800
+! Last Modified: Mon, 13 Dec 2010 13:17:30 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -185,7 +185,6 @@ hen.bao.li
 ||barnabu.co.uk
 dajusha.baywords.com
 .bbc.co.uk/chinese
-.bbc.co.uk/ukchina/simp
 .bbc.co.uk/zhongwen
 news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
