@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kGml/twtpJB9cPV0cl3fPQ
+! Checksum: ZJ2pSB2spv2Vu9b8yYBn6g
 ! Expires: 6h
-! Last Modified: Sun, 12 Dec 2010 14:17:01 +0800
+! Last Modified: Mon, 13 Dec 2010 13:00:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -36,6 +36,7 @@ bbs.1tor.com
 ||3dtin.com
 4.gp
 ||4bluestones.biz
+5i01.com
 taiwannation.50webs.com
 ||bbs.51.ca
 blog.51.ca
@@ -66,6 +67,7 @@ info.51.ca
 .9city.me/archiver*308578.html
 
 !--------------------------AA--------------------------
+||a-normal-day.com
 a5.com.ru
 ||aircrack-ng.org
 .aboluowang.com
@@ -133,16 +135,16 @@ video.aol.com
 
 !-Appspot
 |https:*.appspot.com/
-!-bullog4cn.appspot.com
-!-chnshot.appspot.com
-!-go2china8.appspot.com
-!-meme2028.appspot.com
-!-nest.appspot.com
-!-proxypy.appspot.com
-!-squall0629.appspot.com
-!-twitese.appspot.com
-!-twitter-mirror.appspot.com
-!-twittergadget.appspot.com
+bullog4cn.appspot.com
+chnshot.appspot.com
+go2china8.appspot.com
+meme2028.appspot.com
+nest.appspot.com
+proxypy.appspot.com
+squall0629.appspot.com
+twitese.appspot.com
+twitter-mirror.appspot.com
+twittergadget.appspot.com
 
 .archive.org
 ||archive.org
@@ -182,11 +184,11 @@ hen.bao.li
 ||bao.li
 ||barnabu.co.uk
 dajusha.baywords.com
-!-.bbc.co.uk/chinese
-!-.bbc.co.uk/ukchina/simp
-!-.bbc.co.uk/zhongwen
-!-news.bbc.co.uk/onthisday*newsid_2496000/2496277
-!-newsforums.bbc.co.uk
+.bbc.co.uk/chinese
+.bbc.co.uk/ukchina/simp
+.bbc.co.uk/zhongwen
+news.bbc.co.uk/onthisday*newsid_2496000/2496277
+newsforums.bbc.co.uk
 .bbcchinese.com
 ||bbcchinese.com
 ||bbleaks.com
@@ -472,6 +474,7 @@ delicious.com/GFWbookmark
 ||diigo.com
 .discuss.com.hk
 ||discuss.com.hk
+disp.cc
 ||dit-inc.us
 .dizhidizhi.com
 ||dl-laby.jp
@@ -892,6 +895,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||sns.ly
 ||ssbook.com
 ||sshforwarding.com
+||stationeria.com
 ||sunjidong.net
 ||syniumsoftware.com
 !-T
@@ -2209,6 +2213,7 @@ tweetboard.com
 m.tweete.net
 ||mtw.tl
 tweetmeme.com
+||tweetmylast.fm
 tweetphoto.com
 ||tweetphoto.com
 ||tweetrans.com
@@ -2364,7 +2369,7 @@ video.tiscali.it/canali/truveo
 ||vimeo.com
 ||vinniev.com
 voachineseblog.com/heqinglian
-!-voanews.com/chinese
+voanews.com/chinese
 .vot.org
 ||vox.com/
 www.voy.com
@@ -2466,6 +2471,7 @@ worldjournal.com
 ||blog.bittorrent.com
 ||blogmaverick.com
 ||breakingnewsworld.org
+||blogs.cnn.com
 ||blog.drakengren.com
 ||blog.feedly.com
 ||blog.flickr.net
@@ -2683,17 +2689,9 @@ ultrareach
 ultrasurf
 
 !--temporary
-.aftenposten.no/nyheter/iriks/article3943144.ece
-.appspot.com
-/^https?:\/\/[^\/]+appspot\.com/
-.bbc.co.uk
-edition.cnn.com
 .nicovideo.jp
 ||nicovideo.jp
-.nobelprize.org
-||nobelprize.org
 .nrk.no
-.voanews.com
 
 !--Ba Ke
 %E7%BD%A2%E8%AF%BE
