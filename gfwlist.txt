@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DM/eu//oG1s43IgDkLDjNA
+! Checksum: LofKQBbAmdyyCYJi3IXWrA
 ! Expires: 6h
-! Last Modified: Tue, 14 Dec 2010 18:15:30 +0800
+! Last Modified: Wed, 15 Dec 2010 00:48:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -968,6 +968,8 @@ google*search*q=cache
 .google.*search*%E6%B1%9F%E6%B3%BD%E6%B0%91
 !--Jin Tao
 .google.*/search*%E9%94%A6%E6%B6%9B
+!--Ku Xing
+search*%E9%85%B7%E5%88%91
 !--Liu Qi
 .google.*search*%E5%88%98%E6%B7%87
 !--Liu Si
