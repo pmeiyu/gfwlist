@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Z7NvZ1GnxfWEvqIISWyK7A
+! Checksum: DM/eu//oG1s43IgDkLDjNA
 ! Expires: 6h
-! Last Modified: Tue, 14 Dec 2010 16:42:13 +0900
+! Last Modified: Tue, 14 Dec 2010 18:15:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -902,6 +902,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||tagxedo.com
 ||blog.tatoeba.org
 ||www.techfob.com
+||teachparentstech.org
 ||the8pen.com
 ||theiphonewiki.com
 ||blog.thesilentnumber.me
@@ -2583,7 +2584,8 @@ hk.*yahoo.com
 meme.yahoo.com
 tw.*yahoo.com
 upcoming.yahoo.com
-video.yahoo.com/watch
+video.yahoo.com
+!--video.yahoo.com/watch
 ||yahoo.com.hk
 blog.yam.com
 .mymedia.yam.com
