@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: snoCDtbvkexwIJ+9p9xDjQ
+! Checksum: Z7NvZ1GnxfWEvqIISWyK7A
 ! Expires: 6h
-! Last Modified: Tue, 14 Dec 2010 13:21:17 +0800
+! Last Modified: Tue, 14 Dec 2010 16:42:13 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2518,7 +2518,6 @@ zhenxiang.wordpress.com
 ||android.wordpress.org
 ||ios.wordpress.org
 ||wormsculptor.com
-||tw.wowarmory.com
 ||wp.me
 
 .wpoforum.com
