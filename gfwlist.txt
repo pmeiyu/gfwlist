@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LE40ulKFOhap6xRublxE0w
+! Checksum: snoCDtbvkexwIJ+9p9xDjQ
 ! Expires: 6h
-! Last Modified: Mon, 13 Dec 2010 13:17:30 +0000
+! Last Modified: Tue, 14 Dec 2010 13:21:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -59,6 +59,7 @@ info.51.ca
 .888.com
 89-64.org
 ||89-64.org
+.9001700.com
 ||909090909.info
 .92ccav.com
 .99bbs.com
@@ -1151,6 +1152,7 @@ w.idaiwan.com/forum
 .idouga.com
 forum.idsam.com
 .idv.tw
+.ied2k.com
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
