@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HfHVGChuODQ7vZUMVqSKcQ
+! Checksum: Frefb8syw2SiAOdVq1L3Jg
 ! Expires: 6h
-! Last Modified: Fri, 17 Dec 2010 13:16:42 +0800
+! Last Modified: Fri, 17 Dec 2010 14:07:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -9,7 +9,6 @@
 ||0rz.tw
 1-apple.com.tw
 ||1-apple.com.tw
-||121pp.com
 .12bet.com
 ||12bet.com
 .141hongkong.com/forum/forumdisplay.php?fid=59
