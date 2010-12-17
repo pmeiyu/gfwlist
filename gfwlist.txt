@@ -1,12 +1,11 @@
 [AutoProxy 0.2.9]
-! Checksum: eI/M+1U6au2eM0UikT1YCw
+! Checksum: mho81o3AmMNtYJJEWJktrg
 ! Expires: 6h
-! Last Modified: Fri, 17 Dec 2010 14:22:45 +0800
+! Last Modified: Fri, 17 Dec 2010 14:29:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 .0rz.tw
-||0rz.tw
 1-apple.com.tw
 ||1-apple.com.tw
 .12bet.com
