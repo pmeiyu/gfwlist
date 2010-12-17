@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Frefb8syw2SiAOdVq1L3Jg
+! Checksum: eI/M+1U6au2eM0UikT1YCw
 ! Expires: 6h
-! Last Modified: Fri, 17 Dec 2010 14:07:17 +0800
+! Last Modified: Fri, 17 Dec 2010 14:22:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -42,7 +42,6 @@ blog.51.ca
 info.51.ca
 ||info.51.ca
 ||51myvpn.com
-||520.be
 .5maodang.com
 ||6-4.net/
 64memo
