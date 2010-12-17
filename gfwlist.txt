@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CXBtP+BfbFodsKAoA8KW2w
+! Checksum: HfHVGChuODQ7vZUMVqSKcQ
 ! Expires: 6h
-! Last Modified: Fri, 17 Dec 2010 13:11:36 +0800
+! Last Modified: Fri, 17 Dec 2010 13:16:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2566,6 +2566,7 @@ xmovies.com
 ||xnview.com
 .xnxx.com
 ||xnxx.com
+||xpud.org
 ||k2.xrea.com
 xtube.com
 blog.xuite.net
