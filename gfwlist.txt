@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LofKQBbAmdyyCYJi3IXWrA
+! Checksum: RJNKFNXxN/TvA1FdiF1KQg
 ! Expires: 6h
-! Last Modified: Wed, 15 Dec 2010 00:48:35 +0800
+! Last Modified: Fri, 17 Dec 2010 12:57:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1347,6 +1347,7 @@ mashable.com
 ||mashable.com
 ||matainja.com
 ||mathiew-badimon.com
+mayimayi.com
 .md-t.org
 ||md-t.org
 ||mediafire.com
