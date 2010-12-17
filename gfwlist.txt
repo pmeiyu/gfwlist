@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RJNKFNXxN/TvA1FdiF1KQg
+! Checksum: CXBtP+BfbFodsKAoA8KW2w
 ! Expires: 6h
-! Last Modified: Fri, 17 Dec 2010 12:57:58 +0800
+! Last Modified: Fri, 17 Dec 2010 13:11:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1079,6 +1079,7 @@ myboooks.googlepages.com
 .googlevideo.com
 
 !--------------------------HH--------------------------
+||h-china.org
 h1n1china.org
 .hacken.cc/bbs
 ||hackthatphone.net
