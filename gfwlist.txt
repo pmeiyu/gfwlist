@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mho81o3AmMNtYJJEWJktrg
+! Checksum: C8hw5DuGhZ5QgoBG7eF4pw
 ! Expires: 6h
-! Last Modified: Fri, 17 Dec 2010 14:29:26 +0800
+! Last Modified: Fri, 17 Dec 2010 21:04:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -40,7 +40,6 @@ taiwannation.50webs.com
 blog.51.ca
 info.51.ca
 ||info.51.ca
-||51myvpn.com
 .5maodang.com
 ||6-4.net/
 64memo
@@ -102,7 +101,6 @@ aladding.com
 ||alkasir.com
 bbs.allhabit.com
 alliance.org.hk
-||alliance.org.hk
 .allinfa.com
 |http://allinfa.com
 ||allinfo.com
@@ -128,7 +126,7 @@ video.aol.com
 ||video.aol.com
 ||apirocks.com
 .apigee.com
-||apigee.com
+|http://apigee.com/
 ||appbase.com
 
 !-Appspot
@@ -188,7 +186,6 @@ news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
 .bbcchinese.com
 ||bbcchinese.com
-||bbleaks.com
 ||bbsfeed.com
 bbsland.com
 .bcc.com.tw/board
