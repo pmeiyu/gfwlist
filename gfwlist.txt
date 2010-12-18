@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0URWKE9EyuzrZzNyYRdRrg
+! Checksum: w9iKfkMKzyzCwa5y4TudwQ
 ! Expires: 6h
-! Last Modified: Sat, 18 Dec 2010 21:06:29 +0800
+! Last Modified: Sun, 19 Dec 2010 07:10:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1035,24 +1035,32 @@ google*search*%E7%8E%8B%E5%88%9A
 .google.*q=%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 !-----Surnames-----
 !--He
+.google.com/m*%E8%B4%BA
 .google.*/search*%E8%B4%BA
 !--Hu
+.google.com/m*%E8%83%A1
 .google.*/search*%E8%83%A1
 !--Huang
 !--.google.*/search*%E9%BB%84
 !--Jia
+.google.com/m*%E8%B4%BE
 .google.*/search*%E8%B4%BE
 !--Li
+.google.com/m*%E6%9D%8E
 .google.*/search*%E6%9D%8E
 !--Liu
 .google.*/search*%E5%88%98
 !--Wen
+.google.com/m*%E6%B8%A9
 .google.*/search*%E6%B8%A9
 !--Wu
+.google.com/m*%E5%90%B4
 .google.*/search*%E5%90%B4
 !--Xi
+.google.com/m*%E4%B9%A0
 .google.*/search*%E4%B9%A0
 !--Zhou
+.google.com/m*%E5%91%A8
 .google.*/search*%E5%91%A8
 
 !-------------Google.other-----
@@ -1562,7 +1570,7 @@ bbs.ozchinese.com
 !--------------------------PP--------------------------
 .pacificpoker.com
 page2rss.com
-!--4m sites 1 ip
+!--Godaddy Free Hosting
 ||paint.net
 ||coveringweb.com
 .palacemoon.com
