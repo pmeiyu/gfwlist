@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ueYHx3yjgOYIQAeS5nUDLg
+! Checksum: nBU6UPuucJ2eF9xCAF39ew
 ! Expires: 6h
-! Last Modified: Sat, 18 Dec 2010 14:45:03 +0800
+! Last Modified: Sat, 18 Dec 2010 14:54:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -610,6 +610,7 @@ foursquare.com
 kineox.free.fr
 .free-vpn.info/mrzhang
 freeman2.com
+||fringenetwork.com
 ||flecheinthepeche.fr
 ||fofg.org
 .fooooo.com
