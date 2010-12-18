@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: C8hw5DuGhZ5QgoBG7eF4pw
+! Checksum: ueYHx3yjgOYIQAeS5nUDLg
 ! Expires: 6h
-! Last Modified: Fri, 17 Dec 2010 21:04:23 +0800
+! Last Modified: Sat, 18 Dec 2010 14:45:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2064,6 +2064,7 @@ tibetfund.org
 tldp.org
 .tnaflix.com
 ||tnaflix.com
+togetter.com
 .tokyo-247.com
 tokyo-hot.com
 .toodoc.com
