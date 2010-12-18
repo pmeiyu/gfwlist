@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nBU6UPuucJ2eF9xCAF39ew
+! Checksum: mIVGZFLP1d6MDH69npSR2Q
 ! Expires: 6h
-! Last Modified: Sat, 18 Dec 2010 14:54:18 +0800
+! Last Modified: Sat, 18 Dec 2010 15:01:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2961,6 +2961,8 @@ zh.wikipedia.org*%E6%95%8F%E6%84%9F%E4%BA%BA%E5%A3%AB
 zh.wikipedia.org*%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E
 !--Min Zhu Dang _ Xiang Gang
 zh.wikipedia.org*%E6%B0%91%E4%B8%BB%E9%BB%A8_(%E9%A6%99%E6%B8%AF)
+!--Niu Bo Wang--
+zh.wikipedia.org*%E7%89%9B%E5%8D%9A%E7%BD%91
 !--Nuo Bei Er He Ping Jiang
 zh.wikipedia.org*%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96
 !--Nuo Wei
