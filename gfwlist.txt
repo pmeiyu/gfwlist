@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: K1EBMOb8jZ1SP6wYQebGSg
+! Checksum: 6fqX32N2SYSRJM2fC1vbbw
 ! Expires: 6h
-! Last Modified: Sat, 18 Dec 2010 15:25:52 +0800
+! Last Modified: Sat, 18 Dec 2010 15:42:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -114,6 +114,7 @@ nc.alwaysdata.net
 ||amnestyusa.org
 .amoiist.com
 amzs.me
+analyze-v.com
 ||anchorfree.com
 ||anobii.com
 .anonymizer.com
