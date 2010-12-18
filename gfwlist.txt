@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tvdf18v0Vm7Y78yHiCjRcg
+! Checksum: 0URWKE9EyuzrZzNyYRdRrg
 ! Expires: 6h
-! Last Modified: Sat, 18 Dec 2010 16:22:57 +0800
+! Last Modified: Sat, 18 Dec 2010 21:06:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1102,6 +1102,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
 ||hidemyass.com
 .higfw.com
+||highrockmedia.com
 .hjclub.info
 ||hjclub.info
 .hk-pub.com/forum
@@ -2407,6 +2408,7 @@ washeng.net
 .wattpad.com
 .wearn.com
 ||wearn.com
+||hudatoriq.web.id
 ||web2project.net
 webbang.net
 webs-tv.net
