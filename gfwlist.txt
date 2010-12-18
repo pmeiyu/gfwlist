@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: w9iKfkMKzyzCwa5y4TudwQ
+! Checksum: uE3+DloR3xSm+6X3DdmJQg
 ! Expires: 6h
-! Last Modified: Sun, 19 Dec 2010 07:10:37 +0800
+! Last Modified: Sun, 19 Dec 2010 07:11:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1027,8 +1027,6 @@ google*search*%E7%8E%8B%E5%88%9A
 .google.%D6%D0%B9%B2
 !--Zhong Guo Yuan Min Da Tong Meng
 .google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
-!--Zhou
-.google.com/m*%E5%91%A8
 !--Zi You Men
 .google.com*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zou Dian Tai
