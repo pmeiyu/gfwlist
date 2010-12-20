@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 92J9WsUFXK/9spk+fq3AOw
+! Checksum: S7RsAZww5RxHPJYf+km54A
 ! Expires: 6h
-! Last Modified: Mon, 20 Dec 2010 19:20:28 +0800
+! Last Modified: Mon, 20 Dec 2010 19:38:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -326,6 +326,7 @@ chinaaffairs.org
 chinacomments.org
 ||chinacomments.org
 .chinadigitaltimes.net
+||chinadigitaltimes.net
 ||chinafreepress.org
 chinagfw.org
 ||chinagfw.org
@@ -857,6 +858,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.metasploit.com
 ||milazi.com
 ||twitter.missiu.com
+||plurktop-button.mmdays.com
 ||feeds.mobileread.com
 ||www.modernizr.com
 ||modk.it
@@ -1143,6 +1145,7 @@ hotpot.hk
 hrichina.org
 .hrw.org
 ||hsjp.net
+||htmldog.com
 .huanghuagang.org
 ||huanghuagang.org
 ||hugoroy.eu
