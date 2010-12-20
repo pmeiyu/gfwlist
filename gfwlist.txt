@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HSjcRMaby5XSp87md+yf1g
+! Checksum: yxw0skz7AdFOmbWTlSHCAQ
 ! Expires: 6h
-! Last Modified: Mon, 20 Dec 2010 19:46:18 +0800
+! Last Modified: Mon, 20 Dec 2010 22:55:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1430,6 +1430,8 @@ multiupload.com
 ||muzi.net
 ||myaudiocast.com
 ||bbs.mychat.to
+||mychinamyhome.com
+.mychinamyhome.com
 ||www.mycould.com
 ||myeclipseide.com
 .myforum.com.hk
