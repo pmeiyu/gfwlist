@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: S7RsAZww5RxHPJYf+km54A
+! Checksum: HSjcRMaby5XSp87md+yf1g
 ! Expires: 6h
-! Last Modified: Mon, 20 Dec 2010 19:38:19 +0800
+! Last Modified: Mon, 20 Dec 2010 19:46:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -700,7 +700,6 @@ globalmuseumoncommunism.org
 ||globalvoicesonline.org
 gmbd.cn
 ||gmhz.org
-||gmote.org
 ||goldwave.com
 gongmeng.info
 gongminliliang.com
@@ -795,7 +794,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||s.evernote.com
 ||evhead.com
 !-F
-||fdcn.org
+||blog.fdcn.org
 ||fftogo.com
 ||flightsimtalk.com
 ||mclee.foolme.net
@@ -807,6 +806,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||geektang.com
 ||geohot.us
 ||gmer.net
+||www.gmote.org
 ||blog.go2web20.net
 ||blog.google.org
 ||blog.golang.org
