@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: uE3+DloR3xSm+6X3DdmJQg
+! Checksum: 92J9WsUFXK/9spk+fq3AOw
 ! Expires: 6h
-! Last Modified: Sun, 19 Dec 2010 07:11:55 +0800
+! Last Modified: Mon, 20 Dec 2010 19:20:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -262,8 +262,8 @@ www.ibros.org
 .bullogger.com
 ||bullogger.com
 !--businesstimes
-||businesstimes.com.cn
-||businesstimes.com.hk
+.businesstimes.com.cn
+|http://businesstimes.com.cn
 ||hkbt.com.hk
 ||yibada.com
 bugbeep.com
