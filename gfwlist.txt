@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ge5keDQrNF8OX0zP2LleKw
+! Checksum: wskUA88+4iSYJZCkiogEbQ
 ! Expires: 6h
-! Last Modified: Wed, 22 Dec 2010 19:09:37 +0800
+! Last Modified: Wed, 22 Dec 2010 19:19:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -888,7 +888,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.seeminglee.com
 ||rss.slashdot.org
 ||snippetsapp.com
-||sns.ly
+||w.sns.ly
 ||ssbook.com
 ||sshforwarding.com
 ||stationeria.com
@@ -1672,7 +1672,6 @@ postadult.com
 !-||blog.dabr.co.uk
 ||designerol.com
 ||blog.dustincurtis.com
-||erinc.ca
 ||blog.fizzik.com
 ||roteiro.geedr.com
 ||nf.id.au
@@ -1681,11 +1680,9 @@ postadult.com
 ||mehack.com
 ||blog.nicholaspatten.com
 ||am.pengyulong.com
-||ratoo.tk
 ||reflectionof.me
 ||log.riku.me
 ||sogrady.me
-||sshgfw.com
 ||steverubel.com
 ||blog.tweetdeck.com
 ||log.thws.cn
@@ -1896,7 +1893,6 @@ blog.sina.com.tw
 dailynews.sina.com/bg
 forum.sina.com.hk
 ||magazines.sina.com.tw
-||news.sina.com/
 news.sina.com.hk
 news.sina.com.tw
 news.singtao.ca
