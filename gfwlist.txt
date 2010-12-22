@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: seNyu9Bn9+sPzv+nhWlehg
+! Checksum: 187xt6wLW5+FTu0M3NR6rA
 ! Expires: 6h
-! Last Modified: Wed, 22 Dec 2010 20:32:54 +0800
+! Last Modified: Thu, 23 Dec 2010 02:01:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2408,6 +2408,8 @@ wallornot.org
 ||www.wan-press.org
 ||wanderinghorse.net
 ||wangafu.net
+||wangjinbo.org
+.wangjinbo.org
 wanglixiong.com
 wangruoshui.net
 www.wangruowang.org
