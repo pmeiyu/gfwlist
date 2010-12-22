@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: d4WBsRdOzjZQzoVcMX6MKg
+! Checksum: seNyu9Bn9+sPzv+nhWlehg
 ! Expires: 6h
-! Last Modified: Wed, 22 Dec 2010 19:40:09 +0800
+! Last Modified: Wed, 22 Dec 2010 20:32:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -10,7 +10,7 @@
 ||1-apple.com.tw
 .12bet.com
 ||12bet.com
-.141hongkong.com/forum/forumdisplay.php?fid=59
+141hongkong.com/forum
 t.16class.cn
 173ng.com
 ||173ng.com
@@ -142,6 +142,7 @@ squall0629.appspot.com
 twitese.appspot.com
 twitter-mirror.appspot.com
 twittergadget.appspot.com
+waterzeong.appspot.com
 
 .archive.org
 ||archive.org
@@ -468,6 +469,7 @@ delicious.com/GFWbookmark
 ||digitalnomadsproject.org
 .diigo.com
 ||diigo.com
+||furl.net
 .discuss.com.hk
 ||discuss.com.hk
 disp.cc
@@ -572,6 +574,7 @@ favstar.fm
 ||favstar.fm
 faydao.com/weblog
 fc2.com
+shifeike.blog125.fc2blog.net
 video.fdbox.com
 ||fourface.nodesnoop.com
 feedbooks.mobi
@@ -592,10 +595,13 @@ findbook.tw
 ||fireuploader.com
 ||flagfox.net
 fleshbot.com
+
 .flickr.com/photos/digitalboy100
 .flickr.com/photos/fzhenghu
+.flickr.com/photos/lonelyfox
 flickr.com/photos/vanvan/529925157
 .flickr.com/photos/winterkanal
+
 flickrhivemind.net
 yuming.flnet.org
 blog.foolsmountain.com
@@ -870,6 +876,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-P
 ||feeds.people.com
 ||blog.persistent.info
+||chrome.plantsvszombies.com
 ||portablesoft.org.ru
 ||prasannatech.net
 ||talk.news.pts.org.tw
@@ -1163,6 +1170,7 @@ w.idaiwan.com/forum
 forum.idsam.com
 .idv.tw
 .ied2k.com
+.ied2k.net
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
@@ -1490,8 +1498,10 @@ tw*.nextmedia.com
 .nexttv.com.tw
 ngensis.com
 ||ngs2.info
-||blog.nicovideo,jp
-tw.nicovideo.jp
+.nicovideo.jp
+||nicovideo.jp
+!--||blog.nicovideo,jp
+!--tw.nicovideo.jp
 nicovideo.tw
 ||nidaye.org
 homepage2.nifty.com
@@ -1512,6 +1522,7 @@ nobelprize.org/nobel_prizes/peace/laureates/2010
 !forum.nownews.com
 .nowtorrents.com
 .nps.gov
+.nrk.no
 bbs.nsysu.edu.tw
 ntdtv.com
 ||cbs.ntu.edu.tw
@@ -1979,7 +1990,7 @@ tw.streetvoice.com
 .student.tw/db
 ||suicideblitz.info
 ||summize.com
-suoluo.org
+t.sunxun.info/login.php
 ||superspeed.com
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
@@ -2117,7 +2128,6 @@ bbs.tuitui.info
 ||turningtorso.com
 ||tuxmachines.org
 ||tuxtraining.com
-tvider.com
 
 !-------------Tumblr-----
 ||tumblr.com
@@ -2203,6 +2213,7 @@ tvider.com
 ||tv-intros.com
 forum.tvb.com/
 tvboxnow.com
+tvider.com
 ||tvunetworks.com
 .gov.tw/
 twa.sh
@@ -2327,6 +2338,7 @@ city.udn.com
 dignews.udn.com
 forum.udn.com
 paper.udn.com
+||www.udn.com
 video.udn.com
 .ueuo.com
 uighurbiz.net
@@ -2458,6 +2470,7 @@ winwhispers.info
 ||wiredpen.com
 .wisevid.com
 ||wisevid.com
+.witopia.net
 wjd.name
 .wo.tc
 ||woeser.com
@@ -2687,11 +2700,6 @@ q=triangle
 q%3DTriangle
 ultrareach
 ultrasurf
-
-!--temporary
-.nicovideo.jp
-||nicovideo.jp
-.nrk.no
 
 !--Ba Ke
 %E7%BD%A2%E8%AF%BE
