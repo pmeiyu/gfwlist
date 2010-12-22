@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: g957hkgGBau4RpWqC2Y2eA
+! Checksum: iLdt0ugqcYKBTbRaOunnYw
 ! Expires: 6h
-! Last Modified: Wed, 22 Dec 2010 18:57:25 +0800
+! Last Modified: Wed, 22 Dec 2010 19:03:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -767,11 +767,9 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||feeds.cbsnews.com
 ||www.chinesealbumart.com
 ||chromeexperiments.com
-||chromium.org
-@@||build.chromium.org
-@@||git.chromium.org
-@@||planet.chromium.org
-@@||src.chromium.org
+||blog.chromium.org
+||dev.chromium.org
+||www.chromium.org
 ||clementine-player.org
 ||rss.cnn.com
 !-D
