@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TzisQmN6O9SR/LF69FXV/w
+! Checksum: g957hkgGBau4RpWqC2Y2eA
 ! Expires: 6h
-! Last Modified: Wed, 22 Dec 2010 11:56:48 +0800
+! Last Modified: Wed, 22 Dec 2010 18:57:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -527,7 +527,6 @@ e-info.org.tw
 .e-traderland.net/board
 hkjp.easyweb.hk
 ebookee.com
-||echofon.com
 bbs.ecstart.com
 edoors.com
 .edubridge.com/erxiantang/library
@@ -2353,7 +2352,6 @@ uncyclopedia.info
 ||uocn.org
 tor.updatestar.com
 .upload4u.info
-||uploader.jp
 myshare.url.com.tw/
 ||urlborg.com
 us.to
@@ -2379,8 +2377,6 @@ veoh.com
 .verizon.net
 ||verybs.com
 .vft.com.tw
-.videosz.com
-||videosz.com
 .videomo.com
 ||vidoemo.com
 video.tiscali.it/canali/truveo
@@ -2391,9 +2387,7 @@ video.tiscali.it/canali/truveo
 voachineseblog.com/heqinglian
 voanews.com/chinese
 .vot.org
-||vox.com/
 www.voy.com
-||vpnworldwide.com
 
 !--------------------------WW--------------------------
 lists.w3.org/archives/public
@@ -2453,15 +2447,9 @@ wg1966.com
 ||whatbrowser.org
 .whippedass.com
 ||whyx.org
-||wikia.com
-@@||images.wikia.com
 zh.uncyclopedia.wikia.com
 213.251.145.96
 ||213.251.145.96
-||wikileaks.ch
-||wikileaks.de
-||wikileaks.fi
-||wikileaks.nl
 .wikileaks.org
 ||wikileaks.org
 ||collateralmurder.com
