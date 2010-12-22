@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sz+1dTgQ82L5DYZPId6UWQ
+! Checksum: d4WBsRdOzjZQzoVcMX6MKg
 ! Expires: 6h
-! Last Modified: Wed, 22 Dec 2010 19:27:59 +0800
+! Last Modified: Wed, 22 Dec 2010 19:40:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -559,8 +559,6 @@ eyny.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
 ||fbcdn.net
-||fb.me
-@@||on.fb.me
 fanqiangyakexi.net
 fail.hk
 ||failforum.net
@@ -859,7 +857,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||plurktop-button.mmdays.com
 ||feeds.mobileread.com
 ||www.modernizr.com
-||modk.it
+||www.modk.it
 ||mytwishirt.com
 !-N
 ||needjav.net
@@ -1563,7 +1561,6 @@ oursogo.com
 ||ht.ly
 ||mash.to/
 ||overstimulate.com
-||ovh.net/
 share.ovi.com/media
 ||www.oxfam.org.hk
 .ozchinese.com/bbs
@@ -2572,7 +2569,6 @@ vlog.xuite.net
 xuzhiyong.net
 xvediox.com
 .xvideos.com
-||xwp.pl
 .xxbbx.com
 ||xxxx.com.au
 xys.org
