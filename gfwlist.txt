@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 187xt6wLW5+FTu0M3NR6rA
+! Checksum: XjNfZl5ujCE24gQ7Putiqw
 ! Expires: 6h
-! Last Modified: Thu, 23 Dec 2010 02:01:27 +0800
+! Last Modified: Thu, 23 Dec 2010 09:47:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -733,6 +733,7 @@ guancha.org
 ||gzone-anime.info
 
 !-------------Google Code-----
+|https://code.google.com/p/
 code.google.com/p/gappproxy
 code.google.com/p/autoproxy/updates/list
 code.google.com/p/program-think/wiki/Software
