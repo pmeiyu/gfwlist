@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XjNfZl5ujCE24gQ7Putiqw
+! Checksum: IYrqnHTbswUj0gSEZuzXZQ
 ! Expires: 6h
-! Last Modified: Thu, 23 Dec 2010 09:47:39 +0800
+! Last Modified: Tue, 28 Dec 2010 12:25:52 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -731,6 +731,8 @@ guancha.org
 ||gutteruncensored.com
 .gzm.tv
 ||gzone-anime.info
+
+.google.com
 
 !-------------Google Code-----
 |https://code.google.com/p/
@@ -1839,7 +1841,7 @@ sandnoble.com/bookSearch/isbnInquiry.asp
 sapikachu.net
 savetibet.org
 ||say2.info
-scribd.com
+.scribd.com
 seapuff.com
 ||searchfreefonts.com
 secretchina.com
@@ -2593,6 +2595,7 @@ xysblogs.org
 ||xysforum.org
 
 !--------------------------YY--------------------------
+.yahoo.com
 buy.yahoo.com.tw/gdsale
 hk.*yahoo.com
 meme.yahoo.com
