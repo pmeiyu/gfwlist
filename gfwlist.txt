@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: IYrqnHTbswUj0gSEZuzXZQ
+! Checksum: ziSE71lB/8UJm/NA+55l2A
 ! Expires: 6h
-! Last Modified: Tue, 28 Dec 2010 12:25:52 +0000
+! Last Modified: Wed, 29 Dec 2010 18:21:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -26,6 +26,7 @@ t.16class.cn
 bbs.1tor.com
 .2008xianzhang.info
 ||2008xianzhang.info
+.21code.com
 .2shared.com
 ||2shared.com
 .315lz.com
@@ -732,10 +733,8 @@ guancha.org
 .gzm.tv
 ||gzone-anime.info
 
-.google.com
 
 !-------------Google Code-----
-|https://code.google.com/p/
 code.google.com/p/gappproxy
 code.google.com/p/autoproxy/updates/list
 code.google.com/p/program-think/wiki/Software
@@ -743,8 +742,6 @@ code.google.com/p/scholarzhang
 code.google.com/p/twitese
 
 !-------------Google Docs-----
-|https://docs*.google.com/
-|https://spreadsheets*.google.com
 docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
 docs.google.com/View?id=d8xbpp6_4hhpb2dfd
 docs.google.com/View?id=dds68dz_9cqgm8vgq
@@ -826,6 +823,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||huhaitai.com
 ||blog.humanrightsfirst.org
 !-I
+||site.icu-project.org
 ||igorware.com
 ||ihas1337code.com
 ||inote.tw
@@ -877,6 +875,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-O
 ||blog.obvious.com
 !-P
+||pcgeekblog.com
 ||feeds.people.com
 ||blog.persistent.info
 ||chrome.plantsvszombies.com
@@ -898,6 +897,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||rss.slashdot.org
 ||snippetsapp.com
 ||w.sns.ly
+||spiritjb.org
 ||ssbook.com
 ||sshforwarding.com
 ||stationeria.com
@@ -1072,7 +1072,6 @@ google*search*%E7%8E%8B%E5%88%9A
 !-------------Google.other-----
 @@|https://www.google.com
 @@||google.cn/music
-|https://sites.google.com/
 google.com*analytics*zh-CN
 .google.com/moderator
 .google.com/reader/view/feed
@@ -1084,6 +1083,7 @@ knol.google.com/k/-/08/3jhi1zdzvxj3f
 news.google.com.hk/nwshp?hl=zh-cn&tab=wn
 picasaweb.google.com
 sites.google.com
+||sites.google.com
 |https://talkgadget.google.com/
 video.google.com
 webcache.googleusercontent.com
@@ -1754,6 +1754,7 @@ blog.qooza.hk*dafengqixi
 ||efksoft.com
 ||qstatus.com
 ||qtweeter.com
+||qtrac.eu
 ||quadedge.com
 qusi8.net
 .qvodzy.org
@@ -2234,6 +2235,8 @@ tweepmag.com
 ||tweetbackup.com
 tweetboard.com
 ||tweetboard.com
+.tweetboner.biz
+||tweetboner.biz
 ||tweete.net
 m.tweete.net
 ||mtw.tl
@@ -2283,6 +2286,8 @@ twitreferral.com
 ||tweeplike.me
 ||tweepguide.com
 ||turbotwitter.com
+.twitvid.com
+||twitvid.com
 
 |http://t.co
 |http://twt.tl
@@ -2595,7 +2600,6 @@ xysblogs.org
 ||xysforum.org
 
 !--------------------------YY--------------------------
-.yahoo.com
 buy.yahoo.com.tw/gdsale
 hk.*yahoo.com
 meme.yahoo.com
@@ -2796,6 +2800,7 @@ en.wikipedia.org/wiki/Java_Anon_Proxy
 en.wikipedia.org/wiki/Liu_Xiaobo
 en.wikipedia.org/wiki/Shi_Tao
 en.wikipedia.org/wiki/Tank_man
+en.wikipedia.org/wiki/Tiananmen_Papers
 en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
 en.wikipedia.org/wiki/Tibetan_independence_movement
 
