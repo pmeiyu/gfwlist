@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ziSE71lB/8UJm/NA+55l2A
+! Checksum: x3+/ZfDO6gNXdl90vbWOMQ
 ! Expires: 6h
-! Last Modified: Wed, 29 Dec 2010 18:21:20 +0800
+! Last Modified: Thu, 30 Dec 2010 01:20:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -211,7 +211,6 @@ beijingspring.com
 .bigsound.org/portnoy
 ||bill2-software.com
 ||billywr.com
-||bjlzfz.com
 bjzc.org
 ||bjzc.org/
 ||blackra1n.com
@@ -266,8 +265,6 @@ www.ibros.org
 !--businesstimes
 .businesstimes.com.cn
 |http://businesstimes.com.cn
-||hkbt.com.hk
-||yibada.com
 bugbeep.com
 ||buugaa.com
 buzzurl.jp
@@ -282,7 +279,6 @@ holz.byethost8.com
 .cn.calameo.com
 |http://cn.calameo.com
 canadameet.com
-||canonfilmmakerslive.com
 .canyu.org
 .cao.im
 .caobian.info
@@ -462,9 +458,6 @@ delicious.com/GFWbookmark
 .de-sci.org
 ||deutsche-welle.de
 ||dev102.com
-!--ProBlogger
-||digital-photography-school.com
-||digitalalchemy.tv
 .diaoyuislands.org
 ||diaoyuislands.org
 ||digitalnomadsproject.org
@@ -502,7 +495,6 @@ dphk.org
 ||dropbox.com
 ||dtiblog.com
 dtiserv2.com
-||duanwz.com
 ||duckmylife.com
 .duihua.org
 ||duihua.org
@@ -534,13 +526,11 @@ bbs.ecstart.com
 edoors.com
 .edubridge.com/erxiantang/library
 ||eevpn.com
-||efixusers.com
 ||eic-av.com
 ||elisabethkublerross.com
 .eltondisney.com
 ||emacsblog.org
 .emory.edu
-||empflix.com
 chinese.engadget.com
 ||englishfromengland.co.uk
 ||entermap.com
@@ -549,8 +539,8 @@ epochtimes.com
 etaiwannews.com
 ||etizer.org
 www.eulam.com
-||everdark.info
 ||exblog.jp
+||blog.exblog.co.jp
 @@||www.exblog.jp
 ||exploader.net
 eyny.com
@@ -564,7 +554,6 @@ eyny.com
 ||fbcdn.net
 fanqiangyakexi.net
 fail.hk
-||failforum.net
 .fan-qiang.com
 .fangbinxing.com
 fangeming.com
@@ -587,13 +576,10 @@ feer.com
 .fengzhenghu.com
 ||fengzhenghu.com
 .fgmtv.org
-.filefactory.com
-||filefactory.com
 fillthesquare.org
 findbook.tw
 .fireofliberty.org
 ||fireofliberty.org
-||fireuploader.com
 ||flagfox.net
 fleshbot.com
 
@@ -651,7 +637,6 @@ friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 fuckgfw.org
 fulue.com
 funp.com
-||funpea.com
 .futurechinaforum.org
 ||futuremessage.org
 ||fzh999.net
@@ -660,7 +645,6 @@ funp.com
 ||gabocorp.com
 ||galenwu.com
 .gamebase.com.tw
-||gamebase.com.tw
 ||gamer.com.tw
 .gamez.com.tw
 ||gamez.com.tw
@@ -691,8 +675,6 @@ geocities.jp
 .getfreedur.com
 .getjetso.com/forum
 getiton.com
-||getuploader.com
-||getyouram.com
 gfw.org.ua
 gigporno.ru
 ||gimpshop.com
@@ -722,7 +704,6 @@ grandtrial.org
 ||greatfirewallofchina.org
 .greenparty.org.tw
 gpass1.com
-||gqueues.com
 great-firewall.com
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
@@ -793,6 +774,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-E
 ||www.echofon.com
 ||epc-jav.com
+||everdark.info
 ||s.evernote.com
 ||evhead.com
 !-F
@@ -802,6 +784,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||mclee.foolme.net
 ||www.frienddeck.com
 ||fringetelevision.com
+||funpea.com
 !-G
 ||blog.gatein.org
 ||feeds.gawker.com
@@ -813,6 +796,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.google.org
 ||blog.golang.org
 ||govecn.org
+||gqueues.com
 ||graphycalc.com
 ||www.greasespot.net
 ||blog.growlforwindows.com
@@ -1755,7 +1739,10 @@ blog.qooza.hk*dafengqixi
 ||qstatus.com
 ||qtweeter.com
 ||qtrac.eu
+!--quadedge
 ||quadedge.com
+||www.getyouram.com
+||hiitch.com
 qusi8.net
 .qvodzy.org
 nemesis2.qx.net*pages*MyEnTunnel
