@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: x3+/ZfDO6gNXdl90vbWOMQ
+! Checksum: u78UmaTWXX4PeoBLnCdxFA
 ! Expires: 6h
-! Last Modified: Thu, 30 Dec 2010 01:20:44 +0800
+! Last Modified: Thu, 30 Dec 2010 14:32:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -733,7 +733,7 @@ docs.google.com*dgtbmwd6_934gg99v6g4cc
 docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
-||20thingsilearned.com
+||www.20thingsilearned.com
 !-A
 ||abelhadigital.com
 ||blog.aegisub.org
@@ -756,7 +756,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||codereview.chromium.org
 ||dev.chromium.org
 ||www.chromium.org
-||clementine-player.org
+||www.clementine-player.org
+||data.clementine-player.org
 ||rss.cnn.com
 !-D
 ||dailytodo.org
@@ -764,11 +765,10 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||github.danmarner.com
 ||designers-artists.com
 ||feeds.digg.com
-||linux.dipin.info
 ||mail.diyang.org
 ||blog.doughellmann.com
 ||downforeveryoneorjustme.com
-||dropmocks.com
+||www.dropmocks.com
 ||dumblittleman.com
 ||feeds.dzone.com
 !-E
@@ -804,7 +804,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.headius.com
 ||hogbaysoftware.com
 ||www.html5rocks.com
-||huhaitai.com
 ||blog.humanrightsfirst.org
 !-I
 ||site.icu-project.org
@@ -824,7 +823,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.keithmoyer.com
 ||blog.kengao.tw
 ||log.keso.cn
-||khanacademy.org
+||www.khanacademy.org
 ||usbloadergx.koureio.net
 ||blog.kowalczyk.info
 !-L
@@ -851,7 +850,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.modk.it
 ||mytwishirt.com
 !-N
-||needjav.net
 ||blog.netflix.com
 ||blog.nihilogic.dk
 ||nogoodatcoding.com
@@ -873,7 +871,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.reddit.com
 ||feeds.reuters.com
 ||robertmao.com
-||ghs.romeo-foxtrot.com
+||www.romeo-foxtrot.com
 !-S
 ||salmiyuck.com
 ||samsal.com
@@ -887,6 +885,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||stationeria.com
 ||sunjidong.net
 ||syniumsoftware.com
+@@||download.syniumsoftware.com
 !-T
 ||tagxedo.com
 ||blog.tatoeba.org
@@ -1140,6 +1139,7 @@ hrichina.org
 .huanghuagang.org
 ||huanghuagang.org
 ||hugoroy.eu
+t.huhaitai.com
 ||hungerstrikeforaids.org
 ||huping.net
 
