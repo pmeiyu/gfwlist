@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: u78UmaTWXX4PeoBLnCdxFA
+! Checksum: gHzZ1TRBFEwgpHhAJ+3yDQ
 ! Expires: 6h
-! Last Modified: Thu, 30 Dec 2010 14:32:11 +0800
+! Last Modified: Sat, 01 Jan 2011 03:09:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -626,6 +626,7 @@ freemorenews.com
 ||freessh.us
 www.freetibet.org
 ||freewallpaper4.me
+.freewebs.com
 .freexinwen.com
 friendfeed.com
 friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
@@ -768,6 +769,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||mail.diyang.org
 ||blog.doughellmann.com
 ||downforeveryoneorjustme.com
+||droidsecurity.com
 ||www.dropmocks.com
 ||dumblittleman.com
 ||feeds.dzone.com
@@ -1322,6 +1324,7 @@ zhllg.spaces.live.com
 
 ||livevideo.com
 .livevideo.com
+lizhizhuangbi.com
 ||lockdown.com
 ||logmike.com
 .longhair.hk
@@ -2033,6 +2036,7 @@ theblemish.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
+theqii.info/blog
 ||thesartorialist.com
 ||thesponty.com
 ||thetibetpost.com
@@ -2182,6 +2186,7 @@ bbs.tuitui.info
 ||blog.opentumblr.com
 ||blog.path.com
 ||blog.pikchur.com
+||blog.romanandreg.com
 ||thedailywh.at
 ||thechangelog.com
 ||thisiswhyyouarefat.com
@@ -2360,6 +2365,8 @@ earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
 .ustream.tv
 ||ustream.tv
+.uushare.com
+|http://uushare.com
 .uwants.com
 .uwants.net
 ||uyghurcongress.org
@@ -2383,7 +2390,9 @@ video.tiscali.it/canali/truveo
 .vimeo.com
 ||vimeo.com
 ||vinniev.com
-voachineseblog.com/heqinglian
+.voachineseblog.com
+||voachineseblog.com
+!--voachineseblog.com/heqinglian
 voanews.com/chinese
 .vot.org
 www.voy.com
@@ -2512,6 +2521,7 @@ worldjournal.com
 ||blog.thinglabs.com
 ||china.blogs.time.com
 ||blog.tinypic.com
+||blog.typekit.com
 ||blog.wakoopa.com
 ||wattsupwiththat.com
 ||webmink.com
