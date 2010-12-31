@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PeGEcFI6wY3ErzsqxxTPVw
+! Checksum: anoPWWPWkw1ymJBr9K9TdA
 ! Expires: 6h
-! Last Modified: Sat, 01 Jan 2011 03:14:13 +0800
+! Last Modified: Sat, 01 Jan 2011 03:21:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1084,6 +1084,7 @@ h1n1china.org
 ||hackthatphone.net
 ||hakkatv.org.tw
 ||hasaowall.com
+||hdzone.org
 ||heartyit.com
 .hecaitou.net
 ||hecaitou.net
