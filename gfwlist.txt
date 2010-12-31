@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gHzZ1TRBFEwgpHhAJ+3yDQ
+! Checksum: PeGEcFI6wY3ErzsqxxTPVw
 ! Expires: 6h
-! Last Modified: Sat, 01 Jan 2011 03:09:25 +0800
+! Last Modified: Sat, 01 Jan 2011 03:14:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2573,18 +2573,12 @@ s.xiaod.in
 xinsheng.net
 xinshijue.com
 xinhuanet.org
-.xirang.us
-||xirang.us
 xizang-zhiye.org
 xmovies.com
-||xnview.com
-.xnxx.com
-||xnxx.com
 ||xpud.org
 ||k2.xrea.com
 xtube.com
 blog.xuite.net
-||photo.xuite.net
 vlog.xuite.net
 xuzhiyong.net
 xvediox.com
@@ -2593,8 +2587,6 @@ xvediox.com
 ||xxxx.com.au
 xys.org
 xysblogs.org
-.xysforum.org
-||xysforum.org
 
 !--------------------------YY--------------------------
 buy.yahoo.com.tw/gdsale
@@ -2616,12 +2608,10 @@ yfrog.com
 .yi.org
 .yidio.com
 ||yidio.com
-||yihanfans.org
 yilubbs.com
 xa.yimg.com
 .yipub.com
 ||yipub.com
-||yixiaocuo.com
 .yogichen.org
 ||yogichen.org
 yong.hu
@@ -2689,7 +2679,6 @@ zhufeng.me
 .zoozle.net
 ||zuihulu.net
 .zuihulu.net
-||zunedevwiki.org
 .zuo.la
 ||zuo.la
 .zuola.com
