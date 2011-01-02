@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: anoPWWPWkw1ymJBr9K9TdA
+! Checksum: tp8FXn6mNlwkQvYzJhhEaw
 ! Expires: 6h
-! Last Modified: Sat, 01 Jan 2011 03:21:13 +0800
+! Last Modified: Sun, 02 Jan 2011 14:49:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -915,9 +915,11 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.wavesandbox.com
 ||webfee.org.ru
 ||blog.webmproject.org
+||whatbrowser.org
 ||willhains.com
 ||blog.wundercounter.com
 !-X
+||xdelta.org
 ||xiaogaozi.org
 ||xzy.org.ru
 !-Y
@@ -2033,7 +2035,6 @@ theblemish.com
 ||thedieline.com
 ||thedw.us
 ||thegatesnotes.com
-||thehungrydudes.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
@@ -2191,10 +2192,9 @@ bbs.tuitui.info
 ||thedailywh.at
 ||thechangelog.com
 ||thisiswhyyouarefat.com
-||blogs.thws.cn
 ||tomsc.com
 ||blog.topify.com
-||twohungrydudes.com
+||thehungrydudes.com
 ||tumblweed.org
 ||status.twhirl.org
 !-||status.twitter.com
@@ -2240,18 +2240,15 @@ tweetphoto.com
 ||tweetrans.com
 ||tweetwally.com
 tweetymail.com
-||twforum.com
 twibase.com
 .twibble.de
 ||twibble.de
 twibbon.com
 ||twibs.com
 ||twindexx.com
-||twilightrender.com
 twilog.org
 ||twip.me/
 twistar.cc
-||twisell.com
 twisternow.com
 twistory.net
 twitbrowser.net
@@ -2259,7 +2256,6 @@ twitbrowser.net
 ||twitgether.com
 ||twiggit.org
 twitgoo.com
-||twithive.com
 twitiq.com
 ||twitiq.com
 .twitlonger.com
@@ -2301,7 +2297,6 @@ twitterfeed.com
 twittertim.es
 ||twittertim.es
 twitthat.com
-||twitthis.com
 .twitturly.com
 ||twitturly.com
 .twitzap.com
@@ -2346,7 +2341,6 @@ uighurbiz.net
 .ulike.net
 ||ultravpn.fr
 .ultrevpn.fr
-||ultrawebsitehosting.com
 ultraxs.com
 uncyclomedia.org
 uncyclopedia.info
@@ -2387,7 +2381,6 @@ veoh.com
 .videomo.com
 ||vidoemo.com
 video.tiscali.it/canali/truveo
-||village-idiot.org
 .vimeo.com
 ||vimeo.com
 ||vinniev.com
@@ -2419,7 +2412,6 @@ wanglixiong.com
 wangruoshui.net
 www.wangruowang.org
 wapedia.mobi/zhsimp
-||war2wall.info
 .makzhou.warehouse333.com
 washeng.net
 .wattpad.com
@@ -2455,7 +2447,6 @@ wezhiyong.org
 wg1966.com
 .whatblocked.com
 ||whatblocked.com
-||whatbrowser.org
 .whippedass.com
 ||whyx.org
 zh.uncyclopedia.wikia.com
@@ -2495,7 +2486,6 @@ worldjournal.com
 ||blogs.cnn.com
 ||blog.drakengren.com
 ||blog.feedly.com
-||blog.flickr.net
 ||fourwallsandaroof.com
 ||herbsutter.com
 ||hiveminds.co.uk
@@ -2518,7 +2508,6 @@ worldjournal.com
 ||smedio.com
 ||steveblank.com
 ||blog.symbian.org
-||technologizer.com
 ||blog.thinglabs.com
 ||china.blogs.time.com
 ||blog.tinypic.com
@@ -2559,7 +2548,6 @@ x365x.com
 ||xbookcn.com
 x.xcity.jp
 .xcritic.com
-||xdelta.org
 destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
 xh4n.cn/blog
