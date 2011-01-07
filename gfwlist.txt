@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ruNg2hoNrXfN/Xm5NJ+N7Q
+! Checksum: IZfQUdy7g6IEoWO2B/AFMA
 ! Expires: 6h
-! Last Modified: Fri, 07 Jan 2011 21:09:09 +0800
+! Last Modified: Fri, 07 Jan 2011 22:41:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2424,6 +2424,7 @@ webshots.com
 websitepulse.com/help/testtools.china-test.html
 ||webupd8.org
 webworkerdaily.com
+weeewooo.net/hss/hotspot_cn
 .weekmag.info
 .wefong.com
 weijingsheng.org
