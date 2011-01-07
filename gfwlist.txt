@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tp8FXn6mNlwkQvYzJhhEaw
+! Checksum: RkbAJF5rxpl9oBWkp4HRWw
 ! Expires: 6h
-! Last Modified: Sun, 02 Jan 2011 14:49:56 +0800
+! Last Modified: Fri, 07 Jan 2011 14:29:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -50,7 +50,6 @@ info.51.ca
 ||6park.com
 ||www.6v6dota.com
 ||7capture.com
-||7ztm.de.vu
 .8000.com
 ||8000.com
 .888.com
