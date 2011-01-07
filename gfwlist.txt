@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RkbAJF5rxpl9oBWkp4HRWw
+! Checksum: ruNg2hoNrXfN/Xm5NJ+N7Q
 ! Expires: 6h
-! Last Modified: Fri, 07 Jan 2011 14:29:33 +0800
+! Last Modified: Fri, 07 Jan 2011 21:09:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -914,7 +914,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||www.wavesandbox.com
 ||webfee.org.ru
 ||blog.webmproject.org
-||whatbrowser.org
+||www.whatbrowser.org
 ||willhains.com
 ||blog.wundercounter.com
 !-X
