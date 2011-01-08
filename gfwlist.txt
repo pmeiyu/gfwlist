@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: IZfQUdy7g6IEoWO2B/AFMA
+! Checksum: nEhkldUF/Ll9AgjonIMWzQ
 ! Expires: 6h
-! Last Modified: Fri, 07 Jan 2011 22:41:29 +0800
+! Last Modified: Sat, 08 Jan 2011 13:27:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -15,7 +15,7 @@ t.16class.cn
 173ng.com
 ||173ng.com
 .17e.org
-||17e.org
+|http://17e.org/
 1984bbs.com
 ||1984bbs.com
 .1984bbs.org
