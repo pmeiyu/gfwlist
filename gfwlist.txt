@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nEhkldUF/Ll9AgjonIMWzQ
+! Checksum: J7roqIQCyLaPZ3qIUNy3lQ
 ! Expires: 6h
-! Last Modified: Sat, 08 Jan 2011 13:27:13 +0800
+! Last Modified: Sat, 08 Jan 2011 14:22:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2124,6 +2124,7 @@ bbs.tuitui.info
 ||turningtorso.com
 ||tuxmachines.org
 ||tuxtraining.com
+twurl.nl
 
 !-------------Tumblr-----
 ||tumblr.com
