@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UQsWVAKg9ksFjlr4C5nAKQ
+! Checksum: hfRRNPju7jGlRyT5eY8pwg
 ! Expires: 6h
-! Last Modified: Sun, 16 Jan 2011 13:56:33 +0800
+! Last Modified: Sun, 16 Jan 2011 14:03:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -275,7 +275,6 @@ holz.byethost8.com
 ||c-est-simple.com
 .cafepress.com
 .calameo.com/books
-||caodan.net
 .cn.calameo.com
 |http://cn.calameo.com
 canadameet.com
@@ -285,6 +284,7 @@ canadameet.com
 ||caobian.info
 caochangqing.com
 ||caochangqing.com
+||caodan.net
 .catholic.org.hk
 ||catholic.org.hk
 .ccc.de
