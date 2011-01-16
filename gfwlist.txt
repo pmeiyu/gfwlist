@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: J7roqIQCyLaPZ3qIUNy3lQ
+! Checksum: UQsWVAKg9ksFjlr4C5nAKQ
 ! Expires: 6h
-! Last Modified: Sat, 08 Jan 2011 14:22:31 +0800
+! Last Modified: Sun, 16 Jan 2011 13:56:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -275,6 +275,7 @@ holz.byethost8.com
 ||c-est-simple.com
 .cafepress.com
 .calameo.com/books
+||caodan.net
 .cn.calameo.com
 |http://cn.calameo.com
 canadameet.com
@@ -1470,6 +1471,8 @@ neverforget8964.org
 new-3lunch.net
 .new-akiba.com
 newcenturynews.com
+||newchen.com
+.newchen.com
 .newgrounds.com
 .newnews.ca
 ||newnews.ca
