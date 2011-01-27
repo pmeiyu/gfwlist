@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: djZXbejTVsBdURrlzSNE4A
+! Checksum: 1sxJ5eptympQNVxF5ykafQ
 ! Expires: 6h
-! Last Modified: Thu, 27 Jan 2011 23:20:07 +0800
+! Last Modified: Thu, 27 Jan 2011 23:53:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -676,6 +676,7 @@ gardennetworks.com
 !--IP of Garden Network
 72.52.81.22
 ||gartlive.com
+||gather.com
 ||gaymap.cc
 .gazotube.com
 ||gazotube.com
@@ -806,6 +807,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||s.evernote.com
 ||evhead.com
 !-F
+||linux.fatduck.org
 ||blog.fdcn.org
 ||fftogo.com
 ||flightsimtalk.com
@@ -881,6 +883,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-N
 ||blog.netflix.com
 ||blog.nihilogic.dk
+||nvquan.org
 ||nogoodatcoding.com
 ||blog.notdot.net
 !-O
@@ -935,8 +938,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-U
 ||ub0.cc
 ||jonny.ubuntu-tw.net
+||blog.umonkey.net
 ||ukehk.com
-||ultrasn0w.ca
 !-V
 ||tp.vbap.com.au
 !-W
@@ -1136,6 +1139,7 @@ hellotxt.com
 ||cl.ly
 @@||f.cl.ly
 ||speckleapp.com
+||stuffimreading.net
 
 ||heungkongdiscuss.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -1379,6 +1383,7 @@ lsforum.net
 
 !--------------------------MM--------------------------
 ||mad-ar.ch
+.maiio.net
 mail-archive.com
 ||makemymood.com
 ||makeyourownwordboner.com
@@ -1396,7 +1401,6 @@ mashable.com
 mayimayi.com
 .md-t.org
 ||md-t.org
-||mediafire.com
 ||meetup.com
 lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 ||megaporn.com
@@ -1406,6 +1410,7 @@ megavideo.com
 meirixiaochao.com
 ||melon-peach.com
 memedia.cn
+.mesotw.com/bbs
 .metacafe.com
 ||meteorshowersonline.com
 mhradio.org
@@ -1464,6 +1469,7 @@ multiupload.com
 ||muouju.com
 ||muzi.com
 ||muzi.net
+||mx981.com
 ||myaudiocast.com
 ||bbs.mychat.to
 ||mychinamyhome.com
@@ -2206,6 +2212,7 @@ twurl.nl
 ||fredwilson.vc
 !--||blog.foursquare.com
 ||fuckgfw.com
+||geekmade.co.uk
 ||generesis.com
 ||news.ghostery.com
 ||givemesomethingtoread.com
@@ -2214,6 +2221,7 @@ twurl.nl
 ||blog.hotpotato.com
 ||ialmostlaugh.com
 ||blog.instapaper.com
+||interestinglaugh.com
 ||blog.iphone-dev.org
 ||jayparkinsonmd.com
 ||blog.joeyrobert.org
@@ -2234,6 +2242,7 @@ twurl.nl
 ||blog.path.com
 ||blog.pikchur.com
 ||blog.romanandreg.com
+||stuffimreading.com
 ||thedailywh.at
 ||thechangelog.com
 ||thisiswhyyouarefat.com
@@ -2429,6 +2438,7 @@ video.tiscali.it/canali/truveo
 .vimeo.com
 ||vimeo.com
 ||vinniev.com
+||vmixcore.com
 .voachineseblog.com
 ||voachineseblog.com
 !--voachineseblog.com/heqinglian
@@ -2555,6 +2565,7 @@ worldjournal.com
 ||smedio.com
 ||steveblank.com
 ||blog.symbian.org
+||thebrigade.com
 ||blog.thinglabs.com
 ||china.blogs.time.com
 ||blog.tinypic.com
