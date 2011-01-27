@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hfRRNPju7jGlRyT5eY8pwg
+! Checksum: MSuVCzoFk0QqM8s7u3hK0g
 ! Expires: 6h
-! Last Modified: Sun, 16 Jan 2011 14:03:35 +0800
+! Last Modified: Thu, 27 Jan 2011 18:00:11 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -188,6 +188,8 @@ news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
 .bbcchinese.com
 ||bbcchinese.com
+|http://bbc.in
+.bbg.gov
 ||bbsfeed.com
 bbsland.com
 .bcc.com.tw/board
@@ -203,6 +205,8 @@ beijingspring.com
 ||bestforchina.org
 .bet365.com
 .betfair.com
+.bettween.com
+||bettween.com
 ||bfnn.org
 ||bfsh.hk/
 .bignews.org
@@ -251,6 +255,8 @@ boxun.com
 ||bkite.com
 brightkite.com
 ||brightkite.com
+brizzly.com
+||brizzly.com
 www.ibros.org
 ||bt95.com
 .budaedu.org
@@ -575,6 +581,7 @@ feer.com
 ||feministteacher.com
 .fengzhenghu.com
 ||fengzhenghu.com
+fflick.com
 .fgmtv.org
 fillthesquare.org
 findbook.tw
@@ -595,6 +602,7 @@ blog.foolsmountain.com
 www.forum4hk.com
 pioneer-worker.forums-free.com
 foursquare.com
+|http://4sq.com
 ||fotop.net
 .free.fr/adsl
 ||allonlinux.free.fr
@@ -630,6 +638,7 @@ www.freetibet.org
 .freexinwen.com
 friendfeed.com
 friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
+|http://ff.im
 ||frommel.net
 ||fscked.org
 .fsurf.com
@@ -673,6 +682,8 @@ geocities.jp
 ||geohot.com
 ||geometrictools.com
 ||get-digital-help.com
+||getcloudapp.com
+||cl.ly
 .getfreedur.com
 .getjetso.com/forum
 getiton.com
@@ -774,7 +785,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||dumblittleman.com
 ||feeds.dzone.com
 !-E
-||www.echofon.com
+||echofon.com
 ||epc-jav.com
 ||everdark.info
 ||s.evernote.com
@@ -1177,7 +1188,7 @@ igfw.tk
 imageshack.us
 ||imagevenue.com
 .imdb.com
-|http://imdb.com
+||imdb.com
 .img.ly
 ||img.ly
 .imkev.com
@@ -2156,6 +2167,7 @@ twurl.nl
 ||davidslog.com
 ||blog.davidziegler.net
 ||drewolanoff.com
+||blog.dribbble.com
 ||chaos.e-spacy.com
 ||eamonnbrennan.com
 ||eyespirit.info
@@ -2670,6 +2682,7 @@ zhufeng.me
 .zonaeuropa.com
 ||zonaeuropa.com
 .zoozle.net
+writer.zoho.com
 ||zuihulu.net
 .zuihulu.net
 .zuo.la
