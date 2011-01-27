@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MSuVCzoFk0QqM8s7u3hK0g
+! Checksum: 80OnrU50UgCVoisFw9umoA
 ! Expires: 6h
-! Last Modified: Thu, 27 Jan 2011 18:00:11 +0800
+! Last Modified: Thu, 27 Jan 2011 18:44:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -684,6 +684,7 @@ geocities.jp
 ||get-digital-help.com
 ||getcloudapp.com
 ||cl.ly
+@@||f.cl.ly
 .getfreedur.com
 .getjetso.com/forum
 getiton.com
