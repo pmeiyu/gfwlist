@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JXVNJZNmt/kviU96y3aFCg
+! Checksum: x9gRgWN7G2WEDj5P6FGS0A
 ! Expires: 6h
-! Last Modified: Thu, 27 Jan 2011 20:54:46 +0800
+! Last Modified: Thu, 27 Jan 2011 21:16:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -215,6 +215,7 @@ beijingspring.com
 ||bill2-software.com
 ||billywr.com
 .bitsnoop.com
+|http://bitsnoop.com
 bjzc.org
 ||bjzc.org/
 ||blackra1n.com
