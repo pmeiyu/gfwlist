@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vQ5M7CA37L3cXU++5r9FCQ
+! Checksum: djZXbejTVsBdURrlzSNE4A
 ! Expires: 6h
-! Last Modified: Thu, 27 Jan 2011 23:15:25 +0800
+! Last Modified: Thu, 27 Jan 2011 23:20:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -771,7 +771,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||rss.berryreview.com
 ||docs.blacktree.com
 ||secrets.blacktree.com
-||www.blacktree.xom
+||www.blacktree.com
 ||feeds.boingboing.net
 ||moblog.bradleyit.com
 ||buzzcantweet.com
