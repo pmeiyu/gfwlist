@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wU9cyJlAf4Gz5bpbWJedjA
+! Checksum: o7F86y1LsvPMVbQ+hxhG+Q
 ! Expires: 6h
-! Last Modified: Thu, 27 Jan 2011 22:39:34 +0800
+! Last Modified: Thu, 27 Jan 2011 22:53:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -688,9 +688,6 @@ geocities.jp
 ||geohot.com
 ||geometrictools.com
 ||get-digital-help.com
-||getcloudapp.com
-||cl.ly
-@@||f.cl.ly
 .getfreedur.com
 .getjetso.com/forum
 getiton.com
@@ -1126,6 +1123,13 @@ hellotxt.com
 .hellouk.org/forum/lofiversion
 .helpeachpeople.com
 ||helpeachpeople.com
+
+!--Heroku
+||heroku.com
+||getcloudapp.com
+||cl.ly
+@@||f.cl.ly
+
 ||heungkongdiscuss.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
