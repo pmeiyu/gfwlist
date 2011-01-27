@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: o7F86y1LsvPMVbQ+hxhG+Q
+! Checksum: vQ5M7CA37L3cXU++5r9FCQ
 ! Expires: 6h
-! Last Modified: Thu, 27 Jan 2011 22:53:12 +0800
+! Last Modified: Thu, 27 Jan 2011 23:15:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -357,6 +357,7 @@ chinasoul.org
 blog.chinatimes.com
 camera.chinatimes.com
 gb.chinatimes.com/gate/gb*2007Cti-News
+gb.chinatimes.com/gate/gb/news.chinatimes.com/focus
 news.chinatimes.com/2007Cti*0,4521,130505
 news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
 chinatweeps.com
@@ -407,6 +408,8 @@ comefromchina.com
 ||conoyo.com
 .coolaler.com
 ||coolaler.com
+coolder.com
+||coolder.com
 ||coolloud.org.tw
 corumcollege.com
 ||couchdbwiki.com
@@ -655,7 +658,8 @@ fulue.com
 funp.com
 .futurechinaforum.org
 ||futuremessage.org
-||fzh999.net
+fzh999.com
+fzh999.net
 
 !------------------------GG------------------------
 ||gabocorp.com
@@ -819,6 +823,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.go2web20.net
 ||blog.google.org
 ||blog.golang.org
+||fame.gonzolabs.org
 ||govecn.org
 ||gqueues.com
 ||graphycalc.com
@@ -1109,6 +1114,7 @@ h1n1china.org
 ||hackthatphone.net
 ||hakkatv.org.tw
 ||hasaowall.com
+||hdtvb.net
 ||hdzone.org
 ||heartyit.com
 .hecaitou.net
@@ -1129,6 +1135,7 @@ hellotxt.com
 ||getcloudapp.com
 ||cl.ly
 @@||f.cl.ly
+||speckleapp.com
 
 ||heungkongdiscuss.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -2531,6 +2538,7 @@ worldjournal.com
 ||hoparoundtheglobe.com
 ||hunbulin.com
 ||icanhascheezburger.com
+||support.intensedebate.com
 ||blog.linkedin.com
 ||menro.me
 ||michaeldehaan.net
@@ -2798,6 +2806,8 @@ search*%E6%96%B0%E8%AF%AD%E4%B8%9D
 %E8%B5%B5%E7%B4%AB%E9%98%B3
 !--Zhong Gong
 search*%E4%B8%AD%E5%8A%9F
+!--Zhong Guo Lun Tan
+search*%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B
 !--Zhong Xuan Bu
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
@@ -3073,6 +3083,8 @@ zh.wikipedia.org*%E5%94%AF%E8%89%B2
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87
 !--Wen Yun Song
 zh.wikipedia.org*%E6%B8%A9%E4%BA%91%E6%9D%BE
+!--Wu Bang Guo
+zh.wikipedia.org*%E5%90%B4%E9%82%A6%E5%9B%BD
 !--Wo De Fen Dou
 zh.wikipedia.org*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Er Kai Xi
