@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 80OnrU50UgCVoisFw9umoA
+! Checksum: JXVNJZNmt/kviU96y3aFCg
 ! Expires: 6h
-! Last Modified: Thu, 27 Jan 2011 18:44:40 +0800
+! Last Modified: Thu, 27 Jan 2011 20:54:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -214,6 +214,7 @@ beijingspring.com
 .bigsound.org/portnoy
 ||bill2-software.com
 ||billywr.com
+.bitsnoop.com
 bjzc.org
 ||bjzc.org/
 ||blackra1n.com
@@ -221,6 +222,8 @@ bjzc.org
 ||limesn0w.com
 ||purplera1n.com
 tor.blingblingsquad.net
+.blinkx.com
+||blinkx.com
 .blip.tv
 ||blip.tv/
 .blogcatalog.com
@@ -382,6 +385,8 @@ chuizi.net
 city9x.com
 .civicparty.hk
 ||civicparty.hk
+civilhrfront.org
+||civilhrfront.org
 psiphon.civisec.org
 ||shell.cjb.net
 .ck101.com
@@ -723,6 +728,7 @@ gs-discuss.com
 ||gtkforums.com
 ||gtricks.com
 guancha.org
+.gun-world.net
 ||gutteruncensored.com
 .gzm.tv
 ||gzone-anime.info
@@ -753,6 +759,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||developer.android.com
 ||pdk.android.com
 ||appbrain.com
+||my.architexa.com
+||aurorasoftworks.com
 ||avwikipedia.com
 !-B
 ||www.benjamingolub.com
@@ -882,6 +890,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-Q
 !-R
 ||r-chart.com
+||rameshsubramanian.org
 ||blog.reddit.com
 ||feeds.reuters.com
 ||robertmao.com
@@ -1254,6 +1263,7 @@ t.jteet.com
 ||ka-wai.com
 .kagyuoffice.org.tw
 ||kagyuoffice.org.tw
+.kaiyuan.de
 kanzhongguo.com
 ||karayou.com
 ||kcsoftwares.com
@@ -1985,6 +1995,8 @@ squarespace.com
 ||sshcenter.com
 www.stackfile.com/freedur
 usinfo.state.gov
+.starp2p.com
+||starp2p.com
 .state168.com
 ||steel-storm.com
 .stickam.com
@@ -2677,6 +2689,7 @@ zhengjian.org
 .zhinengluyou.com
 zhonggtuotese.net
 ||zhongmeng.org
+.zhongxing9hao.net.cn
 ||zhreader.com
 zhufeng.me
 .ziddu.com/download
