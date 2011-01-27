@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: x9gRgWN7G2WEDj5P6FGS0A
+! Checksum: wU9cyJlAf4Gz5bpbWJedjA
 ! Expires: 6h
-! Last Modified: Thu, 27 Jan 2011 21:16:26 +0800
+! Last Modified: Thu, 27 Jan 2011 22:39:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -724,6 +724,8 @@ grandtrial.org
 .greenparty.org.tw
 gpass1.com
 great-firewall.com
+||greenpois0n.com
+greetroc.org
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gtkforums.com
@@ -766,7 +768,9 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-B
 ||www.benjamingolub.com
 ||rss.berryreview.com
+||docs.blacktree.com
 ||secrets.blacktree.com
+||www.blacktree.xom
 ||feeds.boingboing.net
 ||moblog.bradleyit.com
 ||buzzcantweet.com
@@ -2111,6 +2115,7 @@ tldp.org
 togetter.com
 .tokyo-247.com
 tokyo-hot.com
+tonyyan.net
 .toodoc.com
 .topnews.in
 ||topshare.us
