@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1sxJ5eptympQNVxF5ykafQ
+! Checksum: eOV/pQqJWWdUoCcjhvy/Og
 ! Expires: 6h
-! Last Modified: Thu, 27 Jan 2011 23:53:33 +0800
+! Last Modified: Sun, 30 Jan 2011 00:53:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -858,6 +858,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||usbloadergx.koureio.net
 ||blog.kowalczyk.info
 !-L
+||labyrinth2.com
 ||blog.lastpass.com
 ||docs.latexlab.org
 ||blog.lidaobing.info
@@ -1186,6 +1187,7 @@ hrichina.org
 ||huanghuagang.org
 ||hugoroy.eu
 t.huhaitai.com
+.hulu.com
 ||hungerstrikeforaids.org
 ||huping.net
 
@@ -2140,6 +2142,7 @@ tonyyan.net
 ||topstyle4.com
 ||topsy.com
 topsy.com
+tora.to
 ||tornadoweb.org
 .torproject.org
 touch99.com
