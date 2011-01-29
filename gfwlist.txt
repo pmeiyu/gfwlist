@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eOV/pQqJWWdUoCcjhvy/Og
+! Checksum: ap5pgosMQxubi4JjbE6L2g
 ! Expires: 6h
-! Last Modified: Sun, 30 Jan 2011 00:53:48 +0800
+! Last Modified: Sun, 30 Jan 2011 02:02:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -400,6 +400,7 @@ psiphon.civisec.org
 .cnavista.com.tw/shop/stores_app
 .cnd.org
 ||cnd.org/
+.cnn.com/video
 cn.news.cnyes.com
 ||cochina.org
 .code1984.com/64
