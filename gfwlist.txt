@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ap5pgosMQxubi4JjbE6L2g
+! Checksum: Q5xX8lleQpHb3khmjL93xw
 ! Expires: 6h
-! Last Modified: Sun, 30 Jan 2011 02:02:01 +0800
+! Last Modified: Wed, 02 Feb 2011 22:12:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2537,60 +2537,60 @@ wjd.name
 worldjournal.com
 
 !-------------Wordpress Blog-----
-||tech.blog.aknin.name
-||automattic.com
-||bhorowitz.com
-||blog.bittorrent.com
-||blogmaverick.com
-||breakingnewsworld.org
-||blogs.cnn.com
-||blog.drakengren.com
-||blog.feedly.com
-||fourwallsandaroof.com
-||herbsutter.com
-||hiveminds.co.uk
-||hoparoundtheglobe.com
-||hunbulin.com
-||icanhascheezburger.com
-||support.intensedebate.com
-||blog.linkedin.com
-||menro.me
-||michaeldehaan.net
-||mynokiablog.com
-||nandalala.com
-||p2theme.com
-||pixelbread.com
-||blog.pixelpipe.com
-||blog.polldaddy.com
-||rawfoodsos.com
-||rayous.com
-||semicolonapps.com
-||sharpinsandiego.com
-||smedio.com
-||steveblank.com
-||blog.symbian.org
-||thebrigade.com
-||blog.thinglabs.com
-||china.blogs.time.com
-||blog.tinypic.com
-||blog.typekit.com
-||blog.wakoopa.com
-||wattsupwiththat.com
-||webmink.com
+!-||tech.blog.aknin.name
+!-||automattic.com
+!-||bhorowitz.com
+!-||blog.bittorrent.com
+!-||blogmaverick.com
+!-||breakingnewsworld.org
+!-||blogs.cnn.com
+!-||blog.drakengren.com
+!-||blog.feedly.com
+!-||fourwallsandaroof.com
+!-||herbsutter.com
+!-||hiveminds.co.uk
+!-||hoparoundtheglobe.com
+!-||hunbulin.com
+!-||icanhascheezburger.com
+!-||support.intensedebate.com
+!-||blog.linkedin.com
+!-||menro.me
+!-||michaeldehaan.net
+!-||mynokiablog.com
+!-||nandalala.com
+!-||p2theme.com
+!-||pixelbread.com
+!-||blog.pixelpipe.com
+!-||blog.polldaddy.com
+!-||rawfoodsos.com
+!-||rayous.com
+!-||semicolonapps.com
+!-||sharpinsandiego.com
+!-||smedio.com
+!-||steveblank.com
+!-||blog.symbian.org
+!-||thebrigade.com
+!-||blog.thinglabs.com
+!-||china.blogs.time.com
+!-||blog.tinypic.com
+!-||blog.typekit.com
+!-||blog.wakoopa.com
+!-||wattsupwiththat.com
+!-||webmink.com
 caiting666.wordpress.com
 rfaunplugged.wordpress.com
 zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
-||wordpress.com
-|http://wp.com/
+!-||wordpress.com
+!-|http://wp.com/
 @@|http://wordpress.com
 @@|https://wordpress.com
 @@||files.wordpress.com
-||android.wordpress.org
-||ios.wordpress.org
-||wormsculptor.com
-||wp.me
+!-||android.wordpress.org
+!-||ios.wordpress.org
+!-||wormsculptor.com
+!-||wp.me
 
 .wpoforum.com
 ||wpoforum.com
