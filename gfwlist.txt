@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q5xX8lleQpHb3khmjL93xw
+! Checksum: sJP9gqKB3pJE11/NWNtudw
 ! Expires: 6h
-! Last Modified: Wed, 02 Feb 2011 22:12:31 +0800
+! Last Modified: Thu, 03 Feb 2011 19:02:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -824,6 +824,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||gmer.net
 ||www.gmote.org
 ||blog.go2web20.net
+||www.googleartproject.com
 ||blog.google.org
 ||blog.golang.org
 ||fame.gonzolabs.org
