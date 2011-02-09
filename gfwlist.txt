@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vCLARGwoEKSUw+yJPk7GCw
+! Checksum: 9uP2JvNATe+7PUW2uBC4pA
 ! Expires: 6h
-! Last Modified: Wed, 09 Feb 2011 13:59:09 +0800
+! Last Modified: Wed, 09 Feb 2011 19:25:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1406,6 +1406,7 @@ mayimayi.com
 .md-t.org
 ||md-t.org
 ||meetup.com
+.megabyet.net
 lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 ||megaporn.com
 ||megarotic.com
@@ -2639,9 +2640,16 @@ xysblogs.org
 
 !--------------------------YY--------------------------
 buy.yahoo.com.tw/gdsale
-hk.*yahoo.com
+hk.yahoo.com
+hk.knowledge.yahoo.com
+hk.myblog.yahoo.com
+hk.news.yahoo.com
+hk.rd.yahoo.com
+hk.search.yahoo.com/search
 meme.yahoo.com
-tw.*yahoo.com
+tw.yahoo.com
+tw.myblog.yahoo.com
+tw.news.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
 !--video.yahoo.com/watch
