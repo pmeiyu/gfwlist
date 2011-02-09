@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YyW3r1Lofg3jO33PChZ7aA
+! Checksum: vCLARGwoEKSUw+yJPk7GCw
 ! Expires: 6h
-! Last Modified: Thu, 03 Feb 2011 21:13:11 +0800
+! Last Modified: Wed, 09 Feb 2011 13:59:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2122,6 +2122,7 @@ tibetfund.org
 ||tibetwrites.org
 .time.com/time/time100/leaders/profile/rebel
 .time.com/time/specials/packages/article/0,28804
+times.hinet.net/times/module.do?option=mainland
 ||blog.tiney.com
 ||tinypaste.com
 ||i28.tinypic.com
@@ -2385,16 +2386,12 @@ tuite.in
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
 humanities.uchicago.edu/faculty/ywang/hi
-udn.com/news/main
 album.udn.com
 blog.udn.com
 bookmark.udn.com/bookmark
 city.udn.com
-dignews.udn.com
+dignews.udn.com/forum/
 forum.udn.com
-paper.udn.com
-||www.udn.com
-video.udn.com
 .ueuo.com
 uighurbiz.net
 .ulike.net
