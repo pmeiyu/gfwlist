@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kJLfELMVCPEr3U6TAmAExw
+! Checksum: tl3dGz7alkCc/4rOtg/ZJg
 ! Expires: 6h
-! Last Modified: Thu, 10 Feb 2011 15:21:52 +0800
+! Last Modified: Thu, 10 Feb 2011 15:23:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2388,6 +2388,14 @@ twiyia.com
 tynsoe.org
 ||typepad.com
 @@||www.typepad.com
+||blog.expofutures.com
+||legaltech.law.com
+||www.loiclemeur.com
+||latimesblogs.latimes.com
+||blog.palm.com
+!-||blog.seesmic.com
+||blogs.tampabay.com
+||contests.twilio.com
 lawprofessors.typepad.com/china_law_prof_blog
 ||tzangms.com
 
