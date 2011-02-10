@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bH95Zx8fcq6lJJb/jLSDlw
+! Checksum: R0NDIaH8WGRrY2hmyJ6o3A
 ! Expires: 6h
-! Last Modified: Thu, 10 Feb 2011 20:43:43 +0800
+! Last Modified: Thu, 10 Feb 2011 22:21:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2540,6 +2540,7 @@ wg1966.com
 .whatblocked.com
 ||whatblocked.com
 .whippedass.com
+||whitebear.freebearblog.org
 ||whyx.org
 zh.uncyclopedia.wikia.com
 213.251.145.96
