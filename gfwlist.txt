@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3m9hnNWPQdM4iK+DO+Fvow
+! Checksum: kJLfELMVCPEr3U6TAmAExw
 ! Expires: 6h
-! Last Modified: Thu, 10 Feb 2011 14:51:21 +0800
+! Last Modified: Thu, 10 Feb 2011 15:21:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -52,6 +52,7 @@ info.51.ca
 ||7capture.com
 .8000.com
 ||8000.com
+www.881903.com/page/zh-tw/
 .888.com
 89-64.org
 ||89-64.org
@@ -356,6 +357,7 @@ chinasoul.org
 ||chinasoul.org
 blog.chinatimes.com
 camera.chinatimes.com
+forum.chinatimes.com
 gb.chinatimes.com/gate/gb*2007Cti-News
 gb.chinatimes.com/gate/gb/news.chinatimes.com/focus
 news.chinatimes.com/2007Cti*0,4521,130505
@@ -1159,8 +1161,10 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 |http://hk-pub.com/forum
 .hk32168.com
 ||hk32168.com
+app.hkatvnews.com/v3
 .hkbf.org
 hkday.net
+.hkdailynews.com.hk/china.php
 .hkej.com/template/forum
 .hkepc.com/forum/viewthread.php?tid=1153322
 global.hkepc.com*forum
@@ -1470,6 +1474,7 @@ bbs.morbell.com
 mpinews.com
 mrtweet.com
 ||mrtweet.com
+news.msn.com.tw
 .msguancha.com
 ||mthruf.com
 ||multiply.com
@@ -1562,12 +1567,10 @@ nobelprize.org/nobel_prizes/peace/laureates/2010
 ||noobbox.com
 ||notebookaddon.tk
 ||novelasia.com
-.nownews.com
-||nownews.com
-!.nownews.com/cybersex
-!.nownews.com/box
-!||blog.nownews.com
-!forum.nownews.com
+.nownews.com/cybersex
+.nownews.com/box
+||blog.nownews.com
+forum.nownews.com
 .nowtorrents.com
 .nps.gov
 .nrk.no
@@ -1595,7 +1598,7 @@ old-cat.net
 ||omg-facts.com
 omgili.com
 omnitalk.
-||on.cc^
+the-sun.on.cc/cnt/
 ||onebigfluke.com
 ||caterpillar.onlyfun.net
 .onlylady.cn
@@ -1716,6 +1719,8 @@ zh.pokerstrategy.com
 .porntube.com
 .pornvisit.com
 postadult.com
+news.pts.org.tw
+web.pts.org.tw
 
 !-------------Posterous-----
 |http://post.ly
@@ -1778,6 +1783,7 @@ psiphon.ca
 .ptt.cc
 .puffstore.com
 ||puffstore.com
+@@|https://puffstore.com
 ||pullfolio.com
 ||pureconcepts.net
 ||purepdf.com
@@ -1977,6 +1983,10 @@ sitetag.us
 ||skydur.com
 ||skype.com
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
+@@||go.skype.com
+@@||forum.skype.com
+@@||login.skype.com
+@@||support.skype.com
 m.slandr.net
 .slashgear.com
 ||slavasoft.com
@@ -2174,13 +2184,13 @@ ts60.com
 @@||ts60.com
 .tsemtulku.com
 tsquare.tv
-.tt1069.com
+!.tt1069.com
 ||tt1069.net
 ||tttan.com
 .tttan.com
 bb.ttv.com.tw/bb
 .tube.com
-tube8.com
+!tube8.com
 tuidang.net
 bbs.tuitui.info
 ||turningtorso.com
@@ -2390,6 +2400,7 @@ guomin.us/login
 t.fishnote.net
 twitter.fishnote.net
 tuite.im
+@@|https://tuite.im
 tuite.in
 
 !--------------------------UU--------------------------
@@ -2637,7 +2648,7 @@ xizang-zhiye.org
 xmovies.com
 ||xpud.org
 ||k2.xrea.com
-xtube.com
+!xtube.com
 blog.xuite.net
 vlog.xuite.net
 xuzhiyong.net
@@ -3232,3 +3243,93 @@ zh.wikisource.org
 zh.wikipedia.org*Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E8%A8%98%E9%8C%84/2009/11/04
 !-Li Shi Shang De Jin Tian
 zh.wikipedia.org*%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9
+
+!------------TW Gov-------------------------
+@@||.tax.nat.gov.tw
+@@||.moe.gov.tw
+@@||.cwb.gov.tw
+@@||.npm.gov.tw
+@@||.yatsen.gov.tw
+@@||.aec.gov.tw
+@@||.mvdis.gov.tw
+@@||.stdtime.gov.tw
+@@||.nmmba.gov.tw
+@@||.ntdmh.gov.tw
+@@||.grb.gov.tw
+@@||tpde.aide.gov.tw
+@@||.matsu-news.gov.tw
+@@||nerhl.gov.tw
+@@||.dapu-house.gov.tw
+@@||.vghtc.gov.tw
+@@||.aide.gov.tw
+@@||.hchcc.gov.tw
+@@||.ntuh.gov.tw
+@@||.nhri.gov.tw
+@@||.nstm.gov.tw
+@@||.ntsec.gov.tw
+@@||.ner.gov.tw
+@@||.nmtl.gov.tw
+@@||.ntl.gov.tw
+@@||.pet.gov.tw
+@@||.khcc.gov.tw
+@@||.nmmba.gov.tw
+@@||.khms.gov.tw
+@@||.wanfang.gov.tw
+@@||.nict.gov.tw
+@@||.arte.gov.tw
+@@||.nmh.gov.tw
+@@||.nmp.gov.tw
+@@||.tphcc.gov.tw
+@@||.iner.gov.tw
+@@||.tncsec.gov.tw
+@@||.nspo.gov.tw
+@@||.aide.gov.tw
+@@||.ncree.gov.tw
+@@||.vghks.gov.tw
+@@||.tchb.gov.tw
+@@||.pabp.gov.tw
+@@||.itrc.gov.tw
+@@||.df.gov.tw
+@@||womenbusiness.nyc.gov.tw
+@@||.gsn-cert.nat.gov.tw
+@@||gsn-cert.nat.gov.tw
+@@||.kk.gov.tw
+@@||.thbstc.gov.tw
+@@||.comnews.gio.gov.tw
+@@||comnews.gio.gov.tw
+@@||.klccab.gov.tw
+@@||.yvtc.gov.tw
+@@||.aftygh.gov.tw
+@@||.klra.gov.tw
+@@||.lungtanhr.gov.tw
+@@||.taoyuan.gov.tw
+@@||.hcc.gov.tw
+@@||.nvri.gov.tw
+@@||.nmvttc.gov.tw
+@@||.kmh.gov.tw
+@@||.patehr.gov.tw
+@@||.nerch.gov.tw
+@@||.kmseh.gov.tw
+@@||.nertt.gov.tw
+@@||.cycab.gov.tw
+@@||.chukuang.gov.tw
+@@||gysd.nyc.gov.tw
+@@||.cp-house.gov.tw
+@@||.vghtpe.gov.tw
+@@||.etraining.gov.tw
+@@||.stag.gov.tw
+@@||.bdhr.gov.tw
+@@||.tcsac.gov.tw
+@@||.imagesblog.gio.gov.tw
+@@||.arte.gov.tw
+@@||.dmtip.gov.tw
+@@||.chccc.gov.tw
+@@||.hengchuen.gov.tw
+@@||.hsinchu-cc.gov.tw
+@@||921.gov.tw
+@@||.ncdr.nat.gov.tw
+@@||.4pppc.gov.tw
+@@||.klsio.gov.tw
+@@||.nici.nat.gov.tw
+@@||.cromotc.nat.gov.tw
+@@||.taitung-house.gov.tw
