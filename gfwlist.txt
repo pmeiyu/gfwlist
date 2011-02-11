@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: IfJln4qdKaXwFB9tiBkc9Q
+! Checksum: SKGqtqLLM7D+ilYOFloAUA
 ! Expires: 6h
-! Last Modified: Fri, 11 Feb 2011 14:32:28 +0800
+! Last Modified: Fri, 11 Feb 2011 19:11:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -931,7 +931,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||the8pen.com
 ||theiphonewiki.com
 ||blog.thesilentnumber.me
-|theultralinx.com
+||theultralinx.com
 ||blog.think-async.com
 ||transparentuptime.com
 ||triangulationblog.com
@@ -2266,6 +2266,7 @@ twurl.nl
 ||blog.kl.am
 ||t.kun.im
 ||log.lightory.net
+||littlebigdetails.com
 ||lyricsquote.com
 ||madmenfootnotes.com
 ||marco.org
