@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: R0NDIaH8WGRrY2hmyJ6o3A
+! Checksum: IfJln4qdKaXwFB9tiBkc9Q
 ! Expires: 6h
-! Last Modified: Thu, 10 Feb 2011 22:21:50 +0800
+! Last Modified: Fri, 11 Feb 2011 14:32:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -568,7 +568,6 @@ eyny.com
 .facebook.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
-!-||fbcdn.net
 fanqiangyakexi.net
 fail.hk
 .fan-qiang.com
@@ -932,6 +931,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||the8pen.com
 ||theiphonewiki.com
 ||blog.thesilentnumber.me
+|theultralinx.com
 ||blog.think-async.com
 ||transparentuptime.com
 ||triangulationblog.com
@@ -948,6 +948,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-V
 ||tp.vbap.com.au
 !-W
+||waveprotocol.org
 ||www.wavesandbox.com
 ||webfee.org.ru
 ||blog.webmproject.org
@@ -1277,6 +1278,7 @@ jingpin.org/fuck-gfw-history
 zhao.jinhai.de
 ac.jiruan.net
 |http://jinn.li
+||jitouch.com
 ||jkforum.net
 ||jobso.tv
 ||journalofdemocracy.org
@@ -1332,6 +1334,8 @@ latelinenews.com
 t.leeiio.me
 ||leftgamerreview.org
 ||lenwhite.com
+.letscorp.net
+||letscorp.net
 li2z.cn/t
 .lianyue.net
 ||liaowangxizang.net
@@ -1671,6 +1675,7 @@ penchinese.com
 ||petapixel.com
 petardas.com
 philly.com
+||wiki.phonegap.com
 ||photofocus.com
 ||photou.in
 .picidae.net
@@ -1833,6 +1838,7 @@ rcinet.ca
 .readingtimes.com.tw
 ||readingtimes.com.tw
 .realraptalk.com
+.recordhistory.org
 blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 ||reflectivecode.com
@@ -2224,6 +2230,7 @@ twurl.nl
 ||blog.boxcar.io
 ||blog.couch.io
 ||blog.bit.ly
+||clientsfromhell.net
 ||cubicle17.com
 ||cookingtothegoodlife.com
 ||photos.dailyme.com
@@ -2270,6 +2277,7 @@ twurl.nl
 ||blog.path.com
 ||blog.pikchur.com
 ||blog.romanandreg.com
+||solozorro.tk
 ||stuffimreading.com
 ||thedailywh.at
 ||thechangelog.com
@@ -3089,6 +3097,9 @@ zh.wikipedia.org*%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96
 zh.wikipedia.org*%E5%B8%88%E6%B6%9B
 !--Shi Xing Yun
 zh.wikipedia.org*%E9%87%8A%E6%98%9F%E4%BA%91
+!--Si Tu Hua (hans/hant)
+zh.wikipedia.org*%E5%8F%B8%E5%BE%92%E5%8D%8E
+zh.wikipedia.org*%E5%8F%B8%E5%BE%92%E8%8F%AF
 !--Si Wu Xing Dong
 zh.wikipedia.org*%E5%9B%9B%E4%BA%94%E8%A1%8C%E5%8B%95
 !--Song Bing Bing
@@ -3107,7 +3118,7 @@ zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
 !--Tor
-zh.wikipedia.org*Tor|
+zh.wikipedia.org*Tor
 !--Tu Po Wang Luo Shen Cha (zhwb)
 zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !--Wang Qi Shan
