@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SKGqtqLLM7D+ilYOFloAUA
+! Checksum: rCTGcuGAiyjsE7iMyeSneQ
 ! Expires: 6h
-! Last Modified: Fri, 11 Feb 2011 19:11:49 +0800
+! Last Modified: Sat, 12 Feb 2011 23:30:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1980,7 +1980,6 @@ news.singtao.ca
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
-@@||sixxs.org
 ||sjum.cn/
 ||skimtube.com
 ||skulpt.org
@@ -2192,8 +2191,6 @@ touch99.com
 |http://truth101.co.tv
 ||truthcn.com
 .truveo.com
-ts60.com
-@@||ts60.com
 .tsemtulku.com
 tsquare.tv
 !.tt1069.com
