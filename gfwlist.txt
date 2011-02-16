@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: D+Ayh52+bUJbLrSLgxhaFA
+! Checksum: QnVXdQhNcHrS2Y7fQqmyPg
 ! Expires: 6h
-! Last Modified: Mon, 14 Feb 2011 19:34:57 +0800
+! Last Modified: Wed, 16 Feb 2011 14:36:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2666,6 +2666,7 @@ xinsheng.net
 xinshijue.com
 xinhuanet.org
 xizang-zhiye.org
+||xml-training-guide.com
 xmovies.com
 ||xpud.org
 ||k2.xrea.com
