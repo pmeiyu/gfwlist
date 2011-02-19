@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QnVXdQhNcHrS2Y7fQqmyPg
+! Checksum: JOeYRqNvvRZCJNikY2Kc/Q
 ! Expires: 6h
-! Last Modified: Wed, 16 Feb 2011 14:36:59 +0800
+! Last Modified: Sat, 19 Feb 2011 23:35:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -574,6 +574,8 @@ fail.hk
 .fangbinxing.com
 fangeming.com
 .farwestchina.com
+favorious.com
+||favorious.com
 en.favotter.net
 ||faststone.org
 favstar.fm
@@ -947,6 +949,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||ukehk.com
 !-V
 ||tp.vbap.com.au
+||www.virtuousrom.com
 !-W
 ||waveprotocol.org
 ||www.wavesandbox.com
@@ -1011,6 +1014,8 @@ search*%E9%85%B7%E5%88%91
 .google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
 !--Meng Ying Wei Ming Hu
 .google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
+!--Mo Li
+.google.*%E8%8C%89%E8%8E%89
 !--Na Mi Bi Ya
 .google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Nuo Bei Er He Ping Jiang / Nobel Peace Prize
@@ -1213,7 +1218,6 @@ w.idaiwan.com/forum
 .idouga.com
 forum.idsam.com
 .idv.tw
-.ied2k.com
 .ied2k.net
 .ifanr.com/857
 .ifcss.org
@@ -2292,6 +2296,7 @@ twurl.nl
 ||wordsandturds.com
 ||worstthingieverate.com
 ||xmusic.fm
+||xuzhuoer.com
 ||bd.zhe.la
 ||cocoa.zonble.net
 
@@ -2400,6 +2405,7 @@ twiyia.com
 tynsoe.org
 ||typepad.com
 @@||www.typepad.com
+@@||static.typepad.com
 ||blog.expofutures.com
 ||legaltech.law.com
 ||www.loiclemeur.com
@@ -2408,7 +2414,7 @@ tynsoe.org
 !-||blog.seesmic.com
 ||blogs.tampabay.com
 ||contests.twilio.com
-lawprofessors.typepad.com/china_law_prof_blog
+!-lawprofessors.typepad.com/china_law_prof_blog
 ||tzangms.com
 
 !-------------Twitese-----
@@ -2476,10 +2482,11 @@ veoh.com
 .vft.com.tw
 .videomo.com
 ||vidoemo.com
-video.tiscali.it/canali/truveo
+||viki.com
 .vimeo.com
 ||vimeo.com
 ||vinniev.com
+video.tiscali.it/canali/truveo
 ||vmixcore.com
 .voachineseblog.com
 ||voachineseblog.com
@@ -2574,7 +2581,6 @@ wjd.name
 ||woeser.com
 .wofa.us
 .woopie.jp/video
-||wowubuntu.com
 worldjournal.com
 
 !-------------Wordpress Blog-----
