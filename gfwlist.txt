@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: r3OI4KaqVeAYyOhfZZcM/g
+! Checksum: 9HpaxizFNeyV4vngiha2bw
 ! Expires: 6h
-! Last Modified: Sun, 20 Feb 2011 10:32:15 +0800
+! Last Modified: Sun, 20 Feb 2011 11:08:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -978,6 +978,7 @@ google*search*q=cache
 .google.*great*firewall
 .google.*protest*1989
 .google.*search*Tankman
+.google.*search?tbs=mbl
 .google.*Tiananmen
 .google.*Tibetan*independence
 .google.com*tits
