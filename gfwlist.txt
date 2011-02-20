@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: unmObmUb1cg+GZUVIXI4cg
+! Checksum: 6TV58QldN1AzS9B9PtPhJw
 ! Expires: 6h
-! Last Modified: Sat, 19 Feb 2011 23:39:23 +0800
+! Last Modified: Sun, 20 Feb 2011 10:23:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2795,7 +2795,8 @@ zyzg.us
 
 !--Temporary for jasmine
 .appspot.com
-|http://is.gd
+||is.gd
+||v.gd
 
 !--------------------------Other----------------------
 gfwProxyEnabled=yes
