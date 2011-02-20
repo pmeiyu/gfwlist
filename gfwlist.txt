@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KeMcb/PQ1NbjJTK/zDJhjA
+! Checksum: HcmLb/45mFw7sXzqZ6DGbw
 ! Expires: 6h
-! Last Modified: Sun, 20 Feb 2011 11:16:18 +0800
+! Last Modified: Sun, 20 Feb 2011 16:23:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -443,6 +443,8 @@ forum.cyberctm.com/forum
 cl.d0z.net
 .dabr.co.uk
 ||dabr.co.uk
+dabr.mobi
+||dabr.mobi
 dadazim.com
 ||dadazim.com
 .dadi360.com
@@ -1621,6 +1623,8 @@ opnir.com/215/myentunnel-ssh-autoproxy-cross-gfw
 www.orchidbbs.com
 ||orn.jp
 t.orzdream.com
+||t.orzdream.com
+tui.orzdream.com
 .orzistic.org
 ||orzistic.org
 m.oulove.org
@@ -2711,6 +2715,8 @@ n.yam.com
 news.yam.com
 .ydy.com
 yeeyi.com
+yegle.net
+||yegle.net
 yfrog.com
 .yi.org
 .yidio.com
