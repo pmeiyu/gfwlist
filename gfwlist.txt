@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Rh45YjfvbmYTlgw+88y1Ow
+! Checksum: 5PHdRKFMRxJGCvmT5HlVVg
 ! Expires: 6h
-! Last Modified: Sun, 20 Feb 2011 18:28:35 +0800
+! Last Modified: Sun, 20 Feb 2011 23:29:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1635,6 +1635,8 @@ oursogo.com
 ||mash.to/
 ||overstimulate.com
 share.ovi.com/media
+www.owind.com
+||owind.com
 oxfam.org.hk
 .ozchinese.com/bbs
 bbs.ozchinese.com
@@ -2802,7 +2804,6 @@ zyzg.us
 
 !--Temporary for jasmine
 .appspot.com
-||is.gd
 
 !--------------------------Other----------------------
 gfwProxyEnabled=yes
