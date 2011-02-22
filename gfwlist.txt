@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5BWIcmARkRUyrAKPzfFyrw
+! Checksum: mBgRU3gyy2mBp3pBgbWfaQ
 ! Expires: 6h
-! Last Modified: Tue, 22 Feb 2011 14:42:38 +0800
+! Last Modified: Tue, 22 Feb 2011 16:18:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -949,10 +949,11 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||art.twgg.org
 ||twivert.com
 !-U
-||ub0.cc
+|http://ub0.cc
 ||jonny.ubuntu-tw.net
 ||blog.umonkey.net
 ||ukehk.com
+|http://ur.ly
 !-V
 ||tp.vbap.com.au
 ||www.virtuousrom.com
