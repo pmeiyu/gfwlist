@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5PHdRKFMRxJGCvmT5HlVVg
+! Checksum: 5BWIcmARkRUyrAKPzfFyrw
 ! Expires: 6h
-! Last Modified: Sun, 20 Feb 2011 23:29:58 +0800
+! Last Modified: Tue, 22 Feb 2011 14:42:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -120,12 +120,15 @@ analyze-v.com
 ||anobii.com
 .anonymizer.com
 ||anthonycalzadilla.com
+.antiwave.net
+|http://antiwave.net
 ||about.aol.com
 ||aolchannels.aol.com
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
+www.aolnews.com
 ||apirocks.com
 .apigee.com
 |http://apigee.com/
@@ -733,7 +736,7 @@ grandtrial.org
 gpass1.com
 great-firewall.com
 ||www.greenpois0n.com
-greetroc.org
+greatroc.org
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gtkforums.com
@@ -780,6 +783,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||secrets.blacktree.com
 ||www.blacktree.com
 ||feeds.boingboing.net
+||boxunblog.com
 ||moblog.bradleyit.com
 ||buzzcantweet.com
 !-C
@@ -1617,6 +1621,7 @@ open.com.hk
 ||blog.openinkpot.org
 .openleaks.org
 ||openleaks.org
+||openwebster.com
 opera.com/mini
 my.opera.com/dahema
 opnir.com/215/myentunnel-ssh-autoproxy-cross-gfw
@@ -1632,11 +1637,10 @@ oursogo.com
 .ow.ly
 ||ow.ly
 ||ht.ly
-||mash.to/
+|http://mash.to
 ||overstimulate.com
 share.ovi.com/media
 www.owind.com
-||owind.com
 oxfam.org.hk
 .ozchinese.com/bbs
 bbs.ozchinese.com
@@ -2803,7 +2807,13 @@ writer.zoho.com
 zyzg.us
 
 !--Temporary for jasmine
-.appspot.com
+!-Google
+!--Mai Dang Lao | McDonald
+.google.*%E9%BA%A6%E5%BD%93%E5%8A%B3
+!--Wang Fu Jin
+.google.*%E7%8E%8B%E5%BA%9C%E4%BA%95
+!--Guang Chang
+.google.*%E5%B9%BF%E5%9C%BA
 
 !--------------------------Other----------------------
 gfwProxyEnabled=yes
@@ -3251,6 +3261,9 @@ zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
 !--Zhong Guo Min Zhu Yun Dong
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8
+!--Zhong Guo Mo Li Hua Ge Ming
+zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD
+zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD
 !--Zhong (Hua Ren Min Gong He) Guo Ren Quan
 zh.wikipedia.org*%E4%B8%AD*%E5%9B%BD%E4%BA%BA%E6%9D%83
 !--Zhong Guo Wang Luo Ruan Jian Guo Lv Guan Jian Zi Lie Biao
