@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZtkZ9+pgajj0Ar4ky5eQhg
+! Checksum: i5cbVso9O6C8q/X112IPzg
 ! Expires: 6h
-! Last Modified: Tue, 22 Feb 2011 21:34:43 +0800
+! Last Modified: Thu, 24 Feb 2011 00:09:39 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2924,7 +2924,6 @@ en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
 en.wikipedia.org/wiki/Tibetan_independence_movement
 
 !-------------zh.Wiki----------
-zh.wikipedia.org/wiki/Wikipedia
 zh.wikipedia.org/wiki/Special:Contributions
 zh.wikisource.org
 !--512 Da Di Zhen
