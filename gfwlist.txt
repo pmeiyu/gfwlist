@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Ra/S5TZxNTvGf9DHH/Tf+Q
+! Checksum: lJ1BT6OZHij2+4ptxR8Uvw
 ! Expires: 6h
-! Last Modified: Thu, 24 Feb 2011 20:51:07 +0800
+! Last Modified: Thu, 24 Feb 2011 21:22:42 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -755,6 +755,7 @@ code.google.com/p/autoproxy/updates/list
 code.google.com/p/program-think/wiki/Software
 code.google.com/p/scholarzhang
 code.google.com/p/twitese
+gfwinterceptor.googlecode.com
 
 !-------------Google Docs-----
 docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
@@ -985,6 +986,7 @@ google*search*q=cache
 .google.*great*firewall
 .google.*protest*1989
 .google.*search*Tankman
+.google.*search*tbs=mbl
 .google.*Tiananmen
 .google.*Tibetan*independence
 !--Bei Guo Zhi Chun
@@ -1358,6 +1360,8 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 .linglingfa.com
+.linkedin.com
+||linkedin.com
 ||linksalpha.com
 ||linux-engineer.net
 ||linuxconfig.org
