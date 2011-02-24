@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: k/OhadQXZjJQW0D0VtGLsw
+! Checksum: abGckJPtbjWkufetVmGA/Q
 ! Expires: 6h
-! Last Modified: Thu, 24 Feb 2011 12:26:27 +0800
+! Last Modified: Thu, 24 Feb 2011 15:25:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1798,7 +1798,6 @@ psblog.name
 psiphon.ca
 .ptt.cc
 .puffstore.com
-||puffstore.com
 @@|https://puffstore.com
 ||pullfolio.com
 ||pureconcepts.net
@@ -3146,8 +3145,6 @@ zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
-!--Tor
-zh.wikipedia.org*Tor
 !--Tu Po Wang Luo Shen Cha (zhwb)
 zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !--Wang Qi Shan
