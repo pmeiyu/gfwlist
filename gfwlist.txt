@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: i5cbVso9O6C8q/X112IPzg
+! Checksum: k/OhadQXZjJQW0D0VtGLsw
 ! Expires: 6h
-! Last Modified: Thu, 24 Feb 2011 00:09:39 +0800
+! Last Modified: Thu, 24 Feb 2011 12:26:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -976,7 +976,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google Search-----
 @@||google.cn
-||74.125.94.160
 .google.*/complete/search
 /search?q=cache
 /search%3Fq%3Dcache
@@ -985,10 +984,8 @@ google*search*q=cache
 .google.*great*firewall
 .google.*protest*1989
 .google.*search*Tankman
-.google.*search*tbs=mbl
 .google.*Tiananmen
 .google.*Tibetan*independence
-.google.com*tits
 !--Bei Guo Zhi Chun
 .google*search*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
 !--Da Lai La Ma
