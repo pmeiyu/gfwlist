@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lJ1BT6OZHij2+4ptxR8Uvw
+! Checksum: SV1NVWq74yXQgzahVSz5cg
 ! Expires: 6h
-! Last Modified: Thu, 24 Feb 2011 21:22:42 +0800
+! Last Modified: Fri, 25 Feb 2011 17:37:53 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -107,6 +107,8 @@ alliance.org.hk
 ||allinfo.com
 ||alternate-tools.com
 nc.alwaysdata.net
+ameblo.jp
+||ameblo.jp
 ||americangreencard.com
 ||amiblockedornot.com
 .amnesty.org
@@ -1360,8 +1362,6 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 .linglingfa.com
-.linkedin.com
-||linkedin.com
 ||linksalpha.com
 ||linux-engineer.net
 ||linuxconfig.org
