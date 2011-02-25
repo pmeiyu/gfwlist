@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SV1NVWq74yXQgzahVSz5cg
+! Checksum: u68pFdyjZbGc1qdYTiZWYQ
 ! Expires: 6h
-! Last Modified: Fri, 25 Feb 2011 17:37:53 +0800
+! Last Modified: Fri, 25 Feb 2011 18:10:05 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -137,6 +137,7 @@ www.aolnews.com
 ||appbase.com
 
 !-Appspot
+.appspot.com
 |https:*.appspot.com/
 bullog4cn.appspot.com
 chnshot.appspot.com
@@ -2392,8 +2393,6 @@ twitreferral.com
 .twitvid.com
 ||twitvid.com
 
-|http://t.co
-|http://twt.tl
 ||twttr.com
 .twitter.com
 ||twitter.com
