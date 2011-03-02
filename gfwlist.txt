@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xP0HTA76g3AtoFytoRLFeQ
+! Checksum: fOS2ABpn0JIDRVHQy8gK+g
 ! Expires: 6h
-! Last Modified: Wed, 02 Mar 2011 23:18:33 +0800
+! Last Modified: Wed, 02 Mar 2011 23:22:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2445,6 +2445,7 @@ tynsoe.org
 ||tzangms.com
 
 !-------------Twitese-----
+|http://embr.in
 fanfou.im
 /^https?:\/\/[^\/]+fanfou\.im/
 fanfou.de
