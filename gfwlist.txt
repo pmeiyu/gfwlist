@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fOS2ABpn0JIDRVHQy8gK+g
+! Checksum: yvVPK8HFhMf2x2R7WQbvyQ
 ! Expires: 6h
-! Last Modified: Wed, 02 Mar 2011 23:22:25 +0800
+! Last Modified: Fri, 04 Mar 2011 00:09:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1119,7 +1119,6 @@ google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 !-------------Google.other-----
 @@|https://www.google.com
 @@||google.cn/music
-google.com*analytics*zh-CN
 .google.com/moderator
 .google.com/reader/view/feed
 .google.com.hk/wenda
