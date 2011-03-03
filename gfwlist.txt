@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: weEye45cZB/xOby2zSFrPg
+! Checksum: 0H1pOVxbz8u0sgGjW3MoTQ
 ! Expires: 6h
-! Last Modified: Fri, 04 Mar 2011 00:28:19 +0800
+! Last Modified: Fri, 04 Mar 2011 00:47:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1723,6 +1723,7 @@ picturesocial.com
 ||placemix.com
 .planetsuzy.org
 plays.com.tw
+||m.plixi.com
 plurk.com
 ||plurk.com
 ||plurktemplates.com
