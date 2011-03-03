@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1kSEJlr9LRTIuAGeVMpt+w
+! Checksum: weEye45cZB/xOby2zSFrPg
 ! Expires: 6h
-! Last Modified: Fri, 04 Mar 2011 00:19:34 +0800
+! Last Modified: Fri, 04 Mar 2011 00:28:19 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2513,6 +2513,7 @@ veoh.com
 ||viki.com
 .vimeo.com
 ||vimeo.com
+||vincnd.com
 ||vinniev.com
 video.tiscali.it/canali/truveo
 ||vmixcore.com
