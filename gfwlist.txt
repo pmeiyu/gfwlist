@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yvVPK8HFhMf2x2R7WQbvyQ
+! Checksum: 1kSEJlr9LRTIuAGeVMpt+w
 ! Expires: 6h
-! Last Modified: Fri, 04 Mar 2011 00:09:46 +0800
+! Last Modified: Fri, 04 Mar 2011 00:19:34 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1349,6 +1349,7 @@ ladbrokes.com
 laogai.org
 ||laogai.org
 laomiu.com
+||laptoplockdown.com
 latelinenews.com
 ||leecheukyan.org
 t.leeiio.me
