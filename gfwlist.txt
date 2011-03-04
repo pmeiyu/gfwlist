@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +2DFJrmhNwcPeMd1mpqZTA
+! Checksum: lpxwQH89d438ajwMixrApA
 ! Expires: 6h
-! Last Modified: Sat, 05 Mar 2011 05:43:23 +0800
+! Last Modified: Sat, 05 Mar 2011 05:51:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -138,18 +138,18 @@ www.aolnews.com
 
 !-Appspot
 .appspot.com
-|https:*.appspot.com/
-bullog4cn.appspot.com
-chnshot.appspot.com
-go2china8.appspot.com
-meme2028.appspot.com
-nest.appspot.com
-proxypy.appspot.com
-squall0629.appspot.com
-twitese.appspot.com
-twitter-mirror.appspot.com
-twittergadget.appspot.com
-waterzeong.appspot.com
+||appspot.com
+!-bullog4cn.appspot.com
+!-chnshot.appspot.com
+!-go2china8.appspot.com
+!-meme2028.appspot.com
+!-nest.appspot.com
+!-proxypy.appspot.com
+!-squall0629.appspot.com
+!-twitese.appspot.com
+!-twitter-mirror.appspot.com
+!-twittergadget.appspot.com
+!-waterzeong.appspot.com
 
 .archive.org
 ||archive.org
