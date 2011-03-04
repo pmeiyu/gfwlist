@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OhJ6vf55Pkjr/Bzf1RQTZg
+! Checksum: YC52/GXl3k1HwMNZPPlv/w
 ! Expires: 6h
-! Last Modified: Fri, 04 Mar 2011 15:56:37 +0800
+! Last Modified: Sat, 05 Mar 2011 05:35:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1816,7 +1816,6 @@ psblog.name
 psiphon.ca
 .ptt.cc
 .puffstore.com
-@@|https://puffstore.com
 ||pullfolio.com
 ||pureconcepts.net
 ||purepdf.com
@@ -2014,20 +2013,8 @@ sitetag.us
 ||skimtube.com
 ||skulpt.org
 ||skydur.com
-skype.com
+|http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
-@@||skype.com/intl/en/welcomeback
-@@||skype.com/intl/zh-Hans/welcomeback
-@@||skype.com/intl/zh-Hant/welcomeback
-@@||c.skype.com
-@@||blogs.skype.com
-@@||forum.skype.com
-@@||go.skype.com
-@@||login.skype.com
-@@||partner.skype.com
-@@||shop.skype.com
-@@||static2.skype.com
-@@||support.skype.com
 m.slandr.net
 .slashgear.com
 ||slavasoft.com
@@ -2227,13 +2214,11 @@ touch99.com
 .truveo.com
 .tsemtulku.com
 tsquare.tv
-!.tt1069.com
 ||tt1069.net
 ||tttan.com
 .tttan.com
 bb.ttv.com.tw/bb
 .tube.com
-!tube8.com
 tuidang.net
 bbs.tuitui.info
 ||turningtorso.com
@@ -2711,7 +2696,6 @@ xizang-zhiye.org
 xmovies.com
 ||xpud.org
 ||k2.xrea.com
-!xtube.com
 blog.xuite.net
 vlog.xuite.net
 xuzhiyong.net
@@ -2997,8 +2981,6 @@ zh.wikipedia.org*%E4%B8%B9%E5%A2%9E%E5%98%89%E6%8E%AA
 !--Duo Wei
 zh.wikipedia.org*%E5%A4%9A%E7%BB%B4
 zh.wikipedia.org*%E5%A4%9A%E7%B6%AD
-!--E Luo Si
-zh.wikipedia.org*%E4%BF%84%E7%BD%97%E6%96%AF
 !--E Luo Si - zh-tw
 zh.wikipedia.org*%E4%BF%84%E7%BE%85%E6%96%AF
 !--Fan Hua Shi Li
@@ -3174,6 +3156,8 @@ zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
+!--Tor
+zh.wikipedia.org/zh-cn/Tor
 !--Tu Po Wang Luo Shen Cha (zhwb)
 zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !--Wang Qi Shan
