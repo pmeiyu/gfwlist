@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YC52/GXl3k1HwMNZPPlv/w
+! Checksum: +2DFJrmhNwcPeMd1mpqZTA
 ! Expires: 6h
-! Last Modified: Sat, 05 Mar 2011 05:35:33 +0800
+! Last Modified: Sat, 05 Mar 2011 05:43:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1798,7 +1798,6 @@ heix.pp.ru
 ||top1.pp.ru
 ||prayforchina.net
 ||presentationzen.com
-.president.gov.tw
 ||primedius.com
 prisoner-state-secret-journal-premier
 ||privacybox.de
@@ -2321,7 +2320,6 @@ forum.tvb.com/
 tvboxnow.com
 tvider.com
 ||tvunetworks.com
-.gov.tw/
 twa.sh
 twapperkeeper.com
 ||twapperkeeper.com
@@ -3305,6 +3303,8 @@ zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
 !--zh.wikisource.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 
 !------------TW Gov-------------------------
+||gov.tw/
+.president.gov.tw
 @@||tax.nat.gov.tw
 @@||moe.gov.tw
 @@||cwb.gov.tw
