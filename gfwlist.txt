@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0H1pOVxbz8u0sgGjW3MoTQ
+! Checksum: OhJ6vf55Pkjr/Bzf1RQTZg
 ! Expires: 6h
-! Last Modified: Fri, 04 Mar 2011 00:47:12 +0800
+! Last Modified: Fri, 04 Mar 2011 15:56:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -711,6 +711,8 @@ geocities.jp
 getiton.com
 .getsocialscope.com
 gfw.org.ua
+.ggssl.com
+||ggssl.com
 gigporno.ru
 ||gimpshop.com
 .ginx.com
@@ -759,6 +761,7 @@ code.google.com/p/autoproxy/updates/list
 code.google.com/p/program-think/wiki/Software
 code.google.com/p/scholarzhang
 code.google.com/p/twitese
+code.google.com/p/twip
 gfwinterceptor.googlecode.com
 
 !-------------Google Docs-----
@@ -1166,6 +1169,7 @@ hellotxt.com
 ||getcloudapp.com
 ||cl.ly
 @@||f.cl.ly
+||overlapr.com
 ||speckleapp.com
 ||stuffimreading.net
 
@@ -2274,7 +2278,6 @@ twurl.nl
 ||tumblr.fenglu.name
 ||life.fly4ever.me
 ||fredwilson.vc
-!--||blog.foursquare.com
 ||fuckgfw.com
 ||geekmade.co.uk
 ||generesis.com
@@ -2431,6 +2434,9 @@ twiyia.com
 .tycool.com
 ||tycool.com
 tynsoe.org
+||tzangms.com
+
+!--typepad
 ||typepad.com
 @@||www.typepad.com
 @@||static.typepad.com
@@ -2442,8 +2448,7 @@ tynsoe.org
 !-||blog.seesmic.com
 ||blogs.tampabay.com
 ||contests.twilio.com
-!-lawprofessors.typepad.com/china_law_prof_blog
-||tzangms.com
+!-lawprofessors.typepad.com/china_law_prof
 
 !-------------Twitese-----
 |http://embr.in
