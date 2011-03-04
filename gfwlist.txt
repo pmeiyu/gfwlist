@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lpxwQH89d438ajwMixrApA
+! Checksum: STaHxZwwTkv3K7l9TbcXWw
 ! Expires: 6h
-! Last Modified: Sat, 05 Mar 2011 05:51:33 +0800
+! Last Modified: Sat, 05 Mar 2011 06:07:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -962,7 +962,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||jonny.ubuntu-tw.net
 ||blog.umonkey.net
 ||ukehk.com
-|http://ur.ly
 !-V
 ||tp.vbap.com.au
 ||www.virtuousrom.com
@@ -1652,7 +1651,7 @@ oursogo.com
 .ow.ly
 ||ow.ly
 ||ht.ly
-|http://mash.to
+||mash.to/
 ||overstimulate.com
 share.ovi.com/media
 www.owind.com
@@ -2434,7 +2433,7 @@ tynsoe.org
 !-lawprofessors.typepad.com/china_law_prof
 
 !-------------Twitese-----
-|http://embr.in
+embr.in
 fanfou.im
 /^https?:\/\/[^\/]+fanfou\.im/
 fanfou.de
