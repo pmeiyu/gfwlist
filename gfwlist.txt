@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: STaHxZwwTkv3K7l9TbcXWw
+! Checksum: 17Vn5WC3TDkSn89PHPnU3A
 ! Expires: 6h
-! Last Modified: Sat, 05 Mar 2011 06:07:01 +0800
+! Last Modified: Sat, 05 Mar 2011 06:10:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1167,7 +1167,7 @@ hellotxt.com
 ||heroku.com
 ||getcloudapp.com
 ||cl.ly
-@@||f.cl.ly
+@@||f.cl.ly/
 ||overlapr.com
 ||speckleapp.com
 ||stuffimreading.net
