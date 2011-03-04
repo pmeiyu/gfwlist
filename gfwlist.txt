@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 17Vn5WC3TDkSn89PHPnU3A
+! Checksum: QG09sUx/xS9i6hpBJpu0EA
 ! Expires: 6h
-! Last Modified: Sat, 05 Mar 2011 06:10:37 +0800
+! Last Modified: Sat, 05 Mar 2011 07:18:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2823,7 +2823,6 @@ zyzg.us
 .google.*%E7%8E%8B%E5%BA%9C%E4%BA%95
 
 !--------------------------Other----------------------
-gfwProxyEnabled=yes
 falun
 freenet
 q=freedom
