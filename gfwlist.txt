@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QG09sUx/xS9i6hpBJpu0EA
+! Checksum: aU7f8NlJ8a42UzRonOWAxg
 ! Expires: 6h
-! Last Modified: Sat, 05 Mar 2011 07:18:44 +0800
+! Last Modified: Sat, 05 Mar 2011 15:10:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -32,7 +32,6 @@ bbs.1tor.com
 .315lz.com
 ||36rain.com
 ||3b8.cc/
-||3dtin.com
 4.gp
 ||4bluestones.biz
 5i01.com
@@ -57,7 +56,6 @@ info.51.ca
 89-64.org
 ||89-64.org
 .9001700.com
-||909090909.info
 .92ccav.com
 .99bbs.com
 ||9bis.com
@@ -73,17 +71,13 @@ a5.com.ru
 .aboutgfw.com
 .aboutus.org
 ||aboutus.org
-||academicearth.com
 ||acgkj.com
 ||addictedtocoffee.de
-||forum.addonsmirror.net
-||wiki.addonsmirror.net
 .adult168.com
 adultfriendfinder.com
 ||advanscene.com
 ||advertfan.com
 ||aenhancers.com
-||aidsmuseum.cn
 .aisex.com
 ||ait.org.tw
 blog.aiweiwei.com
@@ -131,10 +125,8 @@ video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
 www.aolnews.com
-||apirocks.com
 .apigee.com
 |http://apigee.com/
-||appbase.com
 
 !-Appspot
 .appspot.com
@@ -154,7 +146,6 @@ www.aolnews.com
 .archive.org
 ||archive.org
 ||areca-backup.org
-||ark10.org
 .arctosia.com
 |http://arctosia.com
 asdfg.jp/dabr
@@ -252,7 +243,6 @@ blogtd.net
 ||bnrmetal.com
 boardreader.com/thread
 boltbrowser.com/download
-||bonersgames.com
 .bot.nu
 ||developers.box.net
 boxun.com
@@ -273,8 +263,6 @@ ibros.org
 ||bt95.com
 .budaedu.org
 ||budaedu.org
-||buddyrunner.com
-||buffalo-bbs.com
 .bullog.org
 ||bullog.org
 .bullogger.com
@@ -285,8 +273,6 @@ ibros.org
 bugbeep.com
 ||buugaa.com
 buzzurl.jp
-||bythehost15.com
-||blambin.byethost16.com
 holz.byethost8.com
 
 !--------------------------CC--------------------------
@@ -302,7 +288,6 @@ canadameet.com
 ||caobian.info
 caochangqing.com
 ||caochangqing.com
-||caodan.net
 .catholic.org.hk
 ||catholic.org.hk
 .ccc.de
@@ -326,7 +311,6 @@ cdpwu.org
 ||cellulo.info
 ||cenews.eu
 ||cengkewang.com
-||cgiproxy.us
 ||chandoo.org
 .changp.com
 ||changp.com
@@ -342,7 +326,7 @@ chinaaffairs.org
 chinacomments.org
 ||chinacomments.org
 .chinadigitaltimes.net
-||chinadigitaltimes.net
+|http://chinadigitaltimes.net
 ||chinafreepress.org
 chinagfw.org
 ||chinagfw.org
@@ -357,7 +341,6 @@ chinainperspective.net/ArtShow.aspx?
 ||chinainterimgov.org
 .chinamule.com
 ||chinamule.com
-||chinaphile.com
 chinasocialdemocraticparty.com
 ||chinasocialdemocraticparty.com
 chinasoul.org
@@ -776,6 +759,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
 ||www.20thingsilearned.com
+||www.3dtin.com
 !-A
 ||abelhadigital.com
 ||blog.aegisub.org
@@ -794,6 +778,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||feeds.boingboing.net
 ||boxunblog.com
 ||moblog.bradleyit.com
+||www.buddyrunner.com
 ||buzzcantweet.com
 !-C
 ||feeds.cbsnews.com
