@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HvvvR7MIGJqzCEAU6cSCXw
+! Checksum: ycWPfl7AeJdbxgQHki+tvg
 ! Expires: 6h
-! Last Modified: Sun, 06 Mar 2011 11:39:59 +0800
+! Last Modified: Sun, 06 Mar 2011 14:39:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -793,6 +793,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||data.clementine-player.org
 ||rss.cnn.com
 !-D
+||www.dailygyan.com
 ||dailytodo.org
 ||blog.danmarner.com
 ||github.danmarner.com
