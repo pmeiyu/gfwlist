@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Sc6ETzw8eUtNTkkxWFhBzA
+! Checksum: XqtJIWCR8o9ecYLmktY+dQ
 ! Expires: 6h
-! Last Modified: Tue, 08 Mar 2011 14:34:12 +0800
+! Last Modified: Tue, 08 Mar 2011 18:43:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -615,6 +615,7 @@ video.foxbusiness.com
 ||dimitrik.free.fr
 kineox.free.fr
 .free-vpn.info/mrzhang
+||whitebear.freebearblog.org
 freeman2.com
 ||fringenetwork.com
 ||flecheinthepeche.fr
