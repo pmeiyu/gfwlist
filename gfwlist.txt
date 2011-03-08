@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XqtJIWCR8o9ecYLmktY+dQ
+! Checksum: Esw2k1wZYb9ILrNjjYNWFg
 ! Expires: 6h
-! Last Modified: Tue, 08 Mar 2011 18:43:06 +0800
+! Last Modified: Tue, 08 Mar 2011 22:47:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1325,6 +1325,7 @@ kinghost.com
 ||kodingen.com
 @@||www.kodingen.com
 ||kompozer.net
+||koolsolutions.com
 .koornk.com
 ||koornk.com
 .kui.name/event
