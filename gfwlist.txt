@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 74J6Uz9cysuKdwY27aXh9A
+! Checksum: tG6QqlbWXQi77BRwHi4PTw
 ! Expires: 6h
-! Last Modified: Thu, 10 Mar 2011 02:34:15 +0800
+! Last Modified: Thu, 10 Mar 2011 02:35:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -563,6 +563,7 @@ eyny.com
 .facebook.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
+||fbcdn.net
 fanqiangyakexi.net
 fail.hk
 .fan-qiang.com
