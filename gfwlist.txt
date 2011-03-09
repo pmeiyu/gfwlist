@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WZcw5D62jvZI4K/uyF0Sig
+! Checksum: 74J6Uz9cysuKdwY27aXh9A
 ! Expires: 6h
-! Last Modified: Wed, 09 Mar 2011 15:17:37 +0800
+! Last Modified: Thu, 10 Mar 2011 02:34:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -252,6 +252,8 @@ boxun.com
 ||boxun.tv
 ||br.st
 ||brandonhutchinson.com
+.break.com
+||break.com
 .breakingtweets.com
 ||breakingtweets.com
 .briefdream.com/%E7%B4%A0%E6%A3%BA
@@ -785,6 +787,8 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||buzzcantweet.com
 !-C
 ||feeds.cbsnews.com
+chinaaid.net
+||chinaaid.net
 ||www.chinesealbumart.com
 ||chromeexperiments.com
 ||blog.chromium.org
@@ -896,6 +900,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||nvquan.org
 ||nogoodatcoding.com
 ||blog.notdot.net
+||www.notify.io
 !-O
 ||blog.obvious.com
 !-P
@@ -1351,6 +1356,7 @@ t.leeiio.me
 .letscorp.net
 ||letscorp.net
 li2z.cn/t
+liansi.org
 .lianyue.net
 ||liaowangxizang.net
 .liaowangxizang.net
@@ -1688,6 +1694,7 @@ peacehall.com
 penchinese.com
 ||penchinese.net
 .penchinese.net
+pengyulong.com
 ||blog.pentalogic.net
 .penthouse.com
 .peopo.org
@@ -2078,6 +2085,7 @@ tw.streetvoice.com
 ||summize.com
 t.sunxun.info/login.php
 ||superspeed.com
+www.supertweet.net
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
 ||sweux.com
@@ -2189,6 +2197,8 @@ tora.to
 touch99.com
 ||totalcmd.net
 ||toutfr.com
+.tpi.org.tw
+||tpi.org.tw
 ||trackon.org
 ||transgressionism.org
 ||travelinlocal.com
@@ -2204,6 +2214,7 @@ touch99.com
 .truveo.com
 .tsemtulku.com
 tsquare.tv
+.tsctv.net
 ||tt1069.net
 ||tttan.com
 .tttan.com
@@ -2306,6 +2317,9 @@ twurl.nl
 ||bd.zhe.la
 ||cocoa.zonble.net
 
+.tv.com
+||www.tv.com
+|http://tv.com
 ||tv-intros.com
 forum.tvb.com/
 tvboxnow.com
@@ -2378,13 +2392,12 @@ twitreferral.com
 ||turbotwitter.com
 .twitvid.com
 ||twitvid.com
-||si0.twimg.com
-||si1.twimg.com
-||si2.twimg.com
-||twttr.com
+
+||si*.twimg.com
 .twitter.com
 ||twitter.com
 ||twitter.jp
+||twttr.com
 /^https?:\/\/[^\/]+twitter\.com/
 
 .twittercounter.com
@@ -2442,6 +2455,7 @@ tuite.in
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
 humanities.uchicago.edu/faculty/ywang/hi
+|http://udn.com
 album.udn.com
 blog.udn.com
 bookmark.udn.com/bookmark
@@ -2505,6 +2519,7 @@ video.tiscali.it/canali/truveo
 voanews.com/chinese
 .vot.org
 www.voy.com
+||www.vpncup.com
 
 !--------------------------WW--------------------------
 lists.w3.org/archives/public
@@ -2655,6 +2670,8 @@ zhenxiang.wordpress.com
 .wqyd.org
 ||wqyd.org
 wretch.cc
+.chinese.wsj.com/gb
+|http://chinese.wsj.com/gb
 .wtfpeople.com
 wuerkaixi.com
 wufi.org.tw
@@ -2904,7 +2921,7 @@ search*%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B
 !--Zhong Xuan Bu
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
-!-------------en.WikiPedia-----
+!-------------en.Wikipedia-----
 en.wikipedia.org/wiki/Book_burning
 en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
 en.wikipedia.org/wiki/Charter_08
@@ -2923,7 +2940,7 @@ en.wikipedia.org/wiki/Tiananmen_Papers
 en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
 en.wikipedia.org/wiki/Tibetan_independence_movement
 
-!-------------zh.Wiki----------
+!-------------zh.Wikipedia----------
 zh.wikipedia.org/wiki/Special:Contributions
 zh.wikisource.org
 !--512 Da Di Zhen
