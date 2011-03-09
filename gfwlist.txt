@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Esw2k1wZYb9ILrNjjYNWFg
+! Checksum: WZcw5D62jvZI4K/uyF0Sig
 ! Expires: 6h
-! Last Modified: Tue, 08 Mar 2011 22:47:07 +0800
+! Last Modified: Wed, 09 Mar 2011 15:17:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2378,7 +2378,9 @@ twitreferral.com
 ||turbotwitter.com
 .twitvid.com
 ||twitvid.com
-
+||si0.twimg.com
+||si1.twimg.com
+||si2.twimg.com
 ||twttr.com
 .twitter.com
 ||twitter.com
