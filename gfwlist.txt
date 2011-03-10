@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tG6QqlbWXQi77BRwHi4PTw
+! Checksum: 6qkV29fYFkS4molO3TpQhw
 ! Expires: 6h
-! Last Modified: Thu, 10 Mar 2011 02:35:37 +0800
+! Last Modified: Thu, 10 Mar 2011 17:18:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -586,6 +586,8 @@ feeds.feedburner.com
 feeds2.feedburner.com/chinagfwblog
 ||feedzshare.com
 feer.com
+felixcat.net
+||felixcat.net
 ||feministteacher.com
 .fengzhenghu.com
 ||fengzhenghu.com
@@ -2394,6 +2396,8 @@ twitreferral.com
 .twitvid.com
 ||twitvid.com
 
+|http://t.co
+|http://twt.tl
 ||si*.twimg.com
 .twitter.com
 ||twitter.com
