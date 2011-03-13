@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6qkV29fYFkS4molO3TpQhw
+! Checksum: ERYVqM0KLq/vW9DKZnnb8g
 ! Expires: 6h
-! Last Modified: Thu, 10 Mar 2011 17:18:02 +0800
+! Last Modified: Sun, 13 Mar 2011 13:59:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -243,6 +243,7 @@ blogtd.net
 ||bloomfortune.com
 ||bnrmetal.com
 boardreader.com/thread
+||boardreader.com
 boltbrowser.com/download
 .bot.nu
 ||developers.box.net
@@ -871,6 +872,7 @@ chinaaid.net
 ||blog.kengao.tw
 ||log.keso.cn
 ||www.khanacademy.org
+||www.klip.me
 ||usbloadergx.koureio.net
 ||blog.kowalczyk.info
 !-L
@@ -967,8 +969,10 @@ chinaaid.net
 ||www.wavesandbox.com
 ||webfee.org.ru
 ||blog.webmproject.org
+||webupd8.org
 ||www.whatbrowser.org
 ||willhains.com
+||feeds.wired.com
 ||blog.wundercounter.com
 !-X
 ||xdelta.org
@@ -1005,6 +1009,8 @@ google*search*q=cache
 .google.*%E5%85%B1%E4%BA%A7
 !--Guan Jian Shi Ke
 .google.*%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB
+!--Guang Chang
+.google.*%E5%B9%BF%E5%9C%BA
 !--Ji Zhe Wu Jiang Jie
 .google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
 !--Jiang Ze Min
@@ -1021,6 +1027,8 @@ search*%E9%85%B7%E5%88%91
 .google.*%E9%B2%81%E6%98%95
 !--Ma Kai
 .google.*%E9%A9%AC%E5%87%AF
+!--Mai Dang Lao | McDonald
+.google.*%E9%BA%A6%E5%BD%93%E5%8A%B3
 !--Meng Jian Zhu
 .google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
 !--Meng Ying Wei Ming Hu
@@ -1049,6 +1057,10 @@ search*%E9%85%B7%E5%88%91
 google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tian Mie
 .google.*q=%E5%A4%A9%E7%81%AD
+!--Tu Ni Si
+.google.*%E7%AA%81%E5%B0%BC%E6%96%AF
+!--Wang Fu Jin
+.google.*%E7%8E%8B%E5%BA%9C%E4%BA%95
 !--Wang Gang
 google*search*%E7%8E%8B%E5%88%9A
 !--Wang Yang
@@ -1168,6 +1180,7 @@ hellotxt.com
 ||overlapr.com
 ||speckleapp.com
 ||stuffimreading.net
+||twt.fm
 
 ||heungkongdiscuss.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -1302,8 +1315,6 @@ ac.jiruan.net
 ||jkforum.net
 ||jobso.tv
 ||journalofdemocracy.org
-||wiki.jqueryui.com
-||wiki.js-kit.com
 t.jteet.com
 ||juliereyc.com
 ||junauza.com
@@ -1410,6 +1421,7 @@ zhllg.spaces.live.com
 .livevideo.com
 lizhizhuangbi.com
 ||lockdown.com
+logbot.net
 ||logmike.com
 .longhair.hk
 ||longtermly.net
@@ -1425,7 +1437,6 @@ lsforum.net
 .maiio.net
 mail-archive.com
 ||makemymood.com
-||makeyourownwordboner.com
 ||marines.mil
 markmail.org*message
 ||martau.com
@@ -1611,12 +1622,13 @@ nysingtao.com
 ||nzchinese.net.nz
 
 !--------------------------OO--------------------------
-||wiki.oauth.net
 obmem.com
 observechina.net
 ||october-review.org
 ||ogaoga.org
 twtr2src.ogaoga.org
+.ohloh.net
+||ohloh.net
 .oikos.com.tw/v4
 .oiktv.com
 oizoblog.com
@@ -1682,10 +1694,18 @@ pastebin.ca
 ||blog.pathtosharepoint.com
 pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
+
+!--Pbwiki
 pbwiki.com
 ||pbworks.com
+||wiki.oauth.net
+||wiki.phonegap.com
+||wiki.jqueryui.com
+
 ||pbxes.org
 .pcdiscuss.com
+blog.pchome.com.tw
+||blog.pchome.com.tw
 forum.pchome.com.tw
 mypaper.pchome.com.tw
 news.pchome.com.tw
@@ -1705,7 +1725,6 @@ pengyulong.com
 ||petapixel.com
 petardas.com
 philly.com
-||wiki.phonegap.com
 ||photofocus.com
 ||photou.in
 .picidae.net
@@ -1780,7 +1799,7 @@ web.pts.org.tw
 ||log.riku.me
 ||sogrady.me
 ||steverubel.com
-||blog.tweetdeck.com
+!--||blog.tweetdeck.com
 ||log.thws.cn
 ||vatn.org
 ||veempiire.com
@@ -2285,6 +2304,7 @@ twurl.nl
 ||kevinrose.com
 ||blog.kickstarter.com
 ||blog.kl.am
+||blog.klip.me
 ||t.kun.im
 ||log.lightory.net
 ||littlebigdetails.com
@@ -2345,6 +2365,7 @@ tweetboard.com
 ||tweetboard.com
 .tweetboner.biz
 ||tweetboner.biz
+.tweetdeck.com
 ||tweete.net
 m.tweete.net
 ||mtw.tl
@@ -2558,7 +2579,6 @@ webbang.net
 webs-tv.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
-||webupd8.org
 webworkerdaily.com
 weeewooo.net/hss/hotspot_cn
 .weekmag.info
@@ -2827,17 +2847,6 @@ writer.zoho.com
 .zuola.com
 ||zuola.com
 zyzg.us
-
-!--Temporary for jasmine
-!-Google
-!--Guang Chang
-.google.*%E5%B9%BF%E5%9C%BA
-!--Mai Dang Lao | McDonald
-.google.*%E9%BA%A6%E5%BD%93%E5%8A%B3
-!--Tu Ni Si
-.google.*%E7%AA%81%E5%B0%BC%E6%96%AF
-!--Wang Fu Jin
-.google.*%E7%8E%8B%E5%BA%9C%E4%BA%95
 
 !--------------------------Other----------------------
 falun
