@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SVvsWn9jv3u787fkCStO9w
+! Checksum: dr8h/sZYD1A62fK2zwulIA
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 01:41:47 +0800
+! Last Modified: Wed, 16 Mar 2011 05:53:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -964,7 +964,6 @@ chinaaid.net
 |http://ub0.cc
 ||jonny.ubuntu-tw.net
 ||blog.umonkey.net
-||ukehk.com
 !-V
 ||tp.vbap.com.au
 ||www.virtuousrom.com
@@ -1286,7 +1285,7 @@ ipobar.com
 ||ironicsoftware.com
 ||ironpython.net
 .beta.iset.com.tw/forum
-||beta.iset.com.tw
+http://beta.iset.com.tw/forum
 forum.iset.com.tw
 .islam.org.hk
 .isaacmao.com
@@ -1316,7 +1315,7 @@ zhao.jinhai.de
 ac.jiruan.net
 |http://jinn.li
 ||jitouch.com
-||jkforum.net
+jkforum.net
 ||jobso.tv
 ||journalofdemocracy.org
 t.jteet.com
@@ -1340,7 +1339,6 @@ kanzhongguo.com
 .kenengba.com
 ||kenengba.com
 wiki.keso.cn/Home
-||keyfans.com
 .khmusic.com.tw
 kinghost.com
 .kingstone.com.tw
@@ -1355,7 +1353,6 @@ kinghost.com
 kun.im
 ||kurtmunger.com
 kusocity.com
-||www.kyohk.net
 .kzeng.info
 ||kzeng.info
 
@@ -1369,7 +1366,6 @@ laomiu.com
 latelinenews.com
 ||leecheukyan.org
 t.leeiio.me
-||leftgamerreview.org
 ||lenwhite.com
 .letscorp.net
 ||letscorp.net
@@ -1383,7 +1379,10 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 .linglingfa.com
-||linksalpha.com
+||api.linksalpha.com
+||apidocs.linksalpha.com
+||www.linksalpha.com
+||help.linksalpha.com
 ||linux-engineer.net
 ||linuxconfig.org
 ||linuxreviews.org
