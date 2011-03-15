@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vcZaq/WzdfAJ3Dm36mP+Ew
+! Checksum: EnvNOXov0tO7lDRNUYPGMQ
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 06:33:21 +0800
+! Last Modified: Wed, 16 Mar 2011 06:41:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1777,28 +1777,16 @@ web.pts.org.tw
 |http://post.ly
 .posterous.com
 |http://posterous.com
-||holykaw.alltop.com
 ||post.anyu.org
 ||bralio.com
 ||calebelston.com
-||corywatilo.com
 !-||blog.dabr.co.uk
 ||designerol.com
-||blog.dustincurtis.com
 ||blog.fizzik.com
-||roteiro.geedr.com
 ||nf.id.au
-||po.inewton.cn
 ||markmilian.com
-||mehack.com
-||blog.nicholaspatten.com
-||am.pengyulong.com
-||reflectionof.me
 ||log.riku.me
 ||sogrady.me
-||steverubel.com
-!--||blog.tweetdeck.com
-||log.thws.cn
 ||vatn.org
 ||veempiire.com
 ||www.vegorpedersen.com
@@ -1812,16 +1800,13 @@ web.pts.org.tw
 powerapple.com
 ||abc.pp.ru
 heix.pp.ru
-||top1.pp.ru
 ||prayforchina.net
 ||premeforwindows7.com
 ||presentationzen.com
-||primedius.com
 prisoner-state-secret-journal-premier
 ||privacybox.de
 privatepaste.com
-||proboards.com
-@@||www.proboards.com
+||privatepaste.com
 ||prosiben.de
 ||proxomitron.info
 ||proxypy.com
