@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EnvNOXov0tO7lDRNUYPGMQ
+! Checksum: ZErfstiKiuBBahUVsOriCg
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 06:41:01 +0800
+! Last Modified: Wed, 16 Mar 2011 06:43:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1747,7 +1747,6 @@ plays.com.tw
 ||m.plixi.com
 plurk.com
 ||plurk.com
-||plurktemplates.com
 .plus28.com
 .plusbb.com
 .pmates.com
