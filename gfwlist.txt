@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZErfstiKiuBBahUVsOriCg
+! Checksum: LBDa8lcW13EW07oq3vYbYw
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 06:43:22 +0800
+! Last Modified: Wed, 16 Mar 2011 06:45:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1732,11 +1732,9 @@ picturesocial.com
 .pign.net
 .ping.fm
 ||ping.fm/
-||pingmicro.com
 ||pinoy-n.com
 .piring.com
 ||pixelqi.com
-||s.pixfs.net
 ||css.pixnet.in
 ||pixnet.net
 .pixnet.net
@@ -1751,7 +1749,6 @@ plurk.com
 .plusbb.com
 .pmates.com
 ||po2b.com
-||pocketmonsters.net
 ||podictionary.com
 .pokerstars.com
 ||pokerstars.com
