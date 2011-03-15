@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nhUnKFznMaKw1qTr8C9ncQ
+! Checksum: SVvsWn9jv3u787fkCStO9w
 ! Expires: 6h
-! Last Modified: Tue, 15 Mar 2011 14:37:41 +0800
+! Last Modified: Wed, 16 Mar 2011 01:41:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -548,6 +548,7 @@ chinese.engadget.com
 ||englishfromengland.co.uk
 ||entermap.com
 epochtimes.com
+||ernestmandel.org
 ||erights.net
 etaiwannews.com
 ||etizer.org
@@ -955,6 +956,8 @@ chinaaid.net
 ||blog.tsunanet.net
 ||en.tuxero.com
 ||twazzup.com
+||tweetswell.com
+||twibes.com
 ||art.twgg.org
 ||twivert.com
 !-U
@@ -1661,13 +1664,14 @@ tui.orzdream.com
 .orzistic.org
 ||orzistic.org
 m.oulove.org
+||ourdearamy.com
 oursogo.com
+||overstimulate.com
+share.ovi.com/media
 .ow.ly
 ||ow.ly
 ||ht.ly
 ||mash.to/
-||overstimulate.com
-share.ovi.com/media
 www.owind.com
 oxfam.org.hk
 .ozchinese.com/bbs
@@ -1818,6 +1822,7 @@ powerapple.com
 heix.pp.ru
 ||top1.pp.ru
 ||prayforchina.net
+||premeforwindows7.com
 ||presentationzen.com
 ||primedius.com
 prisoner-state-secret-journal-premier
@@ -2036,7 +2041,6 @@ sitetag.us
 |http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
-.slashgear.com
 ||slavasoft.com
 ||slheng.com
 forum.slime.com.tw
@@ -2098,6 +2102,7 @@ stickeraction.com/sesawe
 .stoptibetcrisis.net
 ||stoptibetcrisis.net
 ||stoweboyd.com
+||streamingthe.net
 cn.streetvoice.com/article
 cn.streetvoice.com/diary
 cn2.streetvoice.com
@@ -2323,6 +2328,7 @@ twurl.nl
 ||blog.romanandreg.com
 ||solozorro.tk
 ||stuffimreading.com
+||blog.summify.com
 ||thedailywh.at
 ||thechangelog.com
 ||thisiswhyyouarefat.com
@@ -2957,6 +2963,7 @@ en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
 en.wikipedia.org/wiki/Tibetan_independence_movement
 
 !-------------zh.Wikipedia----------
+zh.m.wikipedia.org
 zh.wikipedia.org/wiki/Special:Contributions
 zh.wikisource.org
 !--512 Da Di Zhen
