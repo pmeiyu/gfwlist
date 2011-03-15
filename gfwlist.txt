@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dr8h/sZYD1A62fK2zwulIA
+! Checksum: CpZ1EICtjniMeI4GMu94eQ
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 05:53:45 +0800
+! Last Modified: Wed, 16 Mar 2011 05:57:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -132,6 +132,7 @@ www.aolnews.com
 !-Appspot
 .appspot.com
 ||appspot.com
+/^https?:\/\/[^\/]+appspot\.com/
 !-bullog4cn.appspot.com
 !-chnshot.appspot.com
 !-go2china8.appspot.com
