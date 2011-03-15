@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LBDa8lcW13EW07oq3vYbYw
+! Checksum: EnhPZgQmzTyZn+QYUCLRuA
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 06:45:15 +0800
+! Last Modified: Wed, 16 Mar 2011 07:09:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -886,6 +886,7 @@ chinaaid.net
 ||blog.lastpass.com
 ||docs.latexlab.org
 ||blog.lidaobing.info
+||log.lightory.net
 ||feeds.limi.net
 ||www.liteapplications.com
 ||blog.liukangxu.info
@@ -2274,7 +2275,6 @@ twurl.nl
 ||news.ghostery.com
 ||givemesomethingtoread.com
 ||blog.gowalla.com
-||blog.hexxeh.net
 ||blog.hotpotato.com
 ||ialmostlaugh.com
 ||blog.instapaper.com
@@ -2283,15 +2283,13 @@ twurl.nl
 ||jayparkinsonmd.com
 ||blog.joeyrobert.org
 ||my.keso.cn
-||kevinrose.com
 ||blog.kickstarter.com
 ||blog.kl.am
 ||blog.klip.me
 ||t.kun.im
-||log.lightory.net
 ||littlebigdetails.com
 ||lyricsquote.com
-||madmenfootnotes.com
+||madmenunbuttoned.com
 ||marco.org
 ||minimalmac.com
 ||modfetish.com
