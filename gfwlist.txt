@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CpZ1EICtjniMeI4GMu94eQ
+! Checksum: f5UYuWqBDR5Xg5B5qrOe6g
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 05:57:59 +0800
+! Last Modified: Wed, 16 Mar 2011 06:22:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -911,6 +911,8 @@ chinaaid.net
 ||www.notify.io
 !-O
 ||blog.obvious.com
+||onebigfluke.com
+||overstimulate.com
 !-P
 ||pcgeekblog.com
 ||feeds.people.com
@@ -1509,7 +1511,7 @@ bbs.morbell.com
 ||morningsun.org
 ||movabletype.com
 ||moviefap.com
-||moztw.org
+||www.moztw.org
 ||mp/
 ||mpettis.com
 mpinews.com
@@ -1559,7 +1561,6 @@ nccwatch.org.tw
 www.ned.org
 ||nekoslovakia.net
 t.neolee.cn
-||nesn.com
 net.ru
 netcolony.com
 bolin.netfirms.com
@@ -1573,15 +1574,12 @@ newcenturynews.com
 ||newchen.com
 .newchen.com
 .newgrounds.com
-.newnews.ca
-||newnews.ca
 .newscn.org
 ||newscn.org
 bbs.newsgroup.la
 bbs2.newsgroup.la
 forum.newsgroup.la
 ||newsminer.com
-||newspace21.com
 newspeak.cc/story
 newstin.com
 newtalk.tw
@@ -1597,7 +1595,6 @@ ngensis.com
 !--||blog.nicovideo,jp
 !--tw.nicovideo.jp
 nicovideo.tw
-||nidaye.org
 nintendium.com
 homepage2.nifty.com
 taiwanyes.ning.com
@@ -1607,13 +1604,14 @@ no-ip.com
 nobelprize.org/nobel_prizes/peace/laureates/2010
 ||nokola.com
 ||noobbox.com
-||notebookaddon.tk
 ||novelasia.com
 .nownews.com/cybersex
 .nownews.com/box
 ||blog.nownews.com
 forum.nownews.com
 .nowtorrents.com
+.noypf.com
+||noypf.com
 .nps.gov
 .nrk.no
 bbs.nsysu.edu.tw
@@ -1621,8 +1619,6 @@ ntdtv.com
 ||cbs.ntu.edu.tw
 ||nuexpo.com
 ||nurgo-software.com
-.noypf.com
-||noypf.com
 nysingtao.com
 ||nzchinese.net.nz
 
@@ -1638,12 +1634,9 @@ twtr2src.ogaoga.org
 .oiktv.com
 oizoblog.com
 old-cat.net
-||omg-facts.com
 omgili.com
 omnitalk.
 the-sun.on.cc/cnt/
-||onebigfluke.com
-||caterpillar.onlyfun.net
 .onlylady.cn
 .oopsforum.com
 open.com.hk
@@ -1661,19 +1654,15 @@ www.orchidbbs.com
 t.orzdream.com
 ||t.orzdream.com
 tui.orzdream.com
-.orzistic.org
-||orzistic.org
 m.oulove.org
 ||ourdearamy.com
 oursogo.com
-||overstimulate.com
 share.ovi.com/media
 .ow.ly
 ||ow.ly
 ||ht.ly
 ||mash.to/
 www.owind.com
-oxfam.org.hk
 .ozchinese.com/bbs
 bbs.ozchinese.com
 
@@ -1728,11 +1717,9 @@ pengyulong.com
 .penthouse.com
 .peopo.org
 ||peopo.org
-||petapixel.com
 petardas.com
 philly.com
 ||photofocus.com
-||photou.in
 .picidae.net
 ||img*.picturedip.com
 picturesocial.com
