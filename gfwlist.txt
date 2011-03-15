@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: f5UYuWqBDR5Xg5B5qrOe6g
+! Checksum: iicJvUqtxYbvZbQxaD1SbA
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 06:22:43 +0800
+! Last Modified: Wed, 16 Mar 2011 06:27:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -395,6 +395,7 @@ psiphon.civisec.org
 ||cmule.com
 ||cna.com.tw
 .cnavista.com.tw/shop/stores_app
+||cnic.jp
 .cnd.org
 ||cnd.org/
 .cnn.com/video
@@ -587,6 +588,7 @@ video.fdbox.com
 feedbooks.mobi
 feeds.feedburner.com
 feeds2.feedburner.com/chinagfwblog
+goo.gl/fb
 ||feedzshare.com
 feer.com
 felixcat.net
@@ -1668,6 +1670,7 @@ bbs.ozchinese.com
 
 !--------------------------PP--------------------------
 .pacificpoker.com
+.pandora.tv
 page2rss.com
 !--Godaddy Free Hosting
 ||paint.net
@@ -1697,6 +1700,7 @@ pbwiki.com
 ||wiki.phonegap.com
 ||wiki.jqueryui.com
 
+||pbxes.com
 ||pbxes.org
 .pcdiscuss.com
 blog.pchome.com.tw
@@ -2132,6 +2136,8 @@ tangben.com
 .taolun.info
 ||taolun.info
 blog.taragana.com
+.taweet.com
+||taweet.com
 tchrd.org
 tcno.net*doc*tor
 ||teamseesmic.com
