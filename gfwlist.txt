@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: iicJvUqtxYbvZbQxaD1SbA
+! Checksum: vcZaq/WzdfAJ3Dm36mP+Ew
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 06:27:55 +0800
+! Last Modified: Wed, 16 Mar 2011 06:33:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -857,6 +857,7 @@ chinaaid.net
 ||hogbaysoftware.com
 ||slides.html5rocks.com
 ||www.html5rocks.com
+||huhaitai.com
 ||blog.humanrightsfirst.org
 !-I
 ||site.icu-project.org
