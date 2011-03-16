@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EnhPZgQmzTyZn+QYUCLRuA
+! Checksum: q6n7YPi6unmu80c3nP3s7g
 ! Expires: 6h
-! Last Modified: Wed, 16 Mar 2011 07:09:35 +0800
+! Last Modified: Thu, 17 Mar 2011 03:44:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -500,6 +500,7 @@ dongtaiwang.com
 .dotplane.com
 ||dotplane.com
 doubleaf.com
+||dougscripts.com
 dowei.org
 dphk.org
 ||dpp.org.tw
@@ -555,6 +556,7 @@ epochtimes.com
 etaiwannews.com
 ||etizer.org
 www.eulam.com
+eventful.com
 ||exblog.jp
 ||blog.exblog.co.jp
 @@||www.exblog.jp
@@ -570,6 +572,7 @@ eyny.com
 ||fbcdn.net
 fanqiangyakexi.net
 fail.hk
+||famunion.com
 .fan-qiang.com
 .fangbinxing.com
 fangeming.com
@@ -598,6 +601,8 @@ felixcat.net
 ||fengzhenghu.com
 fflick.com
 .fgmtv.org
+.files2me.com
+|http://files2me.com
 fillthesquare.org
 findbook.tw
 .fireofliberty.org
@@ -664,6 +669,7 @@ friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 fuckgfw.org
 fulue.com
 funp.com
+||furinkan.com
 .futurechinaforum.org
 ||futuremessage.org
 fzh999.com
@@ -679,6 +685,7 @@ fzh999.net
 .gaoming.net
 ||gaoming.net
 ||gaopi.net
+||gappp.org
 gardennetworks.com
 ||gardennetworks.org
 !--IP of Garden Network
@@ -833,6 +840,7 @@ chinaaid.net
 ||flightsimtalk.com
 ||mclee.foolme.net
 ||www.frienddeck.com
+||fringespoilers.com
 ||fringetelevision.com
 ||funpea.com
 !-G
@@ -855,6 +863,7 @@ chinaaid.net
 !-H
 ||blog.headius.com
 ||hogbaysoftware.com
+||blog.hotot.org
 ||slides.html5rocks.com
 ||www.html5rocks.com
 ||huhaitai.com
@@ -875,6 +884,7 @@ chinaaid.net
 ||kathyschwalbe.com
 ||tomatovpn.keithmoyer.com
 ||www.keithmoyer.com
+||kendalvandyke.com
 ||blog.kengao.tw
 ||log.keso.cn
 ||www.khanacademy.org
@@ -974,6 +984,7 @@ chinaaid.net
 !-V
 ||tp.vbap.com.au
 ||www.virtuousrom.com
+||blog.visibotech.com
 !-W
 ||waveprotocol.org
 ||www.wavesandbox.com
@@ -1638,6 +1649,7 @@ twtr2src.ogaoga.org
 .oiktv.com
 oizoblog.com
 old-cat.net
+||olumpo.com
 omgili.com
 omnitalk.
 the-sun.on.cc/cnt/
@@ -1952,7 +1964,8 @@ forum.setty.com.tw
 .sexandsubmission.com
 .sexhu.com
 .sexhuang.com
-.sexinsex.net
+sexinsex.net
+||sexinsex.net
 !--IP of SexInSex
 67.220.91.18
 67.220.91.23
@@ -2275,6 +2288,7 @@ twurl.nl
 ||news.ghostery.com
 ||givemesomethingtoread.com
 ||blog.gowalla.com
+||heiyo.info
 ||blog.hotpotato.com
 ||ialmostlaugh.com
 ||blog.instapaper.com
@@ -2366,6 +2380,8 @@ twibase.com
 twibbon.com
 ||twibs.com
 ||twindexx.com
+.twifan.com
+|http://twifan.com
 twilog.org
 ||twip.me/
 twistar.cc
@@ -2891,6 +2907,8 @@ search*%E5%85%AD%E5%9B%9B
 search*%E8%89%B2%E6%83%85
 !--Wang Dan
 %E7%8E%8B%E4%B8%B9
+!--Wang Te
+search*%E7%BD%91%E7%89%B9
 !--Wang Xi Zhe
 search*%E7%8E%8B%E5%B8%8C%E5%93%B2
 !--Wen Zi Yu
