@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tXP/fGn4tSuoV/ayrcju8A
+! Checksum: 0ojou+Vo2+TlALiNIH1LVA
 ! Expires: 6h
-! Last Modified: Thu, 17 Mar 2011 18:05:59 +0800
+! Last Modified: Thu, 17 Mar 2011 18:25:32 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -765,9 +765,13 @@ code.google.com/p/gappproxy
 code.google.com/p/autoproxy/updates/list
 code.google.com/p/program-think/wiki/Software
 code.google.com/p/scholarzhang
+code.google.com/p/tuite
 code.google.com/p/twitese
 code.google.com/p/twip
+autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
 gfwinterceptor.googlecode.com
+gtap.googlecode.com
+tuite.googlecode.com
 
 !-------------Google Docs-----
 docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
