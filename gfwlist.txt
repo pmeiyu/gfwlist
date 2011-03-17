@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JbBq6T+/DAe5lwqCHA5M6w
+! Checksum: tXP/fGn4tSuoV/ayrcju8A
 ! Expires: 6h
-! Last Modified: Thu, 17 Mar 2011 18:04:50 +0800
+! Last Modified: Thu, 17 Mar 2011 18:05:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1285,8 +1285,6 @@ igfw.tk
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
-.imdb.com
-||imdb.com
 .img.ly
 ||img.ly
 .imkev.com
