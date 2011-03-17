@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: q6n7YPi6unmu80c3nP3s7g
+! Checksum: JbBq6T+/DAe5lwqCHA5M6w
 ! Expires: 6h
-! Last Modified: Thu, 17 Mar 2011 03:44:10 +0800
+! Last Modified: Thu, 17 Mar 2011 18:04:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -19,6 +19,7 @@ t.16class.cn
 |http://17e.org/
 1984bbs.com
 ||1984bbs.com
+||1984blog.com
 .1984bbs.org
 ||1984bbs.org
 .1bao.org
@@ -127,7 +128,7 @@ video.aol.com
 ||video.aol.com
 www.aolnews.com
 .apigee.com
-|http://apigee.com/
+||apigee.com
 
 !-Appspot
 .appspot.com
@@ -569,6 +570,7 @@ eyny.com
 .facebook.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
+@@||*v6.facebook.com
 ||fbcdn.net
 fanqiangyakexi.net
 fail.hk
@@ -1006,6 +1008,7 @@ chinaaid.net
 
 !-------------Google Search-----
 @@||google.cn
+@@||ipv6.google.com
 .google.*/complete/search
 /search?q=cache
 /search%3Fq%3Dcache
@@ -2361,6 +2364,8 @@ tweetboard.com
 .tweetboner.biz
 ||tweetboner.biz
 .tweetdeck.com
+|http://tweetdeck.com
+|http://deck.ly
 ||tweete.net
 m.tweete.net
 ||mtw.tl
