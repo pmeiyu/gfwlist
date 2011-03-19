@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +Ztp3Kex9M6dBDMuObEJow
+! Checksum: xbvf+YsThGyamW1EFMWPUw
 ! Expires: 6h
-! Last Modified: Thu, 17 Mar 2011 18:32:02 +0800
+! Last Modified: Sat, 19 Mar 2011 17:00:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -510,6 +510,9 @@ dphk.org
 ||drivingitalia.net
 ||droidie.com
 .dropbox.com
+||droplr.com
+||d.pr
+||drp.ly
 ||dtiblog.com
 dtiserv2.com
 ||duckmylife.com
@@ -1290,6 +1293,8 @@ igfw.tk
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
+.imdb.com
+|http://imdb.com
 .img.ly
 ||img.ly
 .imkev.com
@@ -1336,8 +1341,9 @@ jieshibaobao.com
 |http://jimoparty.com
 jingpin.org/fuck-gfw-history
 zhao.jinhai.de
+jingpin.org
+||jingpin.org
 ac.jiruan.net
-|http://jinn.li
 ||jitouch.com
 jkforum.net
 ||jobso.tv
