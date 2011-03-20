@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Fojzm93ZeSoGLODmVYzUHw
+! Checksum: 3tABBbeMoWBXnD6DW72hsw
 ! Expires: 6h
-! Last Modified: Sun, 20 Mar 2011 15:30:55 +0800
+! Last Modified: Sun, 20 Mar 2011 15:33:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2229,7 +2229,6 @@ twurl.nl
 @@||static.tumblr.com
 ||301works.org
 ||365singles.com.ar
-||blog.agile.ws
 ||art-or-porn.com
 ||news.atebits.com
 ||tumblr.awflasher.com
@@ -2239,14 +2238,12 @@ twurl.nl
 ||bobulate.com
 ||bonjourlesgeeks.com
 ||blog.boxcar.io
-||blog.couch.io
 ||blog.bit.ly
 ||chevronwp7.com
 ||clientsfromhell.net
 ||cubicle17.com
 ||cookingtothegoodlife.com
 ||photos.dailyme.com
-||davidkaneda.com
 ||davidslog.com
 ||blog.davidziegler.net
 ||drewolanoff.com
@@ -2255,7 +2252,6 @@ twurl.nl
 ||eamonnbrennan.com
 ||everyday-carry.com
 ||eyespirit.info
-||tumblr.fenglu.name
 ||life.fly4ever.me
 ||fredwilson.vc
 ||fuckgfw.com
