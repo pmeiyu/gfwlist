@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3tABBbeMoWBXnD6DW72hsw
+! Checksum: VwfjMkwf9ghMiivZPtc/vA
 ! Expires: 6h
-! Last Modified: Sun, 20 Mar 2011 15:33:33 +0800
+! Last Modified: Sun, 20 Mar 2011 15:46:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -955,9 +955,12 @@ chinaaid.net
 ||salmiyuck.com
 ||samsal.com
 ||blog.seeminglee.com
+||www.skulpt.org
 ||rss.slashdot.org
 ||snippetsapp.com
 ||w.sns.ly
+||www.socialnmobile.com
+||www.socialwhois.com
 ||spiritjb.org
 ||ssbook.com
 ||sshforwarding.com
@@ -1966,14 +1969,11 @@ sexinsex.net
 !--IP of SexInSex
 67.220.91.18
 67.220.91.23
-||sf520.com
-||om.shaayad.com
 .shangfang.org
 ||shangfang.org
 shapeservices.com
 .sharebee.com
 ||sharecool.org
-||sharepointeducation.com
 ||sharkdolphin.com
 .shaunthesheep.com
 ||shaunthesheep.com
@@ -1984,18 +1984,13 @@ shinychan.com
 ||shizhao.org
 .shizhao.org
 shkspr.mobi/dabr
-.shooshtime.com
-||shooshtime.com
-||shulib.com
 ch.shvoong.com
-||simplenoteapp.com
 simpleproductivityblog.com
 bbs.sina.com/
 bbs.sina.com%2F
-||blog.sina.com.hk
 blog.sina.com.tw
-||books.sina.com.tw
-dailynews.sina.com/bg
+dailynews.sina.com/
+dailynews.sina.com%2F
 forum.sina.com.hk
 ||magazines.sina.com.tw
 news.sina.com.hk
@@ -2006,17 +2001,13 @@ news.singtao.ca
 .sinopitt.info
 .sinoants.com
 ||sinoants.com
-||sippey.com
 ||site90.net
-||siteadvisor.com
 .sitebro.tw
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
 ||sjum.cn/
 ||skimtube.com
-||skulpt.org
-||skydur.com
 |http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
@@ -2024,17 +2015,13 @@ m.slandr.net
 ||slheng.com
 forum.slime.com.tw
 .slutload.com
-||smashingshare.com
 ||snsanalystics.com
 ||so-ga.net
 .so-ga.net
 ||so-news.com
 .so-news.com
 ||soc.mil/
-||socialnmobile.com
-||www.socialwhois.com
 .sod.co.jp
-||softpanorama.org
 ||sogclub.com
 ||www.somee.com
 ||sorting-algorithms.com
