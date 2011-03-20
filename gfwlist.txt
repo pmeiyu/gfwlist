@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xbvf+YsThGyamW1EFMWPUw
+! Checksum: 1mbU/FaAcfqjyHe0aVM7Og
 ! Expires: 6h
-! Last Modified: Sat, 19 Mar 2011 17:00:40 +0800
+! Last Modified: Sun, 20 Mar 2011 14:51:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -510,9 +510,6 @@ dphk.org
 ||drivingitalia.net
 ||droidie.com
 .dropbox.com
-||droplr.com
-||d.pr
-||drp.ly
 ||dtiblog.com
 dtiserv2.com
 ||duckmylife.com
