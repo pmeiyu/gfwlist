@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VwfjMkwf9ghMiivZPtc/vA
+! Checksum: 6AxtZ7yePRhZpPVIs8ndYg
 ! Expires: 6h
-! Last Modified: Sun, 20 Mar 2011 15:46:12 +0800
+! Last Modified: Sun, 20 Mar 2011 16:01:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2073,7 +2073,7 @@ cn2.streetvoice.com
 tw.streetvoice.com
 .student.tw/db
 .sugarsync.com
-||www.sugarsync.com
+||sugarsync.com
 t.sunxun.info/login.php
 www.supertweet.net
 support/youtube/bin/request.py?contact_type=abuse&
