@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0dUa95sjyaYobpkufMItLA
+! Checksum: Fojzm93ZeSoGLODmVYzUHw
 ! Expires: 6h
-! Last Modified: Sun, 20 Mar 2011 15:09:45 +0800
+! Last Modified: Sun, 20 Mar 2011 15:30:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -973,8 +973,10 @@ chinaaid.net
 ||the8pen.com
 ||theiphonewiki.com
 ||blog.thesilentnumber.me
+||thesponty.com
 ||theultralinx.com
 ||blog.think-async.com
+||tornadoweb.org
 ||transparentuptime.com
 ||triangulationblog.com
 ||blog.tsunanet.net
@@ -2034,7 +2036,7 @@ forum.slime.com.tw
 .sod.co.jp
 ||softpanorama.org
 ||sogclub.com
-||somee.com
+||www.somee.com
 ||sorting-algorithms.com
 .soumo.info
 ||soup.io/
@@ -2046,7 +2048,6 @@ sneakme.net
 .sobees.com
 ||sobees.com
 socialwhale.com
-||soft-artemis.com
 blog.sogoo.org
 sokamonline.com
 .songjianjun.com
@@ -2061,7 +2062,6 @@ sowers.org.hk
 .spankwire.com
 .speedpluss.org
 ||spencertipping.com
-||splitweet.com
 ||sproutcore.com
 squarespace.com
 .sshcenter.com
@@ -2086,11 +2086,8 @@ cn2.streetvoice.com
 tw.streetvoice.com
 .student.tw/db
 .sugarsync.com
-||sugarsync.com
-||suicideblitz.info
-||summize.com
+||www.sugarsync.com
 t.sunxun.info/login.php
-||superspeed.com
 www.supertweet.net
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
@@ -2116,7 +2113,6 @@ tagwalk.com
 ||taiwandaily.net
 taiwankiss.com
 taiwan-sex.com
-||talbenshahar.com
 ||tamiaode.tk
 tangben.com
 .taolun.info
@@ -2132,9 +2128,7 @@ tcno.net*doc*tor
 technorati.com
 ||techparaiso.com
 ||teck.in/
-||tek-tips.com
 telecomspace.com
-||the-bowser.com
 ||theappleblog.com
 ||theatrum-belli.com
 theblemish.com
@@ -2146,7 +2140,6 @@ theblemish.com
 thepiratebay.org
 theqii.info/blog
 ||thesartorialist.com
-||thesponty.com
 ||thetibetpost.com
 thetrotskymovie.com/
 thevivekspot.com
@@ -2179,12 +2172,10 @@ tibetfund.org
 times.hinet.net/times/module.do?option=mainland
 ||blog.tiney.com
 ||tinypaste.com
-||i28.tinypic.com
 ||tidyread.com
 .tistory.com
 ||tkcs-collins.com
 ||tkforum.tk
-||tkit.tk/
 tldp.org
 .tnaflix.com
 ||tnaflix.com
@@ -2200,21 +2191,17 @@ tonyyan.net
 ||topsy.com
 topsy.com
 tora.to
-||tornadoweb.org
 .torproject.org
 touch99.com
-||totalcmd.net
 ||toutfr.com
 .tpi.org.tw
 ||tpi.org.tw
-||trackon.org
 ||transgressionism.org
 ||travelinlocal.com
 .trialofccp.org
 ||trialofccp.org
 ||tripod.com
 @@||www.tripod.com
-||trulyergonomic.com
 ||trustedbi.com
 .truth101.co.tv
 |http://truth101.co.tv
@@ -2231,7 +2218,6 @@ bb.ttv.com.tw/bb
 tuidang.net
 bbs.tuitui.info
 ||turningtorso.com
-||tuxmachines.org
 ||tuxtraining.com
 twurl.nl
 
