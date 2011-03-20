@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1mbU/FaAcfqjyHe0aVM7Og
+! Checksum: 0dUa95sjyaYobpkufMItLA
 ! Expires: 6h
-! Last Modified: Sun, 20 Mar 2011 14:51:58 +0800
+! Last Modified: Sun, 20 Mar 2011 15:09:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -946,6 +946,7 @@ chinaaid.net
 !-R
 ||r-chart.com
 ||rameshsubramanian.org
+||rapid.pk
 ||blog.reddit.com
 ||feeds.reuters.com
 ||robertmao.com
@@ -1827,7 +1828,6 @@ privatepaste.com
 ||privatepaste.com
 ||prosiben.de
 ||proxomitron.info
-||proxypy.com
 .proxypy.net
 ||proxypy.net
 proxyroad.com
@@ -1847,10 +1847,9 @@ python.org*download
 ||qanote.com
 .qienkuen.org
 ||qienkuen.org
-||qingre.com
 qixianglu.cn
 bbs.qmzdd.com
-||qmzdd.com
+
 .qkshare.com
 ||qoos.com
 blog.qooza.hk*dafengqixi
@@ -1870,12 +1869,9 @@ qxbbs.org
 !--------------------------RR--------------------------
 www.radioaustralia.net.au*chinese*articles*
 ||radiovaticana.org
-.randyblue.com
-||randyblue.com
 rangzen.org
 ranyunfei.com
 ||ranyunfei.com
-||rapid.pk
 .rapidshare1.com
 ||rapidshare8.com
 .rapidsharedata.com
@@ -1891,7 +1887,6 @@ rcinet.ca
 blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 ||reflectivecode.com
-||refer.ccbill.com
 remembering_tiananmen_20_years
 renminbao.com
 .renyurenquan.org
@@ -1905,15 +1900,11 @@ revver.com
 .rfi.fr
 ||rfi.fr
 .rileyguide.com
-||a.rimg.com.tw
-||b.rimg.com.tw
-||c.rimg.com.tw
 riku.me/
 .rlwlw.com
 ||rlwlw.com
 robtex.com
 ||robustnessiskey.com
-||romnation.net
 ||ronjoneswriter.com
 .roodo.com
 ||roosong.cn
@@ -1928,7 +1919,6 @@ robtex.com
 rti.org.tw
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 .rushbee.com
-||ruten.com.tw
 .ruyiseek.com
 .rxhj.net
 ||rxhj.net
@@ -1937,14 +1927,12 @@ rti.org.tw
 ||s-a.cc
 blog.s135.com/google_ssl
 ||s1heng.com
-||s3fox.net
 .saiq.me
 ||saiq.me/
 .salvation.org.hk
 ||salvation.org.hk
 .samair.ru/proxy/type-01
 sandnoble.com/bookSearch/isbnInquiry.asp
-||sandradodd.com
 ||sankaizok.com
 .sanmin.com.tw
 sapikachu.net
@@ -1952,7 +1940,6 @@ savetibet.org
 ||say2.info
 .scribd.com
 seapuff.com
-||searchfreefonts.com
 secretchina.com
 ||secretgarden.no
 seesmic.com
@@ -1964,7 +1951,6 @@ sesawe.net
 .sesawe.org
 ||sethwklein.net
 forum.setty.com.tw
-||seul.org
 .sevenload.com
 ||sevenload.com
 .sex.com
@@ -1978,11 +1964,6 @@ sexinsex.net
 !--IP of SexInSex
 67.220.91.18
 67.220.91.23
-||sexyandfunny.com
-.sexyandfunny.com
-.sexyandshocking.com
-||sexyandshocking.com
-.sexyclips.org
 ||sf520.com
 ||om.shaayad.com
 .shangfang.org
