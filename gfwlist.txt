@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2GiwE//LoVj9nO1CB1mSlQ
+! Checksum: U+bD+Hh9abUxYEBl7/MPBg
 ! Expires: 6h
-! Last Modified: Mon, 21 Mar 2011 14:25:58 +0800
+! Last Modified: Mon, 21 Mar 2011 18:44:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2057,7 +2057,6 @@ squarespace.com
 .sshcenter.com
 ||sshcenter.com
 www.stackfile.com/freedur
-||stackoverflow.com
 usinfo.state.gov
 .starp2p.com
 ||starp2p.com
