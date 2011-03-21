@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6AxtZ7yePRhZpPVIs8ndYg
+! Checksum: 2GiwE//LoVj9nO1CB1mSlQ
 ! Expires: 6h
-! Last Modified: Sun, 20 Mar 2011 16:01:02 +0800
+! Last Modified: Mon, 21 Mar 2011 14:25:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1306,6 +1306,7 @@ imageshack.us
 ||incredibox.fr
 .inmediahk.net
 ||inmediahk.net
+||instantservices.com
 ||interfaceaddiction.com
 internetfreedom.org
 ||internetpopculture.com
@@ -1427,6 +1428,7 @@ linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 liuxiaotong.com
 ||liuxiaotong.com
 liu.lu
+.livestation.com
 ||livingonline.us
 
 !-------------live spaces-----
@@ -1567,6 +1569,7 @@ multiupload.com
 ||myforum.com.hk
 ||myforum.com.uk
 .myfreshnet.com
+||my-ip-neighbors.com
 ||myparagliding.com
 mysinablog.com
 .blogs.myspace.com
@@ -2054,6 +2057,7 @@ squarespace.com
 .sshcenter.com
 ||sshcenter.com
 www.stackfile.com/freedur
+||stackoverflow.com
 usinfo.state.gov
 .starp2p.com
 ||starp2p.com
