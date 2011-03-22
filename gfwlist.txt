@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: U+bD+Hh9abUxYEBl7/MPBg
+! Checksum: qHlmYeypFyz2N2WXbjbH+Q
 ! Expires: 6h
-! Last Modified: Mon, 21 Mar 2011 18:44:10 +0800
+! Last Modified: Tue, 22 Mar 2011 21:12:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -333,6 +333,8 @@ chinacomments.org
 ||chinacomments.org
 .chinadigitaltimes.net
 |http://chinadigitaltimes.net
+.chinaeweekly.com
+||chinaeweekly.com
 ||chinafreepress.org
 chinagfw.org
 ||chinagfw.org
