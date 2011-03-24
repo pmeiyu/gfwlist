@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: c6tiryuNUxhT+eqkba/X3g
+! Checksum: N8wNq+q5F6whCNE/c4l4Hg
 ! Expires: 6h
-! Last Modified: Thu, 24 Mar 2011 14:35:41 +0800
+! Last Modified: Thu, 24 Mar 2011 15:30:55 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -527,7 +527,8 @@ dupola.net
 ||dvorak.org
 .dw-world.com
 ||dw-world.com
-dw-world.de
+.dw-world.de
+http://dw-world.de
 www.dwheeler.com
 .dwnews.com
 ||dwnews.com
