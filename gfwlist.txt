@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Lik7iKTldfphpgnJUfcNyw
+! Checksum: c6tiryuNUxhT+eqkba/X3g
 ! Expires: 6h
-! Last Modified: Tue, 22 Mar 2011 22:27:29 +0800
+! Last Modified: Thu, 24 Mar 2011 14:35:41 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -23,6 +23,7 @@ t.16class.cn
 .1984bbs.org
 ||1984bbs.org
 .1bao.org
+http://1bao.org
 ||1free.ws
 ||1pondo.tv
 bbs.1tor.com
@@ -2560,6 +2561,8 @@ wenxuecity.com
 hkg.westkit.net
 www.wet123.com
 wetpussygames.com
+wexiaobo.org
+||wexiaobo.org
 wezhiyong.org
 ||wezone.net
 .wforum.com
