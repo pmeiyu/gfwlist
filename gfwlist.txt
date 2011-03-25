@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: N8wNq+q5F6whCNE/c4l4Hg
+! Checksum: H1KFBLxenpvDy029/hYzAQ
 ! Expires: 6h
-! Last Modified: Thu, 24 Mar 2011 15:30:55 +0800
+! Last Modified: Fri, 25 Mar 2011 19:17:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2217,7 +2217,7 @@ bbs.tuitui.info
 twurl.nl
 
 !-------------Tumblr-----
-||tumblr.com
+!-||tumblr.com
 @@||assets.tumblr.com
 @@||data.tumblr.com
 @@||media.tumblr.com
