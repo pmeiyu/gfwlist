@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: H1KFBLxenpvDy029/hYzAQ
+! Checksum: gwOKh5U/vVQ8MMKwuqVvwg
 ! Expires: 6h
-! Last Modified: Fri, 25 Mar 2011 19:17:33 +0800
+! Last Modified: Fri, 25 Mar 2011 22:15:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1311,7 +1311,6 @@ imageshack.us
 ||incredibox.fr
 .inmediahk.net
 ||inmediahk.net
-||instantservices.com
 ||interfaceaddiction.com
 internetfreedom.org
 ||internetpopculture.com
@@ -1362,6 +1361,7 @@ t.jteet.com
 ||junauza.com
 .junefourth-20.net
 ||junefourth-20.net
+.justin.tv
 .jyxf.net
 
 !--------------------------KK--------------------------
@@ -1574,7 +1574,6 @@ multiupload.com
 ||myforum.com.hk
 ||myforum.com.uk
 .myfreshnet.com
-||my-ip-neighbors.com
 ||myparagliding.com
 mysinablog.com
 .blogs.myspace.com
