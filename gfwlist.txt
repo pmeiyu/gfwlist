@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gwOKh5U/vVQ8MMKwuqVvwg
+! Checksum: WpTMNvz+BqhMjNrcGuhwZw
 ! Expires: 6h
-! Last Modified: Fri, 25 Mar 2011 22:15:26 +0800
+! Last Modified: Sun, 27 Mar 2011 13:33:09 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -333,6 +333,8 @@ chinaaffairs.org
 ||chinaaffairs.org
 chinacomments.org
 ||chinacomments.org
+chinachannel.hk
+||chinachannel.hk
 .chinadigitaltimes.net
 |http://chinadigitaltimes.net
 .chinaeweekly.com
