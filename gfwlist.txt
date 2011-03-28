@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ffgntj2uupLUhwBia3hz1w
+! Checksum: dcHCY0+OvjYzF9oAuGB5bQ
 ! Expires: 6h
-! Last Modified: Tue, 29 Mar 2011 06:42:07 +0800
+! Last Modified: Tue, 29 Mar 2011 06:49:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -271,6 +271,7 @@ brightkite.com
 brizzly.com
 ||brizzly.com
 ibros.org
+brucewang.net
 ||bt95.com
 .budaedu.org
 ||budaedu.org
@@ -899,6 +900,7 @@ chinaaid.net
 ||ironhelmet.com
 ||iwfwcf.com
 !-J
+||blog.jangmt.com
 ||t.jiecii.com
 ||blog.joint.net
 ||blog.jsquaredjavascript.com
@@ -1047,6 +1049,7 @@ google*search*q=cache
 .google.*protest*1989
 .google.*search*Tankman
 .google.*search*tbs=mbl
+.google.*tbs=qdr
 .google.*Tiananmen
 .google.*Tibetan*independence
 !--Bei Guo Zhi Chun
@@ -2052,6 +2055,7 @@ forum.slime.com.tw
 .so-ga.net
 ||so-news.com
 .so-news.com
+home.so-net.net.tw/yisa_tsai
 ||soc.mil/
 .sod.co.jp
 ||sogclub.com
@@ -2203,6 +2207,7 @@ togetter.com
 tokyo-hot.com
 tonyyan.net
 .toodoc.com
+toonel.net
 .topnews.in
 ||topshare.us
 .topshareware.com
@@ -2407,6 +2412,7 @@ twitreferral.com
 .twitvid.com
 ||twitvid.com
 
+199.59.148.20
 |http://t.co
 |http://twt.tl
 ||si*.twimg.com
@@ -2529,6 +2535,7 @@ veoh.com
 ||vinniev.com
 video.tiscali.it/canali/truveo
 ||vmixcore.com
+tw.voa.mobi
 .voachineseblog.com
 ||voachineseblog.com
 !--voachineseblog.com/heqinglian
