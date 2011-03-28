@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 622oggtl94vKC8gKMKZOmg
+! Checksum: ffgntj2uupLUhwBia3hz1w
 ! Expires: 6h
-! Last Modified: Tue, 29 Mar 2011 06:39:10 +0800
+! Last Modified: Tue, 29 Mar 2011 06:42:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -657,6 +657,8 @@ freeman2.com
 ||foxdie.us
 ||foxsub.com
 ||franklc.com
+.freakshare.com
+|http://freakshare.com
 ||puttycm.free.fr
 freeciv.org
 .freedomhouse.org
@@ -1946,7 +1948,10 @@ robtex.com
 ||rsf-chinese.org
 .rssmeme.com
 ||rssmeme.com
-!-rthk.org.hk
+.rthk.hk
+|http://rthk.hk
+rthk.org.hk
+|http://rthk.org.hk
 .rthk.org.hk/rthk/news/expressnews/news.
 rti.org.tw
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
