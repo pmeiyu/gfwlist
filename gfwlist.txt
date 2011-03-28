@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WpTMNvz+BqhMjNrcGuhwZw
+! Checksum: 622oggtl94vKC8gKMKZOmg
 ! Expires: 6h
-! Last Modified: Sun, 27 Mar 2011 13:33:09 +0800
+! Last Modified: Tue, 29 Mar 2011 06:39:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -27,6 +27,7 @@ http://1bao.org
 ||1free.ws
 ||1pondo.tv
 bbs.1tor.com
+.2000fun.com/bbs
 .2008xianzhang.info
 ||2008xianzhang.info
 .21code.com
@@ -96,6 +97,7 @@ blog.aiweiwei.com
 aladding.com
 ||aladding.com
 ||alasbarricadas.org
+||notes.alexdong.com
 ||alkasir.com
 bbs.allhabit.com
 alliance.org.hk
@@ -116,6 +118,7 @@ ameblo.jp
 amzs.me
 analyze-v.com
 ||anchorfree.com
+||andfaraway.net
 ||anobii.com
 .anonymizer.com
 ||anthonycalzadilla.com
@@ -317,6 +320,7 @@ cdpwu.org
 .cecc.gov
 ||cecc.gov
 ||cellulo.info
+||cenci.tk
 ||cenews.eu
 ||cengkewang.com
 ||chandoo.org
@@ -371,6 +375,7 @@ chinaway.org
 chinayuanmin.org
 ||chinayuanmin.org
 .chinese-hermit.net
+||chinesedora.com
 .chinesen.de
 ||chinesen.de
 chinesenewsnet.com
@@ -469,6 +474,8 @@ daxa.cn
 ||daxa.cn/
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
+||de-sci.org
+.de-sci.org
 packages.debian.org/zh-cn/lenny/gpass
 ||www.debugmode.com
 ||delcamp.net
@@ -477,8 +484,7 @@ delicious.com/GFWbookmark
 ||democrats.org
 ||demonoid.com
 ||demonoid.me
-||de-sci.org
-.de-sci.org
+||desc.se/
 ||deutsche-welle.de
 ||dev102.com
 .diaoyuislands.org
@@ -509,6 +515,7 @@ dongtaiwang.com
 doubleaf.com
 ||dougscripts.com
 dowei.org
+||doxygen.org
 dphk.org
 ||dpp.org.tw
 ||dreamaquarium.com
@@ -737,6 +744,7 @@ gmbd.cn
 ||goldwave.com
 gongmeng.info
 gongminliliang.com
+.gongwt.com
 .goodreads.com
 ||goodreads.com
 .goodreaders.com
@@ -1013,6 +1021,7 @@ chinaaid.net
 ||www.whatbrowser.org
 ||willhains.com
 ||feeds.wired.com
+||wisemapping.org
 ||blog.wundercounter.com
 !-X
 ||xdelta.org
@@ -1222,6 +1231,7 @@ hellotxt.com
 ||overlapr.com
 ||speckleapp.com
 ||stuffimreading.net
+||tomayko.com
 ||twt.fm
 
 ||heungkongdiscuss.com
@@ -1333,6 +1343,7 @@ forum.iset.com.tw
 ||ismprofessional.net
 isohunt.com
 blog.istef.info/2007/10/21/myentunnel
+ithelp.ithome.com.tw/question/10007094
 .itweet.net
 |http://itweet.net
 .iu45.com
@@ -1357,6 +1368,7 @@ ac.jiruan.net
 ||jitouch.com
 jkforum.net
 ||jobso.tv
+||joeedelman.com
 ||journalofdemocracy.org
 t.jteet.com
 ||juliereyc.com
@@ -1403,11 +1415,14 @@ ladbrokes.com
 laogai.org
 ||laogai.org
 laomiu.com
+.laoyang.info
+|http://laoyang.info
 ||laptoplockdown.com
 latelinenews.com
 ||leecheukyan.org
 t.leeiio.me
 ||lenwhite.com
+blog.lester850.info
 .letscorp.net
 ||letscorp.net
 li2z.cn/t
@@ -1503,6 +1518,7 @@ lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%B
 ||megarotic.com
 ||megaupload.com
 megavideo.com
+||megurineluka.com
 meirixiaochao.com
 ||melon-peach.com
 memedia.cn
@@ -1566,6 +1582,7 @@ multiupload.com
 ||muzi.com
 ||muzi.net
 ||mx981.com
+forum.my903.com
 ||myaudiocast.com
 ||bbs.mychat.to
 ||mychinamyhome.com
@@ -1919,6 +1936,7 @@ riku.me/
 ||rlwlw.com
 robtex.com
 ||robustnessiskey.com
+||rocmp.org
 ||ronjoneswriter.com
 .roodo.com
 ||roosong.cn
@@ -2671,6 +2689,7 @@ wuerkaixi.com
 wufi.org.tw
 wujie.net
 wukangrui.net
+wzyboy.im/post/160
 
 !--------------------------XX--------------------------
 x1949x.com
@@ -3148,6 +3167,8 @@ zh.wikipedia.org*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA
 !--Tian An Men Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
+!--Tian An Men Wen Jian
+zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E6%96%87%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
 !--Tor
@@ -3184,6 +3205,9 @@ zh.wikipedia.org*%E5%94%AF%E8%89%B2
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87
 !--Wen Yun Song
 zh.wikipedia.org*%E6%B8%A9%E4%BA%91%E6%9D%BE
+!--Wen Zi Yu (chs/cht)
+zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E7%8B%B1
+zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E7%8D%84
 !--Wu Bang Guo
 zh.wikipedia.org*%E5%90%B4%E9%82%A6%E5%9B%BD
 !--Wo De Fen Dou
