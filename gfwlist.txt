@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dcHCY0+OvjYzF9oAuGB5bQ
+! Checksum: LXRrmpSv+JMbZSa2TM+DAQ
 ! Expires: 6h
-! Last Modified: Tue, 29 Mar 2011 06:49:23 +0800
+! Last Modified: Tue, 29 Mar 2011 17:11:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -758,6 +758,7 @@ gongminliliang.com
 ||gopetition.com
 grandtrial.org
 ||graphis.ne.jp
+greatfirewall.biz
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
 ||greatfirewallofchina.org
@@ -1200,6 +1201,7 @@ sites.google.com
 |https://talkgadget.google.com/
 video.google.com
 webcache.googleusercontent.com
+||webcache.googleusercontent.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
@@ -2314,6 +2316,7 @@ twurl.nl
 ||blog.summify.com
 ||thedailywh.at
 ||thechangelog.com
+||theinternetwishlist.com
 ||thisiswhyyouarefat.com
 ||tomsc.com
 ||blog.topify.com
@@ -2535,6 +2538,7 @@ veoh.com
 ||vinniev.com
 video.tiscali.it/canali/truveo
 ||vmixcore.com
+cn.voa.mobi
 tw.voa.mobi
 .voachineseblog.com
 ||voachineseblog.com
