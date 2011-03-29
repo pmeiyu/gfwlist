@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q3qLho1yUNGdjWJJ8DghxA
+! Checksum: YELKMD0OrdiDdKmsKU2RRA
 ! Expires: 6h
-! Last Modified: Tue, 29 Mar 2011 20:17:44 +0800
+! Last Modified: Wed, 30 Mar 2011 01:05:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -840,6 +840,7 @@ chinaaid.net
 ||www.chromium.org
 ||www.clementine-player.org
 ||data.clementine-player.org
+||clemesha.org
 ||rss.cnn.com
 !-D
 ||www.dailygyan.com
@@ -882,6 +883,7 @@ chinaaid.net
 ||blog.go2web20.net
 ||www.googleartproject.com
 ||blog.google.org
+||google-melange.com
 ||blog.golang.org
 ||fame.gonzolabs.org
 ||govecn.org
@@ -906,6 +908,7 @@ chinaaid.net
 ||iwfwcf.com
 !-J
 ||blog.jangmt.com
+||blog.jayfields.com
 ||t.jiecii.com
 ||blog.joint.net
 ||blog.jsquaredjavascript.com
@@ -925,6 +928,7 @@ chinaaid.net
 ||labyrinth2.com
 ||blog.lastpass.com
 ||docs.latexlab.org
+||leanessays.com
 ||blog.lidaobing.info
 ||log.lightory.net
 ||feeds.limi.net
@@ -979,6 +983,7 @@ chinaaid.net
 ||salmiyuck.com
 ||samsal.com
 ||blog.seeminglee.com
+||blog.sflow.com
 ||blog.sigfpe.com
 ||www.skulpt.org
 ||rss.slashdot.org
@@ -1111,6 +1116,8 @@ search*%E9%85%B7%E5%88%91
 .google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Ri Ji
 .google.*%E6%97%A5%E8%AE%B0
+!--San Tui
+.google.*%E4%B8%89%E9%80%80
 !--Tai Zi
 .google.*%E5%A4%AA%E5%AD%90
 !--Tan Zuo Ren
@@ -1240,6 +1247,7 @@ hellotxt.com
 ||getcloudapp.com
 ||cl.ly
 @@||f.cl.ly/
+||getsmartlinks.com
 ||overlapr.com
 ||speckleapp.com
 ||stuffimreading.net
@@ -1501,6 +1509,8 @@ logbot.net
 ||logmike.com
 .longhair.hk
 ||longtermly.net
+.lookatgame.com
+|http://lookatgame.com
 ||lookingglasstheatre.org
 ||lookpic.com
 ||lrfz.com
