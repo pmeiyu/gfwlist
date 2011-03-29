@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YELKMD0OrdiDdKmsKU2RRA
+! Checksum: r2jCpPpRR2mqDHiJNiqJFw
 ! Expires: 6h
-! Last Modified: Wed, 30 Mar 2011 01:05:25 +0800
+! Last Modified: Wed, 30 Mar 2011 01:41:24 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -253,6 +253,8 @@ boardreader.com/thread
 ||boardreader.com
 boltbrowser.com/download
 .bot.nu
+.bowenpress.com
+||bowenpress.com
 ||developers.box.net
 boxun.com
 ||boxun.com
@@ -388,6 +390,7 @@ chinesenewsnet.com
 chn.chosun.com/servlet/china.ArticleList.ArticleList?code=FFA
 christianstudy.com
 ||christianstudy.com
+||chrlcg-hk.org
 chuizi.net
 ||chuizi.net
 !--same ip
@@ -895,6 +898,7 @@ chinaaid.net
 ||blog.headius.com
 ||hogbaysoftware.com
 ||blog.hotot.org
+||feeds.howstuffworks.com
 ||slides.html5rocks.com
 ||www.html5rocks.com
 ||huhaitai.com
@@ -934,6 +938,7 @@ chinaaid.net
 ||feeds.limi.net
 ||www.liteapplications.com
 ||blog.liukangxu.info
+||twitter.liukangxu.info
 ||oasisnewsroom.live4ever.us
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
@@ -1519,6 +1524,7 @@ lsforum.net
 .lupm.org
 
 !--------------------------MM--------------------------
+m-team.cc/forum
 ||mad-ar.ch
 .maiio.net
 mail-archive.com
@@ -1949,6 +1955,7 @@ remembering_tiananmen_20_years
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
+.revleft.com
 retweetist.com
 ||retweetrank.com
 revver.com
@@ -2177,6 +2184,7 @@ telecomspace.com
 ||theappleblog.com
 ||theatrum-belli.com
 theblemish.com
+||thebcomplex.com
 ||thedieline.com
 ||thedw.us
 ||thegatesnotes.com
@@ -2275,6 +2283,7 @@ twurl.nl
 @@||static.tumblr.com
 ||301works.org
 ||365singles.com.ar
+||all-that-is-interesting.com
 ||art-or-porn.com
 ||news.atebits.com
 ||tumblr.awflasher.com
@@ -3291,6 +3300,8 @@ zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
 !--Yang Jia Xi Jing An
 zh.wikipedia.org*%E6%9D%A8%E4%BD%B3%E8%A2%AD%E8%AD%A6%E6%A1%88
+!--Yang Jian Li
+zh.wikipedia.org*%E6%A5%8A%E5%BB%BA%E5%88%A9
 !--Yi Li Shen
 zh.wikipedia.org*%E8%9A%81%E5%8A%9B%E7%A5%9E
 !--Yong He Gong
