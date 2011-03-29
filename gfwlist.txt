@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LXRrmpSv+JMbZSa2TM+DAQ
+! Checksum: Q3qLho1yUNGdjWJJ8DghxA
 ! Expires: 6h
-! Last Modified: Tue, 29 Mar 2011 17:11:31 +0800
+! Last Modified: Tue, 29 Mar 2011 20:17:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -283,6 +283,7 @@ brucewang.net
 .businesstimes.com.cn
 |http://businesstimes.com.cn
 bugbeep.com
+||bugclub.org
 ||buugaa.com
 buzzurl.jp
 holz.byethost8.com
@@ -519,6 +520,7 @@ dowei.org
 ||doxygen.org
 dphk.org
 ||dpp.org.tw
+||weigegebyc.dreamhosters.com
 ||dreamaquarium.com
 ||drikin.com
 ||drivingitalia.net
@@ -756,6 +758,7 @@ gongminliliang.com
 .googlesile.com
 .gopetition.com
 ||gopetition.com
+||gotw.ca/
 grandtrial.org
 ||graphis.ne.jp
 greatfirewall.biz
@@ -859,6 +862,7 @@ chinaaid.net
 ||s.evernote.com
 ||evhead.com
 !-F
+||facilelogin.com
 ||linux.fatduck.org
 ||blog.fdcn.org
 ||fftogo.com
@@ -975,6 +979,7 @@ chinaaid.net
 ||salmiyuck.com
 ||samsal.com
 ||blog.seeminglee.com
+||blog.sigfpe.com
 ||www.skulpt.org
 ||rss.slashdot.org
 ||snippetsapp.com
@@ -1240,6 +1245,7 @@ hellotxt.com
 ||stuffimreading.net
 ||tomayko.com
 ||twt.fm
+||views.fm
 
 ||heungkongdiscuss.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -1350,6 +1356,8 @@ forum.iset.com.tw
 ||ismprofessional.net
 isohunt.com
 blog.istef.info/2007/10/21/myentunnel
+itaboo.info
+||itaboo.info
 ithelp.ithome.com.tw/question/10007094
 .itweet.net
 |http://itweet.net
@@ -1413,6 +1421,7 @@ kinghost.com
 kun.im
 ||kurtmunger.com
 kusocity.com
+kwongwah.com.my
 .kzeng.info
 ||kzeng.info
 
@@ -1827,6 +1836,7 @@ zh.pokerstrategy.com
 .porntube.com
 .pornvisit.com
 postadult.com
+||powercx.com
 news.pts.org.tw
 web.pts.org.tw
 
@@ -2318,6 +2328,7 @@ twurl.nl
 ||thechangelog.com
 ||theinternetwishlist.com
 ||thisiswhyyouarefat.com
+||www.tiffanyarment.com
 ||tomsc.com
 ||blog.topify.com
 ||thehungrydudes.com
@@ -2375,6 +2386,7 @@ tweetree.com
 ||tweetree.com
 ||tweetwally.com
 tweetymail.com
+||twftp.org
 twibase.com
 .twibble.de
 ||twibble.de
@@ -2443,6 +2455,7 @@ twiyia.com
 .twreg.info
 ||twreg.info
 ||twstar.net
+
 .twtkr.com
 |http://twtkr.com
 .tycool.com
@@ -2473,8 +2486,6 @@ fanfou.la
 guomin.us/login
 t.fishnote.net
 twitter.fishnote.net
-tuite.im
-||tuite.im
 tuite.in
 
 !--------------------------UU--------------------------
@@ -2695,6 +2706,7 @@ zhenxiang.wordpress.com
 
 .wpoforum.com
 ||wpoforum.com
+.wqlhw.com
 .wqyd.org
 ||wqyd.org
 wretch.cc
@@ -2781,6 +2793,7 @@ xa.yimg.com
 ||yogichen.org
 yong.hu
 forum.yorkbbs.ca
+||youxu.info
 .yyii.org
 ||yyii.org
 .yzzk.com
@@ -2918,6 +2931,8 @@ search*%E8%89%B2%E6%83%85
 search*%E7%BD%91%E7%89%B9
 !--Wang Xi Zhe
 search*%E7%8E%8B%E5%B8%8C%E5%93%B2
+!--Wei Jing Sheng
+search*%E9%AD%8F%E4%BA%AC%E7%94%9F
 !--Wen Zi Yu
 search*%E6%96%87%E5%AD%97%E7%8B%B1
 !--Wo De Fen Dou
@@ -3191,6 +3206,8 @@ zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
 zh.wikipedia.org/zh-cn/Tor
 !--Tu Po Wang Luo Shen Cha (zhwb)
 zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
+!--Wang Jun Tao
+zh.wikipedia.org*%E7%8E%8B%E5%86%9B%E6%B6%9B
 !--Wang Qi Shan
 zh.wikipedia.org*%E7%8E%8B%E5%B2%90%E5%B1%B1
 !--Wang Qian Yuan
