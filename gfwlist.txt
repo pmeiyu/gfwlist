@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: r2jCpPpRR2mqDHiJNiqJFw
+! Checksum: tb2asPc4jiOJrhP+2Q2anQ
 ! Expires: 6h
-! Last Modified: Wed, 30 Mar 2011 01:41:24 +0800
+! Last Modified: Wed, 30 Mar 2011 02:10:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1253,6 +1253,7 @@ hellotxt.com
 ||cl.ly
 @@||f.cl.ly/
 ||getsmartlinks.com
+||lesscss.org
 ||overlapr.com
 ||speckleapp.com
 ||stuffimreading.net
@@ -1449,12 +1450,10 @@ laomiu.com
 ||laptoplockdown.com
 latelinenews.com
 ||leecheukyan.org
-t.leeiio.me
 ||lenwhite.com
 blog.lester850.info
 .letscorp.net
 ||letscorp.net
-li2z.cn/t
 liansi.org
 .lianyue.net
 ||liaowangxizang.net
@@ -2710,6 +2709,7 @@ worldjournal.com
 !-||webmink.com
 caiting666.wordpress.com
 rfaunplugged.wordpress.com
+en.wordpress.com/tag
 zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
