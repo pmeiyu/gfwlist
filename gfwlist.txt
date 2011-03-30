@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tb2asPc4jiOJrhP+2Q2anQ
+! Checksum: nL5UoXI6sVslyswcUJjwfQ
 ! Expires: 6h
-! Last Modified: Wed, 30 Mar 2011 02:10:48 +0800
+! Last Modified: Thu, 31 Mar 2011 03:21:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -572,6 +572,9 @@ chinese.engadget.com
 ||englishfromengland.co.uk
 ||entermap.com
 epochtimes.com
+||epochtimes.com
+.epochtimes.ie
+||epochtimes.ie
 ||ernestmandel.org
 ||erights.net
 etaiwannews.com
@@ -627,6 +630,7 @@ fflick.com
 |http://files2me.com
 fillthesquare.org
 findbook.tw
+finler.net
 .fireofliberty.org
 ||fireofliberty.org
 ||flagfox.net
@@ -1046,6 +1050,7 @@ chinaaid.net
 !-X
 ||xdelta.org
 ||xiaogaozi.org
+||xilou.us
 ||xzy.org.ru
 !-Y
 ||yooper.be
@@ -1255,6 +1260,7 @@ hellotxt.com
 ||getsmartlinks.com
 ||lesscss.org
 ||overlapr.com
+||sendoid.com
 ||speckleapp.com
 ||stuffimreading.net
 ||tomayko.com
@@ -1422,6 +1428,7 @@ kanzhongguo.com
 ||kenengba.com
 wiki.keso.cn/Home
 .khmusic.com.tw
+bbs.kimy.com.tw
 kinghost.com
 .kingstone.com.tw
 .knowledgerush.com/kr/encyclopedia
@@ -2078,7 +2085,6 @@ m.slandr.net
 ||slheng.com
 forum.slime.com.tw
 .slutload.com
-||snsanalystics.com
 ||so-ga.net
 .so-ga.net
 ||so-news.com
@@ -2123,6 +2129,8 @@ usinfo.state.gov
 ||starp2p.com
 .state168.com
 ||steel-storm.com
+sthoo.com
+||sthoo.com
 .stickam.com
 stickeraction.com/sesawe
 ||stonegames.net
