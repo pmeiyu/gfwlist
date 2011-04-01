@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nL5UoXI6sVslyswcUJjwfQ
+! Checksum: utZF+X4BpTCGGlbL1apMVA
 ! Expires: 6h
-! Last Modified: Thu, 31 Mar 2011 03:21:16 +0800
+! Last Modified: Fri, 01 Apr 2011 09:03:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -390,6 +390,7 @@ chinesenewsnet.com
 chn.chosun.com/servlet/china.ArticleList.ArticleList?code=FFA
 christianstudy.com
 ||christianstudy.com
+christusrex.org/www1/sdc
 ||chrlcg-hk.org
 chuizi.net
 ||chuizi.net
@@ -561,7 +562,9 @@ hkjp.easyweb.hk
 ebookee.com
 bbs.ecstart.com
 edoors.com
-.edubridge.com/erxiantang/library
+.edubridge.com
+||edubridge.com
+!--.edubridge.com/erxiantang/library
 ||eevpn.com
 ||eic-av.com
 ||elisabethkublerross.com
@@ -911,6 +914,7 @@ chinaaid.net
 ||site.icu-project.org
 ||igorware.com
 ||ihas1337code.com
+||inknouveau.com
 ||inote.tw
 ||ironhelmet.com
 ||iwfwcf.com
@@ -1254,6 +1258,7 @@ hellotxt.com
 
 !--Heroku
 ||heroku.com
+||futureme.org
 ||getcloudapp.com
 ||cl.ly
 @@||f.cl.ly/
@@ -1384,6 +1389,7 @@ ithelp.ithome.com.tw/question/10007094
 .iu45.com
 yy.iyatou.com/archives/1042
 .izaobao.us
+||gmozomg.izihost.org
 .izles.net
 
 !--------------------------JJ--------------------------
@@ -1525,6 +1531,8 @@ logbot.net
 ||lookingglasstheatre.org
 ||lookpic.com
 ||lrfz.com
+.lsd.org.hk
+||lsd.org.hk
 lsforum.net
 ||lupm.org
 .lupm.org
@@ -1622,6 +1630,7 @@ multiupload.com
 ||mx981.com
 forum.my903.com
 ||myaudiocast.com
+.myav.com.tw/bbs
 ||bbs.mychat.to
 ||mychinamyhome.com
 .mychinamyhome.com
@@ -1859,6 +1868,7 @@ zh.pokerstrategy.com
 .pornvisit.com
 postadult.com
 ||powercx.com
+||www.powerpointninja.com
 news.pts.org.tw
 web.pts.org.tw
 
@@ -2105,6 +2115,7 @@ sneakme.net
 .sobees.com
 ||sobees.com
 socialwhale.com
+||softwarebychuck.com
 blog.sogoo.org
 sokamonline.com
 .songjianjun.com
@@ -2299,6 +2310,7 @@ twurl.nl
 ||blog.birdhouseapp.com
 ||bobulate.com
 ||bonjourlesgeeks.com
+||bookshelfporn.com
 ||blog.boxcar.io
 ||blog.bit.ly
 ||chevronwp7.com
@@ -2541,6 +2553,7 @@ tor.updatestar.com
 .upload4u.info
 myshare.url.com.tw/
 ||urlborg.com
+||urlparser.com
 us.to
 ||usacn.com
 beta.usejump.com
@@ -2805,6 +2818,7 @@ blog.yam.com
 n.yam.com
 news.yam.com
 .ydy.com
+||yeelou.com
 yeeyi.com
 yegle.net
 ||yegle.net
