@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: utZF+X4BpTCGGlbL1apMVA
+! Checksum: Fyy3mKuI+KNXccm7Q/slpw
 ! Expires: 6h
-! Last Modified: Fri, 01 Apr 2011 09:03:02 +0800
+! Last Modified: Sun, 03 Apr 2011 04:52:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -134,22 +134,6 @@ www.aolnews.com
 .apigee.com
 ||apigee.com
 
-!-Appspot
-.appspot.com
-||appspot.com
-/^https?:\/\/[^\/]+appspot\.com/
-!-bullog4cn.appspot.com
-!-chnshot.appspot.com
-!-go2china8.appspot.com
-!-meme2028.appspot.com
-!-nest.appspot.com
-!-proxypy.appspot.com
-!-squall0629.appspot.com
-!-twitese.appspot.com
-!-twitter-mirror.appspot.com
-!-twittergadget.appspot.com
-!-waterzeong.appspot.com
-
 .archive.org
 ||archive.org
 ||areca-backup.org
@@ -241,7 +225,6 @@ blogimg.jp
 ||bloglines.com
 rconversation.blogs.com
 blogspot.com
-blog.controlspace.org
 blogtd.net
 .blogtd.org
 |http://blogtd.org
@@ -416,6 +399,7 @@ psiphon.civisec.org
 ||cnic.jp
 .cnd.org
 ||cnd.org/
+wiki.cnitter.com
 .cnn.com/video
 cn.news.cnyes.com
 ||cochina.org
@@ -692,6 +676,8 @@ www.freetibet.org
 friendfeed.com
 friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 |http://ff.im
+.fring.com
+||fring.com
 ||frommel.net
 ||fscked.org
 .fsurf.com
@@ -791,6 +777,23 @@ guancha.org
 .gzm.tv
 ||gzone-anime.info
 
+!------------Google Appspot-------
+.appspot.com
+||appspot.com
+/^https?:\/\/[^\/]+appspot\.com/
+!-bullog4cn.appspot.com
+!-chnshot.appspot.com
+!-go2china8.appspot.com
+!-meme2028.appspot.com
+!-nest.appspot.com
+!-proxypy.appspot.com
+!-squall0629.appspot.com
+!-twitese.appspot.com
+!-twitter-mirror.appspot.com
+!-twittergadget.appspot.com
+!-waterzeong.appspot.com
+||googlecode.com
+
 
 !-------------Google Code-----
 code.google.com/p/gappproxy
@@ -852,6 +855,7 @@ chinaaid.net
 ||data.clementine-player.org
 ||clemesha.org
 ||rss.cnn.com
+||blog.controlspace.org
 !-D
 ||www.dailygyan.com
 ||dailytodo.org
@@ -957,6 +961,7 @@ chinaaid.net
 ||www.metamuse.net
 ||blog.metasploit.com
 ||milazi.com
+||www.miniweather.com
 ||twitter.missiu.com
 ||plurktop-button.mmdays.com
 ||feeds.mobileread.com
@@ -2921,6 +2926,8 @@ ultrasurf
 %E7%BD%A2%E8%AF%BE
 !--Bao Tong
 search*%E9%B2%8D%E5%BD%A4
+!--Bo Xun
+search*%E5%8D%9A%E8%AE%AF
 !--Da Ji Yuan
 search*%E5%A4%A7%E7%BA%AA%E5%85%83
 !--Diao Yu Dao
