@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +R4BTLkJF5ZOc4crj2tk6g
+! Checksum: WiGaEcgtnhW9VqUiLQ1TIg
 ! Expires: 6h
-! Last Modified: Wed, 06 Apr 2011 13:04:15 +0800
+! Last Modified: Wed, 06 Apr 2011 16:03:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1578,6 +1578,7 @@ mhradio.org
 ||michaelmarketl.com
 middle-way.net
 .mihk.hk/forum
+mihua.org
 .mimivip.com
 .minghui.org
 mingpao.com
@@ -2779,6 +2780,7 @@ s.xiaod.in
 ||xiaoma.org
 ||xiaohexie.com
 xiezhua.com
+xing.com
 .xinmiao.com.hk
 ||xinmiao.com.hk
 xinsheng.net
