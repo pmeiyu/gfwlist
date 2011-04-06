@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Fyy3mKuI+KNXccm7Q/slpw
+! Checksum: +R4BTLkJF5ZOc4crj2tk6g
 ! Expires: 6h
-! Last Modified: Sun, 03 Apr 2011 04:52:47 +0800
+! Last Modified: Wed, 06 Apr 2011 13:04:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -472,8 +472,6 @@ packages.debian.org/zh-cn/lenny/gpass
 delicious.com/GFWbookmark
 .democrats.org
 ||democrats.org
-||demonoid.com
-||demonoid.me
 ||desc.se/
 ||deutsche-welle.de
 ||dev102.com
