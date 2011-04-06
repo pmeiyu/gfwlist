@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WiGaEcgtnhW9VqUiLQ1TIg
+! Checksum: FdgXQcOp0Nz36cwyfRlprQ
 ! Expires: 6h
-! Last Modified: Wed, 06 Apr 2011 16:03:46 +0800
+! Last Modified: Wed, 06 Apr 2011 21:11:46 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -105,7 +105,8 @@ alliance.org.hk
 |http://allinfa.com
 ||allinfo.com
 ||alternate-tools.com
-nc.alwaysdata.net
+|http://nc.alwaysdata.net
+|http://ios.alwaysdata.net
 ameblo.jp
 ||ameblo.jp
 ||americangreencard.com
@@ -1464,6 +1465,7 @@ laomiu.com
 .laoyang.info
 |http://laoyang.info
 ||laptoplockdown.com
+|http://www.larsgeorge.com
 latelinenews.com
 ||leecheukyan.org
 ||lenwhite.com
@@ -1702,8 +1704,8 @@ ngensis.com
 !--||blog.nicovideo,jp
 !--tw.nicovideo.jp
 nicovideo.tw
+|http://www.nighost.org
 nintendium.com
-homepage2.nifty.com
 taiwanyes.ning.com
 njuice.com
 ||njuice.com
@@ -1771,6 +1773,7 @@ share.ovi.com/media
 ||ht.ly
 ||mash.to/
 www.owind.com
+|http://www.oxid.it
 .ozchinese.com/bbs
 bbs.ozchinese.com
 
