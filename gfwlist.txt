@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RciR0feMmQPMi8rnkn+wUw
+! Checksum: MbMdrzaTO0SYfpfJsV2FdQ
 ! Expires: 6h
-! Last Modified: Fri, 08 Apr 2011 16:11:29 +0800
+! Last Modified: Fri, 08 Apr 2011 19:38:21 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -405,6 +405,7 @@ wiki.cnitter.com
 cn.news.cnyes.com
 ||cochina.org
 .code1984.com/64
+||codeboxapp.com
 comefromchina.com
 ||comefromchina.com
 ||conoyo.com
@@ -669,6 +670,7 @@ freemorenews.com
 .freeoz.org/bbs
 ||www.bulbous.freeserve.co.uk
 ||freessh.us
+.free-ssh.com
 www.freetibet.org
 ||freewallpaper4.me
 .freewebs.com
@@ -1424,6 +1426,8 @@ t.jteet.com
 .junefourth-20.net
 ||junefourth-20.net
 .justin.tv
+||jwmusic.org
+@@||music.jwmusic.org
 .jyxf.net
 
 !--------------------------KK--------------------------
@@ -1461,6 +1465,7 @@ kwongwah.com.my
 
 !--------------------------LL--------------------------
 ladbrokes.com
+|http://la-forum.org
 .lalulalu.com
 laogai.org
 ||laogai.org
@@ -1980,6 +1985,7 @@ blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 ||reflectivecode.com
 remembering_tiananmen_20_years
+|http://blog.renanse.com
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
@@ -2029,6 +2035,7 @@ blog.s135.com/google_ssl
 .salvation.org.hk
 ||salvation.org.hk
 .samair.ru/proxy/type-01
+|http://samsoff.es
 sandnoble.com/bookSearch/isbnInquiry.asp
 ||sankaizok.com
 .sanmin.com.tw
@@ -2146,6 +2153,7 @@ sowers.org.hk
 squarespace.com
 .sshcenter.com
 ||sshcenter.com
+|http://ssh.sshcenter.info
 www.stackfile.com/freedur
 usinfo.state.gov
 .starp2p.com
@@ -2304,6 +2312,7 @@ bbs.tuitui.info
 ||turningtorso.com
 ||tuxtraining.com
 twurl.nl
+.twyac.org
 
 !-------------Tumblr-----
 !-||tumblr.com
@@ -2536,7 +2545,6 @@ fanfou.la
 guomin.us/login
 t.fishnote.net
 twitter.fishnote.net
-tuite.in
 
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
@@ -2630,6 +2638,7 @@ wallornot.org
 wanglixiong.com
 wangruoshui.net
 www.wangruowang.org
+.wank.to
 wapedia.mobi/zhsimp
 .makzhou.warehouse333.com
 washeng.net
@@ -2783,6 +2792,7 @@ destiny.xfiles.to/ubbthreads
 xh4n.cn/blog
 xhamster.com
 one.xthost.info
+.xiaochuncnjp.com
 s.xiaod.in
 .xiaohexie.com
 ||xiaoma.org
