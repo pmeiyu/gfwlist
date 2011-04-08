@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FdgXQcOp0Nz36cwyfRlprQ
+! Checksum: RciR0feMmQPMi8rnkn+wUw
 ! Expires: 6h
-! Last Modified: Wed, 06 Apr 2011 21:11:46 +0800
+! Last Modified: Fri, 08 Apr 2011 16:11:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -554,6 +554,7 @@ edoors.com
 .eltondisney.com
 ||emacsblog.org
 .emory.edu
+.emule-ed2k.com
 chinese.engadget.com
 ||englishfromengland.co.uk
 ||entermap.com
@@ -754,6 +755,7 @@ gongminliliang.com
 .gopetition.com
 ||gopetition.com
 ||gotw.ca/
+||grafidog.com
 grandtrial.org
 ||graphis.ne.jp
 greatfirewall.biz
@@ -765,6 +767,7 @@ gpass1.com
 great-firewall.com
 ||www.greenpois0n.com
 greatroc.org
+||www.greenvpn.net
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gtkforums.com
@@ -1647,6 +1650,7 @@ forum.my903.com
 ||myforum.com.uk
 .myfreshnet.com
 ||myparagliding.com
+||mypopescu.com
 mysinablog.com
 .blogs.myspace.com
 ||blogs.myspace.com
@@ -1764,6 +1768,7 @@ www.orchidbbs.com
 t.orzdream.com
 ||t.orzdream.com
 tui.orzdream.com
+||osfoora.com
 m.oulove.org
 ||ourdearamy.com
 oursogo.com
