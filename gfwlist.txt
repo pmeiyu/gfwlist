@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MbMdrzaTO0SYfpfJsV2FdQ
+! Checksum: U9+jFt4GXai0GmUAvatx8A
 ! Expires: 6h
-! Last Modified: Fri, 08 Apr 2011 19:38:21 +0800
+! Last Modified: Fri, 08 Apr 2011 21:20:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2545,7 +2545,8 @@ fanfou.la
 guomin.us/login
 t.fishnote.net
 twitter.fishnote.net
-
+tuite.im
+||tuite.im
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
 humanities.uchicago.edu/faculty/ywang/hi
