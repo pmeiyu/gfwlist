@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: U9+jFt4GXai0GmUAvatx8A
+! Checksum: JbcIIiD38eih59Qkp3BGpQ
 ! Expires: 6h
-! Last Modified: Fri, 08 Apr 2011 21:20:38 +0800
+! Last Modified: Sat, 09 Apr 2011 03:45:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -105,8 +105,7 @@ alliance.org.hk
 |http://allinfa.com
 ||allinfo.com
 ||alternate-tools.com
-|http://nc.alwaysdata.net
-|http://ios.alwaysdata.net
+||alwaysdata.net
 ameblo.jp
 ||ameblo.jp
 ||americangreencard.com
@@ -405,7 +404,6 @@ wiki.cnitter.com
 cn.news.cnyes.com
 ||cochina.org
 .code1984.com/64
-||codeboxapp.com
 comefromchina.com
 ||comefromchina.com
 ||conoyo.com
@@ -556,6 +554,7 @@ edoors.com
 ||emacsblog.org
 .emory.edu
 .emule-ed2k.com
+|http://emule-ed2k.com
 chinese.engadget.com
 ||englishfromengland.co.uk
 ||entermap.com
@@ -671,6 +670,7 @@ freemorenews.com
 ||www.bulbous.freeserve.co.uk
 ||freessh.us
 .free-ssh.com
+||free-ssh.com
 www.freetibet.org
 ||freewallpaper4.me
 .freewebs.com
@@ -757,7 +757,6 @@ gongminliliang.com
 .gopetition.com
 ||gopetition.com
 ||gotw.ca/
-||grafidog.com
 grandtrial.org
 ||graphis.ne.jp
 greatfirewall.biz
@@ -769,7 +768,8 @@ gpass1.com
 great-firewall.com
 ||www.greenpois0n.com
 greatroc.org
-||www.greenvpn.net
+.greenvpn.net
+||greenvpn.net
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gtkforums.com
@@ -946,6 +946,7 @@ chinaaid.net
 ||blog.kowalczyk.info
 !-L
 ||labyrinth2.com
+||larsgeorge.com
 ||blog.lastpass.com
 ||docs.latexlab.org
 ||leanessays.com
@@ -998,6 +999,7 @@ chinaaid.net
 ||rameshsubramanian.org
 ||rapid.pk
 ||blog.reddit.com
+||blog.renanse.com
 ||feeds.reuters.com
 ||robertmao.com
 ||www.romeo-foxtrot.com
@@ -1274,6 +1276,7 @@ hellotxt.com
 ||getsmartlinks.com
 ||lesscss.org
 ||overlapr.com
+||samsoff.es
 ||sendoid.com
 ||speckleapp.com
 ||stuffimreading.net
@@ -1465,7 +1468,6 @@ kwongwah.com.my
 
 !--------------------------LL--------------------------
 ladbrokes.com
-|http://la-forum.org
 .lalulalu.com
 laogai.org
 ||laogai.org
@@ -1473,7 +1475,6 @@ laomiu.com
 .laoyang.info
 |http://laoyang.info
 ||laptoplockdown.com
-|http://www.larsgeorge.com
 latelinenews.com
 ||leecheukyan.org
 ||lenwhite.com
@@ -1713,7 +1714,7 @@ ngensis.com
 !--||blog.nicovideo,jp
 !--tw.nicovideo.jp
 nicovideo.tw
-|http://www.nighost.org
+||nighost.org
 nintendium.com
 taiwanyes.ning.com
 njuice.com
@@ -1985,7 +1986,6 @@ blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 ||reflectivecode.com
 remembering_tiananmen_20_years
-|http://blog.renanse.com
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
@@ -2035,7 +2035,6 @@ blog.s135.com/google_ssl
 .salvation.org.hk
 ||salvation.org.hk
 .samair.ru/proxy/type-01
-|http://samsoff.es
 sandnoble.com/bookSearch/isbnInquiry.asp
 ||sankaizok.com
 .sanmin.com.tw
@@ -2151,9 +2150,6 @@ sowers.org.hk
 ||spencertipping.com
 ||sproutcore.com
 squarespace.com
-.sshcenter.com
-||sshcenter.com
-|http://ssh.sshcenter.info
 www.stackfile.com/freedur
 usinfo.state.gov
 .starp2p.com
@@ -2313,6 +2309,7 @@ bbs.tuitui.info
 ||tuxtraining.com
 twurl.nl
 .twyac.org
+\||.twyac.org
 
 !-------------Tumblr-----
 !-||tumblr.com
@@ -2336,8 +2333,9 @@ twurl.nl
 ||blog.bit.ly
 ||chevronwp7.com
 ||clientsfromhell.net
-||cubicle17.com
+||codeboxapp.com
 ||cookingtothegoodlife.com
+||cubicle17.com
 ||photos.dailyme.com
 ||davidslog.com
 ||blog.davidziegler.net
@@ -2545,8 +2543,10 @@ fanfou.la
 guomin.us/login
 t.fishnote.net
 twitter.fishnote.net
+tuite.in
 tuite.im
 ||tuite.im
+
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
 humanities.uchicago.edu/faculty/ywang/hi
@@ -2639,7 +2639,6 @@ wallornot.org
 wanglixiong.com
 wangruoshui.net
 www.wangruowang.org
-.wank.to
 wapedia.mobi/zhsimp
 .makzhou.warehouse333.com
 washeng.net
@@ -2799,7 +2798,8 @@ s.xiaod.in
 ||xiaoma.org
 ||xiaohexie.com
 xiezhua.com
-xing.com
+.xing.com
+|http://xing.com
 .xinmiao.com.hk
 ||xinmiao.com.hk
 xinsheng.net
