@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mpdavMQntsVTekKrkqgWkA
+! Checksum: AF/B0ah2EgjnjULGR/bb3Q
 ! Expires: 6h
-! Last Modified: Sun, 10 Apr 2011 11:57:02 +0800
+! Last Modified: Sun, 10 Apr 2011 17:50:48 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -312,6 +312,8 @@ cdpwu.org
 ||cenews.eu
 ||cengkewang.com
 ||chandoo.org
+.change.org
+|http://change.org
 .changp.com
 ||changp.com
 chengmingmag.com
