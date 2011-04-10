@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AF/B0ah2EgjnjULGR/bb3Q
+! Checksum: VewY74dvlRGZnRQRPXbiVQ
 ! Expires: 6h
-! Last Modified: Sun, 10 Apr 2011 17:50:48 +0800
+! Last Modified: Sun, 10 Apr 2011 19:12:59 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2165,6 +2165,7 @@ sthoo.com
 stickeraction.com/sesawe
 ||stonegames.net
 ||stoneip.info
+storagenewsletter.com
 .stoptibetcrisis.net
 ||stoptibetcrisis.net
 ||stoweboyd.com
