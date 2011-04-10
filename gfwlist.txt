@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: g4jIw8LXAGZ76qgrTGo65w
+! Checksum: UkX4Jly2+aG4SsuSHgeIvw
 ! Expires: 6h
-! Last Modified: Mon, 11 Apr 2011 01:32:22 +0800
+! Last Modified: Mon, 11 Apr 2011 01:54:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -729,6 +729,7 @@ geocities.jp
 ||geohot.com
 ||geometrictools.com
 ||get-digital-help.com
+getfoxyproxy.org
 .getfreedur.com
 .getjetso.com/forum
 getiton.com
