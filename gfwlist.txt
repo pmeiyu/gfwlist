@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VewY74dvlRGZnRQRPXbiVQ
+! Checksum: g4jIw8LXAGZ76qgrTGo65w
 ! Expires: 6h
-! Last Modified: Sun, 10 Apr 2011 19:12:59 +0800
+! Last Modified: Mon, 11 Apr 2011 01:32:22 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -155,8 +155,7 @@ asianews.it
 ||atlaspost.com
 .atnext.com
 ||atnext.com
-.autoproxy.org
-|http://autoproxy.org
+autoproxy.org
 ||avidemux.org
 ||avoision.com
 ||axureformac.com
