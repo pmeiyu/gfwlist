@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BqaQJp1SYpGwqIKuL9cwWw
+! Checksum: FM/we0I+3vAPn/NYIckAUA
 ! Expires: 6h
-! Last Modified: Sun, 10 Apr 2011 00:22:34 +0800
+! Last Modified: Sun, 10 Apr 2011 10:06:51 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2171,6 +2171,7 @@ cn.streetvoice.com/diary
 cn2.streetvoice.com
 tw.streetvoice.com
 .student.tw/db
+blog.sufeng.org
 .sugarsync.com
 ||sugarsync.com
 t.sunxun.info/login.php
