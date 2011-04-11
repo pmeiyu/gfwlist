@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: q5EL0U0vYznl5s6NJlR7WQ
+! Checksum: csEmcrL3tlT95DcIREpKPw
 ! Expires: 6h
-! Last Modified: Mon, 11 Apr 2011 23:40:18 +0800
+! Last Modified: Tue, 12 Apr 2011 02:55:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -639,13 +639,6 @@ foursquare.com
 |http://4sq.com
 ||fotop.net
 video.foxbusiness.com
-.free.fr/adsl
-||allonlinux.free.fr
-||dimitrik.free.fr
-kineox.free.fr
-.free-vpn.info/mrzhang
-||whitebear.freebearblog.org
-freeman2.com
 ||fringenetwork.com
 ||flecheinthepeche.fr
 ||fofg.org
@@ -657,7 +650,13 @@ freeman2.com
 ||franklc.com
 .freakshare.com
 |http://freakshare.com
+.free.fr/adsl
+||allonlinux.free.fr
+||dimitrik.free.fr
+kineox.free.fr
 ||puttycm.free.fr
+.free-vpn.info/mrzhang
+whitebear.freebearblog.org
 freeciv.org
 .freedomhouse.org
 ||freedomhouse.org
@@ -665,6 +664,7 @@ freeciv.org
 ||freegao.com
 .freelotto.com
 ||freelotto.com
+freeman2.com
 freemoren.com
 freemorenews.com
 .freeoz.org/bbs
@@ -1152,8 +1152,6 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 .google.*q=%E5%A4%A9%E7%81%AD
 !--Tu Ni Si
 .google.*%E7%AA%81%E5%B0%BC%E6%96%AF
-!--Wang Yang
-.google.*search*%E6%B1%AA%E6%B4%8B
 !--Wo Mei You Di Ren
 google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 !--Xi Lai
@@ -1340,7 +1338,6 @@ w.idaiwan.com/forum
 ||identi.ca
 .idouga.com
 forum.idsam.com
-.idv.tw
 .ied2k.net
 .ifanr.com/857
 .ifcss.org
