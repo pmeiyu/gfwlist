@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: To+9/NvTSsYWhEdFCeUYhQ
+! Checksum: MB039Cx6w7xuUHxovWLYyg
 ! Expires: 6h
-! Last Modified: Mon, 11 Apr 2011 14:56:26 +0000
+! Last Modified: Mon, 11 Apr 2011 23:30:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1565,7 +1565,7 @@ mayimayi.com
 .md-t.org
 ||md-t.org
 ||meetup.com
-.megabyet.net
+lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 ||megaporn.com
 ||megarotic.com
 ||megaupload.com
@@ -2009,7 +2009,8 @@ robtex.com
 ||rssmeme.com
 .rthk.hk
 |http://rthk.hk
-rthk.org.hk
+.rthk.org.hk
+|http://rthk.org.hk
 rti.org.tw
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 .rushbee.com
