@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: M5vVmJdwOiHPfvrwPLDC5w
+! Checksum: To+9/NvTSsYWhEdFCeUYhQ
 ! Expires: 6h
-! Last Modified: Mon, 11 Apr 2011 22:46:31 +0800
+! Last Modified: Mon, 11 Apr 2011 14:56:26 +0000
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1130,8 +1130,6 @@ search*%E9%85%B7%E5%88%91
 .google.*%E8%8C%89%E8%8E%89
 !--Na Mi Bi Ya
 .google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
-!--Niu Mo Wang
-.google.*%E7%89%9B%E9%AD%94%E7%8E%8B
 !--Nuo Bei Er He Ping Jiang / Nobel Peace Prize
 .google.*%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96
 !--Namibia + Nuctech
@@ -1154,16 +1152,8 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 .google.*q=%E5%A4%A9%E7%81%AD
 !--Tu Ni Si
 .google.*%E7%AA%81%E5%B0%BC%E6%96%AF
-!--Wang Fu Jin
-.google.*%E7%8E%8B%E5%BA%9C%E4%BA%95
-!--Wang Gang
-google*search*%E7%8E%8B%E5%88%9A
 !--Wang Yang
 .google.*search*%E6%B1%AA%E6%B4%8B
-!--Wang Qi Shan
-.google.*search*%E7%8E%8B%E5%B2%90%E5%B1%B1
-!--Wang Xiao Ya
-.google.*q=%E7%8E%8B%E5%B0%8F%E4%B8%AB
 !--Wo Mei You Di Ren
 google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 !--Xi Lai
@@ -1417,7 +1407,6 @@ jeanyim.com
 jieshibaobao.com
 .jimoparty.com
 |http://jimoparty.com
-jingpin.org/fuck-gfw-history
 zhao.jinhai.de
 jingpin.org
 ||jingpin.org
@@ -1577,7 +1566,6 @@ mayimayi.com
 ||md-t.org
 ||meetup.com
 .megabyet.net
-lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 ||megaporn.com
 ||megarotic.com
 ||megaupload.com
@@ -2022,8 +2010,6 @@ robtex.com
 .rthk.hk
 |http://rthk.hk
 rthk.org.hk
-|http://rthk.org.hk
-.rthk.org.hk/rthk/news/expressnews/news.
 rti.org.tw
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 .rushbee.com
@@ -2685,7 +2671,6 @@ wg1966.com
 .whatblocked.com
 ||whatblocked.com
 .whippedass.com
-||whitebear.freebearblog.org
 ||whyx.org
 zh.uncyclopedia.wikia.com
 213.251.145.96
@@ -3296,8 +3281,6 @@ zh.wikipedia.org*%E7%8E%8B%E6%9C%89%E6%89%8D
 zh.wikipedia.org*%E9%AD%8F%E4%BA%AC%E7%94%9F
 !--Wen Chuan Da Di Zhen
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87
-!--Wen Jia Bao
-zh.wikipedia.org*%E6%B8%A9%E5%AE%B6%E5%AE%9D
 !--Wang Bing Zhang
 zh.wikipedia.org*%E7%8E%8B%E7%82%B3%E7%AB%A0
 !--Wang Le Quan
