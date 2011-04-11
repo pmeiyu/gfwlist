@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UkX4Jly2+aG4SsuSHgeIvw
+! Checksum: bwq7ilP5Flqv1fVuqGphfQ
 ! Expires: 6h
-! Last Modified: Mon, 11 Apr 2011 01:54:03 +0800
+! Last Modified: Mon, 11 Apr 2011 14:39:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -155,7 +155,6 @@ asianews.it
 ||atlaspost.com
 .atnext.com
 ||atnext.com
-autoproxy.org
 ||avidemux.org
 ||avoision.com
 ||axureformac.com
@@ -729,7 +728,6 @@ geocities.jp
 ||geohot.com
 ||geometrictools.com
 ||get-digital-help.com
-getfoxyproxy.org
 .getfreedur.com
 .getjetso.com/forum
 getiton.com
@@ -834,6 +832,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||pdk.android.com
 ||appbrain.com
 ||my.architexa.com
+||feeds.arstechnica.com
 ||aurorasoftworks.com
 ||avwikipedia.com
 !-B
@@ -1356,6 +1355,8 @@ forum.idsam.com
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
+cydia.ifuckgfw.com
+||cydia.ifuckgfw.com
 ||antidrm.hpg.ig.com.br
 igfw.tk
 ||ignitedetroit.net
@@ -1724,6 +1725,8 @@ njuice.com
 ||njuice.com
 no-ip.com
 nobelprize.org/nobel_prizes/peace/laureates/2010
+nobodycanstop.us
+||nobodycanstop.us
 ||nokola.com
 ||noobbox.com
 ||novelasia.com
@@ -1929,6 +1932,7 @@ privatepaste.com
 ||privatepaste.com
 ||prosiben.de
 ||proxomitron.info
+proxy.org
 .proxypy.net
 ||proxypy.net
 proxyroad.com
@@ -2379,7 +2383,7 @@ twurl.nl
 ||modfetish.com
 ||blog.mongodb.org
 ||navigeaters.com
-||blog.opentumblr.com
+||london.neighborhoodr.com
 ||blog.path.com
 ||blog.pikchur.com
 ||blog.romanandreg.com
@@ -2923,6 +2927,7 @@ zhonggtuotese.net
 ||zhreader.com
 zhufeng.me
 .ziddu.com/download
+||zlib.net/
 .zonaeuropa.com
 ||zonaeuropa.com
 .zoozle.net
@@ -3308,6 +3313,8 @@ zh.wikipedia.org*%E7%8E%8B%E5%85%86%E5%9B%BD
 zh.wikipedia.org*%E5%94%AF%E8%89%B2
 !--Wen Chuan Di Zhen
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87
+!--Wen Jia Bao
+zh.wikipedia.org*%E6%B8%A9%E5%AE%B6%E5%AE%9D
 !--Wen Yun Song
 zh.wikipedia.org*%E6%B8%A9%E4%BA%91%E6%9D%BE
 !--Wen Zi Yu (chs/cht)
