@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bwq7ilP5Flqv1fVuqGphfQ
+! Checksum: X96mNB5aJm3Sj3uworgAFg
 ! Expires: 6h
-! Last Modified: Mon, 11 Apr 2011 14:39:29 +0800
+! Last Modified: Mon, 11 Apr 2011 14:42:25 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1992,7 +1992,6 @@ rcinet.ca
 blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 ||reflectivecode.com
-remembering_tiananmen_20_years
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
@@ -2945,6 +2944,7 @@ falun
 freenet
 q=freedom
 q%3Dfreedom
+remembering_tiananmen_20_years
 search*safeweb
 q=triangle
 q%3DTriangle
