@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MB039Cx6w7xuUHxovWLYyg
+! Checksum: q5EL0U0vYznl5s6NJlR7WQ
 ! Expires: 6h
-! Last Modified: Mon, 11 Apr 2011 23:30:06 +0800
+! Last Modified: Mon, 11 Apr 2011 23:40:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -397,7 +397,7 @@ psiphon.civisec.org
 ||cmule.com
 ||cna.com.tw
 .cnavista.com.tw/shop/stores_app
-||cnic.jp
+||cnic.jp/
 .cnd.org
 ||cnd.org/
 wiki.cnitter.com
@@ -1328,7 +1328,7 @@ t.huhaitai.com
 ||huping.net
 
 !--------------------------II--------------------------
-||i2p2.de
+||i2p2.de/
 ||i2runner.com
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
@@ -2539,7 +2539,7 @@ t.fishnote.net
 twitter.fishnote.net
 tuite.in
 tuite.im
-||tuite.im
+||tuite.im/
 
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
