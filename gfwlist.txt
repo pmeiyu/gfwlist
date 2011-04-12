@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: csEmcrL3tlT95DcIREpKPw
+! Checksum: 0P/sO+mrHC+IgsacDiqN/Q
 ! Expires: 6h
-! Last Modified: Tue, 12 Apr 2011 02:55:54 +0800
+! Last Modified: Wed, 13 Apr 2011 02:00:18 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -124,7 +124,6 @@ analyze-v.com
 ||anthonycalzadilla.com
 .antiwave.net
 |http://antiwave.net
-||about.aol.com
 ||aolchannels.aol.com
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
@@ -308,7 +307,6 @@ cdpwu.org
 ||cellulo.info
 ||cenci.tk
 ||cenews.eu
-||cengkewang.com
 ||chandoo.org
 .change.org
 |http://change.org
@@ -363,7 +361,6 @@ chinaway.org
 chinayuanmin.org
 ||chinayuanmin.org
 .chinese-hermit.net
-||chinesedora.com
 .chinesen.de
 ||chinesen.de
 chinesenewsnet.com
@@ -397,7 +394,6 @@ psiphon.civisec.org
 ||cmule.com
 ||cna.com.tw
 .cnavista.com.tw/shop/stores_app
-||cnic.jp/
 .cnd.org
 ||cnd.org/
 wiki.cnitter.com
@@ -415,7 +411,6 @@ coolder.com
 ||coolloud.org.tw
 corumcollege.com
 ||couchdbwiki.com
-||blog.couchone.com
 cpj.org
 ||cpj.org/
 crackle.com
@@ -508,10 +503,6 @@ dowei.org
 dphk.org
 ||dpp.org.tw
 ||weigegebyc.dreamhosters.com
-||dreamaquarium.com
-||drikin.com
-||drivingitalia.net
-||droidie.com
 .dropbox.com
 ||dtiblog.com
 dtiserv2.com
@@ -550,7 +541,6 @@ edoors.com
 !--.edubridge.com/erxiantang/library
 ||eevpn.com
 ||eic-av.com
-||elisabethkublerross.com
 .eltondisney.com
 ||emacsblog.org
 .emory.edu
