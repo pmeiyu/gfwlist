@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0P/sO+mrHC+IgsacDiqN/Q
+! Checksum: Uw5mTHItH+cmWntsJn4MPA
 ! Expires: 6h
-! Last Modified: Wed, 13 Apr 2011 02:00:18 +0800
+! Last Modified: Wed, 13 Apr 2011 15:08:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1142,6 +1142,8 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 .google.*q=%E5%A4%A9%E7%81%AD
 !--Tu Ni Si
 .google.*%E7%AA%81%E5%B0%BC%E6%96%AF
+!--Wang Yang
+.google.com*search*%E6%B1%AA%E6%96%AF
 !--Wo Mei You Di Ren
 google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 !--Xi Lai
@@ -1161,7 +1163,7 @@ google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 !--Zhen Xiang
 .google.*%E7%9C%9F%E7%9B%B8
 !--Zhong Gong
-.google.%D6%D0%B9%B2
+.google.*%E4%B8%AD%E5%85%B1
 !--Zhong Guo Yuan Min Da Tong Meng
 .google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zi You Men
