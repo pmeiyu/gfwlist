@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Uw5mTHItH+cmWntsJn4MPA
+! Checksum: 2ByBY8JiUEXnjG/vu8haIA
 ! Expires: 6h
-! Last Modified: Wed, 13 Apr 2011 15:08:47 +0800
+! Last Modified: Thu, 14 Apr 2011 16:06:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -823,6 +823,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||appbrain.com
 ||my.architexa.com
 ||feeds.arstechnica.com
+||blog.athico.com
 ||aurorasoftworks.com
 ||avwikipedia.com
 !-B
