@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2ByBY8JiUEXnjG/vu8haIA
+! Checksum: ZW3qFJNaMeBmrH8c3RMLUw
 ! Expires: 6h
-! Last Modified: Thu, 14 Apr 2011 16:06:01 +0800
+! Last Modified: Mon, 18 Apr 2011 06:47:04 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -105,6 +105,8 @@ alliance.org.hk
 |http://allinfa.com
 ||allinfo.com
 ||alternate-tools.com
+alwaysdata.com
+||alwaysdata.com
 ||alwaysdata.net
 ameblo.jp
 ||ameblo.jp
@@ -163,6 +165,7 @@ forum.baby-kingdom.com
 backchina.com
 ||backchina.com
 .backpackers.com.tw/forum
+badoo.com
 ||baidu.jp
 hen.bao.li
 ||bao.li
@@ -272,6 +275,8 @@ buzzurl.jp
 holz.byethost8.com
 
 !--------------------------CC--------------------------
+.c-spanvideo.org
+||c-spanvideo.org
 ||c-est-simple.com
 .cafepress.com
 .calameo.com/books
@@ -820,6 +825,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||blog.aegisub.org
 ||developer.android.com
 ||pdk.android.com
+||android-x86.org
 ||appbrain.com
 ||my.architexa.com
 ||feeds.arstechnica.com
@@ -857,6 +863,7 @@ chinaaid.net
 ||dailytodo.org
 ||blog.danmarner.com
 ||github.danmarner.com
+||design-seeds.com
 ||designers-artists.com
 ||feeds.digg.com
 ||mail.diyang.org
@@ -1073,11 +1080,13 @@ chinaaid.net
 %2Fsearch%3Fq%3Dcache
 google*search*q=cache
 .google.*search*8964
+.google.*gfw
 .google.*great*firewall
 .google.*protest*1989
 .google.*search*Tankman
 .google.*search*tbs=mbl
 .google.*tbs=qdr
+.google.*tbs=rltm
 .google.*Tiananmen
 .google.*Tibetan*independence
 !--Bei Guo Zhi Chun
@@ -1086,9 +1095,10 @@ google*search*q=cache
 .google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Fan Qiang
 .google.*%E7%BF%BB%E5%A2%99
-.google.*gfw
 !--Gao Zhi Sheng
 .google.*%E9%AB%98%E6%99%BA%E6%99%9F
+!--Ge Ming
+.google.*%E9%9D%A9%E5%91%BD
 !--Gong Chan
 .google.*%E5%85%B1%E4%BA%A7
 !--Guan Jian Shi Ke
@@ -1208,8 +1218,11 @@ google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 |https://docs.google.com/
 |https://groups.google.com/
 .google.com/moderator
+.google.com%2Fmoderator
 .google.com/reader/view/feed
+.google.com%2Freader%2Fview%2Ffeed
 .google.com.hk/wenda
+.google.com.hk%2Fwenda
 ||encrypted.google.com
 feedproxy.google.com
 groups.google.*group
@@ -1235,6 +1248,7 @@ h1n1china.org
 ||hakkatv.org.tw
 hahlo.com
 ||hasaowall.com
+@@||haygo.com
 ||hdtvb.net
 ||heartyit.com
 .hecaitou.net
@@ -1331,6 +1345,7 @@ w.idaiwan.com/forum
 ||identi.ca
 .idouga.com
 forum.idsam.com
+.idv.tw
 .ied2k.net
 .ifanr.com/857
 .ifcss.org
@@ -1649,6 +1664,8 @@ viewmorepics.myspace.com
 old.nabble.com
 ||naitik.net
 ||namsisi.com
+.nanyangpost.com
+|http://nanyangpost.com
 ||naveensrinivasan.com
 ||navicat.com
 .nakido.com
@@ -1816,6 +1833,8 @@ pdetails.com
 peacefire.org
 peacehall.com
 .peeasian.com
+.pekingduck.org
+||pekingduck.org
 penchinese.com
 ||penchinese.net
 .penchinese.net
@@ -1843,6 +1862,7 @@ picturesocial.com
 .pk.com
 ||placemix.com
 .planetsuzy.org
+||www.playboy.com
 plays.com.tw
 ||m.plixi.com
 plurk.com
@@ -1922,6 +1942,8 @@ psiphon.ca
 ||pureconcepts.net
 ||purepdf.com
 pwned.com
+.python.com.tw
+|http://python.com.tw
 python.org*download
 
 !--------------------------QQ--------------------------
@@ -2027,6 +2049,7 @@ savetibet.org
 seapuff.com
 secretchina.com
 ||secretgarden.no
+||default.secureserver.net
 seesmic.com
 ||seesmic.com
 ||seezone.net
@@ -2270,6 +2293,8 @@ touch99.com
 ||tpi.org.tw
 ||transgressionism.org
 ||travelinlocal.com
+trendsmap.com
+||trendsmap.com
 .trialofccp.org
 ||trialofccp.org
 ||tripod.com
@@ -2815,6 +2840,7 @@ meme.yahoo.com
 tw.yahoo.com
 tw.myblog.yahoo.com
 tw.news.yahoo.com
+pulse.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
 !--video.yahoo.com/watch
@@ -3166,11 +3192,12 @@ zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
 zh.wikipedia.org*%E6%9D%8E%E6%B4%AA%E5%BF%97
 !--Li Ke Qiang
 zh.wikipedia.org*%E6%9D%8E%E5%85%8B%E5%BC%BA
+!--Li Peng
+zh.wikipedia.org*%E6%9D%8E%E9%B9%8F
 !--Li Rui Huan
 zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%8E%AF
-!--Li Peng
-zh.wikipedia.org*%C0%EE%C5%F4
-zh.wikipedia.org*%E6%9D%8E%E9%B9%8F
+!--Li Shen Zhi
+zh.wikipedia.org*%E6%9D%8E%E6%85%8E%E4%B9%8B
 !--Li Yuan Chao
 zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
 !--Liang Guo Xiong
