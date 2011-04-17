@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZW3qFJNaMeBmrH8c3RMLUw
+! Checksum: u0thOV4yUpt0g3AspsxNkA
 ! Expires: 6h
-! Last Modified: Mon, 18 Apr 2011 06:47:04 +0800
+! Last Modified: Mon, 18 Apr 2011 07:24:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1085,8 +1085,11 @@ google*search*q=cache
 .google.*protest*1989
 .google.*search*Tankman
 .google.*search*tbs=mbl
+.google.*search*tbs%3Dmbl
 .google.*tbs=qdr
+.google.*tbs%3Dqdr
 .google.*tbs=rltm
+.google.*tbs%3Drltm
 .google.*Tiananmen
 .google.*Tibetan*independence
 !--Bei Guo Zhi Chun
@@ -3192,8 +3195,6 @@ zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
 zh.wikipedia.org*%E6%9D%8E%E6%B4%AA%E5%BF%97
 !--Li Ke Qiang
 zh.wikipedia.org*%E6%9D%8E%E5%85%8B%E5%BC%BA
-!--Li Peng
-zh.wikipedia.org*%E6%9D%8E%E9%B9%8F
 !--Li Rui Huan
 zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%8E%AF
 !--Li Shen Zhi
