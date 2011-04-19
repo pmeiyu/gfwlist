@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: u0thOV4yUpt0g3AspsxNkA
+! Checksum: HrTbVR5Brc8CrzbA528S4Q
 ! Expires: 6h
-! Last Modified: Mon, 18 Apr 2011 07:24:20 +0800
+! Last Modified: Tue, 19 Apr 2011 10:23:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1072,7 +1072,6 @@ chinaaid.net
 !-Z
 
 !-------------Google Search-----
-@@||google.cn
 @@||ipv6.google.com
 .google.*/complete/search
 /search?q=cache
