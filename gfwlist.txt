@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bAoGW7FiU5RHSoJe+LrEMQ
+! Checksum: 9k0ncC3Jw7OX6dja8RS93w
 ! Expires: 6h
-! Last Modified: Wed, 20 Apr 2011 23:57:26 +0800
+! Last Modified: Mon, 02 May 2011 15:27:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -587,6 +587,7 @@ fail.hk
 .fangbinxing.com
 fangeming.com
 .farwestchina.com
+||fatduck.org
 favorious.com
 ||favorious.com
 en.favotter.net
@@ -2833,6 +2834,7 @@ xys.org
 xysblogs.org
 
 !--------------------------YY--------------------------
+blogs.yahoo.co.jp
 buy.yahoo.com.tw/gdsale
 hk.yahoo.com
 hk.knowledge.yahoo.com
