@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9k0ncC3Jw7OX6dja8RS93w
+! Checksum: 5LPmdZ7E4ttNXIMivJBLcQ
 ! Expires: 6h
-! Last Modified: Mon, 02 May 2011 15:27:30 +0800
+! Last Modified: Tue, 03 May 2011 21:45:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -139,9 +139,10 @@ www.aolnews.com
 
 .archive.org
 ||archive.org
-||areca-backup.org
+||archlinux.fr
 .arctosia.com
 |http://arctosia.com
+||areca-backup.org
 asdfg.jp/dabr
 asiademo.org
 ||asiademo.org
