@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5LPmdZ7E4ttNXIMivJBLcQ
+! Checksum: DAyBdDL17ZIntk0SILAbdg
 ! Expires: 6h
-! Last Modified: Tue, 03 May 2011 21:45:35 +0800
+! Last Modified: Thu, 05 May 2011 06:10:44 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -419,6 +419,7 @@ coolder.com
 ||coolloud.org.tw
 corumcollege.com
 ||couchdbwiki.com
+||cotweet.com
 cpj.org
 ||cpj.org/
 crackle.com
@@ -623,6 +624,7 @@ finler.net
 ||flagfox.net
 fleshbot.com
 
+.flickr.com/groups/aiweiwei
 .flickr.com/photos/digitalboy100
 .flickr.com/photos/fzhenghu
 .flickr.com/photos/lonelyfox
@@ -870,6 +872,7 @@ chinaaid.net
 ||design-seeds.com
 ||designers-artists.com
 ||feeds.digg.com
+||app.diu.li
 ||mail.diyang.org
 ||blog.doughellmann.com
 ||downforeveryoneorjustme.com
@@ -960,6 +963,8 @@ chinaaid.net
 ||blog.liukangxu.info
 ||twitter.liukangxu.info
 ||oasisnewsroom.live4ever.us
+||locql.com
+@@||site.locql.com
 ||feeds.loiclemeur.com
 ||blog.louisgray.com
 !-M
@@ -1012,6 +1017,7 @@ chinaaid.net
 ||blog.seeminglee.com
 ||blog.sflow.com
 ||blog.sigfpe.com
+||simpletext.ws
 ||www.skulpt.org
 ||rss.slashdot.org
 ||snippetsapp.com
@@ -1260,8 +1266,7 @@ hahlo.com
 .hecaitou.net
 ||hecaitou.net
 .hechaji.com
-||hecjaji.com
-||hellonewyork.us
+||hechaji.com
 ||helloqueer.com
 hellotxt.com
 ||hellotxt.com
@@ -1379,6 +1384,7 @@ imageshack.us
 .inmediahk.net
 ||inmediahk.net
 ||interfaceaddiction.com
+||internationalrivers.org
 internetfreedom.org
 ||internetpopculture.com
 ||iphonehacks.com
@@ -2053,6 +2059,7 @@ savetibet.org
 ||say2.info
 .scribd.com
 seapuff.com
+domainhelp.search.com
 secretchina.com
 ||secretgarden.no
 ||default.secureserver.net
@@ -2369,6 +2376,7 @@ twurl.nl
 ||givemesomethingtoread.com
 ||blog.gowalla.com
 ||heiyo.info
+||hellonewyork.us
 ||blog.hotpotato.com
 ||ialmostlaugh.com
 ||blog.instapaper.com
@@ -2376,6 +2384,7 @@ twurl.nl
 ||blog.iphone-dev.org
 ||jayparkinsonmd.com
 ||blog.joeyrobert.org
+||kt.kcome.org
 ||my.keso.cn
 ||blog.kickstarter.com
 ||blog.kl.am
@@ -2481,6 +2490,8 @@ twitiq.com
 ||twitiq.com
 .twitlonger.com
 ||twitlonger.com
+twitoaster.com
+||twitoaster.com
 ||twitonmsn.com
 .twitpic.com
 ||twitpic.com
@@ -2843,10 +2854,11 @@ hk.myblog.yahoo.com
 hk.news.yahoo.com
 hk.rd.yahoo.com
 hk.search.yahoo.com/search
+hk.video.news.yahoo.com/video
 meme.yahoo.com
 tw.yahoo.com
 tw.myblog.yahoo.com
-tw.news.yahoo.com
+tw.news.yahoo.comtu
 pulse.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
@@ -2934,6 +2946,8 @@ zhonggtuotese.net
 ||zhreader.com
 zhufeng.me
 .ziddu.com/download
+.zkaip.com
+||zkaip.com
 ||zlib.net/
 .zonaeuropa.com
 ||zonaeuropa.com
