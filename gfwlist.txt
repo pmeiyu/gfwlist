@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /3m0ZSmpJfwWLgQjCD4L5w
+! Checksum: 2wSL/H180r492yNPixANaA
 ! Expires: 6h
-! Last Modified: Thu, 05 May 2011 11:09:01 +0800
+! Last Modified: Thu, 05 May 2011 22:18:16 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -581,6 +581,7 @@ eyny.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
 @@||*v6.facebook.com
+.fakku.net
 ||fbcdn.net
 fanqiangyakexi.net
 fail.hk
@@ -2323,6 +2324,7 @@ tsquare.tv
 ||tttan.com
 .tttan.com
 bb.ttv.com.tw/bb
+.tuanzt.com
 .tube.com
 tuidang.net
 bbs.tuitui.info
@@ -3076,6 +3078,7 @@ en.wikipedia.org/wiki/Tibetan_independence_movement
 !-------------zh.Wikipedia----------
 zh.m.wikipedia.org
 zh.wikipedia.org/wiki/Special:Contributions
+zh.wikipedia.org/wiki/Twitter
 zh.wikisource.org
 !--512 Da Di Zhen
 zh.wikipedia.org*512%E5%A4%A7%E5%9C%B0%E9%9C%87
