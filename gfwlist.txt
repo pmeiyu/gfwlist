@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rwGmXrNwCE2J5gCsBHNSUA
+! Checksum: /3m0ZSmpJfwWLgQjCD4L5w
 ! Expires: 6h
-! Last Modified: Thu, 05 May 2011 07:52:43 +0800
+! Last Modified: Thu, 05 May 2011 11:09:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1226,7 +1226,6 @@ google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 .google.*/search*%E5%91%A8
 
 !-------------Google.other-----
-@@||google.cn/music
 |https://docs.google.com/
 |https://groups.google.com/
 .google.com/moderator
