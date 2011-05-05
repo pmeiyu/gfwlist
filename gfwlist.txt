@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2wSL/H180r492yNPixANaA
+! Checksum: Q/OrV629u9sgdQJFoasXdQ
 ! Expires: 6h
-! Last Modified: Thu, 05 May 2011 22:18:16 +0800
+! Last Modified: Thu, 05 May 2011 22:41:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1768,7 +1768,7 @@ old-cat.net
 ||olumpo.com
 omgili.com
 omnitalk.
-the-sun.on.cc/cnt/
+the-sun.on.cc
 .onlylady.cn
 .oopsforum.com
 open.com.hk
