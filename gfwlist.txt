@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0oy/rG6TOEccmjpxOJjK6A
+! Checksum: iIcVmBh3f8xA7EqkrYxk4Q
 ! Expires: 6h
-! Last Modified: Fri, 06 May 2011 19:40:47 +0800
+! Last Modified: Fri, 06 May 2011 19:44:03 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1805,6 +1805,7 @@ bbs.ozchinese.com
 
 !--------------------------PP--------------------------
 .pacificpoker.com
+||pandora.com
 .pandora.tv
 page2rss.com
 !--Godaddy Free Hosting
