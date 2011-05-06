@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xCrkOIXmOcMY52wFY54YpQ
+! Checksum: QW5tocXkno+XGBLyxDSFag
 ! Expires: 6h
-! Last Modified: Fri, 06 May 2011 19:45:23 +0800
+! Last Modified: Fri, 06 May 2011 20:23:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -591,7 +591,6 @@ fail.hk
 .fangbinxing.com
 fangeming.com
 .farwestchina.com
-||fatduck.org
 favorious.com
 ||favorious.com
 en.favotter.net
@@ -891,7 +890,7 @@ chinaaid.net
 ||evhead.com
 !-F
 ||facilelogin.com
-||linux.fatduck.org
+||*.fatduck.org
 ||blog.fdcn.org
 ||fftogo.com
 ||flightsimtalk.com
@@ -2049,7 +2048,6 @@ rti.org.tw
 ||rxhj.net
 
 !-------------------------SS--------------------------
-||s-a.cc
 blog.s135.com/google_ssl
 ||s1heng.com
 .saiq.me
@@ -2170,6 +2168,12 @@ sowers.org.hk
 ||wlx.sowiki.net
 ||space-scape.com
 .spankwire.com
+.spb.com/blackberry-software/tv/download
+|http://spb.com/blackberry-software/tv/download
+.spb.com/pocketpc-software/tv/download
+|http://spb.com/pocketpc-software/tv/download
+.spb.com/symbian-software/tv/download
+|http://spb.com/symbian-software/tv/download
 .speedpluss.org
 ||spencertipping.com
 ||sproutcore.com
@@ -2338,7 +2342,7 @@ bbs.tuitui.info
 ||tuxtraining.com
 twurl.nl
 .twyac.org
-||.twyac.org
+||twyac.org
 
 !-------------Tumblr-----
 !-||tumblr.com
@@ -3333,6 +3337,8 @@ zh.wikipedia.org*%E7%8E%8B%E7%82%B3%E7%AB%A0
 zh.wikipedia.org*%E7%8E%8B%E4%B9%90%E6%B3%89
 !--Wang Li Xiong
 zh.wikipedia.org*%E7%8E%8B%E5%8A%9B%E9%9B%84
+!--Wang Xing
+zh.wikipedia.org/wiki/%E7%8E%8B%E5%A7%93
 !--Wang Yang
 zh.wikipedia.org*%E6%B1%AA%E6%B4%8B
 !--Wang Zhao Guo
