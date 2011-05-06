@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: iIcVmBh3f8xA7EqkrYxk4Q
+! Checksum: xCrkOIXmOcMY52wFY54YpQ
 ! Expires: 6h
-! Last Modified: Fri, 06 May 2011 19:44:03 +0800
+! Last Modified: Fri, 06 May 2011 19:45:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1424,6 +1424,8 @@ jeanyim.com
 ||jgoodies.com
 ||jiaoyou8.com
 .jiehua.cz
+||hk.jiepang.com
+||tw.jiepang.com
 jieshibaobao.com
 .jimoparty.com
 |http://jimoparty.com
