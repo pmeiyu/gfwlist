@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q/OrV629u9sgdQJFoasXdQ
+! Checksum: 0oy/rG6TOEccmjpxOJjK6A
 ! Expires: 6h
-! Last Modified: Thu, 05 May 2011 22:41:35 +0800
+! Last Modified: Fri, 06 May 2011 19:40:47 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -93,6 +93,7 @@ blog.aiweiwei.com
 ||aiyori.org
 ||ajaxplorer.info
 ||www.ajsands.com
+||akiba-online.com
 .akiraclub.com
 ||akiraclub.com
 ||alabout.com
@@ -617,6 +618,7 @@ fflick.com
 .fgmtv.org
 .files2me.com
 |http://files2me.com
+.fileserve.com/file
 fillthesquare.org
 findbook.tw
 finler.net
@@ -1068,6 +1070,7 @@ chinaaid.net
 ||blog.webmproject.org
 ||webupd8.org
 ||www.whatbrowser.org
+||www.wheredoyougo.net
 ||willhains.com
 ||feeds.wired.com
 ||wisemapping.org
@@ -2880,7 +2883,7 @@ yfrog.com
 .yidio.com
 ||yidio.com
 yilubbs.com
-xa.yimg.com
+xa.yimg.coma
 .yipub.com
 ||yipub.com
 .yogichen.org
@@ -3078,6 +3081,7 @@ en.wikipedia.org/wiki/Tibetan_independence_movement
 !-------------zh.Wikipedia----------
 zh.m.wikipedia.org
 zh.wikipedia.org/wiki/Special:Contributions
+zh.wikipedia.org/zh-hk/Twitter
 zh.wikipedia.org/wiki/Twitter
 zh.wikisource.org
 !--512 Da Di Zhen
