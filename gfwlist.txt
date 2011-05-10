@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: D+Q99fkwcyjtnd2hIJdoRA
+! Checksum: LI7WUlfETaY8xYaHPSBLJQ
 ! Expires: 6h
-! Last Modified: Sat, 07 May 2011 00:06:08 +0800
+! Last Modified: Wed, 11 May 2011 02:55:36 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -61,6 +61,7 @@ info.51.ca
 ||89-64.org
 .9001700.com
 .92ccav.com
+98.to
 .9999cn.com
 ||9999cn.com
 .99bbs.com
@@ -78,6 +79,7 @@ a5.com.ru
 .aboutus.org
 ||aboutus.org
 ||acgkj.com
+||aculo.us
 ||addictedtocoffee.de
 .adult168.com
 adultfriendfinder.com
@@ -240,6 +242,7 @@ blogtd.net
 boardreader.com/thread
 ||boardreader.com
 boltbrowser.com/download
+||books.com.tw
 .bot.nu
 .bowenpress.com
 ||bowenpress.com
@@ -996,6 +999,7 @@ chinaaid.net
 ||overstimulate.com
 !-P
 ||pcgeekblog.com
+||feeds.pdfchm.net
 ||feeds.people.com
 ||blog.persistent.info
 ||chrome.plantsvszombies.com
@@ -1279,12 +1283,14 @@ hellotxt.com
 
 !--Heroku
 ||heroku.com
+||awardwinningfjords.com
 ||futureme.org
 ||getcloudapp.com
 ||cl.ly
-@@||f.cl.ly/
+@@||f.cl.ly
 ||getsmartlinks.com
 ||lesscss.org
+||list.ly
 ||overlapr.com
 ||samsoff.es
 ||sendoid.com
@@ -1327,7 +1333,7 @@ blog.hnjhj.com
 ||derekhsu.homeip.net
 hongmeimei.com
 hootsuite.com
-||hootsuite.com
+hotfile.com/dl
 hotpot.hk
 ||hotspotshield.com
 ||hougaige.com
@@ -1868,6 +1874,8 @@ philly.com
 picturesocial.com
 .pidown.com
 .pign.net
+.pin6.com
+||pin6.com
 .ping.fm
 ||ping.fm/
 ||pinoy-n.com
@@ -2411,6 +2419,7 @@ twurl.nl
 ||navigeaters.com
 ||london.neighborhoodr.com
 ||blog.path.com
+||parislemon.com
 ||blog.pikchur.com
 ||blog.romanandreg.com
 ||solozorro.tk
@@ -2487,6 +2496,8 @@ twibbon.com
 ||twindexx.com
 .twifan.com
 |http://twifan.com
+twiffo.com
+||twiffo.com
 twilog.org
 ||twip.me/
 twistar.cc
@@ -2741,6 +2752,8 @@ wjd.name
 .wo.tc
 ||woeser.com
 .wofa.us
+.womensrightsofchina.org
+||womensrightsofchina.org
 .woopie.jp/video
 worldjournal.com
 
