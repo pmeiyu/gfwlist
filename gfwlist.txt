@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LI7WUlfETaY8xYaHPSBLJQ
+! Checksum: uhV/xm1+jROIBifTPQ3Dqg
 ! Expires: 6h
-! Last Modified: Wed, 11 May 2011 02:55:36 +0800
+! Last Modified: Wed, 11 May 2011 22:54:58 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -86,6 +86,7 @@ adultfriendfinder.com
 ||advanscene.com
 ||advertfan.com
 ||aenhancers.com
+||airodump.net
 .aisex.com
 ||ait.org.tw
 blog.aiweiwei.com
@@ -241,6 +242,7 @@ blogtd.net
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
+||bodhilinux.com
 boltbrowser.com/download
 ||books.com.tw
 .bot.nu
@@ -627,6 +629,8 @@ finler.net
 .fireofliberty.org
 ||fireofliberty.org
 ||flagfox.net
+.falsefire.com
+||falsefire.com
 fleshbot.com
 
 .flickr.com/groups/aiweiwei
@@ -653,6 +657,7 @@ video.foxbusiness.com
 ||fourthinternational.org
 ||foxdie.us
 ||foxsub.com
+.foxtang.com
 ||franklc.com
 .freakshare.com
 |http://freakshare.com
@@ -867,6 +872,7 @@ chinaaid.net
 ||www.clementine-player.org
 ||data.clementine-player.org
 ||clemesha.org
+||www.cloudgirlfriend.com
 ||rss.cnn.com
 ||blog.controlspace.org
 !-D
@@ -968,6 +974,7 @@ chinaaid.net
 ||blog.liukangxu.info
 ||twitter.liukangxu.info
 ||oasisnewsroom.live4ever.us
+||www.lockergnome.com
 ||locql.com
 @@||site.locql.com
 ||feeds.loiclemeur.com
@@ -989,6 +996,7 @@ chinaaid.net
 !-N
 ||blog.netflix.com
 ||blog.nihilogic.dk
+||ntlk.org
 ||nvquan.org
 ||nogoodatcoding.com
 ||blog.notdot.net
@@ -1443,6 +1451,7 @@ jkforum.net
 ||jobso.tv
 ||joeedelman.com
 ||journalofdemocracy.org
+jpopforum.net
 t.jteet.com
 ||juliereyc.com
 ||junauza.com
@@ -1573,6 +1582,7 @@ lsforum.net
 
 !--------------------------MM--------------------------
 m-team.cc/forum
+www.macrovpn.com
 ||mad-ar.ch
 .maiio.net
 mail-archive.com
@@ -2051,6 +2061,7 @@ robtex.com
 rti.org.tw
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 .rushbee.com
+rutube.ru
 .ruyiseek.com
 .rxhj.net
 ||rxhj.net
@@ -2265,6 +2276,7 @@ theblemish.com
 thepiratebay.org
 theqii.info/blog
 ||thesartorialist.com
+thespeeder.com
 ||thetibetpost.com
 thetrotskymovie.com/
 thevivekspot.com
@@ -2437,6 +2449,7 @@ twurl.nl
 ||status.twhirl.org
 !-||status.twitter.com
 ||photo.utom.us
+||wellplacedpixels.com
 ||whydidyoubuymethat.com
 ||wordboner.com
 ||wordsandturds.com
@@ -2599,12 +2612,13 @@ tuite.im
 .srcf.ucam.org/salon/
 humanities.uchicago.edu/faculty/ywang/hi
 |http://udn.com
-album.udn.com
-blog.udn.com
-bookmark.udn.com/bookmark
-city.udn.com
-dignews.udn.com/forum/
-forum.udn.com
+.udn.com
+!-album.udn.com
+!-blog.udn.com
+!-bookmark.udn.com/bookmark
+!-city.udn.com
+!-dignews.udn.com/forum/
+!-forum.udn.com
 .ueuo.com
 uighurbiz.net
 .ulike.net
