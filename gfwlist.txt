@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: uhV/xm1+jROIBifTPQ3Dqg
+! Checksum: 6TsX2Rwumr9TF08uo1noeQ
 ! Expires: 6h
-! Last Modified: Wed, 11 May 2011 22:54:58 +0800
+! Last Modified: Fri, 13 May 2011 13:36:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -842,6 +842,7 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 ||developer.android.com
 ||pdk.android.com
 ||android-x86.org
+||chrome.angrybirds.com
 ||appbrain.com
 ||my.architexa.com
 ||feeds.arstechnica.com
@@ -1577,8 +1578,10 @@ logbot.net
 .lsd.org.hk
 ||lsd.org.hk
 lsforum.net
-||lupm.org
 .lupm.org
+||lupm.org
+lvhai.org
+||lvhai.org
 
 !--------------------------MM--------------------------
 m-team.cc/forum
@@ -1746,6 +1749,8 @@ ngensis.com
 nicovideo.tw
 ||nighost.org
 nintendium.com
+.dayaarmongol.ning.com
+|http://dayaarmongol.ning.com
 taiwanyes.ning.com
 njuice.com
 ||njuice.com
@@ -2422,6 +2427,7 @@ twurl.nl
 ||blog.klip.me
 ||t.kun.im
 ||littlebigdetails.com
+||lovequicksilver.com
 ||lyricsquote.com
 ||madmenunbuttoned.com
 ||marco.org
@@ -2442,6 +2448,7 @@ twurl.nl
 ||theinternetwishlist.com
 ||thisiswhyyouarefat.com
 ||www.tiffanyarment.com
+||tjholowaychuk.com
 ||tomsc.com
 ||blog.topify.com
 ||thehungrydudes.com
