@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Mqc4BB2c/SP0etnWyOAJFw
+! Checksum: bsHwSxzRe3iLqhYLXCcIIg
 ! Expires: 6h
-! Last Modified: Fri, 13 May 2011 17:58:43 +0800
+! Last Modified: Fri, 20 May 2011 15:07:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -140,7 +140,7 @@ video.aol.com
 www.aolnews.com
 .apigee.com
 ||apigee.com
-
+itunes.apple.com*358801284
 .archive.org
 ||archive.org
 ||archlinux.fr
@@ -594,6 +594,7 @@ fail.hk
 ||famunion.com
 .fan-qiang.com
 .fangbinxing.com
+||fangbinxing.com
 fangeming.com
 .farwestchina.com
 favorious.com
@@ -639,6 +640,7 @@ fleshbot.com
 .flickr.com/photos/lonelyfox
 flickr.com/photos/vanvan/529925157
 .flickr.com/photos/winterkanal
+.flickr.com/photos/zola
 
 flickrhivemind.net
 yuming.flnet.org
@@ -815,6 +817,7 @@ code.google.com/p/gappproxy
 code.google.com/p/autoproxy/updates/list
 code.google.com/p/program-think/wiki/Software
 code.google.com/p/scholarzhang
+code.google.com/p/vforchrome/wiki/Start
 code.google.com/p/tuite
 code.google.com/p/twitese
 code.google.com/p/twip
@@ -1133,6 +1136,8 @@ google*search*q=cache
 .google.*%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB
 !--Guang Chang
 .google.*%E5%B9%BF%E5%9C%BA
+!--Guo Jia Fang Huo Qiang Zhi Fu
+.google.*search*%E5%9B%BD%E5%AE%B6%E9%98%B2%E7%81%AB%E5%A2%99
 !--Ji Zhe Wu Jiang Jie
 .google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
 !--Jiang Ze Min
@@ -2043,6 +2048,7 @@ revver.com
 .rfamobile.org
 .rfi.fr
 ||rfi.fr
+|http://rfi.my/
 .rileyguide.com
 riku.me/
 .rlwlw.com
@@ -2152,6 +2158,7 @@ news.singtao.ca
 sitetag.us
 ||sjum.cn/
 ||skimtube.com
+bbs.skykiwi.com
 |http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
@@ -2181,6 +2188,7 @@ sneakme.net
 socialwhale.com
 ||softwarebychuck.com
 blog.sogoo.org
+chinese.soifind.com
 sokamonline.com
 .songjianjun.com
 ||songjianjun.com
@@ -2260,6 +2268,7 @@ tangben.com
 blog.taragana.com
 .taweet.com
 ||taweet.com
+||tbpic.info
 tchrd.org
 tcno.net*doc*tor
 ||teamseesmic.com
@@ -2441,6 +2450,7 @@ twurl.nl
 ||blog.pikchur.com
 ||blog.romanandreg.com
 ||solozorro.tk
+||blog.sparrowmailapp.com
 ||stuffimreading.com
 ||blog.summify.com
 ||thedailywh.at
@@ -2456,6 +2466,7 @@ twurl.nl
 ||status.twhirl.org
 !-||status.twitter.com
 ||photo.utom.us
+||v-state.org
 ||wellplacedpixels.com
 ||whydidyoubuymethat.com
 ||wordboner.com
@@ -2532,6 +2543,7 @@ twitiq.com
 ||twitiq.com
 .twitlonger.com
 ||twitlonger.com
+|http://tl.gd/
 twitoaster.com
 ||twitoaster.com
 ||twitonmsn.com
