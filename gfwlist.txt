@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bsHwSxzRe3iLqhYLXCcIIg
+! Checksum: +hH3vuZEJNaQtTAxhfeyOA
 ! Expires: 6h
-! Last Modified: Fri, 20 May 2011 15:07:28 +0800
+! Last Modified: Sun, 22 May 2011 13:21:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1299,9 +1299,6 @@ hellotxt.com
 ||heroku.com
 ||awardwinningfjords.com
 ||futureme.org
-||getcloudapp.com
-||cl.ly
-@@||f.cl.ly
 ||getsmartlinks.com
 ||lesscss.org
 ||list.ly
