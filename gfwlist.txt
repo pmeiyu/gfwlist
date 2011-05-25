@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +hH3vuZEJNaQtTAxhfeyOA
+! Checksum: u5ob2C9osfAGde1LfjPERQ
 ! Expires: 6h
-! Last Modified: Sun, 22 May 2011 13:21:49 +0800
+! Last Modified: Wed, 25 May 2011 17:02:52 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2991,7 +2991,6 @@ www.zaurus.org.uk
 ||zeutch.com
 .zhanbin.net
 ||zhanbin.net
-zhengjian.org
 .zhinengluyou.com
 zhonggtuotese.net
 ||zhongmeng.org
@@ -3025,6 +3024,7 @@ q=triangle
 q%3DTriangle
 ultrareach
 ultrasurf
+zhengjian
 
 !--Ba Ke
 %E7%BD%A2%E8%AF%BE
