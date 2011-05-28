@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: u5ob2C9osfAGde1LfjPERQ
+! Checksum: l2CjIg0XjaqHiLigDqTfGg
 ! Expires: 6h
-! Last Modified: Wed, 25 May 2011 17:02:52 +0800
+! Last Modified: Sat, 28 May 2011 18:34:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -624,6 +624,7 @@ fflick.com
 .files2me.com
 |http://files2me.com
 .fileserve.com/file
+.filesonic.com/file
 fillthesquare.org
 findbook.tw
 finler.net
@@ -878,6 +879,7 @@ chinaaid.net
 ||clemesha.org
 ||www.cloudgirlfriend.com
 ||rss.cnn.com
+||cocoawithlove.com
 ||blog.controlspace.org
 !-D
 ||www.dailygyan.com
@@ -1655,6 +1657,7 @@ plurktop.mmdays.com
 @@||cn.mobile01.com
 ||mobileways.de
 .mobypicture.com
+|http://moby.to
 ||mondex.org
 c1522.mooo.com
 bbs.morbell.com
@@ -1977,6 +1980,7 @@ proxy.org
 proxyroad.com
 prozz.net
 psblog.name
+||psblog.name
 psiphon.ca
 .ptt.cc
 .puffstore.com
@@ -2018,6 +2022,8 @@ www.radioaustralia.net.au*chinese*articles*
 rangzen.org
 ranyunfei.com
 ||ranyunfei.com
+.rapidshare.com
+|http://rapidshare.com
 .rapidshare1.com
 ||rapidshare8.com
 .rapidsharedata.com
@@ -2833,6 +2839,7 @@ en.wordpress.com/tag
 zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
+https://*wordpress.com
 !-||wordpress.com
 !-|http://wp.com/
 @@|http://wordpress.com
@@ -2899,6 +2906,7 @@ xys.org
 xysblogs.org
 
 !--------------------------YY--------------------------
+page.bid.yahoo.com
 blogs.yahoo.co.jp
 buy.yahoo.com.tw/gdsale
 hk.yahoo.com
