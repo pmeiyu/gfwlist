@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: l2CjIg0XjaqHiLigDqTfGg
+! Checksum: UQ29OTwOdNlTs8JOq8lmVw
 ! Expires: 6h
-! Last Modified: Sat, 28 May 2011 18:34:50 +0800
+! Last Modified: Sat, 28 May 2011 18:39:01 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -38,6 +38,8 @@ bbs.1tor.com
 ||3b8.cc/
 4.gp
 ||4bluestones.biz
+.4shared.com
+|http://4shared.com
 5i01.com
 taiwannation.50webs.com
 ||bbs.51.ca
@@ -1379,6 +1381,7 @@ w.idaiwan.com/forum
 forum.idsam.com
 .idv.tw
 .ied2k.net
+||if-not-true-then-false.com
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
@@ -2083,6 +2086,8 @@ rutube.ru
 !-------------------------SS--------------------------
 blog.s135.com/google_ssl
 ||s1heng.com
+sacom.hk
+||sacom.hk
 .saiq.me
 ||saiq.me/
 .salvation.org.hk
