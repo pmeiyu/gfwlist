@@ -1456,6 +1456,7 @@ jingpin.org
 ac.jiruan.net
 ||jitouch.com
 jkforum.net
+||joachims.org
 ||jobso.tv
 ||joeedelman.com
 ||journalofdemocracy.org
@@ -1741,6 +1742,8 @@ bbs2.newsgroup.la
 forum.newsgroup.la
 ||newsminer.com
 newspeak.cc/story
+.newspp.org
+||newspp.org
 newstin.com
 newtalk.tw
 ||newtalk.tw
@@ -2844,7 +2847,7 @@ en.wordpress.com/tag
 zh-cn.wordpress.com
 zh-sg.wordpress.com
 zhenxiang.wordpress.com
-https://*wordpress.com
+|https://*wordpress.com
 !-||wordpress.com
 !-|http://wp.com/
 @@|http://wordpress.com
