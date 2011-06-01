@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: w2TqbQDXV+hXct7DxJ7rgg
+! Checksum: V+pzxWvGm5OF1hKjR1A6pQ
 ! Expires: 6h
-! Last Modified: Mon, 30 May 2011 17:47:37 +0800
+! Last Modified: Wed, 01 Jun 2011 15:49:23 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -563,6 +563,7 @@ edoors.com
 .eltondisney.com
 ||emacsblog.org
 .emory.edu
+||emscripten.org
 .emule-ed2k.com
 |http://emule-ed2k.com
 chinese.engadget.com
