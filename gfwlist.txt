@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gr1S6r0ihJrA90gU/78n+Q
+! Checksum: J4Y+Vvks4YggT2VZFgkdCQ
 ! Expires: 6h
-! Last Modified: Thu, 02 Jun 2011 19:19:38 +0800
+! Last Modified: Fri, 03 Jun 2011 11:38:27 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2550,12 +2550,13 @@ twibase.com
 ||twibble.de
 twibbon.com
 ||twibs.com
-||twindexx.com
 .twifan.com
 |http://twifan.com
 twiffo.com
 ||twiffo.com
 twilog.org
+twimbow.com
+||twindexx.com
 ||twip.me/
 twistar.cc
 twisternow.com
