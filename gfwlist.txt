@@ -568,6 +568,7 @@ edoors.com
 ||emacsblog.org
 .emory.edu
 ||emscripten.org
+||emu8086.com
 .emule-ed2k.com
 |http://emule-ed2k.com
 chinese.engadget.com
@@ -1520,6 +1521,7 @@ kinghost.com
 kun.im
 ||kurtmunger.com
 kusocity.com
+||kwestion.kwkwkw.info
 kwongwah.com.my
 .kzeng.info
 ||kzeng.info
