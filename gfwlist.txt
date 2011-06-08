@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: b6gD1ESpp3TMNyd8yqVPVA
+! Checksum: /b+/kZT6o2KsZLS/KNeqIg
 ! Expires: 6h
-! Last Modified: Tue, 07 Jun 2011 00:17:07 +0800
+! Last Modified: Thu, 09 Jun 2011 00:16:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -568,7 +568,6 @@ edoors.com
 ||emacsblog.org
 .emory.edu
 ||emscripten.org
-||emu8086.com
 .emule-ed2k.com
 |http://emule-ed2k.com
 chinese.engadget.com
@@ -1521,7 +1520,6 @@ kinghost.com
 kun.im
 ||kurtmunger.com
 kusocity.com
-||kwestion.kwkwkw.info
 kwongwah.com.my
 .kzeng.info
 ||kzeng.info
@@ -2277,6 +2275,7 @@ blog.sufeng.org
 .sugarsync.com
 ||sugarsync.com
 t.sunxun.info/login.php
+api.supertweet.net
 www.supertweet.net
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
