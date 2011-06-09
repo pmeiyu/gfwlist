@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UkJs7cUffYxJKu/z0okLag
+! Checksum: whhd9txtadGp24IYhwcxNA
 ! Expires: 6h
-! Last Modified: Fri, 10 Jun 2011 06:46:38 +0800
+! Last Modified: Fri, 10 Jun 2011 07:15:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -3535,7 +3535,6 @@ zh.wikipedia.org*%E8%A2%81%E7%BA%A2%E5%86%B0
 zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhang Yi He
 zh.wikipedia.org*%E7%AB%A0%E8%A9%92%E5%92%8C
-*%e7%ab%a0%e8%af%92%e5%92%8c
 !--Zhang Yu
 zh.wikipedia.org*%E5%BC%A0%E9%92%B0
 !--Zhang Yu (zh-hant)
