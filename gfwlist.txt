@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EVzOweDwT70L1j877dCGwQ
+! Checksum: YadCj9kCk0r+Oi6ntrZucw
 ! Expires: 6h
-! Last Modified: Wed, 22 Jun 2011 23:19:29 +0800
+! Last Modified: Thu, 23 Jun 2011 20:18:02 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2529,6 +2529,7 @@ bbs.tuitui.info
 ||tumblweed.org
 ||status.twhirl.org
 !-||status.twitter.com
+||blog.usa.gov
 ||photo.utom.us
 ||v-state.org
 ||wellplacedpixels.com
