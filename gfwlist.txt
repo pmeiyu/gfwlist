@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Z7uYp73zoXoXlMCM/3WbVw
+! Checksum: D7cDu5YB6KH6mXJ7jfVxNg
 ! Expires: 6h
-! Last Modified: Fri, 01 Jul 2011 04:07:43 +0800
+! Last Modified: Fri, 01 Jul 2011 05:45:30 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -107,7 +107,7 @@ aladding.com
 ||aladding.com
 ||alasbarricadas.org
 ||notes.alexdong.com
-alexlur.org"
+alexlur.org
 ||alkasir.com
 bbs.allhabit.com
 alliance.org.hk
