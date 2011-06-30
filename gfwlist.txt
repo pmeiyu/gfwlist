@@ -1,11 +1,12 @@
 [AutoProxy 0.2.9]
-! Checksum: YadCj9kCk0r+Oi6ntrZucw
+! Checksum: Z7uYp73zoXoXlMCM/3WbVw
 ! Expires: 6h
-! Last Modified: Thu, 23 Jun 2011 20:18:02 +0800
+! Last Modified: Fri, 01 Jul 2011 04:07:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
 .0rz.tw
+|http://0rz.tw
 ||0to255.com
 1-apple.com.tw
 ||1-apple.com.tw
@@ -27,6 +28,7 @@ t.16class.cn
 ||1free.ws
 ||1pondo.tv
 bbs.1tor.com
+.2-hand.info
 .2000fun.com/bbs
 .2008xianzhang.info
 ||2008xianzhang.info
@@ -143,6 +145,7 @@ www.aolnews.com
 .apigee.com
 ||apigee.com
 itunes.apple.com*358801284
+itunes.apple.com*375584677	
 ||appledaily.com.tw
 .archive.org
 ||archive.org
@@ -254,7 +257,6 @@ boltbrowser.com/download
 .bot.nu
 .bowenpress.com
 ||bowenpress.com
-||developers.box.net
 boxun.com
 ||boxun.com
 .boxun.tv
@@ -452,6 +454,7 @@ creaders.net
 ||curvefish.com
 forum.cyberctm.com/forum
 ||cynscribe.com
+cytode.us
 ||ifan.cz.cc
 ||mike.cz.cc
 ||nic.cz.cc
@@ -858,7 +861,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-A
 ||abelhadigital.com
 ||blog.aegisub.org
-||developer.android.com
 ||pdk.android.com
 ||android-x86.org
 ||chrome.angrybirds.com
@@ -1351,6 +1353,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 |http://hihiforum.com
 .higfw.com
 ||highrockmedia.com
+times.hinet.net
 .hjclub.info
 ||hjclub.info
 .hk-pub.com/forum
@@ -1904,6 +1907,7 @@ pbs.org/wgbh/pages/frontline/tankman
 !--Pbwiki
 pbwiki.com
 ||pbworks.com
+||developers.box.net
 ||wiki.oauth.net
 ||wiki.phonegap.com
 ||wiki.jqueryui.com
@@ -2071,6 +2075,7 @@ ranyunfei.com
 ||ranyunfei.com
 .rapidshare.com
 |http://rapidshare.com
+.rapidshare.com/
 .rapidshare1.com
 ||rapidshare8.com
 .rapidsharedata.com
@@ -2381,7 +2386,6 @@ tibetfund.org
 ||tibetwrites.org
 .time.com/time/time100/leaders/profile/rebel
 .time.com/time/specials/packages/article/0,28804
-times.hinet.net/times/module.do?option=mainland
 ||blog.tiney.com
 ||tinypaste.com
 ||tidyread.com
@@ -2487,6 +2491,7 @@ bbs.tuitui.info
 ||hellonewyork.us
 ||blog.hotpotato.com
 ||ialmostlaugh.com
+||blog.ifttt.com
 ||blog.instapaper.com
 ||interestinglaugh.com
 ||blog.iphone-dev.org
@@ -3219,6 +3224,7 @@ zh.wikipedia.org*08%E5%AE%AA%E7%AB%A0
 zh.wikipedia.org*1989%E5%B9%B4
 !--610 Ban Gong Shi
 zh.wikipedia.org*610%E8%BE%A6%E5%85%AC%E5%AE%A4
+!--Anti-CNN
 zh.wikipedia.org*Anti-CNN
 !--A Pei A Wang Jin Mei
 zh.wikipedia.org*%E9%98%BF%E6%B2%9B%C2%B7%E9%98%BF%E6%97%BA%E6%99%8B%E7%BE%8E
@@ -3377,7 +3383,7 @@ zh.wikipedia.org*%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 zh.wikipedia.org*%E5%88%98%E5%AE%BE%E9%9B%81
 !--Liu Hui Qing
 zh.wikipedia.org*%E5%88%98%E6%85%A7%E5%8D%BF
-!--Liu Hui Qing - Traditional
+!--Liu Hui Qing (zh-hant)
 zh.wikipedia.org*%E5%8A%89%E6%85%A7%E5%8D%BF
 !--Liu Qi
 zh.wikipedia.org*%E5%88%98%E6%B7%87
@@ -3560,8 +3566,9 @@ zh.wikipedia.org*%E4%BF%9E%E6%AD%A3%E5%A3%B0
 zh.wikipedia.org*%E8%A2%81%E7%BA%A2%E5%86%B0
 !--Zhang De Jiang
 zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
-!--Zhang Yi He
+!--Zhang Yi He (zh-hans/hant)
 zh.wikipedia.org*%E7%AB%A0%E8%A9%92%E5%92%8C
+zh.wikipedia.org*%E7%AB%A0%E8%AF%92%E5%92%8C
 !--Zhang Yu
 zh.wikipedia.org*%E5%BC%A0%E9%92%B0
 !--Zhang Yu (zh-hant)
