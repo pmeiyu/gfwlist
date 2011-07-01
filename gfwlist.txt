@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: D7cDu5YB6KH6mXJ7jfVxNg
+! Checksum: GudIBU9E5txBfEVQatzj7Q
 ! Expires: 6h
-! Last Modified: Fri, 01 Jul 2011 05:45:30 +0800
+! Last Modified: Fri, 01 Jul 2011 12:15:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -915,6 +915,7 @@ chinaaid.net
 ||dumblittleman.com
 ||feeds.dzone.com
 !-E
+echofon.com
 ||echofon.com
 ||epc-jav.com
 ||everdark.info
