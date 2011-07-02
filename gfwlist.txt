@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mM7D43HxTwlUtx1nx3nVEg
+! Checksum: oMRxtl35G/CdwnuCO05JCw
 ! Expires: 6h
-! Last Modified: Fri, 01 Jul 2011 16:50:07 +0800
+! Last Modified: Sat, 02 Jul 2011 15:32:07 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -164,6 +164,8 @@ asianews.it
 .askynz.net
 ||askynz.net
 ||astonmartinnews.com
+.atchinese.com
+|http://atchinese.com
 ||atj.org.tw
 .atlaspost.com
 ||atlaspost.com
@@ -329,6 +331,8 @@ cdpwu.org
 ||cellulo.info
 ||cenci.tk
 ||cenews.eu
+.centurys.net
+|http://centurys.net
 ||chandoo.org
 .change.org
 |http://change.org
@@ -942,7 +946,6 @@ echofon.com
 !-||gmer.net
 !-||www.gmote.org
 !-||blog.go2web20.net
-!-||www.googleartproject.com
 !-||blog.google.org
 !-||google-melange.com
 !-||blog.golang.org
@@ -1136,6 +1139,8 @@ google*search*q=cache
 .google.*great*firewall
 .google.*protest*1989
 .google.*search*Tankman
+.google.*tbm=mbl
+.google.*tbm%3Dmbl
 .google.*search*tbs=mbl
 .google.*search*tbs%3Dmbl
 .google.*tbs=qdr
@@ -1773,6 +1778,8 @@ networkedblogs.com
 neverforget8964.org
 new-3lunch.net
 .new-akiba.com
+.newcenturymc.com
+|http://newcenturymc.com
 newcenturynews.com
 ||newchen.com
 .newchen.com
