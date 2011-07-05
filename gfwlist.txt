@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LwfOqDF6Y6BFP4TJVGYWxA
+! Checksum: /xkA9TTMXdAHaECzlP/M+Q
 ! Expires: 6h
-! Last Modified: Tue, 05 Jul 2011 13:41:15 +0800
+! Last Modified: Tue, 05 Jul 2011 17:13:13 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -144,8 +144,10 @@ video.aol.com
 www.aolnews.com
 .apigee.com
 ||apigee.com
-itunes.apple.com*358801284
-itunes.apple.com*375584677	
+itunes.apple.*358801284
+itunes.apple.*364147881
+itunes.apple.*375584677
+
 ||appledaily.com.tw
 .archive.org
 ||archive.org
