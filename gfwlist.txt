@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: e749Tj6aS5RQheBxE2ogmQ
+! Checksum: LwfOqDF6Y6BFP4TJVGYWxA
 ! Expires: 6h
-! Last Modified: Sun, 03 Jul 2011 17:58:11 +0800
+! Last Modified: Tue, 05 Jul 2011 13:41:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2329,6 +2329,7 @@ blog.syx86.cn/2009/09/puff
 .t35.com
 .t66y.com
 ||t66y.com
+tabtter.jp
 .tacem.org
 tagwalk.com
 ||tagwalk.com
