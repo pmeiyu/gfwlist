@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /xkA9TTMXdAHaECzlP/M+Q
+! Checksum: ECk529kSrK7V7HOqSlZAUQ
 ! Expires: 6h
-! Last Modified: Tue, 05 Jul 2011 17:13:13 +0800
+! Last Modified: Wed, 06 Jul 2011 11:37:17 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -227,6 +227,7 @@ beijingspring.com
 bjzc.org
 ||bjzc.org/
 ||blackra1n.com
+||blogearth.org
 ||limera1n.com
 ||limesn0w.com
 ||purplera1n.com
