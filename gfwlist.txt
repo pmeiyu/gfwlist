@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ECk529kSrK7V7HOqSlZAUQ
+! Checksum: OJKRjzNKQS56smDWS3nE1w
 ! Expires: 6h
-! Last Modified: Wed, 06 Jul 2011 11:37:17 +0800
+! Last Modified: Fri, 08 Jul 2011 03:53:26 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2407,6 +2407,7 @@ tibetfund.org
 ||tkcs-collins.com
 ||tkforum.tk
 tldp.org
+|http://tmi.me
 .tnaflix.com
 ||tnaflix.com
 togetter.com
