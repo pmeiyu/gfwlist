@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: cShtF2Pg4XrXnTsbh2fM5g
+! Checksum: b2W2kLzDwQN9jiRyG37Vjg
 ! Expires: 6h
-! Last Modified: Fri, 08 Jul 2011 05:21:58 +0800
+! Last Modified: Fri, 08 Jul 2011 15:54:33 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -12,6 +12,8 @@
 ||1-apple.com.tw
 .12bet.com
 ||12bet.com
+.12vpn.com
+||12vpn.com
 141hongkong.com/forum
 t.16class.cn
 173ng.com
@@ -1402,6 +1404,7 @@ hnjhj.com
 ||derekhsu.homeip.net
 hongmeimei.com
 hootsuite.com
+||hootsuite.com
 hotfile.com/dl
 hotpot.hk
 ||hotspotshield.com
