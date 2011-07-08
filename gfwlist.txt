@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: b2W2kLzDwQN9jiRyG37Vjg
+! Checksum: lbiA0Lbqed+af9AR33rdeg
 ! Expires: 6h
-! Last Modified: Fri, 08 Jul 2011 15:54:33 +0800
+! Last Modified: Fri, 08 Jul 2011 20:44:49 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -224,6 +224,7 @@ beijingspring.com
 ||bill2-software.com
 ||billywr.com
 .bitshare.com/files
+http://bitshare.com/files
 .bitsnoop.com
 |http://bitsnoop.com
 bjzc.org
@@ -662,6 +663,7 @@ finler.net
 ||falsefire.com
 fleshbot.com
 
+.flickr.com/photos/46231077@N06
 .flickr.com/groups/aiweiwei
 .flickr.com/photos/digitalboy100
 .flickr.com/photos/fzhenghu
