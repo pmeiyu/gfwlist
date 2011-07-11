@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7d7jhXC/xDCYusasLafpwA
+! Checksum: t4NZNCxorlkI+YL8P9O++g
 ! Expires: 6h
-! Last Modified: Sun, 10 Jul 2011 04:57:39 +0800
+! Last Modified: Mon, 11 Jul 2011 13:59:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2534,12 +2534,14 @@ bbs.tuitui.info
 ||blog.kl.am
 ||blog.klip.me
 ||t.kun.im
+||blog.lightbox.com
 ||littlebigdetails.com
 ||lovequicksilver.com
 ||lyricsquote.com
 ||madmenunbuttoned.com
 ||marco.org
 ||minimalmac.com
+||mixedmedialabs.com
 ||modfetish.com
 ||blog.mongodb.org
 ||navigeaters.com
