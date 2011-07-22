@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5TRSoTrVhFk2PgsbJE1XGw
+! Checksum: V+/kbfKMCYfQJgQ3U38PSg
 ! Expires: 6h
-! Last Modified: Fri, 22 Jul 2011 04:38:37 +0800
+! Last Modified: Fri, 22 Jul 2011 22:41:38 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -202,7 +202,7 @@ newsforums.bbc.co.uk
 ||bbsfeed.com
 bbsland.com
 .bcc.com.tw/board
-blog.bcchinese.net
+.bcchinese.net
 .bebo.com
 ||bebo.com
 ||beijing1989.com
@@ -1850,6 +1850,7 @@ forum.nownews.com
 ||noypf.com
 .nps.gov
 .nrk.no
+||nrk.no
 bbs.nsysu.edu.tw
 ntdtv.com
 ||cbs.ntu.edu.tw
