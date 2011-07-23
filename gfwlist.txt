@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: V+/kbfKMCYfQJgQ3U38PSg
+! Checksum: tipBvSzBms5KKFXJs36aNg
 ! Expires: 6h
-! Last Modified: Fri, 22 Jul 2011 22:41:38 +0800
+! Last Modified: Sat, 23 Jul 2011 22:35:37 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1142,6 +1142,7 @@ wozy.in
 /search%3Fq%3Dcache
 %2Fsearch%3Fq%3Dcache
 google*search*q=cache
+.google.*301
 .google.*search*8964
 .google.*gfw
 .google.*great*firewall
