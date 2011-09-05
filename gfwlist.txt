@@ -1905,7 +1905,7 @@ share.ovi.com/media
 |http://ow.ly
 |http://owl.li
 |http://ht.ly
-|hrrp://htl.li
+|http://htl.li
 |http://mash.to
 www.owind.com
 |http://www.oxid.it
