@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Kv1Y7kbK9fbJJGT7VFcEeQ
+! Checksum: Ghl9qZBinlST4vO30wAMtA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 07 Sep 2011 19:56:20 +0800
+! Last Modified: Wed, 07 Sep 2011 20:00:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2470,7 +2470,8 @@ trendsmap.com
 .tsemtulku.com
 tsquare.tv
 .tsctv.net
-||tt1069.net||tttan.com
+||tt1069.net
+||tttan.com
 .tttan.com
 bb.ttv.com.tw/bb
 .tuanzt.com
