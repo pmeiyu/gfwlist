@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Ghl9qZBinlST4vO30wAMtA
+! Checksum: NxrB6vtJm5HCywf9X8WOMw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 07 Sep 2011 20:00:35 +0800
+! Last Modified: Wed, 28 Sep 2011 13:07:35 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1364,6 +1364,7 @@ hellotxt.com
 ||overlapr.com
 ||peerpong.com
 ||pose.com
+||rubyinstaller.org
 ||samsoff.es
 ||sendoid.com
 ||speckleapp.com
