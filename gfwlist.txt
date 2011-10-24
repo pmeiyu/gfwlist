@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: JEs3mfoV3fZRYJRyQTluAQ
+! Checksum: ZRnNSSgNQjFrg8q0K/g8zg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 23 Oct 2011 17:37:36 +0800
+! Last Modified: Mon, 24 Oct 2011 14:34:08 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -732,7 +732,8 @@ friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 ||frommel.net
 ||fscked.org
 .fsurf.com
-.ftchinese.com/story/001038220
+!-.ftchinese.com/story/001038220
+.ftchinese.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
