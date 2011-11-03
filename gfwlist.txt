@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: YuLEtBBNKoRMJPEfvgWgDw
+! Checksum: l3/X2HxNskDDzyFqUQvl4w
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 01 Nov 2011 21:28:57 +0800
+! Last Modified: Thu, 03 Nov 2011 14:56:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2490,11 +2490,12 @@ bbs.tuitui.info
 
 
 !-------------Tumblr-----
-!--||www.tumblr.com
+||tumblr.com
 @@||assets.tumblr.com
 @@||data.tumblr.com
 @@||media.tumblr.com
 @@||static.tumblr.com
+@@||www.tumblr.com
 ||301works.org
 ||365singles.com.ar
 ||all-that-is-interesting.com
