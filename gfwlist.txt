@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: l3/X2HxNskDDzyFqUQvl4w
+! Checksum: /nxRAch5EstGroVAncN2NQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 03 Nov 2011 14:56:29 +0800
+! Last Modified: Tue, 08 Nov 2011 21:33:20 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -151,6 +151,7 @@ itunes.apple.*285688934
 itunes.apple.*358801284
 itunes.apple.*364147881
 itunes.apple.*375584677
+itunes.apple.*383949089
 
 ||appledaily.com.tw
 .archive.org
