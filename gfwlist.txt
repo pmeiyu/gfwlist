@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: /nxRAch5EstGroVAncN2NQ
+! Checksum: K82OM3sqRFaXfUcMx4dUyQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 08 Nov 2011 21:33:20 +0800
+! Last Modified: Wed, 09 Nov 2011 00:10:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2347,7 +2347,7 @@ t.sunxun.info/login.php
 api.supertweet.net
 www.supertweet.net
 support/youtube/bin/request.py?contact_type=abuse&
-/support/youtube/bin/static.py?page=start.cs&
+/support//bin/static.py?page=start.cs&
 ||sweux.com
 ||swift-tools.net
 ||syncback.com
@@ -3098,6 +3098,7 @@ topic.youthwant.com.tw
 youtu.be
 .youtube.com
 ||youtube.com
+.youtube-nocookie.com
 !--/^https?:\/\/[^\/]+youtube\.com/
 .youtube-nocookie.com
 .youtubecn.com
