@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 7jcw9l7uF6sS6oalXr3GBg
+! Checksum: fGxg/apBALbQ+8AIvhEbcg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 20 Nov 2011 08:10:58 +0800
+! Last Modified: Sat, 17 Dec 2011 17:38:40 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1173,6 +1173,7 @@ google*search*q=cache
 .google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Dai Li/Proxy
 *.google.com*%E4%BB%A3%E7%90%86
+.google.*facebook
 !--Fan Qiang
 .google.*%E7%BF%BB%E5%A2%99
 !--Gao Zhi Sheng
@@ -1241,6 +1242,7 @@ google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
 .google.*q=%E5%A4%A9%E7%81%AD
 !--Tu Ni Si
 .google.*%E7%AA%81%E5%B0%BC%E6%96%AF
+.google.*twitter
 !--Wang Yang
 .google.com*search*%E6%B1%AA%E6%96%AF
 !--Wo Mei You Di Ren
