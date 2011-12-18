@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: fGxg/apBALbQ+8AIvhEbcg
+! Checksum: SB33W3dXW1Uo6oGMUi25ow
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 17 Dec 2011 17:38:40 +0800
+! Last Modified: Mon, 19 Dec 2011 00:10:43 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1856,6 +1856,7 @@ nobodycanstop.us
 ||nobodycanstop.us
 ||nokola.com
 ||noobbox.com
+nooidea.com
 ||novelasia.com
 .nownews.com/cybersex
 .nownews.com/box
