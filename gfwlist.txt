@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: NoQOBKhfeCu/tuSnaZDJeA
+! Checksum: rPidV23ZZ0Y+rYGSrESCNw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 10 Jan 2012 15:56:26 +0800
+! Last Modified: Fri, 13 Jan 2012 00:17:28 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1004,7 +1004,7 @@ echofon.com
 !-||blog.kengao.tw
 !-||log.keso.cn
 !-||www.khanacademy.org
-!-||www.klip.me
+||www.klip.me
 !-||usbloadergx.koureio.net
 !-||blog.kowalczyk.info
 !-L
