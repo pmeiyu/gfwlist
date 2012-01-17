@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: rPidV23ZZ0Y+rYGSrESCNw
+! Checksum: mMWFWK2ZYk+eqyczzKUomw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 13 Jan 2012 00:17:28 +0800
+! Last Modified: Tue, 17 Jan 2012 11:30:31 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -539,6 +539,7 @@ dongtaiwang.com
 ||dongtaiwang.net
 .dongyangjing.com
 .dontfilter.us
+||dontmovetochina.com
 .dotplane.com
 ||dotplane.com
 doubleaf.com
