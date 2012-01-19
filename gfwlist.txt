@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: mMWFWK2ZYk+eqyczzKUomw
+! Checksum: krUrRtKglHSbgLqz950idg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 17 Jan 2012 11:30:31 +0800
+! Last Modified: Thu, 19 Jan 2012 22:28:06 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1544,6 +1544,7 @@ t.jteet.com
 .junefourth-20.net
 ||junefourth-20.net
 .justin.tv
+justtristan.com
 ||jwmusic.org
 @@||music.jwmusic.org
 .jyxf.net
