@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: zs96TF0Um7eODKf3O1/F6A
+! Checksum: gf0vAfmapiEDbt5gd8r9Mw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 25 Jan 2012 12:38:02 +0800
+! Last Modified: Fri, 27 Jan 2012 20:09:56 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2784,6 +2784,7 @@ tor.updatestar.com
 .uploaded.to/file
 |http://uploaded.to/file
 .uploadstation.com/file
+www.urbanoutfitters.com
 myshare.url.com.tw/
 ||urlborg.com
 ||urlparser.com
