@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: gf0vAfmapiEDbt5gd8r9Mw
+! Checksum: s3HNRPayJEkPn8QmFeHrhA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 27 Jan 2012 20:09:56 +0800
+! Last Modified: Sun, 29 Jan 2012 17:40:29 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2688,8 +2688,8 @@ twitreferral.com
 ||twitvid.com
 
 199.59.148.20
-|http://t.co/
-|https://t.co/
+t.co
+||t.co
 |http://twt.tl
 .twitter.com
 ||twitter.com
