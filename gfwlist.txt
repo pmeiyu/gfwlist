@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: SjMoRySKaPwdRZtlQbGrRw
+! Checksum: a9AOLwmaXrtlGGd40OJKfQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 31 Jan 2012 16:06:31 +0800
+! Last Modified: Tue, 31 Jan 2012 16:09:10 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2695,9 +2695,8 @@ twitreferral.com
 ||twitter.com
 ||twitter.jp
 ||twttr.com
+@@||translate.twttr.com
 /^https?:\/\/[^\/]+twitter\.com/
-.twimg.com
-||twimg.com
 
 .twittercounter.com
 ||twittercounter.com
