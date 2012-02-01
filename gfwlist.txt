@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: a9AOLwmaXrtlGGd40OJKfQ
+! Checksum: 5jtydOy7XveAw2fUjKyftQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 31 Jan 2012 16:09:10 +0800
+! Last Modified: Wed, 01 Feb 2012 21:44:45 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2395,6 +2395,7 @@ telecomspace.com
 ||theatrum-belli.com
 theblemish.com
 ||thebcomplex.com
+.thechinabeat.org
 ||thedieline.com
 ||thedw.us
 ||thegatesnotes.com
