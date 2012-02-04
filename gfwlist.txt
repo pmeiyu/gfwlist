@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 5jtydOy7XveAw2fUjKyftQ
+! Checksum: adMHvmjWnxPEHnDSIfTRvQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 01 Feb 2012 21:44:45 +0800
+! Last Modified: Sat, 04 Feb 2012 20:06:15 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -621,6 +621,7 @@ eyny.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
 @@||*v6.facebook.com
+||connect.facebook.net
 .fakku.net
 ||fbcdn.net
 fanqiangyakexi.net
@@ -2402,6 +2403,7 @@ theblemish.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
+||thepiratebay.se
 theqii.info/blog
 ||thesartorialist.com
 thespeeder.com
