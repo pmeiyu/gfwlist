@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: adMHvmjWnxPEHnDSIfTRvQ
+! Checksum: jpj78/zrxU0nS+FQAZTLLw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 04 Feb 2012 20:06:15 +0800
+! Last Modified: Sat, 11 Feb 2012 11:45:12 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1153,7 +1153,7 @@ wozy.in
 /search%3Fq%3Dcache
 %2Fsearch%3Fq%3Dcache
 google*search*q=cache
-.google.*301
+!-.google.*301
 .google.*search*8964
 .google.*gfw
 .google.*great*firewall
