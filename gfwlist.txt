@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: oqEUWmQs1p6JcE0b4+LMYA
+! Checksum: WNj3WPsUSb5nxuzSz6zCNQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 23 Feb 2012 21:21:16 +0800
+! Last Modified: Mon, 19 Mar 2012 08:43:54 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -623,6 +623,7 @@ eyny.com
 @@||*v6.facebook.com
 ||connect.facebook.net
 .fakku.net
+.farxian.com
 ||fbcdn.net
 fanqiangyakexi.net
 fail.hk
