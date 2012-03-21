@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: WNj3WPsUSb5nxuzSz6zCNQ
+! Checksum: XJKhYq1wwB3ti+jigQMqcA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 19 Mar 2012 08:43:54 +0800
+! Last Modified: Wed, 21 Mar 2012 10:54:50 +0800
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -153,6 +153,8 @@ itunes.apple.*358801284
 itunes.apple.*364147881
 itunes.apple.*375584677
 itunes.apple.*383949089
+itunes.apple.*319295332
+itunes.apple.*418987775
 itunes.apple.com*isunaffairs/id454439893
 
 ||appledaily.com.tw
@@ -562,6 +564,8 @@ duping.net
 dupola.com
 dupola.net
 ||dvorak.org
+.dw.de
+|http://dw.de
 .dw-world.com
 ||dw-world.com
 .dw-world.de
@@ -2489,6 +2493,8 @@ bb.ttv.com.tw/bb
 .tube.com
 tuidang.net
 bbs.tuitui.info
+.tunein.com
+|http://tunein.com
 .turbobit.net
 |http://turbobit.net
 ||turningtorso.com
