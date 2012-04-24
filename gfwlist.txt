@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: XJKhYq1wwB3ti+jigQMqcA
+! Checksum: 5GwT/N4Zii0gw2NFogeCGg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 21 Mar 2012 10:54:50 +0800
+! Last Modified: Tue, 24 Apr 2012 14:17:22 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1337,6 +1337,7 @@ anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
 .googlevideo.com
+||gstatic.com
 
 !--------------------------HH--------------------------
 ||h-china.org
