@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 5GwT/N4Zii0gw2NFogeCGg
+! Checksum: sUkfHu/eSaQPqrmyJv4zbQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 24 Apr 2012 14:17:22 +0900
+! Last Modified: Mon, 07 May 2012 15:48:41 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1371,6 +1371,7 @@ hellotxt.com
 ||cl.ly
 @@||f.cl.ly
 ||getsmartlinks.com
+||git-scm.com
 ||lesscss.org
 ||list.ly
 ||overlapr.com
