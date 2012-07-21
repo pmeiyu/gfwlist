@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: ttWp4UymSHR9uQoknREluA
+! Checksum: OkLen/HO1e/pckHRw+fEnA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 13 Jul 2012 14:57:57 +0900
+! Last Modified: Sun, 22 Jul 2012 05:46:45 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2282,6 +2282,7 @@ share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 m.slandr.net
 ||slavasoft.com
 ||slheng.com
+.slideshare.net
 forum.slime.com.tw
 .slutload.com
 ||so-ga.net
