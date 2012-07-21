@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: YxCkx4KAmvXCJWkerIIE8A
+! Checksum: ttWp4UymSHR9uQoknREluA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 17 Jun 2012 00:34:23 +0900
+! Last Modified: Fri, 13 Jul 2012 14:57:57 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -261,6 +261,8 @@ blogtd.net
 .blogtd.org
 |http://blogtd.org
 ||bloodshed.net
+.bloomberg.cn
+||bloomberg.cn
 .bloomberg.com*pid=20601087
 ||bloomfortune.com
 ||bnrmetal.com
@@ -442,7 +444,6 @@ psiphon.civisec.org
 wiki.cnitter.com
 .cnn.com/video
 cn.news.cnyes.com
-.co.jp
 ||cochina.org
 .code1984.com/64
 comefromchina.com
