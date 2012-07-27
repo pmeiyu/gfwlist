@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: vJnXfx2+UaawWRJ3DIIegA
+! Checksum: COx1qE+ufg4tj65DVA4MvQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 28 Jul 2012 03:07:58 +0900
+! Last Modified: Sat, 28 Jul 2012 03:13:18 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -263,7 +263,9 @@ blogtd.net
 ||bloodshed.net
 .bloomberg.cn
 ||bloomberg.cn
-.bloomberg.com*pid=20601087
+.bloomberg.com
+||bloomberg.com
+!--.bloomberg.com*pid=20601087
 ||bloomfortune.com
 ||bnrmetal.com
 boardreader.com/thread
@@ -301,6 +303,7 @@ brucewang.net
 ||bullog.org
 .bullogger.com
 ||bullogger.com
+.businessweek.com
 !--businesstimes
 .businesstimes.com.cn
 |http://businesstimes.com.cn
