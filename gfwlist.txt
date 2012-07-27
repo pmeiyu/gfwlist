@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: OkLen/HO1e/pckHRw+fEnA
+! Checksum: vJnXfx2+UaawWRJ3DIIegA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 22 Jul 2012 05:46:45 +0900
+! Last Modified: Sat, 28 Jul 2012 03:07:58 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1313,8 +1313,8 @@ google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 .google.*/search*%E5%91%A8
 
 !-------------Google.other-----
-|https://docs.google.com
-|https://drive.google.com
+|https://*docs.google.com
+|https://*drive.google.com
 |https://groups.google.com
 |https://plus.google.com
 |https://plusone.google.com
