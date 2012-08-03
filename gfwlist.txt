@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: COx1qE+ufg4tj65DVA4MvQ
+! Checksum: vEuu5QN3nsa34Wytg8k+tg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 28 Jul 2012 03:13:18 +0900
+! Last Modified: Sat, 04 Aug 2012 05:16:55 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -155,6 +155,7 @@ itunes.apple.*375584677
 itunes.apple.*383949089
 itunes.apple.*319295332
 itunes.apple.*418987775
+itunes.apple.com/us*id447119634
 itunes.apple.com*isunaffairs/id454439893
 
 ||appledaily.com.tw
@@ -2317,7 +2318,9 @@ sokamonline.com
 .sopcast.com
 soundofhope.org
 ||soupofmedia.com
-sourceforge.net/projects/portabletor/files/
+.sourceforge.net
+|http://sourceforge.net
+!-sourceforge.net/projects/portabletor/files/
 sowers.org.hk
 ||wlx.sowiki.net
 ||space-scape.com
