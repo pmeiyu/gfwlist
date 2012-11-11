@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: vEuu5QN3nsa34Wytg8k+tg
+! Checksum: Anzr9KdKbSgJB7ftuT3Grw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 04 Aug 2012 05:16:55 +0900
+! Last Modified: Sun, 11 Nov 2012 22:39:19 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1372,6 +1372,7 @@ hellotxt.com
 
 !--Heroku
 ||heroku.com
+||branch.com
 ||awardwinningfjords.com
 ||futureme.org
 ||getcloudapp.com
@@ -1381,6 +1382,7 @@ hellotxt.com
 ||git-scm.com
 ||lesscss.org
 ||list.ly
+||maxgif.com
 ||overlapr.com
 ||peerpong.com
 ||pose.com
@@ -1885,6 +1887,8 @@ ntdtv.com
 ||cbs.ntu.edu.tw
 ||nuexpo.com
 ||nurgo-software.com
+.nytimes.com
+||nytimes.com
 nysingtao.com
 ||nzchinese.net.nz
 
