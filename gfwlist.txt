@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 2/i5xO8xlXkm4iXCTQ1Gxw
+! Checksum: LHUwwEAZG2FNWAWf38uS4Q
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 19 Jan 2013 17:18:46 +0900
+! Last Modified: Sun, 20 Jan 2013 17:45:31 +0900
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -231,6 +231,8 @@ beijingspring.com
 .bigsound.org/portnoy
 ||bill2-software.com
 ||billywr.com
+.bit.ly
+|http://bit.ly
 .bitshare.com/files
 http://bitshare.com/files
 .bitsnoop.com
