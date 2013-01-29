@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: e2/0uXORRgbe9qt6lQU5pw
+! Checksum: Li0D0N8noD3RmT3KouQFLw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 24 Jan 2013 10:18:31 +0900
+! Last Modified: Mon, 28 Jan 2013 23:58:02 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2771,10 +2771,7 @@ tynsoe.org
 
 !-------------Twitese-----
 embr.in
-fanfou.im
 /^https?:\/\/[^\/]+fanfou\.im/
-fanfou.de
-fanfou.la
 guomin.us/login
 t.fishnote.net
 twitter.fishnote.net
