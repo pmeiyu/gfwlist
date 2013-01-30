@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Li0D0N8noD3RmT3KouQFLw
+! Checksum: j+l6SwOaM6cVj/ohRYGfFg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 28 Jan 2013 23:58:02 -0500
+! Last Modified: Tue, 29 Jan 2013 21:31:54 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -19,8 +19,6 @@
 t.16class.cn
 173ng.com
 ||173ng.com
-.17e.org
-|http://17e.org/
 1984bbs.com
 ||1984bbs.com
 ||1984blog.com
@@ -28,9 +26,7 @@ t.16class.cn
 ||1984bbs.org
 .1bao.org
 |http://1bao.org
-||1free.ws
 ||1pondo.tv
-bbs.1tor.com
 .2-hand.info
 .2000fun.com/bbs
 .2008xianzhang.info
@@ -40,10 +36,7 @@ bbs.1tor.com
 .315lz.com
 ||36rain.com
 ||3b8.cc/
-4.gp
 ||4bluestones.biz
-.4shared.com
-|http://4shared.com
 5i01.com
 taiwannation.50webs.com
 ||bbs.51.ca
@@ -67,10 +60,6 @@ info.51.ca
 ||89-64.org
 .9001700.com
 .92ccav.com
-98.to
-.9999cn.com
-||9999cn.com
-.99bbs.com
 ||9bis.com
 ||9bis.net
 .9city.me/archiver*308578.html
@@ -82,12 +71,9 @@ a5.com.ru
 .aboluowang.com
 ||aboluowang.com
 .aboutgfw.com
-.aboutus.org
-||aboutus.org
 ||acgkj.com
 ||aculo.us
 ||addictedtocoffee.de
-.adult168.com
 adultfriendfinder.com
 ||advanscene.com
 ||advertfan.com
@@ -95,24 +81,15 @@ adultfriendfinder.com
 ||airodump.net
 .aisex.com
 ||ait.org.tw
-blog.aiweiwei.com
-||blog.aiweiwei.com
 .aiweiweiblog.com
 ||aiweiweiblog.com
-||aiyori.org
 ||ajaxplorer.info
 ||www.ajsands.com
 ||akiba-online.com
-.akiraclub.com
-||akiraclub.com
-||alabout.com
-aladding.com
-||aladding.com
 ||alasbarricadas.org
 ||notes.alexdong.com
 alexlur.org
 ||alkasir.com
-bbs.allhabit.com
 alliance.org.hk
 .allinfa.com
 |http://allinfa.com
@@ -2912,14 +2889,11 @@ wezhiyong.org
 ||wezone.net
 .wforum.com
 ||wforum.com/
-wg1966.com
 .whatblocked.com
 ||whatblocked.com
 .whippedass.com
 ||whyx.org
 zh.uncyclopedia.wikia.com
-213.251.145.96
-||213.251.145.96
 ||wikileaks.ch
 .wikileaks.org
 ||wikileaks.org
@@ -2938,10 +2912,8 @@ winwhispers.info
 .wisevid.com
 ||wisevid.com
 .witopia.net
-wjd.name
 .wo.tc
 ||woeser.com
-.wofa.us
 .womensrightsofchina.org
 ||womensrightsofchina.org
 .woopie.jp/video
