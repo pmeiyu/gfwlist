@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: j+l6SwOaM6cVj/ohRYGfFg
+! Checksum: oDdobVfygQnEnx4yDHBwwQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 29 Jan 2013 21:31:54 -0500
+! Last Modified: Sat, 02 Feb 2013 06:09:39 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -854,6 +854,7 @@ code.google.com/p/vforchrome/wiki/Start
 code.google.com/p/tuite
 code.google.com/p/twitese
 code.google.com/p/twip
+code.google.com/p/goagent
 autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
 gfwinterceptor.googlecode.com
 gtap.googlecode.com
