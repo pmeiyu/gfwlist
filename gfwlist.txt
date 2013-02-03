@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Ol6MavVjbmlxfJbK1Mh19g
+! Checksum: TSVfmJ7tc2rnnGOqQC9NVQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 03 Feb 2013 06:36:27 -0500
+! Last Modified: Sun, 03 Feb 2013 10:52:07 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -3144,8 +3144,6 @@ zhonggtuotese.net
 .zoozle.net
 writer.zoho.com
 .zshare.net/download
-||zuihulu.net
-.zuihulu.net
 .zuo.la
 ||zuo.la
 .zuola.com
