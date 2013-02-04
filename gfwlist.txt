@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Z4OqXP7irP2xpR2okHsR3g
+! Checksum: 9/6RZxc0+F+jcHsUAbno3w
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 04 Feb 2013 10:51:54 -0500
+! Last Modified: Mon, 04 Feb 2013 11:19:13 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1876,7 +1876,6 @@ nysingtao.com
 ||nzchinese.net.nz
 
 !--------------------------OO--------------------------
-obmem.com
 observechina.net
 ||october-review.org
 ||ogaoga.org
