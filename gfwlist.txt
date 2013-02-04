@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 9/6RZxc0+F+jcHsUAbno3w
+! Checksum: CZG40GNeZj6jjjDuB5FN1Q
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 04 Feb 2013 11:19:13 -0500
+! Last Modified: Mon, 04 Feb 2013 11:30:52 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1880,8 +1880,6 @@ observechina.net
 ||october-review.org
 ||ogaoga.org
 twtr2src.ogaoga.org
-.ohloh.net
-||ohloh.net
 .oikos.com.tw/v4
 .oiktv.com
 oizoblog.com
@@ -2753,6 +2751,8 @@ embr.in
 guomin.us/login
 t.fishnote.net
 twitter.fishnote.net
+.tube8.com
+||tube8.com
 tuite.in
 tuite.im
 ||tuite.im/
