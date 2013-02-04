@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 1wBBfwzdgv+LsUHKCq6atg
+! Checksum: +f2OGSfg7KJoBSbsghJ0OA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 04 Feb 2013 00:49:06 -0500
+! Last Modified: Mon, 04 Feb 2013 01:20:47 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -3107,7 +3107,7 @@ youtu.be
 .youtubecn.com
 blog.youxu.info/2010/03/14/west-chamber
 !-Youtube CDN
-.ytimg.com
+||ytimg.com
 ytht.net
 yuanming.net
 ||yunchao.net
