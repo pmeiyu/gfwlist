@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: CZG40GNeZj6jjjDuB5FN1Q
+! Checksum: LZfxaBvTcvxcpNlgF/X68w
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 04 Feb 2013 11:30:52 -0500
+! Last Modified: Mon, 04 Feb 2013 11:40:59 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1940,7 +1940,7 @@ paperb.us
 ||panluan.net
 .panoramio.com/forum
 .parade.com/dictators/2009
-pastebin.ca
+pastebin.com
 .pastie.org
 ||pastie.org
 ||blog.pathtosharepoint.com
