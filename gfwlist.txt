@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: TSVfmJ7tc2rnnGOqQC9NVQ
+! Checksum: 1wBBfwzdgv+LsUHKCq6atg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 03 Feb 2013 10:52:07 -0500
+! Last Modified: Mon, 04 Feb 2013 00:49:06 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -142,6 +142,7 @@ itunes.apple.com*isunaffairs/id454439893
 .arctosia.com
 |http://arctosia.com
 ||areca-backup.org
+.asahichinese.com
 asdfg.jp/dabr
 asiademo.org
 ||asiademo.org
@@ -629,6 +630,8 @@ en.favotter.net
 favstar.fm
 ||favstar.fm
 faydao.com/weblog
+fb.me
+||fb.me
 fc2.com
 .fc2china.com
 shifeike.blog125.fc2blog.net
@@ -855,6 +858,7 @@ code.google.com/p/tuite
 code.google.com/p/twitese
 code.google.com/p/twip
 code.google.com/p/goagent
+code.google.com/p/huhamhire-hosts
 autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
 gfwinterceptor.googlecode.com
 gtap.googlecode.com
@@ -1385,8 +1389,6 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .higfw.com
 ||highrockmedia.com
 times.hinet.net
-.hjclub.info
-||hjclub.info
 .hk-pub.com/forum
 |http://hk-pub.com/forum
 .hk32168.com
