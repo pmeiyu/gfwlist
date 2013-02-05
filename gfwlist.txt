@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: F89jycvhmMJ++dKnEKS4sw
+! Checksum: /bkulD2Y/byusJQOfmdPag
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 05 Feb 2013 10:09:26 -0500
+! Last Modified: Tue, 05 Feb 2013 10:44:08 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -782,8 +782,6 @@ gfw.org.ua
 ||ggssl.com
 gigporno.ru
 ||gimpshop.com
-.ginx.com
-||ginx.com
 ||glennhilton.com
 globalmuseumoncommunism.org
 .globalvoicesonline.org
