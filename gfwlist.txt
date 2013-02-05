@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: LZfxaBvTcvxcpNlgF/X68w
+! Checksum: k0YPMmH/Fv4gK6L7Ye4AtQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 04 Feb 2013 11:40:59 -0500
+! Last Modified: Mon, 04 Feb 2013 22:59:43 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1458,6 +1458,7 @@ forum.idsam.com
 cydia.ifuckgfw.com
 ||cydia.ifuckgfw.com
 ||antidrm.hpg.ig.com.br
+igfw.net
 igfw.tk
 ||ignitedetroit.net
 ||illusionfactory.com
@@ -1896,7 +1897,6 @@ open.com.hk
 .openleaks.org
 ||openleaks.org
 ||openwebster.com
-opera.com/mini
 my.opera.com/dahema
 ||demo.opera-mini.net
 opnir.com/215/myentunnel-ssh-autoproxy-cross-gfw
