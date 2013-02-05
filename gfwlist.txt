@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: pI+UOVINUt5BjEqhupD1iA
+! Checksum: F89jycvhmMJ++dKnEKS4sw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 05 Feb 2013 08:13:14 -0500
+! Last Modified: Tue, 05 Feb 2013 10:09:26 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -818,7 +818,6 @@ greatroc.org
 ||greenvpn.net
 gs-discuss.com
 .gseeker.com/50226711/eeieyoutubeagooglec_121822.php
-||gtkforums.com
 ||gtricks.com
 guancha.org
 .gun-world.net
