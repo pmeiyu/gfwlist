@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: k0YPMmH/Fv4gK6L7Ye4AtQ
+! Checksum: zZbiaV7+/ILsnu2wSrh+Gw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 04 Feb 2013 22:59:43 -0500
+! Last Modified: Mon, 04 Feb 2013 23:06:54 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1692,8 +1692,6 @@ mayimayi.com
 lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 .megaporn.com
 ||megarotic.com
-||megaupload.com
-.megaupload.com/?d=
 megavideo.com
 ||megurineluka.com
 meirixiaochao.com
