@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: I7XnG3No6ole2By+l9nAUQ
+! Checksum: pI+UOVINUt5BjEqhupD1iA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 05 Feb 2013 06:11:38 -0500
+! Last Modified: Tue, 05 Feb 2013 08:13:14 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -170,7 +170,6 @@ backchina.com
 badoo.com
 ||baidu.jp
 hen.bao.li
-||bao.li
 ||barnabu.co.uk
 dajusha.baywords.com
 .bbc.co.uk/chinese
