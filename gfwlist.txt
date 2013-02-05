@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 4nY2MZMWNFx3hQDo5BIbKQ
+! Checksum: I7XnG3No6ole2By+l9nAUQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 05 Feb 2013 06:07:21 -0500
+! Last Modified: Tue, 05 Feb 2013 06:11:38 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -136,7 +136,6 @@ itunes.apple.com*isunaffairs/id454439893
 ||appledaily.com.tw
 .archive.org
 ||archive.org
-||archlinux.fr
 .arctosia.com
 |http://arctosia.com
 ||areca-backup.org
