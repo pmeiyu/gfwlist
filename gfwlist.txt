@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: zZbiaV7+/ILsnu2wSrh+Gw
+! Checksum: tDv+IKEHq0MW7a34Be3RzA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 04 Feb 2013 23:06:54 -0500
+! Last Modified: Mon, 04 Feb 2013 23:32:42 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1864,7 +1864,7 @@ forum.nownews.com
 .nps.gov
 .nrk.no
 ||nrk.no
-bbs.nsysu.edu.tw
+||nsc.gov.tw
 ntdtv.com
 ||cbs.ntu.edu.tw
 ||nuexpo.com
