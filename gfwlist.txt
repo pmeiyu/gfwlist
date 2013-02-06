@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: eEzkoQTuPlY0wkxZ0bwJcQ
+! Checksum: AkmqKaH8FUkj5aV4aExQMg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 06 Feb 2013 05:32:20 -0500
+! Last Modified: Wed, 06 Feb 2013 06:17:48 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -682,6 +682,7 @@ foursquare.com
 video.foxbusiness.com
 ||fringenetwork.com
 ||flecheinthepeche.fr
+.focusvpn.com
 ||fofg.org
 .fooooo.com
 ||fooooo.com
@@ -708,6 +709,7 @@ freeciv.org
 .freelotto.com
 ||freelotto.com
 freeman2.com
+.freeopenvpn.com
 freemoren.com
 freemorenews.com
 .freeoz.org/bbs
@@ -1599,6 +1601,7 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 .linglingfa.com
+.linkideo.com
 ||api.linksalpha.com
 ||apidocs.linksalpha.com
 ||www.linksalpha.com
@@ -1842,6 +1845,7 @@ nintendium.com
 taiwanyes.ning.com
 njuice.com
 ||njuice.com
+nlfreevpn.com
 no-ip.com
 .nobelprize.org
 |http://nobelprize.org
@@ -1880,6 +1884,7 @@ twtr2src.ogaoga.org
 .oikos.com.tw/v4
 .oiktv.com
 oizoblog.com
+.okayfreedom.com
 old-cat.net
 ||olumpo.com
 omgili.com
@@ -1920,6 +1925,7 @@ bbs.ozchinese.com
 
 !--------------------------PP--------------------------
 .pacificpoker.com
+.packetix.net
 ||pandora.com
 .pandora.tv
 page2rss.com
@@ -2195,6 +2201,7 @@ domainhelp.search.com
 secretchina.com
 ||secretgarden.no
 ||default.secureserver.net
+securitykiss.com
 seesmic.com
 ||seezone.net
 sejie.com
@@ -2342,6 +2349,7 @@ blog.sufeng.org
 .sugarsync.com
 ||sugarsync.com
 t.sunxun.info/login.php
+superfreevpn.com
 api.supertweet.net
 www.supertweet.net
 support/youtube/bin/request.py?contact_type=abuse&
@@ -2387,7 +2395,8 @@ tcno.net*doc*tor
 technorati.com
 ||techparaiso.com
 ||teck.in/
-telecomspace.com
+.telecomspace.com
+.tenacy.com
 ||theappleblog.com
 ||theatrum-belli.com
 theblemish.com
