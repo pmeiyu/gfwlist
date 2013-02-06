@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: uNdDH41KTOfTWakCa9qndQ
+! Checksum: Vchydw5h6TMdGKQokGkjNg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 06 Feb 2013 09:49:02 -0500
+! Last Modified: Wed, 06 Feb 2013 10:23:59 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -283,7 +283,6 @@ brucewang.net
 !--businesstimes
 .businesstimes.com.cn
 |http://businesstimes.com.cn
-bugbeep.com
 ||bugclub.org
 ||buugaa.com
 buzzurl.jp
@@ -1324,6 +1323,7 @@ anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
 .googlevideo.com
+greatfirewallofchina.org
 ||gstatic.com
 
 !--------------------------HH--------------------------
