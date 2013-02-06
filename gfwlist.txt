@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: /bkulD2Y/byusJQOfmdPag
+! Checksum: OWeUYTwq0Bt/qq5gwZARZg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 05 Feb 2013 10:44:08 -0500
+! Last Modified: Tue, 05 Feb 2013 21:09:51 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -650,7 +650,6 @@ fflick.com
 .files2me.com
 |http://files2me.com
 .fileserve.com/file
-.filesonic.com/file
 fillthesquare.org
 findbook.tw
 finler.net
@@ -1377,6 +1376,7 @@ app.heywire.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
 ||hidemyass.com
+||hideipvpn.com
 .hihiforum.com
 |http://hihiforum.com
 .higfw.com
