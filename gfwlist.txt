@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: AkmqKaH8FUkj5aV4aExQMg
+! Checksum: uNdDH41KTOfTWakCa9qndQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 06 Feb 2013 06:17:48 -0500
+! Last Modified: Wed, 06 Feb 2013 09:49:02 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -247,7 +247,6 @@ blogtd.net
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
-||bodhilinux.com
 boltbrowser.com/download
 ||books.com.tw
 .bot.nu
@@ -275,7 +274,6 @@ ibros.org
 brucewang.net
 ||bt95.com
 .budaedu.org
-buddhaspace.org
 ||budaedu.org
 .bullog.org
 ||bullog.org
