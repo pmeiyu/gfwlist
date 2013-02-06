@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: OWeUYTwq0Bt/qq5gwZARZg
+! Checksum: /z/+Wh1niR8XomD/lJYAsA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 05 Feb 2013 21:09:51 -0500
+! Last Modified: Wed, 06 Feb 2013 01:23:17 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -454,6 +454,7 @@ creaders.net
 ||cuiweiping.net
 ||curvefish.com
 forum.cyberctm.com/forum
+||cyberghostvpn.com
 ||cynscribe.com
 cytode.us
 ||ifan.cz.cc
@@ -954,7 +955,7 @@ echofon.com
 !-||blog.go2web20.net
 !-||blog.google.org
 !-||google-melange.com
-!-||blog.golang.org
+||golang.org
 !-||fame.gonzolabs.org
 !-||govecn.org
 !-||gqueues.com
@@ -1203,6 +1204,8 @@ search*%E9%85%B7%E5%88%91
 .google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
 !--Meng Ying Wei Ming Hu
 .google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
+!--MianFeiVPN
+.google.*%E5%85%8D%E8%B4%B9vpn
 !--Mo Li
 .google.*%E8%8C%89%E8%8E%89
 !--Na Mi Bi Ya
@@ -1887,6 +1890,7 @@ open.com.hk
 ||blog.openinkpot.org
 .openleaks.org
 ||openleaks.org
+||openvpn.net
 ||openwebster.com
 my.opera.com/dahema
 ||demo.opera-mini.net
