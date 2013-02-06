@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: /z/+Wh1niR8XomD/lJYAsA
+! Checksum: JifyC0mrHQ8lXWm0cIgPDQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 06 Feb 2013 01:23:17 -0500
+! Last Modified: Wed, 06 Feb 2013 04:02:21 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2088,7 +2088,6 @@ python.org*download
 ||qienkuen.org
 qixianglu.cn
 bbs.qmzdd.com
-
 .qkshare.com
 ||qoos.com
 blog.qooza.hk*dafengqixi
