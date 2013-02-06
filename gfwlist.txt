@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: YKxxKjTV7+EM/pqrFaBC4A
+! Checksum: eEzkoQTuPlY0wkxZ0bwJcQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 06 Feb 2013 04:43:57 -0500
+! Last Modified: Wed, 06 Feb 2013 05:32:20 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -412,7 +412,7 @@ city9x.com
 civilhrfront.org
 ||civilhrfront.org
 psiphon.civisec.org
-||shell.cjb.net
+cjb.net/vpn.html
 .ck101.com
 ||ck101.com
 ||classicalguitarblog.net
@@ -1472,6 +1472,7 @@ imageshack.us
 .imkev.com
 ||imkev.com
 .imlive.com
+immigration.gov.tw
 ||incredibox.fr
 .inmediahk.net
 ||inmediahk.net
