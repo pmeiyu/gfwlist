@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: JifyC0mrHQ8lXWm0cIgPDQ
+! Checksum: YKxxKjTV7+EM/pqrFaBC4A
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 06 Feb 2013 04:02:21 -0500
+! Last Modified: Wed, 06 Feb 2013 04:43:57 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -275,6 +275,7 @@ ibros.org
 brucewang.net
 ||bt95.com
 .budaedu.org
+buddhaspace.org
 ||budaedu.org
 .bullog.org
 ||bullog.org
