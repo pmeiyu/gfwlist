@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: xevG9YF9C3RL6iS1JUw32g
+! Checksum: npb2t5XesG0W7vr37jzbuw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 07 Feb 2013 02:16:30 -0500
+! Last Modified: Thu, 07 Feb 2013 03:07:39 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -130,7 +130,8 @@ itunes.apple.*375584677
 itunes.apple.*383949089
 itunes.apple.*319295332
 itunes.apple.*418987775
-itunes.apple.com/us*id447119634
+itunes.apple.*430271182
+itunes.apple.*447119634
 itunes.apple.com*isunaffairs/id454439893
 
 ||appledaily.com.tw
@@ -2985,7 +2986,6 @@ worldjournal.com
 !-zh-cn.wordpress.com
 !-zh-sg.wordpress.com
 !-zhenxiang.wordpress.com
-!-|https://*.wordpress.com
 .wordpress.com
 ||wordpress.com
 !-|http://wp.com/
@@ -3071,13 +3071,8 @@ tw.news.yahoo.com
 pulse.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
-!--video.yahoo.com/watch
 ||yahoo.com.hk
-blog.yam.com
-.mymedia.yam.com
-|http://mymedia.yam.com
-n.yam.com
-news.yam.com
+||yam.com
 .ydy.com
 ||yeelou.com
 yeeyi.com
