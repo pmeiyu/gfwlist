@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MIzpXQ0SJl9EUrA8/YsSoQ
+! Checksum: Tz3Iu8SPEITYDZUC4wvHgg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 07 Feb 2013 05:56:20 -0500
+! Last Modified: Thu, 07 Feb 2013 06:40:16 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1390,6 +1390,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 ||hideipvpn.com
 .hihiforum.com
 |http://hihiforum.com
+||hihistory.net
 .higfw.com
 ||highrockmedia.com
 times.hinet.net
