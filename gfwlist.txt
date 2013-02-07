@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: JXmWnJwx479hyCOVMcelNg
+! Checksum: MIzpXQ0SJl9EUrA8/YsSoQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 07 Feb 2013 04:47:15 -0500
+! Last Modified: Thu, 07 Feb 2013 05:56:20 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -16,8 +16,7 @@
 .12vpn.com
 ||12vpn.com
 141hongkong.com/forum
-t.16class.cn
-173ng.com
+1173ng.com
 ||173ng.com
 1984bbs.com
 ||1984bbs.com
@@ -31,7 +30,6 @@ t.16class.cn
 .2000fun.com/bbs
 .2008xianzhang.info
 ||2008xianzhang.info
-.21code.com
 .2shared.com
 .315lz.com
 ||36rain.com
