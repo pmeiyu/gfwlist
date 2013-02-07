@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: TYZRPDV60cPILb1fYGefgg
+! Checksum: xevG9YF9C3RL6iS1JUw32g
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 07 Feb 2013 00:15:42 -0500
+! Last Modified: Thu, 07 Feb 2013 02:16:30 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2354,8 +2354,7 @@ cn.streetvoice.com/article
 cn.streetvoice.com/diary
 cn2.streetvoice.com
 tw.streetvoice.com
-.strongvpn.com
-|http://strongvpn.com
+||strongvpn.com
 .student.tw/db
 blog.sufeng.org
 .sugarsync.com
