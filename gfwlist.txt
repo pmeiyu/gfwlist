@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Tz3Iu8SPEITYDZUC4wvHgg
+! Checksum: XLaG4+Thap76hB4y41iG3Q
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 07 Feb 2013 06:40:16 -0500
+! Last Modified: Thu, 07 Feb 2013 08:37:46 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -16,7 +16,7 @@
 .12vpn.com
 ||12vpn.com
 141hongkong.com/forum
-1173ng.com
+.173ng.com
 ||173ng.com
 1984bbs.com
 ||1984bbs.com
@@ -3792,5 +3792,5 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@||cromotc.nat.gov.tw
 @@||taitung-house.gov.tw
 
------IP-----
+!-----IP-----
 174.142.105.153
