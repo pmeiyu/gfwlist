@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: TeWMNsz4pxbv+N3z7HESUQ
+! Checksum: Esvl+asLd7Ndh2derBS45w
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 06 Feb 2013 20:41:18 -0500
+! Last Modified: Wed, 06 Feb 2013 21:56:24 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -194,6 +194,7 @@ beijingspring.com
 ||berlintwitterwall.com
 .bestforchina.org
 ||bestforchina.org
+.bestvpnservice.com
 .bet365.com
 .betfair.com
 .bettween.com
@@ -292,6 +293,7 @@ holz.byethost8.com
 .c-spanvideo.org
 ||c-spanvideo.org
 ||c-est-simple.com
+.cactusvpn.com
 .cafepress.com
 .calameo.com/books
 .cn.calameo.com
@@ -2251,6 +2253,7 @@ blog.sina.com.tw
 dailynews.sina.com/
 dailynews.sina.com%2F
 forum.sina.com.hk
+home.sina.com/
 ||magazines.sina.com.tw
 news.sina.com.hk
 news.sina.com.tw
@@ -2265,6 +2268,7 @@ news.singtao.ca
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
+sis001.us
 ||sjum.cn/
 ||skimtube.com
 bbs.skykiwi.com
@@ -3785,3 +3789,5 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@||cromotc.nat.gov.tw
 @@||taitung-house.gov.tw
 
+-----IP-----
+174.142.105.153
