@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Esvl+asLd7Ndh2derBS45w
+! Checksum: TYZRPDV60cPILb1fYGefgg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 06 Feb 2013 21:56:24 -0500
+! Last Modified: Thu, 07 Feb 2013 00:15:42 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -723,6 +723,7 @@ www.freetibet.org
 friendfeed.com
 friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 |http://ff.im
+freevpn.nl
 .fring.com
 ||fring.com
 ||frommel.net
@@ -846,6 +847,7 @@ guancha.org
 !-------------Google Code-----
 code.google.com/p/gappproxy
 code.google.com/p/gaeproxy
+code.google.com/p/icefox
 code.google.com/p/autoproxy/updates/list
 code.google.com/p/breakwall
 code.google.com/p/program-think/wiki/Software
@@ -1490,6 +1492,7 @@ internetfreedom.org
 ||ipicture.ru
 ipobar.com
 ||ippotv.com
+||ipvanish.com
 ||ironicsoftware.com
 ||ironpython.net
 .beta.iset.com.tw/forum
@@ -1971,6 +1974,7 @@ mypaper.pchome.com.tw
 news.pchome.com.tw
 .pcworld.com/downloads/file/fid,71209-order
 pdetails.com
+||pdproxy.com
 peacefire.org
 peacehall.com
 .peeasian.com
@@ -1984,6 +1988,7 @@ pengyulong.com
 .penthouse.com
 .peopo.org
 ||peopo.org
+perfectvpn.net
 philly.com
 ||photofocus.com
 .picidae.net
@@ -2086,6 +2091,7 @@ psiphon.ca
 ||pullfolio.com
 ||pureconcepts.net
 ||purepdf.com
+||purevpn.com
 .putlocker.com/file
 pwned.com
 .python.com.tw
@@ -2294,6 +2300,7 @@ home.so-net.net.tw/yisa_tsai
 ||soup.io/
 @@||static.soup.io
 .slinkset.com
+||slickvpn.com
 .snaptu.com
 ||snaptu.com
 sneakme.net
@@ -2844,6 +2851,8 @@ voanews.com/chinese
 .vot.org
 www.voy.com
 ||www.vpncup.com
+vpnbook.com
+||vpnpop.com
 
 !--------------------------WW--------------------------
 lists.w3.org/archives/public
