@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: uj9GQQoME3Oz9lAkOVVCQA
+! Checksum: 5V3vO3g9XoW6gSEMvUl4Iw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 08 Feb 2013 00:49:43 -0500
+! Last Modified: Fri, 08 Feb 2013 03:29:17 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1486,6 +1486,7 @@ immigration.gov.tw
 ||inmediahk.net
 ||interfaceaddiction.com
 ||internationalrivers.org
+internetdefenseleague.org
 internetfreedom.org
 ||internetpopculture.com
 ||iphonehacks.com
