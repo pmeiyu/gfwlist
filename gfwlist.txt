@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: XLaG4+Thap76hB4y41iG3Q
+! Checksum: mGQBdUVBG5pYKhGi+jX2YA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 07 Feb 2013 08:37:46 -0500
+! Last Modified: Thu, 07 Feb 2013 22:47:51 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2852,6 +2852,7 @@ voanews.com/chinese
 www.voy.com
 ||www.vpncup.com
 vpnbook.com
+vpnfire.com
 ||vpnpop.com
 
 !--------------------------WW--------------------------
@@ -3072,6 +3073,7 @@ pulse.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
 ||yahoo.com.hk
+yam.com
 ||yam.com
 .ydy.com
 ||yeelou.com
