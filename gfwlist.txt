@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 5V3vO3g9XoW6gSEMvUl4Iw
+! Checksum: rDjojPHvX42PJQZyjiTQFg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 08 Feb 2013 03:29:17 -0500
+! Last Modified: Fri, 08 Feb 2013 07:53:46 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -638,6 +638,7 @@ feeds.feedburner.com
 feeds2.feedburner.com/chinagfwblog
 goo.gl/fb
 ||feedzshare.com
+||feelssh.com
 feer.com
 felixcat.net
 ||felixcat.net
