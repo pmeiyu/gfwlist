@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: mGQBdUVBG5pYKhGi+jX2YA
+! Checksum: uj9GQQoME3Oz9lAkOVVCQA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 07 Feb 2013 22:47:51 -0500
+! Last Modified: Fri, 08 Feb 2013 00:49:43 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -2076,6 +2076,8 @@ prisoner-state-secret-journal-premier
 ||privacybox.de
 privatepaste.com
 ||privatepaste.com
+privatetunnel.com
+||privatetunnel.com
 ||prosiben.de
 api.proxlet.com
 ||proxomitron.info
