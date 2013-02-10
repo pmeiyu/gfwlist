@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 1z1C2KReBcef4ejZWp4b6Q
+! Checksum: hZXMm+JAmMf9REPMIAtD5g
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 10 Feb 2013 11:39:11 -0500
+! Last Modified: Sun, 10 Feb 2013 12:10:59 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -37,10 +37,7 @@
 ||4bluestones.biz
 5i01.com
 taiwannation.50webs.com
-||bbs.51.ca
-blog.51.ca
-info.51.ca
-||info.51.ca
+||51.ca
 .5maodang.com
 ||6-4.net/
 64memo
@@ -293,6 +290,7 @@ holz.byethost8.com
 ||c-spanvideo.org
 ||c-est-simple.com
 .cactusvpn.com
+||cactusvpn.com
 .cafepress.com
 .calameo.com/books
 .cn.calameo.com
