@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: vrk7OiQ3K2SPJB+nhwPAIQ
+! Checksum: YDS0ifhJUccV0qVEqj9TYw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 09 Feb 2013 21:55:18 -0500
+! Last Modified: Sat, 09 Feb 2013 22:59:54 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1359,6 +1359,7 @@ hellotxt.com
 ||helpeachpeople.com
 
 !--Heroku
+||date.fm
 ||heroku.com
 ||branch.com
 ||awardwinningfjords.com
