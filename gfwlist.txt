@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: D8nhZ5XL+gW623NyXtuYPg
+! Checksum: HZ2Rf5sN6zHIX+TVYEzI2A
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 09 Feb 2013 21:26:18 -0500
+! Last Modified: Sat, 09 Feb 2013 21:52:47 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -846,6 +846,7 @@ guancha.org
 !-------------Google Code-----
 code.google.com/p/gappproxy
 code.google.com/p/gaeproxy
+code.google.com/p/west-champer-season-3
 code.google.com/p/icefox
 code.google.com/p/autoproxy/updates/list
 code.google.com/p/breakwall
@@ -2480,6 +2481,7 @@ toonel.net
 topsy.com
 tora.to
 .torproject.org
+||torvpn.com
 touch99.com
 ||toutfr.com
 .tpi.org.tw
