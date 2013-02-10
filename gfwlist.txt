@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: YDS0ifhJUccV0qVEqj9TYw
+! Checksum: +BQ7/CKEt2mJQn5A514yeA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 09 Feb 2013 22:59:54 -0500
+! Last Modified: Sun, 10 Feb 2013 02:15:40 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -1360,7 +1360,7 @@ hellotxt.com
 
 !--Heroku
 ||date.fm
-||heroku.com
+||flightcaster.com
 ||branch.com
 ||awardwinningfjords.com
 ||futureme.org
@@ -1435,6 +1435,7 @@ hrichina.org
 ||htmldog.com
 .huanghuagang.org
 ||huanghuagang.org
+||huaren.us
 ||hugoroy.eu
 t.huhaitai.com
 .hulu.com
@@ -2464,7 +2465,6 @@ tibetfund.org
 .tistory.com
 ||tkcs-collins.com
 ||tkforum.tk
-tldp.org
 |http://tmi.me
 .tnaflix.com
 ||tnaflix.com
