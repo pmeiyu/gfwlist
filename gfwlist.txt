@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: CtYQ1LMm7c88Cbij9cBRQA
+! Checksum: 1z1C2KReBcef4ejZWp4b6Q
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 10 Feb 2013 05:25:18 -0500
+! Last Modified: Sun, 10 Feb 2013 11:39:11 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -306,6 +306,7 @@ caochangqing.com
 ||caochangqing.com
 .catholic.org.hk
 ||catholic.org.hk
+||ccavtop10.com
 .ccc.de
 ||ccc.de
 .ccdtr.org
