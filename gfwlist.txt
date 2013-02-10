@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: +BQ7/CKEt2mJQn5A514yeA
+! Checksum: CtYQ1LMm7c88Cbij9cBRQA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 10 Feb 2013 02:15:40 -0500
+! Last Modified: Sun, 10 Feb 2013 05:25:18 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -515,10 +515,11 @@ disp.cc
 ||dlsite.com
 .docstoc.com/docs
 .dojin.com
-.dolc.de/forum
+||dolc.de
 .domain.club.tw
 dongde.com
 dongtaiwang.com
+||dongtaiwang.com
 .dongtaiwang.net
 ||dongtaiwang.net
 .dongyangjing.com
@@ -1358,7 +1359,7 @@ hellotxt.com
 .helpeachpeople.com
 ||helpeachpeople.com
 
-!--Heroku
+!###########--Heroku--##########
 ||date.fm
 ||flightcaster.com
 ||branch.com
