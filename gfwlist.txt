@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: HZ2Rf5sN6zHIX+TVYEzI2A
+! Checksum: vrk7OiQ3K2SPJB+nhwPAIQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sat, 09 Feb 2013 21:52:47 -0500
+! Last Modified: Sat, 09 Feb 2013 21:55:18 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -846,7 +846,7 @@ guancha.org
 !-------------Google Code-----
 code.google.com/p/gappproxy
 code.google.com/p/gaeproxy
-code.google.com/p/west-champer-season-3
+code.google.com/p/west-chamber-season-3
 code.google.com/p/icefox
 code.google.com/p/autoproxy/updates/list
 code.google.com/p/breakwall
