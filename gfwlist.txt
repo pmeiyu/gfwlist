@@ -1,9 +1,21 @@
 [AutoProxy 0.2.9]
-! Checksum: eFSd0AZJua2dClowOu22bA
+! Checksum: lP9eD1kdFwNM2Nxr+dA8CQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 01:17:40 -0500
+! Last Modified: Mon, 11 Feb 2013 10:37:16 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
+
+!--------------------iTunes--------------------
+itunes.apple.*285688934
+itunes.apple.*358801284
+itunes.apple.*364147881
+itunes.apple.*375584677
+itunes.apple.*383949089
+itunes.apple.*319295332
+itunes.apple.*418987775
+itunes.apple.*430271182
+itunes.apple.*447119634
+itunes.apple.*454439893
 
 !--------------------Num--------------------
 .0rz.tw
@@ -118,21 +130,8 @@ video.aol.com
 www.aolnews.com
 .apigee.com
 ||apigee.com
-
-itunes.apple.*285688934
-itunes.apple.*358801284
-itunes.apple.*364147881
-itunes.apple.*375584677
-itunes.apple.*383949089
-itunes.apple.*319295332
-itunes.apple.*418987775
-itunes.apple.*430271182
-itunes.apple.*447119634
-itunes.apple.com*isunaffairs/id454439893
-
-||appledaily.com.tw
-.archive.org
-||archive.org
+!--.archive.org
+!--||archive.org
 .arctosia.com
 |http://arctosia.com
 ||areca-backup.org
@@ -1538,6 +1537,8 @@ jeanyim.com
 jieshibaobao.com
 .jimoparty.com
 |http://jimoparty.com
+jinbushe.org
+||jinbushe.org
 zhao.jinhai.de
 jingpin.org
 ||jingpin.org
