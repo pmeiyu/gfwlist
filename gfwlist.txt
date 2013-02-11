@@ -1,11 +1,11 @@
 [AutoProxy 0.2.9]
-! Checksum: a02DOruFZFI6XZ8KU6pW0g
+! Checksum: aiVpTWE3sIaOUZ47dqZyag
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 10 Feb 2013 22:57:56 -0500
+! Last Modified: Mon, 11 Feb 2013 00:58:53 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
-!--------------------Num----------------------------
+!--------------------Num--------------------
 .0rz.tw
 |http://0rz.tw
 ||0to255.com
@@ -57,10 +57,9 @@ taiwannation.50webs.com
 ||9bis.net
 .9city.me/archiver*308578.html
 
-!--------------------------AA--------------------------
+!--------------------AA--------------------
 ||a-normal-day.com
 a5.com.ru
-||aircrack-ng.org
 .aboluowang.com
 ||aboluowang.com
 .aboutgfw.com
@@ -160,7 +159,7 @@ asianews.it
 ||avoision.com
 ||axureformac.com
 
-!--------------------------BB--------------------------
+!--------------------BB--------------------
 forum.baby-kingdom.com
 backchina.com
 ||backchina.com
@@ -287,7 +286,7 @@ brucewang.net
 buzzurl.jp
 holz.byethost8.com
 
-!--------------------------CC--------------------------
+!--------------------CC--------------------
 .c-spanvideo.org
 ||c-spanvideo.org
 ||c-est-simple.com
@@ -295,7 +294,7 @@ holz.byethost8.com
 ||cactusvpn.com
 .cafepress.com
 .calameo.com/books
-.cn.calameo.com
+cn.calameo.com
 |http://cn.calameo.com
 canadameet.com
 .canyu.org
@@ -463,7 +462,7 @@ cytode.us
 ||mike.cz.cc
 ||nic.cz.cc
 
-!--------------------------DD--------------------------
+!--------------------DD--------------------
 cl.d0z.net
 .dabr.co.uk
 ||dabr.co.uk
@@ -564,7 +563,7 @@ dy24k.info
 ||dynawebinc.com
 .dzze.com
 
-!------------------------EE------------------------
+!--------------------EE--------------------
 ||e-gold.com
 .e-gold.com
 e-info.org.tw
@@ -606,7 +605,7 @@ eyny.com
 .ezpc.tk/category/soft
 .ezpeer.com
 
-!--------------------------FF--------------------------
+!--------------------FF--------------------
 .facebook.com
 ||facebook.com
 /^https?:\/\/[^\/]+facebook\.com/
@@ -745,7 +744,7 @@ funp.com
 fzh999.com
 fzh999.net
 
-!------------------------GG------------------------
+!--------------------GG--------------------
 ||gabocorp.com
 ||galenwu.com
 .gamebase.com.tw
@@ -1339,7 +1338,7 @@ greatfire.org
 greatfirewallofchina.org
 ||gstatic.com
 
-!--------------------------HH--------------------------
+!--------------------HH--------------------
 ||h-china.org
 h1n1china.org
 .hacken.cc/bbs
@@ -1449,7 +1448,7 @@ t.huhaitai.com
 ||hutianyi.net
 ||hwinfo.com
 
-!--------------------------II--------------------------
+!--------------------II--------------------
 ||i2p2.de/
 ||i2runner.com
 ibiblio.org/pub/packages/ccic
@@ -1526,7 +1525,7 @@ yy.iyatou.com/archives/1042
 ||gmozomg.izihost.org
 .izles.net
 
-!--------------------------JJ--------------------------
+!--------------------JJ--------------------
 blog.jackjia.com
 williamlong.jaiku.com
 jeanyim.com
@@ -1560,7 +1559,7 @@ justtristan.com
 @@||music.jwmusic.org
 .jyxf.net
 
-!--------------------------KK--------------------------
+!--------------------KK--------------------
 ||ka-wai.com
 .kagyuoffice.org.tw
 ||kagyuoffice.org.tw
@@ -1593,7 +1592,7 @@ kwongwah.com.my
 .kzeng.info
 ||kzeng.info
 
-!--------------------------LL--------------------------
+!--------------------LL--------------------
 ladbrokes.com
 .lalulalu.com
 laogai.org
@@ -1682,7 +1681,7 @@ lsforum.net
 lvhai.org
 ||lvhai.org
 
-!--------------------------MM--------------------------
+!--------------------MM--------------------
 m-team.cc/forum
 www.macrovpn.com
 ||mad-ar.ch
@@ -1797,12 +1796,12 @@ mysinablog.com
 !--vids.myspace.com/index.cfm?fuseaction=vids.
 !--viewmorepics.myspace.com
 
-!--------------------------NN--------------------------
+!--------------------NN--------------------
 old.nabble.com
 ||naitik.net
 ||namsisi.com
 .nanyangpost.com
-|http://nanyangpost.com
+||nanyangpost.com
 ||naveensrinivasan.com
 ||navicat.com
 .nakido.com
@@ -1892,7 +1891,7 @@ ntdtv.com
 nysingtao.com
 ||nzchinese.net.nz
 
-!--------------------------OO--------------------------
+!--------------------OO--------------------
 observechina.net
 ||october-review.org
 ||ogaoga.org
@@ -1939,7 +1938,7 @@ www.owind.com
 .ozchinese.com/bbs
 bbs.ozchinese.com
 
-!--------------------------PP--------------------------
+!--------------------PP--------------------
 .pacificpoker.com
 .packetix.net
 ||pandora.com
@@ -2108,9 +2107,8 @@ psiphon.ca
 pwned.com
 .python.com.tw
 |http://python.com.tw
-python.org*download
 
-!--------------------------QQ--------------------------
+!--------------------QQ--------------------
 .qanote.com
 ||qanote.com
 .qienkuen.org
@@ -2133,19 +2131,16 @@ qusi8.net
 nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
 
-!--------------------------RR--------------------------
+!--------------------RR--------------------
 www.radioaustralia.net.au*chinese*articles*
 ||radiovaticana.org
 rangzen.org
 ranyunfei.com
 ||ranyunfei.com
-.rapidshare.com
-|http://rapidshare.com
-.rapidshare1.com
+!-.rapidshare.com
+!-|http://rapidshare.com
 ||rapidshare8.com
 .rapidsharedata.com
-.rapidscan.me
-|http://rapidscan.me
 .rayfme.com/bbs
 rcinet.ca
 .read100.com
@@ -2775,6 +2770,7 @@ tynsoe.org
 
 !-------------Twitese-----
 embr.in
+||embr.in
 /^https?:\/\/[^\/]+fanfou\.im/
 guomin.us/login
 t.fishnote.net
@@ -2783,7 +2779,7 @@ twitter.fishnote.net
 ||tube8.com
 tuite.in
 tuite.im
-||tuite.im/
+||tuite.im
 
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
