@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: b6DVk9VTA09eve6fYmgGSw
+! Checksum: a02DOruFZFI6XZ8KU6pW0g
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 10 Feb 2013 22:04:11 -0500
+! Last Modified: Sun, 10 Feb 2013 22:57:56 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -3163,6 +3163,8 @@ zhonggtuotese.net
 .zhongxing9hao.net.cn
 ||zhreader.com
 .ziddu.com/download
+zinio.com
+||zinio.com
 .zkaip.com
 ||zkaip.com
 ||zlib.net/
