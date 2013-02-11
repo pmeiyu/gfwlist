@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: hZXMm+JAmMf9REPMIAtD5g
+! Checksum: GjM3AeFlm9yW0/VrXj9yhg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 10 Feb 2013 12:10:59 -0500
+! Last Modified: Sun, 10 Feb 2013 21:28:28 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -71,6 +71,8 @@ adultfriendfinder.com
 ||advanscene.com
 ||advertfan.com
 ||aenhancers.com
+aiph.net
+||aiph.net
 ||airodump.net
 .aisex.com
 ||ait.org.tw
@@ -444,6 +446,8 @@ creaders.net
 ||creaders.net
 .crossthewall.net
 ||crossthewall.net
+csdparty.com
+||csdparty.com
 ||csuchen.de
 .cuhkacs.org/~benng
 .cuihua.org
@@ -812,7 +816,6 @@ greatfirewall.biz
 .greenparty.org.tw
 gpass1.com
 great-firewall.com
-||www.greenpois0n.com
 greatroc.org
 .greenvpn.net
 ||greenvpn.net
