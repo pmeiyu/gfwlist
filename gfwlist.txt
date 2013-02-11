@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: tjI5Lw21+I8srlki3Obyzg
+! Checksum: jsbJrBttpjNWeD3E6KT0Bg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 11:40:50 -0500
+! Last Modified: Mon, 11 Feb 2013 11:52:20 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -155,6 +155,8 @@ asianews.it
 ||atlaspost.com
 .atnext.com
 ||atnext.com
+avaaz.org
+||avaaz.org
 ||avidemux.org
 ||avoision.com
 ||axureformac.com
@@ -1445,6 +1447,8 @@ t.huhaitai.com
 ||i2runner.com
 iask.ca
 ||iask.ca
+iask.bz
+||iask.bz
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 blogs.icerocket.com/tag
@@ -1718,7 +1722,8 @@ middle-way.net
 .mihk.hk/forum
 mihua.org
 .mimivip.com
-.minghui.org
+minghui.org
+||minghui.org
 mingpao.com
 .mingpaomonthly.com
 mingpaonews.com
@@ -2315,6 +2320,8 @@ sneakme.net
 socialwhale.com
 ||softwarebychuck.com
 blog.sogoo.org
+soh.tw
+||soh.tw
 sohfrance.org
 ||sohfrance.org
 chinese.soifind.com
@@ -2323,6 +2330,7 @@ sokamonline.com
 ||songjianjun.com
 .sopcast.com
 soundofhope.org
+||soundofhope.org
 ||soupofmedia.com
 !-.sourceforge.net
 !-|http://sourceforge.net
@@ -2483,6 +2491,8 @@ toonel.net
 topsy.com
 tora.to
 .torproject.org
+torrentcrazy.com
+||torrentcrazy.com
 ||torvpn.com
 touch99.com
 ||toutfr.com
@@ -2953,6 +2963,8 @@ winwhispers.info
 .witopia.net
 .wo.tc
 ||woeser.com
+wolfax.com
+||wolfax.com
 .womensrightsofchina.org
 ||womensrightsofchina.org
 .woopie.jp/video
@@ -3169,6 +3181,8 @@ zhonggtuotese.net
 ||zhongmeng.org
 .zhongxing9hao.net.cn
 ||zhreader.com
+zhuichaguoji.org
+||zhuichaguoji.org
 .ziddu.com/download
 zinio.com
 ||zinio.com
