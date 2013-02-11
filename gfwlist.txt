@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: lP9eD1kdFwNM2Nxr+dA8CQ
+! Checksum: gK1W8X7a0EZpsvOHUl8mng
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 10:37:16 -0500
+! Last Modified: Mon, 11 Feb 2013 11:19:26 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -534,6 +534,7 @@ doubleaf.com
 dowei.org
 ||doxygen.org
 dphk.org
+dpp.org.tw
 ||dpp.org.tw
 ||weigegebyc.dreamhosters.com
 .dropbox.com
@@ -832,25 +833,12 @@ guancha.org
 .appspot.com
 ||appspot.com
 /^https?:\/\/[^\/]+appspot\.com/
-!-bullog4cn.appspot.com
-!-chnshot.appspot.com
-!-go2china8.appspot.com
-!-meme2028.appspot.com
-!-nest.appspot.com
-!-proxypy.appspot.com
-!-squall0629.appspot.com
-!-twitese.appspot.com
-!-twitter-mirror.appspot.com
-!-twittergadget.appspot.com
-!-waterzeong.appspot.com
 
-
-!-------------Google Code-----
+!--------------------Google Code--------------------
 code.google.com/p/gappproxy
 code.google.com/p/gaeproxy
 code.google.com/p/west-chamber-season-3
 code.google.com/p/icefox
-code.google.com/p/autoproxy/updates/list
 code.google.com/p/breakwall
 code.google.com/p/program-think/wiki/Software
 code.google.com/p/scholarzhang
@@ -2857,6 +2845,13 @@ tw.voa.mobi
 .voachineseblog.com
 ||voachineseblog.com
 !--voachineseblog.com/heqinglian
+voagd.com
+voacantonese.com
+||voacantonese.com
+voachinese.com
+||voachinese.com
+voatibetan.com
+||voatibetan.com
 voanews.com/chinese
 .vot.org
 www.voy.com
