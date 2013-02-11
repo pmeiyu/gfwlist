@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: NAK5081ZFlbkLKRY+/kdxg
+! Checksum: tjI5Lw21+I8srlki3Obyzg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 11:23:18 -0500
+! Last Modified: Mon, 11 Feb 2013 11:40:50 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -168,6 +168,8 @@ badoo.com
 ||baidu.jp
 hen.bao.li
 ||barnabu.co.uk
+bayvoice.net
+||bayvoice.net
 dajusha.baywords.com
 .bbc.co.uk/chinese
 .bbc.co.uk/tv
@@ -675,6 +677,7 @@ flickr.com/photos/vanvan/529925157
 
 flickrhivemind.net
 yuming.flnet.org
+|http://cn.fmnnow.com
 blog.foolsmountain.com
 www.forum4hk.com
 pioneer-worker.forums-free.com
@@ -1440,6 +1443,8 @@ t.huhaitai.com
 !--------------------II--------------------
 ||i2p2.de/
 ||i2runner.com
+iask.ca
+||iask.ca
 ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 blogs.icerocket.com/tag
@@ -1788,6 +1793,7 @@ mysinablog.com
 !--viewmorepics.myspace.com
 
 !--------------------NN--------------------
+||naacoalition.org
 old.nabble.com
 ||naitik.net
 ||namsisi.com
@@ -2292,6 +2298,8 @@ home.so-net.net.tw/yisa_tsai
 ||soc.mil/
 .sod.co.jp
 ||sogclub.com
+sohcradio.com
+||sohcradio.com
 ||www.somee.com
 ||sorting-algorithms.com
 .soumo.info
@@ -2307,6 +2315,8 @@ sneakme.net
 socialwhale.com
 ||softwarebychuck.com
 blog.sogoo.org
+sohfrance.org
+||sohfrance.org
 chinese.soifind.com
 sokamonline.com
 .songjianjun.com
@@ -2314,8 +2324,8 @@ sokamonline.com
 .sopcast.com
 soundofhope.org
 ||soupofmedia.com
-.sourceforge.net
-|http://sourceforge.net
+!-.sourceforge.net
+!-|http://sourceforge.net
 !-sourceforge.net/projects/portabletor/files/
 sowers.org.hk
 ||wlx.sowiki.net
@@ -2787,8 +2797,10 @@ humanities.uchicago.edu/faculty/ywang/hi
 .ueuo.com
 uighurbiz.net
 .ulike.net
-||ultravpn.fr
-.ultrevpn.fr
+ukliferadio.co.uk
+||ukliferadio.co.uk
+ultravpn.fr
+||ultrevpn.fr
 ultraxs.com
 uncyclomedia.org
 uncyclopedia.info
