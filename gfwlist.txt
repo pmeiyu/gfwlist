@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: aiVpTWE3sIaOUZ47dqZyag
+! Checksum: tVj7DVokqZbsDb5tVnC4IA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 00:58:53 -0500
+! Last Modified: Mon, 11 Feb 2013 01:06:56 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num--------------------
@@ -2780,11 +2780,12 @@ twitter.fishnote.net
 tuite.in
 tuite.im
 ||tuite.im
+||twimg.com
 
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
 humanities.uchicago.edu/faculty/ywang/hi
-|http://udn.com
+||udn.com
 .udn.com
 !-album.udn.com
 !-blog.udn.com
