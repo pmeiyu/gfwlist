@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: GjM3AeFlm9yW0/VrXj9yhg
+! Checksum: /Yp3PelgMwJexhOsSW7hdg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Sun, 10 Feb 2013 21:28:28 -0500
+! Last Modified: Sun, 10 Feb 2013 21:44:38 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Num----------------------------
@@ -3084,6 +3084,7 @@ video.yahoo.com
 ||yahoo.com.hk
 yam.com
 ||yam.com
+||yasukuni.or.jp
 .ydy.com
 ||yeelou.com
 yeeyi.com
@@ -3139,8 +3140,8 @@ yx51.net
 !--------------------------ZZ--------------------------
 ||zannel.com
 ||tap11.com
-.zaobao.com
-|http://zaobao.com
+.zaobao.com.sg
+||zaobao.com.sg
 !--luntan.zaobao.com
 !--.zaobao.com/special/china/cnpol/pages2
 !--.zaobao.com/special/sitemap
