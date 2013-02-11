@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: jsbJrBttpjNWeD3E6KT0Bg
+! Checksum: PHaBNGN1jG2nz4Hru8ft7Q
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 11:52:20 -0500
+! Last Modified: Mon, 11 Feb 2013 11:55:09 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -138,8 +138,6 @@ www.aolnews.com
 .asahichinese.com
 ||asahichinese.com
 asdfg.jp/dabr
-asiademo.org
-||asiademo.org
 .asiaharvest.org
 ||asiaharvest.org
 asianews.it
@@ -2253,6 +2251,8 @@ shapeservices.com
 ||shaunthesheep.com
 shenshou.org
 shenyunperformingarts.org
+shenzhoufilm.com
+||shenzhoufilm.com
 shinychan.com
 ||shixiao.org
 ||shizhao.org
@@ -2268,7 +2268,7 @@ blog.sina.com.tw
 dailynews.sina.com/
 dailynews.sina.com%2F
 forum.sina.com.hk
-home.sina.com/
+home.sina.com
 ||magazines.sina.com.tw
 news.sina.com.hk
 news.sina.com.tw
