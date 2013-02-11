@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: gK1W8X7a0EZpsvOHUl8mng
+! Checksum: NAK5081ZFlbkLKRY+/kdxg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 11:19:26 -0500
+! Last Modified: Mon, 11 Feb 2013 11:23:18 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -1155,11 +1155,12 @@ google*search*q=cache
 .google.*Tiananmen
 .google.*Tibetan*independence
 !--Bei Guo Zhi Chun
-.google*search*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
+.google.*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
 !--Da Lai La Ma
-.google.com*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
+.google.*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Dai Li/Proxy
-*.google.com*%E4%BB%A3%E7%90%86
+.google.*%E4%BB%A3%E7%90%86
+!--Facebook
 .google.*facebook
 !--Fan Qiang
 .google.*%E7%BF%BB%E5%A2%99
@@ -1208,15 +1209,15 @@ google*search*q=cache
 !--Mo Li
 .google.*%E8%8C%89%E8%8E%89
 !--Na Mi Bi Ya
-.google.com*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
+.google.*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Nuo Bei Er He Ping Jiang / Nobel Peace Prize
 .google.*%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96
 !--Namibia + Nuctech
 .google.com*search*namibia*nuctech
 !--Po Hai
-.google.com*%E8%BF%AB%E5%AE%B3
+.google.*%E8%BF%AB%E5%AE%B3
 !--Qian Shi Jin Sheng
-.google.com*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
+.google.*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Ri Ji
 .google.*%E6%97%A5%E8%AE%B0
 !--San Tui
@@ -1226,9 +1227,9 @@ google*search*q=cache
 !--Tan Zuo Ren
 .google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men
-google.com*search*q*%E5%A4%A9%E5%AE%89%E9%97%A8
+google.*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tian Mie
-.google.*q=%E5%A4%A9%E7%81%AD
+.google.*%E5%A4%A9%E7%81%AD
 !--Tu Ni Si
 .google.*%E7%AA%81%E5%B0%BC%E6%96%AF
 .google.*twitter
