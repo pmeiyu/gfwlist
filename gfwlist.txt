@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: myNAfHoHZEoUxALXbV715Q
+! Checksum: xP2PSP9Eh05xxbMg7Tvwqw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 19:54:07 -0500
+! Last Modified: Mon, 11 Feb 2013 20:28:04 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -604,6 +604,8 @@ eventful.com
 ||blog.exblog.co.jp
 @@||www.exblog.jp
 ||exploader.net
+eyevio.jp
+||eyevio.jp
 eyny.com
 .ezpc.tk/category/soft
 .ezpeer.com
@@ -2963,7 +2965,10 @@ wolfax.com
 ||wolfax.com
 .womensrightsofchina.org
 ||womensrightsofchina.org
-.woopie.jp/video
+woopie.jp
+||woopie.jp
+woopie.tv
+||woopie.tv
 worldjournal.com
 
 !-------------Wordpress Blog-----
