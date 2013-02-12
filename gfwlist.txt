@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: khcGr1Ac7A/bIqLt3zuQ7A
+! Checksum: MjuQuRWE+uakW5MvUFsQAg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 12 Feb 2013 02:08:09 -0500
+! Last Modified: Tue, 12 Feb 2013 04:51:54 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -169,6 +169,8 @@ backchina.com
 badoo.com
 ||baidu.jp
 hen.bao.li
+bannedbook.org
+||bannedbook.org
 ||barnabu.co.uk
 bayvoice.net
 ||bayvoice.net
@@ -2118,6 +2120,7 @@ pwned.com
 qixianglu.cn
 bbs.qmzdd.com
 .qkshare.com
+qoos.com
 ||qoos.com
 blog.qooza.hk*dafengqixi
 ||efksoft.com
@@ -3193,6 +3196,8 @@ www.zaurus.org.uk
 ||zeutch.com
 .zhanbin.net
 ||zhanbin.net
+zhenlibu.info
+||zhenlibu.info
 .zhinengluyou.com
 zhonggtuotese.net
 ||zhongmeng.org
