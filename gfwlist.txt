@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: yC+p730qfu51OpAA8CNrxA
+! Checksum: rPwCTN48I2A9QyZDjtcafw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 12 Feb 2013 01:51:54 -0500
+! Last Modified: Tue, 12 Feb 2013 01:59:48 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -1605,6 +1605,8 @@ laomiu.com
 latelinenews.com
 ||leecheukyan.org
 ||lenwhite.com
+lerosua.org
+||lerosua.org
 blog.lester850.info
 .letscorp.net
 ||letscorp.net
@@ -2370,7 +2372,8 @@ cn2.streetvoice.com
 tw.streetvoice.com
 ||strongvpn.com
 .student.tw/db
-blog.sufeng.org
+sufeng.org
+||sufeng.org
 .sugarsync.com
 ||sugarsync.com
 t.sunxun.info/login.php
@@ -3074,6 +3077,8 @@ xinsheng.net
 xinshijue.com
 xinhuanet.org
 xizang-zhiye.org
+xjp.cc
+||xjp.cc
 ||xml-training-guide.com
 xmovies.com
 ||xpud.org
