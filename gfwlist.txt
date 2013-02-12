@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MjuQuRWE+uakW5MvUFsQAg
+! Checksum: IRJ8kenIp98wgXP9EiHYNQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 12 Feb 2013 04:51:54 -0500
+! Last Modified: Tue, 12 Feb 2013 05:59:15 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -311,6 +311,8 @@ caochangqing.com
 ||caochangqing.com
 .catholic.org.hk
 ||catholic.org.hk
+catholic.org.tw
+||catholic.org.tw
 ||ccavtop10.com
 !-.ccc.de
 !-||ccc.de
@@ -460,6 +462,8 @@ csdparty.com
 .cuiweiping.net
 ||cuiweiping.net
 ||curvefish.com
+.culture.tw
+||culture.tw
 forum.cyberctm.com/forum
 ||cyberghostvpn.com
 ||cynscribe.com
@@ -1332,6 +1336,8 @@ anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
 .googlevideo.com
+gospelherald.com
+||gospelherald.com
 greatfire.org
 greatfirewallofchina.org
 ||gstatic.com
