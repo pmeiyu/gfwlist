@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: b/TC7WGAjlp/bFhef3sZEA
+! Checksum: QgJWFw7awFoTdL8pltZGbA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 21:19:12 -0500
+! Last Modified: Mon, 11 Feb 2013 21:29:02 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -2853,6 +2853,8 @@ veoh.com
 .verizon.net
 ||verybs.com
 .vft.com.tw
+videobam.com
+||videobam.com
 .videomo.com
 ||vidoemo.com
 ||viki.com
