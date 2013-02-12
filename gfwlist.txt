@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: xP2PSP9Eh05xxbMg7Tvwqw
+! Checksum: yNHTTcatOx8JECOkiVaxfw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 20:28:04 -0500
+! Last Modified: Mon, 11 Feb 2013 20:59:59 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -1925,8 +1925,6 @@ m.oulove.org
 ||ourdearamy.com
 oursogo.com
 share.ovi.com/media
-.ow.ly
-|http://ow.ly
 |http://owl.li
 |http://ht.ly
 |http://htl.li
@@ -1934,6 +1932,7 @@ share.ovi.com/media
 www.owind.com
 |http://www.oxid.it
 .ozchinese.com/bbs
+||ow.ly
 bbs.ozchinese.com
 
 !--------------------PP--------------------
@@ -2478,6 +2477,7 @@ tibetfund.org
 togetter.com
 .tokyo-247.com
 tokyo-hot.com
+||tokyocn.com
 tonyyan.net
 .toodoc.com
 toonel.net
