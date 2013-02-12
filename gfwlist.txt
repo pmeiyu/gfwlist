@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: NvzbmZmxTHqaqXSImln3iA
+! Checksum: yC+p730qfu51OpAA8CNrxA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 22:49:27 -0500
+! Last Modified: Tue, 12 Feb 2013 01:51:54 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -3191,6 +3191,7 @@ zhonggtuotese.net
 zhuichaguoji.org
 ||zhuichaguoji.org
 .ziddu.com/download
+||zillionk.com
 zinio.com
 ||zinio.com
 .zkaip.com
