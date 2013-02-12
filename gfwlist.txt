@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: QgJWFw7awFoTdL8pltZGbA
+! Checksum: NvzbmZmxTHqaqXSImln3iA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 21:29:02 -0500
+! Last Modified: Mon, 11 Feb 2013 22:49:27 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -697,7 +697,7 @@ footwiball.com
 ||fourthinternational.org
 ||foxdie.us
 ||foxsub.com
-.foxtang.com
+foxtang.com
 ||franklc.com
 .freakshare.com
 |http://freakshare.com
@@ -3081,6 +3081,9 @@ xmovies.com
 blog.xuite.net
 vlog.xuite.net
 xuzhiyong.net
+||xuchao.org
+xuchao.net
+||xuchao.net
 xvedios.com
 .xvideos.com
 .xxbbx.com
