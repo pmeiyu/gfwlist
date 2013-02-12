@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: PHaBNGN1jG2nz4Hru8ft7Q
+! Checksum: myNAfHoHZEoUxALXbV715Q
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Mon, 11 Feb 2013 11:55:09 -0500
+! Last Modified: Mon, 11 Feb 2013 19:54:07 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -1848,10 +1848,6 @@ tw*.nextmedia.com
 .nexttv.com.tw
 ngensis.com
 ||ngs2.info
-.nicovideo.jp
-||nicovideo.jp
-!--||blog.nicovideo,jp
-!--tw.nicovideo.jp
 nicovideo.tw
 ||nighost.org
 nintendium.com
