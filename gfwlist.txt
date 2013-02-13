@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: f3u/iFTNCHTQw3FKje3AAw
+! Checksum: Hrsh9gH/jKl29OVeLVzNZQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 12 Feb 2013 19:58:05 -0500
+! Last Modified: Tue, 12 Feb 2013 20:55:48 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -550,6 +550,7 @@ dphk.org
 dpp.org.tw
 ||dpp.org.tw
 ||weigegebyc.dreamhosters.com
+||drgan.net
 .dropbox.com
 ||dtiblog.com
 dtiserv2.com
