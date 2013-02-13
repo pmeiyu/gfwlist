@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: nyAIpPDUdvJoGtljvezW9w
+! Checksum: QjWDJXpgNy5oE9xU++dsGA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 04:42:30 -0500
+! Last Modified: Wed, 13 Feb 2013 05:30:39 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -1524,6 +1524,8 @@ immigration.gov.tw
 internetdefenseleague.org
 internetfreedom.org
 ||internetpopculture.com
+inxian.com
+||inxian.com
 ||iphonehacks.com
 ||iphonix.fr
 ||ipicture.ru
@@ -1741,6 +1743,7 @@ mashable.com
 ||matainja.com
 ||mathiew-badimon.com
 mayimayi.com
+mcfog.com
 .md-t.org
 ||md-t.org
 .mediafire.com/?
