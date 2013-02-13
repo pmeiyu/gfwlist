@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: lfQnNENlcRR0tINIwQElkg
+! Checksum: MeEEK9ZVaLuLd4+zorDamg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 03:53:52 -0500
+! Last Modified: Wed, 13 Feb 2013 04:08:32 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -242,6 +242,7 @@ blogimg.jp
 ||bloglines.com
 rconversation.blogs.com
 blogspot.com
+||blogspot.com
 blogtd.net
 .blogtd.org
 |http://blogtd.org
@@ -416,6 +417,7 @@ chuizi.net
 ||chrispederick.net
 ||allaboutalpha.com
 .citizenlab.org
+citizensradio.org
 city9x.com
 .civicparty.hk
 ||civicparty.hk
@@ -870,7 +872,8 @@ code.google.com/p/twitese
 code.google.com/p/twip
 code.google.com/p/goagent
 code.google.com/p/huhamhire-hosts
-autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
+|http://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
+|https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
 gfwinterceptor.googlecode.com
 goagent.googlecode.com
 gtap.googlecode.com
