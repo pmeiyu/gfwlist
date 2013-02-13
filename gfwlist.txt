@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: x7lXxuMLfwLbqewnCIqAIQ
+! Checksum: nyAIpPDUdvJoGtljvezW9w
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 04:36:30 -0500
+! Last Modified: Wed, 13 Feb 2013 04:42:30 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -312,6 +312,7 @@ canadameet.com
 .cao.im
 .caobian.info
 ||caobian.info
+|http://catcatbox.com/forum.php*
 caochangqing.com
 ||caochangqing.com
 .catholic.org.hk
@@ -1609,6 +1610,8 @@ wiki.keso.cn/Home
 bbs.kimy.com.tw
 kinghost.com
 .kingstone.com.tw
+killwall.com
+||killwall.com
 .knowledgerush.com/kr/encyclopedia
 ||kodingen.com
 @@||www.kodingen.com
