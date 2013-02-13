@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: QjWDJXpgNy5oE9xU++dsGA
+! Checksum: 3skoimSHdsTRYCZdEPnRkw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 05:30:39 -0500
+! Last Modified: Wed, 13 Feb 2013 06:38:25 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -728,6 +728,7 @@ kineox.free.fr
 .free-vpn.info/mrzhang
 whitebear.freebearblog.org
 freeciv.org
+.freechal.com
 .freedomhouse.org
 ||freedomhouse.org
 .freegao.com
@@ -1759,6 +1760,7 @@ memedia.cn
 .mesotw.com/bbs
 .metacafe.com
 ||meteorshowersonline.com
+mgoon.com
 mhradio.org
 ||michaelmarketl.com
 middle-way.net
@@ -2391,6 +2393,7 @@ sokamonline.com
 soundofhope.org
 ||soundofhope.org
 ||soupofmedia.com
+|http://retroshare.sourceforge.net
 !-.sourceforge.net
 !-|http://sourceforge.net
 !-sourceforge.net/projects/portabletor/files/
@@ -3079,11 +3082,6 @@ worldjournal.com
 !-||blog.wakoopa.com
 !-||wattsupwiththat.com
 !-||webmink.com
-!-caiting666.wordpress.com
-!-rfaunplugged.wordpress.com
-!-en.wordpress.com/tag
-!-zh-cn.wordpress.com
-!-zh-sg.wordpress.com
 !-zhenxiang.wordpress.com
 .wordpress.com
 ||wordpress.com
