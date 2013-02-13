@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: KNfav/6tMBiFUe4jvISWpA
+! Checksum: pdkjRvvMoKFjacSf+SgmLQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 12 Feb 2013 18:49:11 -0500
+! Last Modified: Tue, 12 Feb 2013 19:36:34 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -132,6 +132,8 @@ video.aol.com
 www.aolnews.com
 .apigee.com
 ||apigee.com
+appledaily.com
+||appledaily.com
 appledaily.com.tw
 !--.archive.org
 !--||archive.org
@@ -1342,6 +1344,8 @@ gospelherald.com
 greatfire.org
 greatfirewallofchina.org
 ||gstatic.com
+guishan.org
+||guishan.org
 
 !--------------------HH--------------------
 ||h-china.org
