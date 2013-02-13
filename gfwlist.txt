@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: HzdiHPmz4cD0CDXdlsy32Q
+! Checksum: vW3+nVXNf8nEGNVwf7MAAg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 02:48:38 -0500
+! Last Modified: Wed, 13 Feb 2013 03:33:51 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -698,7 +698,7 @@ yuming.flnet.org
 blog.foolsmountain.com
 www.forum4hk.com
 pioneer-worker.forums-free.com
-foursquare.com
+!--foursquare.com
 |http://4sq.com
 ||fotop.net
 video.foxbusiness.com
@@ -870,7 +870,9 @@ code.google.com/p/goagent
 code.google.com/p/huhamhire-hosts
 autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
 gfwinterceptor.googlecode.com
+goagent.googlecode.com
 gtap.googlecode.com
+sshtunnel.googlecode.com
 tuite.googlecode.com
 gaeproxy.googlecode.com
 
@@ -1403,7 +1405,6 @@ hellotxt.com
 ||views.fm
 
 heqinglian.net
-
 ||heungkongdiscuss.com
 app.heywire.com
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -1579,6 +1580,8 @@ t.jteet.com
 !--.justin.tv
 zh-tw.justin.tv
 justtristan.com
+juziyue.com
+||juziyue.com
 ||jwmusic.org
 @@||music.jwmusic.org
 .jyxf.net
@@ -3202,6 +3205,8 @@ youtu.be
 !--/^https?:\/\/[^\/]+youtube\.com/
 .youtube-nocookie.com
 .youtubecn.com
+youversion.com
+||youversion.com
 blog.youxu.info/2010/03/14/west-chamber
 !-Youtube CDN
 ||ytimg.com
@@ -3216,11 +3221,6 @@ yx51.net
 ||tap11.com
 .zaobao.com.sg
 ||zaobao.com.sg
-!--luntan.zaobao.com
-!--.zaobao.com/special/china/cnpol/pages2
-!--.zaobao.com/special/sitemap
-!--.zaobao.com.sg
-!--||zaobao.com.sg
 .zaozon.com
 ||zarias.com
 www.zaurus.org.uk
