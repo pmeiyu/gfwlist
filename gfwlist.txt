@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: P7rwdPP176MwW9OQjJV7lg
+! Checksum: x7lXxuMLfwLbqewnCIqAIQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 04:20:13 -0500
+! Last Modified: Wed, 13 Feb 2013 04:36:30 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -155,6 +155,7 @@ asianews.it
 ||astonmartinnews.com
 .atchinese.com
 |http://atchinese.com
+atgfw.org
 ||atj.org.tw
 .atlaspost.com
 ||atlaspost.com
@@ -1667,6 +1668,8 @@ liuxiaotong.com
 ||liuxiaotong.com
 liu.lu
 .livestation.com
+livestream.com
+||livestream.com
 ||livingonline.us
 
 !-------------live spaces-----
@@ -1920,6 +1923,7 @@ forum.nownews.com
 ||nrk.no
 ||nsc.gov.tw
 ntdtv.com
+ntdtv.ca
 ||cbs.ntu.edu.tw
 ||nuexpo.com
 ||nurgo-software.com
