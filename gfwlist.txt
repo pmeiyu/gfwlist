@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MeEEK9ZVaLuLd4+zorDamg
+! Checksum: P7rwdPP176MwW9OQjJV7lg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 04:08:32 -0500
+! Last Modified: Wed, 13 Feb 2013 04:20:13 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -236,13 +236,13 @@ tor.blingblingsquad.net
 .blogcatalog.com
 ||blogcatalog.com
 .blogger.com
+||blogger.com
 blogimg.jp
 ||blog.kangye.org
 .bloglines.com
 ||bloglines.com
 rconversation.blogs.com
 blogspot.com
-||blogspot.com
 blogtd.net
 .blogtd.org
 |http://blogtd.org
@@ -251,13 +251,12 @@ blogtd.net
 ||bloomberg.cn
 .bloomberg.com
 ||bloomberg.com
-!--.bloomberg.com*pid=20601087
 ||bloomfortune.com
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
-boltbrowser.com/download
 ||books.com.tw
+.botanwang.com
 .bot.nu
 .bowenpress.com
 ||bowenpress.com
