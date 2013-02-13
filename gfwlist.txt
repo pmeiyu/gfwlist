@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 3EfxhegANn/fZJB4BmS12A
+! Checksum: 7vrOuthc7SSEzMBl3t9Y+g
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 06:46:12 -0500
+! Last Modified: Wed, 13 Feb 2013 07:08:36 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -3259,6 +3259,7 @@ zinio.com
 .zkaip.com
 ||zkaip.com
 ||zlib.net/
+zomobo.net
 .zonaeuropa.com
 ||zonaeuropa.com
 .zoozle.net
