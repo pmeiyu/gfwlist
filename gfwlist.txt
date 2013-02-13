@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: vW3+nVXNf8nEGNVwf7MAAg
+! Checksum: lfQnNENlcRR0tINIwQElkg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 03:33:51 -0500
+! Last Modified: Wed, 13 Feb 2013 03:53:52 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -588,6 +588,7 @@ e-info.org.tw
 .easy-share.com/191
 hkjp.easyweb.hk
 ebookee.com
+ecministry.net
 bbs.ecstart.com
 edoors.com
 .edubridge.com
@@ -823,6 +824,7 @@ gongminliliang.com
 .goodreaders.com
 ||goodreaders.com
 ||goofind.com
+||googleusercontent.com
 .googlesile.com
 .gopetition.com
 ||gopetition.com
@@ -1692,6 +1694,7 @@ zhllg.spaces.live.com
 ||livevideo.com
 .livevideo.com
 lizhizhuangbi.com
+lkcn.net
 ||lockdown.com
 logbot.net
 ||logmike.com
@@ -1753,6 +1756,7 @@ mihua.org
 .mimivip.com
 minghui.org
 ||minghui.org
+mingjingnews.com
 mingpao.com
 .mingpaomonthly.com
 mingpaonews.com
@@ -1799,6 +1803,7 @@ news.msn.com.tw
 .msguancha.com
 ||mthruf.com
 ||multiply.com
+multiproxy.org
 forum.mymaji.com
 multiupload.com
 ||muouju.com
@@ -2007,6 +2012,7 @@ pbwiki.com
 ||pbxes.com
 ||pbxes.org
 .pcdiscuss.com
+pcdvd.com.tw
 blog.pchome.com.tw
 ||blog.pchome.com.tw
 forum.pchome.com.tw
