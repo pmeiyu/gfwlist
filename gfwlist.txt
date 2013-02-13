@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 44ugCDEPLEf2Hc+ubNnaNw
+! Checksum: f3u/iFTNCHTQw3FKje3AAw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 12 Feb 2013 19:46:32 -0500
+! Last Modified: Tue, 12 Feb 2013 19:58:05 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -3073,6 +3073,7 @@ wukangrui.net
 wzyboy.im/post/160
 
 !--------------------------XX--------------------------
+||x-wall.org
 x1949x.com
 x365x.com
 .xbookcn.com
