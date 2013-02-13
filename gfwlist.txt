@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 3skoimSHdsTRYCZdEPnRkw
+! Checksum: 3EfxhegANn/fZJB4BmS12A
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 06:38:25 -0500
+! Last Modified: Wed, 13 Feb 2013 06:46:12 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -727,7 +727,6 @@ kineox.free.fr
 ||puttycm.free.fr
 .free-vpn.info/mrzhang
 whitebear.freebearblog.org
-freeciv.org
 .freechal.com
 .freedomhouse.org
 ||freedomhouse.org
@@ -2868,13 +2867,12 @@ humanities.uchicago.edu/faculty/ywang/hi
 !-city.udn.com
 !-dignews.udn.com/forum/
 !-forum.udn.com
-.ueuo.com
 uighurbiz.net
 .ulike.net
 ukliferadio.co.uk
 ||ukliferadio.co.uk
 ultravpn.fr
-||ultrevpn.fr
+||ultravpn.fr
 ultraxs.com
 uncyclomedia.org
 uncyclopedia.info
