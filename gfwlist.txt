@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: pdkjRvvMoKFjacSf+SgmLQ
+! Checksum: 44ugCDEPLEf2Hc+ubNnaNw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 12 Feb 2013 19:36:34 -0500
+! Last Modified: Tue, 12 Feb 2013 19:46:32 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -2868,6 +2868,7 @@ v70.us
 ||value-domain.com
 .vanemu.cn
 .vanilla-jp.com
+vansky.com
 ||vapurl.com
 ||vcf-online.org
 ||vcfbuilder.org
@@ -2951,6 +2952,7 @@ wengewang.com
 wenxuecity.com
 .wenyunchao.com
 ||wenyunchao.com
+westca.com
 ||westca.com
 hkg.westkit.net
 www.wet123.com
