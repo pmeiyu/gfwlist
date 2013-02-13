@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Hrsh9gH/jKl29OVeLVzNZQ
+! Checksum: j+7YvcHZKuR9ZcN0jbVdgA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 12 Feb 2013 20:55:48 -0500
+! Last Modified: Wed, 13 Feb 2013 00:39:28 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -106,6 +106,7 @@ alliance.org.hk
 alwaysdata.com
 ||alwaysdata.com
 ||alwaysdata.net
+||am730.com.hk
 ameblo.jp
 ||ameblo.jp
 ||americangreencard.com
@@ -216,8 +217,7 @@ beijingspring.com
 |http://bit.ly
 .bitshare.com/files
 http://bitshare.com/files
-.bitsnoop.com
-|http://bitsnoop.com
+!-|http://bitsnoop.com
 bjzc.org
 ||bjzc.org/
 ||blackra1n.com
@@ -1158,6 +1158,7 @@ google*search*q=cache
 !-.google.*301
 .google.*search*8964
 .google.*gfw
+.google.*goagent
 .google.*great*firewall
 .google.*protest*1989
 .google.*search*Tankman
@@ -2264,6 +2265,8 @@ shapeservices.com
 .sharebee.com
 ||sharecool.org
 ||sharkdolphin.com
+sharpdaily.com.hk
+||sharpdaily.com.hk
 .shaunthesheep.com
 ||shaunthesheep.com
 shenshou.org
@@ -2292,6 +2295,8 @@ home.sina.com
 ||magazines.sina.com.tw
 news.sina.com.hk
 news.sina.com.tw
+singtao.com
+||singtao.com
 news.singtao.ca
 ||cdp.sinica.edu.tw
 .sinonet.ca
