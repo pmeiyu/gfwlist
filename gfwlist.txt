@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Fx7gzt81zV9AmAoCVB1PbQ
+! Checksum: HzdiHPmz4cD0CDXdlsy32Q
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 00:54:00 -0500
+! Last Modified: Wed, 13 Feb 2013 02:48:38 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -482,6 +482,7 @@ cl.d0z.net
 ||dabr.co.uk
 dabr.mobi
 ||dabr.mobi
+||dabr.me
 dadazim.com
 ||dadazim.com
 .dadi360.com
@@ -1400,6 +1401,8 @@ hellotxt.com
 ||tomayko.com
 ||twt.fm
 ||views.fm
+
+heqinglian.net
 
 ||heungkongdiscuss.com
 app.heywire.com
