@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: IRJ8kenIp98wgXP9EiHYNQ
+! Checksum: KNfav/6tMBiFUe4jvISWpA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Tue, 12 Feb 2013 05:59:15 -0500
+! Last Modified: Tue, 12 Feb 2013 18:49:11 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -132,6 +132,7 @@ video.aol.com
 www.aolnews.com
 .apigee.com
 ||apigee.com
+appledaily.com.tw
 !--.archive.org
 !--||archive.org
 .arctosia.com
