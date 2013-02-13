@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: j+7YvcHZKuR9ZcN0jbVdgA
+! Checksum: Fx7gzt81zV9AmAoCVB1PbQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 00:39:28 -0500
+! Last Modified: Wed, 13 Feb 2013 00:54:00 -0500
 !     ----http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -76,6 +76,7 @@ a5.com.ru
 ||aboluowang.com
 .aboutgfw.com
 ||acgkj.com
+actimes.com.au
 ||aculo.us
 ||addictedtocoffee.de
 adultfriendfinder.com
@@ -592,6 +593,7 @@ edoors.com
 ||edubridge.com
 !--.edubridge.com/erxiantang/library
 ||eevpn.com
+efcc.org.hk
 ||eic-av.com
 .eltondisney.com
 ||emacsblog.org
@@ -1428,6 +1430,7 @@ hkgolden.com
 .hkheadline.com/instantnews
 hkjc.com
 .hkjp.org
+hkptu.org
 .hkreporter.com
 ||hkreporter.com
 ||hkzone.org
@@ -1797,6 +1800,7 @@ multiupload.com
 ||muzi.net
 ||mx981.com
 forum.my903.com
+myactimes.com
 ||myaudiocast.com
 .myav.com.tw/bbs
 ||bbs.mychat.to
@@ -1822,6 +1826,8 @@ mysinablog.com
 old.nabble.com
 ||naitik.net
 ||namsisi.com
+nanyang.com
+||nanyang.com
 .nanyangpost.com
 ||nanyangpost.com
 ||naveensrinivasan.com
@@ -1936,6 +1942,8 @@ my.opera.com/dahema
 ||demo.opera-mini.net
 opnir.com/215/myentunnel-ssh-autoproxy-cross-gfw
 www.orchidbbs.com
+orientaldaily.com.my
+||orientaldaily.com.my
 ||orn.jp
 t.orzdream.com
 ||t.orzdream.com
@@ -2039,6 +2047,7 @@ blog.pilotmoon.com
 ||www.playboy.com
 plays.com.tw
 ||m.plixi.com
+plm.org.hk
 plurk.com
 ||plurk.com
 .plus28.com
@@ -2182,6 +2191,7 @@ revver.com
 .rfa.org
 .rfachina.com
 .rfamobile.org
+rferl.org
 .rfi.fr
 ||rfi.fr
 |http://rfi.my/
@@ -3760,6 +3770,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD
 zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%B0%91%E5%A4%A7%E6%9C%83
 !--Zhong Hua Min Guo Zhi Zang Li Shi
 zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%B2%BB%E8%97%8F%E6%AD%B7%E5%8F%B2
+!--Zhong Hua Min Guo Zong Tong Fu
+zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%BA%9C
 !--Zhong Hua Ren Min Gong He Guo Wang Luo Shen Cha
 zh.wikipedia.org*%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !--Zhong Wen Wei Ji Bai Ke
