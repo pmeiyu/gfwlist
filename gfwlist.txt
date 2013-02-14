@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: VmPIn3ylu30s6nIsiOvqbw
+! Checksum: 4FKsy/d2x7tQj/Z+YK9w4g
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 00:22:50 -0500
+! Last Modified: Thu, 14 Feb 2013 00:40:48 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -402,6 +402,7 @@ christianstudy.com
 ||christianstudy.com
 christusrex.org/www1/sdc
 ||chrlcg-hk.org
+chubun.com
 chuizi.net
 ||chuizi.net
 !--same ip
@@ -836,6 +837,7 @@ greatfirewall.biz
 gpass1.com
 great-firewall.com
 greatroc.org
+greatzhonghua.org
 .greenvpn.net
 ||greenvpn.net
 gs-discuss.com
@@ -1709,6 +1711,7 @@ logbot.net
 |http://lookatgame.com
 ||lookingglasstheatre.org
 ||lookpic.com
+hkreporter.loved.hk
 ||lrfz.com
 .lsd.org.hk
 ||lsd.org.hk
@@ -1751,6 +1754,7 @@ megavideo.com
 meirixiaochao.com
 ||melon-peach.com
 memedia.cn
+merit-times.com.tw
 .mesotw.com/bbs
 .metacafe.com
 ||meteorshowersonline.com
@@ -2393,6 +2397,7 @@ soundofhope.org
 !-.sourceforge.net
 !-|http://sourceforge.net
 !-sourceforge.net/projects/portabletor/files/
+southnews.com.tw
 sowers.org.hk
 ||wlx.sowiki.net
 ||space-scape.com
