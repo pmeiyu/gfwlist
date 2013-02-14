@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 4E4Vh/ibFzzGWkOEdnHk5A
+! Checksum: DVzUXIL+tfnffPvtlWPbcQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 00:58:23 -0500
+! Last Modified: Thu, 14 Feb 2013 01:20:41 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -1594,6 +1594,7 @@ t.jteet.com
 ||junauza.com
 .junefourth-20.net
 ||junefourth-20.net
+justfreevpn.com
 !--.justin.tv
 zh-tw.justin.tv
 justtristan.com
@@ -2262,7 +2263,7 @@ rutube.ru
 !-.rxhj.net
 !-||rxhj.net
 
-!-------------------------SS--------------------------
+!--------------------SS--------------------
 blog.s135.com/google_ssl
 ||s1heng.com
 sacom.hk
@@ -2884,6 +2885,7 @@ humanities.uchicago.edu/faculty/ywang/hi
 !-city.udn.com
 !-dignews.udn.com/forum/
 !-forum.udn.com
+ufreevpn.com
 uighurbiz.net
 .ulike.net
 ukliferadio.co.uk
@@ -3249,6 +3251,7 @@ yuanming.net
 yx51.net
 
 !--------------------------ZZ--------------------------
+zacebook.com
 ||zannel.com
 ||tap11.com
 .zaobao.com.sg
