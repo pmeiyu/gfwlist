@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: DVzUXIL+tfnffPvtlWPbcQ
+! Checksum: DHJVQbq8uyzfWo7s3yk4Lw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 01:20:41 -0500
+! Last Modified: Thu, 14 Feb 2013 01:22:06 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -2593,6 +2593,7 @@ trendsmap.com
 .truveo.com
 .tsemtulku.com
 tsquare.tv
+tsunagarumon.com
 .tsctv.net
 ||tt1069.net
 ||tttan.com
