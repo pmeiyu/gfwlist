@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 7vrOuthc7SSEzMBl3t9Y+g
+! Checksum: Z5QnDS8xg5XUwVFLAdFUQg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 07:08:36 -0500
-!     ----http://autoproxy-gfwlist.googlecode.com/
+! Last Modified: Wed, 13 Feb 2013 20:35:52 -0500
+! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
 itunes.apple.*285688934
@@ -2224,6 +2224,7 @@ rferl.org
 riku.me/
 .rlwlw.com
 ||rlwlw.com
+.rnw.nl
 robtex.com
 ||robustnessiskey.com
 ||rocmp.org
