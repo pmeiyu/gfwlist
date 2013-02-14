@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 6gaSM7trly6YyU1mDN4/Ag
+! Checksum: qFTn7udLomKmtjdzMvPHdQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 21:18:29 -0500
+! Last Modified: Wed, 13 Feb 2013 23:59:24 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -85,7 +85,6 @@ adultfriendfinder.com
 ||aenhancers.com
 aiph.net
 ||aiph.net
-||airodump.net
 .aisex.com
 ||ait.org.tw
 .aiweiweiblog.com
@@ -224,9 +223,6 @@ bjzc.org
 ||bjzc.org/
 ||blackra1n.com
 ||blogearth.org
-||limera1n.com
-||limesn0w.com
-||purplera1n.com
 tor.blingblingsquad.net
 .blinkx.com
 ||blinkx.com
@@ -274,7 +270,6 @@ boxun.com
 .breakingtweets.com
 ||breakingtweets.com
 .briefdream.com/%E7%B4%A0%E6%A3%BA
-||bkite.com
 brightkite.com
 ||brightkite.com
 brizzly.com
@@ -295,6 +290,7 @@ brucewang.net
 ||bugclub.org
 ||buugaa.com
 buzzurl.jp
+bwsj.hk
 holz.byethost8.com
 
 !--------------------CC--------------------
@@ -383,15 +379,7 @@ chinasocialdemocraticparty.com
 ||chinasocialdemocraticparty.com
 chinasoul.org
 ||chinasoul.org
-blog.chinatimes.com
-camera.chinatimes.com
-forum.chinatimes.com
-gb.chinatimes.com/gate/gb*2007Cti-News
-gb.chinatimes.com/gate/gb/news.chinatimes.com/focus
-.news.chinatimes.com
-|http://news.chinatimes.com
-!--news.chinatimes.com/2007Cti*0,4521,130505
-!--news.chinatimes.com/2007Cti/2007Cti-Rtn/2007Cti-Rtn-Content
+chinatimes.com
 chinatweeps.com
 chinaway.org
 .chinaworker.info
