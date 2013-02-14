@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: qFTn7udLomKmtjdzMvPHdQ
+! Checksum: VmPIn3ylu30s6nIsiOvqbw
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 23:59:24 -0500
+! Last Modified: Thu, 14 Feb 2013 00:22:50 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -274,6 +274,7 @@ brightkite.com
 ||brightkite.com
 brizzly.com
 ||brizzly.com
+broadbook.com
 ibros.org
 brucewang.net
 ||bt95.com
@@ -345,6 +346,7 @@ cdpwu.org
 .changp.com
 ||changp.com
 chengmingmag.com
+chenpokong.com
 ||cherrysave.com
 .china-week.com
 china101.com
@@ -387,6 +389,7 @@ chinaway.org
 chinayuanmin.org
 ||chinayuanmin.org
 .chinese-hermit.net
+chinese-memorial.org
 .chinesen.de
 ||chinesen.de
 chinesenewsnet.com
@@ -624,6 +627,8 @@ eyny.com
 @@||*v6.facebook.com
 ||connect.facebook.net
 .fakku.net
+falunart.org
+falundafamuseum.org
 .farxian.com
 ||fbcdn.net
 fanqiangyakexi.net
@@ -726,6 +731,7 @@ freeman2.com
 .freeopenvpn.com
 freemoren.com
 freemorenews.com
+freenewscn.com
 .freeoz.org/bbs
 ||www.bulbous.freeserve.co.uk
 ||freessh.us
@@ -1483,6 +1489,7 @@ forum.idsam.com
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
+ifjc.org
 cydia.ifuckgfw.com
 ||cydia.ifuckgfw.com
 ||antidrm.hpg.ig.com.br
@@ -2235,8 +2242,8 @@ rti.org.tw
 .rushbee.com
 rutube.ru
 .ruyiseek.com
-.rxhj.net
-||rxhj.net
+!-.rxhj.net
+!-||rxhj.net
 
 !-------------------------SS--------------------------
 blog.s135.com/google_ssl
@@ -2574,6 +2581,7 @@ bb.ttv.com.tw/bb
 .tuanzt.com
 .tube.com
 tuidang.net
+tuidang.org
 bbs.tuitui.info
 .tunein.com
 |http://tunein.com
@@ -3191,7 +3199,7 @@ forum.yorkbbs.ca
 .youjizz.com
 ||youjizz.com
 youmaker.com
-.youpai.org
+youpai.org
 ||youpai.org
 .your-freedom.net
 .yousendit.com
