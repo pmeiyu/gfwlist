@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: DHJVQbq8uyzfWo7s3yk4Lw
+! Checksum: 25i6mi1vtMKxTaAzwQYrcg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 01:22:06 -0500
+! Last Modified: Thu, 14 Feb 2013 09:34:59 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -3926,3 +3926,6 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 
 !-----IP-----
 174.142.105.153
+
+!-----Whitelist-----
+@@||baidu.com
