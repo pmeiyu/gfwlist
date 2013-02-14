@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Z5QnDS8xg5XUwVFLAdFUQg
+! Checksum: 6gaSM7trly6YyU1mDN4/Ag
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Wed, 13 Feb 2013 20:35:52 -0500
+! Last Modified: Wed, 13 Feb 2013 21:18:29 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -2224,7 +2224,8 @@ rferl.org
 riku.me/
 .rlwlw.com
 ||rlwlw.com
-.rnw.nl
+chinese.rnw.nl
+www.rnw.nl/chinese
 robtex.com
 ||robustnessiskey.com
 ||rocmp.org
