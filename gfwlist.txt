@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: 4FKsy/d2x7tQj/Z+YK9w4g
+! Checksum: 4E4Vh/ibFzzGWkOEdnHk5A
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 00:40:48 -0500
+! Last Modified: Thu, 14 Feb 2013 00:58:23 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -180,9 +180,9 @@ bannedbook.org
 bayvoice.net
 ||bayvoice.net
 dajusha.baywords.com
-.bbc.co.uk/chinese
+.bbc.co.uk*chinese
 .bbc.co.uk/tv
-.bbc.co.uk/zhongwen
+.bbc.co.uk*zhongwen
 news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
 .bbcchinese.com
@@ -312,6 +312,7 @@ canadameet.com
 |http://catcatbox.com/forum.php*
 caochangqing.com
 ||caochangqing.com
+cari.com.my
 .catholic.org.hk
 ||catholic.org.hk
 catholic.org.tw
@@ -601,10 +602,20 @@ efcc.org.hk
 chinese.engadget.com
 ||englishfromengland.co.uk
 ||entermap.com
+epochtimes-bg.com
+||epochtimes-bg.com
+epochtimes-romania.com
+||epochtimes-romania.com
+epochtimes.co.il
+||epochtimes.co.il
+epochtimes.co.kr
+||epochtimes.co.kr
 epochtimes.com
 ||epochtimes.com
 .epochtimes.ie
 ||epochtimes.ie
+epochtimes.jp
+||epochtimes.jp
 ||ernestmandel.org
 ||erights.net
 etaiwannews.com
@@ -1460,6 +1471,7 @@ hrichina.org
 .huanghuagang.org
 ||huanghuagang.org
 ||huaren.us
+huaxin.ph
 ||hugoroy.eu
 t.huhaitai.com
 .hulu.com
@@ -1628,6 +1640,7 @@ kwongwah.com.my
 
 !--------------------LL--------------------
 ladbrokes.com
+lagranepoca.com
 .lalulalu.com
 laogai.org
 ||laogai.org
@@ -2335,6 +2348,7 @@ singtao.com
 ||singtao.com
 news.singtao.ca
 ||cdp.sinica.edu.tw
+sino-monthly.com
 .sinonet.ca
 .sinopitt.info
 .sinoants.com
@@ -2971,6 +2985,7 @@ wallornot.org
 wanglixiong.com
 wangruoshui.net
 www.wangruowang.org
+want-daily.com
 wapedia.mobi/zhsimp
 .makzhou.warehouse333.com
 washeng.net
