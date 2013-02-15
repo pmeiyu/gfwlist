@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: BWJxMIfYPOS8g263GUJ++g
+! Checksum: RS6HKCxbhLaglydfxBKzkg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 20:36:51 -0500
+! Last Modified: Thu, 14 Feb 2013 23:26:36 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -483,6 +483,7 @@ dabr.mobi
 dadazim.com
 ||dadazim.com
 .dadi360.com
+dafagood.com
 .dailidaili.com
 ||dailidaili.com
 .dailymotion.com
@@ -744,6 +745,7 @@ freeman2.com
 .freeopenvpn.com
 freemoren.com
 freemorenews.com
+freenet-china.org
 freenewscn.com
 .freeoz.org/bbs
 ||www.bulbous.freeserve.co.uk
@@ -1867,7 +1869,6 @@ nanyang.com
 ||nanyang.com
 .nanyangpost.com
 ||nanyangpost.com
-||naveensrinivasan.com
 ||navicat.com
 .nakido.com
 ||nakido.com
@@ -1882,6 +1883,7 @@ www.ned.org
 ||nekoslovakia.net
 t.neolee.cn
 netcolony.com
+||netflix.com
 bolin.netfirms.com
 zh.netlog.com
 netme.cc
@@ -3931,6 +3933,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !-----Whitelist-----
 @@||baidu.com
 !--@@||bing.com
+@@||duckduckgo.com
 @@||jike.com
 @@||panguso.com
 @@||sina.cn
