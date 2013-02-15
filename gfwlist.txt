@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: b+h7PO99B2Q1JbXbRmOOBA
+! Checksum: BWJxMIfYPOS8g263GUJ++g
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 20:21:36 -0500
+! Last Modified: Thu, 14 Feb 2013 20:36:51 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -23,6 +23,7 @@ itunes.apple.*454439893
 ||0to255.com
 1-apple.com.tw
 ||1-apple.com.tw
+123rf.com
 .12bet.com
 ||12bet.com
 .12vpn.com
@@ -32,7 +33,7 @@ itunes.apple.*454439893
 ||173ng.com
 1984bbs.com
 ||1984bbs.com
-||1984blog.com
+!--||1984blog.com
 .1984bbs.org
 ||1984bbs.org
 .1bao.org
@@ -3931,6 +3932,9 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@||baidu.com
 !--@@||bing.com
 @@||jike.com
+@@||panguso.com
+@@||sina.cn
+@@||sina.com.cn
 @@||sogou.com
 @@||so.com
 @@||soso.com
