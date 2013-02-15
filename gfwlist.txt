@@ -1,14 +1,25 @@
 [AutoProxy gfwlist-General]
-! Checksum: 2fK1c4yX9bP3Q/NRBkD3Gg
+! Checksum: hbCXGQhCnxp95ylY29kB6A
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 15 Feb 2013 07:10:58 -0500
+! Last Modified: Fri, 15 Feb 2013 07:41:23 -0500
 ! HomePage: http://autoproxy-gfwlist.googlecode.com/
 
 ! ##############Contributor##############
 ! -----Christopher Meng(cickumqt)
 ! -----li.Rat2
 ! *Note*: If you have any issues or suggestions, please file a issue at project ! homepage.
+
+!#######################################################################
+
+!--------------------Restricted--------------------
+hulu.com
+huluim.com
+||netflix.com
+||pandora.com
+.pandora.tv
+||pandora.com
+.pandora.tv
 
 !--------------------iTunes--------------------
 itunes.apple.*285688934
@@ -1483,8 +1494,6 @@ hrichina.org
 huaxin.ph
 ||hugoroy.eu
 t.huhaitai.com
-hulu.com
-huluim.com
 ||hungerstrikeforaids.org
 ||huping.net
 ||hutianyi.net
@@ -1890,7 +1899,6 @@ www.ned.org
 ||nekoslovakia.net
 t.neolee.cn
 netcolony.com
-||netflix.com
 bolin.netfirms.com
 zh.netlog.com
 netme.cc
@@ -2019,8 +2027,6 @@ bbs.ozchinese.com
 !--------------------PP--------------------
 .pacificpoker.com
 .packetix.net
-||pandora.com
-.pandora.tv
 page2rss.com
 !--Godaddy Free Hosting
 ||paint.net
