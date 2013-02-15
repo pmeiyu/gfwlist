@@ -1,16 +1,8 @@
 [AutoProxy gfwlist-General]
-! Checksum: 7jIBE4aHnwtMJ1G/VyhqjQ
-! Checksum: 
+! Checksum: G/aNlzHvInGg+n9u6+8BQw
 ! Expires: 6h
-! Last Modified: Fri, 15 Feb 2013 07:59:27 -0500
-! HomePage: http://autoproxy-gfwlist.googlecode.com/
-
-! ##############Contributor##############
-! -----Christopher Meng(cickumqt)
-! -----li.Rat2
-! *Note*: If you have any issues or suggestions, please file a issue at project ! homepage.
-
-!#######################################################################
+! Last Modified: Sat, 16 Feb 2013 07:15:03 +0900
+! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
 hulu.com
