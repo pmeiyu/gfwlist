@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: RS6HKCxbhLaglydfxBKzkg
+! Checksum: l/IBZ4HcbJn+O7xubhuYbA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 23:26:36 -0500
+! Last Modified: Thu, 14 Feb 2013 23:32:49 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -1477,7 +1477,8 @@ hrichina.org
 huaxin.ph
 ||hugoroy.eu
 t.huhaitai.com
-.hulu.com
+hulu.com
+huluim.com
 ||hungerstrikeforaids.org
 ||huping.net
 ||hutianyi.net
