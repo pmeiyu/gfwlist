@@ -1,7 +1,7 @@
-[AutoProxy gfwlist-General]
-! Checksum: G/aNlzHvInGg+n9u6+8BQw
+[AutoProxy 0.2.9]
+! Checksum: 5/Sd9qaZs1q/fh/HhYagDQ
 ! Expires: 6h
-! Last Modified: Sat, 16 Feb 2013 07:15:03 +0900
+! Last Modified: Sat, 16 Feb 2013 07:17:59 +0900
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
