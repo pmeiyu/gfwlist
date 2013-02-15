@@ -1,9 +1,11 @@
 [AutoProxy 0.2.9]
-! Checksum: JcAmqIIFzGa+L93mV8MBtA
+! Checksum: COvXwxIF+DmrpFTnm2IENA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 15 Feb 2013 01:31:19 -0500
-! HomePage:http://autoproxy-gfwlist.googlecode.com/
+! Last Modified: Fri, 15 Feb 2013 01:51:19 -0500
+! HomePage: http://autoproxy-gfwlist.googlecode.com/
+! Committer: Christopher Meng(cicku.me)
+! *Note*: If you have any issues or suggestions, please file a issue at project ! homepage.
 
 !--------------------iTunes--------------------
 itunes.apple.*285688934
