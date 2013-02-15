@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: l/IBZ4HcbJn+O7xubhuYbA
+! Checksum: uSsbWjm6jBWeAwdhvp6yRA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 23:32:49 -0500
+! Last Modified: Fri, 15 Feb 2013 01:19:43 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -3115,6 +3115,7 @@ worldjournal.com
 !-||android.wordpress.org
 !-||ios.wordpress.org
 !-||wormsculptor.com
+woxinghuiguo.com
 !-||wp.me
 
 .wpoforum.com
@@ -3130,6 +3131,7 @@ wretch.cc
 wuerkaixi.com
 wufi.org.tw
 wujie.net
+wujieliulan.com
 wukangrui.net
 wzyboy.im/post/160
 
