@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: uSsbWjm6jBWeAwdhvp6yRA
+! Checksum: JcAmqIIFzGa+L93mV8MBtA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 15 Feb 2013 01:19:43 -0500
+! Last Modified: Fri, 15 Feb 2013 01:31:19 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -290,6 +290,7 @@ brucewang.net
 .businesstimes.com.cn
 |http://businesstimes.com.cn
 ||bugclub.org
+builtwithbootstrap.com
 ||buugaa.com
 buzzurl.jp
 bwsj.hk
