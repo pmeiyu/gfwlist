@@ -1,8 +1,8 @@
 [AutoProxy gfwlist-General]
-! Checksum: hbCXGQhCnxp95ylY29kB6A
+! Checksum: 7jIBE4aHnwtMJ1G/VyhqjQ
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 15 Feb 2013 07:41:23 -0500
+! Last Modified: Fri, 15 Feb 2013 07:59:27 -0500
 ! HomePage: http://autoproxy-gfwlist.googlecode.com/
 
 ! ##############Contributor##############
@@ -1210,6 +1210,8 @@ google*search*q=cache
 .google.*tbs%3Drltm
 .google.*Tiananmen
 .google.*Tibetan*independence
+.google.*twitter
+
 !--Bei Guo Zhi Chun
 .google.*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
 !--Da Lai La Ma
@@ -1288,7 +1290,6 @@ google.*%E5%A4%A9%E5%AE%89%E9%97%A8
 .google.*%E5%A4%A9%E7%81%AD
 !--Tu Ni Si
 .google.*%E7%AA%81%E5%B0%BC%E6%96%AF
-.google.*twitter
 !--Wang Yang
 .google.com*search*%E6%B1%AA%E6%96%AF
 !--Wo Mei You Di Ren
@@ -1305,6 +1306,8 @@ google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 .google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Ze Min
 .google.*%E6%B3%BD%E6%B0%91
+!--Zhang Gao Li
+.google.*%E5%BC%A0%E9%AB%98%E4%B8%BD
 !--Zhen Li Bu
 .google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
