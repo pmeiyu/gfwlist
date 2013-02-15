@@ -1,10 +1,13 @@
-[AutoProxy 0.2.9]
-! Checksum: rY9Xcr4b2HJu7YRSGe9zTA
+[AutoProxy gfwlist-General]
+! Checksum: 2fK1c4yX9bP3Q/NRBkD3Gg
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 15 Feb 2013 06:15:08 -0500
+! Last Modified: Fri, 15 Feb 2013 07:10:58 -0500
 ! HomePage: http://autoproxy-gfwlist.googlecode.com/
-! Committer: Christopher Meng(cicku.me)
+
+! ##############Contributor##############
+! -----Christopher Meng(cickumqt)
+! -----li.Rat2
 ! *Note*: If you have any issues or suggestions, please file a issue at project ! homepage.
 
 !--------------------iTunes--------------------
@@ -1971,13 +1974,18 @@ oizoblog.com
 old-cat.net
 ||olumpo.com
 omgili.com
-omnitalk.
+omnitalk.com
+forum.omy.sg
 news.omy.sg
+showbiz.omy.sg
 the-sun.on.cc
 .onlylady.cn
 .oopsforum.com
 open.com.hk
-||openid.com
+myopenid.com
+||myopenid.com
+openid.net
+||openid.net
 ||blog.openinkpot.org
 .openleaks.org
 ||openleaks.org
