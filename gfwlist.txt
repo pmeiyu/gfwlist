@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: yDSv4xqRQTly8Fe0N4tqXg
+! Checksum: b+h7PO99B2Q1JbXbRmOOBA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Thu, 14 Feb 2013 09:49:39 -0500
+! Last Modified: Thu, 14 Feb 2013 20:21:36 -0500
 ! HomePage:http://autoproxy-gfwlist.googlecode.com/
 
 !--------------------iTunes--------------------
@@ -3930,3 +3930,9 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !-----Whitelist-----
 @@||baidu.com
 !--@@||bing.com
+@@||jike.com
+@@||sogou.com
+@@||so.com
+@@||soso.com
+@@||yahoo.cn
+@@||youdao.com
