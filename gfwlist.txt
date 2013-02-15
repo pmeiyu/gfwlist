@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: COvXwxIF+DmrpFTnm2IENA
+! Checksum: rY9Xcr4b2HJu7YRSGe9zTA
 ! Checksum: 
 ! Expires: 6h
-! Last Modified: Fri, 15 Feb 2013 01:51:19 -0500
+! Last Modified: Fri, 15 Feb 2013 06:15:08 -0500
 ! HomePage: http://autoproxy-gfwlist.googlecode.com/
 ! Committer: Christopher Meng(cicku.me)
 ! *Note*: If you have any issues or suggestions, please file a issue at project ! homepage.
@@ -1972,6 +1972,7 @@ old-cat.net
 ||olumpo.com
 omgili.com
 omnitalk.
+news.omy.sg
 the-sun.on.cc
 .onlylady.cn
 .oopsforum.com
@@ -3264,6 +3265,7 @@ yx51.net
 zacebook.com
 ||zannel.com
 ||tap11.com
+luntan.zaobao.com
 .zaobao.com.sg
 ||zaobao.com.sg
 .zaozon.com
