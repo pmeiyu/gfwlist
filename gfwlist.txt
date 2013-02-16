@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5/Sd9qaZs1q/fh/HhYagDQ
+! Checksum: 1Z0RJZYTeCG+PQNKC4cnLg
 ! Expires: 6h
-! Last Modified: Sat, 16 Feb 2013 07:17:59 +0900
+! Last Modified: Fri, 15 Feb 2013 23:10:58 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -836,6 +836,8 @@ globalmuseumoncommunism.org
 ||globalvoicesonline.org
 gmbd.cn
 ||gmhz.org
+godfootsteps.org
+||godfootsteps.org
 ||goldwave.com
 gongmeng.info
 gongminliliang.com
@@ -1634,6 +1636,7 @@ kanzhongguo.com
 wiki.keso.cn/Home
 .khmusic.com.tw
 bbs.kimy.com.tw
+kingdomsalvation.org
 kinghost.com
 .kingstone.com.tw
 killwall.com
@@ -3960,3 +3963,4 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@||soso.com
 @@||yahoo.cn
 @@||youdao.com
+@@||zhongsou.com
