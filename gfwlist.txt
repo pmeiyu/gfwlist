@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5V+9H2fi0DW6RUCDb6xwKw
+! Checksum: 8FT6ZhbqoeWRK0VG+kodpg
 ! Expires: 6h
-! Last Modified: Sun, 17 Feb 2013 03:17:56 -0500
+! Last Modified: Sun, 17 Feb 2013 05:40:13 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1196,6 +1196,7 @@ google*search*q=cache
 .google.*goagent
 .google.*great*firewall
 .google.*protest*1989
+.google.*nytimes
 .google.*search*Tankman
 .google.*tbm=mbl
 .google.*tbm%3Dmbl
