@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: cjRfivzOu/Z9chsve0Yplw
+! Checksum: iZvg/tyNRkCDSmUQDVUaPg
 ! Expires: 6h
-! Last Modified: Sat, 16 Feb 2013 00:00:57 -0500
+! Last Modified: Sun, 17 Feb 2013 03:16:36 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -335,6 +335,8 @@ catholic.org.tw
 cclife.org
 .ccthere.com
 .cctongbao.com/article/2078732
+ccue.ca
+ccue.com
 cdjp.org
 ||cdjp.org/
 .cdnews.com.tw/cdnews_site/docDetail.jsp?
@@ -2372,10 +2374,12 @@ singtao.com
 news.singtao.ca
 ||cdp.sinica.edu.tw
 sino-monthly.com
+sinomontreal.ca
 .sinonet.ca
 .sinopitt.info
 .sinoants.com
 ||sinoants.com
+sinoquebec.com
 ||site90.net
 .sitebro.tw
 ||siteks.uk.to
@@ -2520,7 +2524,7 @@ tcno.net*doc*tor
 ||teamseesmic.com
 .teashark.com/download.html
 ||techlifeweb.com
-technorati.com
+!--technorati.com
 ||techparaiso.com
 ||teck.in/
 .telecomspace.com
