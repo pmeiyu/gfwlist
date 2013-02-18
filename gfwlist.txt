@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3KpD/L127QsTQWi16dktdw
+! Checksum: w/Y7AZdk016Xl2/6I61mbw
 ! Expires: 6h
-! Last Modified: Mon, 18 Feb 2013 00:52:30 -0500
+! Last Modified: Mon, 18 Feb 2013 00:58:20 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -131,6 +131,7 @@ analyze-v.com
 ||andfaraway.net
 ||anobii.com
 .anonymizer.com
+anontext.com
 ||anthonycalzadilla.com
 .antiwave.net
 |http://antiwave.net
@@ -2575,6 +2576,8 @@ tibetalk.com
 .tibetanyouthcongress.org
 ||tibetanyouthcongress.org
 tibetfund.org
+tibetonline.com
+||tibetonline.com
 ||tibetonline.tv
 .tibetonline.tv
 ||tibetwrites.org
