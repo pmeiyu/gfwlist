@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8FT6ZhbqoeWRK0VG+kodpg
+! Checksum: W3HD9XsWNs8ZXjoDIMrt4A
 ! Expires: 6h
-! Last Modified: Sun, 17 Feb 2013 05:40:13 -0500
+! Last Modified: Sun, 17 Feb 2013 22:04:30 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1844,6 +1844,7 @@ bbs.morbell.com
 ||www.moztw.org
 ||mp/
 ||mpettis.com
+mpfinance.com
 mpinews.com
 mrtweet.com
 ||mrtweet.com
