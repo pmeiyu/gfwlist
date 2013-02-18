@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: IzxJ66TrKWPfBXtmQ6Ir/g
+! Checksum: 3KpD/L127QsTQWi16dktdw
 ! Expires: 6h
-! Last Modified: Sun, 17 Feb 2013 23:41:01 -0500
+! Last Modified: Mon, 18 Feb 2013 00:52:30 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1498,6 +1498,7 @@ huaglad.com
 ||huaren.us
 huaxia-news.com
 huaxin.ph
+hua-yue.net
 ||hugoroy.eu
 t.huhaitai.com
 ||hungerstrikeforaids.org
