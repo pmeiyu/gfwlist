@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: w/Y7AZdk016Xl2/6I61mbw
+! Checksum: I83KLh8OAfm6LgCjPbDcnQ
 ! Expires: 6h
-! Last Modified: Mon, 18 Feb 2013 00:58:20 -0500
+! Last Modified: Mon, 18 Feb 2013 01:07:18 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -629,6 +629,8 @@ epochtimes.co.kr
 ||epochtimes.co.kr
 epochtimes.com
 ||epochtimes.com
+epochtimes.de
+||epochtimes.de
 .epochtimes.ie
 ||epochtimes.ie
 epochtimes.jp
