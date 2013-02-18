@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: W3HD9XsWNs8ZXjoDIMrt4A
+! Checksum: IzxJ66TrKWPfBXtmQ6Ir/g
 ! Expires: 6h
-! Last Modified: Sun, 17 Feb 2013 22:04:30 -0500
+! Last Modified: Sun, 17 Feb 2013 23:41:01 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -177,6 +177,7 @@ avaaz.org
 
 !--------------------BB--------------------
 forum.baby-kingdom.com
+babynet.com.hk
 backchina.com
 ||backchina.com
 .backpackers.com.tw/forum
@@ -257,6 +258,8 @@ blogtd.net
 ||bloomberg.cn
 .bloomberg.com
 ||bloomberg.com
+bloomberg.de
+||bloomberg.de
 ||bloomfortune.com
 ||bnrmetal.com
 boardreader.com/thread
