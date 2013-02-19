@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7Qedmf4PFzN9ZA+/vrqNKg
+! Checksum: 19vFNoKx92M8pXGNCqaRew
 ! Expires: 6h
-! Last Modified: Tue, 19 Feb 2013 04:02:15 -0500
+! Last Modified: Tue, 19 Feb 2013 04:25:34 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -51,6 +51,7 @@ itunes.apple.*454439893
 .2000fun.com/bbs
 .2008xianzhang.info
 ||2008xianzhang.info
+24smile.org
 .2shared.com
 .315lz.com
 ||36rain.com
@@ -129,6 +130,7 @@ amzs.me
 analyze-v.com
 ||anchorfree.com
 ||andfaraway.net
+animecrazy.net
 ||anobii.com
 .anonymizer.com
 anontext.com
@@ -473,6 +475,7 @@ creaders.net
 csdparty.com
 ||csdparty.com
 ||csuchen.de
+cts.com.tw
 .cuhkacs.org/~benng
 .cuihua.org
 ||cuihua.org
@@ -601,9 +604,11 @@ e-info.org.tw
 .e-traderland.net/board
 .easy-share.com/191
 hkjp.easyweb.hk
+ebookbrowse.com
 ebookee.com
 ecministry.net
 bbs.ecstart.com
+edicypages.com
 edoors.com
 .edubridge.com
 ||edubridge.com
@@ -805,6 +810,7 @@ gamebase.com.tw
 ||gamez.com.tw
 .gaoming.net
 ||gaoming.net
+ganges.com
 .gaopi.net
 |http://gaopi.net
 ||gappp.org
@@ -1714,6 +1720,7 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||linuxreviews.org
 linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lipuman.com
+listorious.com
 ||liudejun.com
 .liuhanyu.com
 .liujianshu.com
@@ -1837,6 +1844,7 @@ mirrorbooks.com
 mitbbs.com
 .mixero.com
 ||mixero.com
+mixpod.com
 .mixx.com
 ||mixx.com
 ||mizzmona.com
@@ -1858,6 +1866,7 @@ bbs.morbell.com
 ||movabletype.com
 ||moviefap.com
 ||www.moztw.org
+mp3ye.eu
 ||mp/
 ||mpettis.com
 mpfinance.com
@@ -1948,7 +1957,7 @@ newtalk.tw
 hk*.nextmedia.com
 tw*.nextmedia.com
 ||nexton-net.jp
-.nexttv.com.tw
+nexttv.com.tw
 ngensis.com
 ||ngs2.info
 nicovideo.tw
@@ -2012,6 +2021,7 @@ the-sun.on.cc
 .onlylady.cn
 .oopsforum.com
 open.com.hk
+opendemocracy.net
 myopenid.com
 ||myopenid.com
 openid.net
@@ -2042,6 +2052,7 @@ share.ovi.com/media
 |http://mash.to
 www.owind.com
 |http://www.oxid.it
+oyax.com
 .ozchinese.com/bbs
 ||ow.ly
 bbs.ozchinese.com
@@ -2062,7 +2073,7 @@ paper.li
 paperb.us
 .panluan.net
 ||panluan.net
-.panoramio.com/forum
+.panoramio.com
 .parade.com/dictators/2009
 pastebin.com
 .pastie.org
@@ -2195,6 +2206,7 @@ privatepaste.com
 ||privatepaste.com
 privatetunnel.com
 ||privatetunnel.com
+provideocoalition.com
 ||prosiben.de
 api.proxlet.com
 ||proxomitron.info
@@ -2322,6 +2334,7 @@ sandnoble.com/bookSearch/isbnInquiry.asp
 ||sankaizok.com
 .sanmin.com.tw
 sapikachu.net
+savemedia.com
 savetibet.org
 savevid.com
 ||say2.info
@@ -2499,12 +2512,12 @@ cn2.streetvoice.com
 tw.streetvoice.com
 ||strongvpn.com
 .student.tw/db
+stupidvideos.com
 sufeng.org
 ||sufeng.org
 .sugarsync.com
 ||sugarsync.com
-t.sunxun.info/login.php
-superfreevpn.com
+summify.com
 api.supertweet.net
 www.supertweet.net
 support/youtube/bin/request.py?contact_type=abuse&
@@ -2599,6 +2612,7 @@ tibetonline.com
 .time.com/time/time100/leaders/profile/rebel
 .time.com/time/specials/packages/article/0,28804
 ||blog.tiney.com
+tinychat.com
 ||tinypaste.com
 ||tidyread.com
 .tistory.com
@@ -2819,6 +2833,7 @@ twibase.com
 ||twibble.de
 twibbon.com
 ||twibs.com
+twicsy.com
 .twifan.com
 |http://twifan.com
 twiffo.com
@@ -2950,6 +2965,7 @@ uncyclomedia.org
 uncyclopedia.info
 ||unholyknight.com
 .uni.cc
+unicode.org
 .uniteddaily.com.my/index.php?
 ||unknownspace.org
 ||uocn.org
@@ -3050,6 +3066,7 @@ washeng.net
 ||hudatoriq.web.id
 ||web2project.net
 webbang.net
+weblagu.com
 webs-tv.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
@@ -3252,6 +3269,7 @@ video.yahoo.com
 ||yahoo.com.hk
 yam.com
 ||yam.com
+yasni.co.uk
 ||yasukuni.or.jp
 .ydy.com
 ||yeelou.com
