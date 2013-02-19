@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GMFLoxTwGRw7Oz7ISxQKFA
+! Checksum: zsOuhfGSHmg0dlP/kGrIWg
 ! Expires: 6h
-! Last Modified: Mon, 18 Feb 2013 03:08:11 -0500
+! Last Modified: Mon, 18 Feb 2013 20:42:59 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3969,6 +3969,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 174.142.105.153
 
 !-----Whitelist-----
+@@||aliyun.com
 @@||baidu.com
 !--@@||bing.com
 @@||duckduckgo.com
