@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zsOuhfGSHmg0dlP/kGrIWg
+! Checksum: hApincZzAPKDYb7+vdMSyg
 ! Expires: 6h
-! Last Modified: Mon, 18 Feb 2013 20:42:59 -0500
+! Last Modified: Mon, 18 Feb 2013 20:59:03 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -738,6 +738,7 @@ video.foxbusiness.com
 .fooooo.com
 ||fooooo.com
 footwiball.com
+foreignpolicy.com
 ||fourthinternational.org
 ||foxdie.us
 ||foxsub.com
@@ -750,7 +751,6 @@ foxtang.com
 ||dimitrik.free.fr
 kineox.free.fr
 ||puttycm.free.fr
-.free-vpn.info/mrzhang
 whitebear.freebearblog.org
 .freechal.com
 .freedomhouse.org
