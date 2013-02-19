@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: w9C8UonyW9IaFx5SISjPGQ
+! Checksum: yg5hxus4WH+TfVhxl3OOyA
 ! Expires: 6h
-! Last Modified: Tue, 19 Feb 2013 03:32:56 -0500
+! Last Modified: Tue, 19 Feb 2013 03:40:07 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1529,6 +1529,7 @@ forum.idsam.com
 .idv.tw
 .ied2k.net
 ||if-not-true-then-false.com
+ifanqiang.com
 .ifanr.com/857
 .ifcss.org
 ||ifcss.org
@@ -1977,6 +1978,7 @@ ntdtv.ca
 ||cbs.ntu.edu.tw
 ||nuexpo.com
 ||nurgo-software.com
+nuzcom.com
 .nytimes.com
 ||nytimes.com
 nysingtao.com
@@ -2131,7 +2133,7 @@ plurk.com
 ||pokerstars.com
 zh.pokerstrategy.com
 ||popularpages.net
-.popyard.com
+popyard.com
 ||popyard.org
 .porn.com
 .porn2.com
