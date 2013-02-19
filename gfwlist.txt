@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: uBpIpIqiEVEhdjJ8fe4mVg
+! Checksum: c0NA7qo3mkNtXx7hKbqGTQ
 ! Expires: 6h
-! Last Modified: Mon, 18 Feb 2013 23:23:23 -0500
+! Last Modified: Mon, 18 Feb 2013 23:52:56 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -183,7 +183,7 @@ backchina.com
 ||backchina.com
 .backpackers.com.tw/forum
 badoo.com
-||baidu.jp
+|http://www.baidu.jp
 hen.bao.li
 bannedbook.org
 ||bannedbook.org
