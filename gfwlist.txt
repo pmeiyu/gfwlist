@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hApincZzAPKDYb7+vdMSyg
+! Checksum: uBpIpIqiEVEhdjJ8fe4mVg
 ! Expires: 6h
-! Last Modified: Mon, 18 Feb 2013 20:59:03 -0500
+! Last Modified: Mon, 18 Feb 2013 23:23:23 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -392,6 +392,7 @@ chinainperspective.net/ArtShow.aspx?
 .chinainperspective.org
 ||chinainperspective.org
 ||chinainterimgov.org
+chinalawandpolicy.com
 .chinamule.com
 ||chinamule.com
 chinasocialdemocraticparty.com
@@ -738,7 +739,6 @@ video.foxbusiness.com
 .fooooo.com
 ||fooooo.com
 footwiball.com
-foreignpolicy.com
 ||fourthinternational.org
 ||foxdie.us
 ||foxsub.com
