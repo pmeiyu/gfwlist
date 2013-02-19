@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: K6d1JOOV4x0dX/t+B+rPYg
+! Checksum: 7Qedmf4PFzN9ZA+/vrqNKg
 ! Expires: 6h
-! Last Modified: Tue, 19 Feb 2013 03:43:59 -0500
+! Last Modified: Tue, 19 Feb 2013 04:02:15 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -799,7 +799,7 @@ fzh999.net
 !--------------------GG--------------------
 ||gabocorp.com
 ||galenwu.com
-.gamebase.com.tw
+gamebase.com.tw
 ||gamer.com.tw
 .gamez.com.tw
 ||gamez.com.tw
@@ -1798,6 +1798,7 @@ mcfog.com
 ||md-t.org
 .mediafire.com/?
 ||meetup.com
+mefeedia.com
 lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 .megaporn.com
 ||megarotic.com
@@ -2104,6 +2105,7 @@ pengyulong.com
 .peopo.org
 ||peopo.org
 perfectvpn.net
+perfspot.com
 philly.com
 ||photofocus.com
 .picidae.net
@@ -2321,6 +2323,7 @@ sandnoble.com/bookSearch/isbnInquiry.asp
 .sanmin.com.tw
 sapikachu.net
 savetibet.org
+savevid.com
 ||say2.info
 .scribd.com
 seapuff.com
@@ -2861,7 +2864,7 @@ twitreferral.com
 |http://t.co
 |https://t.co
 |http://twt.tl
-.twitter.com
+twitter.com
 ||twitter.com
 ||twitter.jp
 ||twttr.com
@@ -3178,12 +3181,14 @@ wufi.org.tw
 wujie.net
 wujieliulan.com
 wukangrui.net
+wwitv.com
 wzyboy.im/post/160
 
 !--------------------------XX--------------------------
 ||x-wall.org
 x1949x.com
 x365x.com
+xanga.com
 .xbookcn.com
 ||xbookcn.com
 x.xcity.jp
