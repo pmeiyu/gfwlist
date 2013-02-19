@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yg5hxus4WH+TfVhxl3OOyA
+! Checksum: K6d1JOOV4x0dX/t+B+rPYg
 ! Expires: 6h
-! Last Modified: Tue, 19 Feb 2013 03:40:07 -0500
+! Last Modified: Tue, 19 Feb 2013 03:43:59 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1386,6 +1386,8 @@ anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
 .googlevideo.com
+|https://apis.google.com
+
 gospelherald.com
 ||gospelherald.com
 greatfire.org
@@ -1507,6 +1509,7 @@ t.huhaitai.com
 ||hungerstrikeforaids.org
 ||huping.net
 ||hutianyi.net
+hutong9.net
 ||hwinfo.com
 
 !--------------------II--------------------
@@ -1597,6 +1600,9 @@ yy.iyatou.com/archives/1042
 !--------------------JJ--------------------
 blog.jackjia.com
 williamlong.jaiku.com
+jbtalks.cc
+jbtalks.com
+jbtalks.my
 jeanyim.com
 ||jgoodies.com
 ||jiaoyou8.com
@@ -1671,6 +1677,7 @@ kwongwah.com.my
 ||kzeng.info
 
 !--------------------LL--------------------
+la-forum.org
 ladbrokes.com
 lagranepoca.com
 .lalulalu.com
@@ -2776,6 +2783,7 @@ twapperkeeper.com
 .twaud.io
 .twbbs.net.tw
 twbbs.org
+twbbs.tw
 ||twblogger.com
 tweepmag.com
 .tweepml.org
