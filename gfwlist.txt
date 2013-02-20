@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: j0rNkmhL9dEiLVu3OXhSUg
+! Checksum: pQkG3Ipf32IOWakEQ3Qtsg
 ! Expires: 6h
-! Last Modified: Wed, 20 Feb 2013 01:22:53 -0500
+! Last Modified: Wed, 20 Feb 2013 01:29:02 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1459,6 +1459,8 @@ hellotxt.com
 heqinglian.net
 ||heungkongdiscuss.com
 app.heywire.com
+hidden-advent.org
+||hidden-advent.org
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 .hidemyass.com
 ||hidemyass.com
@@ -2662,6 +2664,7 @@ trendsmap.com
 ||trialofccp.org
 ||tripod.com
 @@||www.tripod.com
+|http://www.trtc.com.tw
 ||trustedbi.com
 .truth101.co.tv
 |http://truth101.co.tv
@@ -2945,9 +2948,7 @@ embr.in
 ||embr.in
 /^https?:\/\/[^\/]+fanfou\.im/
 guomin.us/login
-t.fishnote.net
-twitter.fishnote.net
-.tube8.com
+tube8.com
 ||tube8.com
 tuite.in
 tuite.im
