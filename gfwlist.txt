@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: y6/h+tW3ohkcskcD95rCRw
+! Checksum: j0rNkmhL9dEiLVu3OXhSUg
 ! Expires: 6h
-! Last Modified: Wed, 20 Feb 2013 01:02:22 -0500
+! Last Modified: Wed, 20 Feb 2013 01:22:53 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -642,6 +642,7 @@ epochtimes.de
 ||epochtimes.ie
 epochtimes.jp
 ||epochtimes.jp
+.erepublik.com
 ||ernestmandel.org
 ||erights.net
 etaiwannews.com
@@ -856,6 +857,7 @@ godfootsteps.org
 ||godfootsteps.org
 ||goldwave.com
 gongmeng.info
+gongm.in
 gongminliliang.com
 .gongwt.com
 .goodreads.com
@@ -1491,6 +1493,8 @@ hkptu.org
 apps.hloli.net/gfwtube
 hnjhj.com
 ||hnjhj.com
+holyspiritspeaks.org
+||holyspiritspeaks.org
 ||derekhsu.homeip.net
 hongmeimei.com
 hootsuite.com
@@ -1594,6 +1598,7 @@ forum.iset.com.tw
 ||ismprofessional.net
 isohunt.com
 blog.istef.info/2007/10/21/myentunnel
+isuntv.com
 itaboo.info
 ||itaboo.info
 ithelp.ithome.com.tw/question/10007094
@@ -1977,6 +1982,7 @@ no-ip.com
 nobelprize.org/nobel_prizes/peace/laureates/2010
 nobodycanstop.us
 ||nobodycanstop.us
+||nokogiri.org
 ||nokola.com
 ||noobbox.com
 nooidea.com
@@ -2332,6 +2338,7 @@ sacom.hk
 .salvation.org.hk
 ||salvation.org.hk
 .samair.ru/proxy/type-01
+sammyjs.org
 sandnoble.com/bookSearch/isbnInquiry.asp
 ||sankaizok.com
 .sanmin.com.tw
@@ -2489,6 +2496,7 @@ sowers.org.hk
 |http://spb.com/symbian-software/tv/download
 .speedpluss.org
 ||spencertipping.com
+spinejs.com
 ||sproutcore.com
 squarespace.com
 www.stackfile.com/freedur
@@ -2843,6 +2851,7 @@ twiffo.com
 ||twiffo.com
 twilog.org
 twimbow.com
+||twimbow.com
 ||twindexx.com
 ||twip.me/
 twistar.cc
