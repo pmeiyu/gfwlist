@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pQkG3Ipf32IOWakEQ3Qtsg
+! Checksum: r+9keKR2bGdko25X+cPupA
 ! Expires: 6h
-! Last Modified: Wed, 20 Feb 2013 01:29:02 -0500
+! Last Modified: Wed, 20 Feb 2013 01:35:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -253,6 +253,7 @@ blogimg.jp
 ||bloglines.com
 rconversation.blogs.com
 blogspot.com
+blogspot.jp
 blogtd.net
 .blogtd.org
 |http://blogtd.org
@@ -2664,7 +2665,7 @@ trendsmap.com
 ||trialofccp.org
 ||tripod.com
 @@||www.tripod.com
-|http://www.trtc.com.tw
+trtc.com.tw
 ||trustedbi.com
 .truth101.co.tv
 |http://truth101.co.tv
