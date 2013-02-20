@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: r+9keKR2bGdko25X+cPupA
+! Checksum: JohU58808y4NTzvWnrd5dg
 ! Expires: 6h
-! Last Modified: Wed, 20 Feb 2013 01:35:10 -0500
+! Last Modified: Wed, 20 Feb 2013 01:47:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -894,6 +894,9 @@ guancha.org
 .gzm.tv
 ||gzone-anime.info
 
+!----------------Google----------------
+||apis.google.com
+
 !------------Google App Engine/Appspot-------
 .appspot.com
 ||appspot.com
@@ -1400,6 +1403,7 @@ myboooks.googlepages.com
 
 gospelherald.com
 ||gospelherald.com
+||graylog2.org
 greatfire.org
 greatfirewallofchina.org
 ||gstatic.com
@@ -1589,6 +1593,7 @@ inxian.com
 ipobar.com
 ||ippotv.com
 ||ipvanish.com
+iredmail.org
 ||ironicsoftware.com
 ||ironpython.net
 .beta.iset.com.tw/forum
@@ -1662,6 +1667,7 @@ juziyue.com
 ||kagyuoffice.org.tw
 .kaiyuan.de
 kanzhongguo.com
+kanzhongguo.eu
 ||karayou.com
 ||kcsoftwares.com
 .kechara.com
