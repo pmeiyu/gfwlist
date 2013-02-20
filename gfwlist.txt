@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lKNt9yiyd4i6QUTJwhNO5Q
+! Checksum: BJxyHtuooAxfFpL2y7T/vw
 ! Expires: 6h
-! Last Modified: Wed, 20 Feb 2013 02:01:44 -0500
+! Last Modified: Wed, 20 Feb 2013 07:22:28 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3937,7 +3937,6 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !--zh.wikisource.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 
 !------------TW Gov-------------------------
-||gov.tw/
 .president.gov.tw
 @@||tax.nat.gov.tw
 @@||moe.gov.tw
