@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XxhEu3KzA1l24e7oIO9nZQ
+! Checksum: y6/h+tW3ohkcskcD95rCRw
 ! Expires: 6h
-! Last Modified: Wed, 20 Feb 2013 00:58:10 -0500
+! Last Modified: Wed, 20 Feb 2013 01:02:22 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2638,6 +2638,7 @@ toonel.net
 topsy.com
 tora.to
 .torproject.org
+||torproject.org
 torrentcrazy.com
 ||torrentcrazy.com
 ||torvpn.com
