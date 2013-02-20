@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 19vFNoKx92M8pXGNCqaRew
+! Checksum: XxhEu3KzA1l24e7oIO9nZQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Feb 2013 04:25:34 -0500
+! Last Modified: Wed, 20 Feb 2013 00:58:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -545,6 +545,7 @@ delicious.com/GFWbookmark
 disp.cc
 ||dit-inc.us
 .dizhidizhi.com
+djangosnippets.org
 ||dl-laby.jp
 ||dlsite.com
 .docstoc.com/docs
@@ -1411,6 +1412,7 @@ hahlo.com
 ||hakkatv.org.tw
 .hanunyi.com
 ||hasaowall.com
+have8.com
 @@||haygo.com
 ||hdtvb.net
 ||heartyit.com
