@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xekN7NKjOanHun3OV8hL/w
+! Checksum: gm1e9rmRL5yDJ0Q0Y63dUQ
 ! Expires: 6h
-! Last Modified: Wed, 20 Feb 2013 19:36:02 -0500
+! Last Modified: Thu, 21 Feb 2013 01:33:19 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1376,8 +1376,7 @@ google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 |https://*docs.google.com
 |https://*drive.google.com
 |https://groups.google.com
-|https://plus.google.com
-|https://plusone.google.com
+|https://plus*.google.com
 .google.com/moderator
 .google.com%2Fmoderator
 .google.com/reader/view/feed
