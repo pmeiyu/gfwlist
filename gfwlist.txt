@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gh46i8FB8b6BhRELbNT0Ng
+! Checksum: akLDyhIuzhZfXtggWCIcRQ
 ! Expires: 6h
-! Last Modified: Thu, 21 Feb 2013 05:45:30 -0500
+! Last Modified: Thu, 21 Feb 2013 06:01:55 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -877,7 +877,7 @@ grandtrial.org
 ||graphis.ne.jp
 greatfirewall.biz
 ||greatfirewallofchina.net
-greatfirewallofchina.org
+.greatfirewallofchina.org
 ||greatfirewallofchina.org
 .greenparty.org.tw
 gpass1.com
