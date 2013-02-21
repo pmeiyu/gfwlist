@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Xmj/LIh59QpzSRPs+LTh8g
+! Checksum: xekN7NKjOanHun3OV8hL/w
 ! Expires: 6h
-! Last Modified: Wed, 20 Feb 2013 07:24:23 -0500
+! Last Modified: Wed, 20 Feb 2013 19:36:02 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -877,7 +877,7 @@ grandtrial.org
 ||graphis.ne.jp
 greatfirewall.biz
 ||greatfirewallofchina.net
-.greatfirewallofchina.org
+greatfirewallofchina.org
 ||greatfirewallofchina.org
 .greenparty.org.tw
 gpass1.com
@@ -916,7 +916,6 @@ code.google.com/p/vforchrome/wiki/Start
 code.google.com/p/tuite
 code.google.com/p/twitese
 code.google.com/p/twip
-code.google.com/p/goagent
 code.google.com/p/huhamhire-hosts
 |http://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
 |https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
@@ -1395,8 +1394,6 @@ sites.google.com
 ||sites.google.com
 |https://talkgadget.google.com/
 video.google.com
-webcache.googleusercontent.com
-||webcache.googleusercontent.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
@@ -2232,7 +2229,7 @@ provideocoalition.com
 ||prosiben.de
 api.proxlet.com
 ||proxomitron.info
-proxy.org
+|http://proxy.org
 .proxypy.net
 ||proxypy.net
 proxyroad.com
@@ -3394,7 +3391,7 @@ writer.zoho.com
 zyzg.us
 
 !--------------------------Other----------------------
-falun
+!--falun
 freenet
 q=freedom
 q%3Dfreedom
