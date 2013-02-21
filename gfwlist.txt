@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gm1e9rmRL5yDJ0Q0Y63dUQ
+! Checksum: ferQP6Uma9QcyX+4/Ml/Gg
 ! Expires: 6h
-! Last Modified: Thu, 21 Feb 2013 01:33:19 -0500
+! Last Modified: Thu, 21 Feb 2013 02:19:40 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2562,6 +2562,7 @@ tabtter.jp
 .tacem.org
 tagwalk.com
 ||tagwalk.com
+taipei.gov.tw
 .taiwandaily.net
 ||taiwantt.org.tw
 ||taiwandaily.net
