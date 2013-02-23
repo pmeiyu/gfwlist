@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: akLDyhIuzhZfXtggWCIcRQ
+! Checksum: Y/oEkszjtUAfajWTSzBnzw
 ! Expires: 6h
-! Last Modified: Thu, 21 Feb 2013 06:01:55 -0500
+! Last Modified: Fri, 22 Feb 2013 21:28:25 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -783,6 +783,7 @@ freenewscn.com
 www.freetibet.org
 ||freewallpaper4.me
 .freewebs.com
+||freeweibo.com
 .freexinwen.com
 friendfeed.com
 friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
@@ -1403,6 +1404,7 @@ gospelherald.com
 ||gospelherald.com
 ||graylog2.org
 greatfire.org
+||greatfire.org
 greatfirewallofchina.org
 ||gstatic.com
 guishan.org
