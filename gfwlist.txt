@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9VkUmp1Bd+N4rlCxD57DDg
+! Checksum: qwIZVHYTG+AGCvaIdoSpoA
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 01:36:56 -0500
+! Last Modified: Sat, 23 Feb 2013 01:39:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1987,7 +1987,7 @@ nexttv.com.tw
 ngensis.com
 ||ngs2.info
 nicovideo.tw
-||nicovideo.jp
+!--||nicovideo.jp
 ||nighost.org
 nintendium.com
 .dayaarmongol.ning.com
@@ -3111,6 +3111,7 @@ weeewooo.net/hss/hotspot_cn
 .weekmag.info
 .wefong.com
 weijingsheng.org
+weiquanwang.org
 wengewang.com
 .wengewang.org
 ||wengewang.org
