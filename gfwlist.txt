@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5zs9AlpLRGKZ6m+jfrawow
+! Checksum: a7mBmpxQ7ho3GXzZMMEHpQ
 ! Expires: 6h
-! Last Modified: Fri, 22 Feb 2013 23:52:16 -0500
+! Last Modified: Sat, 23 Feb 2013 00:02:23 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -677,6 +677,7 @@ falunart.org
 falundafamuseum.org
 fangongheike.com
 .farxian.com
+.fawanghuihui.org
 ||fbcdn.net
 fanqiangyakexi.net
 fail.hk
@@ -1610,6 +1611,7 @@ forum.iset.com.tw
 ||isgreat.org
 ||ismprofessional.net
 isohunt.com
+||israbox.com
 blog.istef.info/2007/10/21/myentunnel
 isuntv.com
 itaboo.info
