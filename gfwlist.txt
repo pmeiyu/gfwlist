@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: O7kyRB/y+ZElojyghE/8yQ
+! Checksum: 9VkUmp1Bd+N4rlCxD57DDg
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 01:24:11 -0500
+! Last Modified: Sat, 23 Feb 2013 01:36:56 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1883,6 +1883,7 @@ plurktop.mmdays.com
 .mobypicture.com
 |http://moby.to
 ||mog.com
+molihua.org
 ||mondex.org
 |http://www.monlamit.org
 c1522.mooo.com
@@ -1967,6 +1968,7 @@ newcenturynews.com
 ||newchen.com
 .newchen.com
 .newgrounds.com
+news100.com.tw
 .newscn.org
 ||newscn.org
 bbs.newsgroup.la
@@ -1976,7 +1978,6 @@ forum.newsgroup.la
 newspeak.cc/story
 .newspp.org
 ||newspp.org
-newstin.com
 newtalk.tw
 ||newtalk.tw
 hk*.nextmedia.com
@@ -3268,6 +3269,7 @@ xjp.cc
 ||xjp.cc
 ||xml-training-guide.com
 xmovies.com
+xpdo.net
 ||xpud.org
 ||k2.xrea.com
 blog.xuite.net
