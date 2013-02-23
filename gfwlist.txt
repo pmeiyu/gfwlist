@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rF0m6aoG1ILnGnITaGMaHg
+! Checksum: iUuahe8XsE9twRrBClFSQA
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 01:49:26 -0500
+! Last Modified: Sat, 23 Feb 2013 01:52:44 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3778,6 +3778,8 @@ zh.wikipedia.org/zh/%E5%A4%AA%E5%AD%90%E5%85%9A
 zh.wikipedia.org/zh-cn/%E5%A4%AA%E5%AD%90%E5%85%9A
 !--Tan Zuo Ren
 zh.wikipedia.org*%E8%B0%AD%E4%BD%9C%E4%BA%BA
+!--Tao Si Ju
+zh.wikipedia.org/zh/%E9%99%B6%E9%A9%B7%E9%A9%B9
 !--Tian An Men Guang Chang
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA
 !--Tian An Men Shi Jian
