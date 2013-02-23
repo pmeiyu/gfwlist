@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: S3nDCd/u5bq+RI+IP5YDmQ
+! Checksum: 5zs9AlpLRGKZ6m+jfrawow
 ! Expires: 6h
-! Last Modified: Fri, 22 Feb 2013 22:11:00 -0500
+! Last Modified: Fri, 22 Feb 2013 23:52:16 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -12,6 +12,7 @@ huluim.com
 .pandora.tv
 ||pandora.com
 .pandora.tv
+||pure18.com
 ||vevo.com
 
 !--------------------iTunes--------------------
@@ -538,6 +539,7 @@ delicious.com/GFWbookmark
 ||deutsche-welle.de
 ||dev102.com
 ||devio.us
+|http://www.dfanning.com
 .diaoyuislands.org
 ||diaoyuislands.org
 ||digitalnomadsproject.org
@@ -1548,6 +1550,7 @@ blogs.icerocket.com/tag
 w.idaiwan.com/forum
 .identi.ca
 ||identi.ca
+|http://www.idlcoyote.com
 .idouga.com
 forum.idsam.com
 .idv.tw
