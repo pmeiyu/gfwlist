@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: a7mBmpxQ7ho3GXzZMMEHpQ
+! Checksum: oDdOf1XuW37EV8ldiSr3pQ
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 00:02:23 -0500
+! Last Modified: Sat, 23 Feb 2013 00:05:52 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1884,7 +1884,7 @@ plurktop.mmdays.com
 |http://moby.to
 ||mog.com
 ||mondex.org
-||monlamit.org
+|http://www.monlamit.org
 c1522.mooo.com
 bbs.morbell.com
 ||morningsun.org
