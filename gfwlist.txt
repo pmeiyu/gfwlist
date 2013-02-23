@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qwIZVHYTG+AGCvaIdoSpoA
+! Checksum: rF0m6aoG1ILnGnITaGMaHg
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 01:39:06 -0500
+! Last Modified: Sat, 23 Feb 2013 01:49:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -379,6 +379,8 @@ china21.org
 ||china21.org
 chinaaffairs.org
 ||chinaaffairs.org
+||chinaaid.me
+chinaaid.us
 chinacomments.org
 ||chinacomments.org
 chinachannel.hk
@@ -446,6 +448,7 @@ cjb.net/vpn.html
 .ck101.com
 ||ck101.com
 ||classicalguitarblog.net
+.clb.org.hk
 .cmule.com
 ||cmule.com
 ||cna.com.tw
@@ -766,6 +769,7 @@ foxtang.com
 ||dimitrik.free.fr
 kineox.free.fr
 ||puttycm.free.fr
+||freealim.com
 whitebear.freebearblog.org
 .freechal.com
 .freedomhouse.org
@@ -971,7 +975,6 @@ docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 !-C
 !-||feeds.cbsnews.com
 chinaaid.net
-!-||chinaaid.net
 !-||www.chinesealbumart.com
 !-||chromeexperiments.com
 !-||blog.chromium.org
@@ -1887,6 +1890,7 @@ molihua.org
 ||mondex.org
 |http://www.monlamit.org
 c1522.mooo.com
+||monitorchina.org
 bbs.morbell.com
 ||morningsun.org
 ||movabletype.com
@@ -3065,6 +3069,7 @@ voachinese.com
 voatibetan.com
 ||voatibetan.com
 voanews.com/chinese
+vocn.tv
 .vot.org
 www.voy.com
 ||www.vpncup.com
