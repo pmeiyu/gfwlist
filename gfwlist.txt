@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vcz50pkqJ4zvX8TKwGrHMQ
+! Checksum: 7JOUOuZRjEsCYQBduKLKCg
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 01:57:11 -0500
+! Last Modified: Sat, 23 Feb 2013 02:07:01 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2053,6 +2053,7 @@ forum.omy.sg
 news.omy.sg
 showbiz.omy.sg
 the-sun.on.cc
+tv.on.cc
 .onlylady.cn
 .oopsforum.com
 open.com.hk
@@ -2064,6 +2065,7 @@ openid.net
 ||blog.openinkpot.org
 .openleaks.org
 ||openleaks.org
+openvpn.net
 ||openvpn.net
 ||openwebster.com
 my.opera.com/dahema
@@ -2150,6 +2152,7 @@ pengyulong.com
 .penthouse.com
 .peopo.org
 ||peopo.org
+.percy.in
 perfectvpn.net
 perfspot.com
 philly.com
@@ -2708,6 +2711,9 @@ tsunagarumon.com
 bb.ttv.com.tw/bb
 .tuanzt.com
 .tube.com
+tube8.com
+||tube8.com
+tubecao.com
 tuidang.net
 tuidang.org
 bbs.tuitui.info
@@ -2976,8 +2982,6 @@ embr.in
 ||embr.in
 /^https?:\/\/[^\/]+fanfou\.im/
 guomin.us/login
-tube8.com
-||tube8.com
 tuite.in
 tuite.im
 ||tuite.im
