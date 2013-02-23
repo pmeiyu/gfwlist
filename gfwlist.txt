@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7JOUOuZRjEsCYQBduKLKCg
+! Checksum: oXuyRP20peVKBPHRvRiQ2g
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 02:07:01 -0500
+! Last Modified: Sat, 23 Feb 2013 02:13:05 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3514,6 +3514,7 @@ search*%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 !-------------en.Wikipedia-----
+en.wikipedia.org/wiki/Anti-communism
 en.wikipedia.org/wiki/Book_burning
 en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
 en.wikipedia.org/wiki/Charter_08
