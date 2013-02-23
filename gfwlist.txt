@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: oDdOf1XuW37EV8ldiSr3pQ
+! Checksum: ftze7qvD1gSN1lPJGjpQLA
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 00:05:52 -0500
+! Last Modified: Sat, 23 Feb 2013 01:14:32 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1992,6 +1992,7 @@ nintendium.com
 .dayaarmongol.ning.com
 |http://dayaarmongol.ning.com
 taiwanyes.ning.com
+||njactb.org
 njuice.com
 ||njuice.com
 nlfreevpn.com
