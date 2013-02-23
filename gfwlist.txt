@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Joenzu/h1SoVSdeoOk8kcg
+! Checksum: /10TaP+y7lmGrJDxAD4A9g
 ! Expires: 6h
-! Last Modified: Fri, 22 Feb 2013 21:31:43 -0500
+! Last Modified: Fri, 22 Feb 2013 21:35:05 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -48,6 +48,7 @@ itunes.apple.*454439893
 .1bao.org
 |http://1bao.org
 ||1pondo.tv
+.1eew.com
 .2-hand.info
 .2000fun.com/bbs
 .2008xianzhang.info
@@ -1878,6 +1879,7 @@ plurktop.mmdays.com
 |http://moby.to
 ||mog.com
 ||mondex.org
+||monlamit.org
 c1522.mooo.com
 bbs.morbell.com
 ||morningsun.org
