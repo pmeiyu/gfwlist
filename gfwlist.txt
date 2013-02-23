@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Y/oEkszjtUAfajWTSzBnzw
+! Checksum: Joenzu/h1SoVSdeoOk8kcg
 ! Expires: 6h
-! Last Modified: Fri, 22 Feb 2013 21:28:25 -0500
+! Last Modified: Fri, 22 Feb 2013 21:31:43 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -606,6 +606,7 @@ dy24k.info
 .e-gold.com
 e-info.org.tw
 .e-traderland.net/board
+www.ea.com.cn
 .easy-share.com/191
 hkjp.easyweb.hk
 ebookbrowse.com
