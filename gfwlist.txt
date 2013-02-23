@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ftze7qvD1gSN1lPJGjpQLA
+! Checksum: O7kyRB/y+ZElojyghE/8yQ
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 01:14:32 -0500
+! Last Modified: Sat, 23 Feb 2013 01:24:11 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2018,8 +2018,9 @@ forum.nownews.com
 .nrk.no
 ||nrk.no
 ||nsc.gov.tw
-ntdtv.com
+ntdtv.co
 ntdtv.ca
+ntdtv.ru
 ||cbs.ntu.edu.tw
 ||nuexpo.com
 ||nurgo-software.com
