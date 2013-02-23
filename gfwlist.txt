@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0YVL+p0LoVe5LPL/c91ylw
+! Checksum: aYeuQhXhxABDqeg3JXVCqA
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 02:34:42 -0500
+! Last Modified: Sat, 23 Feb 2013 02:37:45 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3519,6 +3519,7 @@ en.wikipedia.org/wiki/Anti-communism
 en.wikipedia.org/wiki/Book_burning
 en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
 en.wikipedia.org/wiki/Charter_08
+en.wikipedia.org/wiki/Chen_Guangcheng
 en.wikipedia.org/wiki/Dalai_Lama
 en.wikipedia.org/wiki/Deep_packet_inspection
 en.wikipedia.org/wiki/Freegate
