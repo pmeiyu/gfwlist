@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kNCb0eH+J8dBBle7KSm9dA
+! Checksum: 7LlPofoAV0KURDDFGH/lYw
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 03:58:27 -0500
+! Last Modified: Sun, 24 Feb 2013 04:11:49 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3375,6 +3375,7 @@ yuanming.net
 ||yunchao.net
 ||yvesgeleyn.com
 yx51.net
+||yymaya.com
 
 !--------------------------ZZ--------------------------
 zacebook.com
