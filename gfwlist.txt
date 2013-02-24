@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AsSwQXISOufsowE0Mgn/eg
+! Checksum: MnvSLPA23XS6bctflx5luA
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 05:02:03 -0500
+! Last Modified: Sun, 24 Feb 2013 05:12:04 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2411,6 +2411,7 @@ sexinsex.net
 67.220.91.18
 67.220.91.23
 .sfileydy.com
+shadow.ma
 .shangfang.org
 ||shangfang.org
 shapeservices.com
@@ -3418,6 +3419,7 @@ zmw.cn
 zomobo.net
 .zonaeuropa.com
 ||zonaeuropa.com
+||zootool.com
 .zoozle.net
 writer.zoho.com
 .zshare.net/download
