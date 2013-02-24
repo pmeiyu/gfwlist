@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /N5tneladntui0UD5u/mew
+! Checksum: Xcxb3D2h2CEcpn7kN77WYg
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 04:44:44 -0500
+! Last Modified: Sun, 24 Feb 2013 04:52:40 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -93,6 +93,7 @@ actimes.com.au
 ||aculo.us
 ||addictedtocoffee.de
 adultfriendfinder.com
+adultkeep.net/peepshow/members/main.htm
 ||advanscene.com
 ||advertfan.com
 ||aenhancers.com
@@ -3686,6 +3687,7 @@ zh.wikipedia.org*%E5%98%89%E9%9D%96
 zh.wikipedia.org*%E5%AE%B6%E4%B9%90%E7%A6%8F
 !--Jia Qing Lin
 zh.wikipedia.org*%E8%B3%88%E6%85%B6%E6%9E%97
+zh.wikipedia.org*%E8%B4%BE%E5%BA%86%E6%9E%97
 !--Jiang Ze Min (zh-hans/hant)
 zh.wikipedia.org*%E6%B1%9F%E6%B3%BD%E6%B0%91
 zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
@@ -3819,6 +3821,8 @@ zh.wikipedia.org/zh-cn/Tor
 !--Teitter
 zh.wikipedia.org/zh-hk/Twitter
 zh.wikipedia.org/wiki/Twitter
+!--Wan Li
+zh.wikipedia.org*%E4%B8%87%E9%87%8C
 !--Wang Jun Tao
 zh.wikipedia.org*%E7%8E%8B%E5%86%9B%E6%B6%9B
 !--Wang Qi Shan
