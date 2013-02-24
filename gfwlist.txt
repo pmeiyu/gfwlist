@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: df4COuEgVnSv4oYCOQpbdg
+! Checksum: HGfTYtbLAU1QKuykg3+pgg
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 03:51:44 -0500
+! Last Modified: Sun, 24 Feb 2013 03:56:33 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -612,7 +612,7 @@ dy24k.info
 .e-gold.com
 e-info.org.tw
 .e-traderland.net/board
-www.ea.com.cn
+ea.com.cn
 .easy-share.com/191
 hkjp.easyweb.hk
 ebookbrowse.com
@@ -3416,6 +3416,7 @@ writer.zoho.com
 ||zuo.la
 .zuola.com
 ||zuola.com
+zyzc9.com
 zyzg.us
 
 !--------------------------Other----------------------
