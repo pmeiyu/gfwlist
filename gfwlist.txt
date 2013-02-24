@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eMJ5mViCTJBG+X47Q+dtrg
+! Checksum: vNqQ7GzV2Qsc6NZ7xEg6Jg
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 04:31:35 -0500
+! Last Modified: Sun, 24 Feb 2013 04:40:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3019,6 +3019,7 @@ uncyclopedia.info
 .uni.cc
 unicode.org
 .uniteddaily.com.my/index.php?
+.unix100.com
 ||unknownspace.org
 ||uocn.org
 tor.updatestar.com
@@ -3397,6 +3398,7 @@ www.zaurus.org.uk
 ||zeutch.com
 .zhanbin.net
 ||zhanbin.net
+zhenghui.org
 zhenlibu.info
 ||zhenlibu.info
 .zhinengluyou.com
