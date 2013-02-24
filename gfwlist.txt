@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7LlPofoAV0KURDDFGH/lYw
+! Checksum: MV40kSX5N+wyrTQr7+OlyA
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 04:11:49 -0500
+! Last Modified: Sun, 24 Feb 2013 04:22:30 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -96,6 +96,7 @@ adultfriendfinder.com
 ||advanscene.com
 ||advertfan.com
 ||aenhancers.com
+||af.mil
 aiph.net
 ||aiph.net
 .aisex.com
@@ -3029,6 +3030,7 @@ myshare.url.com.tw/
 us.to
 ||usacn.com
 beta.usejump.com
+||usfk.mil
 earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
 .ustream.tv
@@ -3408,6 +3410,7 @@ zinio.com
 .zkaip.com
 ||zkaip.com
 ||zlib.net/
+zmw.cn
 zomobo.net
 .zonaeuropa.com
 ||zonaeuropa.com
