@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: erm3D+sRVmO5LhMRtlfYIw
+! Checksum: qwwLPkFabkn9unIrlWRCsw
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 06:06:30 -0500
+! Last Modified: Sun, 24 Feb 2013 08:34:25 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1613,6 +1613,7 @@ ipobar.com
 iredmail.org
 ||ironicsoftware.com
 ||ironbigfools.compython.net
+||ironpython.net
 .beta.iset.com.tw/forum
 http://beta.iset.com.tw/forum
 forum.iset.com.tw
