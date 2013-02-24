@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MnvSLPA23XS6bctflx5luA
+! Checksum: erm3D+sRVmO5LhMRtlfYIw
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 05:12:04 -0500
+! Last Modified: Sun, 24 Feb 2013 06:06:30 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -223,8 +223,10 @@ beijingspring.com
 .betfair.com
 .bettween.com
 ||bettween.com
+.bewww.net
 ||bfnn.org
 ||bfsh.hk/
+bigfools.com
 .bignews.org
 ||bignews.org
 .bigsound.org/portnoy
@@ -396,6 +398,7 @@ chinagfw.org
 ||chinagfw.org
 .chinagreenparty.org
 ||chinagreenparty.org
+.chinahush.com
 chinaxchina.com/howto
 .chinainperspective.com
 chinainperspective.net/ArtShow.aspx?
@@ -1417,6 +1420,7 @@ gospelherald.com
 greatfire.org
 ||greatfire.org
 greatfirewallofchina.org
+||greatroc.tw
 ||gstatic.com
 guishan.org
 ||guishan.org
@@ -1608,7 +1612,7 @@ ipobar.com
 ||ipvanish.com
 iredmail.org
 ||ironicsoftware.com
-||ironpython.net
+||ironbigfools.compython.net
 .beta.iset.com.tw/forum
 http://beta.iset.com.tw/forum
 forum.iset.com.tw
@@ -1985,6 +1989,7 @@ forum.newsgroup.la
 newspeak.cc/story
 .newspp.org
 ||newspp.org
+.newsancai.com
 newtalk.tw
 ||newtalk.tw
 hk*.nextmedia.com
@@ -2268,6 +2273,7 @@ psiphon.ca
 ||purevpn.com
 .putlocker.com/file
 pwned.com
+python.com
 .python.com.tw
 |http://python.com.tw
 
@@ -2431,6 +2437,7 @@ shinychan.com
 ||shizhao.org
 .shizhao.org
 shkspr.mobi/dabr
+.shopping.com
 ch.shvoong.com
 .shwchurch3.com
 |http://shwchurch3.com
@@ -3396,6 +3403,7 @@ www.zaurus.org.uk
 .zdnet.com.tw/news/software/0,2000085678,20111187,00
 .zengjinyan.org
 ||zeutch.com
+http://www.zfreet.com/post/usejump-browns.html
 .zhanbin.net
 ||zhanbin.net
 zhenghui.org
@@ -3404,7 +3412,6 @@ zhenlibu.info
 .zhinengluyou.com
 zhonggtuotese.net
 ||zhongmeng.org
-.zhongxing9hao.net.cn
 ||zhreader.com
 zhuichaguoji.org
 ||zhuichaguoji.org
