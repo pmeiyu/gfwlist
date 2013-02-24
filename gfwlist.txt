@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: aYeuQhXhxABDqeg3JXVCqA
+! Checksum: df4COuEgVnSv4oYCOQpbdg
 ! Expires: 6h
-! Last Modified: Sat, 23 Feb 2013 02:37:45 -0500
+! Last Modified: Sun, 24 Feb 2013 03:51:44 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2465,6 +2465,7 @@ sis001.com
 sis001.us
 ||sjum.cn/
 ||skimtube.com
+||skybet.com
 bbs.skykiwi.com
 |http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
