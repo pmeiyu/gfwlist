@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Xcxb3D2h2CEcpn7kN77WYg
+! Checksum: AsSwQXISOufsowE0Mgn/eg
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 04:52:40 -0500
+! Last Modified: Sun, 24 Feb 2013 05:02:03 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1620,6 +1620,7 @@ forum.iset.com.tw
 isohunt.com
 ||israbox.com
 blog.istef.info/2007/10/21/myentunnel
+isunaffairs.com
 isuntv.com
 itaboo.info
 ||itaboo.info
@@ -1627,14 +1628,12 @@ ithelp.ithome.com.tw/question/10007094
 .itweet.net
 |http://itweet.net
 .iu45.com
-yy.iyatou.com/archives/1042
 .izaobao.us
 ||gmozomg.izihost.org
 .izles.net
 
 !--------------------JJ--------------------
 blog.jackjia.com
-williamlong.jaiku.com
 jbtalks.cc
 jbtalks.com
 jbtalks.my
@@ -1660,7 +1659,6 @@ jkforum.net
 ||joeedelman.com
 ||journalofdemocracy.org
 jpopforum.net
-t.jteet.com
 ||juliereyc.com
 ||junauza.com
 .junefourth-20.net
