@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vNqQ7GzV2Qsc6NZ7xEg6Jg
+! Checksum: /N5tneladntui0UD5u/mew
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 04:40:21 -0500
+! Last Modified: Sun, 24 Feb 2013 04:44:44 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -790,6 +790,7 @@ freenewscn.com
 ||freessh.us
 .free-ssh.com
 ||free-ssh.com
+||freenetproject.org
 www.freetibet.org
 ||freewallpaper4.me
 .freewebs.com
@@ -2208,8 +2209,7 @@ popyard.com
 postadult.com
 ||powercx.com
 ||www.powerpointninja.com
-news.pts.org.tw
-web.pts.org.tw
+||pts.org.tw
 puffinbrowser.com
 
 !-------------Posterous-----
