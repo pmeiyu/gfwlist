@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HGfTYtbLAU1QKuykg3+pgg
+! Checksum: kNCb0eH+J8dBBle7KSm9dA
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 03:56:33 -0500
+! Last Modified: Sun, 24 Feb 2013 03:58:27 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2240,6 +2240,7 @@ heix.pp.ru
 ||prayforchina.net
 ||premeforwindows7.com
 ||presentationzen.com
+||prestige-av.com
 prisoner-state-secret-journal-premier
 ||privacybox.de
 privatepaste.com
