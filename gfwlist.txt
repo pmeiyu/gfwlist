@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: E5oF5FCKPya+rucaF1uetQ
+! Checksum: Mzw1mwI3ZczfLoD+xLlDMA
 ! Expires: 6h
-! Last Modified: Mon, 25 Feb 2013 07:56:15 -0500
+! Last Modified: Mon, 25 Feb 2013 08:05:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3026,6 +3026,7 @@ ukliferadio.co.uk
 ultravpn.fr
 ||ultravpn.fr
 ultraxs.com
+||unblock.cn.com
 uncyclomedia.org
 uncyclopedia.info
 ||unholyknight.com
