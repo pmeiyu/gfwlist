@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Xx7A110ZoYvWAesjh3qLHQ
+! Checksum: jV9Y/FtxiOKcIPWwR7QEfQ
 ! Expires: 6h
-! Last Modified: Sun, 24 Feb 2013 22:22:33 -0500
+! Last Modified: Mon, 25 Feb 2013 01:48:03 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2010,16 +2010,15 @@ taiwanyes.ning.com
 njuice.com
 ||njuice.com
 nlfreevpn.com
-no-ip.com
-.nobelprize.org
-|http://nobelprize.org
+!--no-ip.com
+!--.nobelprize.org
+!--|http://nobelprize.org
 nobelprize.org/nobel_prizes/peace/laureates/2010
 nobodycanstop.us
 ||nobodycanstop.us
 ||nokogiri.org
 ||nokola.com
 ||noobbox.com
-nooidea.com
 ||novelasia.com
 .nownews.com/cybersex
 .nownews.com/box
