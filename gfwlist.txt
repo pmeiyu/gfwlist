@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jV9Y/FtxiOKcIPWwR7QEfQ
+! Checksum: MHVBbHGmO8wH23Ofp5U0hw
 ! Expires: 6h
-! Last Modified: Mon, 25 Feb 2013 01:48:03 -0500
+! Last Modified: Mon, 25 Feb 2013 06:23:36 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -548,6 +548,7 @@ delicious.com/GFWbookmark
 ||dev102.com
 ||devio.us
 |http://www.dfanning.com
+||dfas.mil
 .diaoyuislands.org
 ||diaoyuislands.org
 ||digitalnomadsproject.org
@@ -587,6 +588,7 @@ dpp.org.tw
 ||drgan.net
 .dropbox.com
 ||dtiblog.com
+||dtic.mil
 dtiserv2.com
 .duckload.com/download
 ||duckmylife.com
@@ -1997,6 +1999,7 @@ hk*.nextmedia.com
 tw*.nextmedia.com
 ||nexton-net.jp
 nexttv.com.tw
+||nga.mil
 ngensis.com
 ||ngs2.info
 nicovideo.tw
