@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Mzw1mwI3ZczfLoD+xLlDMA
+! Checksum: 2dDBU8eWumk+DJQ/SGy/JQ
 ! Expires: 6h
-! Last Modified: Mon, 25 Feb 2013 08:05:21 -0500
+! Last Modified: Mon, 25 Feb 2013 08:49:34 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -684,6 +684,7 @@ eyny.com
 ||connect.facebook.net
 .fakku.net
 falunart.org
+falundafa.org
 falundafamuseum.org
 fangongheike.com
 .farxian.com
@@ -1984,6 +1985,7 @@ newcenturynews.com
 ||newchen.com
 .newchen.com
 .newgrounds.com
+newlandmagazine.com.au
 news100.com.tw
 .newscn.org
 ||newscn.org
@@ -2286,6 +2288,7 @@ python.com
 !--------------------QQ--------------------
 .qanote.com
 ||qanote.com
+qi-gong.me
 .qienkuen.org
 ||qienkuen.org
 qixianglu.cn
@@ -2948,6 +2951,7 @@ twitreferral.com
 |http://t.co
 |https://t.co
 |http://twt.tl
+||twimg.com
 twitter.com
 ||twitter.com
 ||twitter.jp
@@ -2975,6 +2979,8 @@ twiyia.com
 
 .twtkr.com
 |http://twtkr.com
+||twimg.com
+www.twtrland.com/profile/*
 twurl.nl
 .twyac.org
 ||twyac.org
@@ -3000,12 +3006,7 @@ tynsoe.org
 !-------------Twitese-----
 embr.in
 ||embr.in
-/^https?:\/\/[^\/]+fanfou\.im/
 guomin.us/login
-tuite.in
-tuite.im
-||tuite.im
-||twimg.com
 
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
@@ -3251,6 +3252,7 @@ worldjournal.com
 !-||ios.wordpress.org
 !-||wormsculptor.com
 woxinghuiguo.com
+wow-life.net
 !-||wp.me
 
 .wpoforum.com
