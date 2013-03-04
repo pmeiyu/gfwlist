@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 97Rl41ap/kJT495t7Lgwvg
+! Checksum: hJzP3WPPX2eSgwa8xhab6Q
 ! Expires: 6h
-! Last Modified: Sat, 02 Mar 2013 05:28:03 +0900
+! Last Modified: Sun, 03 Mar 2013 20:47:14 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -260,6 +260,7 @@ rconversation.blogs.com
 blogspot.co.uk
 blogspot.com
 blogspot.de
+||blogspot.hk
 blogspot.in
 blogspot.jp
 blogtd.net
