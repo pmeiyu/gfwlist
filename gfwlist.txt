@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hJzP3WPPX2eSgwa8xhab6Q
+! Checksum: jzI3yTdeU2Zy5FGApTJ8wg
 ! Expires: 6h
-! Last Modified: Sun, 03 Mar 2013 20:47:14 -0500
+! Last Modified: Wed, 06 Mar 2013 08:18:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -54,6 +54,7 @@ itunes.apple.*454439893
 .2000fun.com/bbs
 .2008xianzhang.info
 ||2008xianzhang.info
+21andy.com/blog
 24smile.org
 .2shared.com
 .315lz.com
