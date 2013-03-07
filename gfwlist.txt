@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9z8cl9so70wghWu/wZ1Zbw
+! Checksum: am3KMYcnGh0V5MrTpWMJjg
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 01:38:06 -0500
+! Last Modified: Thu, 07 Mar 2013 01:52:45 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3028,6 +3028,7 @@ humanities.uchicago.edu/faculty/ywang/hi
 ufreevpn.com
 uighurbiz.net
 .ulike.net
+|http://www.ukchinese.com/www/22/2009-03/2842.html
 ukliferadio.co.uk
 ||ukliferadio.co.uk
 ultravpn.fr
@@ -3735,8 +3736,9 @@ zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F
 zh.wikipedia.org/zh/%E6%9D%8E%E9%B9%8F
 zh.wikipedia.org/zh-hk/%E6%9D%8E%E9%B9%8F
 zh.wikipedia.org/zh-tw/%E6%9D%8E%E9%B9%8F
-!--Li Rui Huan
+!--Li Rui Huan (zh-hans/hant)
 zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%8E%AF
+zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%92%B0
 !--Li Shen Zhi
 zh.wikipedia.org*%E6%9D%8E%E6%85%8E%E4%B9%8B
 !--Li Yuan Chao
