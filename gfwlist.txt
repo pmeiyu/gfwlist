@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zYodLjeRk1+HVesivOToRQ
+! Checksum: 9z8cl9so70wghWu/wZ1Zbw
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 01:26:13 -0500
+! Last Modified: Thu, 07 Mar 2013 01:38:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3877,6 +3877,8 @@ zh.wikipedia.org*%E6%B1%AA%E6%B4%8B
 zh.wikipedia.org*%E7%8E%8B%E5%85%86%E5%9B%BD
 !--Wei Se
 zh.wikipedia.org*%E5%94%AF%E8%89%B2
+!--Wei Shi Fu Bai An
+zh.wikipedia.org*%E5%A8%81%E8%A7%86%E8%85%90%E8%B4%A5%E6%A1%88
 !--Wen Chuan Di Zhen
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87
 !--Wen Jia Bao
