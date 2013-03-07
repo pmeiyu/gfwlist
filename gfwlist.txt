@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xRdSantj0l0zoICE1kMmCw
+! Checksum: L7giKCGqsKfo9VGiCxkDTQ
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 08:21:10 -0500
+! Last Modified: Thu, 07 Mar 2013 08:55:15 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2422,6 +2422,7 @@ secretchina.com
 ||default.secureserver.net
 securitykiss.com
 seesmic.com
+||seevpn.com
 ||seezone.net
 sejie.com
 .sendspace.com/file
