@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bAPb3Aoj0xowgcWirR8hFw
+! Checksum: bE9gvGPkzoAPI4mqtsDAPg
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 07:53:42 -0500
+! Last Modified: Thu, 07 Mar 2013 07:55:00 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -293,6 +293,7 @@ boxun.com
 ||boxun.tv
 ||br.st
 ||brandonhutchinson.com
+||braumeister.org
 .break.com
 ||break.com
 .breakingtweets.com
