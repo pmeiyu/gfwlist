@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qG3Ykq4DF0f2E0bw6pll1A
+! Checksum: A+aVZqzw7rEmhjjpX2L5xA
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 01:15:02 -0500
+! Last Modified: Thu, 07 Mar 2013 01:22:40 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -377,6 +377,7 @@ cdpwu.org
 .changp.com
 ||changp.com
 chengmingmag.com
+||chenguangcheng.com
 chenpokong.com
 ||cherrysave.com
 .china-week.com
