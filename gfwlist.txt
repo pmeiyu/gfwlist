@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XmTGVfyED5/ikbdDk+SEuA
+! Checksum: aBwJ/OGeBYh10H1VTpb9uw
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 07:37:21 -0500
+! Last Modified: Thu, 07 Mar 2013 07:44:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1356,6 +1356,8 @@ google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 .google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
 .google.*%E7%9C%9F%E7%9B%B8
+!--Zheng Zhi Ju
+.google.*%E6%94%BF%E6%B2%BB%E5%B1%80
 !--Zhong Gong
 .google.*%E4%B8%AD%E5%85%B1
 !--Zhong Guo Yuan Min Da Tong Meng
