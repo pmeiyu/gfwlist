@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: am3KMYcnGh0V5MrTpWMJjg
+! Checksum: vPKJDOqj6Bk+UueK5yzA2Q
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 01:52:45 -0500
+! Last Modified: Thu, 07 Mar 2013 02:10:55 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3951,7 +3951,7 @@ zh.wikipedia.org*%E8%A2%81%E7%BA%A2%E5%86%B0
 !--Zhang De Jiang
 zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhang Gao Li
-zh.wikipedia.org/wiki/%E5%BC%A0%E9%AB%98%E4%B8%BD
+zh.wikipedia.org*%E5%BC%A0%E9%AB%98%E4%B8%BD
 !--Zhang Yi He (zh-hans/hant)
 zh.wikipedia.org*%E7%AB%A0%E8%A9%92%E5%92%8C
 zh.wikipedia.org*%E7%AB%A0%E8%AF%92%E5%92%8C
