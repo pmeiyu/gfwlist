@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vPKJDOqj6Bk+UueK5yzA2Q
+! Checksum: XmTGVfyED5/ikbdDk+SEuA
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 02:10:55 -0500
+! Last Modified: Thu, 07 Mar 2013 07:37:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -383,6 +383,7 @@ chenpokong.com
 .china-week.com
 china101.com
 ||china101.com
+||china21.com
 china21.org
 ||china21.org
 chinaaffairs.org
@@ -638,6 +639,7 @@ edoors.com
 ||eevpn.com
 efcc.org.hk
 ||eic-av.com
+electionsmeter.com
 .eltondisney.com
 ||emacsblog.org
 .emory.edu
