@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bE9gvGPkzoAPI4mqtsDAPg
+! Checksum: 2bQqpEkYM1MpzL9TCQM+6A
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 07:55:00 -0500
+! Last Modified: Thu, 07 Mar 2013 07:57:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -359,7 +359,7 @@ ccue.ca
 ccue.com
 cdjp.org
 ||cdjp.org/
-.cdnews.com.tw/cdnews_site/docDetail.jsp?
+.cdnews.com.tw
 cdp1998.org
 ||cdp1998.org
 cdpweb.org
