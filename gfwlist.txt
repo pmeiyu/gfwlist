@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2bQqpEkYM1MpzL9TCQM+6A
+! Checksum: xRdSantj0l0zoICE1kMmCw
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 07:57:10 -0500
+! Last Modified: Thu, 07 Mar 2013 08:21:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -149,6 +149,7 @@ video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
 www.aolnews.com
+.apetube.com
 .apigee.com
 ||apigee.com
 appledaily.com
@@ -158,6 +159,7 @@ appledaily.com
 |http://arctosia.com
 ||areca-backup.org
 ||army.mil
+artsy.net
 .asahichinese.com
 ||asahichinese.com
 asdfg.jp/dabr
@@ -191,6 +193,7 @@ backchina.com
 .backpackers.com.tw/forum
 badoo.com
 |http://www.baidu.jp
+|http://image.baidu.jp
 hen.bao.li
 bannedbook.org
 ||bannedbook.org
@@ -461,6 +464,7 @@ cjb.net/vpn.html
 ||ck101.com
 ||classicalguitarblog.net
 .clb.org.hk
+.clipfish.de
 .cmule.com
 ||cmule.com
 ||cna.com.tw
@@ -806,6 +810,7 @@ freenewscn.com
 .free-ssh.com
 ||free-ssh.com
 ||freenetproject.org
+|http://www.freeoz.org/ibbs/index.php
 www.freetibet.org
 ||freewallpaper4.me
 .freewebs.com
@@ -875,6 +880,7 @@ getiton.com
 gfw.org.ua
 .ggssl.com
 ||ggssl.com
+||giga-web.jp
 gigporno.ru
 ||gimpshop.com
 ||glennhilton.com
@@ -1601,8 +1607,8 @@ cydia.ifuckgfw.com
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
-.imdb.com
-|http://imdb.com
+!--.imdb.com
+!--|http://imdb.com
 .img.ly
 ||img.ly
 .imkev.com
@@ -2481,6 +2487,8 @@ singtao.com
 news.singtao.ca
 ||cdp.sinica.edu.tw
 sino-monthly.com
+||sinocast.com
+sinocism.com
 sinomontreal.ca
 .sinonet.ca
 .sinopitt.info
@@ -2645,12 +2653,14 @@ tcno.net*doc*tor
 .tenacy.com
 ||theappleblog.com
 ||theatrum-belli.com
+||thebodyshop-usa.com
 theblemish.com
 ||thebcomplex.com
 .thechinabeat.org
 ||thedieline.com
 ||thedw.us
 ||thegatesnotes.com
+thehousenews.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
@@ -3908,6 +3918,8 @@ zh.wikipedia.org*%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85
 zh.wikipedia.org*%E6%97%A0%E7%95%8C
 !--Wu Lu Mu Qi Qi Wu Bao Li Shi Jian
 zh.wikipedia.org*%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E4%B8%83%C2%B7%E4%BA%94%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6
+!--Wu Mao Dan Shi Jian
+zh.wikipedia.org*%E4%BA%94%E6%AF%9B%E8%9B%8B%E4%BA%8B%E4%BB%B6
 !--Xi Dan Min Zhu Qiang
 zh.wikipedia.org*%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 !--Xi Jin Ping (zh-hant)
@@ -3924,6 +3936,8 @@ zh.wikipedia.org*%E9%A6%99%E6%B8%AF*%E6%B0%91%E4%B8%BB%E6%B4%BE
 zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
 !--Xin Hao Nian
 zh.wikipedia.org*%E8%BE%9B%E7%81%8F%E5%B9%B4
+!--Xin Tang Ren Dian Shi Tai
+zh.wikipedia.org*%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0
 !--Xin Wen Zi You Lue Duo Zhe
 zh.wikipedia.org*%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1%E6%8E%A0%E5%A4%BA%E8%80%85
 !--Xing Yun Fa Shi
@@ -3980,6 +3994,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A
 !--Zhong Guo Gong Chan Dang (zh-hant)
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB
+!--Zhong Guo Jia Jiao Xie Hui
+zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%AE%B6%E5%BA%AD%E6%95%99%E4%BC%9A
 !--Zhong Guo Min Zhu Dang
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
 !--Zhong Guo Min Zhu Yun Dong
