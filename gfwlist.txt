@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: A+aVZqzw7rEmhjjpX2L5xA
+! Checksum: zYodLjeRk1+HVesivOToRQ
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 01:22:40 -0500
+! Last Modified: Thu, 07 Mar 2013 01:26:13 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3710,6 +3710,8 @@ zh.wikipedia.org*%E5%AE%B6%E4%B9%90%E7%A6%8F
 !--Jia Qing Lin
 zh.wikipedia.org*%E8%B3%88%E6%85%B6%E6%9E%97
 zh.wikipedia.org*%E8%B4%BE%E5%BA%86%E6%9E%97
+!--Jian Guo Men Shi Jian
+zh.wikipedia.org*%E5%BB%BA%E5%9B%BD%E9%97%A8%E4%BA%8B%E4%BB%B6
 !--Jiang Ze Min (zh-hans/hant)
 zh.wikipedia.org*%E6%B1%9F%E6%B3%BD%E6%B0%91
 zh.wikipedia.org*%E6%B1%9F%E6%BE%A4%E6%B0%91
