@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: L7giKCGqsKfo9VGiCxkDTQ
+! Checksum: YJkwJMGGu7PqWr/aC0cBag
 ! Expires: 6h
-! Last Modified: Thu, 07 Mar 2013 08:55:15 -0500
+! Last Modified: Sun, 10 Mar 2013 00:30:19 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -283,6 +283,7 @@ bloomberg.de
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
+bonbonme.com
 ||books.com.tw
 .botanwang.com
 .bot.nu
@@ -1609,6 +1610,7 @@ imageshack.us
 ||imagevenue.com
 !--.imdb.com
 !--|http://imdb.com
+|http://www.imdb.com/name/nm0482730
 .img.ly
 ||img.ly
 .imkev.com
@@ -3570,6 +3572,7 @@ search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 !-------------en.Wikipedia-----
 en.wikipedia.org/wiki/Anti-communism
 en.wikipedia.org/wiki/Book_burning
+en.wikipedia.org/wiki/Carl_Linnaeus
 en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
 en.wikipedia.org/wiki/Charter_08
 en.wikipedia.org/wiki/Chen_Guangcheng
