@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5DV//OT55RTEnxXLqNVBhA
+! Checksum: yZ2sMvr+CS3T1ID8Yjl77Q
 ! Expires: 6h
-! Last Modified: Sun, 10 Mar 2013 00:31:35 -0500
+! Last Modified: Wed, 13 Mar 2013 21:14:57 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -440,7 +440,7 @@ chinesenewsnet.com
 .chinesetalks.net/ch
 .chingcheong.com
 ||chingcheong.com
-chn.chosun.com/servlet/china.ArticleList.ArticleList?code=FFA
+chn.chosun.com
 christianstudy.com
 ||christianstudy.com
 christusrex.org/www1/sdc
