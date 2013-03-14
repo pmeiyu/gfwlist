@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0pekVRrHJCzdNeHH35VvwQ
+! Checksum: NRYpkmywul7wydxJrwCKWA
 ! Expires: 6h
-! Last Modified: Wed, 13 Mar 2013 21:29:00 -0400
+! Last Modified: Wed, 13 Mar 2013 21:39:49 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -668,10 +668,13 @@ epochtimes.com
 ||epochtimes.com
 epochtimes.de
 ||epochtimes.de
+epochtimes.fr
 .epochtimes.ie
 ||epochtimes.ie
 epochtimes.jp
 ||epochtimes.jp
+epochtimes.se
+erabaru.net
 .erepublik.com
 ||ernestmandel.org
 ||erights.net
@@ -3101,6 +3104,7 @@ vansky.com
 ||vapurl.com
 ||vcf-online.org
 ||vcfbuilder.org
+.velkaepocha.sk
 veoh.com
 .verizon.net
 ||verybs.com
