@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rtjTCRq1QbT1RapHoYsSFQ
+! Checksum: 3+AUGG2nUr5ILK3wk43CwQ
 ! Expires: 6h
-! Last Modified: Wed, 13 Mar 2013 21:42:02 -0400
+! Last Modified: Wed, 13 Mar 2013 21:43:42 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -632,7 +632,6 @@ dy24k.info
 e-info.org.tw
 .e-traderland.net/board
 !--ea.com.cn
-.easy-share.com/191
 hkjp.easyweb.hk
 ebookbrowse.com
 ebookee.com
@@ -642,7 +641,6 @@ edicypages.com
 edoors.com
 .edubridge.com
 ||edubridge.com
-!--.edubridge.com/erxiantang/library
 ||eevpn.com
 efcc.org.hk
 ||eic-av.com
@@ -650,7 +648,6 @@ electionsmeter.com
 .eltondisney.com
 ||emacsblog.org
 .emory.edu
-||emscripten.org
 .emule-ed2k.com
 |http://emule-ed2k.com
 chinese.engadget.com
