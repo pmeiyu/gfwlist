@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yZ2sMvr+CS3T1ID8Yjl77Q
+! Checksum: gscAlzDK9MSXIM0j9ryEIw
 ! Expires: 6h
-! Last Modified: Wed, 13 Mar 2013 21:14:57 -0400
+! Last Modified: Wed, 13 Mar 2013 21:18:02 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -695,6 +695,7 @@ eyny.com
 /^https?:\/\/[^\/]+facebook\.com/
 @@||*v6.facebook.com
 ||connect.facebook.net
+||facesofnyfw.com
 .fakku.net
 falunart.org
 falundafa.org
@@ -1751,12 +1752,13 @@ laomiu.com
 ||laptoplockdown.com
 ||lastfm.es
 latelinenews.com
+||lazarsearlymusic.com
 ||leecheukyan.org
 ||lenwhite.com
 lerosua.org
 ||lerosua.org
 blog.lester850.info
-.letscorp.net
+letscorp.net
 ||letscorp.net
 liansi.org
 .lianyue.net
