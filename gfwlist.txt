@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gscAlzDK9MSXIM0j9ryEIw
+! Checksum: 0pekVRrHJCzdNeHH35VvwQ
 ! Expires: 6h
-! Last Modified: Wed, 13 Mar 2013 21:18:02 -0400
+! Last Modified: Wed, 13 Mar 2013 21:29:00 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -887,6 +887,7 @@ gigporno.ru
 ||gimpshop.com
 ||glennhilton.com
 globalmuseumoncommunism.org
+||globalrescue.net
 .globalvoicesonline.org
 ||globalvoicesonline.org
 gmbd.cn
@@ -1841,6 +1842,7 @@ lvhai.org
 ||lvhai.org
 
 !--------------------MM--------------------
+||mh4u.org
 m-team.cc/forum
 www.macrovpn.com
 ||mad-ar.ch
@@ -3133,6 +3135,8 @@ www.voy.com
 ||www.vpncup.com
 vpnbook.com
 vpnfire.com
+.vpngate.net
+||vpngate.net
 ||vpnpop.com
 
 !--------------------------WW--------------------------
