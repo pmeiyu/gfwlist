@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NFhhfPt6FLolLZXHzzHbUg
+! Checksum: VyKPdSlJ6I70lWKvF6ZbHg
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 06:14:08 -0400
+! Last Modified: Fri, 15 Mar 2013 06:25:18 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -705,6 +705,7 @@ eyny.com
 falunart.org
 falundafa.org
 falundafamuseum.org
+||falunhr.org
 fangongheike.com
 .farxian.com
 .fawanghuihui.org
@@ -1834,6 +1835,7 @@ zhllg.spaces.live.com
 lizhizhuangbi.com
 lkcn.net
 ||lockdown.com
+||lockestek.com
 logbot.net
 ||logmike.com
 .longhair.hk
@@ -3154,6 +3156,7 @@ vpnfire.com
 ||vpngate.net
 ||vpnpop.com
 ||vpnpronet.com
+||vtunnel.com
 
 !--------------------------WW--------------------------
 lists.w3.org/archives/public
