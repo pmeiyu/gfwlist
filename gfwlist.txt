@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GhDAAujUj8cz7z0cIKYjoQ
+! Checksum: HCtALNhiVfFoUme0CJVvCA
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 05:16:45 -0400
+! Last Modified: Fri, 15 Mar 2013 05:20:45 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3657,12 +3657,16 @@ zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83
 zh.wikipedia.org*%E5%A4%A7%E7%BA%AA%E5%85%83%E6%97%B6%E6%8A%A5
 !--Da Lai La Ma
 zh.wikipedia.org*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
+!--Da Lan Sa La
+zh.wikipedia.org*%E8%BE%BE%E5%85%B0%E8%90%A8%E6%8B%89
 !--Da Lan Sha La
 zh.wikipedia.org*%E9%81%94%E8%98%AD%E8%96%A9%E6%8B%89
 !--Da She Guo JI
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 !--Dan Zeng Jia Cuo
 zh.wikipedia.org*%E4%B8%B9%E5%A2%9E%E5%98%89%E6%8E%AA
+!--Dong Feng - 21 Zhong Cheng Dan Dao Dao Dan
+zh.wikipedia.org*%E4%B8%9C%E9%A3%8E-21%E4%B8%AD%E7%A8%8B%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9 
 !--Duo Wei
 zh.wikipedia.org*%E5%A4%9A%E7%BB%B4
 zh.wikipedia.org*%E5%A4%9A%E7%B6%AD
