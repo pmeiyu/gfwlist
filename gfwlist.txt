@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Iuomzjxnn4g4cotqTdhzLA
+! Checksum: vBr/aa2F/RaYoasNx3y1Kg
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 04:16:07 -0400
+! Last Modified: Fri, 15 Mar 2013 04:23:30 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3113,6 +3113,7 @@ videobam.com
 ||viki.com
 .vimeo.com
 ||vimeo.com
+||vimperator.org
 ||vincnd.com
 ||vinniev.com
 video.tiscali.it/canali/truveo
@@ -4016,6 +4017,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB
 !--Zhong Guo Jia Jiao Xie Hui
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%AE%B6%E5%BA%AD%E6%95%99%E4%BC%9A
+!--Zhong Guo Lian Bang Zhu Yi
+zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E8%81%AF%E9%82%A6%E4%B8%BB%E7%BE%A9
 !--Zhong Guo Min Zhu Dang
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
 !--Zhong Guo Min Zhu Yun Dong
