@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HCtALNhiVfFoUme0CJVvCA
+! Checksum: QXlZBIpPYjKXzJuyvN36eA
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 05:20:45 -0400
+! Last Modified: Fri, 15 Mar 2013 05:26:13 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1521,7 +1521,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 ||highrockmedia.com
 times.hinet.net
 .hk-pub.com/forum
-|http://hk-pub.com/forum
+|http://hk-pub.com
 .hk32168.com
 ||hk32168.com
 app.hkatvnews.com/v3
@@ -1742,6 +1742,7 @@ kun.im
 ||kurtmunger.com
 kusocity.com
 kwongwah.com.my
+kyohk.net
 .kzeng.info
 ||kzeng.info
 
