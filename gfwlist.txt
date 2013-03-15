@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SdaihLSb6SnsvB10aJQ9+w
+! Checksum: Iuomzjxnn4g4cotqTdhzLA
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 04:01:27 -0400
+! Last Modified: Fri, 15 Mar 2013 04:16:07 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1604,6 +1604,7 @@ cydia.ifuckgfw.com
 ||antidrm.hpg.ig.com.br
 ||igfw.net
 ||ignitedetroit.net
+||iicns.com
 ||illusionfactory.com
 ||ilove80.be
 ||im.tv
@@ -3179,6 +3180,7 @@ weeewooo.net/hss/hotspot_cn
 .weekmag.info
 .wefong.com
 weijingsheng.org
+.weiming.info
 weiquanwang.org
 wengewang.com
 .wengewang.org
@@ -3773,6 +3775,8 @@ zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%8E%AF
 zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%92%B0
 !--Li Shen Zhi
 zh.wikipedia.org*%E6%9D%8E%E6%85%8E%E4%B9%8B
+!--Li Ying Hao
+zh.wikipedia.org*%E6%9D%8E%E8%8B%B1%E6%B5%A9
 !--Li Yuan Chao
 zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
 !--Liang Guo Xiong
