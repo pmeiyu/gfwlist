@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: V1NGNolSuRKuegDH/wjQaA
+! Checksum: cZgS+7kyv5TSIyaCrXuOEg
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 03:45:47 -0400
+! Last Modified: Fri, 15 Mar 2013 03:55:48 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2579,6 +2579,7 @@ sowers.org.hk
 spinejs.com
 ||sproutcore.com
 squarespace.com
+||ssh91.com
 www.stackfile.com/freedur
 usinfo.state.gov
 .starp2p.com
@@ -3753,6 +3754,8 @@ zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
 zh.wikipedia.org*%E4%B9%9D%E8%AF%84%E5%85%B1%E4%BA%A7%E5%85%9A
 !--Jue Shi
 zh.wikipedia.org*%E7%BB%9D%E9%A3%9F
+!--La Sa
+zh.wikipedia.org*%E6%8B%89%E8%90%A8
 !--Li Chang Chun (zh-hans/hant)
 zh.wikipedia.org*%E6%9D%8E%E9%95%BF%E6%98%A5
 zh.wikipedia.org*%E6%9D%8E%E9%95%B7%E6%98%A5
