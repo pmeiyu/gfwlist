@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QXlZBIpPYjKXzJuyvN36eA
+! Checksum: CqgvDFqMB1qFrVzPTMAsog
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 05:26:13 -0400
+! Last Modified: Fri, 15 Mar 2013 05:45:24 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -69,6 +69,7 @@ taiwannation.50webs.com
 ||6-4.net/
 64memo
 64tianwang.com
+64wiki.com
 666kb.com
 6park.com
 ||6park.com
@@ -3767,6 +3768,8 @@ zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
 !--Jiu Ping Gong Chan Dang
 zh.wikipedia.org*%E4%B9%9D%E8%AF%84%E5%85%B1%E4%BA%A7%E5%85%9A
+!--Ju Lang 2 Xing Qian She Dan Dao Dao Dan
+zh.wikipedia.org*%E5%B7%A8%E6%B5%AA2%E5%9E%8B%E6%BD%9C%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9
 !--Jue Shi
 zh.wikipedia.org*%E7%BB%9D%E9%A3%9F
 !--La Sa
