@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vBr/aa2F/RaYoasNx3y1Kg
+! Checksum: 31S8RnRo3U4/pEXC6jzZwg
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 04:23:30 -0400
+! Last Modified: Fri, 15 Mar 2013 04:31:41 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -361,6 +361,7 @@ cclife.org
 .cctongbao.com/article/2078732
 ccue.ca
 ccue.com
+||cdig.info
 cdjp.org
 ||cdjp.org/
 .cdnews.com.tw
@@ -1467,6 +1468,7 @@ have8.com
 ||hecaitou.net
 .hechaji.com
 ||hechaji.com
+||helloandroid.com
 ||helloqueer.com
 hellotxt.com
 ||hellotxt.com
@@ -3095,6 +3097,7 @@ earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 v70.us
 ||vaayoo.com
 ||value-domain.com
+.van698.com
 .vanemu.cn
 .vanilla-jp.com
 vansky.com
