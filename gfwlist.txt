@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 31S8RnRo3U4/pEXC6jzZwg
+! Checksum: gPlStZgIdb+jUEkP1mur5w
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 04:31:41 -0400
+! Last Modified: Fri, 15 Mar 2013 04:48:58 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2050,10 +2050,7 @@ nobodycanstop.us
 ||nokola.com
 ||noobbox.com
 ||novelasia.com
-.nownews.com/cybersex
-.nownews.com/box
-||blog.nownews.com
-forum.nownews.com
+||nownews.com
 .nowtorrents.com
 .noypf.com
 ||noypf.com
