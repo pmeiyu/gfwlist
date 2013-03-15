@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KgtWGZmQ+Yvh8QG7werO+g
+! Checksum: V1NGNolSuRKuegDH/wjQaA
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 03:10:49 -0400
+! Last Modified: Fri, 15 Mar 2013 03:45:47 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -599,6 +599,7 @@ dpp.org.tw
 ||weigegebyc.dreamhosters.com
 ||drgan.net
 .dropbox.com
+.drtuber.com
 ||dtiblog.com
 ||dtic.mil
 dtiserv2.com
@@ -670,6 +671,7 @@ epochtimes.jp
 epochtimes.ru
 epochtimes.se
 epochtimestr.com
+||epochweekly.com
 erabaru.net
 .erepublik.com
 ||ernestmandel.org
