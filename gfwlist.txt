@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: isUQxfroUWjK+3g/c6VgOQ
+! Checksum: 4K441PROklFJpuuTuTvnlg
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 02:50:39 -0400
+! Last Modified: Fri, 15 Mar 2013 02:56:47 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3199,6 +3199,7 @@ wezhiyong.org
 ||whatblocked.com
 .whippedass.com
 ||whyx.org
+cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikileaks.ch
 .wikileaks.org
