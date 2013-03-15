@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gPlStZgIdb+jUEkP1mur5w
+! Checksum: hyc8euoZAG5zhP3v46i8fw
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 04:48:58 -0400
+! Last Modified: Fri, 15 Mar 2013 04:55:20 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3307,6 +3307,7 @@ wuerkaixi.com
 wufi.org.tw
 wujie.net
 wujieliulan.com
+||wujieliulan.com
 wukangrui.net
 wwitv.com
 wzyboy.im/post/160
