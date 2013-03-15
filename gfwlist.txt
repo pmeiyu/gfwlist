@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HDM7s7Rmx5nz5vr6efSiSg
+! Checksum: zKVop/7xg3x2JaqM9ID3RQ
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 05:04:20 -0400
+! Last Modified: Fri, 15 Mar 2013 05:14:40 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1951,6 +1951,7 @@ multiproxy.org
 forum.mymaji.com
 multiupload.com
 ||muouju.com
+||muselinks.co.jp
 ||muzi.com
 ||muzi.net
 ||mx981.com
@@ -3845,6 +3846,8 @@ zh.wikipedia.org*%E4%B8%89%E5%B9%B4%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3
 zh.wikipedia.org*%E7%91%9E%E5%85%B8
 !--Sheng Xiong Gan Di
 zh.wikipedia.org*%E5%9C%A3%E9%9B%84%E7%94%98%E5%9C%B0
+!--Shi Jie Ge Zheng Quan Shou Cheng Ren Zhuang Kuang Lie Biao
+zh.wikipedia.org/zh-cn/%E4%B8%96%E7%95%8C%E5%90%84%E6%94%BF%E6%9D%83%E5%8F%97%E6%89%BF%E8%AE%A4%E7%8A%B6%E5%86%B5%E5%88%97%E8%A1%A8
 !--Shi Jie Jing Ji Dao Bao
 zh.wikipedia.org*%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E5%AF%BC%E6%8A%A5
 !--Shi Si Shi Da Lai
