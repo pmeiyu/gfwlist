@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hyc8euoZAG5zhP3v46i8fw
+! Checksum: 76P4Fy3CZ//9tstle/TV1w
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 04:55:20 -0400
+! Last Modified: Fri, 15 Mar 2013 04:57:35 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -835,6 +835,7 @@ freevpn.nl
 ||fuckcnnic.net
 fuckgfw.org
 fulue.com
+.funf.tw
 funp.com
 ||furinkan.com
 .futurechinaforum.org
@@ -3483,6 +3484,7 @@ writer.zoho.com
 ||zuo.la
 .zuola.com
 ||zuola.com
+||zvereff.com
 zyzc9.com
 zyzg.us
 
