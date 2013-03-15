@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zKVop/7xg3x2JaqM9ID3RQ
+! Checksum: GhDAAujUj8cz7z0cIKYjoQ
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 05:14:40 -0400
+! Last Modified: Fri, 15 Mar 2013 05:16:45 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -33,6 +33,7 @@ itunes.apple.*454439893
 ||0to255.com
 1-apple.com.tw
 ||1-apple.com.tw
+||10musume.com
 123rf.com
 .12bet.com
 ||12bet.com
@@ -3144,6 +3145,7 @@ vpnfire.com
 .vpngate.net
 ||vpngate.net
 ||vpnpop.com
+||vpnpronet.com
 
 !--------------------------WW--------------------------
 lists.w3.org/archives/public
