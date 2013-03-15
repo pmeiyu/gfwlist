@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 76P4Fy3CZ//9tstle/TV1w
+! Checksum: dtGzqTfPJPWh11RG1LzGRw
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 04:57:35 -0400
+! Last Modified: Fri, 15 Mar 2013 05:02:14 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -322,7 +322,6 @@ brucewang.net
 .businesstimes.com.cn
 |http://businesstimes.com.cn
 ||bugclub.org
-builtwithbootstrap.com
 ||buugaa.com
 buzzurl.jp
 bwsj.hk
@@ -1886,6 +1885,7 @@ merit-times.com.tw
 .metacafe.com
 ||meteorshowersonline.com
 mgoon.com
+||mgstage.com
 mhradio.org
 ||michaelmarketl.com
 middle-way.net
