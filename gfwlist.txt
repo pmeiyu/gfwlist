@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4K441PROklFJpuuTuTvnlg
+! Checksum: KgtWGZmQ+Yvh8QG7werO+g
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 02:56:47 -0400
+! Last Modified: Fri, 15 Mar 2013 03:10:49 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3128,6 +3128,7 @@ voatibetan.com
 voanews.com/chinese
 vocn.tv
 .vot.org
+||vot.org
 www.voy.com
 ||www.vpncup.com
 vpnbook.com
@@ -3444,6 +3445,7 @@ www.zaurus.org.uk
 .zengjinyan.org
 ||zeutch.com
 http://www.zfreet.com/post/usejump-browns.html
+zgzcjj.net
 .zhanbin.net
 ||zhanbin.net
 zhenghui.org
