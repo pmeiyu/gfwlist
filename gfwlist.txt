@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CqgvDFqMB1qFrVzPTMAsog
+! Checksum: NFhhfPt6FLolLZXHzzHbUg
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 05:45:24 -0400
+! Last Modified: Fri, 15 Mar 2013 06:14:08 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -407,6 +407,7 @@ chinachannel.hk
 .chinaeweekly.com
 ||chinaeweekly.com
 ||chinafreepress.org
+chinageeks.org
 chinagfw.org
 ||chinagfw.org
 .chinagreenparty.org
@@ -612,6 +613,7 @@ dtiserv2.com
 .duoweitimes.com
 ||duoweitimes.com
 duping.net
+||duplicati.com
 dupola.com
 dupola.net
 ||dvorak.org
@@ -1520,6 +1522,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 ||hihistory.net
 .higfw.com
 ||highrockmedia.com
+.himemix.com
 times.hinet.net
 .hk-pub.com/forum
 |http://hk-pub.com
@@ -1788,6 +1791,7 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||linuxreviews.org
 linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lipuman.com
+||listentoyoutube.com
 listorious.com
 ||liudejun.com
 .liuhanyu.com
@@ -1853,6 +1857,7 @@ lvhai.org
 m-team.cc/forum
 www.macrovpn.com
 ||mad-ar.ch
+marguerite.su
 .maiio.net
 mail-archive.com
 malaysiakini.com/cn
@@ -2561,6 +2566,7 @@ sokamonline.com
 .songjianjun.com
 ||songjianjun.com
 .sopcast.com
+.sopcast.org
 soundofhope.org
 ||soundofhope.org
 ||soupofmedia.com
@@ -3212,6 +3218,7 @@ wezhiyong.org
 .whatblocked.com
 ||whatblocked.com
 .whippedass.com
+whylover.com
 ||whyx.org
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
@@ -3669,6 +3676,8 @@ zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 zh.wikipedia.org*%E4%B8%B9%E5%A2%9E%E5%98%89%E6%8E%AA
 !--Dong Feng - 21 Zhong Cheng Dan Dao Dao Dan
 zh.wikipedia.org*%E4%B8%9C%E9%A3%8E-21%E4%B8%AD%E7%A8%8B%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9 
+!--Dong Feng - 31 Zhou Ji Dan Dao Dao Dan
+zh.wikipedia.org*%E6%9D%B1%E9%A2%A8-31%E6%B4%B2%E9%9A%9B%E5%BD%88%E9%81%93%E5%B0%8E%E5%BD%88
 !--Duo Wei
 zh.wikipedia.org*%E5%A4%9A%E7%BB%B4
 zh.wikipedia.org*%E5%A4%9A%E7%B6%AD
