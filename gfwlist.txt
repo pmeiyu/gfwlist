@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VyKPdSlJ6I70lWKvF6ZbHg
+! Checksum: Y8dMBBQJMKVFEoiJzqlysw
 ! Expires: 6h
-! Last Modified: Fri, 15 Mar 2013 06:25:18 -0400
+! Last Modified: Sat, 16 Mar 2013 00:10:08 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3976,6 +3976,8 @@ zh.wikipedia.org*%E8%A5%BF%E5%8D%95%E6%B0%91%E4%B8%BB%E5%A2%99
 zh.wikipedia.org*%E7%BF%92%E8%BF%91%E5%B9%B3
 !--Xi Jin Ping
 zh.wikipedia.org*%E4%B9%A0%E8%BF%91%E5%B9%B3
+!--Xi Xiang Ji Hua
+zh.wikipedia.org*%E8%A5%BF%E5%8E%A2%E8%AE%A1%E5%88%92
 !--Xi Zang
 zh.wikipedia.org*%E8%A5%BF%E8%97%8F
 !--Xi Zhong Xun
