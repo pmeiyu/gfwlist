@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: aoJ33qNSWxMQcge3HRxEpg
+! Checksum: ugZ/YE9NYmAOua0eQV0osg
 ! Expires: 6h
-! Last Modified: Mon, 18 Mar 2013 11:30:15 -0400
+! Last Modified: Mon, 18 Mar 2013 11:31:10 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1633,7 +1633,7 @@ imageshack.us
 ||imkev.com
 .imlive.com
 immigration.gov.tw
-|http://tech2.in.com/video/*
+|http://tech2.in.com/video/
 ||incredibox.fr
 .inmediahk.net
 ||inmediahk.net
