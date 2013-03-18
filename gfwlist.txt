@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: IPvOEuwjNjjv8QQJJAR+vA
+! Checksum: aoJ33qNSWxMQcge3HRxEpg
 ! Expires: 6h
-! Last Modified: Mon, 18 Mar 2013 06:41:04 -0400
+! Last Modified: Mon, 18 Mar 2013 11:30:15 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2548,6 +2548,7 @@ home.so-net.net.tw/yisa_tsai
 ||soc.mil/
 .sod.co.jp
 .softether.org
+||softether.org
 ||sogclub.com
 sohcradio.com
 ||sohcradio.com
