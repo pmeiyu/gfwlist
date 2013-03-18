@@ -1,8 +1,12 @@
 [AutoProxy 0.2.9]
-! Checksum: Y8dMBBQJMKVFEoiJzqlysw
+! Checksum: IPvOEuwjNjjv8QQJJAR+vA
 ! Expires: 6h
-! Last Modified: Sat, 16 Mar 2013 00:10:08 -0400
+! Last Modified: Mon, 18 Mar 2013 06:41:04 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
+
+!-----------Google GHS(74.125.128.121)-----------
+|http://www.hcm.com.tw
+|http://www.1024cores.net
 
 !--------------------Restricted--------------------
 hulu.com
@@ -1629,6 +1633,7 @@ imageshack.us
 ||imkev.com
 .imlive.com
 immigration.gov.tw
+|http://tech2.in.com/video/*
 ||incredibox.fr
 .inmediahk.net
 ||inmediahk.net
@@ -1664,7 +1669,7 @@ isunaffairs.com
 isuntv.com
 itaboo.info
 ||itaboo.info
-ithelp.ithome.com.tw/question/10007094
+ithelp.ithome.com.tw
 .itweet.net
 |http://itweet.net
 .iu45.com
@@ -2145,6 +2150,8 @@ bbs.ozchinese.com
 .pacificpoker.com
 .packetix.net
 page2rss.com
+||pagodabox.com
+
 !--Godaddy Free Hosting
 ||paint.net
 ||coveringweb.com
@@ -2540,6 +2547,7 @@ smhric.org
 home.so-net.net.tw/yisa_tsai
 ||soc.mil/
 .sod.co.jp
+.softether.org
 ||sogclub.com
 sohcradio.com
 ||sohcradio.com
