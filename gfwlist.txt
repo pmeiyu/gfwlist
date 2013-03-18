@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ugZ/YE9NYmAOua0eQV0osg
+! Checksum: ebS8IEpeCi28M4aGf3PrnA
 ! Expires: 6h
-! Last Modified: Mon, 18 Mar 2013 11:31:10 -0400
+! Last Modified: Mon, 18 Mar 2013 11:48:31 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -352,6 +352,7 @@ canadameet.com
 caochangqing.com
 ||caochangqing.com
 cari.com.my
+||catfightpayperview.xxx
 .catholic.org.hk
 ||catholic.org.hk
 catholic.org.tw
@@ -2234,6 +2235,7 @@ blog.pilotmoon.com
 plays.com.tw
 ||m.plixi.com
 plm.org.hk
+plunder.com
 plurk.com
 ||plurk.com
 .plus28.com
@@ -3672,6 +3674,8 @@ zh.wikipedia.org*%E6%9F%B4%E7%8E%B2
 zh.wikipedia.org*%E4%BB%93%E5%A4%AE%E5%98%89%E6%8E%AA
 !--Cao Chang Qing
 zh.wikipedia.org*%E6%9B%B9%E9%95%B7%E9%9D%92
+!--Chen Guang Cheng
+zh.wikipedia.org*%E9%99%88%E5%85%89%E8%AF%9A
 !--Da Ji Yuan
 zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83
 !--Da Ji Yuan Shi Bao (zh-hans)
