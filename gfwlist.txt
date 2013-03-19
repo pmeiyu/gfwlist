@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 38vDNXh6ZMl9feAMj4cqlw
+! Checksum: ur6os3ADU8HP0afgqb2Jgg
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 00:35:03 -0400
+! Last Modified: Tue, 19 Mar 2013 00:42:47 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -244,6 +244,7 @@ bigfools.com
 .bigsound.org/portnoy
 ||bill2-software.com
 ||billywr.com
+bipic.net
 .bit.ly
 |http://bit.ly
 .bitshare.com/files
@@ -3877,6 +3878,8 @@ zh.wikipedia.org*%E6%8C%AA%E5%A8%81
 zh.wikipedia.org*%E5%BD%AD%E4%B8%BD%E5%AA%9B
 !--Po Wang
 zh.wikipedia.org*%E7%A0%B4%E7%BD%91
+!--Qin Cheng Jian Yu
+zh.wikipedia.org*%E7%A7%A6%E5%9F%8E%E7%9B%91%E7%8B%B1
 !--Qing Chao
 zh.wikipedia.org*%E6%B8%85%E6%9C%9D
 !--Ran Shao Ping (GB+UTF8)
