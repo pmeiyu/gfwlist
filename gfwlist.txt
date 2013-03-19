@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mcD1RDL+YPxPT/s5VHyOsQ
+! Checksum: 38vDNXh6ZMl9feAMj4cqlw
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 00:26:44 -0400
+! Last Modified: Tue, 19 Mar 2013 00:35:03 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -877,6 +877,7 @@ gardennetworks.com
 .gazotube.com
 ||gazotube.com
 ||gclooney.com
+.gcpnews.com
 .gdbt.net/forum
 gdzf.org
 ||geek-art.net
@@ -3938,6 +3939,8 @@ zh.wikipedia.org/wiki/Twitter
 zh.wikipedia.org*%E4%B8%87%E9%87%8C
 !--Wang Jun Tao
 zh.wikipedia.org*%E7%8E%8B%E5%86%9B%E6%B6%9B
+!--Wang Li Jun(*/Shi Jian)
+zh.wikipedia.org*%E7%8E%8B%E7%AB%8B%E5%86%9B
 !--Wang Qi Shan
 zh.wikipedia.org*%E7%8E%8B%E5%B2%90%E5%B1%B1
 !--Wang Qian Yuan
