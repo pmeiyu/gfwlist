@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hOD8sy4Qt8osOfWB5C35qQ
+! Checksum: J56XlOg3OFigL29mSGKfvw
 ! Expires: 6h
-! Last Modified: Mon, 18 Mar 2013 23:53:39 -0400
+! Last Modified: Mon, 18 Mar 2013 23:56:05 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3726,6 +3726,8 @@ zh.wikipedia.org*%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B
 zh.wikipedia.org*%E9%AB%98%E8%A1%8C%E5%81%A5
 !--GFW
 zh.wikipedia.org*GFW
+!--Gong Gong Zhi Shi Fen Zi
+zh.wikipedia.org*%E5%85%AC%E5%85%B1%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90
 !--Google Shen Cha
 zh.wikipedia.org*Google%E5%AE%A1%E6%9F%A5
 !--Gu Ge Tui Chu Zhong Guo Shi Jian (Google)
