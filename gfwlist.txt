@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yrroPq021Oa9l2CKCCnljw
+! Checksum: 4xOhncbSOMuEaNDcuEVIAA
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 04:28:30 -0400
+! Last Modified: Tue, 19 Mar 2013 04:44:58 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2676,6 +2676,7 @@ tabtter.jp
 tagwalk.com
 ||tagwalk.com
 taipei.gov.tw
+.taipeisociety.org
 .taiwandaily.net
 ||taiwantt.org.tw
 ||taiwandaily.net
