@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FPrPznzyZV73t+vDh3jsjQ
+! Checksum: 7T8OZeDbaEhdaawPGeKZVg
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 07:49:02 -0400
+! Last Modified: Tue, 19 Mar 2013 07:56:11 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1299,6 +1299,8 @@ google*search*q=cache
 .google.*%E4%BB%A3%E7%90%86
 !--Facebook
 .google.*facebook
+!--Fa La Li
+.google.*%E6%B3%95%E6%8B%89%E5%88%A9
 !--Falungong
 .google.*falungong
 !--Fan Qiang
@@ -1315,6 +1317,8 @@ google*search*q=cache
 .google.*%E5%B9%BF%E5%9C%BA
 !--Guo Jia Fang Huo Qiang Zhi Fu
 .google.*%E5%9B%BD%E5%AE%B6%E9%98%B2%E7%81%AB%E5%A2%99
+!--Ha Ma
+.google.*%E8%9B%A4%E8%9F%86
 !--Ji Zhe Wu Jiang Jie
 .google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
 !--Jia bao
@@ -1368,7 +1372,7 @@ google*search*q=cache
 !--Tan Zuo Ren
 .google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men
-google.*%E5%A4%A9%E5%AE%89%E9%97%A8
+.google.*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tian Mie
 .google.*%E5%A4%A9%E7%81%AD
 !--Tu Ni Si
@@ -1383,6 +1387,8 @@ google.*%E5%A4%A9%E5%AE%89%E9%97%A8
 .google.*%E4%BC%8D%E5%87%A1
 !--Xi Lai
 .google.*%E7%86%99%E6%9D%A5
+!--Xin Jing Bao
+.google.*%E6%96%B0%E4%BA%AC%E6%8A%A5
 !--Yue Yue
 .google.*%E6%9C%88%E6%9C%88
 !--Ying Di
@@ -1440,8 +1446,7 @@ google.*%E5%A4%A9%E5%AE%89%E9%97%A8
 .google.com/m*%E4%B9%A0
 .google.*/search*%E4%B9%A0
 !--Zhou
-.google.com/m*%E5%91%A8
-.google.*/search*%E5%91%A8
+.google.*%E5%91%A8
 
 !-------------Google.other-----
 |https://*docs.google.com
