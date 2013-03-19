@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Nl6nZR6EN2Gxrvl5UErXwA
+! Checksum: yE/iR8sh77Q008CuTb/K5w
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 04:56:23 -0400
+! Last Modified: Tue, 19 Mar 2013 05:21:34 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1371,6 +1371,8 @@ google.*%E5%A4%A9%E5%AE%89%E9%97%A8
 .google.com*search*%E6%B1%AA%E6%96%AF
 !--Wo Mei You Di Ren
 google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
+!--Wu Fan
+google.*%E4%BC%8D%E5%87%A1
 !--Xi Lai
 .google.com*%E7%86%99%E6%9D%A5
 !--Yue Yue
@@ -1555,6 +1557,7 @@ hkgolden.com
 .hkgreenradio.org/home
 .hkheadline.com*blog
 .hkheadline.com/instantnews
+.hkhkhk.com
 hkjc.com
 .hkjp.org
 hkptu.org
@@ -1576,6 +1579,7 @@ hotpot.hk
 ||hougaige.com
 .hqcdp.org
 ||hqcdp.org
+.hrcir.com
 hrichina.org
 .hrw.org
 ||hsjp.net
@@ -1623,8 +1627,8 @@ ifanqiang.com
 .ifcss.org
 ||ifcss.org
 ifjc.org
-cydia.ifuckgfw.com
-||cydia.ifuckgfw.com
+!--cydia.ifuckgfw.com
+!--||cydia.ifuckgfw.com
 ||antidrm.hpg.ig.com.br
 ||igfw.net
 ||ignitedetroit.net
@@ -1671,7 +1675,7 @@ http://beta.iset.com.tw/forum
 forum.iset.com.tw
 .islam.org.hk
 .isaacmao.com
-||isaacmao.com
+||!--isaacmao.com
 ||isgreat.org
 ||ismprofessional.net
 isohunt.com
@@ -3899,6 +3903,8 @@ zh.wikipedia.org*%E6%8C%AA%E5%A8%81
 zh.wikipedia.org*%E5%BD%AD%E4%B8%BD%E5%AA%9B
 !--Po Wang
 zh.wikipedia.org*%E7%A0%B4%E7%BD%91
+!--Pu Zhi Qiang
+zh.wikipedia.org*%E6%B5%A6%E5%BF%97%E5%BC%BA
 !--Qin Cheng Jian Yu
 zh.wikipedia.org*%E7%A7%A6%E5%9F%8E%E7%9B%91%E7%8B%B1
 !--Qing Chao
