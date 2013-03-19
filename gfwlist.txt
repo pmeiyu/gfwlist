@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QzAC8P9pMN8O/3wYjdtTIQ
+! Checksum: NN/NT0aq68Nq2/dkMs1jVA
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 01:04:16 -0400
+! Last Modified: Tue, 19 Mar 2013 01:07:14 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2498,6 +2498,7 @@ shinychan.com
 .shizhao.org
 shkspr.mobi/dabr
 .shopping.com
+.showtime.jp
 ch.shvoong.com
 .shwchurch3.com
 |http://shwchurch3.com
