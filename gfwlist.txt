@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YhLT/H/3LLnm5QMWySXvag
+! Checksum: hOD8sy4Qt8osOfWB5C35qQ
 ! Expires: 6h
-! Last Modified: Mon, 18 Mar 2013 23:48:38 -0400
+! Last Modified: Mon, 18 Mar 2013 23:53:39 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -17,6 +17,7 @@ huluim.com
 ||pandora.com
 .pandora.tv
 ||pure18.com
+||turntable.fm
 ||vevo.com
 
 !--------------------iTunes--------------------
@@ -3265,6 +3266,7 @@ woopie.jp
 ||woopie.jp
 woopie.tv
 ||woopie.tv
+||workatruna.com
 worldjournal.com
 
 !-------------Wordpress Blog-----
