@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yE/iR8sh77Q008CuTb/K5w
+! Checksum: jF0xWBgbNhd2g0kTRdNTxQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 05:21:34 -0400
+! Last Modified: Tue, 19 Mar 2013 05:26:44 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1547,6 +1547,7 @@ times.hinet.net
 .hk32168.com
 ||hk32168.com
 app.hkatvnews.com/v3
+hkbc.net
 .hkbf.org
 hkday.net
 .hkdailynews.com.hk/china.php
@@ -3717,6 +3718,8 @@ zh.wikipedia.org*%E9%81%94%E8%98%AD%E8%96%A9%E6%8B%89
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 !--Dan Zeng Jia Cuo
 zh.wikipedia.org*%E4%B8%B9%E5%A2%9E%E5%98%89%E6%8E%AA
+!--Ding Zi Lin
+zh.wikipedia.org*%E4%B8%81%E5%AD%90%E9%9C%96
 !--Dong Feng - 21 Zhong Cheng Dan Dao Dao Dan
 zh.wikipedia.org*%E4%B8%9C%E9%A3%8E-21%E4%B8%AD%E7%A8%8B%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9 
 !--Dong Feng - 31 Zhou Ji Dan Dao Dao Dan
@@ -3806,6 +3809,8 @@ zh.wikipedia.org*%E9%BB%84%E4%B8%87%E9%87%8C
 zh.wikipedia.org*%E5%9B%9E%E8%89%AF%E7%8E%89
 !--Huo Ying Dong
 zh.wikipedia.org*%E9%9C%8D%E8%8B%B1%E6%9D%B1
+!--Ji Liu Zhong Guo
+zh.wikipedia.org*%E6%BF%80%E6%B5%81%E4%B8%AD%E5%9B%BD
 !--Jia Jing
 zh.wikipedia.org*%E5%98%89%E9%9D%96
 !--Jia Le Fu
