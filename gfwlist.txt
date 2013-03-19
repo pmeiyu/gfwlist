@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EjUzZ+TkfmnysLq9RUyx3Q
+! Checksum: lipyAh42yVpOnE9kJvExFQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 08:32:23 -0400
+! Last Modified: Tue, 19 Mar 2013 08:38:53 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1276,6 +1276,7 @@ google*search*q=cache
 .google.*goagent
 .google.*great*firewall
 .google.*hujin
+.google.*jiaqinglin
 .google.*protest*1989
 .google.*nytimes
 .google.*search*Tankman
@@ -1293,6 +1294,8 @@ google*search*q=cache
 
 !--Bei Guo Zhi Chun
 .google.*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
+!--Bei Jing Zhi Chun
+.google.*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 
 !--Da Lai La Ma
 .google.*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Dai Li/Proxy
@@ -2616,6 +2619,7 @@ sokamonline.com
 .sopcast.com
 .sopcast.org
 soundcloud.com/punkgod
+|https://soundcloud.com/punkgod
 soundofhope.org
 ||soundofhope.org
 ||soupofmedia.com
