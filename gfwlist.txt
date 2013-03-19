@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NN/NT0aq68Nq2/dkMs1jVA
+! Checksum: KYpcvcsW8im9GOUX0LHUvg
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 01:07:14 -0400
+! Last Modified: Tue, 19 Mar 2013 03:53:47 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -696,6 +696,7 @@ eventful.com
 ||exblog.jp
 ||blog.exblog.co.jp
 @@||www.exblog.jp
+||expatshield.com
 ||exploader.net
 eyevio.jp
 ||eyevio.jp
@@ -1677,6 +1678,7 @@ isuntv.com
 itaboo.info
 ||itaboo.info
 ithelp.ithome.com.tw
+||itshidden.com
 .itweet.net
 |http://itweet.net
 .iu45.com
@@ -2141,6 +2143,7 @@ tui.orzdream.com
 m.oulove.org
 ||ourdearamy.com
 oursogo.com
+oursteps.com.au
 share.ovi.com/media
 |http://owl.li
 |http://ht.ly
