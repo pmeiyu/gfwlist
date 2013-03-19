@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WtP+77oGFbWMd1LZ4TISkw
+! Checksum: ZmBWnlsniiL5GJVkqCTAkQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 09:51:53 -0400
+! Last Modified: Tue, 19 Mar 2013 10:01:16 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3920,6 +3920,8 @@ zh.wikipedia.org*%E5%88%98%E6%B7%87
 zh.wikipedia.org*%E5%85%AD%E5%9B%9B
 !--Liu Si Shi Jian
 zh-yue.wikipedia.org*%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
+!--Liu Xiao Bo
+zh.wikipedia.org*%E5%8A%89%E6%9B%89%E6%B3%A2
 !--Liu Yan Dong
 zh.wikipedia.org*%E5%88%98%E5%BB%B6%E4%B8%9C
 !--Liu Yun Shan
@@ -3989,6 +3991,7 @@ zh.wikipedia.org*%E4%B8%96%E7%95%8C%E7%B6%AD%E5%90%BE%E7%88%BE%E4%BB%A3%E8%A1%A8
 zh.wikipedia.org*%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96
 !--Shi Tao
 zh.wikipedia.org*%E5%B8%88%E6%B6%9B
+zh.wikipedia.org*%E5%B8%AB%E6%BF%A4
 !--Shi Xing Yun
 zh.wikipedia.org*%E9%87%8A%E6%98%9F%E4%BA%91
 !--Si Tu Hua (zh-hans/hant)
@@ -4147,8 +4150,9 @@ zh.wikipedia.org*%E4%BD%99%E6%9D%B0
 zh.wikipedia.org*%E4%BF%9E%E4%B8%BD%E8%90%8D
 !--Yu Zheng Sheng
 zh.wikipedia.org*%E4%BF%9E%E6%AD%A3%E5%A3%B0
-!--Yuan Hong Bin
+!--Yuan Hong Bing
 zh.wikipedia.org*%E8%A2%81%E7%BA%A2%E5%86%B0
+zh.wikipedia.org*%E8%A2%81%E7%B4%85%E5%86%B0
 !--Zhang De Jiang
 zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhang Gao Li
