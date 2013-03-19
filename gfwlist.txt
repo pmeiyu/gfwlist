@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ySnc5znUxozevpe4gMP2ig
+! Checksum: WtP+77oGFbWMd1LZ4TISkw
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 09:41:24 -0400
+! Last Modified: Tue, 19 Mar 2013 09:51:53 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3710,6 +3710,7 @@ zh.wikipedia.org*%E8%89%BE%E6%9C%AA%E6%9C%AA
 zh.wikipedia.org*%E7%8F%AD%E7%A6%85
 !--Bao Tong
 zh.wikipedia.org*%E9%B2%8D%E5%BD%A4
+zh.wikipedia.org*%E9%AE%91%E5%BD%A4
 !--Bei Jing Gao Xiao Xue Sheng Zi Zhi Lian He Hui
 zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E8%87%AA%E6%B2%BB%E8%81%94%E5%90%88%E4%BC%9A
 !--Bei Jing Zhi Chun
@@ -3837,6 +3838,7 @@ zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E8%BD%AF%E4%BB%B6
 zh.wikipedia.org*%E8%8A%B1%E5%9B%AD%E7%BD%91
 !--Huang Qi
 zh.wikipedia.org*%E9%BB%84%E7%90%A6
+zh.wikipedia.org*%E9%BB%83%E7%90%A6
 !--Huang Que Xing Dong
 zh.wikipedia.org*%E9%BB%83%E9%9B%80%E8%A1%8C%E5%8B%95
 !--Huang Wan Li
@@ -3894,6 +3896,8 @@ zh.wikipedia.org*%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BC%A4%E5%8F%A3
 zh.wikipedia.org*%E6%9D%8E%E8%8B%B1%E6%B5%A9
 !--Li Yuan Chao
 zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
+!--Liao Yi Wu
+zh.wikipedia.org*%E5%BB%96%E4%BA%A6%E6%AD%A6
 !--Liang Guo Xiong
 zh.wikipedia.org*%E6%A2%81%E5%9B%BD%E9%9B%84
 !--Lin Guo Xiong
@@ -4007,6 +4011,8 @@ zh.wikipedia.org/zh/%E5%A4%AA%E5%AD%90%E5%85%9A
 zh.wikipedia.org/zh-cn/%E5%A4%AA%E5%AD%90%E5%85%9A
 !--Tan Zuo Ren
 zh.wikipedia.org*%E8%B0%AD%E4%BD%9C%E4%BA%BA
+!--Tang Bo Qiao
+zh.wikipedia.org*%E5%94%90%E6%9F%8F%E6%A1%A5
 !--Tao Si Ju
 zh.wikipedia.org/zh/%E9%99%B6%E9%A9%B7%E9%A9%B9
 !--Tian An Men Guang Chang
