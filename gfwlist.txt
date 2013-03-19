@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ur6os3ADU8HP0afgqb2Jgg
+! Checksum: VRSS0vjCLKKTuDpMTC9Xyw
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 00:42:47 -0400
+! Last Modified: Tue, 19 Mar 2013 00:54:28 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -150,6 +150,7 @@ anontext.com
 ||anthonycalzadilla.com
 .antiwave.net
 |http://antiwave.net
+||aobo.com.au
 ||aolchannels.aol.com
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
@@ -714,6 +715,7 @@ falunart.org
 falundafa.org
 falundafamuseum.org
 ||falunhr.org
+||fanglizhi.info
 fangongheike.com
 .farxian.com
 .fawanghuihui.org
@@ -2642,6 +2644,7 @@ api.supertweet.net
 www.supertweet.net
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
+||svwind.com
 ||sweux.com
 ||swift-tools.net
 .sydneytoday.com
@@ -2919,6 +2922,7 @@ bbs.tuitui.info
 ||www.tv.com
 |http://tv.com
 ||tv-intros.com
+tvants.com
 forum.tvb.com/
 tvboxnow.com
 tvider.com
@@ -3753,6 +3757,7 @@ zh.wikipedia.org*%E6%B2%B3%E6%AE%87
 !--Hou De Jian
 zh.wikipedia.org*%E4%BE%AF%E5%BE%B7%E5%BB%BA
 zh.wikipedia.org*%E4%BE%AF%E8%B5%9B%E5%9B%A0%E6%B1%9F
+zh.wikipedia.org*%E4%BE%AF%E5%BE%B7%E5%81%A5
 !--Hu Jia (She Hui Huo Dong Jia) (+Redir)
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%281973%E5%B9%B4%29
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
@@ -4043,6 +4048,8 @@ zh.wikipedia.org*%E9%9B%8D%E5%92%8C%E5%AE%AB
 zh.wikipedia.org*%E5%B9%BD%E7%81%B5%E7%BD%91
 !--Yu Jie
 zh.wikipedia.org*%E4%BD%99%E6%9D%B0
+!--Yu Li Ping
+zh.wikipedia.org*%E4%BF%9E%E4%B8%BD%E8%90%8D
 !--Yu Zheng Sheng
 zh.wikipedia.org*%E4%BF%9E%E6%AD%A3%E5%A3%B0
 !--Yuan Hong Bin
