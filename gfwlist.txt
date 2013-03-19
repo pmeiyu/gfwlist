@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DOK9Q01apAbHtrKgKDixsQ
+! Checksum: A3QRjfcqjNA5sb4FbFKuew
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 04:13:00 -0400
+! Last Modified: Tue, 19 Mar 2013 04:24:17 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -258,6 +258,7 @@ bjzc.org
 tor.blingblingsquad.net
 .blinkx.com
 ||blinkx.com
+blinw.com
 .blip.tv
 ||blip.tv/
 .blockcn.com
