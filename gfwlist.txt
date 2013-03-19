@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PONrG+VbGZ79Nud7MduXIA
+! Checksum: eyu29FWsD2PkMQmuaujvWw
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 05:40:59 -0400
+! Last Modified: Tue, 19 Mar 2013 05:49:49 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3264,8 +3264,12 @@ whylover.com
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikileaks.ch
+||wikileaks.de
+||wikileaks.eu
+||wikileaks.lu
 .wikileaks.org
 ||wikileaks.org
+||wikileaks.pl
 ||collateralmurder.com
 ||collateralmurder.org
 wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
