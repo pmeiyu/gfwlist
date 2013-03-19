@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NPOufJcnGpPKLhGiI6W/Gw
+! Checksum: PONrG+VbGZ79Nud7MduXIA
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 05:36:38 -0400
+! Last Modified: Tue, 19 Mar 2013 05:40:59 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3849,6 +3849,7 @@ zh.wikipedia.org*%E6%9D%8E%E6%B4%AA%E5%BF%97
 zh.wikipedia.org*%E6%9D%8E%E5%85%8B%E5%BC%BA
 !--Li Peng/Li Peng Hui/Li Peng *
 zh.wikipedia.org*%E6%9D%8E%E9%B5%AC
+zh.wikipedia.org*%E6%9D%8E%E9%B9%8F
 !--Li Rui Huan (zh-hans/hant)
 zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%8E%AF
 zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%92%B0
@@ -4089,6 +4090,8 @@ zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 zh.wikipedia.org*%E5%BC%A0%E9%AB%98%E4%B8%BD
 !--Zhang Li Chang
 zh.wikipedia.org*%E5%BC%A0%E7%AB%8B%E6%98%8C
+!--Zhang Pei Li
+zh.wikipedia.org*%E5%BC%A0%E5%9F%B9%E8%8E%89
 !--Zhang Yi He (zh-hans/hant)
 zh.wikipedia.org*%E7%AB%A0%E8%A9%92%E5%92%8C
 zh.wikipedia.org*%E7%AB%A0%E8%AF%92%E5%92%8C
