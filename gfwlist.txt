@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lipyAh42yVpOnE9kJvExFQ
+! Checksum: 8CAvjnYpeaAwPDhAhje3Ww
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 08:38:53 -0400
+! Last Modified: Tue, 19 Mar 2013 09:17:40 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -830,6 +830,7 @@ freemorenews.com
 freenet-china.org
 freenewscn.com
 .freeoz.org/bbs
+||freeoz.org
 ||www.bulbous.freeserve.co.uk
 ||freessh.us
 .free-ssh.com
