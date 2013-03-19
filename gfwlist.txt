@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eyu29FWsD2PkMQmuaujvWw
+! Checksum: ycoZ2vBwqt/P0rRJCs1WzQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 05:49:49 -0400
+! Last Modified: Tue, 19 Mar 2013 07:12:31 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -125,6 +125,7 @@ alliance.org.hk
 .allinfa.com
 |http://allinfa.com
 ||allinfo.com
+||allmovie.com
 ||alternate-tools.com
 alwaysdata.com
 ||alwaysdata.com
@@ -765,6 +766,7 @@ fflick.com
 |http://files2me.com
 .fileserve.com/file
 fillthesquare.org
+||finalion.jp
 findbook.tw
 finler.net
 .fireofliberty.org
@@ -2211,6 +2213,7 @@ blog.pchome.com.tw
 forum.pchome.com.tw
 mypaper.pchome.com.tw
 news.pchome.com.tw
+www.pchome.com.tw
 .pcworld.com/downloads/file/fid,71209-order
 pdetails.com
 ||pdproxy.com
