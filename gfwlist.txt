@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CqVef2GLmuKqwLSkMBgBIw
+! Checksum: ySnc5znUxozevpe4gMP2ig
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 09:18:47 -0400
+! Last Modified: Tue, 19 Mar 2013 09:41:24 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3764,6 +3764,7 @@ zh.wikipedia.org*%E5%8F%8D%E5%8D%8E%E5%8A%BF%E5%8A%9B
 zh.wikipedia.org*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 !--Fang Li Zhi
 zh.wikipedia.org*%E6%96%B9%E5%8A%B1%E4%B9%8B
+zh.wikipedia.org*%E6%96%B9%E5%8B%B5%E4%B9%8B
 !--Fang Zhou Zi
 zh.wikipedia.org*%E6%96%B9%E8%88%9F%E5%AD%90
 !--Fen Qing
@@ -4010,6 +4011,8 @@ zh.wikipedia.org*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 zh.wikipedia.org/zh/%E9%99%B6%E9%A9%B7%E9%A9%B9
 !--Tian An Men Guang Chang
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA
+!--Tian An Men Mu Qin Yun Dong
+zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E8%BF%90%E5%8A%A8
 !--Tian An Men Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Wen Jian
@@ -4118,6 +4121,8 @@ zh.wikipedia.org*%E8%AE%B8%E5%AE%B6%E5%B1%AF
 zh.wikipedia.org*%E9%9B%AA%E5%B1%B1%E7%8D%85%E5%AD%90%E6%97%97
 !--Xun Wen Chu
 zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
+!--Yan Jia Qi
+zh.wikipedia.org*%E5%9A%B4%E5%AE%B6%E5%85%B6
 !--Yan Ming Fu
 zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
 !--Yang Jia Xi Jing An
