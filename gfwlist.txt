@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZmBWnlsniiL5GJVkqCTAkQ
+! Checksum: Kjt3qUk4CFUOYGIUQVAJsQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 10:01:16 -0400
+! Last Modified: Tue, 19 Mar 2013 10:07:32 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3772,6 +3772,7 @@ zh.wikipedia.org*%E6%96%B9%E8%88%9F%E5%AD%90
 zh.wikipedia.org*%E6%84%A4%E9%9D%92
 !--Feng Cong De
 zh.wikipedia.org*%E5%B0%81%E4%BB%8E%E5%BE%B7
+zh.wikipedia.org*%E5%B0%81%E5%BE%9E%E5%BE%B7
 !--Feng Zheng Hu
 zh.wikipedia.org*%E5%86%AF%E6%AD%A3%E8%99%8E
 !--Ga Lun Chi Ba
@@ -4132,6 +4133,7 @@ zh.wikipedia.org*%E9%9B%AA%E5%B1%B1%E7%8D%85%E5%AD%90%E6%97%97
 zh.wikipedia.org*%E8%A9%A2%E5%95%8F%E8%99%95
 !--Yan Jia Qi
 zh.wikipedia.org*%E5%9A%B4%E5%AE%B6%E5%85%B6
+zh.wikipedia.org*%E4%B8%A5%E5%AE%B6%E5%85%B6
 !--Yan Ming Fu
 zh.wikipedia.org*%E9%98%8E%E6%98%8E%E5%A4%8D
 !--Yang Jia Xi Jing An
