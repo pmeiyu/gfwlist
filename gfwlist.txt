@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KYpcvcsW8im9GOUX0LHUvg
+! Checksum: br6iv1HRVRXsv3NP21W6Qw
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 03:53:47 -0400
+! Last Modified: Tue, 19 Mar 2013 04:00:44 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -347,6 +347,8 @@ holz.byethost8.com
 cn.calameo.com
 |http://cn.calameo.com
 canadameet.com
+|http://bbs.cantonese.asia/
+http://www.cantonese.asia/action-bbs.html
 .canyu.org
 .cao.im
 .caobian.info
@@ -1607,6 +1609,7 @@ blogs.icerocket.com/tag
 w.idaiwan.com/forum
 .identi.ca
 ||identi.ca
+||idiomconnection.com
 |http://www.idlcoyote.com
 .idouga.com
 forum.idsam.com
