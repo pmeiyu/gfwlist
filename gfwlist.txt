@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4xOhncbSOMuEaNDcuEVIAA
+! Checksum: eVgMwE9qY/dTPgPiDpOfpg
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 04:44:58 -0400
+! Last Modified: Tue, 19 Mar 2013 04:48:30 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3528,6 +3528,7 @@ zomobo.net
 .zoozle.net
 writer.zoho.com
 .zshare.net/download
+.zsrhao.com
 .zuo.la
 ||zuo.la
 .zuola.com
@@ -3633,10 +3634,9 @@ search*%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B
 !--Zhong Xuan Bu
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
-!-------------en.Wikipedia-----
+!-------------en.Wikipedia-------------
 en.wikipedia.org/wiki/Anti-communism
 en.wikipedia.org/wiki/Book_burning
-en.wikipedia.org/wiki/Carl_Linnaeus
 en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
 en.wikipedia.org/wiki/Charter_08
 en.wikipedia.org/wiki/Chen_Guangcheng
