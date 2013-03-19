@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eVgMwE9qY/dTPgPiDpOfpg
+! Checksum: Nl6nZR6EN2Gxrvl5UErXwA
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 04:48:30 -0400
+! Last Modified: Tue, 19 Mar 2013 04:56:23 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -832,7 +832,7 @@ freenewscn.com
 .free-ssh.com
 ||free-ssh.com
 ||freenetproject.org
-|http://www.freeoz.org/ibbs/index.php
+.freeoz.org
 www.freetibet.org
 ||freewallpaper4.me
 .freewebs.com
@@ -2387,6 +2387,7 @@ blog.redren.com/2009/01/jap-let-you-use-online-stealth
 referer.us
 ||referer.us
 ||reflectivecode.com
+relaxbbs.com
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
@@ -3093,6 +3094,7 @@ humanities.uchicago.edu/faculty/ywang/hi
 !-dignews.udn.com/forum/
 !-forum.udn.com
 ufreevpn.com
+.ugo.com
 uighurbiz.net
 .ulike.net
 |http://www.ukchinese.com/www/22/2009-03/2842.html
@@ -3772,6 +3774,7 @@ zh.wikipedia.org*%E4%BE%AF%E5%BE%B7%E5%81%A5
 !--Hu Jia (She Hui Huo Dong Jia) (+Redir)
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%281973%E5%B9%B4%29
 zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%B4%BB%E5%8B%95%E5%AE%B6%29
+zh.wikipedia.org*%E8%83%A1%E4%BD%B3_%28%E7%A4%BE%E6%9C%83%E6%B4%BB%E5%8B%95%E5%AE%B6%29
 !--Hu Jing Tao
 zh.wikipedia.org*%E8%83%A1%E9%94%A6%E6%B6%9B
 !--Hu Ping (Zuo Jia)
