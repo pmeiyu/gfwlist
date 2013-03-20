@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: g2PKp7eEhrFap4nae4godQ
+! Checksum: LQ/2C9waKxo8+HT5ozDWug
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 22:35:49 -0400
+! Last Modified: Tue, 19 Mar 2013 22:39:42 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1415,6 +1415,8 @@ google*search*q=cache
 .google.*%E6%96%B0%E4%BA%AC%E6%8A%A5
 !--Xuan Yan
 .google.com.*%E5%AE%A3%E8%A8%80
+!--Xue Chao
+.google.*%E5%AD%A6%E6%BD%AE
 !--Yue Yue
 .google.*%E6%9C%88%E6%9C%88
 !--Ying Di
@@ -3900,6 +3902,7 @@ zh.wikipedia.org*%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
 zh.wikipedia.org*%BD%F0%B6%DC%B9%A4%B3%CC
 !--Jiu Ping Gong Chan Dang
 zh.wikipedia.org*%E4%B9%9D%E8%AF%84%E5%85%B1%E4%BA%A7%E5%85%9A
+zh.wikipedia.org*%E4%B9%9D%E8%A9%95%E5%85%B1%E7%94%A2%E9%BB%A8
 !--Ju Lang 2 Xing Qian She Dan Dao Dao Dan
 zh.wikipedia.org*%E5%B7%A8%E6%B5%AA2%E5%9E%8B%E6%BD%9C%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9
 !--Jue Shi
