@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LQ/2C9waKxo8+HT5ozDWug
+! Checksum: m8OwBpwqDahrg2AZzdP0oA
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 22:39:42 -0400
+! Last Modified: Tue, 19 Mar 2013 22:50:17 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -380,6 +380,8 @@ cdjp.org
 .cdnews.com.tw
 cdp1998.org
 ||cdp1998.org
+cdp2006.org
+||cdp2006.org
 cdpweb.org
 ||cdpweb.org
 cdpwu.org
@@ -1312,6 +1314,7 @@ google*search*q=cache
 .google.*%E4%BB%A3%E7%90%86
 !--Facebook
 .google.*facebook
+.google.*%E5%8F%91%E8%AF%BE
 !--Fa La Li
 .google.*%E6%B3%95%E6%8B%89%E5%88%A9
 !--Falungong
@@ -1443,6 +1446,8 @@ google*search*q=cache
 .google.*%E7%9F%A5%E6%83%85%E8%80%85
 !--Zhong Gong
 .google.*%E4%B8%AD%E5%85%B1
+!--Zhong Guo Min Zhu Dang
+.google.*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
 !--Zhong Guo Shu Zi Shi Dai
 .google.*%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3
 !--Zhong Guo Yuan Min Da Tong Meng
@@ -3143,6 +3148,7 @@ guomin.us/login
 
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
+||ucdc1998.org
 humanities.uchicago.edu/faculty/ywang/hi
 ||udn.com
 .udn.com
@@ -3314,6 +3320,7 @@ wezhiyong.org
 .whippedass.com
 whylover.com
 ||whyx.org
+evchk.wikia.com/wiki/%E5%A4%A7%E7%B4%80%E5%85%83%E6%99%82%E5%A0%B1
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikileaks.ch
@@ -4214,6 +4221,8 @@ zh.wikipedia.org*%E5%BC%A0%E9%92%B0
 zh.wikipedia.org*%E5%BC%B5%E9%88%BA
 !--Zhao Zi Yang (zh-hant)
 zh.wikipedia.org*%E8%B6%99%E7%B4%AB%E9%99%BD
+!--Zhen Shan Ren
+zh.wikipedia.org*%E7%9C%9F%E5%96%84%E5%BF%8D
 !--Zhong Gong Zhong Yang Xuan Chuan Bu
 zh.wikipedia.org*%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%AE%A3%E4%BC%A0%E9%83%A8
 !--Zhong Guo Chi Bu Tong Zheng Jian Zhe Ming Dan
