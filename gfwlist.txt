@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RPvfRd/CvPZyeFA36qb47Q
+! Checksum: DpKVC9MSqfzIP//FHSrYNg
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 22:04:28 -0400
+! Last Modified: Tue, 19 Mar 2013 22:14:25 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1331,6 +1331,8 @@ google*search*q=cache
 .google.*%E5%AE%B6%E5%AE%9D
 !--Jia Qing Lin
 .google.*%E5%81%87%E5%BA%86%E6%B7%8B
+!--Jie Yan
+.google.*%E6%88%92%E4%B8%A5
 !--Jin Tao
 .google.*%E9%94%A6%E6%B6%9B
 !--Jin Ping
@@ -1369,6 +1371,8 @@ google*search*q=cache
 .google.*%E8%BF%AB%E5%AE%B3
 !--Qian Shi Jin Sheng
 .google.*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
+!--Qiang Sheng
+.google.*%E6%9E%AA%E5%A3%B0
 !--Ri Ji
 .google.*%E6%97%A5%E8%AE%B0
 !--San Tui
@@ -1383,6 +1387,9 @@ google*search*q=cache
 .google.*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tian Mie
 .google.*%E5%A4%A9%E7%81%AD
+!--Tian Xian Bao Bao + Kang Shi Fu + *(reversed)
+.google.*%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D*%E5%BA%B7%E5%B8%88%E5%82%85
+.google.*%E5%BA%B7%E5%B8%88%E5%82%85*%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D
 !--Tu Ni Si
 .google.*%E7%AA%81%E5%B0%BC%E6%96%AF
 !--Tui Te
@@ -1413,10 +1420,14 @@ google*search*q=cache
 .google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
 .google.*%E7%9C%9F%E7%9B%B8
+!--Zheng Bian
+.google.*%E6%94%BF%E5%8F%98
 !--Zheng Zhi Ju
 .google.*%E6%94%BF%E6%B2%BB%E5%B1%80
 !--Zhong Gong
 .google.*%E4%B8%AD%E5%85%B1
+!--Zhong Guo Shu Zi Shi Dai
+.google.*%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3
 !--Zhong Guo Yuan Min Da Tong Meng
 .google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zi You Men
