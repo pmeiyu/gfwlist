@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: m8OwBpwqDahrg2AZzdP0oA
+! Checksum: m1hDdcKm8Qb6HI9cJYuHfw
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 22:50:17 -0400
+! Last Modified: Tue, 19 Mar 2013 22:57:33 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -382,6 +382,7 @@ cdp1998.org
 ||cdp1998.org
 cdp2006.org
 ||cdp2006.org
+cdpusa.org
 cdpweb.org
 ||cdpweb.org
 cdpwu.org
@@ -1321,6 +1322,8 @@ google*search*q=cache
 .google.*falungong
 !--Fan Qiang
 .google.*%E7%BF%BB%E5%A2%99
+!--Fang Bin Xing(SB)
+.google.*%E6%96%B9%E6%BB%A8%E5%85%B4
 !--Gao Zhi Sheng
 .google.*%E9%AB%98%E6%99%BA%E6%99%9F
 !--Ge Ming
