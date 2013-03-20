@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EbKbLeCwo4SE7ST9So5UTw
+! Checksum: sWwXzhqrCidkyAnBctc2Lg
 ! Expires: 6h
-! Last Modified: Wed, 20 Mar 2013 00:19:07 -0400
+! Last Modified: Wed, 20 Mar 2013 07:09:48 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2243,6 +2243,7 @@ opnir.com/215/myentunnel-ssh-autoproxy-cross-gfw
 www.orchidbbs.com
 orientaldaily.com.my
 ||orientaldaily.com.my
+orientaldaily.on.cc
 ||orn.jp
 t.orzdream.com
 ||t.orzdream.com
