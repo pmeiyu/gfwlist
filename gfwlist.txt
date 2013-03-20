@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +D3v+qRwvzOy8fewJ/pkWQ
+! Checksum: 3TbkrwbIfM6DRil+XpciQQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 23:44:01 -0400
+! Last Modified: Tue, 19 Mar 2013 23:48:33 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2196,6 +2196,7 @@ oizoblog.com
 .okayfreedom.com
 old-cat.net
 ||olumpo.com
+.olympicwatch.org
 omgili.com
 omnitalk.com
 forum.omy.sg
