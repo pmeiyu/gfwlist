@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ASLmWImu8b7PccJutSv0tQ
+! Checksum: hh8G5e+uQHUDD5xjqtwCeQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 23:53:31 -0400
+! Last Modified: Tue, 19 Mar 2013 23:58:10 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1282,14 +1282,16 @@ google*search*q=cache
 !-.google.*301
 .google.*search*8964
 .google.*facebook
-.google.*falungong
+.google.*falun
 .google.*gfw
 .google.*goagent
 .google.*great*firewall
 .google.*hujin
 .google.*jiaqinglin
-.google.*protest*1989
+.google.*minghui
 .google.*nytimes
+.google.*protest*1989
+.google.*prisoner+of+the+state
 .google.*search*Tankman
 .google.*tbm=mbl
 .google.*tbm%3Dmbl
@@ -1304,8 +1306,12 @@ google*search*q=cache
 .google.*Tibetan*independence
 .google.*twitter
 
-!--08 Xian Zhang
+!--08 * Xian Zhang
 .google.*08*%E5%AE%AA%E7%AB%A0
+!--64 * Zhen Xiang
+.google.*64*%E7%9C%9F%E7%9B%B8
+!--64 * Zhen Ya
+.google.*64*%E9%95%87%E5%8E%8B
 !--Ba Jiu
 .google.*%E5%85%AB%E4%B9%9D
 !--Bei Guo Zhi Chun
