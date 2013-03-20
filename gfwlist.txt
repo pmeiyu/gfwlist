@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DXowcYPZW6u5ImUiPtUjYQ
+! Checksum: +D3v+qRwvzOy8fewJ/pkWQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 23:42:57 -0400
+! Last Modified: Tue, 19 Mar 2013 23:44:01 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1321,6 +1321,8 @@ google*search*q=cache
 .google.*%E4%BB%A3%E7%90%86
 !--Di Xia Jiao Hui
 .google.*%E5%9C%B0%E4%B8%8B%E6%95%99%E4%BC%9A
+!--Du Li Zhong Wen Bi Hui
+.google.*%E7%8B%AC%E7%AB%8B%E4%B8%AD%E6%96%87%E7%AC%94%E4%BC%9A
 !--Fa Ke
 .google.*%E5%8F%91%E8%AF%BE
 !--Fa La Li
