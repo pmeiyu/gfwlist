@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Kjt3qUk4CFUOYGIUQVAJsQ
+! Checksum: GtTKCLLME6TPVDd5TgiNSw
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 10:07:32 -0400
+! Last Modified: Tue, 19 Mar 2013 21:29:10 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3504,7 +3504,7 @@ youtu.be
 .youtube.com
 ||youtube.com
 !--/^https?:\/\/[^\/]+youtube\.com/
-.youtube-nocookie.com
+||youtube-nocookie.com
 .youtubecn.com
 youversion.com
 ||youversion.com
