@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AJDtUUARXfqkst2kREZQhQ
+! Checksum: 8FNaFjhOeAjefFEfm7bYPQ
 ! Expires: 6h
-! Last Modified: Wed, 20 Mar 2013 00:10:08 -0400
+! Last Modified: Wed, 20 Mar 2013 00:11:49 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1289,6 +1289,8 @@ google*search*q=cache
 .google.*great*firewall
 .google.*hujin
 .google.*jiaqinglin
+.google.*jiangzemin
+.google.*&q=jzm
 .google.*minghui
 .google.*nytimes
 .google.*protest*1989
