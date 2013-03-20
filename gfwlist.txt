@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DpKVC9MSqfzIP//FHSrYNg
+! Checksum: AZFE0MjW7vpatzwyfQmCyQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 22:14:25 -0400
+! Last Modified: Tue, 19 Mar 2013 22:16:55 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1424,6 +1424,8 @@ google*search*q=cache
 .google.*%E6%94%BF%E5%8F%98
 !--Zheng Zhi Ju
 .google.*%E6%94%BF%E6%B2%BB%E5%B1%80
+!--Zhi Qing Zhe
+.google.*%E7%9F%A5%E6%83%85%E8%80%85
 !--Zhong Gong
 .google.*%E4%B8%AD%E5%85%B1
 !--Zhong Guo Shu Zi Shi Dai
@@ -1431,9 +1433,10 @@ google*search*q=cache
 !--Zhong Guo Yuan Min Da Tong Meng
 .google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zi You Men
-.google.com*%E8%87%AA%E7%94%B1%E9%97%A8
+.google.*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zou Dian Tai
 .google.*q=%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
+
 !-----Surnames-----
 !--He
 .google.com/m*%E8%B4%BA
