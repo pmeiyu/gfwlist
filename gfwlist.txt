@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DlrXCA4AhizFEar74qcxOA
+! Checksum: RPvfRd/CvPZyeFA36qb47Q
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 22:00:08 -0400
+! Last Modified: Tue, 19 Mar 2013 22:04:28 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1291,6 +1291,7 @@ google*search*q=cache
 .google.*tbs=rltm
 .google.*tbs%3Drltm
 .google.*Tiananmen
+.google.*tianwang
 .google.*Tibetan*independence
 .google.*twitter
 
@@ -1326,8 +1327,10 @@ google*search*q=cache
 .google.*%E8%9B%A4%E8%9F%86
 !--Ji Zhe Wu Jiang Jie
 .google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
-!--Jia bao
+!--Jia Bao
 .google.*%E5%AE%B6%E5%AE%9D
+!--Jia Qing Lin
+.google.*%E5%81%87%E5%BA%86%E6%B7%8B
 !--Jin Tao
 .google.*%E9%94%A6%E6%B6%9B
 !--Jin Ping
