@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hh8G5e+uQHUDD5xjqtwCeQ
+! Checksum: 6sKsiiKTK3GJapKzpau48g
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 23:58:10 -0400
+! Last Modified: Wed, 20 Mar 2013 00:08:35 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1397,6 +1397,8 @@ google*search*q=cache
 .google.*%E5%85%8D%E8%B4%B9vpn
 !--Mo Li
 .google.*%E8%8C%89%E8%8E%89
+!--Mo Ri Gen
+.google.*%E8%8E%AB%E6%97%A5%E6%A0%B9
 !--Na Mi Bi Ya
 .google.*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Nuo Bei Er He Ping Jiang / Nobel Peace Prize
@@ -1486,6 +1488,8 @@ google*search*q=cache
 .google.*%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3
 !--Zhong Guo Yuan Min Da Tong Meng
 .google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
+!--Zhui Cha Guo Ji
+.google.*%E8%BF%BD%E6%9F%A5%E5%9B%BD%E9%99%85
 !--Zi You Men
 .google.*%E8%87%AA%E7%94%B1%E9%97%A8
 .google.*%E8%87%AA%E7%94%B1%E9%96%80
@@ -3663,7 +3667,8 @@ zhengjian
 !--Ba Ke
 %E7%BD%A2%E8%AF%BE
 !--Bao Tong
-search*%E9%B2%8D%E5%BD%A4
+.google.*%E9%B2%8D%E5%BD%A4
+.google.*%E9%AE%91%E5%BD%A4
 !--Bo Xun
 search*%E5%8D%9A%E8%AE%AF
 !--Da Ji Yuan
@@ -4018,6 +4023,8 @@ zh.wikipedia.org/wiki/%e7%bb%bf%e5%9d%9d%e5%a8%98
 zh.wikipedia.org/wiki/%E9%A6%AC%E8%8B%B1%E4%B9%9D
 !--Min Gan Ren Shi
 zh.wikipedia.org*%E6%95%8F%E6%84%9F%E4%BA%BA%E5%A3%AB
+!--Min Jian Ren Quan Zhen Xian
+zh.wikipedia.org*%E6%B0%91%E9%96%93%E4%BA%BA%E6%AC%8A%E9%99%A3%E7%B7%9A
 !--Min Zhu Nv Shen
 zh.wikipedia.org*%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E
 !--Min Zhu Dang _ Xiang Gang
