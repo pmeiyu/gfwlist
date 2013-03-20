@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ydrKJcjEAKRrBd2+ziMoCQ
+! Checksum: LAMUnCY3GKwkb41gbh8nOg
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 21:46:31 -0400
+! Last Modified: Tue, 19 Mar 2013 21:50:38 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -835,6 +835,7 @@ freenewscn.com
 ||freessh.us
 .free-ssh.com
 ||free-ssh.com
+|http://www.freegroup.org/2008/08/free-website-test-behind-the-great-firewall-of-china/#.UUkVuDdnXyE
 ||freenetproject.org
 .freeoz.org
 www.freetibet.org
