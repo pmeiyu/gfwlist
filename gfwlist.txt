@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: m1hDdcKm8Qb6HI9cJYuHfw
+! Checksum: 1nwE5ihwT4HUOurTvD9MkQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 22:57:33 -0400
+! Last Modified: Tue, 19 Mar 2013 23:19:57 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1268,7 +1268,7 @@ wozy.in
 !-||tsong.yunxi.net
 !-Z
 
-!-------------Google Search-----
+!-------------Google Minganci-----
 @@||ipv6.google.com
 
 .google.*%D8%BA%D8%A7
@@ -1306,6 +1306,8 @@ google*search*q=cache
 .google.*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
 !--Bei Jing Zhi Chun
 .google.*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 
+!--Chen Po Kong
+.google.*%E9%99%88%E7%A0%B4%E7%A9%BA
 !--Da Lai La Ma
 .google.*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Dai Kai + Fa Piao(reversed)
@@ -1324,6 +1326,10 @@ google*search*q=cache
 .google.*%E7%BF%BB%E5%A2%99
 !--Fang Bin Xing(SB)
 .google.*%E6%96%B9%E6%BB%A8%E5%85%B4
+!--Fang Huo Chang Cheng
+.google.*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
+!--Feng Zheng Hu
+.google.*%E5%86%AF%E6%AD%A3%E8%99%8E
 !--Gao Zhi Sheng
 .google.*%E9%AB%98%E6%99%BA%E6%99%9F
 !--Ge Ming
@@ -1411,8 +1417,12 @@ google*search*q=cache
 .google.*%E6%8E%A8%E7%89%B9
 !--Wang Yang
 .google.*%E6%B1%AA%E6%96%AF
+!--Wei Se
+.google.*%E5%94%AF%E8%89%B2
 !--Wo Mei You Di Ren
 .google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
+!--Wu Er Kai Xi
+.google.*%E4%B9%8C%E5%B0%94%E5%87%AF%E8%A5%BF
 !--Wu Fan
 .google.*%E4%BC%8D%E5%87%A1
 !--Xi Lai
@@ -1457,6 +1467,7 @@ google*search*q=cache
 .google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zi You Men
 .google.*%E8%87%AA%E7%94%B1%E9%97%A8
+.google.*%E8%87%AA%E7%94%B1%E9%96%80
 !--Zi You Ya Zou Dian Tai
 .google.*q=%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 
