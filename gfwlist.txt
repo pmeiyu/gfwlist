@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6sKsiiKTK3GJapKzpau48g
+! Checksum: AJDtUUARXfqkst2kREZQhQ
 ! Expires: 6h
-! Last Modified: Wed, 20 Mar 2013 00:08:35 -0400
+! Last Modified: Wed, 20 Mar 2013 00:10:08 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1281,6 +1281,7 @@ wozy.in
 google*search*q=cache
 !-.google.*301
 .google.*search*8964
+.google.*chinese+people+eating+babies
 .google.*facebook
 .google.*falun
 .google.*gfw
