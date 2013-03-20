@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UGSvA75lhUXpyk4PnLLqQQ
+! Checksum: DXowcYPZW6u5ImUiPtUjYQ
 ! Expires: 6h
-! Last Modified: Tue, 19 Mar 2013 23:40:31 -0400
+! Last Modified: Tue, 19 Mar 2013 23:42:57 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4291,6 +4291,7 @@ zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%B2%BB%E8%97%8F%E6%AD%B7
 zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%BA%9C
 !--Zhong Hua Ren Min Gong He Guo Wang Luo Shen Cha
 zh.wikipedia.org*%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
+zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E7%B6%B2%E7%B5%A1%E5%AF%A9%E6%9F%A5
 !--Zhong Hua Ren Min Gong He Guo Min Zhu Yun Dong
 zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95
 !--Zhong Wen Wei Ji Bai Ke
@@ -4421,3 +4422,5 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@||youdao.com
 @@||zhongsou.com
 @@|https://autoproxy.org
+
+!----------------EOF----------------
