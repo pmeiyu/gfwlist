@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8FNaFjhOeAjefFEfm7bYPQ
+! Checksum: EbKbLeCwo4SE7ST9So5UTw
 ! Expires: 6h
-! Last Modified: Wed, 20 Mar 2013 00:11:49 -0400
+! Last Modified: Wed, 20 Mar 2013 00:19:07 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4253,6 +4253,8 @@ zh.wikipedia.org*%E4%BF%9E%E6%AD%A3%E5%A3%B0
 !--Yuan Hong Bing
 zh.wikipedia.org*%E8%A2%81%E7%BA%A2%E5%86%B0
 zh.wikipedia.org*%E8%A2%81%E7%B4%85%E5%86%B0
+!--Zang Chuan Fo Jiao
+zh.wikipedia.org*%E8%97%8F%E4%BC%A0%E4%BD%9B%E6%95%99
 !--Zhang De Jiang
 zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhang Gao Li
