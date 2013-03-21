@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rYSCbIjN8CK1vqBVHnZ85w
+! Checksum: MuCwxt45Efs60dBDkHNoSA
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 06:00:56 -0400
+! Last Modified: Thu, 21 Mar 2013 06:09:52 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1384,6 +1384,8 @@ google*search*q=cache
 .google.*%E6%88%92%E4%B8%A5
 !--Jin Tao
 .google.*%E9%94%A6%E6%B6%9B
+!--Jing Wen
+.google.*%E7%BB%8F%E6%96%87
 !--Jin Ping
 .google.*%E8%BF%91%E5%B9%B3
 !--Jiu Chang Wei
