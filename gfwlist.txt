@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MuCwxt45Efs60dBDkHNoSA
+! Checksum: Fc0erhTa0Sg9TYdk7u1G7g
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 06:09:52 -0400
+! Last Modified: Thu, 21 Mar 2013 06:13:09 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1412,8 +1412,8 @@ google*search*q=cache
 .google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
 !--Meng Ying Wei Ming Hu
 .google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
-!--MianFeiVPN
-.google.*%E5%85%8D%E8%B4%B9vpn
+!--Mian Fei * VPN
+.google.*%E5%85%8D%E8%B4%B9*vpn
 !--Mo Li
 .google.*%E8%8C%89%E8%8E%89
 !--Mo Ri Gen
