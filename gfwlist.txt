@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Fc0erhTa0Sg9TYdk7u1G7g
+! Checksum: e3V3JT+IxG03YUOxDd0hWQ
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 06:13:09 -0400
+! Last Modified: Thu, 21 Mar 2013 06:15:50 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -591,6 +591,7 @@ delicious.com/GFWbookmark
 .discuss.com.hk
 ||discuss.com.hk
 disp.cc
+.dit-inc.us
 ||dit-inc.us
 .dizhidizhi.com
 djangosnippets.org
@@ -1286,6 +1287,7 @@ google*search*q=cache
 .google.*facebook
 .google.*falun
 .google.*freechina
+.google.*freetibet
 .google.*gfw
 .google.*goagent
 .google.*&q=gpass
