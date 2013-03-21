@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1hMQkMfBBlr8vzNTDCjI4A
+! Checksum: tHNDgx8rzDK7YQ9FHsj82A
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 04:56:40 -0400
+! Last Modified: Thu, 21 Mar 2013 04:58:29 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3472,8 +3472,7 @@ wow-life.net
 .wqyd.org
 ||wqyd.org
 wretch.cc
-.chinese.wsj.com/gb
-|http://chinese.wsj.com/gb
+cn.wsj.com/gb/20130215/tec113853.asp
 .wtfpeople.com
 .wuala.com
 wuerkaixi.com
