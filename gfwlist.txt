@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 61MatZU467K4iuGX0Agczw
+! Checksum: q7n60bDk7ORTVXOZAqUSuQ
 ! Expires: 6h
-! Last Modified: Wed, 20 Mar 2013 21:34:15 -0400
+! Last Modified: Thu, 21 Mar 2013 02:36:18 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1409,6 +1409,8 @@ google*search*q=cache
 .google.com*search*namibia*nuctech
 !--Pan Gu Yue Dui
 .google.*%E7%9B%98%E5%8F%A4%E4%B9%90%E9%98%9F
+!--Peng Li Yuan
+.google.*%E5%BD%AD%E4%B8%BD%E5%AA%9B
 !--Po Hai
 .google.*%E8%BF%AB%E5%AE%B3
 !--Qian Shi Jin Sheng
