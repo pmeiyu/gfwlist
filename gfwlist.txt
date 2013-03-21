@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TlqEY2dCoQ0YaNnkbb10hA
+! Checksum: B7z0tQ/gEaVEi/7CMzGYTg
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 07:14:39 -0400
+! Last Modified: Thu, 21 Mar 2013 11:22:51 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1649,7 +1649,7 @@ hellotxt.com
 ||overlapr.com
 ||peerpong.com
 ||pose.com
-||rubyinstaller.org
+!--||rubyinstaller.org
 ||samsoff.es
 ||sendoid.com
 ||speckleapp.com
