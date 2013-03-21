@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tHNDgx8rzDK7YQ9FHsj82A
+! Checksum: nBitI3u9+v9XA3xErDOk5Q
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 04:58:29 -0400
+! Last Modified: Thu, 21 Mar 2013 05:04:09 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1323,6 +1323,8 @@ google*search*q=cache
 .google.*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 
 !--Chen Po Kong
 .google.*%E9%99%88%E7%A0%B4%E7%A9%BA
+!--Chi Fei
+.google.*%E8%B5%A4%E5%8C%AA
 !--Da Lai La Ma
 .google.*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Dai Kai + Fa Piao(reversed)
@@ -1332,6 +1334,8 @@ google*search*q=cache
 .google.*%E4%BB%A3%E7%90%86
 !--Di Xia Jiao Hui
 .google.*%E5%9C%B0%E4%B8%8B%E6%95%99%E4%BC%9A
+!--Du Li Tai Wan Hui
+.google.*%E7%8B%AC%E7%AB%8B%E5%8F%B0%E6%B9%BE%E4%BC%9A
 !--Du Li Zhong Wen Bi Hui
 .google.*%E7%8B%AC%E7%AB%8B%E4%B8%AD%E6%96%87%E7%AC%94%E4%BC%9A
 !--Fa Ke
@@ -1420,6 +1424,8 @@ google*search*q=cache
 .google.*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Qiang Sheng
 .google.*%E6%9E%AA%E5%A3%B0
+!--Qing Tian Bai Ri Qi
+.google.*%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97
 !--Ri Ji
 .google.*%E6%97%A5%E8%AE%B0
 !--San Tui
@@ -1455,6 +1461,8 @@ google*search*q=cache
 .google.*%E4%BC%8D%E5%87%A1
 !--Xi Lai
 .google.*%E7%86%99%E6%9D%A5
+!--Xin Jiang * Du Li(reversed)
+.google.%E6%96%B0%E7%96%86*%E7%8B%AC%E7%AB%8B
 !--Xin Jing Bao
 .google.*%E6%96%B0%E4%BA%AC%E6%8A%A5
 !--Xuan Yan
