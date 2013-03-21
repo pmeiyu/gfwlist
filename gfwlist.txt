@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Amt6LBvoSugicg7hplVfQg
+! Checksum: 71GsbCMGcetXSg27u8WkzQ
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 05:08:33 -0400
+! Last Modified: Thu, 21 Mar 2013 05:12:44 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1291,7 +1291,6 @@ google*search*q=cache
 .google.*jiaqinglin
 .google.*jiangzemin
 .google.*&q=jzm&
-.google.*minghui
 .google.*nytimes
 .google.*protest*1989
 .google.*prisoner+of+the+state
@@ -1310,6 +1309,7 @@ google*search*q=cache
 .google.*twitter
 .google.*xijinping
 .google.*&q=ytht&
+
 
 !--08 * Xian Zhang
 .google.*08*%E5%AE%AA%E7%AB%A0
@@ -1499,6 +1499,8 @@ google*search*q=cache
 .google.*%E7%9F%A5%E6%83%85%E8%80%85
 !--Zhong Gong
 .google.*%E4%B8%AD%E5%85%B1
+!--Zhong Guo * Jin Wen
+.google.*%E4%B8%AD%E5%9B%BD*%E7%A6%81%E9%97%BB
 !--Zhong Guo Min Zhu Dang
 .google.*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
 !--Zhong Guo Shu Zi Shi Dai
@@ -3833,6 +3835,8 @@ zh.wikipedia.org*%E4%BB%93%E5%A4%AE%E5%98%89%E6%8E%AA
 zh.wikipedia.org*%E6%9B%B9%E9%95%B7%E9%9D%92
 !--Chen Guang Cheng
 zh.wikipedia.org*%E9%99%88%E5%85%89%E8%AF%9A
+!--Da Can Kao (Wang Luo Za Zhi)
+zh.wikipedia.org*%e5%a4%a7%e5%8f%82%e8%80%83_(%e7%bd%91%e7%bb%9c%e6%9d%82%e5%bf%97)
 !--Da Ji Yuan
 zh.wikipedia.org*%E5%A4%A7%E7%B4%80%E5%85%83
 !--Da Ji Yuan Shi Bao (zh-hans)
