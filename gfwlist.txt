@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: e3V3JT+IxG03YUOxDd0hWQ
+! Checksum: TlqEY2dCoQ0YaNnkbb10hA
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 06:15:50 -0400
+! Last Modified: Thu, 21 Mar 2013 07:14:39 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2557,9 +2557,10 @@ www.rnw.nl/chinese
 robtex.com
 ||robustnessiskey.com
 ||rocmp.org
+||rojo.com
 ||ronjoneswriter.com
 .roodo.com
-||roosong.cn
+!--||roosong.cn
 .rsf.org
 ||rsf.org/
 .rsf-chinese.org
