@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VbRptdIfikssTkibueYyMA
+! Checksum: gU5tg9HgBveXv1yK1EKwsw
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 05:36:06 -0400
+! Last Modified: Thu, 21 Mar 2013 05:39:21 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -400,6 +400,7 @@ cdpwu.org
 .changp.com
 ||changp.com
 chengmingmag.com
+.chenguangcheng.com
 ||chenguangcheng.com
 chenpokong.com
 ||cherrysave.com
@@ -1310,6 +1311,7 @@ google*search*q=cache
 .google.*twitter
 .google.*xijinping
 .google.*&q=ytht&
+.google.*zhouyongkang
 
 
 !--08 * Xian Zhang
