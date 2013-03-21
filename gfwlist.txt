@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NVi92kCOPHtbri3hU2nx7g
+! Checksum: 61MatZU467K4iuGX0Agczw
 ! Expires: 6h
-! Last Modified: Wed, 20 Mar 2013 08:26:53 -0400
+! Last Modified: Wed, 20 Mar 2013 21:34:15 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -65,7 +65,6 @@ itunes.apple.*454439893
 .2shared.com
 .315lz.com
 ||36rain.com
-||3b8.cc/
 ||4bluestones.biz
 5i01.com
 taiwannation.50webs.com
@@ -2474,6 +2473,7 @@ qxbbs.org
 
 !--------------------RR--------------------
 www.radioaustralia.net.au*chinese*articles*
+opml.radiotime.com
 ||radiovaticana.org
 rangzen.org
 ranyunfei.com
@@ -2482,7 +2482,7 @@ ranyunfei.com
 !-|http://rapidshare.com
 ||rapidshare8.com
 .rapidsharedata.com
-.rayfme.com/bbs
+!--.rayfme.com/bbs
 rcinet.ca
 .read100.com
 .readingtimes.com.tw
@@ -2792,6 +2792,7 @@ taipei.gov.tw
 ||taiwantt.org.tw
 ||taiwandaily.net
 taiwankiss.com
+||taiwannation.com.tw
 taiwan-sex.com
 ||tamiaode.tk
 tangben.com
