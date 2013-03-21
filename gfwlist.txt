@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9z1euVH6Bxhp2BRHJb0MTQ
+! Checksum: VbRptdIfikssTkibueYyMA
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 05:28:26 -0400
+! Last Modified: Thu, 21 Mar 2013 05:36:06 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1279,6 +1279,7 @@ wozy.in
 google*search*q=cache
 !-.google.*301
 .google.*search*8964
+.google.*boxun
 .google.*chinese+people+eating+babies
 .google.*east*turkistan
 .google.*facebook
@@ -1291,6 +1292,7 @@ google*search*q=cache
 .google.*jiangzemin
 .google.*&q=jzm&
 .google.*nytimes
+.google.*peacehall
 .google.*protest*1989
 .google.*prisoner+of+the+state
 .google.*search*Tankman
