@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nBitI3u9+v9XA3xErDOk5Q
+! Checksum: Amt6LBvoSugicg7hplVfQg
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 05:04:09 -0400
+! Last Modified: Thu, 21 Mar 2013 05:08:33 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1281,6 +1281,7 @@ google*search*q=cache
 !-.google.*301
 .google.*search*8964
 .google.*chinese+people+eating+babies
+.google.*east*turkistan
 .google.*facebook
 .google.*falun
 .google.*gfw
@@ -1289,7 +1290,7 @@ google*search*q=cache
 .google.*hujin
 .google.*jiaqinglin
 .google.*jiangzemin
-.google.*&q=jzm
+.google.*&q=jzm&
 .google.*minghui
 .google.*nytimes
 .google.*protest*1989
@@ -1308,6 +1309,7 @@ google*search*q=cache
 .google.*Tibetan*independence
 .google.*twitter
 .google.*xijinping
+.google.*&q=ytht&
 
 !--08 * Xian Zhang
 .google.*08*%E5%AE%AA%E7%AB%A0
