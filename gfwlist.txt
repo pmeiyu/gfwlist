@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: codM9mk653sqcl9Y+xmwgQ
+! Checksum: rYSCbIjN8CK1vqBVHnZ85w
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 05:59:24 -0400
+! Last Modified: Thu, 21 Mar 2013 06:00:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1515,6 +1515,8 @@ google*search*q=cache
 .google.*%E4%B8%AD%E5%9B%BD*%E7%A6%81%E9%97%BB
 !--Zhong Guo Min Zhu Dang
 .google.*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
+!--Zhong Guo Min Zhu Yun Dong
+.google.*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8
 !--Zhong Guo Shu Zi Shi Dai
 .google.*%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3
 !--Zhong Guo Yuan Min Da Tong Meng
