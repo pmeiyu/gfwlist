@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 91f5WH1Q77i/Do/APYSKAQ
+! Checksum: hpKAA/03sW5Uh10dop4UcQ
 ! Expires: 6h
-! Last Modified: Mon, 25 Mar 2013 03:01:01 -0400
+! Last Modified: Mon, 25 Mar 2013 03:15:16 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4336,14 +4336,17 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A
 !--Zhong Guo Gong Chan Dang (zh-hant)
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB
+!--Zhong Guo Ji Du Jiao Xie Hui
+zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%9F%BA%E7%9D%A3%E6%95%99%E5%8D%8F%E4%BC%9A
 !--Zhong Guo Jia Jiao Xie Hui
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E5%AE%B6%E5%BA%AD%E6%95%99%E4%BC%9A
 !--Zhong Guo Lian Bang Zhu Yi
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E8%81%AF%E9%82%A6%E4%B8%BB%E7%BE%A9
 !--Zhong Guo Min Zhu Dang
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
-!--Zhong Guo Min Zhu Yun Dong
+!--Zhong Guo Min Zhu Yun Dong(zh-Hans/zh-Hant)
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8
+zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95
 !--Zhong Guo Mo Li Hua Ge Ming
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD
 !--Zhong (Hua Ren Min Gong He) Guo Ren Quan
