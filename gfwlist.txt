@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jwC9Jr5H/kpMzz0OMzzi4w
+! Checksum: ve3tYo9D4dqadqckpYXP7Q
 ! Expires: 6h
-! Last Modified: Mon, 25 Mar 2013 02:54:44 -0400
+! Last Modified: Mon, 25 Mar 2013 02:56:09 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -130,7 +130,7 @@ alwaysdata.com
 ||alwaysdata.com
 ||alwaysdata.net
 ||am730.com.hk
-amazon.com/Prisoner-State-Secret-Journal-Premier/dp/B004J8HXKY
+amazon.com/Prisoner-State-Secret-Journal-Premier
 ameblo.jp
 ||ameblo.jp
 ||americangreencard.com
