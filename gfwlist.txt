@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ognb0rOCKLMhv8rZLlGpGQ
+! Checksum: uOsefCAeNFEoQZsSc5jLZA
 ! Expires: 6h
-! Last Modified: Sun, 24 Mar 2013 20:21:49 -0400
+! Last Modified: Sun, 24 Mar 2013 21:09:41 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -567,6 +567,7 @@ daxa.cn
 ||daxa.cn/
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
+.ddc.com.tw
 ||de-sci.org
 .de-sci.org
 lists.debian.org
