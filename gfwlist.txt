@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: uOsefCAeNFEoQZsSc5jLZA
+! Checksum: K6FGmRugYe3uynoIqypN7Q
 ! Expires: 6h
-! Last Modified: Sun, 24 Mar 2013 21:09:41 -0400
+! Last Modified: Sun, 24 Mar 2013 22:30:44 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2551,6 +2551,7 @@ rferl.org
 .rfi.fr
 ||rfi.fr
 |http://rfi.my/
+.rhcloud.com
 .rileyguide.com
 riku.me/
 .rlwlw.com
