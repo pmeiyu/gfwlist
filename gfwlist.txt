@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gW5iKZXkIrMKMzPFrh922g
+! Checksum: ognb0rOCKLMhv8rZLlGpGQ
 ! Expires: 6h
-! Last Modified: Sun, 24 Mar 2013 20:07:35 -0400
+! Last Modified: Sun, 24 Mar 2013 20:21:49 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -728,6 +728,7 @@ falundafamuseum.org
 ||falunhr.org
 ||fanglizhi.info
 fangongheike.com
+fapdu.com
 !--.farxian.com
 .fawanghuihui.org
 ||fbcdn.net
@@ -2061,6 +2062,7 @@ mihua.org
 .mimivip.com
 minghui.org
 ||minghui.org
+minghui-school.org
 mingjingnews.com
 mingpao.com
 .mingpaomonthly.com
