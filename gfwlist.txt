@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: B7z0tQ/gEaVEi/7CMzGYTg
+! Checksum: gW5iKZXkIrMKMzPFrh922g
 ! Expires: 6h
-! Last Modified: Thu, 21 Mar 2013 11:22:51 -0400
+! Last Modified: Sun, 24 Mar 2013 20:07:35 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4074,8 +4074,8 @@ zh.wikipedia.org*%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E
 zh.wikipedia.org*%E6%B0%91%E4%B8%BB%E9%BB%A8_(%E9%A6%99%E6%B8%AF)
 !--Mo Li Hua Ge Ming
 zh.wikipedia.org*%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD
-!--Nan Fang Du Shi Bao An
-zh.wikipedia.org*%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5%E6%A1%88
+!--Nan Fang Du Shi Bao (An)
+zh.wikipedia.org*%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5*
 !--Nei Meng Gu Kang Yi
 zh.wikipedia.org/wiki/%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%97%E8%AE%AE
 zh.wikipedia.org/zh-hk/%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%97%E8%AE%AE
