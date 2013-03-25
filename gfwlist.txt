@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ve3tYo9D4dqadqckpYXP7Q
+! Checksum: 91f5WH1Q77i/Do/APYSKAQ
 ! Expires: 6h
-! Last Modified: Mon, 25 Mar 2013 02:56:09 -0400
+! Last Modified: Mon, 25 Mar 2013 03:01:01 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4370,6 +4370,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD
 zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E7%B6%B2%E7%B5%A1%E5%AF%A9%E6%9F%A5
 !--Zhong Hua Ren Min Gong He Guo Min Zhu Yun Dong
 zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95
+!--Zhong Hua Ren Min Gong Ge Guo Zong Jiao
+zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AE%97%E6%95%99
 !--Zhong Wen Wei Ji Bai Ke
 zh.wikipedia.org*%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91
 !--Zhong Yang Jing Wei Ju
