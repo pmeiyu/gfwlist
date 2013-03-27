@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hpKAA/03sW5Uh10dop4UcQ
+! Checksum: tLyRFPfZFwhJm52oZo8YdQ
 ! Expires: 6h
-! Last Modified: Mon, 25 Mar 2013 03:15:16 -0400
+! Last Modified: Wed, 27 Mar 2013 07:08:04 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -9,6 +9,8 @@
 |http://www.1024cores.net
 
 !--------------------Restricted--------------------
+|http://play.google.com/store/music
+|https://play.google.com/store/music
 hulu.com
 huluim.com
 ||netflix.com
