@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: S5qQrHaayT1MORIhLY2T3g
+! Checksum: 3hSYgxG1RVZJk4Lf0DnQUA
 ! Expires: 6h
-! Last Modified: Wed, 27 Mar 2013 23:42:35 -0400
+! Last Modified: Wed, 27 Mar 2013 23:51:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -120,7 +120,6 @@ aiph.net
 ||notes.alexdong.com
 alexlur.org
 aliengu.com
-||aliengu.com
 ||alkasir.com
 alliance.org.hk
 .allinfa.com
