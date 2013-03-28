@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3hSYgxG1RVZJk4Lf0DnQUA
+! Checksum: j/wRhfK2+NJ0eSeVLWtbQw
 ! Expires: 6h
-! Last Modified: Wed, 27 Mar 2013 23:51:56 -0400
+! Last Modified: Thu, 28 Mar 2013 14:33:58 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -9,8 +9,6 @@
 |http://www.1024cores.net
 
 !--------------------Restricted--------------------
-|http://play.google.com/store/music
-|https://play.google.com/store/music
 hulu.com
 huluim.com
 ||netflix.com
@@ -942,7 +940,6 @@ gongminliliang.com
 .goodreaders.com
 ||goodreaders.com
 ||goofind.com
-||googleusercontent.com
 .googlesile.com
 .gopetition.com
 ||gopetition.com
@@ -1597,6 +1594,7 @@ video.google.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
+||googleusercontent.com
 .googlevideo.com
 |https://apis.google.com
 
@@ -2098,6 +2096,7 @@ plurktop.mmdays.com
 ||mobileways.de
 .mobypicture.com
 |http://moby.to
+wiki.moegirl.org
 ||mog.com
 molihua.org
 ||mondex.org
