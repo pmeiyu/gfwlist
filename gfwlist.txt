@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zbrIAJXhCrxzApJ2DEWxVQ
+! Checksum: zmS/OTNubNB61Cnd+6yi1w
 ! Expires: 6h
-! Last Modified: Wed, 27 Mar 2013 22:40:32 -0400
+! Last Modified: Thu, 28 Mar 2013 11:12:08 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2399,8 +2399,6 @@ plays.com.tw
 ||m.plixi.com
 plm.org.hk
 plunder.com
-plurk.com
-||plurk.com
 .plus28.com
 .plusbb.com
 .pmates.com
