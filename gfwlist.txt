@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tLyRFPfZFwhJm52oZo8YdQ
+! Checksum: zbrIAJXhCrxzApJ2DEWxVQ
 ! Expires: 6h
-! Last Modified: Wed, 27 Mar 2013 07:08:04 -0400
+! Last Modified: Wed, 27 Mar 2013 22:40:32 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2515,7 +2515,7 @@ nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
 
 !--------------------RR--------------------
-www.radioaustralia.net.au*chinese*articles*
+radioaustralia.net.au
 opml.radiotime.com
 ||radiovaticana.org
 rangzen.org
@@ -2732,6 +2732,7 @@ sohcradio.com
 .snaptu.com
 ||snaptu.com
 sneakme.net
+||snooper.co.uk
 .sobees.com
 ||sobees.com
 socialwhale.com
@@ -3210,7 +3211,7 @@ twiyia.com
 .twtkr.com
 |http://twtkr.com
 ||twimg.com
-www.twtrland.com/profile/*
+twtrland.com
 twurl.nl
 .twyac.org
 ||twyac.org
@@ -3449,6 +3450,7 @@ woopie.jp
 woopie.tv
 ||woopie.tv
 ||workatruna.com
+.worldcat.org
 worldjournal.com
 
 !-------------Wordpress Blog-----
