@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LgiuptO/in6ZMX42AaO3PQ
+! Checksum: GJOyY+WaqVoyP1VlZLuOrQ
 ! Expires: 6h
-! Last Modified: Fri, 29 Mar 2013 22:47:56 -0400
+! Last Modified: Fri, 29 Mar 2013 22:49:12 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2970,6 +2970,7 @@ tuidang.org
 bbs.tuitui.info
 .tunein.com
 |http://tunein.com
+||tunnelbear.com
 .turbobit.net
 |http://turbobit.net
 ||turningtorso.com
