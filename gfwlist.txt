@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GJOyY+WaqVoyP1VlZLuOrQ
+! Checksum: t82y66/q/EnMQdKQboXcww
 ! Expires: 6h
-! Last Modified: Fri, 29 Mar 2013 22:49:12 -0400
+! Last Modified: Fri, 29 Mar 2013 22:55:03 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1898,6 +1898,7 @@ kinghost.com
 .kingstone.com.tw
 killwall.com
 ||killwall.com
+.kissbbao.cn
 .knowledgerush.com/kr/encyclopedia
 ||kodingen.com
 @@||www.kodingen.com
