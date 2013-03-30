@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NqaGs8jLJO5RE64+3HzMxQ
+! Checksum: H/14OlEpvG8myk9i4NIJlg
 ! Expires: 6h
-! Last Modified: Fri, 29 Mar 2013 23:20:01 -0400
+! Last Modified: Fri, 29 Mar 2013 23:27:25 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -247,6 +247,7 @@ bigfools.com
 ||bignews.org
 .bigsound.org/portnoy
 ||bill2-software.com
+billypan.com/wiki/%E9%A6%96%E9%A0%81
 ||billywr.com
 bipic.net
 .bit.ly
