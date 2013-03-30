@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: t82y66/q/EnMQdKQboXcww
+! Checksum: MoFfJRowlntw3KTB++VG2g
 ! Expires: 6h
-! Last Modified: Fri, 29 Mar 2013 22:55:03 -0400
+! Last Modified: Fri, 29 Mar 2013 23:06:43 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3317,6 +3317,7 @@ videobam.com
 ||viki.com
 .vimeo.com
 ||vimeo.com
+||vimgolf.com
 ||vimperator.org
 ||vincnd.com
 ||vinniev.com
@@ -4310,6 +4311,8 @@ zh.wikipedia.org*%E8%97%8F%E4%BC%A0%E4%BD%9B%E6%95%99
 zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhang Gao Li
 zh.wikipedia.org*%E5%BC%A0%E9%AB%98%E4%B8%BD
+!--Zhang Jia Hu Tu Ke Tu
+zh.wikipedia.org*%E7%AB%A0%E5%98%89%E5%91%BC%E5%9B%BE%E5%85%8B%E5%9B%BE
 !--Zhang Li Chang
 zh.wikipedia.org*%E5%BC%A0%E7%AB%8B%E6%98%8C
 !--Zhang Pei Li
@@ -4323,6 +4326,8 @@ zh.wikipedia.org*%E5%BC%A0%E9%92%B0
 zh.wikipedia.org*%E5%BC%B5%E9%88%BA
 !--Zhao Zi Yang (zh-hant)
 zh.wikipedia.org*%E8%B6%99%E7%B4%AB%E9%99%BD
+!--Zhe Bu Zun Dan Ba Hu Tu Ke Tu
+zh.wikipedia.org*%E5%93%B2%E5%B8%83%E5%B0%8A%E4%B8%B9%E5%B7%B4%E5%91%BC%E5%9B%BE%E5%85%8B%E5%9B%BE
 !--Zhen Shan Ren
 zh.wikipedia.org*%E7%9C%9F%E5%96%84%E5%BF%8D
 !--Zhong Gong Zhong Yang Xuan Chuan Bu
