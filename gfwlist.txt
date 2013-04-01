@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JsvttmR6is7fv19wTTLvnw
+! Checksum: vB8iFonpABurkCKN++i02w
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 05:06:05 -0400
+! Last Modified: Mon, 01 Apr 2013 05:23:06 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3895,6 +3895,8 @@ zh.wikipedia.org*%E8%BE%BE%E5%B0%94%E7%BD%95%E6%B4%BB%E4%BD%9B
 zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 !--Da Tu Sha Lie Biao
 zh.wikipedia.org*%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%88%97%E8%A1%A8
+!--Da Zang Si
+zh.wikipedia.org*%E5%A4%A7%E8%97%8F%E5%AF%BA
 !--Dan Zeng Jia Cuo
 zh.wikipedia.org*%E4%B8%B9%E5%A2%9E%E5%98%89%E6%8E%AA
 !--Ding Zi Lin
@@ -3933,10 +3935,14 @@ zh.wikipedia.org*%E5%99%B6%E5%80%AB%E8%B5%A4%E5%B7%B4
 zh.wikipedia.org*%E9%AB%98%E6%99%BA%E6%99%9F
 !--Di Shi Yi Shi Ban Chan Er Er De Ni Geng Deng Que Ji Ni Ma
 zh.wikipedia.org*%E6%9B%B4%E7%99%BB%E7%A2%BA%E5%90%89%E5%B0%BC%E7%91%AA
+!--Ga Ju Pai
+zh.wikipedia.org*%E5%99%B6%E4%B8%BE%E6%B4%BE
 !--Gai Ge Li Cheng
 zh.wikipedia.org*%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B
 !--Gao Xing Jian
 zh.wikipedia.org*%E9%AB%98%E8%A1%8C%E5%81%A5
+!--Ge Dang Pai
+zh.wikipedia.org*%E5%99%B6%E5%BD%93%E6%B4%BE
 !--Ge Lu Pai
 zh.wikipedia.org*%E6%A0%BC%E9%B2%81%E6%B4%BE
 !--GFW
@@ -4033,6 +4039,8 @@ zh.wikipedia.org*%E4%B9%9D%E8%AF%84%E5%85%B1%E4%BA%A7%E5%85%9A
 zh.wikipedia.org*%E4%B9%9D%E8%A9%95%E5%85%B1%E7%94%A2%E9%BB%A8
 !--Ju Lang 2 Xing Qian She Dan Dao Dao Dan
 zh.wikipedia.org*%E5%B7%A8%E6%B5%AA2%E5%9E%8B%E6%BD%9C%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9
+!--Jue Nang Pai
+zh.wikipedia.org*%E8%A6%BA%E5%9B%8A%E6%B4%BE
 !--Jue Shi
 zh.wikipedia.org*%E7%BB%9D%E9%A3%9F
 !--La Sa
@@ -4126,6 +4134,8 @@ zh.wikipedia.org/zh-tw/%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%97%E8%AE%AE
 !--Nei Meng Gu Ren Min Dang
 zh.wikipedia.org*%E5%86%85%E8%92%99%E5%8F%A4%E4%BA%BA%E6%B0%91%E5%85%9A
 zh.wikipedia.org*%E5%85%A7%E8%92%99%E5%8F%A4%E4%BA%BA%E6%B0%91%E9%BB%A8
+!--Ning Ma Pai
+zh.wikipedia.org*%E5%AE%81%E7%8E%9B%E6%B4%BE
 !--Niu Bo Wang--
 zh.wikipedia.org*%E7%89%9B%E5%8D%9A%E7%BD%91
 !--Nuo Bei Er He Ping Jiang
@@ -4156,6 +4166,8 @@ zh.wikipedia.org*%E7%83%AD%E6%AF%94%E5%A8%85
 zh.wikipedia.org*%E7%86%B1%E6%AF%94%E5%A9%AD
 !--Rui Dian
 zh.wikipedia.org*%E7%91%9E%E5%85%B8
+!--Sa Jia Pai
+zh.wikipedia.org*%E8%90%A8%E8%BF%A6%E6%B4%BE
 !--San Nian Zi Ran Zai Hai
 zh.wikipedia.org*%E4%B8%89%E5%B9%B4%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3
 !--San Tui
