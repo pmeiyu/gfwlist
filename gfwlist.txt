@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: m8E85WY1OYI4D3E+uE8+hg
+! Checksum: k88N5XI+kjZWuScfjREgUA
 ! Expires: 6h
-! Last Modified: Sun, 31 Mar 2013 21:04:22 -0400
+! Last Modified: Sun, 31 Mar 2013 21:07:58 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4340,6 +4340,8 @@ zh.wikipedia.org*%E8%B6%99%E7%B4%AB%E9%99%BD
 zh.wikipedia.org*%E5%93%B2%E5%B8%83%E5%B0%8A%E4%B8%B9%E5%B7%B4%E5%91%BC%E5%9B%BE%E5%85%8B%E5%9B%BE
 !--Zhen Shan Ren
 zh.wikipedia.org*%E7%9C%9F%E5%96%84%E5%BF%8D
+!--Zhi Lian Hui
+zh.wikipedia.org*%E6%94%AF%E8%81%AF%E6%9C%83
 !--Zhong Gong Zhong Yang Xuan Chuan Bu
 zh.wikipedia.org*%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%AE%A3%E4%BC%A0%E9%83%A8
 !--Zhong Guo Chi Bu Tong Zheng Jian Zhe Ming Dan
