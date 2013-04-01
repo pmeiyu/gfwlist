@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vB8iFonpABurkCKN++i02w
+! Checksum: Z0tUDBoimx0uwA4f5AulUQ
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 05:23:06 -0400
+! Last Modified: Mon, 01 Apr 2013 05:28:16 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4228,11 +4228,12 @@ zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E6%96%87%E4%BB%B6
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E6%96%87%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
+!--Tian Zang
+zh.wikipedia.org*%E5%A4%A9%E8%91%AC
 !--Tor
 zh.wikipedia.org/zh-cn/Tor
-!--Teitter
-zh.wikipedia.org/zh-hk/Twitter
-zh.wikipedia.org/wiki/Twitter
+!--Twitter
+zh.wikipedia.org*Twitter
 !--Wan Li
 zh.wikipedia.org*%E4%B8%87%E9%87%8C
 !--Wang Jun Tao
