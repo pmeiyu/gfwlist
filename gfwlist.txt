@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Z0tUDBoimx0uwA4f5AulUQ
+! Checksum: 8rMZkazCV1KhKn2wlYmleQ
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 05:28:16 -0400
+! Last Modified: Mon, 01 Apr 2013 05:43:35 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3849,10 +3849,14 @@ zh.wikipedia.org*1989%E5%B9%B4
 zh.wikipedia.org*610%E8%BE%A6%E5%85%AC%E5%AE%A4
 !--Anti-CNN
 zh.wikipedia.org*Anti-CNN
+!--A Di Xia
+zh.wikipedia.org*%E9%98%BF%E5%BA%95%E5%B3%BD
 !--A Pei A Wang Jin Mei
 zh.wikipedia.org*%E9%98%BF%E6%B2%9B%C2%B7%E9%98%BF%E6%97%BA%E6%99%8B%E7%BE%8E
 !--Ai Wei Wei
 zh.wikipedia.org*%E8%89%BE%E6%9C%AA%E6%9C%AA
+!--Ba Si Ba
+zh.wikipedia.org*%E5%85%AB%E6%80%9D%E5%B7%B4
 !--Ban Chan
 zh.wikipedia.org*%E7%8F%AD%E7%A6%85
 !--Bao Tong
@@ -3865,8 +3869,7 @@ zh.wikipedia.org*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5
 !--Bo Xi Lai
 zh.wikipedia.org*%E8%96%84%E7%86%99%E6%9D%A5
 !--Bo Xun
-zh.wikipedia.org/zh-tw/%E5%8D%9A%E8%AE%AF
-zh.wikipedia.org/wiki/%E5%8D%9A%E8%AE%AF
+zh.wikipedia.org*%E5%8D%9A%E8%AE%AF
 !--Bu La Ge Zhi Chun
 zh.wikipedia.org*%E5%B8%83%E6%8B%89%E6%A0%BC%E4%B9%8B%E6%98%A5
 !--Cai Ling
@@ -3877,6 +3880,8 @@ zh.wikipedia.org*%E4%BB%93%E5%A4%AE%E5%98%89%E6%8E%AA
 zh.wikipedia.org*%E6%9B%B9%E9%95%B7%E9%9D%92
 !--Chen Guang Cheng
 zh.wikipedia.org*%E9%99%88%E5%85%89%E8%AF%9A
+!--Chu Bu Si
+zh.wikipedia.org*%E6%A5%9A%E5%B8%83%E5%AF%BA
 !--Da Can Kao (Wang Luo Za Zhi)
 zh.wikipedia.org*%e5%a4%a7%e5%8f%82%e8%80%83_(%e7%bd%91%e7%bb%9c%e6%9d%82%e5%bf%97)
 !--Da Ji Yuan
@@ -3939,6 +3944,8 @@ zh.wikipedia.org*%E6%9B%B4%E7%99%BB%E7%A2%BA%E5%90%89%E5%B0%BC%E7%91%AA
 zh.wikipedia.org*%E5%99%B6%E4%B8%BE%E6%B4%BE
 !--Gai Ge Li Cheng
 zh.wikipedia.org*%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B
+!--Gan Dan Si
+zh.wikipedia.org*%E7%94%98%E4%B8%B9%E5%AF%BA
 !--Gao Xing Jian
 zh.wikipedia.org*%E9%AB%98%E8%A1%8C%E5%81%A5
 !--Ge Dang Pai
@@ -4014,6 +4021,8 @@ zh.wikipedia.org*%E9%BB%83%E6%9B%89%E6%95%8F
 zh.wikipedia.org*%E5%9B%9E%E8%89%AF%E7%8E%89
 !--Huo Ying Dong
 zh.wikipedia.org*%E9%9C%8D%E8%8B%B1%E6%9D%B1
+!--Ji Hu
+zh.wikipedia.org*%E5%AF%82%E8%AD%B7
 !--Ji Liu Zhong Guo
 zh.wikipedia.org*%E6%BF%80%E6%B5%81%E4%B8%AD%E5%9B%BD
 !--Jia Jing
@@ -4117,6 +4126,8 @@ zh.wikipedia.org*%E9%A6%AC%E8%8B%B1%E4%B9%9D
 zh.wikipedia.org*%E6%95%8F%E6%84%9F%E4%BA%BA%E5%A3%AB
 !--Min Jian Ren Quan Zhen Xian
 zh.wikipedia.org*%E6%B0%91%E9%96%93%E4%BA%BA%E6%AC%8A%E9%99%A3%E7%B7%9A
+!--Min Zhu Lin Si
+zh.wikipedia.org*%E6%95%8F%E7%8F%A0%E6%9E%97%E5%AF%BA
 !--Min Zhu Nv Shen
 zh.wikipedia.org*%E6%B0%91%E4%B8%BB%E5%A5%B3%E7%A5%9E
 !--Min Zhu Dang _ Xiang Gang
@@ -4309,6 +4320,8 @@ zh.wikipedia.org*%E8%A5%BF%E5%8E%A2%E8%AE%A1%E5%88%92
 zh.wikipedia.org*%E8%A5%BF%E8%97%8F
 !--Xi Zhong Xun
 zh.wikipedia.org*%E4%B9%A0%E4%BB%B2%E5%8B%8B
+!--Xia Ma Ba
+zh.wikipedia.org*%E5%A4%8F%E7%91%AA%E5%B7%B4
 !--Xiang Gang Du Li Yun Dong
 zh.wikipedia.org*%E9%A6%99%E6%B8%AF%E7%8D%A8%E7%AB%8B%E9%81%8B%E5%8B%95
 !--Xiang Gang Min Zhu Dang
@@ -4461,6 +4474,10 @@ zh.wikipedia.org*%E8%BD%AC%E6%B3%95%E8%BD%AE
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E9%97%A8
 !--Zi You Ya Zhou
 zh.wikipedia.org*%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2
+!--Zong Ge Ba
+zh.wikipedia.org*%E5%AE%97%E5%96%80%E5%B7%B4
+
+!---------------Other Wiki---------------
 !--Tu Po Wang Luo Shen Cha--Wikibooks
 zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 !--Ling Ba Xian Zhang--WikiSource
