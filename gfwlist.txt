@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1fQgOO1UOOO5BqrTihqPUw
+! Checksum: fC6wPav2odWiVpMineLBHg
 ! Expires: 6h
-! Last Modified: Sun, 31 Mar 2013 21:27:04 -0400
+! Last Modified: Sun, 31 Mar 2013 21:37:16 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4122,6 +4122,8 @@ zh.wikipedia.org*%E5%BD%AD%E4%B8%BD%E5%AA%9B
 zh.wikipedia.org*%E7%A0%B4%E7%BD%91
 !--Pu Zhi Qiang
 zh.wikipedia.org*%E6%B5%A6%E5%BF%97%E5%BC%BA
+!--Qi Yi You Xing
+zh.wikipedia.org*%E4%B8%83%E4%B8%80%E9%81%8A%E8%A1%8C
 !--Qin Cheng Jian Yu
 zh.wikipedia.org*%E7%A7%A6%E5%9F%8E%E7%9B%91%E7%8B%B1
 !--Qing Chao
