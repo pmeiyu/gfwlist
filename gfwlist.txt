@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Ea1kWMFsgRAB0Nbe8/Y+JQ
+! Checksum: 1fQgOO1UOOO5BqrTihqPUw
 ! Expires: 6h
-! Last Modified: Sun, 31 Mar 2013 21:14:16 -0400
+! Last Modified: Sun, 31 Mar 2013 21:27:04 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3839,6 +3839,8 @@ zh.wikisource.org
 zh.wikipedia.org*512%E5%A4%A7%E5%9C%B0%E9%9C%87
 !--08 Xian Zhang
 zh.wikipedia.org*08%E5%AE%AA%E7%AB%A0
+!--1959 Nian
+zh.wikipedia.org*1959%E5%B9%B4
 !--1989 Nian
 zh.wikipedia.org*1989%E5%B9%B4
 !--610 Ban Gong Shi
