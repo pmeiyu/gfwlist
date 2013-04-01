@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9FEK7X/Ditq+PoH1dXoDdA
+! Checksum: mOUjfKiJcSv9ujeQtSRpGg
 ! Expires: 6h
-! Last Modified: Sun, 31 Mar 2013 21:09:04 -0400
+! Last Modified: Sun, 31 Mar 2013 21:12:10 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3989,6 +3989,8 @@ zh.wikipedia.org*%E9%BB%83%E7%90%A6
 zh.wikipedia.org*%E9%BB%83%E9%9B%80%E8%A1%8C%E5%8B%95
 !--Huang Wan Li
 zh.wikipedia.org*%E9%BB%84%E4%B8%87%E9%87%8C
+!--Huang Xiao Min
+zh.wikipedia.org*%E9%BB%83%E6%9B%89%E6%95%8F
 !--Hui Liang Yu
 zh.wikipedia.org*%E5%9B%9E%E8%89%AF%E7%8E%89
 !--Huo Ying Dong
@@ -4045,6 +4047,8 @@ zh.wikipedia.org*%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BC%A4%E5%8F%A3
 zh.wikipedia.org*%E6%9D%8E%E8%8B%B1%E6%B5%A9
 !--Li Yuan Chao
 zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
+!--Li Zhuo Ren
+zh.wikipedia.org*%E6%9D%8E%E5%8D%93%E4%BA%BA
 !--Liao Yi Wu
 zh.wikipedia.org*%E5%BB%96%E4%BA%A6%E6%AD%A6
 !--Liang Guo Xiong
