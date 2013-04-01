@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mOUjfKiJcSv9ujeQtSRpGg
+! Checksum: Ea1kWMFsgRAB0Nbe8/Y+JQ
 ! Expires: 6h
-! Last Modified: Sun, 31 Mar 2013 21:12:10 -0400
+! Last Modified: Sun, 31 Mar 2013 21:14:16 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2828,7 +2828,7 @@ sysresccd.org
 blog.syx86.com/2009/09/puff
 blog.syx86.cn/2009/09/puff
 .szbbs.net
-
+||szetowah.org.hk
 !--------------------------TT--------------------------
 .t35.com
 .t66y.com
