@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5yrGDb7LuNJEQnYSwCuRTg
+! Checksum: m8E85WY1OYI4D3E+uE8+hg
 ! Expires: 6h
-! Last Modified: Sat, 30 Mar 2013 22:46:37 -0400
+! Last Modified: Sun, 31 Mar 2013 21:04:22 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -127,6 +127,7 @@ alliance.org.hk
 ||allinfo.com
 ||allmovie.com
 ||alternate-tools.com
+alvinalexander.com
 alwaysdata.com
 ||alwaysdata.com
 ||alwaysdata.net
@@ -1456,6 +1457,8 @@ google*search*q=cache
 .google.*%E4%B8%89%E9%80%80
 !--Shi Wei Hui
 .google.*%E4%B8%96%E7%BB%B4%E4%BC%9A
+!--Si Tu Hua
+.google.*%E5%8F%B8%E5%BE%92%E5%8D%8E
 !--Tai Zi
 .google.*%E5%A4%AA%E5%AD%90
 !--Tan Zuo Ren
@@ -2105,6 +2108,7 @@ plurktop.mmdays.com
 ||mobileways.de
 .mobypicture.com
 |http://moby.to
+wiki.moegirl.org
 ||mog.com
 molihua.org
 ||mondex.org
