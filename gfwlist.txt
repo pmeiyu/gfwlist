@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Rg9waiuIholDwMcy7R4QDw
+! Checksum: F44JiHMtUsHf+cFVu+/GGw
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 00:15:32 -0400
+! Last Modified: Mon, 01 Apr 2013 00:18:37 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4195,6 +4195,7 @@ zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E8%BF%90%E5%8A%A8
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6
 !--Tian An Men Wen Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E6%96%87%E4%BB%B6
+zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%96%80%E6%96%87%E4%BB%B6
 !--Tian An Men Zi Fen Shi Jian
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E8%87%AA%E7%84%9A%E4%BA%8B%E4%BB%B6
 !--Tor
