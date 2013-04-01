@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fC6wPav2odWiVpMineLBHg
+! Checksum: L+mr1/LUiiflGrbjO8szRw
 ! Expires: 6h
-! Last Modified: Sun, 31 Mar 2013 21:37:16 -0400
+! Last Modified: Sun, 31 Mar 2013 21:44:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3955,6 +3955,8 @@ zh.wikipedia.org*%E5%9C%8B%E5%8B%99%E9%99%A2%E9%98%B2%E7%AF%84%E5%92%8C%E8%99%95
 zh.wikipedia.org*%E9%9F%A9%E4%B8%9C%E6%96%B9
 !--He Guo Qiang
 zh.wikipedia.org*%E8%B4%BA%E5%9B%BD%E5%BC%BA
+!--He Jun Ren
+zh.wikipedia.org*%E4%BD%95%E4%BF%8A%E4%BB%81
 !--He Shang
 zh.wikipedia.org*%E6%B2%B3%E6%AE%87
 !--Hong Zhe Sheng
