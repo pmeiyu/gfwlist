@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8rMZkazCV1KhKn2wlYmleQ
+! Checksum: BAqoiJsmLbb0OQEQxMwzWg
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 05:43:35 -0400
+! Last Modified: Mon, 01 Apr 2013 05:46:21 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4052,6 +4052,8 @@ zh.wikipedia.org*%E5%B7%A8%E6%B5%AA2%E5%9E%8B%E6%BD%9C%E5%B0%84%E5%BC%B9%E9%81%9
 zh.wikipedia.org*%E8%A6%BA%E5%9B%8A%E6%B4%BE
 !--Jue Shi
 zh.wikipedia.org*%E7%BB%9D%E9%A3%9F
+!--La Bu Leng Si
+zh.wikipedia.org*%E6%8B%89%E5%8D%9C%E6%A5%9E%E5%AF%BA
 !--La Sa
 zh.wikipedia.org*%E6%8B%89%E8%90%A8
 !--Li An You
@@ -4215,12 +4217,14 @@ zh.wikipedia.org*%E5%AE%8B%E4%BB%BB%E7%AA%AE
 !--Su Jia Tun Shi Jian
 zh.wikipedia.org*%E8%8B%8F%E5%AE%B6%E5%B1%AF%E4%BA%8B%E4%BB%B6
 !--Sun Wen Guang
-zh.wikipedia.org/wiki/%E5%AD%99%E6%96%87%E5%B9%BF
+zh.wikipedia.org*%E5%AD%99%E6%96%87%E5%B9%BF
+!--Ta Er Si
+zh.wikipedia.org*%E5%A1%94%E5%B0%94%E5%AF%BA
 !--Tai Wan Du Li Jian Guo Lian Meng
 zh.wikipedia.org*%E5%8F%B0%E7%81%A3%E7%8D%A8%E7%AB%8B%E5%BB%BA%E5%9C%8B%E8%81%AF%E7%9B%9F
 !--Tai Zi Dang
-zh.wikipedia.org/wiki/%E5%A4%AA%E5%AD%90%E5%85%9A
-zh.wikipedia.org/zh/%E5%A4%AA%E5%AD%90%E5%85%9A
+zh.wikipedia.org*%E5%A4%AA%E5%AD%90%E5%85%9A
+zh.wikipedia.org*%E5%A4%AA%E5%AD%90%E5%85%9A
 zh.wikipedia.org/zh-cn/%E5%A4%AA%E5%AD%90%E5%85%9A
 !--Tan Zuo Ren
 zh.wikipedia.org*%E8%B0%AD%E4%BD%9C%E4%BA%BA
