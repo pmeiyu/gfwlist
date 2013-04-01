@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: htUr52bzStAyejLdYLbfgA
+! Checksum: PZYmYMQQiOcre56RP2fJJg
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 00:56:08 -0400
+! Last Modified: Mon, 01 Apr 2013 04:13:03 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4140,6 +4140,7 @@ zh.wikipedia.org*%C8%BC%C9%D5%C6%BF
 zh.wikipedia.org*%E7%87%83%E7%83%A7%E7%93%B6
 !--Re Bi Ya
 zh.wikipedia.org*%E7%83%AD%E6%AF%94%E5%A8%85
+zh.wikipedia.org*%E7%86%B1%E6%AF%94%E5%A9%AD
 !--Rui Dian
 zh.wikipedia.org*%E7%91%9E%E5%85%B8
 !--San Nian Zi Ran Zai Hai
