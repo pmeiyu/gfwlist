@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BAqoiJsmLbb0OQEQxMwzWg
+! Checksum: Gzth6E7kNVP1ry+wMtx3aA
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 05:46:21 -0400
+! Last Modified: Mon, 01 Apr 2013 05:53:59 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3902,6 +3902,8 @@ zh.wikipedia.org*%E5%A4%A7%E8%B5%A6%E5%9B%BD%E9%99%85
 zh.wikipedia.org*%E5%A4%A7%E5%B1%A0%E6%9D%80%E5%88%97%E8%A1%A8
 !--Da Zang Si
 zh.wikipedia.org*%E5%A4%A7%E8%97%8F%E5%AF%BA
+!--Da Zhao Si
+zh.wikipedia.org*%E5%A4%A7%E6%98%AD%E5%AF%BA
 !--Dan Zeng Jia Cuo
 zh.wikipedia.org*%E4%B8%B9%E5%A2%9E%E5%98%89%E6%8E%AA
 !--Ding Zi Lin
@@ -4185,6 +4187,8 @@ zh.wikipedia.org*%E8%90%A8%E8%BF%A6%E6%B4%BE
 zh.wikipedia.org*%E4%B8%89%E5%B9%B4%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3
 !--San Tui
 zh.wikipedia.org*%E4%B8%89%E9%80%80
+!--Se La Si
+zh.wikipedia.org*%E8%89%B2%E6%8B%89%E5%AF%BA
 !--Sheng Xiong Gan Di
 zh.wikipedia.org*%E5%9C%A3%E9%9B%84%E7%94%98%E5%9C%B0
 !--Sheng Xue
@@ -4332,6 +4336,8 @@ zh.wikipedia.org*%E9%A6%99%E6%B8%AF%E7%8D%A8%E7%AB%8B%E9%81%8B%E5%8B%95
 zh.wikipedia.org*%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E9%BB%A8
 !--Xiang Gang Min Zhu Pai
 zh.wikipedia.org*%E9%A6%99%E6%B8%AF*%E6%B0%91%E4%B8%BB%E6%B4%BE
+!--Xiao Zhao Si
+zh.wikipedia.org*%E5%B0%8F%E6%98%AD%E5%AF%BA
 !--Xie Yan Fei
 zh.wikipedia.org*%E8%B0%A2%E5%BD%A6%E9%A3%9E
 !--Xin Hao Nian
@@ -4381,6 +4387,8 @@ zh.wikipedia.org*%E8%A2%81%E7%BA%A2%E5%86%B0
 zh.wikipedia.org*%E8%A2%81%E7%B4%85%E5%86%B0
 !--Zang Chuan Fo Jiao
 zh.wikipedia.org*%E8%97%8F%E4%BC%A0%E4%BD%9B%E6%95%99
+!--Zha Shi Lun Bu Si
+zh.wikipedia.org*%E6%89%8E%E4%BB%80%E4%BC%A6%E5%B8%83%E5%AF%BA
 !--Zhang De Jiang
 zh.wikipedia.org*%E5%BC%A0%E5%BE%B7%E6%B1%9F
 !--Zhang Gao Li
