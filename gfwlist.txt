@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: y16vb9ouH20RxhF7Ew3Siw
+! Checksum: kAC0J2gyuQLfyTdQESqhog
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 04:26:40 -0400
+! Last Modified: Mon, 01 Apr 2013 04:30:37 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -1801,6 +1801,7 @@ immigration.gov.tw
 ||incredibox.fr
 .inmediahk.net
 ||inmediahk.net
+||innermongolia.org
 ||interfaceaddiction.com
 ||internationalrivers.org
 internetdefenseleague.org
@@ -4114,6 +4115,9 @@ zh.wikipedia.org*%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5*
 zh.wikipedia.org/wiki/%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%97%E8%AE%AE
 zh.wikipedia.org/zh-hk/%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%97%E8%AE%AE
 zh.wikipedia.org/zh-tw/%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%97%E8%AE%AE
+!--Nei Meng Gu Ren Min Dang
+zh.wikipedia.org*%E5%86%85%E8%92%99%E5%8F%A4%E4%BA%BA%E6%B0%91%E5%85%9A
+zh.wikipedia.org*%E5%85%A7%E8%92%99%E5%8F%A4%E4%BA%BA%E6%B0%91%E9%BB%A8
 !--Niu Bo Wang--
 zh.wikipedia.org*%E7%89%9B%E5%8D%9A%E7%BD%91
 !--Nuo Bei Er He Ping Jiang
