@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: L+mr1/LUiiflGrbjO8szRw
+! Checksum: NM20f2gAAPSfdCcxwwi7YQ
 ! Expires: 6h
-! Last Modified: Sun, 31 Mar 2013 21:44:56 -0400
+! Last Modified: Mon, 01 Apr 2013 00:02:09 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4337,6 +4337,8 @@ zh.wikipedia.org*%E7%AB%A0%E5%98%89%E5%91%BC%E5%9B%BE%E5%85%8B%E5%9B%BE
 zh.wikipedia.org*%E5%BC%A0%E7%AB%8B%E6%98%8C
 !--Zhang Pei Li
 zh.wikipedia.org*%E5%BC%A0%E5%9F%B9%E8%8E%89
+!--Zhang Wen Guang
+zh.wikipedia.org*%E5%BC%B5%E6%96%87%E5%85%89
 !--Zhang Yi He (zh-hans/hant)
 zh.wikipedia.org*%E7%AB%A0%E8%A9%92%E5%92%8C
 zh.wikipedia.org*%E7%AB%A0%E8%AF%92%E5%92%8C
