@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vu1XjyyXUqkXrluchQErSg
+! Checksum: 9P7707UPm6NB7HdJ/t2H8A
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 04:42:33 -0400
+! Last Modified: Mon, 01 Apr 2013 04:44:27 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3834,7 +3834,6 @@ en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
 en.wikipedia.org/wiki/Tibetan_independence_movement
 
 !-------------zh.Wikipedia----------
-zh.wikipedia.org/wiki/Special:Contributions
 zh.wikipedia.org/wiki/Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96
 zh.m.wikipedia.org
 zh.wikisource.org
