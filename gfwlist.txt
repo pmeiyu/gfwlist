@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Gzth6E7kNVP1ry+wMtx3aA
+! Checksum: GX4t2i0Uw5TULr884WbZRg
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 05:53:59 -0400
+! Last Modified: Mon, 01 Apr 2013 23:45:55 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4085,6 +4085,8 @@ zh.wikipedia.org*%E6%9D%8E%E6%BA%90%E6%BD%AE
 zh.wikipedia.org*%E6%9D%8E%E5%8D%93%E4%BA%BA
 !--Liao Yi Wu
 zh.wikipedia.org*%E5%BB%96%E4%BA%A6%E6%AD%A6
+!--Lian Hua Sheng
+zh.wikipedia.org*%E8%93%AE%E8%8A%B1%E7%94%9F
 !--Liang Guo Xiong
 zh.wikipedia.org*%E6%A2%81%E5%9B%BD%E9%9B%84
 !--Lin Guo Xiong
