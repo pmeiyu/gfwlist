@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GX4t2i0Uw5TULr884WbZRg
+! Checksum: nfLyE47kdPWF1wSnXBEzMw
 ! Expires: 6h
-! Last Modified: Mon, 01 Apr 2013 23:45:55 -0400
+! Last Modified: Sat, 06 Apr 2013 02:01:00 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -4254,7 +4254,7 @@ zh.wikipedia.org*%E5%A4%A9%E8%91%AC
 !--Tor
 zh.wikipedia.org/zh-cn/Tor
 !--Twitter
-zh.wikipedia.org*Twitter
+zh.wikipedia.org/zh-hk/Twitter
 !--Wan Li
 zh.wikipedia.org*%E4%B8%87%E9%87%8C
 !--Wang Jun Tao
