@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: N/M+onTQBOURj1RPfiH9zA
+! Checksum: q0axxruKfJ7PCfwdeUbzQQ
 ! Expires: 6h
-! Last Modified: Sat, 06 Apr 2013 11:17:36 -0400
+! Last Modified: Sat, 06 Apr 2013 11:29:20 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3814,6 +3814,9 @@ search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 !-------------Wikipedia----------------
 .wikipedia.org/wiki/Dalai_Lama
+.wikipedia.org/wiki/Dalai-Lama
+ar.wikipedia.org*%D8%AF%D8%A7%D9%84%D8%A7%D9%8A_%D9%84%D8%A7%D9%85%D8%A7
+
 !-------------en.Wikipedia-------------
 en.wikipedia.org/wiki/Anti-communism
 en.wikipedia.org/wiki/Book_burning
