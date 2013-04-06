@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nfLyE47kdPWF1wSnXBEzMw
+! Checksum: N/M+onTQBOURj1RPfiH9zA
 ! Expires: 6h
-! Last Modified: Sat, 06 Apr 2013 02:01:00 +0800
+! Last Modified: Sat, 06 Apr 2013 11:17:36 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3812,13 +3812,14 @@ search*%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B
 !--Zhong Xuan Bu
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
+!-------------Wikipedia----------------
+.wikipedia.org/wiki/Dalai_Lama
 !-------------en.Wikipedia-------------
 en.wikipedia.org/wiki/Anti-communism
 en.wikipedia.org/wiki/Book_burning
 en.wikipedia.org/wiki/Censorship_in_the_People%27s_Republic_of_China
 en.wikipedia.org/wiki/Charter_08
 en.wikipedia.org/wiki/Chen_Guangcheng
-en.wikipedia.org/wiki/Dalai_Lama
 en.wikipedia.org/wiki/Deep_packet_inspection
 en.wikipedia.org/wiki/Freegate
 en.wikipedia.org/wiki/Golden_Shield_Project
