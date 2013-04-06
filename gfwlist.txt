@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: q0axxruKfJ7PCfwdeUbzQQ
+! Checksum: 3DLDcglIQ1qOhSOTW7Xvwg
 ! Expires: 6h
-! Last Modified: Sat, 06 Apr 2013 11:29:20 -0400
+! Last Modified: Sat, 06 Apr 2013 11:36:33 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -972,6 +972,7 @@ guancha.org
 .gun-world.net
 @@||bak.gun-world.net
 ||gutteruncensored.com
+||gvm.com.tw
 .gzm.tv
 ||gzone-anime.info
 
