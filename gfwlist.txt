@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XLfioRROiyTtoW+FhAtsrw
+! Checksum: /O6AV0Zbdc0H3J+AP+3JjQ
 ! Expires: 6h
-! Last Modified: Sun, 07 Apr 2013 02:16:02 -0400
+! Last Modified: Sun, 07 Apr 2013 09:57:57 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -164,7 +164,7 @@ www.aolnews.com
 .apigee.com
 ||apigee.com
 appledaily.com
-!--.archive.org
+archive.org
 !--||archive.org
 .arctosia.com
 |http://arctosia.com
@@ -2071,6 +2071,7 @@ merit-times.com.tw
 mgoon.com
 ||mgstage.com
 mhradio.org
+|http://michaelanti.com
 ||michaelmarketl.com
 middle-way.net
 .mihk.hk/forum
