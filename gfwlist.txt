@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3DLDcglIQ1qOhSOTW7Xvwg
+! Checksum: XLfioRROiyTtoW+FhAtsrw
 ! Expires: 6h
-! Last Modified: Sat, 06 Apr 2013 11:36:33 -0400
+! Last Modified: Sun, 07 Apr 2013 02:16:02 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -3327,8 +3327,7 @@ videobam.com
 .videomo.com
 ||vidoemo.com
 ||viki.com
-.vimeo.com
-||vimeo.com
+|http://*vimeo.com
 ||vimgolf.com
 ||vimperator.org
 ||vincnd.com
