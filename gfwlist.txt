@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Kn14y09jNllCu102ejTMoA
+! Checksum: +FJU9HNdRG+9CdN5RQNIoA
 ! Expires: 6h
-! Last Modified: Mon, 08 Apr 2013 23:59:25 -0400
+! Last Modified: Tue, 09 Apr 2013 00:04:35 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -861,6 +861,7 @@ www.freetibet.org
 friendfeed.com
 friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 |http://ff.im
+|http://www.zensur.freerk.com/
 freevpn.nl
 .fring.com
 ||fring.com
