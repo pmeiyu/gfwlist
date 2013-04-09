@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: A0ABn2jyVS0VGSfSVNui6w
+! Checksum: Kn14y09jNllCu102ejTMoA
 ! Expires: 6h
-! Last Modified: Sun, 07 Apr 2013 10:02:11 -0400
+! Last Modified: Mon, 08 Apr 2013 23:59:25 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !-----------Google GHS(74.125.128.121)-----------
@@ -2714,6 +2714,7 @@ sis001.us
 bbs.skykiwi.com
 |http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
+|http://www.skype.com/zh-Hant
 m.slandr.net
 ||slavasoft.com
 ||slheng.com
