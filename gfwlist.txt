@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +vtyTjuHEumwlm00KBXiCQ
+! Checksum: rbWdlASmVli39zZw9TUkeA
 ! Expires: 6h
-! Last Modified: Thu, 11 Apr 2013 03:03:41 -0400
+! Last Modified: Thu, 11 Apr 2013 03:08:45 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2249,6 +2249,7 @@ ntdtv.ru
 ||nurgo-software.com
 nuzcom.com
 ||nyt.com
+||nytco.com
 .nytimes.com
 ||nytimes.com
 nysingtao.com
