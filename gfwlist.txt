@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qKccwFvg1wM4GEtFjAQgdQ
+! Checksum: 2fXu1CYTk3dObnZdORwTfA
 ! Expires: 6h
-! Last Modified: Thu, 11 Apr 2013 02:07:45 +0800
+! Last Modified: Wed, 10 Apr 2013 21:27:09 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2663,6 +2663,7 @@ shinychan.com
 ||shizhao.org
 .shizhao.org
 shkspr.mobi/dabr
+||shodanhq.com
 .shopping.com
 .showtime.jp
 ch.shvoong.com
