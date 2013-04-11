@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rbWdlASmVli39zZw9TUkeA
+! Checksum: CIyvLofxp2xu9Cj2zdPJ4g
 ! Expires: 6h
-! Last Modified: Thu, 11 Apr 2013 03:08:45 -0400
+! Last Modified: Thu, 11 Apr 2013 03:18:21 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3816,6 +3816,7 @@ search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 .wikipedia.org/wiki/Dalai_Lama
 .wikipedia.org/wiki/Dalai-Lama
 ar.wikipedia.org*%D8%AF%D8%A7%D9%84%D8%A7%D9%8A_%D9%84%D8%A7%D9%85%D8%A7
+zh-yue.wikipedia.org/wiki/%E5%8A%89%E6%9B%89%E6%B3%A2
 
 !-------------en.Wikipedia-------------
 en.wikipedia.org/wiki/Anti-communism
