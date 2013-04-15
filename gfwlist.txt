@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pz+kV8NPIQOf8dcQTgRapA
+! Checksum: yRMmwXr5EW+ncA/ua9S+kA
 ! Expires: 6h
-! Last Modified: Mon, 15 Apr 2013 02:01:07 -0400
+! Last Modified: Mon, 15 Apr 2013 02:04:44 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4267,6 +4267,8 @@ zh.wikipedia.org/zh-hk/Twitter
 zh.wikipedia.org*%E4%B8%87%E9%87%8C
 !--Wang Jun Tao
 zh.wikipedia.org*%E7%8E%8B%E5%86%9B%E6%B6%9B
+!--Wang Le Quan
+zh.wikipedia.org*%E7%8E%8B%E6%A8%82%E6%B3%89
 !--Wang Li Jun(*/Shi Jian)
 zh.wikipedia.org*%E7%8E%8B%E7%AB%8B%E5%86%9B
 !--Wang Qi Shan
