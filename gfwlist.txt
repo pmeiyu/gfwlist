@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CIyvLofxp2xu9Cj2zdPJ4g
+! Checksum: pz+kV8NPIQOf8dcQTgRapA
 ! Expires: 6h
-! Last Modified: Thu, 11 Apr 2013 03:18:21 -0400
+! Last Modified: Mon, 15 Apr 2013 02:01:07 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3539,6 +3539,7 @@ wwitv.com
 wzyboy.im/post/160
 
 !--------------------------XX--------------------------
+|http://www.x-berry.com/goagent
 ||x-wall.org
 x1949x.com
 x365x.com
@@ -3570,6 +3571,7 @@ xjp.cc
 ||xjp.cc
 ||xml-training-guide.com
 xmovies.com
+||xnxx.com
 xpdo.net
 ||xpud.org
 ||k2.xrea.com
