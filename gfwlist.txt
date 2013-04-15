@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: H5A5fo6WebSkrnAaJV72TA
+! Checksum: 19Bm+N5XrOC1+M2OjrgLAw
 ! Expires: 6h
-! Last Modified: Mon, 15 Apr 2013 02:19:18 -0400
+! Last Modified: Mon, 15 Apr 2013 02:30:38 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3264,6 +3264,7 @@ humanities.uchicago.edu/faculty/ywang/hi
 !-forum.udn.com
 ufreevpn.com
 .ugo.com
+uhrp.org
 uighurbiz.net
 .ulike.net
 |http://www.ukchinese.com/www/22/2009-03/2842.html
@@ -3281,7 +3282,7 @@ unicode.org
 .uniteddaily.com.my/index.php?
 .unix100.com
 ||unknownspace.org
-||unpo.org
+unpo.org
 ||uocn.org
 tor.updatestar.com
 .upload4u.info
@@ -4137,6 +4138,8 @@ zh.wikipedia.org*%E7%BB%BF%E5%9D%9D%C2%B7%E8%8A%B1%E5%AD%A3%E6%8A%A4%E8%88%AA
 zh.wikipedia.org/wiki/%e7%bb%bf%e5%9d%9d%e5%a8%98
 !--Ma Ying Jiu
 zh.wikipedia.org*%E9%A6%AC%E8%8B%B1%E4%B9%9D
+!--Mei Guo Guo Jia Min Zhu Ji Jin Hui
+zh.wikipedia.org*%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%B0%91%E4%B8%BB%E5%9F%BA%E9%87%91%E4%BC%9A
 !--Min Gan Ren Shi
 zh.wikipedia.org*%E6%95%8F%E6%84%9F%E4%BA%BA%E5%A3%AB
 !--Min Jian Ren Quan Zhen Xian
