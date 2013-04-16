@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 19Bm+N5XrOC1+M2OjrgLAw
+! Checksum: YYgSglPFwLrDqeIbvFT5dg
 ! Expires: 6h
-! Last Modified: Mon, 15 Apr 2013 02:30:38 -0400
+! Last Modified: Tue, 16 Apr 2013 12:34:25 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1628,6 +1628,7 @@ hellotxt.com
 .hellouk.org/forum/lofiversion
 .helpeachpeople.com
 ||helpeachpeople.com
+.helpzhuling.org
 
 !###########--Heroku--##########
 ||date.fm
@@ -2867,6 +2868,7 @@ tcno.net*doc*tor
 ||teck.in/
 .telecomspace.com
 .tenacy.com
+||theampfactory.com
 ||theappleblog.com
 ||theatrum-belli.com
 ||thebodyshop-usa.com
