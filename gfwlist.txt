@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YYgSglPFwLrDqeIbvFT5dg
+! Checksum: 6uy3T/KcO9yojwRhcA7DnQ
 ! Expires: 6h
-! Last Modified: Tue, 16 Apr 2013 12:34:25 -0400
+! Last Modified: Sun, 21 Apr 2013 06:05:22 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2384,6 +2384,7 @@ pengyulong.com
 .percy.in
 perfectvpn.net
 perfspot.com
+||perlhowto.com
 philly.com
 ||photofocus.com
 .picidae.net
