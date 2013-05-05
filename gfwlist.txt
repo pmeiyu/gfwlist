@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FUQelNLoV64joFSIOle2eQ
+! Checksum: u0gdf5XzoaJmxKKLPLU5Rw
 ! Expires: 6h
-! Last Modified: Sun, 05 May 2013 11:35:24 -0400
+! Last Modified: Sun, 05 May 2013 11:39:26 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -142,6 +142,7 @@ video.aol.com
 ||video.aol.com
 www.aolnews.com
 .apetube.com
+||apiary.io
 .apigee.com
 ||apigee.com
 appledaily.com
@@ -2246,6 +2247,7 @@ nobodycanstop.us
 ||nsc.gov.tw
 ntdtv.co
 ntdtv.ca
+ntdtv.org
 ntdtv.ru
 ||cbs.ntu.edu.tw
 ||nuexpo.com
@@ -2389,6 +2391,7 @@ perfspot.com
 ||perlhowto.com
 philly.com
 ||photofocus.com
+||phuquocservices.com
 .picidae.net
 ||img*.picturedip.com
 picturesocial.com
