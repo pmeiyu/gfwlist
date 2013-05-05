@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yw//QbF43tA/YxBJJYRbpg
+! Checksum: FUQelNLoV64joFSIOle2eQ
 ! Expires: 6h
-! Last Modified: Tue, 30 Apr 2013 00:22:04 -0400
+! Last Modified: Sun, 05 May 2013 11:35:24 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1734,6 +1734,7 @@ hutong9.net
 ||hwinfo.com
 
 !--------------------II--------------------
+||i1.hk
 ||i2p2.de/
 ||i2runner.com
 iask.ca
