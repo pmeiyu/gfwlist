@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zl5ze72r1PqRe2rY5ZAX6w
+! Checksum: Xp3BtRfnR4if/JVmqMDpVQ
 ! Expires: 6h
-! Last Modified: Sat, 11 May 2013 01:03:46 -0400
+! Last Modified: Sat, 11 May 2013 04:35:19 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -718,7 +718,6 @@ falundafamuseum.org
 ||falunhr.org
 ||fanglizhi.info
 fangongheike.com
-||fanswong.com
 fapdu.com
 !--.farxian.com
 .fawanghuihui.org
