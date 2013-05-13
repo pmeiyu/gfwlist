@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8P014+jE7WcOn8uva4zyuw
+! Checksum: 9tETkGpfIHQ8ZZXVQfRikQ
 ! Expires: 6h
-! Last Modified: Sun, 12 May 2013 20:40:00 -0400
+! Last Modified: Sun, 12 May 2013 21:06:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3853,6 +3853,8 @@ en.wikipedia.org/wiki/Tibetan_independence_movement
 zh.wikipedia.org/wiki/Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96
 zh.m.wikipedia.org
 zh.wikisource.org
+!--2012 Nian Zhong Hua Ren Min Gong He Guo Fu Bai An Jian
+zh.wikipedia.org*2012%E5%B9%B4%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%85%90%E8%B4%A5%E6%A1%88%E4%BB%B6
 !--512 Da Di Zhen
 zh.wikipedia.org*512%E5%A4%A7%E5%9C%B0%E9%9C%87
 !--08 Xian Zhang
