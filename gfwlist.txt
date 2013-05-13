@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9tETkGpfIHQ8ZZXVQfRikQ
+! Checksum: d1T0ypznfL/keXvARyy/1A
 ! Expires: 6h
-! Last Modified: Sun, 12 May 2013 21:06:56 -0400
+! Last Modified: Sun, 12 May 2013 21:09:36 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -542,7 +542,7 @@ dafagood.com
 ||dailidaili.com
 .dailymotion.com
 .dajiyuan.com
-||dajiyuan.com
+.dajiyuan.eu
 dalailama.com
 .dalailamaworld.com
 ||dalailamaworld.com
