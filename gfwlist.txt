@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Xp3BtRfnR4if/JVmqMDpVQ
+! Checksum: 8P014+jE7WcOn8uva4zyuw
 ! Expires: 6h
-! Last Modified: Sat, 11 May 2013 04:35:19 -0400
+! Last Modified: Sun, 12 May 2013 20:40:00 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -561,7 +561,6 @@ cn.dayabook.com
 .de-sci.org
 lists.debian.org
 packages.debian.org/zh-cn/lenny/gpass
-||www.debugmode.com
 ||delcamp.net
 delicious.com/GFWbookmark
 .democrats.org
