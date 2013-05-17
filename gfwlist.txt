@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zjw7GAjls2PYYWBD7ZrWHg
+! Checksum: uZsRckI2qRD0S4q6gnDxMA
 ! Expires: 6h
-! Last Modified: Fri, 17 May 2013 08:34:32 -0400
+! Last Modified: Fri, 17 May 2013 08:41:54 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1775,6 +1775,7 @@ ifjc.org
 ||ilove80.be
 ||im.tv
 @@||myvlog.im.tv
+||im88.tw
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
