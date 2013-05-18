@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: uZsRckI2qRD0S4q6gnDxMA
+! Checksum: IKZMEcWabnCioomEuhekmg
 ! Expires: 6h
-! Last Modified: Fri, 17 May 2013 08:41:54 -0400
+! Last Modified: Sat, 18 May 2013 01:35:29 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -484,7 +484,7 @@ cjb.net/vpn.html
 ||cnd.org/
 wiki.cnitter.com
 .cnn.com/video
-cn.news.cnyes.com
+news.cnyes.com
 ||cochina.org
 .code1984.com/64
 comefromchina.com
