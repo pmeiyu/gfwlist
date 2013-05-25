@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: faBiO+PIPt8ate6sDQMH3A
+! Checksum: A3HDhPWafMvdzJhKfULt3A
 ! Expires: 6h
-! Last Modified: Tue, 21 May 2013 20:53:31 -0400
+! Last Modified: Sat, 25 May 2013 05:38:57 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3086,7 +3086,6 @@ bbs.tuitui.info
 ||stuffimreading.com
 ||blog.summify.com
 ||thedailywh.at
-||thechangelog.com
 ||theinternetwishlist.com
 ||thisiswhyyouarefat.com
 ||www.tiffanyarment.com
