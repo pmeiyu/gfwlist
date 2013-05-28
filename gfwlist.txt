@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ybovyUqiMWx3tHFZWdHj4w
+! Checksum: U+VNRhmvVNtoXoFOsDRjmQ
 ! Expires: 6h
-! Last Modified: Tue, 28 May 2013 05:11:37 -0400
+! Last Modified: Tue, 28 May 2013 05:12:52 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -479,6 +479,7 @@ cjb.net/vpn.html
 .clipfish.de
 .cmule.com
 ||cmule.com
+||cms.gov
 ||cna.com.tw
 .cnavista.com.tw/shop/stores_app
 .cnd.org
