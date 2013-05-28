@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xZXt523BfAgxFugFv+wNuw
+! Checksum: Vj5EHplr7trBIoHYhTd0kA
 ! Expires: 6h
-! Last Modified: Tue, 28 May 2013 05:04:57 -0400
+! Last Modified: Tue, 28 May 2013 05:10:10 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -712,6 +712,7 @@ eyny.com
 @@||*v6.facebook.com
 ||connect.facebook.net
 ||facesofnyfw.com
+||faiththedog.info
 .fakku.net
 falunart.org
 falundafa.org
@@ -1782,6 +1783,7 @@ ifjc.org
 ||imageflea.com
 imageshack.us
 ||imagevenue.com
+||imagezilla.net
 !--.imdb.com
 !--|http://imdb.com
 |http://www.imdb.com/name/nm0482730
