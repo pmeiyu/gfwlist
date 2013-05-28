@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: U+VNRhmvVNtoXoFOsDRjmQ
+! Checksum: h4PJieBtzBP9fjUbS2PeVQ
 ! Expires: 6h
-! Last Modified: Tue, 28 May 2013 05:12:52 -0400
+! Last Modified: Tue, 28 May 2013 06:04:42 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2644,6 +2644,7 @@ seesmic.com
 ||seezone.net
 sejie.com
 .sendspace.com/file
+|http://tweets.seraph.me/
 sesawe.net
 ||sesawe.net
 .sesawe.org
