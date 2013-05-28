@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: h4PJieBtzBP9fjUbS2PeVQ
+! Checksum: tY4svj+UHF/XNeMHO7zC8g
 ! Expires: 6h
-! Last Modified: Tue, 28 May 2013 06:04:42 -0400
+! Last Modified: Tue, 28 May 2013 11:34:44 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -702,7 +702,7 @@ eventful.com
 ||exploader.net
 eyevio.jp
 ||eyevio.jp
-eyny.com
+!--eyny.com
 .ezpc.tk/category/soft
 .ezpeer.com
 
