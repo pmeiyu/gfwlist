@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: A3HDhPWafMvdzJhKfULt3A
+! Checksum: ErPJtV7zuEfZyGPDIefekQ
 ! Expires: 6h
-! Last Modified: Sat, 25 May 2013 05:38:57 -0400
+! Last Modified: Tue, 28 May 2013 04:58:03 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -589,6 +589,7 @@ djangosnippets.org
 .docstoc.com/docs
 .dojin.com
 ||dolc.de
+||dollf.com
 .domain.club.tw
 dongde.com
 dongtaiwang.com
@@ -2626,6 +2627,7 @@ savetibet.org
 savevid.com
 ||say2.info
 .scribd.com
+||scriptspot.com
 seapuff.com
 domainhelp.search.com
 secretchina.com
