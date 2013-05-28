@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ErPJtV7zuEfZyGPDIefekQ
+! Checksum: xZXt523BfAgxFugFv+wNuw
 ! Expires: 6h
-! Last Modified: Tue, 28 May 2013 04:58:03 -0400
+! Last Modified: Tue, 28 May 2013 05:04:57 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -250,6 +250,7 @@ blinw.com
 ||blip.tv/
 .blockcn.com
 ||blockcn.com
+||blog.de
 .blogcatalog.com
 ||blogcatalog.com
 .blogger.com
