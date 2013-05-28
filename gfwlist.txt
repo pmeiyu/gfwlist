@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Vj5EHplr7trBIoHYhTd0kA
+! Checksum: ybovyUqiMWx3tHFZWdHj4w
 ! Expires: 6h
-! Last Modified: Tue, 28 May 2013 05:10:10 -0400
+! Last Modified: Tue, 28 May 2013 05:11:37 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2306,6 +2306,7 @@ my.opera.com/dahema
 ||demo.opera-mini.net
 opnir.com/215/myentunnel-ssh-autoproxy-cross-gfw
 www.orchidbbs.com
+||orient-doll.com
 orientaldaily.com.my
 ||orientaldaily.com.my
 orientaldaily.on.cc
