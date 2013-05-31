@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JIweZHFxQ5Aj98ebfIPQMg
+! Checksum: sz5I4I3n+vf2FO+NmLc+ew
 ! Expires: 6h
-! Last Modified: Fri, 31 May 2013 12:46:54 -0400
+! Last Modified: Fri, 31 May 2013 12:48:39 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3273,7 +3273,6 @@ guomin.us/login
 !--------------------------UU--------------------------
 .srcf.ucam.org/salon/
 ||ucdc1998.org
-humanities.uchicago.edu
 ||uderzo.it
 ||udn.com
 .udn.com
