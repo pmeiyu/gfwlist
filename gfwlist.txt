@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: P9v+B7FEeVgUBOhpABFF7w
+! Checksum: cGfh2imSbn2XKAumJg7QiQ
 ! Expires: 6h
-! Last Modified: Sat, 08 Jun 2013 04:35:03 -0400
+! Last Modified: Sat, 08 Jun 2013 04:40:01 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1985,10 +1985,9 @@ liu.lu
 livestream.com
 ||livestream.com
 ||livingonline.us
+||livingstream.com
 
 !-------------live spaces-----
-cc9007.spaces.live.com
-chenyehao.spaces.live.com
 china-green-party.spaces.live.com
 flowerofhappiness.spaces.live.com
 gufeng521.spaces.live.com
@@ -2030,7 +2029,9 @@ hkreporter.loved.hk
 .lsd.org.hk
 ||lsd.org.hk
 lsforum.net
+||lsm.org
 ||lsmchinese.org
+||lsmkorean.org
 .lupm.org
 ||lupm.org
 lvhai.org
