@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LhxTNsC5XI1E1PRbN7tDBQ
+! Checksum: yO4+6NzIFacmEdpDCojpPw
 ! Expires: 6h
-! Last Modified: Mon, 10 Jun 2013 06:10:31 -0400
+! Last Modified: Mon, 10 Jun 2013 06:13:38 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -491,6 +491,7 @@ news.cnyes.com
 .code1984.com/64
 comefromchina.com
 ||comefromchina.com
+||compileheart.com
 ||conoyo.com
 .coolaler.com
 ||coolaler.com
@@ -1988,29 +1989,6 @@ livestream.com
 ||livestream.com
 ||livingonline.us
 ||livingstream.com
-
-!-------------live spaces-----
-china-green-party.spaces.live.com
-flowerofhappiness.spaces.live.com
-gufeng521.spaces.live.com
-honeonet.spaces.live.com
-huajiadi.spaces.live.com
-hujiachina.spaces.live.com
-ieemdai.spaces.live.com
-portis21.spaces.live.com
-program-think.spaces.live.com
-singularitys.spaces.live.com
-siyi123123123.spaces.live.com
-sublexical.spaces.live.com
-twitese.spaces.live.com
-wangyi64.spaces.live.com
-wenyunchao.spaces.live.com
-williamlong.spaces.live.com
-yanghengjun.spaces.live.com
-yezimary.spaces.live.com
-zengjinyan.spaces.live.com
-zhllg.spaces.live.com
-
 ||livevideo.com
 .livevideo.com
 lizhizhuangbi.com
