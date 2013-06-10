@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pTJ7v9D7YMToJHKkv7cNbA
+! Checksum: LhxTNsC5XI1E1PRbN7tDBQ
 ! Expires: 6h
-! Last Modified: Mon, 10 Jun 2013 06:08:38 -0400
+! Last Modified: Mon, 10 Jun 2013 06:10:31 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -807,6 +807,7 @@ footwiball.com
 ||foxdie.us
 ||foxsub.com
 foxtang.com
+||fqrouter.com
 ||franklc.com
 .freakshare.com
 |http://freakshare.com
