@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +omJXB/IDQldJOwYXRZ/1Q
+! Checksum: pTJ7v9D7YMToJHKkv7cNbA
 ! Expires: 6h
-! Last Modified: Sat, 08 Jun 2013 04:41:38 -0400
+! Last Modified: Mon, 10 Jun 2013 06:08:38 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1739,6 +1739,7 @@ t.huhaitai.com
 ||hutianyi.net
 hutong9.net
 ||hwinfo.com
+||hyperrate.com
 
 !--------------------II--------------------
 ||i1.hk
