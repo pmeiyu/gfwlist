@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vYQuGrN/LrY1VEcZygjNvQ
+! Checksum: 0z72zf2WroccPq7UbdW2Ug
 ! Expires: 6h
-! Last Modified: Wed, 12 Jun 2013 00:46:13 -0400
+! Last Modified: Wed, 12 Jun 2013 03:48:47 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4437,7 +4437,8 @@ zh.wikipedia.org*%E7%AB%A0%E8%AF%92%E5%92%8C
 zh.wikipedia.org*%E5%BC%A0%E9%92%B0
 !--Zhang Yu (zh-hant)
 zh.wikipedia.org*%E5%BC%B5%E9%88%BA
-!--Zhao Zi Yang (zh-hant)
+!--Zhao Zi Yang (zh-hans/zh-hant)
+zh.wikipedia.org*%E8%B5%B5%E7%B4%AB%E9%98%B3
 zh.wikipedia.org*%E8%B6%99%E7%B4%AB%E9%99%BD
 !--Zhe Bu Zun Dan Ba Hu Tu Ke Tu
 zh.wikipedia.org*%E5%93%B2%E5%B8%83%E5%B0%8A%E4%B8%B9%E5%B7%B4%E5%91%BC%E5%9B%BE%E5%85%8B%E5%9B%BE
