@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: J87Jx45FAuXHQpDsr+TtTw
+! Checksum: UN6U62T/9u5HytnVe6uzAw
 ! Expires: 6h
-! Last Modified: Fri, 14 Jun 2013 03:16:30 -0400
+! Last Modified: Fri, 14 Jun 2013 03:22:50 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2852,6 +2852,7 @@ taipei.gov.tw
 ||taiwandaily.net
 taiwankiss.com
 ||taiwannation.com.tw
+taiwanus.net
 taiwan-sex.com
 ||tamiaode.tk
 tangben.com
@@ -2882,6 +2883,7 @@ theblemish.com
 ||thedw.us
 ||thegatesnotes.com
 thehousenews.com
+||thehun.net
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
@@ -2972,7 +2974,7 @@ trtc.com.tw
 tsquare.tv
 tsunagarumon.com
 .tsctv.net
-||tt1069.net
+||tt1069.com
 ||tttan.com
 .tttan.com
 bb.ttv.com.tw/bb
