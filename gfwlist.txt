@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5YpA2tqsejJ3d19tZaRS5Q
+! Checksum: CQaY6vqyPaVQEpMNf+PWqA
 ! Expires: 6h
-! Last Modified: Fri, 14 Jun 2013 03:06:08 -0400
+! Last Modified: Fri, 14 Jun 2013 03:09:15 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2592,8 +2592,7 @@ rti.org.tw
 .rushbee.com
 rutube.ru
 .ruyiseek.com
-!-.rxhj.net
-!-||rxhj.net
+.rxhj.net
 
 !--------------------SS--------------------
 blog.s135.com/google_ssl
