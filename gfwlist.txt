@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0z72zf2WroccPq7UbdW2Ug
+! Checksum: 5ni/m57BT3wWXK/ZEkE9NA
 ! Expires: 6h
-! Last Modified: Wed, 12 Jun 2013 03:48:47 -0400
+! Last Modified: Fri, 14 Jun 2013 03:03:39 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -952,16 +952,15 @@ greatfirewall.biz
 .greenparty.org.tw
 gpass1.com
 great-firewall.com
+great-roc.org
 greatroc.org
 greatzhonghua.org
 .greenvpn.net
 ||greenvpn.net
 gs-discuss.com
-.gseeker.com/50226711/eeieyoutubeagooglec_121822.php
 ||gtricks.com
 guancha.org
 .gun-world.net
-@@||bak.gun-world.net
 ||gutteruncensored.com
 ||gvm.com.tw
 .gzm.tv
