@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CQaY6vqyPaVQEpMNf+PWqA
+! Checksum: J87Jx45FAuXHQpDsr+TtTw
 ! Expires: 6h
-! Last Modified: Fri, 14 Jun 2013 03:09:15 -0400
+! Last Modified: Fri, 14 Jun 2013 03:16:30 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -440,6 +440,7 @@ chinatweeps.com
 chinaway.org
 .chinaworker.info
 ||chinaworker.info
+chinayouth.org.hk
 chinayuanmin.org
 ||chinayuanmin.org
 .chinese-hermit.net
@@ -592,6 +593,7 @@ djangosnippets.org
 ||dlsite.com
 .docstoc.com/docs
 .dojin.com
+.dok-forum.net
 ||dolc.de
 ||dollf.com
 .domain.club.tw
@@ -4617,6 +4619,7 @@ gov.tw
 
 !-----IP-----
 174.142.105.153
+69.65.19.160
 
 !-----Whitelist-----
 @@||aliyun.com
