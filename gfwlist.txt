@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: S25qqDHtd4hzl+kclh1WiA
+! Checksum: Z4LN25D/yqq3/2ab5At/nA
 ! Expires: 6h
-! Last Modified: Fri, 14 Jun 2013 03:40:03 -0400
+! Last Modified: Fri, 14 Jun 2013 03:51:44 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -241,8 +241,6 @@ http://bitshare.com/files
 !-|http://bitsnoop.com
 bjzc.org
 ||bjzc.org/
-||blackra1n.com
-||blogearth.org
 tor.blingblingsquad.net
 .blinkx.com
 ||blinkx.com
@@ -841,7 +839,6 @@ freenewscn.com
 ||freessh.us
 .free-ssh.com
 ||free-ssh.com
-|http://www.freegroup.org/2008/08/free-website-test-behind-the-great-firewall-of-china/#.UUkVuDdnXyE
 ||freenetproject.org
 .freeoz.org
 www.freetibet.org
@@ -1781,6 +1778,7 @@ ifjc.org
 ||antidrm.hpg.ig.com.br
 ||igfw.net
 ||ignitedetroit.net
+||ihakka.net
 ||iicns.com
 ||illusionfactory.com
 ||ilove80.be
@@ -2026,6 +2024,7 @@ m-team.cc/forum
 www.macrovpn.com
 ||mad-ar.ch
 marguerite.su
+||martincartoons.com
 .maiio.net
 mail-archive.com
 malaysiakini.com/cn
@@ -2364,7 +2363,7 @@ forum.pchome.com.tw
 mypaper.pchome.com.tw
 news.pchome.com.tw
 www.pchome.com.tw
-.pcworld.com/downloads/file/fid,71209-order
+||pct.org.tw
 pdetails.com
 ||pdproxy.com
 peacefire.org
