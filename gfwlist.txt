@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Na7WMmiCRWcsbltqVqqQoA
+! Checksum: Fu7wwcLer8HwlT22SFb9IA
 ! Expires: 6h
-! Last Modified: Fri, 14 Jun 2013 03:26:58 -0400
+! Last Modified: Fri, 14 Jun 2013 03:30:48 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2851,7 +2851,8 @@ taipei.gov.tw
 ||taiwantt.org.tw
 ||taiwandaily.net
 taiwankiss.com
-||taiwannation.com.tw
+taiwannation.com
+taiwannation.com.tw
 taiwanus.net
 taiwanyes.com
 taiwan-sex.com
