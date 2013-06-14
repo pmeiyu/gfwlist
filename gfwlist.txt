@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Fu7wwcLer8HwlT22SFb9IA
+! Checksum: S25qqDHtd4hzl+kclh1WiA
 ! Expires: 6h
-! Last Modified: Fri, 14 Jun 2013 03:30:48 -0400
+! Last Modified: Fri, 14 Jun 2013 03:40:03 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2842,6 +2842,7 @@ blog.syx86.cn/2009/09/puff
 |http://taa-usa.org
 tabtter.jp
 .tacem.org
+||tafaward.com
 tagwalk.com
 ||tagwalk.com
 taipei.gov.tw
