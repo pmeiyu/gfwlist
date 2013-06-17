@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 138yhm+vz50hsef6/L244w
+! Checksum: 2EQwsfSTKVqXnqsFb8UN3g
 ! Expires: 6h
-! Last Modified: Sat, 15 Jun 2013 23:44:37 -0400
+! Last Modified: Sun, 16 Jun 2013 23:26:51 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4338,6 +4338,7 @@ zh.wikipedia.org*%E5%90%B4%E9%82%A6%E5%9B%BD
 zh.wikipedia.org*%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97
 !--Wu Er Kai Xi
 zh.wikipedia.org*%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C
+zh.wikipedia.org*%E5%90%BE%E7%88%BE%E9%96%8B%E5%B8%8C
 !--Wu Guo Jie Ji Zhe
 zh.wikipedia.org*%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85
 !--Wu Hong Da
