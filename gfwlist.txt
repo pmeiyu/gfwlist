@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2EQwsfSTKVqXnqsFb8UN3g
+! Checksum: NvZIwTvs9HDodaEC/Om+xA
 ! Expires: 6h
-! Last Modified: Sun, 16 Jun 2013 23:26:51 -0400
+! Last Modified: Mon, 17 Jun 2013 03:15:16 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3454,6 +3454,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wikimedia.org.mo
 zh.wikinews.org
 ||wikiwiki.jp
+||sports.williamhill.com
 ||willw.net
 ||windowsphoneme.com
 winwhispers.info
