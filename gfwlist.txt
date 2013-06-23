@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SY6SgRheSV5U9bCSg2otwg
+! Checksum: +flUf6vcImfLY27+9FaejQ
 ! Expires: 6h
-! Last Modified: Sat, 22 Jun 2013 23:42:24 -0400
+! Last Modified: Sat, 22 Jun 2013 23:48:46 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -547,6 +547,7 @@ dadazim.com
 ||dadazim.com
 .dadi360.com
 dafagood.com
+||dalailama.ru
 .dailidaili.com
 ||dailidaili.com
 .dailymotion.com
@@ -1943,6 +1944,7 @@ kyohk.net
 !--------------------LL--------------------
 la-forum.org
 ladbrokes.com
+||abiennale.org
 lagranepoca.com
 .lalulalu.com
 laogai.org
@@ -2323,6 +2325,7 @@ oyax.com
 .ozchinese.com/bbs
 ||ow.ly
 bbs.ozchinese.com
+.ozyoyo.com
 
 !--------------------PP--------------------
 .pacificpoker.com
@@ -2432,6 +2435,7 @@ popyard.com
 .porn2.com
 .pornbase.org
 .pornhub.com
+||pornmm.net
 .pornrapidshare.com
 ||pornrapidshare.com
 .pornstarclub.com
