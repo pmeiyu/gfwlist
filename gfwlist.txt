@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PROAkIedMrxOjhwBtL6e3A
+! Checksum: SY6SgRheSV5U9bCSg2otwg
 ! Expires: 6h
-! Last Modified: Sat, 22 Jun 2013 23:32:52 -0400
+! Last Modified: Sat, 22 Jun 2013 23:42:24 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -65,6 +65,7 @@ taiwannation.50webs.com
 ||7capture.com
 .881903.com/page/zh-tw/
 .888.com
+||881903.com
 89-64.org
 ||89-64.org
 .9001700.com
@@ -260,6 +261,7 @@ blogimg.jp
 ||blog.kangye.org
 .bloglines.com
 ||bloglines.com
+.bloglovin.com
 rconversation.blogs.com
 blogspot.co.uk
 blogspot.com
@@ -458,6 +460,7 @@ christianstudy.com
 ||christianstudy.com
 christusrex.org/www1/sdc
 ||chrlcg-hk.org
+||chromeadblock.com
 chubun.com
 chuizi.net
 ||chuizi.net
@@ -2731,6 +2734,7 @@ smhric.org
 .so-news.com
 home.so-net.net.tw/yisa_tsai
 ||soc.mil/
+||sockslist.net
 .sod.co.jp
 .softether.org
 ||softether.org
@@ -3829,6 +3833,7 @@ search*%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 !-------------Wikipedia----------------
+||upload.wikimedia.org
 |https://*.wikipedia.org
 .wikipedia.org/wiki/Dalai_Lama
 .wikipedia.org/wiki/Dalai-Lama
