@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +flUf6vcImfLY27+9FaejQ
+! Checksum: gGC1Au+JFcFlLIMbHHgyvg
 ! Expires: 6h
-! Last Modified: Sat, 22 Jun 2013 23:48:46 -0400
+! Last Modified: Sat, 22 Jun 2013 23:50:43 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -351,6 +351,7 @@ http://www.cantonese.asia/action-bbs.html
 caochangqing.com
 ||caochangqing.com
 cari.com.my
+||catch22.net
 ||catfightpayperview.xxx
 .catholic.org.hk
 ||catholic.org.hk
@@ -547,6 +548,7 @@ dadazim.com
 ||dadazim.com
 .dadi360.com
 dafagood.com
+dafahao.com
 ||dalailama.ru
 .dailidaili.com
 ||dailidaili.com
@@ -1617,6 +1619,7 @@ greatfirewallofchina.org
 ||gstatic.com
 guishan.org
 ||guishan.org
+.gyalwarinpoche.com
 
 !--------------------HH--------------------
 ||h-china.org
