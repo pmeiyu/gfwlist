@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gGC1Au+JFcFlLIMbHHgyvg
+! Checksum: dMqiePnpoQgmVwGyUZ9SIg
 ! Expires: 6h
-! Last Modified: Sat, 22 Jun 2013 23:50:43 -0400
+! Last Modified: Tue, 25 Jun 2013 12:12:16 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1947,7 +1947,7 @@ kyohk.net
 !--------------------LL--------------------
 la-forum.org
 ladbrokes.com
-||abiennale.org
+||labiennale.org
 lagranepoca.com
 .lalulalu.com
 laogai.org
