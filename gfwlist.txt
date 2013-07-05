@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Hg1D2gaUY3xnDhyrV6wb/w
+! Checksum: gL/T1aGaXr3QqN4OP9VNiQ
 ! Expires: 6h
-! Last Modified: Thu, 04 Jul 2013 23:14:04 -0400
+! Last Modified: Thu, 04 Jul 2013 23:20:11 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2417,7 +2417,7 @@ blog.pilotmoon.com
 .pk.com
 ||placemix.com
 .planetsuzy.org
-||www.playboy.com
+||playboy.com
 plays.com.tw
 ||m.plixi.com
 plm.org.hk
