@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2stVjU7uWoVfxGRc7QWyMA
+! Checksum: Hg1D2gaUY3xnDhyrV6wb/w
 ! Expires: 6h
-! Last Modified: Thu, 04 Jul 2013 23:10:30 -0400
+! Last Modified: Thu, 04 Jul 2013 23:14:04 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -710,6 +710,7 @@ eventful.com
 @@||www.exblog.jp
 ||expatshield.com
 ||exploader.net
+.extremetube.com
 eyevio.jp
 ||eyevio.jp
 !--eyny.com
