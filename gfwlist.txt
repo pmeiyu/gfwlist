@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dMqiePnpoQgmVwGyUZ9SIg
+! Checksum: svIQvGoYyHDAsQ5NHrj6iA
 ! Expires: 6h
-! Last Modified: Tue, 25 Jun 2013 12:12:16 -0400
+! Last Modified: Thu, 04 Jul 2013 22:52:11 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2569,6 +2569,7 @@ subacme.rerouted.org
 retweetist.com
 ||retweetrank.com
 connectedchina.reuters.com
+|http://www.reuters.com/news/video/reuters-tv
 revver.com
 .rfa.org
 .rfachina.com
