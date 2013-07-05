@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5fVt/fiWJNSW6QXsM5K/qQ
+! Checksum: lVkabWerk9e3146ErfFB1A
 ! Expires: 6h
-! Last Modified: Thu, 04 Jul 2013 23:01:01 -0400
+! Last Modified: Thu, 04 Jul 2013 23:06:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3148,7 +3148,7 @@ tweetboard.com
 .tweetboner.biz
 ||tweetboner.biz
 .tweetdeck.com
-|http://tweetdeck.com
+||tweetdeck.com
 |http://deck.ly
 ||tweete.net
 m.tweete.net
