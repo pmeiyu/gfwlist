@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: i42BhQjYTjwX/Unapi3GEA
+! Checksum: fKcSASbiPH3HLKCmkT6zoA
 ! Expires: 6h
-! Last Modified: Thu, 04 Jul 2013 23:24:33 -0400
+! Last Modified: Sun, 07 Jul 2013 02:20:53 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2721,7 +2721,7 @@ sinoquebec.com
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
-sis001.com
+||sis001.com
 sis001.us
 ||sjum.cn/
 ||skimtube.com
@@ -2773,6 +2773,7 @@ sohfrance.org
 ||sohfrance.org
 chinese.soifind.com
 sokamonline.com
+||somee.com
 .songjianjun.com
 ||songjianjun.com
 .sopcast.com
@@ -2869,6 +2870,7 @@ taipei.gov.tw
 taiwankiss.com
 taiwannation.com
 taiwannation.com.tw
+||taiwannews.com.tw
 taiwanus.net
 taiwanyes.com
 taiwan-sex.com
@@ -3440,6 +3442,7 @@ westca.com
 ||westernwolves.com
 hkg.westkit.net
 www.wet123.com
+||wepn.info
 wetpussygames.com
 wexiaobo.org
 ||wexiaobo.org
