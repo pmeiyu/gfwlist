@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8srvEDNuOSlG2cFfBvoyzw
+! Checksum: 35sZPcNAomNUt5rG/UkcCQ
 ! Expires: 6h
-! Last Modified: Sun, 07 Jul 2013 03:18:22 -0400
+! Last Modified: Sun, 07 Jul 2013 04:22:48 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1723,6 +1723,7 @@ holyspiritspeaks.org
 ||holyspiritspeaks.org
 ||derekhsu.homeip.net
 hongmeimei.com
+||hongzhi.li
 hootsuite.com
 ||hootsuite.com
 !--hotfile.com/dl
@@ -2051,6 +2052,7 @@ mashable.com
 ||mashable.com
 ||matainja.com
 ||mathiew-badimon.com
+||matsushimakaede.com
 mayimayi.com
 mcfog.com
 .md-t.org
