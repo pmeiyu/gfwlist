@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: h6u12BPu2lR38iJ72abL8g
+! Checksum: LKPAID4PajWs7YPvczzSxQ
 ! Expires: 6h
-! Last Modified: Mon, 08 Jul 2013 08:40:52 -0400
+! Last Modified: Tue, 09 Jul 2013 09:21:07 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3185,6 +3185,8 @@ twilog.org
 twimbow.com
 ||twimbow.com
 ||twindexx.com
+twipple.jp
+||twipple.jp
 ||twip.me/
 twistar.cc
 twisternow.com
