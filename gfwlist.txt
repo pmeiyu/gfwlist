@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LKPAID4PajWs7YPvczzSxQ
+! Checksum: LV/Um57RC/D8MaPojO6Z6w
 ! Expires: 6h
-! Last Modified: Tue, 09 Jul 2013 09:21:07 -0400
+! Last Modified: Sun, 14 Jul 2013 20:44:30 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2443,6 +2443,7 @@ popyard.com
 .pornbase.org
 .pornhub.com
 ||pornmm.net
+.pornoxo.com
 .pornrapidshare.com
 ||pornrapidshare.com
 .pornstarclub.com
