@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LV/Um57RC/D8MaPojO6Z6w
+! Checksum: xe8/RvennnEtBX+BM+101Q
 ! Expires: 6h
-! Last Modified: Sun, 14 Jul 2013 20:44:30 -0400
+! Last Modified: Wed, 17 Jul 2013 05:56:42 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2580,7 +2580,7 @@ revver.com
 .rfa.org
 .rfachina.com
 .rfamobile.org
-rferl.org
+||rferl.org
 .rfi.fr
 ||rfi.fr
 |http://rfi.my/
