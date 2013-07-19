@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GDEFokpnwCUu81BjuO0hzw
+! Checksum: cOrcUBKqkiuBLLYW03/Zwg
 ! Expires: 6h
-! Last Modified: Thu, 18 Jul 2013 20:33:56 -0400
+! Last Modified: Thu, 18 Jul 2013 20:47:43 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -166,6 +166,7 @@ asianews.it
 ||askstudent.com
 .askynz.net
 ||askynz.net
+||assembla.com
 ||astonmartinnews.com
 .atchinese.com
 |http://atchinese.com
@@ -189,6 +190,7 @@ backchina.com
 .backpackers.com.tw/forum
 badoo.com
 ||baidu.jp
+||baixing.me
 hen.bao.li
 bannedbook.org
 ||bannedbook.org
