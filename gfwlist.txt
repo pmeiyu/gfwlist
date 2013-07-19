@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: cOrcUBKqkiuBLLYW03/Zwg
+! Checksum: Qnr8rk01EEF9BOA3nzkOHA
 ! Expires: 6h
-! Last Modified: Thu, 18 Jul 2013 20:47:43 -0400
+! Last Modified: Thu, 18 Jul 2013 20:54:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -341,6 +341,7 @@ holz.byethost8.com
 .calameo.com/books
 cn.calameo.com
 |http://cn.calameo.com
+||cams.com
 canadameet.com
 |http://bbs.cantonese.asia/
 http://www.cantonese.asia/action-bbs.html
@@ -358,6 +359,7 @@ cari.com.my
 ||catholic.org.hk
 catholic.org.tw
 ||catholic.org.tw
+.cbsnews.com/video
 ||ccavtop10.com
 !-.ccc.de
 !-||ccc.de
@@ -2075,6 +2077,7 @@ merit-times.com.tw
 .mesotw.com/bbs
 .metacafe.com
 ||meteorshowersonline.com
+||metrolife.ca
 mgoon.com
 ||mgstage.com
 mhradio.org
