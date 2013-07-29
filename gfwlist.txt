@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: a89MjyMLBrJKxeL1yUg7jQ
+! Checksum: 0E6GBGqdrWX5uXHdYgWb2A
 ! Expires: 6h
-! Last Modified: Sun, 28 Jul 2013 23:23:08 -0400
+! Last Modified: Sun, 28 Jul 2013 23:24:27 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -888,6 +888,7 @@ fzh999.net
 ||galenwu.com
 gamebase.com.tw
 ||gamer.com.tw
+.gamer.com.tw
 .gamez.com.tw
 ||gamez.com.tw
 .gaoming.net
