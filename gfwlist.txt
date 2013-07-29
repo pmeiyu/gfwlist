@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Qnr8rk01EEF9BOA3nzkOHA
+! Checksum: vJeuNROMJ1zgGL4ansglmw
 ! Expires: 6h
-! Last Modified: Thu, 18 Jul 2013 20:54:56 -0400
+! Last Modified: Sun, 28 Jul 2013 20:08:39 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3618,6 +3618,7 @@ xmovies.com
 xpdo.net
 ||xpud.org
 ||k2.xrea.com
+||xtube.com
 blog.xuite.net
 vlog.xuite.net
 xuzhiyong.net
