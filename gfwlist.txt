@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vJeuNROMJ1zgGL4ansglmw
+! Checksum: a89MjyMLBrJKxeL1yUg7jQ
 ! Expires: 6h
-! Last Modified: Sun, 28 Jul 2013 20:08:39 -0400
+! Last Modified: Sun, 28 Jul 2013 23:23:08 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2793,10 +2793,8 @@ soundcloud.com/punkgod
 soundofhope.org
 ||soundofhope.org
 ||soupofmedia.com
-|http://retroshare.sourceforge.net
-!-.sourceforge.net
+.sourceforge.net
 !-|http://sourceforge.net
-!-sourceforge.net/projects/portabletor/files/
 southnews.com.tw
 sowers.org.hk
 ||wlx.sowiki.net
