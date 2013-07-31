@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0E6GBGqdrWX5uXHdYgWb2A
+! Checksum: JQ8KHjH92El50g1PD/gpHg
 ! Expires: 6h
-! Last Modified: Sun, 28 Jul 2013 23:24:27 -0400
+! Last Modified: Wed, 31 Jul 2013 03:01:25 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3026,12 +3026,12 @@ bbs.tuitui.info
 
 
 !-------------Tumblr-----
-||tumblr.com
-@@||assets.tumblr.com
-@@||data.tumblr.com
-@@||media.tumblr.com
-@@||static.tumblr.com
-@@||www.tumblr.com
+!--||tumblr.com
+!--@@||assets.tumblr.com
+!--@@||data.tumblr.com
+!--@@||media.tumblr.com
+!--@@||static.tumblr.com
+!--@@||www.tumblr.com
 ||301works.org
 ||365singles.com.ar
 ||all-that-is-interesting.com
