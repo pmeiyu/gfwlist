@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JQ8KHjH92El50g1PD/gpHg
+! Checksum: MtNl0iQpo9JFtadjoDz6qg
 ! Expires: 6h
-! Last Modified: Wed, 31 Jul 2013 03:01:25 -0400
+! Last Modified: Sat, 03 Aug 2013 01:01:52 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2674,6 +2674,7 @@ sexinsex.net
 67.220.91.23
 .sfileydy.com
 shadow.ma
+||shadowsocks.org
 .shangfang.org
 ||shangfang.org
 shapeservices.com
