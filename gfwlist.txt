@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sFLNVllBQuRzABJARcaUfg
+! Checksum: 4QIfM2Q17uZRF4cC2Bx+NA
 ! Expires: 6h
-! Last Modified: Sat, 03 Aug 2013 01:22:39 -0400
+! Last Modified: Thu, 08 Aug 2013 06:59:06 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3858,7 +3858,7 @@ search*%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
 !-------------Wikipedia----------------
-!--||upload.wikimedia.org
+|https://upload.wikimedia.org
 |https://*.wikipedia.org
 .wikipedia.org/wiki/Dalai_Lama
 .wikipedia.org/wiki/Dalai-Lama
