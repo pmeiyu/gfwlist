@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4QIfM2Q17uZRF4cC2Bx+NA
+! Checksum: XwkeCX073V85Y7yiuKqz7A
 ! Expires: 6h
-! Last Modified: Thu, 08 Aug 2013 06:59:06 -0400
+! Last Modified: Sat, 10 Aug 2013 02:32:10 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3013,6 +3013,7 @@ bb.ttv.com.tw/bb
 tube8.com
 ||tube8.com
 tubecao.com
+||tubewolf.com
 tuidang.net
 tuidang.org
 bbs.tuitui.info
