@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0jhETcPm3gvsJhNmd1ssgA
+! Checksum: 1+hFNBKuiJFFX8tpRvsEVw
 ! Expires: 6h
-! Last Modified: Wed, 14 Aug 2013 20:44:32 -0400
+! Last Modified: Wed, 14 Aug 2013 20:45:07 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2277,7 +2277,6 @@ nysingtao.com
 observechina.net
 ||october-review.org
 offbeatchina.com
-||oddee.com
 ||ogaoga.org
 twtr2src.ogaoga.org
 .oikos.com.tw/v4
