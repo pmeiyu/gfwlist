@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: O54x6NmF2oiuzpLAKc7GUQ
+! Checksum: S8LvbcBGWo9LVhWESwsTqg
 ! Expires: 6h
-! Last Modified: Wed, 14 Aug 2013 20:49:43 -0400
+! Last Modified: Fri, 23 Aug 2013 02:49:20 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -881,6 +881,7 @@ funp.com
 ||furinkan.com
 .futurechinaforum.org
 ||futuremessage.org
+||fw.cm
 fzh999.com
 fzh999.net
 
@@ -1873,6 +1874,7 @@ itunes.apple.com/us*id447119634
 .apple.*isunaffairs
 
 !--------------------JJ--------------------
+||j.mp
 blog.jackjia.com
 jbtalks.cc
 jbtalks.com
