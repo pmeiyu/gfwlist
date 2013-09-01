@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: S8LvbcBGWo9LVhWESwsTqg
+! Checksum: b/MCUzJraXx7ltd7mI5oPQ
 ! Expires: 6h
-! Last Modified: Fri, 23 Aug 2013 02:49:20 -0400
+! Last Modified: Sun, 01 Sep 2013 09:54:45 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2257,6 +2257,7 @@ nobodycanstop.us
 .nowtorrents.com
 .noypf.com
 ||noypf.com
+||npa.go.jp
 .nps.gov
 .nrk.no
 ||nrk.no
