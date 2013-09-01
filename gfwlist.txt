@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: b/MCUzJraXx7ltd7mI5oPQ
+! Checksum: 71dnhw2lzT17eVlswgjRIg
 ! Expires: 6h
-! Last Modified: Sun, 01 Sep 2013 09:54:45 -0400
+! Last Modified: Sun, 01 Sep 2013 10:21:39 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -471,6 +471,7 @@ chuizi.net
 !--same ip
 ||chrispederick.com
 ||chrispederick.net
+.chrlawyers.hk
 ||allaboutalpha.com
 .citizenlab.org
 citizensradio.org
