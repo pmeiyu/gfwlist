@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 71dnhw2lzT17eVlswgjRIg
+! Checksum: EjGgmI+PWmJ2WofRNpmwdg
 ! Expires: 6h
-! Last Modified: Sun, 01 Sep 2013 10:21:39 -0400
+! Last Modified: Thu, 05 Sep 2013 22:39:37 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1427,6 +1427,8 @@ google*search*q=cache
 .google.*%E9%B2%81%E6%98%95
 !--Ma Kai
 .google.*%E9%A9%AC%E5%87%AF
+!--Ma Li
+.google.*%E9%A9%AC%E5%8A%9B
 !--Mai Dang Lao | McDonald
 .google.*%E9%BA%A6%E5%BD%93%E5%8A%B3
 !--Meng Gu+Shi Wei
