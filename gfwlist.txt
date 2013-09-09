@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EjGgmI+PWmJ2WofRNpmwdg
+! Checksum: TeerElW4e4lBT4eElB+AnA
 ! Expires: 6h
-! Last Modified: Thu, 05 Sep 2013 22:39:37 -0400
+! Last Modified: Sun, 08 Sep 2013 23:59:30 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4002,6 +4002,8 @@ zh.wikipedia.org*%E5%B0%81%E4%BB%8E%E5%BE%B7
 zh.wikipedia.org*%E5%B0%81%E5%BE%9E%E5%BE%B7
 !--Feng Zheng Hu
 zh.wikipedia.org*%E5%86%AF%E6%AD%A3%E8%99%8E
+!--Fu Tie Shan
+zh.wikipedia.org*%E5%82%85%E9%93%81%E5%B1%B1
 !--Ga Lun Chi Ba
 zh.wikipedia.org*%E5%99%B6%E5%80%AB%E8%B5%A4%E5%B7%B4
 !--Gao Zhi Sheng
