@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TeerElW4e4lBT4eElB+AnA
+! Checksum: cpjBFnTDD+CekDcF6FVT3Q
 ! Expires: 6h
-! Last Modified: Sun, 08 Sep 2013 23:59:30 -0400
+! Last Modified: Mon, 09 Sep 2013 23:44:07 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -945,6 +945,7 @@ gmbd.cn
 ||gmhz.org
 godfootsteps.org
 ||godfootsteps.org
+|http://www.goldenmelody.com.tw
 ||goldwave.com
 gongmeng.info
 gongm.in
