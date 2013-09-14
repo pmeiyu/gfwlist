@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: cpjBFnTDD+CekDcF6FVT3Q
+! Checksum: 1hSuirl/CUeUoWJ7oPgUcg
 ! Expires: 6h
-! Last Modified: Mon, 09 Sep 2013 23:44:07 -0400
+! Last Modified: Fri, 13 Sep 2013 22:47:08 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2273,6 +2273,7 @@ ntdtv.ru
 ||cbs.ntu.edu.tw
 ||nuexpo.com
 ||nurgo-software.com
+.nuvid.com
 nuzcom.com
 ||nyt.com
 ||nytco.com
