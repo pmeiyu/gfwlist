@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1hSuirl/CUeUoWJ7oPgUcg
+! Checksum: Yi3a2fAav1djKK+hQwCoiA
 ! Expires: 6h
-! Last Modified: Fri, 13 Sep 2013 22:47:08 -0400
+! Last Modified: Sat, 14 Sep 2013 21:26:52 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2067,6 +2067,7 @@ mashable.com
 ||mathiew-badimon.com
 ||matsushimakaede.com
 mayimayi.com
+||mcadforums.com
 mcfog.com
 .md-t.org
 ||md-t.org
