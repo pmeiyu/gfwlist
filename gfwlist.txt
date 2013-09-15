@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Yi3a2fAav1djKK+hQwCoiA
+! Checksum: D0gekb4uF7bbWwNe0w64rw
 ! Expires: 6h
-! Last Modified: Sat, 14 Sep 2013 21:26:52 -0400
+! Last Modified: Sat, 14 Sep 2013 21:28:23 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2743,6 +2743,7 @@ sinoquebec.com
 ||siteks.uk.to
 ||sitemaps.org
 sitetag.us
+.sis.xxx
 ||sis001.com
 sis001.us
 ||sjum.cn/
