@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: X+joA3V2ER75ZVxqPSDWHw
+! Checksum: YldEM+C+kGtS5C9XSq3PPg
 ! Expires: 6h
-! Last Modified: Mon, 16 Sep 2013 23:45:50 -0400
+! Last Modified: Sun, 22 Sep 2013 23:51:47 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3886,6 +3886,7 @@ en.wikipedia.org/wiki/Chen_Guangcheng
 en.wikipedia.org/wiki/Deep_packet_inspection
 en.wikipedia.org/wiki/Freegate
 en.wikipedia.org/wiki/Golden_Shield_Project
+en.wikipedia.org/wiki/Great_Firewall_of_China
 en.wikipedia.org/wiki/Hong_Kong
 en.wikipedia.org/wiki/Huang_Qi
 en.wikipedia.org/wiki/Internet_censorship
