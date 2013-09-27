@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YldEM+C+kGtS5C9XSq3PPg
+! Checksum: cmtuEskMoGABvhgxHvns5w
 ! Expires: 6h
-! Last Modified: Sun, 22 Sep 2013 23:51:47 -0400
+! Last Modified: Thu, 26 Sep 2013 23:08:26 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2964,6 +2964,7 @@ tibetonline.com
 ||tibetwrites.org
 .time.com/time/time100/leaders/profile/rebel
 .time.com/time/specials/packages/article/0,28804
+.time.com/time/magazine
 ||blog.tiney.com
 tinychat.com
 ||tinypaste.com
