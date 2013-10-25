@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: vEYmkfq9SGOIP16HleL55A
+! Checksum: qK45OLG14KYIsYU7WJ34VA
 ! Expires: 6h
-! Last Modified: Wed, 16 Oct 2013 22:24:19 -0400
+! Last Modified: Thu, 24 Oct 2013 21:57:43 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4687,6 +4687,7 @@ gov.tw
 @@||duckduckgo.com
 @@||jike.com
 @@||panguso.com
+@@||qq.com
 @@||sina.cn
 @@||sina.com.cn
 @@||sogou.com
