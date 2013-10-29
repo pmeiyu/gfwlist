@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qK45OLG14KYIsYU7WJ34VA
+! Checksum: rlRMqbAu5xZpSxXeerP2gQ
 ! Expires: 6h
-! Last Modified: Thu, 24 Oct 2013 21:57:43 -0400
+! Last Modified: Tue, 29 Oct 2013 00:03:29 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3452,6 +3452,7 @@ webworkerdaily.com
 weeewooo.net/hss/hotspot_cn
 .weekmag.info
 .wefong.com
+weiboleak.com
 weijingsheng.org
 .weiming.info
 weiquanwang.org
