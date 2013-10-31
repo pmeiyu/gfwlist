@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rlRMqbAu5xZpSxXeerP2gQ
+! Checksum: q+V9YvmN1w3TGFAmFw9u0g
 ! Expires: 6h
-! Last Modified: Tue, 29 Oct 2013 00:03:29 -0400
+! Last Modified: Wed, 30 Oct 2013 23:42:43 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -16,6 +16,7 @@ huluim.com
 ||turntable.fm
 ||vevo.com
 ||zattoo.com
+||qq.co.za
 
 !--------------------Num--------------------
 .0rz.tw
