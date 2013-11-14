@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ko5i5V+JIcU39yVANjd+4w
+! Checksum: dt2NL8GC9h83KhAQrG95jw
 ! Expires: 6h
-! Last Modified: Wed, 13 Nov 2013 09:58:15 -0500
+! Last Modified: Thu, 14 Nov 2013 03:28:45 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2827,6 +2827,7 @@ spinejs.com
 ||sproutcore.com
 squarespace.com
 ||ssh91.com
+|http://cdn.sstatic.net/
 www.stackfile.com/freedur
 usinfo.state.gov
 .starp2p.com
