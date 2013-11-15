@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Va3qTjBY/nxWXZUD6Db93g
+! Checksum: HhlKeHMSi5js9hNs2z/AJQ
 ! Expires: 6h
-! Last Modified: Fri, 15 Nov 2013 02:05:52 -0500
+! Last Modified: Fri, 15 Nov 2013 02:28:19 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2609,7 +2609,7 @@ riku.me/
 .rlwlw.com
 ||rlwlw.com
 chinese.rnw.nl
-www.rnw.nl/chinese
+.rnw.nl
 robtex.com
 ||robustnessiskey.com
 ||rocmp.org
