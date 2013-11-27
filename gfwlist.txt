@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HhlKeHMSi5js9hNs2z/AJQ
+! Checksum: FKEye7/RK6mSRdnNvnCUFw
 ! Expires: 6h
-! Last Modified: Fri, 15 Nov 2013 02:28:19 -0500
+! Last Modified: Tue, 26 Nov 2013 23:32:04 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -17,6 +17,7 @@ huluim.com
 ||vevo.com
 ||zattoo.com
 ||qq.co.za
+||zozotown.com
 
 !--------------------Num--------------------
 .0rz.tw
