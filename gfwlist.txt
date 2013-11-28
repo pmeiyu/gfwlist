@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FKEye7/RK6mSRdnNvnCUFw
+! Checksum: 5Q/FaUpVFruHs2rmHaRSgQ
 ! Expires: 6h
-! Last Modified: Tue, 26 Nov 2013 23:32:04 -0500
+! Last Modified: Wed, 27 Nov 2013 20:08:15 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1694,6 +1694,7 @@ heqinglian.net
 here4news.com
 ||heungkongdiscuss.com
 app.heywire.com
+.hgseav.com
 hidden-advent.org
 ||hidden-advent.org
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
