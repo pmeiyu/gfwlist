@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 67P29l5QIsGx3sraB4SH2g
+! Checksum: DI+wdjNFD+8Lg/SrVkGhkQ
 ! Expires: 6h
-! Last Modified: Thu, 28 Nov 2013 21:14:24 -0500
+! Last Modified: Thu, 28 Nov 2013 21:26:58 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1908,6 +1908,7 @@ jingpin.org
 ac.jiruan.net
 ||jitouch.com
 jkforum.net
+research.jmsc.hku.hk/social/search.py/sinaweibo
 ||joachims.org
 ||jobso.tv
 ||joeedelman.com
