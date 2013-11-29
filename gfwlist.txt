@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BR4IeZGNxp08p+T8Tcyz/A
+! Checksum: N5O9HWEQWIh8+DZe2FlzUQ
 ! Expires: 6h
-! Last Modified: Thu, 28 Nov 2013 21:29:51 -0500
+! Last Modified: Thu, 28 Nov 2013 21:32:58 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -432,6 +432,7 @@ chinagfw.org
 .chinagreenparty.org
 ||chinagreenparty.org
 .chinahush.com
+chinalawtranslate.com
 chinaxchina.com/howto
 .chinainperspective.com
 chinainperspective.net/ArtShow.aspx?
