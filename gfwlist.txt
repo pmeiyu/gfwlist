@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: N5O9HWEQWIh8+DZe2FlzUQ
+! Checksum: 7Adn3xL3sMm2XydZGaGb5A
 ! Expires: 6h
-! Last Modified: Thu, 28 Nov 2013 21:32:58 -0500
+! Last Modified: Thu, 28 Nov 2013 21:37:44 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1439,6 +1439,8 @@ google*search*q=cache
 .google.*%E9%A9%AC%E5%8A%9B
 !--Mai Dang Lao | McDonald
 .google.*%E9%BA%A6%E5%BD%93%E5%8A%B3
+!--Mao Xiang Hui
+.google.*%E6%AF%9B%E5%90%91%E8%BE%89
 !--Meng Gu+Shi Wei
 .google.*%E5%86%85%E8%92%99*%E7%A4%BA%E5%A8%81
 !--Meng Jian Zhu
