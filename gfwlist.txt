@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: l9+5G02zk3vyTAgkcNDJuQ
+! Checksum: Nyc/pbMM3eiYIaaiaMUs6g
 ! Expires: 6h
-! Last Modified: Tue, 03 Dec 2013 03:50:11 -0500
+! Last Modified: Thu, 05 Dec 2013 02:10:19 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1983,6 +1983,7 @@ laomiu.com
 .laoyang.info
 |http://laoyang.info
 ||laptoplockdown.com
+.laqingdan.net
 ||larsgeorge.com
 ||lastfm.es
 latelinenews.com
