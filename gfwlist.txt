@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Nyc/pbMM3eiYIaaiaMUs6g
+! Checksum: uC39cSdtFI5mpwMrBdYpEw
 ! Expires: 6h
-! Last Modified: Thu, 05 Dec 2013 02:10:19 -0500
+! Last Modified: Thu, 05 Dec 2013 02:13:46 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -877,6 +877,7 @@ freevpn.nl
 .fring.com
 ||fring.com
 ||frommel.net
+.frontlinedefenders.org
 ||fscked.org
 .fsurf.com
 !-.ftchinese.com/story/001038220
