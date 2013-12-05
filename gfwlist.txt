@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: uC39cSdtFI5mpwMrBdYpEw
+! Checksum: Vg5eIal7d68iJCIHthOOfA
 ! Expires: 6h
-! Last Modified: Thu, 05 Dec 2013 02:13:46 -0500
+! Last Modified: Thu, 05 Dec 2013 02:15:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3615,6 +3615,7 @@ wzyboy.im/post/160
 
 !--------------------------XX--------------------------
 |http://www.x-berry.com/goagent
+|http://x-art.com
 ||x-wall.org
 x1949x.com
 x365x.com
