@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Vg5eIal7d68iJCIHthOOfA
+! Checksum: 9cLy5j+pWI/wycATeUUhpA
 ! Expires: 6h
-! Last Modified: Thu, 05 Dec 2013 02:15:06 -0500
+! Last Modified: Fri, 06 Dec 2013 01:41:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -316,8 +316,8 @@ brightkite.com
 brizzly.com
 ||brizzly.com
 broadbook.com
-.broadcasthe.net
-||broadcasthe.net
+|http://*.broadcasthe.net
+|http://broadcasthe.net
 ibros.org
 brucewang.net
 ||bt95.com
@@ -1850,7 +1850,8 @@ inxian.com
 ||ipicture.ru
 ipobar.com
 ||ippotv.com
-||iptorrents.com
+|http://*.iptorrents.com
+|http://iptorrents.com
 ||ipvanish.com
 iredmail.org
 ||ironicsoftware.com
@@ -2384,6 +2385,8 @@ paperb.us
 ||panluan.net
 .panoramio.com
 .parade.com/dictators/2009
+|https://passthepopcorn.me/
+|https://*.passthepopcorn.me/
 pastebin.com
 .pastie.org
 ||pastie.org
