@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gLBJ64HJdP6gytwhymhgPw
+! Checksum: BTczhEDbldHZK31JTVbkfg
 ! Expires: 6h
-! Last Modified: Fri, 06 Dec 2013 03:53:39 -0500
+! Last Modified: Sun, 08 Dec 2013 22:00:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1642,6 +1642,7 @@ greatfirewallofchina.org
 ||gstatic.com
 guishan.org
 ||guishan.org
+||gunsamerica.com
 .gyalwarinpoche.com
 
 !--------------------HH--------------------
@@ -1850,8 +1851,8 @@ inxian.com
 ||ipicture.ru
 ipobar.com
 ||ippotv.com
-|http://*.iptorrents.com
-|http://iptorrents.com
+|https://*.iptorrents.com
+|https://iptorrents.com
 ||ipvanish.com
 iredmail.org
 ||ironicsoftware.com
