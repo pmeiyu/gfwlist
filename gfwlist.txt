@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VoyJkxt0yK8Yp1Gea3Z8Yw
+! Checksum: FzRLF1wdDxgWR9wq3tv0kQ
 ! Expires: 6h
-! Last Modified: Wed, 11 Dec 2013 08:08:13 -0500
+! Last Modified: Wed, 11 Dec 2013 08:09:22 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -880,8 +880,7 @@ freevpn.nl
 .frontlinedefenders.org
 ||fscked.org
 .fsurf.com
-!-.ftchinese.com/story/001038220
-.ftchinese.com
+!-.ftchinese.com
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
