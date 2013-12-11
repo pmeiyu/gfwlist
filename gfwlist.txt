@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BTczhEDbldHZK31JTVbkfg
+! Checksum: 9WYSBsimtkwSJwrGyDoi5A
 ! Expires: 6h
-! Last Modified: Sun, 08 Dec 2013 22:00:21 -0500
+! Last Modified: Tue, 10 Dec 2013 23:23:31 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1634,6 +1634,7 @@ myboooks.googlepages.com
 
 gospelherald.com
 ||gospelherald.com
+|http://hk.gradconnection.com/
 ||graylog2.org
 greatfire.org
 ||greatfire.org
