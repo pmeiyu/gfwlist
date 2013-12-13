@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0leimJiUnuiaZeQ1jwI+Jw
+! Checksum: p/MuVBKvxV7+MJTHTY6lcg
 ! Expires: 6h
-! Last Modified: Wed, 11 Dec 2013 08:10:57 -0500
+! Last Modified: Thu, 12 Dec 2013 22:21:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -54,6 +54,7 @@ huluim.com
 .315lz.com
 ||36rain.com
 ||4bluestones.biz
+||4chan.org
 5i01.com
 taiwannation.50webs.com
 ||51.ca
@@ -2993,6 +2994,7 @@ tinychat.com
 .tistory.com
 ||tkcs-collins.com
 ||tkforum.tk
+cn.tmagazine.com
 |http://tmi.me
 .tnaflix.com
 ||tnaflix.com
