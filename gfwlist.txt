@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yCH0smZleGjNKEhe/AIh4w
+! Checksum: izhCT9rtj3jhbbXHIVSRdA
 ! Expires: 6h
-! Last Modified: Sun, 22 Dec 2013 11:10:06 -0500
+! Last Modified: Wed, 25 Dec 2013 20:06:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -508,7 +508,7 @@ wiki.cnitter.com
 news.cnyes.com
 ||cochina.org
 .code1984.com/64
-|http://codeshare.io
+||codeshare.io
 |http://tosh.comedycentral.com
 comefromchina.com
 ||comefromchina.com
@@ -603,7 +603,7 @@ delicious.com/GFWbookmark
 .diigo.com
 ||diigo.com
 ||furl.net
-|http://directcreative.com/
+||directcreative.com
 .discuss.com.hk
 ||discuss.com.hk
 disp.cc
@@ -2531,6 +2531,7 @@ privatepaste.com
 ||privatepaste.com
 privatetunnel.com
 ||privatetunnel.com
+||procopytips.com
 provideocoalition.com
 ||prosiben.de
 api.proxlet.com
