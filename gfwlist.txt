@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: izhCT9rtj3jhbbXHIVSRdA
+! Checksum: UTxcFJnDvBKMsDubjmhwbA
 ! Expires: 6h
-! Last Modified: Wed, 25 Dec 2013 20:06:10 -0500
+! Last Modified: Wed, 25 Dec 2013 20:09:33 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -77,7 +77,6 @@ taiwannation.50webs.com
 .92ccav.com
 ||9bis.com
 ||9bis.net
-.9city.me/archiver*308578.html
 
 !--------------------AA--------------------
 ||a-normal-day.com
