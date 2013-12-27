@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: r48cf6NKshr6OYdrhzhlLA
+! Checksum: Rzbfq0qyA3y78z13qK5RCw
 ! Expires: 6h
-! Last Modified: Thu, 26 Dec 2013 22:10:57 -0500
+! Last Modified: Fri, 27 Dec 2013 08:19:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2248,6 +2248,7 @@ news100.com.tw
 ||newsminer.com
 newspeak.cc/story
 .newsancai.com
+.newtaiwan.com.tw
 newtalk.tw
 ||newtalk.tw
 newyorktimes.com
