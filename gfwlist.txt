@@ -1,13 +1,14 @@
 [AutoProxy 0.2.9]
-! Checksum: Rzbfq0qyA3y78z13qK5RCw
+! Checksum: umoY+UV9EE9NUMl9OnQ7LA
 ! Expires: 6h
-! Last Modified: Fri, 27 Dec 2013 08:19:35 -0500
+! Last Modified: Sat, 28 Dec 2013 00:45:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
 ||fxnetworks.com
 hulu.com
 huluim.com
+||muzu.tv
 ||netflix.com
 ||pandora.com
 .pandora.tv
