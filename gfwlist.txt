@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mpBtsOKM2WyJBkBsO0szgQ
+! Checksum: wqrLylgsdOAw3WHHUHWOcA
 ! Expires: 6h
-! Last Modified: Mon, 30 Dec 2013 22:11:16 -0500
+! Last Modified: Thu, 02 Jan 2014 01:20:32 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2032,6 +2032,8 @@ listorious.com
 liuxiaotong.com
 ||liuxiaotong.com
 liu.lu
+.liveleak.com
+||liveleak.com
 .livestation.com
 livestream.com
 ||livestream.com
