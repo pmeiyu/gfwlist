@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wqrLylgsdOAw3WHHUHWOcA
+! Checksum: 18fv6SjFRwtnWUsJ/FCQaA
 ! Expires: 6h
-! Last Modified: Thu, 02 Jan 2014 01:20:32 -0500
+! Last Modified: Tue, 07 Jan 2014 02:34:16 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -155,6 +155,7 @@ video.ap.org
 .apigee.com
 ||apigee.com
 appledaily.com
+archive.is
 archive.org
 !--||archive.org
 .arctosia.com
