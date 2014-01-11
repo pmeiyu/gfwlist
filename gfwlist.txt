@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 18fv6SjFRwtnWUsJ/FCQaA
+! Checksum: lVRaQLN11IMFhM9jITYHlg
 ! Expires: 6h
-! Last Modified: Tue, 07 Jan 2014 02:34:16 -0500
+! Last Modified: Sat, 11 Jan 2014 05:25:34 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2780,6 +2780,7 @@ sis001.us
 ||sjum.cn/
 ||skimtube.com
 ||skybet.com
+|http://skyhighpremium.com/
 bbs.skykiwi.com
 |http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
