@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lVRaQLN11IMFhM9jITYHlg
+! Checksum: ZXq2ROnTN9bdtFj2LvS5vA
 ! Expires: 6h
-! Last Modified: Sat, 11 Jan 2014 05:25:34 -0500
+! Last Modified: Sun, 12 Jan 2014 01:41:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2416,12 +2416,7 @@ pbwiki.com
 ||pbxes.org
 .pcdiscuss.com
 pcdvd.com.tw
-blog.pchome.com.tw
-||blog.pchome.com.tw
-forum.pchome.com.tw
-mypaper.pchome.com.tw
-news.pchome.com.tw
-www.pchome.com.tw
+.pchome.com.tw
 ||pct.org.tw
 pdetails.com
 ||pdproxy.com
