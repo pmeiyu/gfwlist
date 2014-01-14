@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: P2XCUW4lJZPb1pxIW7Nidg
+! Checksum: 59+PAD0+liTuO8+b8HxgHA
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 23:48:54 -0500
+! Last Modified: Mon, 13 Jan 2014 23:49:42 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2343,6 +2343,8 @@ showbiz.omy.sg
 the-sun.on.cc
 tv.on.cc
 .onlylady.cn
+onmoon.net
+onmoon.com
 .oopsforum.com
 open.com.hk
 opendemocracy.net
