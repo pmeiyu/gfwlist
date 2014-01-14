@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6V+pJ+75bDdeOCVpxKiaYw
+! Checksum: mWR9t8UVHLmwS/FCovzmeQ
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 21:49:42 -0500
+! Last Modified: Mon, 13 Jan 2014 21:50:57 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1774,7 +1774,7 @@ hrichina.org
 huaglad.com
 .huanghuagang.org
 ||huanghuagang.org
-||huaren.us
+.huaren.us
 huaxia-news.com
 huaxin.ph
 hua-yue.net
