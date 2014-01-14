@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Y7Qg69smerAsIqLRkVG6Bw
+! Checksum: 6V+pJ+75bDdeOCVpxKiaYw
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 21:45:22 -0500
+! Last Modified: Mon, 13 Jan 2014 21:49:42 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2266,7 +2266,7 @@ tw*.nextmedia.com
 nexttv.com.tw
 ||nga.mil
 ngensis.com
-nicovideo.tw
+|http://www.nicovideo.jp/watch/
 !--||nicovideo.jp
 ||nighost.org
 nintendium.com
