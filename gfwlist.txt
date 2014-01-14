@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 59+PAD0+liTuO8+b8HxgHA
+! Checksum: O0tOUbGA7NyxCExi4SD43Q
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 23:49:42 -0500
+! Last Modified: Mon, 13 Jan 2014 23:53:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1855,6 +1855,7 @@ immigration.gov.tw
 ||innermongolia.org
 ||interfaceaddiction.com
 ||internationalrivers.org
+|http://internet.org/
 internetdefenseleague.org
 internetfreedom.org
 ||internetpopculture.com
