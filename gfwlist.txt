@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Oohdy872wLA4XYFhE9TZ3g
+! Checksum: Y7Qg69smerAsIqLRkVG6Bw
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 21:39:34 -0500
+! Last Modified: Mon, 13 Jan 2014 21:45:22 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1785,6 +1785,7 @@ t.huhaitai.com
 ||hutianyi.net
 hutong9.net
 ||hwinfo.com
+||hypeshell.com
 ||hyperrate.com
 
 !--------------------II--------------------
@@ -2724,6 +2725,7 @@ sharpdaily.com.hk
 .sharpdaily.hk
 .shaunthesheep.com
 ||shaunthesheep.com
+||shellmix.com
 shenshou.org
 shenyunperformingarts.org
 shenzhoufilm.com
