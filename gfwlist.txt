@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZXq2ROnTN9bdtFj2LvS5vA
+! Checksum: oDrxDiKaovikGb7xwQYmZA
 ! Expires: 6h
-! Last Modified: Sun, 12 Jan 2014 01:41:10 -0500
+! Last Modified: Mon, 13 Jan 2014 21:22:13 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2727,6 +2727,7 @@ shenyunperformingarts.org
 shenzhoufilm.com
 ||shenzhoufilm.com
 shinychan.com
+.shitaotv.org
 ||shixiao.org
 ||shizhao.org
 .shizhao.org
