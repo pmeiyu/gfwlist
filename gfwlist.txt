@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: m8KFoatfO1qxRcXwJlpd3w
+! Checksum: o1Q2qE+cBYrKYvJo9WC9xA
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:03:31 -0500
+! Last Modified: Mon, 13 Jan 2014 22:05:49 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -247,7 +247,7 @@ billypan.com/wiki/%E9%A6%96%E9%A0%81
 bipic.net
 .bit.ly
 |http://bit.ly
-||bitbucket.org
+!--||bitbucket.org
 .bitshare.com/files
 http://bitshare.com/files
 !-|http://bitsnoop.com
