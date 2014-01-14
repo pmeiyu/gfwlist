@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4FXRknBUvDSl+yY9OwsXVw
+! Checksum: j5Ge3X/wR9wfgdQdPOtdoQ
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:15:55 -0500
+! Last Modified: Mon, 13 Jan 2014 22:19:09 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2129,6 +2129,8 @@ mihua.org
 minghui.org
 ||minghui.org
 minghui-school.org
+.mingjinglishi.com
+||mingjinglishi.com
 mingjingnews.com
 mingpao.com
 .mingpaomonthly.com
