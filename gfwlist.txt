@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KtrWIL+jrlfilEww0/2JDA
+! Checksum: OmtYsE4RrRQk2AG9Mctamw
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:45:32 -0500
+! Last Modified: Mon, 13 Jan 2014 22:49:03 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2545,6 +2545,7 @@ privatetunnel.com
 ||procopytips.com
 provideocoalition.com
 ||prosiben.de
+||proxifier.com
 api.proxlet.com
 ||proxomitron.info
 proxy.org
