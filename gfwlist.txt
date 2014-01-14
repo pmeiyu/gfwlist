@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wLnBguLLOyEq6XlC9s+7QQ
+! Checksum: B8LTSOoobWR4FFs6U4wAKQ
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 23:40:05 -0500
+! Last Modified: Mon, 13 Jan 2014 23:40:58 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2676,6 +2676,7 @@ blog.s135.com/google_ssl
 ||s8forum.com
 sacom.hk
 ||sacom.hk
+||sadpanda.us
 .saiq.me
 ||saiq.me/
 .salvation.org.hk
