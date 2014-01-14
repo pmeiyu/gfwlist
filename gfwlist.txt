@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: j5Ge3X/wR9wfgdQdPOtdoQ
+! Checksum: RokquJ6RHl8U/QegmBIIyQ
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:19:09 -0500
+! Last Modified: Mon, 13 Jan 2014 22:22:04 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2667,6 +2667,7 @@ rutube.ru
 !--------------------SS--------------------
 blog.s135.com/google_ssl
 ||s1heng.com
+||s8forum.com
 sacom.hk
 ||sacom.hk
 .saiq.me
