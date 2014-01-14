@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sLMJKaqdjtGJBfK54EXzDw
+! Checksum: zoyjCUj1AjdHj8ifxUL+Tg
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 23:36:52 -0500
+! Last Modified: Mon, 13 Jan 2014 23:38:08 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -633,7 +633,7 @@ dongtaiwang.com
 ||dontmovetochina.com
 .dotplane.com
 ||dotplane.com
-dotsub.com
+||dotsub.com
 doubleaf.com
 ||dougscripts.com
 dowei.org
@@ -1323,6 +1323,7 @@ google*search*q=cache
 .google.*search*8964
 .google.*boxun
 .google.*chinese+people+eating+babies
+.google.*http*dotsub.com
 .google.*east*turkistan
 .google.*facebook
 .google.*falun
