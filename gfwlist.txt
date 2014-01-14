@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: iqeANzZMl3Fw6SN4Pwbdjw
+! Checksum: tGFgZfozihJhT+hh1HJLWw
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:34:31 -0500
+! Last Modified: Mon, 13 Jan 2014 22:35:32 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3052,6 +3052,7 @@ trendsmap.com
 ||tripod.com
 @@||www.tripod.com
 trtc.com.tw
+trulyergonomic.com
 ||trustedbi.com
 .truth101.co.tv
 |http://truth101.co.tv
