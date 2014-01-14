@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: tGFgZfozihJhT+hh1HJLWw
+! Checksum: AQJ0qI9GBJk8vzJC2Fo7fg
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:35:32 -0500
+! Last Modified: Mon, 13 Jan 2014 22:38:01 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3795,7 +3795,7 @@ zhenghui.org
 zhenlibu.info
 ||zhenlibu.info
 .zhinengluyou.com
-zhonggtuotese.net
+||zhongguotese.net
 ||zhongmeng.org
 ||zhreader.com
 zhuichaguoji.org
