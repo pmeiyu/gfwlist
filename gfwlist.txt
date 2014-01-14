@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ycJZDsxSSxCM8kkM+w2+2Q
+! Checksum: Oohdy872wLA4XYFhE9TZ3g
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 21:38:35 -0500
+! Last Modified: Mon, 13 Jan 2014 21:39:34 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -406,6 +406,7 @@ cdpwu.org
 |http://change.org
 .changp.com
 ||changp.com
+.chaturbate.com
 chengmingmag.com
 .chenguangcheng.com
 ||chenguangcheng.com
