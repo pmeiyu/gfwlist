@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yZiQHZekOL5cbpzJEcBFbg
+! Checksum: 4FXRknBUvDSl+yY9OwsXVw
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:12:13 -0500
+! Last Modified: Mon, 13 Jan 2014 22:15:55 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2264,6 +2264,7 @@ newtalk.tw
 newyorktimes.com
 hk*.nextmedia.com
 tw*.nextmedia.com
+static.apple.nextmedia.com
 ||nexton-net.jp
 nexttv.com.tw
 ||nga.mil
