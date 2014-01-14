@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3eIDUuz8Ssu0KqI1L1b2fA
+! Checksum: abRGOR4DeDhVxZYKxE5CyQ
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 21:30:24 -0500
+! Last Modified: Mon, 13 Jan 2014 21:33:43 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2887,6 +2887,7 @@ summify.com
 .suoluo.org
 api.supertweet.net
 www.supertweet.net
+.surfeasy.com.au
 support/youtube/bin/request.py?contact_type=abuse&
 /support/youtube/bin/static.py?page=start.cs&
 ||svwind.com
