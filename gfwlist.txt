@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OmtYsE4RrRQk2AG9Mctamw
+! Checksum: dmSSGweQMkCsxbHlTz8xpQ
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:49:03 -0500
+! Last Modified: Mon, 13 Jan 2014 23:26:29 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3301,6 +3301,7 @@ twitter.com
 ||twttr.com
 /^https?:\/\/[^\/]+twitter\.com/
 
+||twitter4j.org
 .twittercounter.com
 ||twittercounter.com
 twitterfeed.com
