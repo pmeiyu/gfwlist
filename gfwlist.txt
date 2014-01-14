@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BzZincxljG1dRKTNokuEwQ
+! Checksum: KtrWIL+jrlfilEww0/2JDA
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:41:52 -0500
+! Last Modified: Mon, 13 Jan 2014 22:45:32 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -494,7 +494,7 @@ city9x.com
 civilhrfront.org
 ||civilhrfront.org
 psiphon.civisec.org
-cjb.net/vpn.html
+||cjb.net
 .ck101.com
 ||ck101.com
 ||classicalguitarblog.net
