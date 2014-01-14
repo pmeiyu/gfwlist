@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: B8LTSOoobWR4FFs6U4wAKQ
+! Checksum: P2XCUW4lJZPb1pxIW7Nidg
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 23:40:58 -0500
+! Last Modified: Mon, 13 Jan 2014 23:48:54 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2197,6 +2197,7 @@ multiupload.com
 ||muzi.com
 ||muzi.net
 ||mx981.com
+.my-proxy.com
 forum.my903.com
 myactimes.com
 ||myaudiocast.com
