@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: s5h0CLB7lmYAOx1xbazutw
+! Checksum: BzZincxljG1dRKTNokuEwQ
 ! Expires: 6h
-! Last Modified: Mon, 13 Jan 2014 22:40:59 -0500
+! Last Modified: Mon, 13 Jan 2014 22:41:52 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -633,6 +633,7 @@ dongtaiwang.com
 ||dontmovetochina.com
 .dotplane.com
 ||dotplane.com
+||dotsub.com
 doubleaf.com
 ||dougscripts.com
 dowei.org
