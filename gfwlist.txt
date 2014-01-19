@@ -1,11 +1,11 @@
 [AutoProxy 0.2.9]
-! Checksum: /mkW4gEG2ZLuINJINSRGdw
+! Checksum: rA68AOb4hiGR8j2QdN6R3w
 ! Expires: 6h
-! Last Modified: Wed, 15 Jan 2014 21:51:22 -0500
+! Last Modified: Sat, 18 Jan 2014 21:27:54 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
-||dmm.com
+!--||dmm.com
 ||fxnetworks.com
 hulu.com
 huluim.com
