@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rA68AOb4hiGR8j2QdN6R3w
+! Checksum: KcTkyRMChOEI28bNISztyQ
 ! Expires: 6h
-! Last Modified: Sat, 18 Jan 2014 21:27:54 -0500
+! Last Modified: Wed, 22 Jan 2014 23:17:17 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -795,6 +795,7 @@ felixcat.net
 .fengzhenghu.com
 ||fengzhenghu.com
 fflick.com
+fgmtv.net
 .fgmtv.org
 .filefactory.com/file
 .files2me.com
