@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KcTkyRMChOEI28bNISztyQ
+! Checksum: v9OFn9SwTOqrreZVAhQvJg
 ! Expires: 6h
-! Last Modified: Wed, 22 Jan 2014 23:17:17 -0500
+! Last Modified: Sun, 26 Jan 2014 21:13:31 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1806,6 +1806,7 @@ ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 |http://cn.ibtimes.com
 blogs.icerocket.com/tag
+.icij.org
 ||icl-fi.org
 ||iconpaper.org
 w.idaiwan.com/forum
