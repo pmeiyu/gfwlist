@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: v9OFn9SwTOqrreZVAhQvJg
+! Checksum: Sgk0YJvUfqFh3NN3JCyzZg
 ! Expires: 6h
-! Last Modified: Sun, 26 Jan 2014 21:13:31 -0500
+! Last Modified: Sat, 08 Feb 2014 00:40:00 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -76,6 +76,7 @@ taiwannation.50webs.com
 89-64.org
 ||89-64.org
 .9001700.com
+|http://908taiwan.org/
 .92ccav.com
 ||9bis.com
 ||9bis.net
