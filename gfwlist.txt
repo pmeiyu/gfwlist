@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Y6gai5GbFBF1OJWAeYC8bw
+! Checksum: EMPBc5d/DRhWbxr3XYZ1uw
 ! Expires: 6h
-! Last Modified: Tue, 11 Feb 2014 03:53:55 -0500
+! Last Modified: Thu, 13 Feb 2014 19:30:36 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -814,6 +814,7 @@ finler.net
 ||falsefire.com
 fleshbot.com
 
+||farm6.staticflickr.com
 .flickr.com/photos/46231077@N06
 .flickr.com/groups/aiweiwei
 .flickr.com/photos/digitalboy100
