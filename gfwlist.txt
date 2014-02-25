@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BE68rcP85owXMqe6TNTDSA
+! Checksum: TKrS80iwImsjaO/NETu/rw
 ! Expires: 6h
-! Last Modified: Sat, 22 Feb 2014 05:44:27 -0500
+! Last Modified: Mon, 24 Feb 2014 23:33:17 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2806,6 +2806,8 @@ bbs.skykiwi.com
 |http://www.skype.com/intl/
 share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 |http://www.skype.com/zh-Hant
+.xskywalker.com
+||xskywalker.com
 m.slandr.net
 ||slavasoft.com
 ||slheng.com
