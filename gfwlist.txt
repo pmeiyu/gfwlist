@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TKrS80iwImsjaO/NETu/rw
+! Checksum: inkwGQ7u+oMnbOcAnG6d1A
 ! Expires: 6h
-! Last Modified: Mon, 24 Feb 2014 23:33:17 -0500
+! Last Modified: Fri, 28 Feb 2014 21:51:50 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -981,6 +981,7 @@ gongminliliang.com
 ||googleusercontent.com
 .googlesile.com
 .gopetition.com
+||googlevideo.com
 ||gopetition.com
 ||gotw.ca/
 grandtrial.org
