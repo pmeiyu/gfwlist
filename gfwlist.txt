@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: P+ouCZmx9Fjv9vXROcxy0g
+! Checksum: 2cm4l7mzFmo7TDwaZUOLZw
 ! Expires: 6h
-! Last Modified: Sat, 01 Mar 2014 23:05:01 -0500
+! Last Modified: Sun, 02 Mar 2014 06:06:57 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1749,6 +1749,7 @@ hkday.net
 .hkej.com/template/forum
 .hkepc.com/forum/viewthread.php?tid=1153322
 global.hkepc.com*forum
+hkfront.org
 hkgolden.com
 .hkgreenradio.org/home
 .hkheadline.com*blog
