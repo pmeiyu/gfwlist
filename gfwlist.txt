@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /GX0c8gyEmakbVAIcZ4Jew
+! Checksum: 7mHRvwvEoLVZSRCq68YMhQ
 ! Expires: 6h
-! Last Modified: Sat, 08 Mar 2014 03:07:49 -0500
+! Last Modified: Sun, 04 May 2014 21:42:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -678,6 +678,7 @@ dy24k.info
 !--------------------EE--------------------
 ||e-gold.com
 .e-gold.com
+|http://g.e-hentai.org/
 e-info.org.tw
 .e-traderland.net/board
 !--ea.com.cn
@@ -1660,6 +1661,7 @@ greatfire.org
 greatfirewallofchina.org
 ||greatroc.tw
 ||gstatic.com
+.theguardian.co*
 guishan.org
 ||guishan.org
 ||gunsamerica.com
