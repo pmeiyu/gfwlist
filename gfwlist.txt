@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Wx2dspKNr4zdeNHOJklOpw
+! Checksum: S1pv0EDRkdpS6Re+n0Cmtw
 ! Expires: 6h
-! Last Modified: Fri, 09 May 2014 08:09:54 -0400
+! Last Modified: Fri, 09 May 2014 08:28:30 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3671,6 +3671,7 @@ x.xcity.jp
 .xcritic.com
 destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
+xgmyd.com
 xh4n.cn/blog
 xhamster.com
 one.xthost.info
