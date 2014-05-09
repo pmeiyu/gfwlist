@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ko8X5v2238szx95VEMYIDQ
+! Checksum: R5qHDfAso22b0k1IkmK5iw
 ! Expires: 6h
-! Last Modified: Fri, 09 May 2014 08:35:58 -0400
+! Last Modified: Fri, 09 May 2014 08:40:09 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -771,6 +771,7 @@ fail.hk
 ||fangbinxing.com
 fangeming.com
 ||fanswong.com
+.fanyue.info
 .farwestchina.com
 ||fastly.net
 favorious.com
