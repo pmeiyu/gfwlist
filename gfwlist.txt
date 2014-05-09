@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7mHRvwvEoLVZSRCq68YMhQ
+! Checksum: i04VIAE1HOOG/lUkIZn0Xg
 ! Expires: 6h
-! Last Modified: Sun, 04 May 2014 21:42:56 -0400
+! Last Modified: Fri, 09 May 2014 08:06:12 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1909,16 +1909,6 @@ ithelp.ithome.com.tw
 .izaobao.us
 ||gmozomg.izihost.org
 .izles.net
-
-!--------------------iTunes--------------------
-itunes.apple.*285688934
-itunes.apple.*358801284
-itunes.apple.*375584677
-itunes.apple.*383949089
-itunes.apple.*319295332
-itunes.apple.*418987775
-itunes.apple.com/us*id447119634
-.apple.*isunaffairs
 
 !--------------------JJ--------------------
 ||j.mp
