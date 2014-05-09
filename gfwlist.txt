@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: i04VIAE1HOOG/lUkIZn0Xg
+! Checksum: Wx2dspKNr4zdeNHOJklOpw
 ! Expires: 6h
-! Last Modified: Fri, 09 May 2014 08:06:12 -0400
+! Last Modified: Fri, 09 May 2014 08:09:54 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1771,6 +1771,7 @@ hnjhj.com
 holyspiritspeaks.org
 ||holyspiritspeaks.org
 ||derekhsu.homeip.net
+|http://homeservershow.com
 hongmeimei.com
 ||hongzhi.li
 hootsuite.com
