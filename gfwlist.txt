@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: R5qHDfAso22b0k1IkmK5iw
+! Checksum: HQnZIkNaeBs3H00Qi2wT8w
 ! Expires: 6h
-! Last Modified: Fri, 09 May 2014 08:40:09 -0400
+! Last Modified: Mon, 12 May 2014 00:18:28 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1786,7 +1786,8 @@ hotpot.hk
 .hqcdp.org
 ||hqcdp.org
 .hrcir.com
-hrichina.org
+.hrichina.org
+||hrichina.org
 .hrw.org
 ||hsjp.net
 ||htmldog.com
@@ -2624,7 +2625,6 @@ rcinet.ca
 ||readingtimes.com.tw
 .realraptalk.com
 .recordhistory.org
-blog.redren.com/2009/01/jap-let-you-use-online-stealth
 .redtube.com
 referer.us
 ||referer.us
