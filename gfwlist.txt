@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HQnZIkNaeBs3H00Qi2wT8w
+! Checksum: 83NIy+ei1cs3epfRRA5Vsw
 ! Expires: 6h
-! Last Modified: Mon, 12 May 2014 00:18:28 -0400
+! Last Modified: Thu, 15 May 2014 22:34:45 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2972,6 +2972,7 @@ tcno.net*doc*tor
 ||techparaiso.com
 ||teck.in/
 .telecomspace.com
+||telegraph.co.uk
 .tenacy.com
 ||theampfactory.com
 ||theappleblog.com
