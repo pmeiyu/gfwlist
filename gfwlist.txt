@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ULlX3TdHkSOeMdGsM2NhoA
+! Checksum: 0fxj6HJuPa3s8jvF6UBEHg
 ! Expires: 6h
-! Last Modified: Sun, 18 May 2014 22:24:07 -0400
+! Last Modified: Wed, 21 May 2014 08:21:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -853,6 +853,7 @@ foxtang.com
 ||franklc.com
 .freakshare.com
 |http://freakshare.com
+||free4u.com.ar
 free-gate.org
 .free.fr/adsl
 ||allonlinux.free.fr
