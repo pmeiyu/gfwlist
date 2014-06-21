@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0fxj6HJuPa3s8jvF6UBEHg
+! Checksum: FrhB6Ix/ceWscj43kZR3bw
 ! Expires: 6h
-! Last Modified: Wed, 21 May 2014 08:21:56 -0400
+! Last Modified: Sat, 21 Jun 2014 17:59:01 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -961,6 +961,7 @@ getiton.com
 gfw.org.ua
 .ggssl.com
 ||ggssl.com
+||ghost.org
 ||giga-web.jp
 |http://cn.giganews.com/
 gigporno.ru
@@ -988,6 +989,7 @@ gongminliliang.com
 ||goodreaders.com
 ||goofind.com
 ||googleusercontent.com
+||googledrive.com
 .googlesile.com
 .gopetition.com
 ||googlevideo.com
@@ -2958,6 +2960,7 @@ taiwanus.net
 taiwanyes.com
 taiwan-sex.com
 ||tamiaode.tk
+||tanc.org
 tangben.com
 .taolun.info
 ||taolun.info
@@ -3651,7 +3654,7 @@ wow-life.net
 ||wqyd.org
 wretch.cc
 !-cn.wsj.com/gb/20130215/tec113853.asp
-cn.wsj.com
+.wsj.com
 .wtfpeople.com
 .wuala.com
 wuerkaixi.com
