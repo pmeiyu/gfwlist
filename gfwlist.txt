@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fspFrLzVH6Vl04uP0HyIog
+! Checksum: GvYcPqF6rcCVELdtfs8Iug
 ! Expires: 6h
-! Last Modified: Wed, 25 Jun 2014 22:14:17 +0800
+! Last Modified: Wed, 25 Jun 2014 22:39:52 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3671,7 +3671,7 @@ wzyboy.im/post/160
 
 !--------------------------XX--------------------------
 |http://www.x-berry.com/goagent
-|http://x-art.com
+||x-art.com
 ||x-wall.org
 x1949x.com
 x365x.com
