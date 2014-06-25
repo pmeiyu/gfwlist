@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LlKGLZx14USz7Q9CCwDTHQ
+! Checksum: lNqiUar7eKLN3tRMruvOAw
 ! Expires: 6h
-! Last Modified: Wed, 25 Jun 2014 22:09:31 +0800
+! Last Modified: Wed, 25 Jun 2014 22:10:12 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3010,6 +3010,7 @@ threatchaos.com
 ||throughnightsfire.com
 .thumbzilla.com
 tiananmenmother.org
+||tiananmenuniv.com
 ||tiananmenuniv.net
 ||tiandixing.org
 .tianhuayuan.com
