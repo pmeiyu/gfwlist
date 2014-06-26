@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XEHiNwb9pqzCfbjeinbMYg
+! Checksum: f20j3R6nJbUXZapzUKhCQA
 ! Expires: 6h
-! Last Modified: Thu, 26 Jun 2014 21:29:57 +0800
+! Last Modified: Thu, 26 Jun 2014 21:40:03 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2833,6 +2833,8 @@ home.so-net.net.tw/yisa_tsai
 .sod.co.jp
 .softether.org
 ||softether.org
+.softether-download.com
+||softether-download.com
 ||sogclub.com
 sohcradio.com
 ||sohcradio.com
