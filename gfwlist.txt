@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GvYcPqF6rcCVELdtfs8Iug
+! Checksum: i1QPxfkHkLq3zY59a7kGhw
 ! Expires: 6h
-! Last Modified: Wed, 25 Jun 2014 22:39:52 +0800
+! Last Modified: Thu, 26 Jun 2014 20:41:11 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -647,6 +647,7 @@ dpp.org.tw
 ||weigegebyc.dreamhosters.com
 ||drgan.net
 .dropbox.com
+||dropboxusercontent.com
 .drtuber.com
 ||dtiblog.com
 ||dtic.mil
