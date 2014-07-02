@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: f20j3R6nJbUXZapzUKhCQA
+! Checksum: 8cWibUSlcG4fX0oeQ7mUMw
 ! Expires: 6h
-! Last Modified: Thu, 26 Jun 2014 21:40:03 +0800
+! Last Modified: Wed, 02 Jul 2014 16:36:41 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -675,6 +675,7 @@ dwnews.com
 xys.dxiong.com
 dy24k.info
 ||dynawebinc.com
+.dyndns.org
 .dzze.com
 
 !--------------------EE--------------------
