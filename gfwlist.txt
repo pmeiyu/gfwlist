@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8cWibUSlcG4fX0oeQ7mUMw
+! Checksum: q7WaPOdDDaARAmZWs2YeUw
 ! Expires: 6h
-! Last Modified: Wed, 02 Jul 2014 16:36:41 +0800
+! Last Modified: Thu, 03 Jul 2014 17:49:21 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1881,6 +1881,7 @@ immigration.gov.tw
 |http://internet.org/
 internetdefenseleague.org
 internetfreedom.org
+||interpol.int
 ||internetpopculture.com
 inxian.com
 ||inxian.com
