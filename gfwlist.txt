@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gZ8/h7VQBf2kJxfQtKH4yQ
+! Checksum: Z8QATHBVGS5u5XXk4odLyQ
 ! Expires: 6h
-! Last Modified: Fri, 04 Jul 2014 12:10:13 +0800
+! Last Modified: Fri, 04 Jul 2014 12:11:55 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1970,6 +1970,7 @@ juziyue.com
 .kagyuoffice.org.tw
 ||kagyuoffice.org.tw
 .kaiyuan.de
+||kakao.com
 kanzhongguo.com
 kanzhongguo.eu
 ||karayou.com
