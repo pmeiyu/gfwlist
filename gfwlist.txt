@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +zvf5gQEzArLowLF4M7LqQ
+! Checksum: YZGle62W+KxHah/rd+GDkQ
 ! Expires: 6h
-! Last Modified: Thu, 03 Jul 2014 19:26:51 +0800
+! Last Modified: Fri, 04 Jul 2014 12:09:42 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2246,6 +2246,7 @@ nanyang.com
 .nanyangpost.com
 ||nanyangpost.com
 .nanzao.com
+|http://line.naver.jp/
 ||navicat.com
 .nakido.com
 ||nakido.com
