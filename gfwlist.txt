@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YZGle62W+KxHah/rd+GDkQ
+! Checksum: gZ8/h7VQBf2kJxfQtKH4yQ
 ! Expires: 6h
-! Last Modified: Fri, 04 Jul 2014 12:09:42 +0800
+! Last Modified: Fri, 04 Jul 2014 12:10:13 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2037,6 +2037,7 @@ libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 limiao.net
 abitno.linpie.com/use-ipv6-to-fuck-gfw
+||line.me
 .linglingfa.com
 .linkideo.com
 ||api.linksalpha.com
