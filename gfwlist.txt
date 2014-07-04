@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Z8QATHBVGS5u5XXk4odLyQ
+! Checksum: jE5mp/Iwd6IvMyncpcPTJw
 ! Expires: 6h
-! Last Modified: Fri, 04 Jul 2014 12:11:55 +0800
+! Last Modified: Fri, 04 Jul 2014 12:13:59 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -820,15 +820,17 @@ finler.net
 ||falsefire.com
 fleshbot.com
 
-||farm6.staticflickr.com
-.flickr.com/photos/46231077@N06
-.flickr.com/groups/aiweiwei
-.flickr.com/photos/digitalboy100
-.flickr.com/photos/fzhenghu
-.flickr.com/photos/lonelyfox
-flickr.com/photos/vanvan/529925157
-.flickr.com/photos/winterkanal
-.flickr.com/photos/zola
+!--||farm6.staticflickr.com
+!--.flickr.com/photos/46231077@N06
+!--.flickr.com/groups/aiweiwei
+!--.flickr.com/photos/digitalboy100
+!--.flickr.com/photos/fzhenghu
+!--.flickr.com/photos/lonelyfox
+!--flickr.com/photos/vanvan/529925157
+!--.flickr.com/photos/winterkanal
+!--.flickr.com/photos/zola
+||flickr.com
+||staticflickr.com
 
 flickrhivemind.net
 yuming.flnet.org
