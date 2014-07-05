@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: TeyS7Bgc12IFhry2eq5d5w
+! Checksum: EfiI4qlHSn5ThgqIp0KJOg
 ! Expires: 6h
-! Last Modified: Fri, 04 Jul 2014 20:31:26 +0800
+! Last Modified: Sat, 05 Jul 2014 14:29:36 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2136,6 +2136,7 @@ megavideo.com
 meirixiaochao.com
 ||melon-peach.com
 memedia.cn
+.memrijttm.org
 merit-times.com.tw
 .mesotw.com/bbs
 .metacafe.com
