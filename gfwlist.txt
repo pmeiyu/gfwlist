@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EfiI4qlHSn5ThgqIp0KJOg
+! Checksum: onxuePxdtVPWWfiCeYr4Kg
 ! Expires: 6h
-! Last Modified: Sat, 05 Jul 2014 14:29:36 +0800
+! Last Modified: Sat, 05 Jul 2014 17:24:10 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -107,6 +107,7 @@ aiph.net
 ||ajaxplorer.info
 ||www.ajsands.com
 ||akiba-online.com
+||al-qimmah.net
 ||alabout.com
 ||alasbarricadas.org
 ||notes.alexdong.com
