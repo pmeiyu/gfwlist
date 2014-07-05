@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +IPAMMsiKB0smDjzbI52rA
+! Checksum: TyQPsI4wV7JMwNLK3275Qg
 ! Expires: 6h
-! Last Modified: Sat, 05 Jul 2014 17:25:08 +0800
+! Last Modified: Sat, 05 Jul 2014 17:26:17 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2766,6 +2766,7 @@ sharpdaily.com.hk
 .sharpdaily.hk
 .shaunthesheep.com
 ||shaunthesheep.com
+sheikyermami.com
 ||shellmix.com
 shenshou.org
 shenyunperformingarts.org
