@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Oxoyl3PfX5ssnzSzfZDzGg
+! Checksum: zbImGn+vjNcuBYQQRogcIg
 ! Expires: 6h
-! Last Modified: Mon, 07 Jul 2014 23:07:03 +0800
+! Last Modified: Fri, 11 Jul 2014 19:28:44 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1769,7 +1769,7 @@ hkgolden.com
 .hkgreenradio.org/home
 .hkheadline.com*blog
 .hkheadline.com/instantnews
-.hkhkhk.com
+hkhkhk.com
 hkjc.com
 .hkjp.org
 hkptu.org
