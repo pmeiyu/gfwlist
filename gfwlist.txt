@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zbImGn+vjNcuBYQQRogcIg
+! Checksum: H/cemVN/3j1nv5AlbROcGw
 ! Expires: 6h
-! Last Modified: Fri, 11 Jul 2014 19:28:44 +0800
+! Last Modified: Mon, 21 Jul 2014 10:37:21 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1854,6 +1854,7 @@ ifjc.org
 ||antidrm.hpg.ig.com.br
 ||igfw.net
 ||ignitedetroit.net
+||igvita.com
 ||ihakka.net
 ||iicns.com
 ||illusionfactory.com
