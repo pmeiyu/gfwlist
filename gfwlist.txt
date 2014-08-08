@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VdUFW//3dJZhljhA0SQ4Ag
+! Checksum: ETC7cTdQnjiHMaLvAKAQaA
 ! Expires: 6h
-! Last Modified: Thu, 07 Aug 2014 11:05:42 +0800
+! Last Modified: Fri, 08 Aug 2014 09:28:39 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -981,6 +981,7 @@ globalmuseumoncommunism.org
 gmbd.cn
 ||gmhz.org
 ||goagent.biz
+||goagentplus.com
 godfootsteps.org
 ||godfootsteps.org
 |http://www.goldenmelody.com.tw
