@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ETC7cTdQnjiHMaLvAKAQaA
+! Checksum: /TmL57CMk5LaZN7LtXtcPA
 ! Expires: 6h
-! Last Modified: Fri, 08 Aug 2014 09:28:39 +0800
+! Last Modified: Sun, 10 Aug 2014 10:44:49 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2753,6 +2753,7 @@ sexinsex.net
 !--IP of SexInSex
 67.220.91.18
 67.220.91.23
+|http://*.sf.net
 .sfileydy.com
 shadow.ma
 ||shadowsocks.org
