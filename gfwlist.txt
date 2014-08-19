@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JUSP0A4KuNKCsMQ9kZI4/g
+! Checksum: F/rCuc+TjZjeIKdFWLxa5w
 ! Expires: 6h
-! Last Modified: Tue, 19 Aug 2014 15:24:26 +0800
+! Last Modified: Tue, 19 Aug 2014 15:27:45 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2387,6 +2387,7 @@ openid.net
 openvpn.net
 ||openvpn.net
 ||openwebster.com
+|http://help.opera.com
 my.opera.com/dahema
 ||demo.opera-mini.net
 opnir.com/215/myentunnel-ssh-autoproxy-cross-gfw
