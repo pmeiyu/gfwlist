@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0kdommu9dFBoTGMM4dFqnQ
+! Checksum: JUSP0A4KuNKCsMQ9kZI4/g
 ! Expires: 6h
-! Last Modified: Wed, 13 Aug 2014 11:03:32 +0800
+! Last Modified: Tue, 19 Aug 2014 15:24:26 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -948,6 +948,7 @@ gdzf.org
 ||geek-art.net
 geekerhome.com/2010/03/xixiang-project-cross-gfw
 ||geekmanuals.com
+||genuitec.com
 .geocities.co.jp
 .geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
