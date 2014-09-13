@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +K5/NPHFJyeCNCv2YTOVBw
+! Checksum: BxqXCdeT363X7EX2EEmwNQ
 ! Expires: 6h
-! Last Modified: Sat, 13 Sep 2014 09:36:25 +0800
+! Last Modified: Sat, 13 Sep 2014 17:12:37 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4786,7 +4786,6 @@ gov.tw
 @@||aliyun.com
 @@||baidu.com
 !--@@||bing.com
-@@||duckduckgo.com
 @@||jike.com
 @@||panguso.com
 @@||qq.com
