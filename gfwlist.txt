@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OHkRZxSWmyViadsYX9ALYg
+! Checksum: qenHFSoV6w5mslZb3Chkng
 ! Expires: 6h
-! Last Modified: Wed, 10 Sep 2014 12:15:17 +0800
+! Last Modified: Sat, 13 Sep 2014 09:35:01 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -653,6 +653,7 @@ dpp.org.tw
 ||dtiblog.com
 ||dtic.mil
 dtiserv2.com
+||duckduckgo.com
 .duckload.com/download
 ||duckmylife.com
 .duihua.org
