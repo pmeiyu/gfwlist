@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BxqXCdeT363X7EX2EEmwNQ
+! Checksum: sgg0Twt/X7V0FjkLb0Omlg
 ! Expires: 6h
-! Last Modified: Sat, 13 Sep 2014 17:12:37 +0800
+! Last Modified: Thu, 18 Sep 2014 13:25:38 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2535,6 +2535,7 @@ postadult.com
 ||powercx.com
 ||www.powerpointninja.com
 ||pts.org.tw
+pubu.com.tw
 puffinbrowser.com
 
 !-------------Posterous-----
