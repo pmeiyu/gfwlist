@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jYfN9vPtvuRLVwzn9fBUYQ
+! Checksum: Q3fFDgP0iG9WyTiYt4N4tw
 ! Expires: 6h
-! Last Modified: Sat, 20 Sep 2014 13:29:33 +0800
+! Last Modified: Sat, 20 Sep 2014 13:30:42 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -233,7 +233,7 @@ beijingspring.com
 .bestforchina.org
 ||bestforchina.org
 .bestvpnservice.com
-.bet365.com
+||bet365.com
 .betfair.com
 .bettween.com
 ||bettween.com
