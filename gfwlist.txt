@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: C6JdQiwavlP1mm+aJluGaQ
+! Checksum: jYfN9vPtvuRLVwzn9fBUYQ
 ! Expires: 6h
-! Last Modified: Sat, 20 Sep 2014 13:28:07 +0800
+! Last Modified: Sat, 20 Sep 2014 13:29:33 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -785,6 +785,7 @@ en.favotter.net
 favstar.fm
 ||favstar.fm
 faydao.com/weblog
+||fb.com
 fb.me
 ||fb.me
 fc2.com
