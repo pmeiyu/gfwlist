@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dGVgmw4K7aqNl7vEyTpuBA
+! Checksum: y96XPuX6ksYRq7FPyJWCTw
 ! Expires: 6h
-! Last Modified: Fri, 10 Oct 2014 16:09:48 +0800
+! Last Modified: Fri, 10 Oct 2014 16:11:30 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -788,6 +788,7 @@ faydao.com/weblog
 ||fb.com
 fb.me
 ||fb.me
+||fbsbx.com
 fc2.com
 .fc2china.com
 shifeike.blog125.fc2blog.net
