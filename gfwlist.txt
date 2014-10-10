@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3PtgTEBqlc1a9zwLyJeuzA
+! Checksum: 9p6k2DR4YlEfuD6i1fWCRg
 ! Expires: 6h
-! Last Modified: Wed, 24 Sep 2014 14:15:18 +0800
+! Last Modified: Fri, 10 Oct 2014 16:09:21 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2917,6 +2917,7 @@ www.stackfile.com/freedur
 usinfo.state.gov
 .starp2p.com
 ||starp2p.com
+||startpage.com
 .state168.com
 ||steel-storm.com
 sthoo.com
