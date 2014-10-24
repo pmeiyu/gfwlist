@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BtlonR3yQXb53Ls6t/Rm8g
+! Checksum: s1sG+0etsVXzidw4DwHDyQ
 ! Expires: 6h
-! Last Modified: Fri, 24 Oct 2014 08:20:35 +0800
+! Last Modified: Fri, 24 Oct 2014 12:35:28 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2922,8 +2922,8 @@ usinfo.state.gov
 ||starp2p.com
 ||startpage.com
 .state168.com
-.steampowered.com
-||steampowered.com
+!--.steampowered.com
+!--||steampowered.com
 ||steel-storm.com
 sthoo.com
 ||sthoo.com
