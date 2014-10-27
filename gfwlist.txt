@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2RSQ2qkSc08Peroq4MVZcw
+! Checksum: JCaa7TSxNFTrOccxFOO1DA
 ! Expires: 6h
-! Last Modified: Mon, 27 Oct 2014 09:31:56 +0800
+! Last Modified: Mon, 27 Oct 2014 12:29:57 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3348,7 +3348,6 @@ twitreferral.com
 |http://t.co
 |https://t.co
 |http://twt.tl
-||twimg.com
 twittbot.net
 twitter.com
 ||twitter.com
