@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xC6Tq03pHwM+5b6Dv62Drw
+! Checksum: 2RSQ2qkSc08Peroq4MVZcw
 ! Expires: 6h
-! Last Modified: Sun, 26 Oct 2014 22:50:55 +0800
+! Last Modified: Mon, 27 Oct 2014 09:31:56 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2353,6 +2353,7 @@ nuzcom.com
 ||nytco.com
 .nytimes.com
 ||nytimes.com
+||nytimg.com
 nysingtao.com
 ||nzchinese.net.nz
 
