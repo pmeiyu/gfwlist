@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jjvRFLUInnqHP25j/mALyg
+! Checksum: YTPrIX486KbkIoe+IY03pg
 ! Expires: 6h
-! Last Modified: Sat, 15 Nov 2014 20:25:52 +0800
+! Last Modified: Tue, 25 Nov 2014 14:11:14 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3506,7 +3506,7 @@ voachinese.com
 ||voachinese.com
 voatibetan.com
 ||voatibetan.com
-voanews.com/chinese
+.voanews.com
 vocn.tv
 .vot.org
 ||vot.org
