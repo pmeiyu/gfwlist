@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kGXqLHIKT2XUkmU7+t5vkw
+! Checksum: QiVAy6PW1zZTFz4aFOEacQ
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 09:56:00 -0500
+! Last Modified: Wed, 24 Dec 2014 09:58:09 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3716,6 +3716,7 @@ wow-life.net
 .wqlhw.com
 .wqyd.org
 ||wqyd.org
+wrchina.org
 wretch.cc
 !-cn.wsj.com/gb/20130215/tec113853.asp
 .wsj.com
