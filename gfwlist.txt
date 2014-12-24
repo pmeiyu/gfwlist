@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Aq0SliElzeIWcyk6yelJ6w
+! Checksum: oxxXNg/tPIFlDU4giQagjQ
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 08:25:24 -0500
+! Last Modified: Wed, 24 Dec 2014 08:26:58 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3088,7 +3088,8 @@ tinychat.com
 .tistory.com
 ||tkcs-collins.com
 ||tkforum.tk
-cn.tmagazine.com
+.tmagazine.com
+||tmagazine.com
 |http://tmi.me
 .tnaflix.com
 ||tnaflix.com
