@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1RcTCQTsUadGGP0FXVu1kA
+! Checksum: NLXDvf564Y8wvt+Jbot3PQ
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 08:36:46 -0500
+! Last Modified: Wed, 24 Dec 2014 08:39:32 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -699,6 +699,7 @@ edoors.com
 ||edubridge.com
 ||eevpn.com
 efcc.org.hk
+||efmoe.com
 ||eic-av.com
 electionsmeter.com
 .eltondisney.com
