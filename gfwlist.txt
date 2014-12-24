@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q7JpfsqSzSI+bjDn0BDPCg
+! Checksum: +3d7RoDGC7x+M4h8alUIfw
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 10:15:20 -0500
+! Last Modified: Wed, 24 Dec 2014 10:18:07 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -279,7 +279,7 @@ blogimg.jp
 ||blog.kangye.org
 .bloglines.com
 ||bloglines.com
-.bloglovin.com
+||bloglovin.com
 rconversation.blogs.com
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 blogtd.net
