@@ -140,6 +140,7 @@ amzs.me
 analyze-v.com
 ||anchorfree.com
 ||andfaraway.net
+||android.com
 animecrazy.net
 ||anobii.com
 .anonymizer.com
@@ -278,7 +279,8 @@ blogimg.jp
 .bloglovin.com
 rconversation.blogs.com
 blogspot.co.uk
-blogspot.com
+.blogspot.com
+||blogspot.com
 blogspot.de
 blogspot.fr
 ||blogspot.hk
@@ -437,6 +439,7 @@ chinachannel.hk
 .chinaeweekly.com
 ||chinaeweekly.com
 ||chinafreepress.org
+.chinagate.com
 chinageeks.org
 chinagfw.org
 ||chinagfw.org
@@ -483,6 +486,7 @@ christianstudy.com
 ||christianstudy.com
 christusrex.org/www1/sdc
 ||chrlcg-hk.org
+||chrome.com
 ||chromeadblock.com
 chubun.com
 chuizi.net
@@ -1002,11 +1006,8 @@ gongminliliang.com
 .goodreaders.com
 ||goodreaders.com
 ||goofind.com
-||googleusercontent.com
-||googledrive.com
 .googlesile.com
 .gopetition.com
-||googlevideo.com
 ||gopetition.com
 ||gotw.ca/
 grandtrial.org
@@ -1033,7 +1034,28 @@ guancha.org
 ||gzone-anime.info
 
 !----------------Google----------------
-||apis.google.com
+||g.co
+||ggpht.com
+||gmail.com
+||goo.gl
+||google.cn
+||google.com
+||google.com.hk
+||google-analytics.com
+||googleadservices.com
+||googleapis.com
+||googleearth.com
+||googlecode.com
+||googledrive.com
+||googlelabs.com
+||googlemail.com
+||googleplus.com
+||googlesource.com
+||googlesyndication.com
+||googleusercontent.com
+||googlevideo.com
+
+!--||apis.google.com
 
 !------------Google App Engine/Appspot-------
 .appspot.com
@@ -1041,35 +1063,35 @@ guancha.org
 /^https?:\/\/[^\/]+appspot\.com/
 
 !--------------------Google Code--------------------
-code.google.com/p/gappproxy
-code.google.com/p/gaeproxy
-code.google.com/p/west-chamber-season-3
-code.google.com/p/icefox
-code.google.com/p/breakwall
-code.google.com/p/program-think/wiki/Software
-code.google.com/p/scholarzhang
-code.google.com/p/vforchrome/wiki/Start
-code.google.com/p/tuite
-code.google.com/p/twitese
-code.google.com/p/twip
-code.google.com/p/huhamhire-hosts
-|http://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
-|https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
-gfwinterceptor.googlecode.com
-goagent.googlecode.com
-gtap.googlecode.com
-sshtunnel.googlecode.com
-tuite.googlecode.com
-gaeproxy.googlecode.com
+!--code.google.com/p/gappproxy
+!--code.google.com/p/gaeproxy
+!--code.google.com/p/west-chamber-season-3
+!--code.google.com/p/icefox
+!--code.google.com/p/breakwall
+!--code.google.com/p/program-think/wiki/Software
+!--code.google.com/p/scholarzhang
+!--code.google.com/p/vforchrome/wiki/Start
+!--code.google.com/p/tuite
+!--code.google.com/p/twitese
+!--code.google.com/p/twip
+!--code.google.com/p/huhamhire-hosts
+!--|http://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
+!--|https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
+!--gfwinterceptor.googlecode.com
+!--goagent.googlecode.com
+!--gtap.googlecode.com
+!--sshtunnel.googlecode.com
+!--tuite.googlecode.com
+!--gaeproxy.googlecode.com
 
 !-------------Google Docs-----
-docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
-docs.google.com/View?id=d8xbpp6_4hhpb2dfd
-docs.google.com/View?id=dds68dz_9cqgm8vgq
-docs.google.com*View*id*dg5mtmj9_8g3hk27f5
-docs.google.com*View*id*dg5mtmj9_3188x48zcn
-docs.google.com*dgtbmwd6_934gg99v6g4cc
-docs.google.com/View?id=dhh5gtxb_145nsxgctcc
+!--docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
+!--docs.google.com/View?id=d8xbpp6_4hhpb2dfd
+!--docs.google.com/View?id=dds68dz_9cqgm8vgq
+!--docs.google.com*View*id*dg5mtmj9_8g3hk27f5
+!--docs.google.com*View*id*dg5mtmj9_3188x48zcn
+!--docs.google.com*dgtbmwd6_934gg99v6g4cc
+!--docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
 !-||1024cores.net
@@ -1157,7 +1179,7 @@ echofon.com
 !-||gmer.net
 !-||www.gmote.org
 !-||blog.go2web20.net
-!-||blog.google.org
+!--||blog.google.org
 !-||google-melange.com
 ||golang.org
 !-||fame.gonzolabs.org
@@ -1340,337 +1362,337 @@ wozy.in
 !-Z
 
 !-------------Google Minganci-----
-@@||ipv6.google.com
+!--@@||ipv6.google.com
 
-.google.*%D8%BA%D8%A7
-.google.*/complete/search
-/search?q=cache
-/search%3Fq%3Dcache
-%2Fsearch%3Fq%3Dcache
-google*search*q=cache
-!-.google.*301
-.google.*search*8964
-.google.*boxun
-.google.*chinese+people+eating+babies
-.google.*http*dotsub.com
-.google.*east*turkistan
-.google.*facebook
-.google.*falun
-.google.*freechina
-.google.*freetibet
-.google.*gfw
-.google.*goagent
-.google.*&q=gpass
-.google.*great*firewall
-.google.*hujin
-.google.*huayuan
-.google.*jiaqinglin
-.google.*jiangzemin
-.google.*&q=jzm&
-.google.*nytimes
-.google.*peacehall
-.googlw.*president.gov.tw
-.google.*protest*1989
-.google.*prisoner+of+the+state
-.google.*search*Tankman
-.google.*tbm=mbl
-.google.*tbm%3Dmbl
-.google.*search*tbs=mbl
-.google.*search*tbs%3Dmbl
-.google.*tbs=qdr
-.google.*tbs%3Dqdr
-.google.*tbs=rltm
-.google.*tbs%3Drltm
-.google.*Tiananmen
-.google.*tianwang
-.google.*Tibetan*independence
-.google.*twitter
-.google.*xijinping
-.google.*&q=ytht&
-.google.*zhouyongkang
+!--.google.*%D8%BA%D8%A7
+!--.google.*/complete/search
+!--/search?q=cache
+!--/search%3Fq%3Dcache
+!--%2Fsearch%3Fq%3Dcache
+!--google*search*q=cache
+!--.google.*301
+!--.google.*search*8964
+!--.google.*boxun
+!--.google.*chinese+people+eating+babies
+!--.google.*http*dotsub.com
+!--.google.*east*turkistan
+!--.google.*facebook
+!--.google.*falun
+!--.google.*freechina
+!--.google.*freetibet
+!--.google.*gfw
+!--.google.*goagent
+!--.google.*&q=gpass
+!--.google.*great*firewall
+!--.google.*hujin
+!--.google.*huayuan
+!--.google.*jiaqinglin
+!--.google.*jiangzemin
+!--.google.*&q=jzm&
+!--.google.*nytimes
+!--.google.*peacehall
+!--.google.*president.gov.tw
+!--.google.*protest*1989
+!--.google.*prisoner+of+the+state
+!--.google.*search*Tankman
+!--.google.*tbm=mbl
+!--.google.*tbm%3Dmbl
+!--.google.*search*tbs=mbl
+!--.google.*search*tbs%3Dmbl
+!--.google.*tbs=qdr
+!--.google.*tbs%3Dqdr
+!--.google.*tbs=rltm
+!--.google.*tbs%3Drltm
+!--.google.*Tiananmen
+!--.google.*tianwang
+!--.google.*Tibetan*independence
+!--.google.*twitter
+!--.google.*xijinping
+!--.google.*&q=ytht&
+!--.google.*zhouyongkang
 
 
 !--08 * Xian Zhang
-.google.*08*%E5%AE%AA%E7%AB%A0
+!--.google.*08*%E5%AE%AA%E7%AB%A0
 !--64 * Zhen Xiang
-.google.*64*%E7%9C%9F%E7%9B%B8
+!--.google.*64*%E7%9C%9F%E7%9B%B8
 !--64 * Zhen Ya
-.google.*64*%E9%95%87%E5%8E%8B
+!--.google.*64*%E9%95%87%E5%8E%8B
 !--Ba Jiu
-.google.*%E5%85%AB%E4%B9%9D
+!--.google.*%E5%85%AB%E4%B9%9D
 !--Bei Guo Zhi Chun
-.google.*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
+!--.google.*%E5%8C%97%E5%9B%BD%E4%B9%8B%E6%98%A5
 !--Bei Jing Zhi Chun
-.google.*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 
+!--.google.*%E5%8C%97%E4%BA%AC%E4%B9%8B%E6%98%A5 
 !--Chen Po Kong
-.google.*%E9%99%88%E7%A0%B4%E7%A9%BA
+!--.google.*%E9%99%88%E7%A0%B4%E7%A9%BA
 !--Chi Fei
-.google.*%E8%B5%A4%E5%8C%AA
+!--.google.*%E8%B5%A4%E5%8C%AA
 !--Da Lai La Ma
-.google.*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
+!--.google.*%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B
 !--Dai Kai + Fa Piao(reversed)
-.google.*%E4%BB%A3%E5%BC%80*%E5%8F%91%E7%A5%A8
-.google.*%E5%8F%91%E7%A5%A8*%E4%BB%A3%E5%BC%80
+!--.google.*%E4%BB%A3%E5%BC%80*%E5%8F%91%E7%A5%A8
+!--.google.*%E5%8F%91%E7%A5%A8*%E4%BB%A3%E5%BC%80
 !--Dai Li/Proxy
-.google.*%E4%BB%A3%E7%90%86
+!--.google.*%E4%BB%A3%E7%90%86
 !--Di Xia Jiao Hui
-.google.*%E5%9C%B0%E4%B8%8B%E6%95%99%E4%BC%9A
+!--.google.*%E5%9C%B0%E4%B8%8B%E6%95%99%E4%BC%9A
 !--Du Li Tai Wan Hui
-.google.*%E7%8B%AC%E7%AB%8B%E5%8F%B0%E6%B9%BE%E4%BC%9A
+!--.google.*%E7%8B%AC%E7%AB%8B%E5%8F%B0%E6%B9%BE%E4%BC%9A
 !--Du Li Zhong Wen Bi Hui
-.google.*%E7%8B%AC%E7%AB%8B%E4%B8%AD%E6%96%87%E7%AC%94%E4%BC%9A
+!--.google.*%E7%8B%AC%E7%AB%8B%E4%B8%AD%E6%96%87%E7%AC%94%E4%BC%9A
 !--Fa Ke
-.google.*%E5%8F%91%E8%AF%BE
+!--.google.*%E5%8F%91%E8%AF%BE
 !--Fa La Li
-.google.*%E6%B3%95%E6%8B%89%E5%88%A9
+!--.google.*%E6%B3%95%E6%8B%89%E5%88%A9
 !--Fan Qiang
-.google.*%E7%BF%BB%E5%A2%99
+!--.google.*%E7%BF%BB%E5%A2%99
 !--Fang Bin Xing(SB)
-.google.*%E6%96%B9%E6%BB%A8%E5%85%B4
+!--.google.*%E6%96%B9%E6%BB%A8%E5%85%B4
 !--Fang Huo Chang Cheng
-.google.*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
+!--.google.*%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E
 !--Feng Zheng Hu
-.google.*%E5%86%AF%E6%AD%A3%E8%99%8E
+!--.google.*%E5%86%AF%E6%AD%A3%E8%99%8E
 !--Gao Zhi Sheng
-.google.*%E9%AB%98%E6%99%BA%E6%99%9F
+!--.google.*%E9%AB%98%E6%99%BA%E6%99%9F
 !--Ge Ming
-.google.*%E9%9D%A9%E5%91%BD
+!--.google.*%E9%9D%A9%E5%91%BD
 !--Gong Chan
-.google.*%E5%85%B1%E4%BA%A7
+!--.google.*%E5%85%B1%E4%BA%A7
 !--Guan Jian Shi Ke
-.google.*%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB
+!--.google.*%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB
 !--Guang Chang
-.google.*%E5%B9%BF%E5%9C%BA
+!--.google.*%E5%B9%BF%E5%9C%BA
 !--Guo Jia Fang Huo Qiang Zhi Fu
-.google.*%E5%9B%BD%E5%AE%B6%E9%98%B2%E7%81%AB%E5%A2%99
+!--.google.*%E5%9B%BD%E5%AE%B6%E9%98%B2%E7%81%AB%E5%A2%99
 !--Ha Ma
-.google.*%E8%9B%A4%E8%9F%86
+!--.google.*%E8%9B%A4%E8%9F%86
 !--Ji Hui
-.google.*%E9%9B%86%E4%BC%9A
+!--.google.*%E9%9B%86%E4%BC%9A
 !--Ji Zhe Wu Jiang Jie
-.google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
+!--.google.*%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C
 !--Jia Bao
-.google.*%E5%AE%B6%E5%AE%9D
+!--.google.*%E5%AE%B6%E5%AE%9D
 !--Jia Qing Lin
-.google.*%E5%81%87%E5%BA%86%E6%B7%8B
+!--.google.*%E5%81%87%E5%BA%86%E6%B7%8B
 !--Jie Yan
-.google.*%E6%88%92%E4%B8%A5
+!--.google.*%E6%88%92%E4%B8%A5
 !--Jin Tao
-.google.*%E9%94%A6%E6%B6%9B
+!--.google.*%E9%94%A6%E6%B6%9B
 !--Jing Wen
-.google.*%E7%BB%8F%E6%96%87
+!--.google.*%E7%BB%8F%E6%96%87
 !--Jin Ping
-.google.*%E8%BF%91%E5%B9%B3
+!--.google.*%E8%BF%91%E5%B9%B3
 !--Jiu Chang Wei
-.google.*%E4%B9%9D%E5%B8%B8%E5%A7%94
+!--.google.*%E4%B9%9D%E5%B8%B8%E5%A7%94
 !--Ku Xing
-.google.*%E9%85%B7%E5%88%91
+!--.google.*%E9%85%B7%E5%88%91
 !--Ling
-.google.*%E4%BB%A4
+!--.google.*%E4%BB%A4
 !--Ling Ba Xian Zhang
-.google.*%E9%9B%B6%E5%85%AB*%E5%AE%AA%E7%AB%A0
+!--.google.*%E9%9B%B6%E5%85%AB*%E5%AE%AA%E7%AB%A0
 !--Liu Qi
-.google.*search*%E5%88%98%E6%B7%87
+!--.google.*search*%E5%88%98%E6%B7%87
 !--Liu * Si
-.google.*%E5%85%AD*%E5%9B%9B
+!--.google.*%E5%85%AD*%E5%9B%9B
 !--Lu Xi
-.google.*%E9%B2%81%E6%98%95
+!--.google.*%E9%B2%81%E6%98%95
 !--Ma Kai
-.google.*%E9%A9%AC%E5%87%AF
+!--.google.*%E9%A9%AC%E5%87%AF
 !--Ma Li
-.google.*%E9%A9%AC%E5%8A%9B
+!--.google.*%E9%A9%AC%E5%8A%9B
 !--Mai Dang Lao | McDonald
-.google.*%E9%BA%A6%E5%BD%93%E5%8A%B3
+!--.google.*%E9%BA%A6%E5%BD%93%E5%8A%B3
 !--Mao Xiang Hui
-.google.*%E6%AF%9B%E5%90%91%E8%BE%89
+!--.google.*%E6%AF%9B%E5%90%91%E8%BE%89
 !--Meng Gu+Shi Wei
-.google.*%E5%86%85%E8%92%99*%E7%A4%BA%E5%A8%81
+!--.google.*%E5%86%85%E8%92%99*%E7%A4%BA%E5%A8%81
 !--Meng Jian Zhu
-.google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
+!--.google.*%E5%AD%9F%E5%BB%BA%E6%9F%B1
 !--Meng Ying Wei Ming Hu
-.google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
+!--.google.*%E6%A2%A6%E8%90%A6%E6%9C%AA%E5%90%8D%E6%B9%96
 !--Mian Fei * VPN
-.google.*%E5%85%8D%E8%B4%B9*vpn
+!--.google.*%E5%85%8D%E8%B4%B9*vpn
 !--Mo Li
-.google.*%E8%8C%89%E8%8E%89
+!--.google.*%E8%8C%89%E8%8E%89
 !--Mo Ri Gen
-.google.*%E8%8E%AB%E6%97%A5%E6%A0%B9
+!--.google.*%E8%8E%AB%E6%97%A5%E6%A0%B9
 !--Na Mi Bi Ya
-.google.*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
+!--.google.*%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A
 !--Nuo Bei Er He Ping Jiang / Nobel Peace Prize
-.google.*%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96
+!--.google.*%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96
 !--Namibia + Nuctech
-.google.com*search*namibia*nuctech
+!--.google.com*search*namibia*nuctech
 !--Pan Gu Yue Dui
-.google.*%E7%9B%98%E5%8F%A4%E4%B9%90%E9%98%9F
+!--.google.*%E7%9B%98%E5%8F%A4%E4%B9%90%E9%98%9F
 !--Peng Li Yuan
-.google.*%E5%BD%AD%E4%B8%BD%E5%AA%9B
+!--.google.*%E5%BD%AD%E4%B8%BD%E5%AA%9B
 !--Po Hai
-.google.*%E8%BF%AB%E5%AE%B3
+!--.google.*%E8%BF%AB%E5%AE%B3
 !--Qian Shi Jin Sheng
-.google.*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
+!--.google.*%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F
 !--Qiang Sheng
-.google.*%E6%9E%AA%E5%A3%B0
+!--.google.*%E6%9E%AA%E5%A3%B0
 !--Qing Tian Bai Ri Qi
-.google.*%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97
+!--.google.*%E9%9D%92%E5%A4%A9%E7%99%BD%E6%97%A5%E6%97%97
 !--Ren Min Gong Yuan
-.google.*%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD
+!--.google.*%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD
 !--Ri Ji
-.google.*%E6%97%A5%E8%AE%B0
+!--.google.*%E6%97%A5%E8%AE%B0
 !--San Tui
-.google.*%E4%B8%89%E9%80%80
+!--.google.*%E4%B8%89%E9%80%80
 !--Shi Wei Hui
-.google.*%E4%B8%96%E7%BB%B4%E4%BC%9A
+!--.google.*%E4%B8%96%E7%BB%B4%E4%BC%9A
 !--Si Tu Hua
-.google.*%E5%8F%B8%E5%BE%92%E5%8D%8E
+!--.google.*%E5%8F%B8%E5%BE%92%E5%8D%8E
 !--Tai Zi
-.google.*%E5%A4%AA%E5%AD%90
+!--.google.*%E5%A4%AA%E5%AD%90
 !--Tan Zuo Ren
-.google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
+!--.google.*search*%E8%B0%AD%E4%BD%9C%E4%BA%BA
 !--Tian An Men
-.google.*%E5%A4%A9%E5%AE%89%E9%97%A8
+!--.google.*%E5%A4%A9%E5%AE%89%E9%97%A8
 !--Tian Mie
-.google.*%E5%A4%A9%E7%81%AD
+!--.google.*%E5%A4%A9%E7%81%AD
 !--Tian Xian Bao Bao + Kang Shi Fu + *(reversed)
-.google.*%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D*%E5%BA%B7%E5%B8%88%E5%82%85
-.google.*%E5%BA%B7%E5%B8%88%E5%82%85*%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D
+!--.google.*%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D*%E5%BA%B7%E5%B8%88%E5%82%85
+!--.google.*%E5%BA%B7%E5%B8%88%E5%82%85*%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D
 !--Tu Ni Si
-.google.*%E7%AA%81%E5%B0%BC%E6%96%AF
+!--.google.*%E7%AA%81%E5%B0%BC%E6%96%AF
 !--Tui Te
-.google.*%E6%8E%A8%E7%89%B9
+!--.google.*%E6%8E%A8%E7%89%B9
 !--Wang Yang
-.google.*%E6%B1%AA%E6%96%AF
+!--.google.*%E6%B1%AA%E6%96%AF
 !--Wei Se
-.google.*%E5%94%AF%E8%89%B2
+!--.google.*%E5%94%AF%E8%89%B2
 !--Wei Shi Gong Si
-.google.*%E5%A8%81%E8%A7%86%E5%85%AC%E5%8F%B8
+!--.google.*%E5%A8%81%E8%A7%86%E5%85%AC%E5%8F%B8
 !--Wo Mei You Di Ren
-.google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
+!--.google.com*%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%8C%E4%BA%BA
 !--Wu Er Kai Xi
-.google.*%E4%B9%8C%E5%B0%94%E5%87%AF%E8%A5%BF
+!--.google.*%E4%B9%8C%E5%B0%94%E5%87%AF%E8%A5%BF
 !--Wu Fan
-.google.*%E4%BC%8D%E5%87%A1
+!--.google.*%E4%BC%8D%E5%87%A1
 !--Xi Lai
-.google.*%E7%86%99%E6%9D%A5
+!--.google.*%E7%86%99%E6%9D%A5
 !--Xin Jiang * Du Li(reversed)
-.google.%E6%96%B0%E7%96%86*%E7%8B%AC%E7%AB%8B
+!--.google.%E6%96%B0%E7%96%86*%E7%8B%AC%E7%AB%8B
 !--Xin Jing Bao
-.google.*%E6%96%B0%E4%BA%AC%E6%8A%A5
+!--.google.*%E6%96%B0%E4%BA%AC%E6%8A%A5
 !--Xu Cai Hou
-.google.*%E5%BE%90%E6%89%8D%E5%8E%9A
+!--.google.*%E5%BE%90%E6%89%8D%E5%8E%9A
 !--Xuan Yan
-.google.com.*%E5%AE%A3%E8%A8%80
+!--.google.com.*%E5%AE%A3%E8%A8%80
 !--Xue Chao
-.google.*%E5%AD%A6%E6%BD%AE
+!--.google.*%E5%AD%A6%E6%BD%AE
 !--Yao Bang
-.google.*%E8%80%80%E9%82%A6
+!--.google.*%E8%80%80%E9%82%A6
 !--Yue Yue
-.google.*%E6%9C%88%E6%9C%88
+!--.google.*%E6%9C%88%E6%9C%88
 !--Ying Di
-.google.*%E5%BD%B1%E5%B8%9D
+!--.google.*%E5%BD%B1%E5%B8%9D
 !--Yu Zheng Sheng
-.google.*search*%E4%BF%9E%E6%AD%A3%E5%A3%B0
+!--.google.*search*%E4%BF%9E%E6%AD%A3%E5%A3%B0
 !--Yue Hou Ji Fen
-.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
+!--.google.*%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A
 !--Zang Du
-.google.*%E8%97%8F%E7%8B%AC
+!--.google.*%E8%97%8F%E7%8B%AC
 !--Ze Min
-.google.*%E6%B3%BD%E6%B0%91
+!--.google.*%E6%B3%BD%E6%B0%91
 !--Zhang Gao Li
-.google.*%E5%BC%A0%E9%AB%98%E4%B8%BD
+!--.google.*%E5%BC%A0%E9%AB%98%E4%B8%BD
 !--Zhe Da Zhao Sheng bAN
-.google.*%E6%B5%99%E5%A4%A7%E6%8B%9B%E7%94%9F%E5%8A%9E
+!--.google.*%E6%B5%99%E5%A4%A7%E6%8B%9B%E7%94%9F%E5%8A%9E
 !--Zhen Li Bu
-.google.*%E7%9C%9F%E7%90%86%E9%83%A8
+!--.google.*%E7%9C%9F%E7%90%86%E9%83%A8
 !--Zhen Xiang
-.google.*%E7%9C%9F%E7%9B%B8
+!--.google.*%E7%9C%9F%E7%9B%B8
 !--Zheng Bian
-.google.*%E6%94%BF%E5%8F%98
+!--.google.*%E6%94%BF%E5%8F%98
 !--Zheng Zhi Ju
-.google.*%E6%94%BF%E6%B2%BB%E5%B1%80
+!--.google.*%E6%94%BF%E6%B2%BB%E5%B1%80
 !--Zhi Qing Zhe
-.google.*%E7%9F%A5%E6%83%85%E8%80%85
+!--.google.*%E7%9F%A5%E6%83%85%E8%80%85
 !--Zhong Gong
-.google.*%E4%B8%AD%E5%85%B1
+!--.google.*%E4%B8%AD%E5%85%B1
 !--Zhong Guo * Jin Wen
-.google.*%E4%B8%AD%E5%9B%BD*%E7%A6%81%E9%97%BB
+!--.google.*%E4%B8%AD%E5%9B%BD*%E7%A6%81%E9%97%BB
 !--Zhong Guo Min Zhu Dang
-.google.*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
+!--.google.*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A
 !--Zhong Guo Min Zhu Yun Dong
-.google.*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8
+!--.google.*%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%B8%BB%E8%BF%90%E5%8A%A8
 !--Zhong Guo Shu Zi Shi Dai
-.google.*%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3
+!--.google.*%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3
 !--Zhong Guo Yuan Min Da Tong Meng
-.google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
+!--.google.*%E4%B8%AD%E5%9B%BD%E5%86%A4%E6%B0%91%E5%A4%A7%E5%90%8C%E7%9B%9F
 !--Zhui Cha Guo Ji
-.google.*%E8%BF%BD%E6%9F%A5%E5%9B%BD%E9%99%85
+!--.google.*%E8%BF%BD%E6%9F%A5%E5%9B%BD%E9%99%85
 !--Zi Yang
-.google.*%E7%B4%AB%E9%98%B3
+!--.google.*%E7%B4%AB%E9%98%B3
 !--Zi You Men
-.google.*%E8%87%AA%E7%94%B1%E9%97%A8
-.google.*%E8%87%AA%E7%94%B1%E9%96%80
+!--.google.*%E8%87%AA%E7%94%B1%E9%97%A8
+!--.google.*%E8%87%AA%E7%94%B1%E9%96%80
 !--Zi You Ya Zou Dian Tai
-.google.*q=%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
+!--.google.*q=%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0
 
 !-----Surnames-----
 !--He
-.google.com/m*%E8%B4%BA
-.google.*/search*%E8%B4%BA
+!--.google.com/m*%E8%B4%BA
+!--.google.*/search*%E8%B4%BA
 !--Hu
-.google.com/m*%E8%83%A1
-.google.*/search*%E8%83%A1
+!--.google.com/m*%E8%83%A1
+!--.google.*/search*%E8%83%A1
 !--Huang
 !--.google.*/search*%E9%BB%84
 !--Jia
-.google.com/m*%E8%B4%BE
-.google.*/search*%E8%B4%BE
+!--.google.com/m*%E8%B4%BE
+!--.google.*/search*%E8%B4%BE
 !--Jiang
-.google.*%E6%B1%9F
+!--.google.*%E6%B1%9F
 !--Li
-.google.com/m*%E6%9D%8E
-.google.*/search*%E6%9D%8E
+!--.google.com/m*%E6%9D%8E
+!--.google.*/search*%E6%9D%8E
 !--Liu
-.google.*/search*%E5%88%98
+!--.google.*/search*%E5%88%98
 !--Wang
-.google.*%E7%8E%8B
+!--.google.*%E7%8E%8B
 !--Wen
-.google.com/m*%E6%B8%A9
-.google.*/search*%E6%B8%A9
+!--.google.com/m*%E6%B8%A9
+!--.google.*/search*%E6%B8%A9
 !--Wu
-.google.com/m*%E5%90%B4
-.google.*/search*%E5%90%B4
+!--.google.com/m*%E5%90%B4
+!--.google.*/search*%E5%90%B4
 !--Xi
-.google.com/m*%E4%B9%A0
-.google.*/search*%E4%B9%A0
+!--.google.com/m*%E4%B9%A0
+!--.google.*/search*%E4%B9%A0
 !--Zhou
-.google.*%E5%91%A8
+!--.google.*%E5%91%A8
 
 !-------------Google.other-----
-|https://*docs.google.com
-|https://*drive.google.com
-|https://groups.google.com
-|https://plus*.google.com
-.google.com/moderator
-.google.com%2Fmoderator
-.google.com/reader/view/feed
-.google.com%2Freader%2Fview%2Ffeed
-.google.com.hk/wenda
-.google.com.hk%2Fwenda
-||encrypted.google.com
-feedproxy.google.com
-groups.google.*group
-knol.google.com/k/-/08/3jhi1zdzvxj3f
-news.google.com.hk/nwshp?hl=zh-cn&tab=wn
-picasaweb.google.com
-sites.google.com
-||sites.google.com
-|https://talkgadget.google.com/
-video.google.com
+!--|https://*docs.google.com
+!--|https://*drive.google.com
+!--|https://groups.google.com
+!--|https://plus*.google.com
+!--.google.com/moderator
+!--.google.com%2Fmoderator
+!--.google.com/reader/view/feed
+!--.google.com%2Freader%2Fview%2Ffeed
+!--.google.com.hk/wenda
+!--.google.com.hk%2Fwenda
+!--||encrypted.google.com
+!--feedproxy.google.com
+!--groups.google.*group
+!--knol.google.com/k/-/08/3jhi1zdzvxj3f
+!--news.google.com.hk/nwshp?hl=zh-cn&tab=wn
+!--picasaweb.google.com
+!--sites.google.com
+!--||sites.google.com
+!--|https://talkgadget.google.com/
+!--video.google.com
 anti.anti.cnn.googlepages.com
 ||freegateget.googlepages.com
 myboooks.googlepages.com
 .googlevideo.com
-|https://apis.google.com
+!--|https://apis.google.com
 
 gospelherald.com
 ||gospelherald.com
@@ -2443,6 +2465,7 @@ forum.palmislife.com
 !--Same IP
 ||paper-replika.com
 ||eriversoft.com
+||panoramio.com
 paper.li
 paperb.us
 .panluan.net
@@ -2711,7 +2734,6 @@ rutube.ru
 .rxhj.net
 
 !--------------------SS--------------------
-blog.s135.com/google_ssl
 ||s1heng.com
 ||s8forum.com
 sacom.hk
@@ -3103,6 +3125,7 @@ touch99.com
 .tpi.org.tw
 ||tpi.org.tw
 ||transgressionism.org
+||transparency.org
 ||travelinlocal.com
 trendsmap.com
 ||trendsmap.com
@@ -3552,6 +3575,7 @@ washeng.net
 ||web2project.net
 webbang.net
 weblagu.com
+||webmproject.org
 webs-tv.net
 webshots.com
 websitepulse.com/help/testtools.china-test.html
@@ -3904,8 +3928,8 @@ zhengjian
 !--Ba Ke
 %E7%BD%A2%E8%AF%BE
 !--Bao Tong
-.google.*%E9%B2%8D%E5%BD%A4
-.google.*%E9%AE%91%E5%BD%A4
+!--.google.*%E9%B2%8D%E5%BD%A4
+!--.google.*%E9%AE%91%E5%BD%A4
 !--Bo Xun
 search*%E5%8D%9A%E8%AE%AF
 !--Da Ji Yuan
