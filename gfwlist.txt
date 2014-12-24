@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kio1Lx22SGQ801GYJyz13Q
+! Checksum: +oyXeEv7UrNgH3Af3AyU4g
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 09:37:54 -0500
+! Last Modified: Wed, 24 Dec 2014 09:44:07 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -689,7 +689,7 @@ dy24k.info
 |http://g.e-hentai.org/
 e-info.org.tw
 .e-traderland.net/board
-!--ea.com.cn
+.e123.hk
 hkjp.easyweb.hk
 ebookbrowse.com
 ebookee.com
