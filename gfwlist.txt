@@ -1075,8 +1075,6 @@ guancha.org
 !--code.google.com/p/twitese
 !--code.google.com/p/twip
 !--code.google.com/p/huhamhire-hosts
-!--|http://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
-!--|https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
 !--gfwinterceptor.googlecode.com
 !--goagent.googlecode.com
 !--gtap.googlecode.com
