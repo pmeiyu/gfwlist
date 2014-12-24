@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: thlr6BF9w3QArpg7ppOQew
+! Checksum: zaslbmzYIPZ7JzPtkN+msQ
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 09:33:11 -0500
+! Last Modified: Wed, 24 Dec 2014 09:35:56 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3565,9 +3565,10 @@ wangruoshui.net
 www.wangruowang.org
 want-daily.com
 wapedia.mobi/zhsimp
+.wattpad.com
+||wattpad.com
 .makzhou.warehouse333.com
 washeng.net
-.wattpad.com
 .wearn.com
 ||wearn.com
 ||hudatoriq.web.id
