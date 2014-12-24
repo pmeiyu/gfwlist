@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YTPrIX486KbkIoe+IY03pg
+! Checksum: SHenVKPddkZ8eL5bND9ikg
 ! Expires: 6h
-! Last Modified: Tue, 25 Nov 2014 14:11:14 +0800
+! Last Modified: Wed, 24 Dec 2014 06:23:37 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1075,7 +1075,6 @@ guancha.org
 !--code.google.com/p/twitese
 !--code.google.com/p/twip
 !--code.google.com/p/huhamhire-hosts
-!--gfwinterceptor.googlecode.com
 !--goagent.googlecode.com
 !--gtap.googlecode.com
 !--sshtunnel.googlecode.com
