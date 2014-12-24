@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zaslbmzYIPZ7JzPtkN+msQ
+! Checksum: kio1Lx22SGQ801GYJyz13Q
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 09:35:56 -0500
+! Last Modified: Wed, 24 Dec 2014 09:37:54 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -613,6 +613,7 @@ delicious.com/GFWbookmark
 .diigo.com
 ||diigo.com
 ||furl.net
+.dipity.com
 ||directcreative.com
 .discuss.com.hk
 ||discuss.com.hk
