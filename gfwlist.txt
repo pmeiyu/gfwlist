@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NLXDvf564Y8wvt+Jbot3PQ
+! Checksum: BQleafsF1RuFv0Uuy+Z5bg
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 08:39:32 -0500
+! Last Modified: Wed, 24 Dec 2014 08:54:48 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -17,6 +17,7 @@ huluim.com
 .pandora.tv
 ||pure18.com
 ||rdio.com
+||slacker.com
 ||spotify.com
 ||target.com
 ||turntable.fm
