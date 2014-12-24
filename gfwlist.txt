@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: +3d7RoDGC7x+M4h8alUIfw
+! Checksum: 2q15Elq59bOpoNpiAVaAVA
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 10:18:07 -0500
+! Last Modified: Wed, 24 Dec 2014 10:19:28 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2639,6 +2639,7 @@ python.com
 qi-gong.me
 .qienkuen.org
 ||qienkuen.org
+||qiwen.lu
 qixianglu.cn
 bbs.qmzdd.com
 .qkshare.com
