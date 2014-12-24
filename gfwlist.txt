@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: BQleafsF1RuFv0Uuy+Z5bg
+! Checksum: 6+jc34dDREldDelGWvwKEA
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 08:54:48 -0500
+! Last Modified: Wed, 24 Dec 2014 09:20:28 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2466,6 +2466,7 @@ paperb.us
 .panluan.net
 ||panluan.net
 .panoramio.com
+||pao-pao.net
 .parade.com/dictators/2009
 pastebin.com
 .pastie.org
