@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2ggvFvUkg+CafVpJONjbcg
+! Checksum: Aq0SliElzeIWcyk6yelJ6w
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 07:53:58 -0500
+! Last Modified: Wed, 24 Dec 2014 08:25:24 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1044,6 +1044,7 @@ guancha.org
 ||googleplus.com
 ||googlesource.com
 ||googlesyndication.com
+||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
 
