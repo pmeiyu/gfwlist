@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WxoTdMh5cBs/xafdp+s3+g
+! Checksum: kGXqLHIKT2XUkmU7+t5vkw
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 09:53:49 -0500
+! Last Modified: Wed, 24 Dec 2014 09:56:00 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2398,8 +2398,7 @@ omnitalk.com
 forum.omy.sg
 news.omy.sg
 showbiz.omy.sg
-the-sun.on.cc
-tv.on.cc
+.on.cc
 |https://onedrive.live.com/
 .onlylady.cn
 onmoon.net
@@ -2425,7 +2424,7 @@ www.orchidbbs.com
 ||orient-doll.com
 orientaldaily.com.my
 ||orientaldaily.com.my
-orientaldaily.on.cc
+!--orientaldaily.on.cc
 ||orn.jp
 t.orzdream.com
 ||t.orzdream.com
