@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QiVAy6PW1zZTFz4aFOEacQ
+! Checksum: kFpqONMF8102rglg042jmA
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 09:58:09 -0500
+! Last Modified: Wed, 24 Dec 2014 10:03:36 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -587,7 +587,7 @@ dalianmeng.org
 .danke4china.net
 ||danke4china.net
 .danwei.org
-.daolan.net
+|http://www.daolan.net
 daxa.cn
 ||daxa.cn/
 cn.dayabook.com
