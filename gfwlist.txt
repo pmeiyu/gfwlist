@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: SHenVKPddkZ8eL5bND9ikg
+! Checksum: ctJRaOkc71eNDVfxlJtrJg
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 06:23:37 -0500
+! Last Modified: Wed, 24 Dec 2014 07:11:03 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -983,6 +983,7 @@ gfw.org.ua
 gigporno.ru
 ||gimpshop.com
 ||girlbanker.com
+|https://gist.github.com
 ||glennhilton.com
 globaljihad.net
 globalmuseumoncommunism.org
