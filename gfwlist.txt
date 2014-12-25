@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5qTaJ2evFL2CwLIK86gzfw
+! Checksum: nuMTjFIPCNLfAcOq4TV5BQ
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 22:44:11 -0500
+! Last Modified: Thu, 25 Dec 2014 08:39:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -144,6 +144,7 @@ analyze-v.com
 ||anchorfree.com
 ||andfaraway.net
 ||android.com
+||angularjs.org
 animecrazy.net
 ||anobii.com
 .anonymizer.com
