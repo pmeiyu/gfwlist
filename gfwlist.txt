@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 2q15Elq59bOpoNpiAVaAVA
+! Checksum: 5qTaJ2evFL2CwLIK86gzfw
 ! Expires: 6h
-! Last Modified: Wed, 24 Dec 2014 10:19:28 -0500
+! Last Modified: Wed, 24 Dec 2014 22:44:11 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2874,6 +2874,7 @@ m.slandr.net
 forum.slime.com.tw
 .slutload.com
 smhric.org
+||sndcdn.com
 ||so-ga.net
 .so-ga.net
 ||so-news.com
