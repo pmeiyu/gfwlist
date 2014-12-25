@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nuMTjFIPCNLfAcOq4TV5BQ
+! Checksum: uU97hsZ0LPzRf/kVTIQjYA
 ! Expires: 6h
-! Last Modified: Thu, 25 Dec 2014 08:39:35 -0500
+! Last Modified: Thu, 25 Dec 2014 08:43:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -610,6 +610,7 @@ delicious.com/GFWbookmark
 ||dfas.mil
 .diaoyuislands.org
 ||diaoyuislands.org
+static.digg.com
 ||digitalnomadsproject.org
 .diigo.com
 ||diigo.com
