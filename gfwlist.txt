@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VkPd75LGEumvqWYY7gN9yQ
+! Checksum: E8NQqyyUGBscWPhTSZk4WQ
 ! Expires: 6h
-! Last Modified: Sat, 27 Dec 2014 23:04:59 -0500
+! Last Modified: Sun, 28 Dec 2014 04:55:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -629,6 +629,7 @@ disp.cc
 djangosnippets.org
 ||dl-laby.jp
 ||dlsite.com
+||dmcdn.net
 ||dnscrypt.org
 .dojin.com
 .dok-forum.net
