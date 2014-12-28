@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dNIyb69favRGTZ8GEkTgZw
+! Checksum: G5dIG3SN9GG0pUn5KR9wbA
 ! Expires: 6h
-! Last Modified: Sat, 27 Dec 2014 22:00:23 -0500
+! Last Modified: Sat, 27 Dec 2014 22:04:09 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3500,6 +3500,7 @@ uygur.org
 
 !--------------------------VV--------------------------
 v70.us
+|http://v7976888.info/
 ||vaayoo.com
 ||value-domain.com
 .van698.com
