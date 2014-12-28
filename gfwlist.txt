@@ -1,13 +1,14 @@
 [AutoProxy 0.2.9]
-! Checksum: lOhClvXmQiI2u4i1Cr718Q
+! Checksum: HqWT5EFGnlTjYkeIlgzF4g
 ! Expires: 6h
-! Last Modified: Sat, 27 Dec 2014 22:05:39 -0500
+! Last Modified: Sat, 27 Dec 2014 23:00:05 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
 ||altrec.com
 ||darpa.mil
 !--||dmm.com
+||fastpic.ru
 ||fxnetworks.com
 hulu.com
 huluim.com
