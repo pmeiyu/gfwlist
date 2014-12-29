@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZXZ0MQbz2vW1Mm2U3AUv9Q
+! Checksum: OP+G5kLp6neqIHkaOk5dwQ
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 02:13:21 -0500
+! Last Modified: Mon, 29 Dec 2014 02:15:54 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3432,6 +3432,7 @@ twitterfeed.com
 twittertim.es
 ||twittertim.es
 twitthat.com
+||twitturk.com
 .twitturly.com
 ||twitturly.com
 .twitzap.com
