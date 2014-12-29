@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EtJV/mgi50QOfLoc7n5OGg
+! Checksum: lw8nSV03dY4CgtlvWtoxPQ
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 01:33:03 -0500
+! Last Modified: Mon, 29 Dec 2014 01:39:41 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2077,6 +2077,7 @@ latelinenews.com
 lerosua.org
 ||lerosua.org
 blog.lester850.info
+||lesoir.be
 letscorp.net
 ||letscorp.net
 liansi.org
