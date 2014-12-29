@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: McuKYdEj4ZKwsDdNo2tSRg
+! Checksum: EtJV/mgi50QOfLoc7n5OGg
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 01:21:20 -0500
+! Last Modified: Mon, 29 Dec 2014 01:33:03 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2072,6 +2072,7 @@ laomiu.com
 latelinenews.com
 ||lazarsearlymusic.com
 ||leecheukyan.org
+||lematin.ch
 ||lenwhite.com
 lerosua.org
 ||lerosua.org
