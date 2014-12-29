@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OP+G5kLp6neqIHkaOk5dwQ
+! Checksum: nx13uMlEoq3+cEnLvpXARg
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 02:15:54 -0500
+! Last Modified: Mon, 29 Dec 2014 02:18:17 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3473,6 +3473,7 @@ embr.in
 guomin.us/login
 
 !--------------------------UU--------------------------
+||uberproxy.net
 .srcf.ucam.org/salon/
 ||ucdc1998.org
 ||uderzo.it
