@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Z5UbQCsrPfzrA0axRuab1Q
+! Checksum: Z3ReFbST//j6rB+ZFxOA2g
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 01:04:05 -0500
+! Last Modified: Mon, 29 Dec 2014 01:08:41 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2312,6 +2312,7 @@ nccwatch.org.tw
 .ncn.org
 ||ncn.org/
 ||etools.ncol.com
+.nde.de
 www.ned.org
 ||nekoslovakia.net
 t.neolee.cn
