@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: A+80PZjd1ki8OqwQcVQHAw
+! Checksum: 0TdRccJcXUhaXo2QMXEw7g
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 02:01:44 -0500
+! Last Modified: Mon, 29 Dec 2014 02:02:43 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2707,6 +2707,7 @@ rcinet.ca
 .read100.com
 .readingtimes.com.tw
 ||readingtimes.com.tw
+||readmoo.com
 .realraptalk.com
 .recordhistory.org
 .redtube.com
