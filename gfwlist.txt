@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gMeb/1TB8jnmjI5ZbhV2ow
+! Checksum: eQ1XbnkLVSHyF2djVj9boA
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 02:08:14 -0500
+! Last Modified: Mon, 29 Dec 2014 02:10:19 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1796,6 +1796,7 @@ hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 ||hikinggfw.org
 .himemix.com
 ||himemix.com
+.himemix.net
 times.hinet.net
 .hjclub.info
 .hk-pub.com/forum
