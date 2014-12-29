@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: oJeGzxk5Cm2daMdiglZhaw
+! Checksum: jsnXYWNiUF6DQ3uY2gLRyw
 ! Expires: 6h
-! Last Modified: Sun, 28 Dec 2014 22:35:09 -0500
+! Last Modified: Sun, 28 Dec 2014 22:39:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -357,8 +357,8 @@ cn.calameo.com
 |http://cn.calameo.com
 ||cams.com
 canadameet.com
-|http://bbs.cantonese.asia/
-http://www.cantonese.asia/action-bbs.html
+!--|http://bbs.cantonese.asia/
+!--http://www.cantonese.asia/action-bbs.html
 .canyu.org
 .cao.im
 .caobian.info
