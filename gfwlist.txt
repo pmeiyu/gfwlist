@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lzZ/VEoP/e96nkh02EPv5A
+! Checksum: A+80PZjd1ki8OqwQcVQHAw
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 02:00:06 -0500
+! Last Modified: Mon, 29 Dec 2014 02:01:44 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -722,6 +722,7 @@ electionsmeter.com
 .emory.edu
 .emule-ed2k.com
 |http://emule-ed2k.com
+||enewstree.com
 chinese.engadget.com
 ||englishfromengland.co.uk
 ||entermap.com
