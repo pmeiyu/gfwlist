@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LXicIEIgxQxMGLGsKmtRIQ
+! Checksum: pXX4behQ/qxPXXgE5Q1YPQ
 ! Expires: 6h
-! Last Modified: Sun, 28 Dec 2014 22:58:10 -0500
+! Last Modified: Sun, 28 Dec 2014 22:59:11 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3607,6 +3607,7 @@ weiboleak.com
 weijingsheng.org
 .weiming.info
 weiquanwang.org
+|http://weisuo.ws
 wengewang.com
 .wengewang.org
 ||wengewang.org
