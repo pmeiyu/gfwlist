@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: oey/v/aUqLSLF/hbir3g6w
+! Checksum: RKcEzF5fNqB5T0m4wBf/Kw
 ! Expires: 6h
-! Last Modified: Sun, 28 Dec 2014 22:26:09 -0500
+! Last Modified: Sun, 28 Dec 2014 22:32:55 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3757,6 +3757,7 @@ x365x.com
 xanga.com
 .xbookcn.com
 ||xbookcn.com
+||xcafe.in
 x.xcity.jp
 .xcritic.com
 destiny.xfiles.to/ubbthreads
