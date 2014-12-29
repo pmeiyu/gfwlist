@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: K5m76LspGoMTX3KyGIMTLg
+! Checksum: oey/v/aUqLSLF/hbir3g6w
 ! Expires: 6h
-! Last Modified: Sun, 28 Dec 2014 22:22:41 -0500
+! Last Modified: Sun, 28 Dec 2014 22:26:09 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -685,6 +685,8 @@ http://dw-world.de
 www.dwheeler.com
 dwnews.com
 ||dwnews.com
+dwnews.net
+||dwnews.net
 xys.dxiong.com
 dy24k.info
 ||dynawebinc.com
