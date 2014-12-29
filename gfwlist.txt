@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: z5FbinrrTydRvWLt+0Ds8Q
+! Checksum: Z5UbQCsrPfzrA0axRuab1Q
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 00:49:04 -0500
+! Last Modified: Mon, 29 Dec 2014 01:04:05 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2681,6 +2681,7 @@ qxbbs.org
 radioaustralia.net.au
 opml.radiotime.com
 ||radiovaticana.org
+||radiovncr.com
 ||raidcall.com.tw
 rangzen.org
 |http://blog.ranxiang.com/
