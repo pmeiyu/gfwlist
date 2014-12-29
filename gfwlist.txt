@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NYNMh8E/vWGfKlMLwpSRnw
+! Checksum: noPt657J39VdWb29aVavcA
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 03:30:48 -0500
+! Last Modified: Mon, 29 Dec 2014 11:29:15 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2739,6 +2739,8 @@ revver.com
 ||rfi.fr
 |http://rfi.my/
 .rhcloud.com
+!--Edgecast
+|http://vds.rightster.com/
 .rileyguide.com
 riku.me/
 .rlwlw.com
