@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0TdRccJcXUhaXo2QMXEw7g
+! Checksum: iMvr7Dwg8IAVVczexuW1Ng
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 02:02:43 -0500
+! Last Modified: Mon, 29 Dec 2014 02:04:59 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2894,8 +2894,8 @@ sis001.us
 |http://skyhighpremium.com/
 bbs.skykiwi.com
 |http://www.skype.com/intl/
-share.skype.com/sites/en/2008/10/skype_president_addresses_chin
 |http://www.skype.com/zh-Hant
+||skyvegas.com
 .xskywalker.com
 ||xskywalker.com
 m.slandr.net
