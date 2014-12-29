@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RKcEzF5fNqB5T0m4wBf/Kw
+! Checksum: oJeGzxk5Cm2daMdiglZhaw
 ! Expires: 6h
-! Last Modified: Sun, 28 Dec 2014 22:32:55 -0500
+! Last Modified: Sun, 28 Dec 2014 22:35:09 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -259,8 +259,8 @@ bipic.net
 .bit.ly
 |http://bit.ly
 !--||bitbucket.org
-.bitshare.com/files
-http://bitshare.com/files
+.bitshare.com
+||bitshare.com
 !-|http://bitsnoop.com
 bjzc.org
 ||bjzc.org/
