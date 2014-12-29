@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eQ1XbnkLVSHyF2djVj9boA
+! Checksum: veNOGkkwnI+stExaKDmBfQ
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 02:10:19 -0500
+! Last Modified: Mon, 29 Dec 2014 02:11:27 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -915,6 +915,8 @@ www.freetibet.org
 .freewebs.com
 ||freeweibo.com
 .freexinwen.com
+.freeyoutubeproxy.net
+||freeyoutubeproxy.net
 friendfeed.com
 friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 |http://ff.im
