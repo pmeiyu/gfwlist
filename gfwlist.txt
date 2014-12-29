@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nx13uMlEoq3+cEnLvpXARg
+! Checksum: NYNMh8E/vWGfKlMLwpSRnw
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 02:18:17 -0500
+! Last Modified: Mon, 29 Dec 2014 03:30:48 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2173,8 +2173,8 @@ maruta.be/forget
 .marxist.com
 ||marxist.net
 .marxists.org/chinese
-mashable.com
-||mashable.com
+!--mashable.com
+!--||mashable.com
 ||matainja.com
 ||mathiew-badimon.com
 ||matsushimakaede.com
