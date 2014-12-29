@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jsnXYWNiUF6DQ3uY2gLRyw
+! Checksum: nOlQyP6zb+gF3cfEDdbcKg
 ! Expires: 6h
-! Last Modified: Sun, 28 Dec 2014 22:39:26 -0500
+! Last Modified: Sun, 28 Dec 2014 22:45:46 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4626,6 +4626,8 @@ zh.wikipedia.org*%E5%B9%BD%E7%81%B5%E7%BD%91
 zh.wikipedia.org*%E4%BD%99%E6%9D%B0
 !--Yu Li Ping
 zh.wikipedia.org*%E4%BF%9E%E4%B8%BD%E8%90%8D
+!--Yu San Ge Ming
+zh.wikipedia.org*%E9%9B%A8%E5%82%98%E9%9D%A9%E5%91%BD
 !--Yu Zheng Sheng
 zh.wikipedia.org*%E4%BF%9E%E6%AD%A3%E5%A3%B0
 !--Yuan Hong Bing
