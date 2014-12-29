@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jcouwXaVinFyRYT7Mg8yGA
+! Checksum: LXicIEIgxQxMGLGsKmtRIQ
 ! Expires: 6h
-! Last Modified: Sun, 28 Dec 2014 22:54:08 -0500
+! Last Modified: Sun, 28 Dec 2014 22:58:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2911,6 +2911,7 @@ sohcradio.com
 @@||static.soup.io
 .slinkset.com
 ||slickvpn.com
+||snapchat.com
 .snaptu.com
 ||snaptu.com
 sneakme.net
