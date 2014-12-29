@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: micDeJVoLBQ0blVvz4/ssw
+! Checksum: gT8fgqU3QqHUsBEZOgsrEg
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 01:53:02 -0500
+! Last Modified: Mon, 29 Dec 2014 01:56:12 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1950,6 +1950,7 @@ iredmail.org
 http://beta.iset.com.tw/forum
 forum.iset.com.tw
 .islam.org.hk
+.islamicity.com
 .isaacmao.com
 ||!--isaacmao.com
 ||isgreat.org
