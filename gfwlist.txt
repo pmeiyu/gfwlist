@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3VmEUqFQ36wBDFwoyLjyFw
+! Checksum: lzZ/VEoP/e96nkh02EPv5A
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 01:58:13 -0500
+! Last Modified: Mon, 29 Dec 2014 02:00:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -865,6 +865,7 @@ pioneer-worker.forums-free.com
 video.foxbusiness.com
 ||fringenetwork.com
 ||flecheinthepeche.fr
+||focustaiwan.tw
 .focusvpn.com
 ||fofg.org
 .fooooo.com
