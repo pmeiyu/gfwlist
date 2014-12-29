@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pXX4behQ/qxPXXgE5Q1YPQ
+! Checksum: vtxMcewz3q9+sR+rWDEL7g
 ! Expires: 6h
-! Last Modified: Sun, 28 Dec 2014 22:59:11 -0500
+! Last Modified: Sun, 28 Dec 2014 23:00:28 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -988,6 +988,7 @@ gfw.org.ua
 .ggssl.com
 ||ggssl.com
 ||ghost.org
+||ghut.org
 ||giga-web.jp
 |http://cn.giganews.com/
 gigporno.ru
