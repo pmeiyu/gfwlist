@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GJ5BJ4Iah8FkB4sR5o/pdw
+! Checksum: eveAFrg+coeAy4178NrolQ
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 02:51:10 -0500
+! Last Modified: Tue, 30 Dec 2014 02:51:50 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1011,6 +1011,7 @@ globalmuseumoncommunism.org
 ||globalvoicesonline.org
 gmbd.cn
 ||gmhz.org
+||gnci.org.hk
 ||goagent.biz
 ||goagentplus.com
 godfootsteps.org
