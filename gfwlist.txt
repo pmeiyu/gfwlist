@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: S0TcOcwTRFtczAZe1p8b/w
+! Checksum: reU7bgyvyAz09Bj8ALGyzQ
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 03:31:56 -0500
+! Last Modified: Tue, 30 Dec 2014 03:34:23 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -151,6 +151,7 @@ animecrazy.net
 ||anobii.com
 .anonymizer.com
 anontext.com
+.answering-islam.org
 ||anthonycalzadilla.com
 .antiwave.net
 |http://antiwave.net
