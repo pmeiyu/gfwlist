@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eveAFrg+coeAy4178NrolQ
+! Checksum: u/F2DmoH/ew39gxRfGzfIA
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 02:51:50 -0500
+! Last Modified: Tue, 30 Dec 2014 02:54:28 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3112,6 +3112,7 @@ thkphoto.com
 threatchaos.com
 ||throughnightsfire.com
 .thumbzilla.com
+||thywords.com
 tiananmenmother.org
 ||tiananmenuniv.com
 ||tiananmenuniv.net
