@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: L1WR2cRUsnftLn8VdGYugg
+! Checksum: 9Gpd7bbW5leYFsWmeNle4w
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 03:22:39 -0500
+! Last Modified: Tue, 30 Dec 2014 03:28:02 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -187,6 +187,7 @@ asianews.it
 ||askynz.net
 ||assembla.com
 ||astonmartinnews.com
+||atc.org.au
 .atchinese.com
 |http://atchinese.com
 atgfw.org
@@ -2800,7 +2801,11 @@ sandnoble.com/bookSearch/isbnInquiry.asp
 .sanmin.com.tw
 sapikachu.net
 savemedia.com
+savetibet.de
+savetibet.fr
+savetibet.nl
 savetibet.org
+savetibet.ru
 savevid.com
 ||say2.info
 .scmp.com
