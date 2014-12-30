@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q1jQtC4gie7wUoo5k5RvXA
+! Checksum: GcA1k4DyqWJfAOPvdQbXIA
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 03:10:33 -0500
+! Last Modified: Tue, 30 Dec 2014 03:17:01 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -960,6 +960,7 @@ gamebase.com.tw
 ganges.com
 .gaopi.net
 |http://gaopi.net
+.gaozhisheng.org
 ||gappp.org
 gardennetworks.com
 ||gardennetworks.org
