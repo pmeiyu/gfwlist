@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LoqlljWsYC3m5Gg2AmIu2w
+! Checksum: AjLR4kLEywN9VFBfv3FC9Q
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 03:07:31 -0500
+! Last Modified: Tue, 30 Dec 2014 03:08:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3021,6 +3021,7 @@ sufeng.org
 .sugarsync.com
 ||sugarsync.com
 summify.com
+sun1911.com
 .suoluo.org
 api.supertweet.net
 www.supertweet.net
