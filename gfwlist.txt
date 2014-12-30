@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Vw978Ou4oKNIXF8R3DD1nA
+! Checksum: Q1jQtC4gie7wUoo5k5RvXA
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 03:10:04 -0500
+! Last Modified: Tue, 30 Dec 2014 03:10:33 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2752,6 +2752,7 @@ revver.com
 riku.me/
 .rlwlw.com
 ||rlwlw.com
+.rmjdw.com
 chinese.rnw.nl
 .rnw.nl
 robtex.com
