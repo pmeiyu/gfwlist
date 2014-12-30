@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YNn5NGfJB+07XMsfJPZ90A
+! Checksum: 0QdVTEbdHxP16ng0USa++w
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 04:38:31 -0500
+! Last Modified: Tue, 30 Dec 2014 07:23:07 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2051,6 +2051,7 @@ kanzhongguo.eu
 .kendincos.net
 .kenengba.com
 ||kenengba.com
+||keontech.net
 wiki.keso.cn/Home
 .khmusic.com.tw
 bbs.kimy.com.tw
