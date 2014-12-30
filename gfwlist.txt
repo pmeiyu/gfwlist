@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: noPt657J39VdWb29aVavcA
+! Checksum: KalZPoNa8oy6/nDe6WNXNg
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 11:29:15 -0500
+! Last Modified: Mon, 29 Dec 2014 23:33:52 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -437,7 +437,7 @@ chinacomments.org
 chinachannel.hk
 ||chinachannel.hk
 .chinadigitaltimes.net
-|http://chinadigitaltimes.net
+||chinadigitaltimes.net
 .chinaeweekly.com
 ||chinaeweekly.com
 ||chinafreepress.org
