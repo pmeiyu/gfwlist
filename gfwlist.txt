@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GcA1k4DyqWJfAOPvdQbXIA
+! Checksum: 784MofqcLcSO/pKS5hFhBw
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 03:17:01 -0500
+! Last Modified: Tue, 30 Dec 2014 03:18:40 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1935,6 +1935,7 @@ imageshack.us
 immigration.gov.tw
 |http://tech2.in.com/video/
 ||incredibox.fr
+.initiativesforchina.org
 .inmediahk.net
 ||inmediahk.net
 ||innermongolia.org
