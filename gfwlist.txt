@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gynjztDe97p7NWOX8wgw3w
+! Checksum: lMQda0bwcFjomY/Q9cFCuA
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 23:38:10 -0500
+! Last Modified: Mon, 29 Dec 2014 23:39:34 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2955,6 +2955,7 @@ sokamonline.com
 ||somee.com
 .songjianjun.com
 ||songjianjun.com
+.sonidodelaesperanza.org
 .sopcast.com
 .sopcast.org
 ||soundcloud.com
