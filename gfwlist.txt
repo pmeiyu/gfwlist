@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lMQda0bwcFjomY/Q9cFCuA
+! Checksum: sCy4zN/opEjAE3a6AGhudg
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 23:39:34 -0500
+! Last Modified: Tue, 30 Dec 2014 02:50:16 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -161,6 +161,7 @@ video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
 www.aolnews.com
+||aomiwang.com
 video.ap.org
 .apetube.com
 ||apiary.io
