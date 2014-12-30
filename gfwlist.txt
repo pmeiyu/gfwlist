@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0QdVTEbdHxP16ng0USa++w
+! Checksum: mJQ2A+ExJ6VzhNUlZD6yyw
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 07:23:07 -0500
+! Last Modified: Tue, 30 Dec 2014 08:27:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2814,6 +2814,7 @@ savevid.com
 ||say2.info
 .scmp.com
 .scmpchinese.com
+.scribd.com
 ||scriptspot.com
 seapuff.com
 domainhelp.search.com
