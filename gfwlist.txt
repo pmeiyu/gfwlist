@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sCy4zN/opEjAE3a6AGhudg
+! Checksum: GJ5BJ4Iah8FkB4sR5o/pdw
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 02:50:16 -0500
+! Last Modified: Tue, 30 Dec 2014 02:51:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -968,6 +968,7 @@ gardennetworks.com
 ||gaymap.cc
 .gazotube.com
 ||gazotube.com
+||gcc.org.hk
 ||gclooney.com
 .gcpnews.com
 .gdbt.net/forum
