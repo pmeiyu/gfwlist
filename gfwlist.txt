@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wvmeGyS5P2D/ha2KQotxTw
+! Checksum: DJuZddA4tkZq4YjCq2ZITA
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 04:22:26 -0500
+! Last Modified: Tue, 30 Dec 2014 04:30:27 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -334,6 +334,7 @@ broadbook.com
 ibros.org
 brucewang.net
 ||bt95.com
+|http://btdigg.org
 .budaedu.org
 ||budaedu.org
 .bullog.org
