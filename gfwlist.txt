@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KalZPoNa8oy6/nDe6WNXNg
+! Checksum: gynjztDe97p7NWOX8wgw3w
 ! Expires: 6h
-! Last Modified: Mon, 29 Dec 2014 23:33:52 -0500
+! Last Modified: Mon, 29 Dec 2014 23:38:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2959,6 +2959,7 @@ sokamonline.com
 .sopcast.org
 ||soundcloud.com
 !--|https://soundcloud.com/punkgod
+.soundofhope.kr
 soundofhope.org
 ||soundofhope.org
 ||soupofmedia.com
