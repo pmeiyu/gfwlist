@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: reU7bgyvyAz09Bj8ALGyzQ
+! Checksum: wvmeGyS5P2D/ha2KQotxTw
 ! Expires: 6h
-! Last Modified: Tue, 30 Dec 2014 03:34:23 -0500
+! Last Modified: Tue, 30 Dec 2014 04:22:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4117,6 +4117,8 @@ zh.m.wikipedia.org
 zh.wikisource.org
 !--2012 Nian Zhong Hua Ren Min Gong He Guo Fu Bai An Jian
 zh.wikipedia.org*2012%E5%B9%B4%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%85%90%E8%B4%A5%E6%A1%88%E4%BB%B6
+!--2014 Nian Kun Ming Huo Che Zhan Bao Li Kong Bu Xi Ji Shi Jian
+zh.wikipedia.org*2014%E5%B9%B4%E6%98%86%E6%98%8E%E7%81%AB%E8%BD%A6%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6
 !--512 Da Di Zhen
 zh.wikipedia.org*512%E5%A4%A7%E5%9C%B0%E9%9C%87
 !--08 Xian Zhang
