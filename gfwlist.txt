@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CxVhzdSwJSgizOJhLqKsjA
+! Checksum: jmeyT2XUX1AdxjWyR7AqkA
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 01:07:49 -0500
+! Last Modified: Wed, 31 Dec 2014 01:09:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -413,6 +413,7 @@ cdpwu.org
 ||centralnation.com
 .centurys.net
 |http://centurys.net
+.cftfc.com
 ||chandoo.org
 .change.org
 |http://change.org
