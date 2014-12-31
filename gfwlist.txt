@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NwjGULWLjlkZe4nQKmPNEQ
+! Checksum: XQih5Ql4py7Lj3FS39grNQ
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 01:01:23 -0500
+! Last Modified: Wed, 31 Dec 2014 01:02:00 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2157,6 +2157,7 @@ logbot.net
 |http://lookatgame.com
 ||lookingglasstheatre.org
 ||lookpic.com
+.lotuslight.org.tw
 hkreporter.loved.hk
 ||lrfz.com
 .lsd.org.hk
