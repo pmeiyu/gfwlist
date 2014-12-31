@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ZxDvNN/xoo+gxVhojjjtdw
+! Checksum: nf7XrhJGg/iQgvydVuWnJw
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 01:04:41 -0500
+! Last Modified: Wed, 31 Dec 2014 01:05:10 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3049,6 +3049,7 @@ support/youtube/bin/request.py?contact_type=abuse&
 ||sweux.com
 ||swift-tools.net
 .sydneytoday.com
+.sylfoundation.org
 ||syncback.com
 ||sysadmin1138.net
 sysresccd.org
