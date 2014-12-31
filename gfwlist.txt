@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nf7XrhJGg/iQgvydVuWnJw
+! Checksum: cNjYG0MGXyl2OztEJyDb3w
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 01:05:10 -0500
+! Last Modified: Wed, 31 Dec 2014 01:05:42 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3092,6 +3092,7 @@ blog.taragana.com
 .taweet.com
 ||taweet.com
 ||tbpic.info
+.tbsseattle.org
 tchrd.org
 tcno.net*doc*tor
 ||teamseesmic.com
