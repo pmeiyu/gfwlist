@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KhhpYxMtKH/ljDrNtoOL7A
+! Checksum: NwjGULWLjlkZe4nQKmPNEQ
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 00:59:58 -0500
+! Last Modified: Wed, 31 Dec 2014 01:01:23 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -519,6 +519,7 @@ psiphon.civisec.org
 ||classicalguitarblog.net
 .clb.org.hk
 .clipfish.de
+|http://www.cmoinc.org
 .cmule.com
 ||cmule.com
 ||cms.gov
