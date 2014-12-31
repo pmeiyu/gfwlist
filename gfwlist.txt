@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LM2b5996VTnR13ilMVhUJg
+! Checksum: H0WR1I1W9Fj5sleUbnolAQ
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 06:56:35 -0500
+! Last Modified: Wed, 31 Dec 2014 07:03:34 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -63,6 +63,7 @@ huluim.com
 ||36rain.com
 ||4bluestones.biz
 ||4chan.org
+||4shared.com
 5i01.com
 taiwannation.50webs.com
 ||51.ca
@@ -2100,6 +2101,7 @@ latelinenews.com
 ||lazarsearlymusic.com
 ||leecheukyan.org
 ||lematin.ch
+.lemonde.fr
 ||lenwhite.com
 lerosua.org
 ||lerosua.org
