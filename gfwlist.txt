@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: w2BImKqb6Zjr5Jd9c86CzQ
+! Checksum: LM2b5996VTnR13ilMVhUJg
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 01:09:55 -0500
+! Last Modified: Wed, 31 Dec 2014 06:56:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -619,6 +619,7 @@ delicious.com/GFWbookmark
 ||desc.se/
 ||deutsche-welle.de
 ||dev102.com
+||deviantart.com
 ||devio.us
 |http://www.dfanning.com
 ||dfas.mil
