@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: H0WR1I1W9Fj5sleUbnolAQ
+! Checksum: Ratv971GGKB/gwNFON9pzw
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 07:03:34 -0500
+! Last Modified: Wed, 31 Dec 2014 07:04:41 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3121,6 +3121,7 @@ theblemish.com
 ||thedieline.com
 ||thedw.us
 ||thegatesnotes.com
+|http://thegioitinhoc.vn/
 thehousenews.com
 ||thehun.net
 ||thelifeyoucansave.com
