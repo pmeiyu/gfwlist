@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jmeyT2XUX1AdxjWyR7AqkA
+! Checksum: w2BImKqb6Zjr5Jd9c86CzQ
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 01:09:06 -0500
+! Last Modified: Wed, 31 Dec 2014 01:09:55 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2161,6 +2161,7 @@ logbot.net
 .lotuslight.org.tw
 hkreporter.loved.hk
 ||lrfz.com
+|http://lrip.org/
 .lsd.org.hk
 ||lsd.org.hk
 lsforum.net
