@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1oYv0HdjV5LEdiaSCXoUMg
+! Checksum: GkXWjkyi5b1OJhO7zgpslg
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 03:25:35 -0500
+! Last Modified: Thu, 01 Jan 2015 03:26:11 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1869,6 +1869,7 @@ hotpot.hk
 .hrw.org
 ||hrw.org
 ||hsjp.net
+||hsselite.com
 ||htmldog.com
 huaglad.com
 .huanghuagang.org
