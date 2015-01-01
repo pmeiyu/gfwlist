@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: yAQu0t0Zaoq8g7Uv+dU9xA
+! Checksum: JGEq2I419arOQUqTR7NInw
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 08:39:45 -0500
+! Last Modified: Wed, 31 Dec 2014 20:01:46 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2604,7 +2604,7 @@ plunder.com
 ||pokerstars.com
 zh.pokerstrategy.com
 politicalchina.org
-||popularpages.net
+!--||popularpages.net
 popyard.com
 ||popyard.org
 .porn.com
