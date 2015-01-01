@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: leUu2xjsolsm64M5ckykJQ
+! Checksum: p2LYsmMjUwlaftsYcvR/Yw
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 21:20:07 -0500
+! Last Modified: Wed, 31 Dec 2014 21:26:56 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3723,6 +3723,7 @@ winwhispers.info
 .witopia.net
 .wo.tc
 ||woeser.com
+|http://woesermiddle-way.net/
 wolfax.com
 ||wolfax.com
 .womensrightsofchina.org
