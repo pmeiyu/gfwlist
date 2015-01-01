@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DyppAM71jIgbWbxV6YsxCQ
+! Checksum: Q96EcrJk26YYSKKUGQ7wXw
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 03:29:21 -0500
+! Last Modified: Thu, 01 Jan 2015 03:29:54 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3533,6 +3533,7 @@ ultravpn.fr
 ||ultravpn.fr
 ultraxs.com
 ||unblock.cn.com
+||unblocksit.es
 uncyclomedia.org
 uncyclopedia.info
 ||unholyknight.com
