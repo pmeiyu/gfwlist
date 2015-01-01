@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q96EcrJk26YYSKKUGQ7wXw
+! Checksum: MM9hLuz7BhWrv4zhOrH7aQ
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 03:29:54 -0500
+! Last Modified: Thu, 01 Jan 2015 03:30:58 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -60,6 +60,7 @@ huluim.com
 24smile.org
 .2shared.com
 .315lz.com
+||32red.com
 ||36rain.com
 ||4bluestones.biz
 ||4chan.org
