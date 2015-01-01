@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JBUiXmdqr9eMTF1iMtRNGA
+! Checksum: 1oYv0HdjV5LEdiaSCXoUMg
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 03:23:02 -0500
+! Last Modified: Thu, 01 Jan 2015 03:25:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3683,6 +3683,7 @@ hkg.westkit.net
 www.wet123.com
 ||wepn.info
 wetpussygames.com
+.wetplace.com
 wexiaobo.org
 ||wexiaobo.org
 wezhiyong.org
