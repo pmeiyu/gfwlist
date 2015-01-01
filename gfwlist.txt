@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ighHGMXrO1GRdfnuWb0APg
+! Checksum: gq305eDmwmnZk1Xdpt77yQ
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 20:08:28 -0500
+! Last Modified: Wed, 31 Dec 2014 20:09:36 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3002,7 +3002,6 @@ sowers.org.hk
 ||space-scape.com
 .spankwire.com
 ||spb.com
-.speedpluss.org
 ||spencertipping.com
 spinejs.com
 ||sproutcore.com
