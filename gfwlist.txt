@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zSYpg+BhufSucevLyNOzWg
+! Checksum: ighHGMXrO1GRdfnuWb0APg
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 20:07:08 -0500
+! Last Modified: Wed, 31 Dec 2014 20:08:28 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3035,8 +3035,6 @@ tw.streetvoice.com
 ||strongvpn.com
 .student.tw/db
 stupidvideos.com
-sufeng.org
-||sufeng.org
 .sugarsync.com
 ||sugarsync.com
 summify.com
