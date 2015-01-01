@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nC5AjKoo/erAtK6bMS+Cmg
+! Checksum: DyppAM71jIgbWbxV6YsxCQ
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 03:28:41 -0500
+! Last Modified: Thu, 01 Jan 2015 03:29:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1858,6 +1858,7 @@ hootsuite.com
 ||hootsuite.com
 hotfile.com/dl
 hotpot.hk
+.hotshame.com
 ||hotspotshield.com
 ||hougaige.com
 ||howtoforge.com
