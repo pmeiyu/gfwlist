@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gq305eDmwmnZk1Xdpt77yQ
+! Checksum: OHwH9V0BIKO5152+pAC1ug
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 20:09:36 -0500
+! Last Modified: Wed, 31 Dec 2014 20:15:32 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3379,11 +3379,13 @@ tweetboard.com
 .tweetdeck.com
 ||tweetdeck.com
 |http://deck.ly
-||tweete.net
-m.tweete.net
+!-- Operation discontinued
+!--||tweete.net
+!--m.tweete.net
 ||mtw.tl
 ||tweetedtimes.com
-tweetmeme.com
+!-- Operation discontinued
+!--tweetmeme.com
 ||tweetmylast.fm
 tweetphoto.com
 ||tweetphoto.com
@@ -3514,18 +3516,11 @@ guomin.us/login
 ||uderzo.it
 ||udn.com
 .udn.com
-!-album.udn.com
-!-blog.udn.com
-!-bookmark.udn.com/bookmark
-!-city.udn.com
-!-dignews.udn.com/forum/
-!-forum.udn.com
 ufreevpn.com
 .ugo.com
 uhrp.org
 uighurbiz.net
 .ulike.net
-|http://www.ukchinese.com/www/22/2009-03/2842.html
 ukliferadio.co.uk
 ||ukliferadio.co.uk
 ultravpn.fr
