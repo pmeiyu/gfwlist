@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 77uVXIjs4lCHEiK1OkT03g
+! Checksum: II06UgVD77UY4HdG5kdcjw
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 20:16:33 -0500
+! Last Modified: Wed, 31 Dec 2014 20:59:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3153,6 +3153,7 @@ tibet.org.tw
 tibetalk.com
 .tibetanyouthcongress.org
 ||tibetanyouthcongress.org
+.tibetcorps.org
 tibetfund.org
 .tibetjustice.org
 tibetonline.com
