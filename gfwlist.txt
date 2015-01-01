@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RwKva/z9q5eySBCgnA+h/A
+! Checksum: t/ArbD2HgrKjiJQnVuusmA
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 03:37:04 -0500
+! Last Modified: Thu, 01 Jan 2015 03:41:39 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -407,6 +407,7 @@ cdpweb.org
 ||cdpweb.org
 cdpwu.org
 ||cdpwu.org
+||cdw.com
 .cecc.gov
 ||cecc.gov
 ||cellulo.info
