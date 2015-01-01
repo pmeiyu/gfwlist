@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: b3Bo3Z9J8vMM33EalvOijg
+! Checksum: zSYpg+BhufSucevLyNOzWg
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 20:04:24 -0500
+! Last Modified: Wed, 31 Dec 2014 20:07:08 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3001,19 +3001,14 @@ sowers.org.hk
 ||wlx.sowiki.net
 ||space-scape.com
 .spankwire.com
-.spb.com/blackberry-software/tv/download
-|http://spb.com/blackberry-software/tv/download
-.spb.com/pocketpc-software/tv/download
-|http://spb.com/pocketpc-software/tv/download
-.spb.com/symbian-software/tv/download
-|http://spb.com/symbian-software/tv/download
+||spb.com
 .speedpluss.org
 ||spencertipping.com
 spinejs.com
 ||sproutcore.com
 squarespace.com
 ||ssh91.com
-|http://cdn.sstatic.net/
+!--|http://cdn.sstatic.net/
 www.stackfile.com/freedur
 ||standupfortibet.org
 usinfo.state.gov
