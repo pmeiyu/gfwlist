@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GkXWjkyi5b1OJhO7zgpslg
+! Checksum: ZGNHv8hVn32ce0deWGVy+Q
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 03:26:11 -0500
+! Last Modified: Thu, 01 Jan 2015 03:26:47 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3821,6 +3821,7 @@ wzyboy.im/post/160
 x1949x.com
 x365x.com
 xanga.com
+||xbabe.com
 .xbookcn.com
 ||xbookcn.com
 ||xcafe.in
