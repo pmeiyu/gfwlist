@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: V7Qod3OcJz+0XrpalQyONw
+! Checksum: b3Bo3Z9J8vMM33EalvOijg
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 20:02:47 -0500
+! Last Modified: Wed, 31 Dec 2014 20:04:24 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2749,7 +2749,7 @@ renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
 subacme.rerouted.org
-cn.reuters.com
+!--cn.reuters.com
 .revleft.com
 retweetist.com
 ||retweetrank.com
