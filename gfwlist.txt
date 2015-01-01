@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: JGEq2I419arOQUqTR7NInw
+! Checksum: V7Qod3OcJz+0XrpalQyONw
 ! Expires: 6h
-! Last Modified: Wed, 31 Dec 2014 20:01:46 -0500
+! Last Modified: Wed, 31 Dec 2014 20:02:47 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2588,7 +2588,7 @@ blog.pilotmoon.com
 .pixnet.net
 .pk.com
 ||placemix.com
-.planetsuzy.org
+!--.planetsuzy.org
 |http://pictures.playboy.com
 ||playboy.com
 plays.com.tw
