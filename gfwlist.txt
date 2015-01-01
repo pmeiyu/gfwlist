@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MM9hLuz7BhWrv4zhOrH7aQ
+! Checksum: Z30fsMrcsY4pcAcUcyKCrQ
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 03:30:58 -0500
+! Last Modified: Thu, 01 Jan 2015 03:34:13 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2006,6 +2006,7 @@ ithelp.ithome.com.tw
 !--------------------JJ--------------------
 ||j.mp
 blog.jackjia.com
+||japan-whores.com
 jbtalks.cc
 jbtalks.com
 jbtalks.my
