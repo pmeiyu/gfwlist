@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: udL1gYab1avyq0OYqigfxw
+! Checksum: gEpoXJuAYxRZHYZMRvhbww
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 23:21:45 -0500
+! Last Modified: Thu, 01 Jan 2015 23:22:44 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -627,6 +627,7 @@ delicious.com/GFWbookmark
 ||dev102.com
 ||deviantart.com
 ||devio.us
+||devpn.com
 |http://www.dfanning.com
 ||dfas.mil
 .diaoyuislands.org
