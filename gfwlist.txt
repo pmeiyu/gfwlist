@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jRW5N3XIKV6000ISJmofcw
+! Checksum: xRNRVl/grOBOeeZwrcV71Q
 ! Expires: 6h
-! Last Modified: Fri, 02 Jan 2015 00:29:16 -0500
+! Last Modified: Fri, 02 Jan 2015 00:49:29 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -914,6 +914,7 @@ whitebear.freebearblog.org
 ||freedomhouse.org
 .freegao.com
 ||freegao.com
+.free-hada-now.org
 .freelotto.com
 ||freelotto.com
 freeman2.com
