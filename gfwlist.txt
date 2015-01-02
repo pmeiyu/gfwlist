@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wxL2fe/XJmKGGThfvQL3gQ
+! Checksum: lBdEY3AgO7LErhqKNcy3ig
 ! Expires: 6h
-! Last Modified: Fri, 02 Jan 2015 01:07:05 -0500
+! Last Modified: Fri, 02 Jan 2015 01:08:37 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -514,6 +514,7 @@ chuizi.net
 ||chrispederick.net
 .chrlawyers.hk
 ||allaboutalpha.com
+.circlethebayfortibet.org
 .citizenlab.org
 citizensradio.org
 city9x.com
