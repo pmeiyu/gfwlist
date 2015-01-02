@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: x6NsWXC4gs44EIQcrBpJ5g
+! Checksum: +qf52q9CQeyIr9t0zUp4CA
 ! Expires: 6h
-! Last Modified: Fri, 02 Jan 2015 01:00:51 -0500
+! Last Modified: Fri, 02 Jan 2015 01:06:29 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2732,6 +2732,7 @@ nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
 
 !--------------------RR--------------------
+.radicalparty.org
 radioaustralia.net.au
 opml.radiotime.com
 ||radiovaticana.org
