@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gEpoXJuAYxRZHYZMRvhbww
+! Checksum: jRW5N3XIKV6000ISJmofcw
 ! Expires: 6h
-! Last Modified: Thu, 01 Jan 2015 23:22:44 -0500
+! Last Modified: Fri, 02 Jan 2015 00:29:16 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3546,6 +3546,7 @@ ultraxs.com
 ||unblocksit.es
 uncyclomedia.org
 uncyclopedia.info
+|http://uncyclopedia.tw
 ||unholyknight.com
 .uni.cc
 unicode.org
