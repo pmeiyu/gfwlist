@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xRNRVl/grOBOeeZwrcV71Q
+! Checksum: bDKntaWtKCbLAx507luqCQ
 ! Expires: 6h
-! Last Modified: Fri, 02 Jan 2015 00:49:29 -0500
+! Last Modified: Fri, 02 Jan 2015 00:51:46 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -355,6 +355,7 @@ brucewang.net
 ||buugaa.com
 buzzurl.jp
 bwsj.hk
+||bx.tl
 holz.byethost8.com
 
 !--------------------CC--------------------
