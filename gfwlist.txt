@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YJbnBH63bpj6tlnglclhwg
+! Checksum: x6NsWXC4gs44EIQcrBpJ5g
 ! Expires: 6h
-! Last Modified: Fri, 02 Jan 2015 00:53:01 -0500
+! Last Modified: Fri, 02 Jan 2015 01:00:51 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -17,6 +17,7 @@ huluim.com
 ||netflix.com
 ||pandora.com
 .pandora.tv
+|http://www.parkansky.com
 |http://*.pimg.tw/
 ||pure18.com
 ||rdio.com
