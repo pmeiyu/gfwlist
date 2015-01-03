@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lBdEY3AgO7LErhqKNcy3ig
+! Checksum: m/f0kBo7sQ6RsJXJ42BVuw
 ! Expires: 6h
-! Last Modified: Fri, 02 Jan 2015 01:08:37 -0500
+! Last Modified: Fri, 02 Jan 2015 21:17:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -773,6 +773,7 @@ erabaru.net
 ||erights.net
 etaiwannews.com
 ||etizer.org
+.ettoday.net
 www.eulam.com
 eventful.com
 ||exblog.jp
