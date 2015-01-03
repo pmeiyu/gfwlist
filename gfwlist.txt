@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: m/f0kBo7sQ6RsJXJ42BVuw
+! Checksum: GwJbVno9J5Ucn36YpZqWlQ
 ! Expires: 6h
-! Last Modified: Fri, 02 Jan 2015 21:17:06 -0500
+! Last Modified: Fri, 02 Jan 2015 21:20:43 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -117,6 +117,10 @@ aiph.net
 ||aiweiweiblog.com
 ||ajaxplorer.info
 ||www.ajsands.com
+
+!---------Akamaihd---------
+|https://fbcdn*.akamaihd.net/
+
 ||akiba-online.com
 ||al-qimmah.net
 ||alabout.com
