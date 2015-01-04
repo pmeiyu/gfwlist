@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7+0Asn8R9RaA6G1IUKxvgg
+! Checksum: J3avjnjPLe18qt6pCgw4gg
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:47:20 -0500
+! Last Modified: Sat, 03 Jan 2015 23:48:13 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -371,6 +371,7 @@ holz.byethost8.com
 .cactusvpn.com
 ||cactusvpn.com
 .cafepress.com
+.cahr.org.tw
 .calameo.com/books
 cn.calameo.com
 |http://cn.calameo.com
