@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9of9SOy1BPKM8pJfKUFang
+! Checksum: 7Q1nrj+9PX6mtq7jPVtSYA
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:19:39 -0500
+! Last Modified: Sat, 03 Jan 2015 23:20:19 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2206,6 +2206,7 @@ lvhai.org
 m-team.cc/forum
 www.macrovpn.com
 ||mad-ar.ch
+|http://maiplus.com
 ||marc.info
 marguerite.su
 ||martincartoons.com
