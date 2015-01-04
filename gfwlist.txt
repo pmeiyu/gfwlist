@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GwJbVno9J5Ucn36YpZqWlQ
+! Checksum: 1woNQdvkF3VmtlpbxzmFWQ
 ! Expires: 6h
-! Last Modified: Fri, 02 Jan 2015 21:20:43 -0500
+! Last Modified: Sat, 03 Jan 2015 20:05:57 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3184,6 +3184,7 @@ tibetonline.com
 ||tibetonline.com
 ||tibetonline.tv
 .tibetonline.tv
+.tibetsun.com
 ||tibetwrites.org
 .time.com/time/time100/leaders/profile/rebel
 .time.com/time/specials/packages/article/0,28804
