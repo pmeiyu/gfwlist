@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fBhJAkBjh5dDd+ggDux0ag
+! Checksum: gHQ2tqzfjSMCeUB3G7yfYQ
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:16:46 -0500
+! Last Modified: Sat, 03 Jan 2015 23:17:02 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3609,6 +3609,7 @@ vansky.com
 ||vcf-online.org
 ||vcfbuilder.org
 .velkaepocha.sk
+.venbbs.com
 .venchina.com
 veoh.com
 .verizon.net
