@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: uqCj/V5Ec29NH/hysgxcyA
+! Checksum: 9CH/ge/520WbOuWNIsj2tQ
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:29:25 -0500
+! Last Modified: Sat, 03 Jan 2015 23:30:25 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2424,6 +2424,7 @@ njuice.com
 ||njuice.com
 nlfreevpn.com
 !--no-ip.com
+||nobel.se
 !--.nobelprize.org
 !--|http://nobelprize.org
 nobelprize.org/nobel_prizes/peace/laureates/2010
