@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gHQ2tqzfjSMCeUB3G7yfYQ
+! Checksum: 9of9SOy1BPKM8pJfKUFang
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:17:02 -0500
+! Last Modified: Sat, 03 Jan 2015 23:19:39 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3879,6 +3879,7 @@ xiezhua.com
 xinsheng.net
 xinshijue.com
 xinhuanet.org
+|http://xinyubbs.net
 xizang-zhiye.org
 xjp.cc
 ||xjp.cc
