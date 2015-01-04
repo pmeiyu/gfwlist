@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: B2mm7QE0C3+vt9gYPTXqJQ
+! Checksum: G9XTsug4niuHhgvwM00KFA
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:31:56 -0500
+! Last Modified: Sat, 03 Jan 2015 23:40:00 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1866,6 +1866,7 @@ hkjc.com
 hkptu.org
 .hkreporter.com
 ||hkreporter.com
+.hkwcc.org.hk
 ||hkzone.org
 apps.hloli.net/gfwtube
 hnjhj.com
