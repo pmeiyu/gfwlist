@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NzpQL+2DzSu1pVJpN46AnA
+! Checksum: 2F68SWppHtmFgkFBnpwi1g
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:49:30 -0500
+! Last Modified: Sat, 03 Jan 2015 23:51:12 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -376,6 +376,7 @@ holz.byethost8.com
 cn.calameo.com
 |http://cn.calameo.com
 ||cams.com
+.cams.org.sg
 canadameet.com
 |http://bbs.cantonese.asia/
 !--http://www.cantonese.asia/action-bbs.html
