@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7Q1nrj+9PX6mtq7jPVtSYA
+! Checksum: nRdth18PKMAylWf4qtTG2w
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:20:19 -0500
+! Last Modified: Sat, 03 Jan 2015 23:26:52 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -404,6 +404,7 @@ cclife.org
 .cctongbao.com/article/2078732
 ccue.ca
 ccue.com
+.cgdepot.org
 ||cdig.info
 cdjp.org
 ||cdjp.org/
