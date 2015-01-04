@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5WDiwH4HaC+RJu4KnIQNqQ
+! Checksum: Icf97cUt5sHsjkRAtmH3BQ
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:56:07 -0500
+! Last Modified: Sun, 04 Jan 2015 08:23:37 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -742,6 +742,7 @@ ebookbrowse.com
 ebookee.com
 ecministry.net
 bbs.ecstart.com
+|http://twimg.edgesuite.net/appledaily
 edicypages.com
 edoors.com
 .edubridge.com
