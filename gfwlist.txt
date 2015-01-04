@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YC9MbmSCL51E9hgWiaPofg
+! Checksum: m1RzHbtJ56LdydWFDPctMQ
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:43:52 -0500
+! Last Modified: Sat, 03 Jan 2015 23:44:56 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -520,6 +520,7 @@ chuizi.net
 !--same ip
 ||chrispederick.com
 ||chrispederick.net
+||christiantimes.org.hk
 .chrlawyers.hk
 ||allaboutalpha.com
 .circlethebayfortibet.org
