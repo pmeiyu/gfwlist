@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9CH/ge/520WbOuWNIsj2tQ
+! Checksum: qJhXCe+EzamHxMYKC/jBgg
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:30:25 -0500
+! Last Modified: Sat, 03 Jan 2015 23:31:24 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2177,6 +2177,7 @@ livestream.com
 .livevideo.com
 lizhizhuangbi.com
 lkcn.net
+|http://localpresshk.com
 ||lockdown.com
 ||lockestek.com
 logbot.net
