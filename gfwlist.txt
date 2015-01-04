@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: m1RzHbtJ56LdydWFDPctMQ
+! Checksum: 7+0Asn8R9RaA6G1IUKxvgg
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:44:56 -0500
+! Last Modified: Sat, 03 Jan 2015 23:47:20 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4699,6 +4699,8 @@ zh.wikipedia.org*%E9%A6%99%E6%B8%AF%E7%8D%A8%E7%AB%8B%E9%81%8B%E5%8B%95
 zh.wikipedia.org*%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E9%BB%A8
 !--Xiang Gang Min Zhu Pai
 zh.wikipedia.org*%E9%A6%99%E6%B8%AF*%E6%B0%91%E4%B8%BB%E6%B4%BE
+!--Xiang Gang Ren Quan Jian Cha
+zh.wikipedia.org*%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%AC%8A%E7%9B%A3%E5%AF%9F
 !--Xiao Zhao Si
 zh.wikipedia.org*%E5%B0%8F%E6%98%AD%E5%AF%BA
 !--Xie Yan Fei
