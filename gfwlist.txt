@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: m3k+KHnkvspavX8vM6oYEQ
+! Checksum: 7yaorSkh8Dz8/xmKnyKJDg
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:04:08 -0500
+! Last Modified: Sat, 03 Jan 2015 23:11:36 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3388,7 +3388,7 @@ forum.tvb.com/
 tvboxnow.com
 tvider.com
 ||tvunetworks.com
-twa.sh
+.tw-npo.org
 twapperkeeper.com
 ||twapperkeeper.com
 ||twaud.io
