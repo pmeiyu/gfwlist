@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: G9XTsug4niuHhgvwM00KFA
+! Checksum: YC9MbmSCL51E9hgWiaPofg
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:40:00 -0500
+! Last Modified: Sat, 03 Jan 2015 23:43:52 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1850,6 +1850,7 @@ times.hinet.net
 app.hkatvnews.com/v3
 hkbc.net
 .hkbf.org
+.hkchurch.org
 hkday.net
 .hkdailynews.com.hk/china.php
 .hkej.com
