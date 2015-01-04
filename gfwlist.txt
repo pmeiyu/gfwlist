@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6VlbCpxRTKYIOWMtGJSVgw
+! Checksum: HdQFqCyxhu0Jf25+1Ds7Mg
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 20:24:07 -0500
+! Last Modified: Sat, 03 Jan 2015 22:45:56 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4635,6 +4635,8 @@ zh.wikipedia.org*%E5%A8%81%E8%A7%86%E8%85%90%E8%B4%A5%E6%A1%88
 zh.wikipedia.org*%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87
 !--Wen Jia Bao
 zh.wikipedia.org*%E6%B8%A9%E5%AE%B6%E5%AE%9D
+!--Wen Ru Chun
+zh.wikipedia.org*%E6%B8%A9%E5%A6%82%E6%98%A5
 !--Wen Yun Song
 zh.wikipedia.org*%E6%B8%A9%E4%BA%91%E6%9D%BE
 !--Wen Zi Yu (zh-hans/hant)
