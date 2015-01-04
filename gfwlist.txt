@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1woNQdvkF3VmtlpbxzmFWQ
+! Checksum: 6VlbCpxRTKYIOWMtGJSVgw
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 20:05:57 -0500
+! Last Modified: Sat, 03 Jan 2015 20:24:07 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -552,6 +552,7 @@ comefromchina.com
 ||comefromchina.com
 ||compileheart.com
 ||conoyo.com
+.contactmagazine.net
 .coolaler.com
 ||coolaler.com
 coolder.com
