@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MxRXvz2WuWm8iZ3WCB9TLw
+! Checksum: PQ4CIZyKSYgDTM5+weRWdQ
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:13:56 -0500
+! Last Modified: Sat, 03 Jan 2015 23:14:43 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -367,6 +367,7 @@ holz.byethost8.com
 .c-spanvideo.org
 ||c-spanvideo.org
 ||c-est-simple.com
+.cacnw.com
 .cactusvpn.com
 ||cactusvpn.com
 .cafepress.com
