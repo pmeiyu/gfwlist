@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7yaorSkh8Dz8/xmKnyKJDg
+! Checksum: MxRXvz2WuWm8iZ3WCB9TLw
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:11:36 -0500
+! Last Modified: Sat, 03 Jan 2015 23:13:56 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2716,6 +2716,7 @@ python.com
 .qanote.com
 ||qanote.com
 qi-gong.me
+.qidian.ca
 .qienkuen.org
 ||qienkuen.org
 ||qiwen.lu
