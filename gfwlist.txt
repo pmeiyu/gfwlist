@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nRdth18PKMAylWf4qtTG2w
+! Checksum: 8zb4XuHhoKOSiUOewnTHvg
 ! Expires: 6h
-! Last Modified: Sat, 03 Jan 2015 23:26:52 -0500
+! Last Modified: Sat, 03 Jan 2015 23:28:05 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -972,6 +972,7 @@ funp.com
 ||furinkan.com
 .futurechinaforum.org
 ||futuremessage.org
+.fuyin.net
 ||fw.cm
 fzh999.com
 fzh999.net
