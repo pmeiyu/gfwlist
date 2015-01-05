@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wzN4QtG8nJnA0yQZDjmjpQ
+! Checksum: y44KiLX/u1uDYj2VlC68WA
 ! Expires: 6h
-! Last Modified: Mon, 05 Jan 2015 00:34:00 -0500
+! Last Modified: Mon, 05 Jan 2015 00:36:23 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1901,6 +1901,7 @@ hotpot.hk
 ||hrw.org
 ||hsjp.net
 ||hsselite.com
+.htkou.net
 ||htmldog.com
 huaglad.com
 .huanghuagang.org
@@ -1951,8 +1952,6 @@ ifanqiang.com
 .ifcss.org
 ||ifcss.org
 ifjc.org
-!--cydia.ifuckgfw.com
-!--||cydia.ifuckgfw.com
 ||antidrm.hpg.ig.com.br
 ||igfw.net
 ||ignitedetroit.net
@@ -1970,7 +1969,6 @@ imageshack.us
 ||imagezilla.net
 !--.imdb.com
 !--|http://imdb.com
-|http://pro.imdb.com/
 |http://www.imdb.com/name/nm0482730
 .img.ly
 ||img.ly
