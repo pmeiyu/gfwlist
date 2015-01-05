@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lnntZddgl0HtsNJnGc722Q
+! Checksum: pDQmGfDwuQP6n8mD+eAh7w
 ! Expires: 6h
-! Last Modified: Sun, 04 Jan 2015 20:19:49 -0500
+! Last Modified: Sun, 04 Jan 2015 20:31:05 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -742,7 +742,7 @@ ebookbrowse.com
 ebookee.com
 ecministry.net
 bbs.ecstart.com
-(^|\.)twimg\.edgesuite.net\/(/)?
+twimg\.edgesuite\.net\/[\/]?
 edicypages.com
 edoors.com
 .edubridge.com
