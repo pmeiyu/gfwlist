@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: H+QZ/oQ9eTvM8SqKVSVKHg
+! Checksum: eBO6PGPYZDqB46fO4NGmWw
 ! Expires: 6h
-! Last Modified: Sun, 04 Jan 2015 21:53:50 -0500
+! Last Modified: Sun, 04 Jan 2015 21:56:13 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -853,8 +853,9 @@ video.fdbox.com
 .fdc89.jp
 ||fourface.nodesnoop.com
 feedbooks.mobi
-feeds.feedburner.com
-feeds2.feedburner.com/chinagfwblog
+||feedburner.com
+!--feeds.feedburner.com
+!--feeds2.feedburner.com/chinagfwblog
 ||feedzshare.com
 ||feelssh.com
 feer.com
