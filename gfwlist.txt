@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OXHtO05Bwo0SfWRLAlR0kQ
+! Checksum: H+QZ/oQ9eTvM8SqKVSVKHg
 ! Expires: 6h
-! Last Modified: Sun, 04 Jan 2015 21:49:58 -0500
+! Last Modified: Sun, 04 Jan 2015 21:53:50 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -95,6 +95,7 @@ taiwannation.50webs.com
 !--------------------AA--------------------
 ||a-normal-day.com
 a5.com.ru
+|http://cdn*.abc.com/
 .ablwang.com
 .aboluowang.com
 ||aboluowang.com
