@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Rc+APzhCBP4k1kIN0X5r1g
+! Checksum: OXHtO05Bwo0SfWRLAlR0kQ
 ! Expires: 6h
-! Last Modified: Sun, 04 Jan 2015 21:40:24 -0500
+! Last Modified: Sun, 04 Jan 2015 21:49:58 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3170,6 +3170,7 @@ thespeeder.com
 ||thetibetpost.com
 thetrotskymovie.com/
 thevivekspot.com
+||thewgo.org
 .thisav.com
 |http://thisav.com
 thkphoto.com
