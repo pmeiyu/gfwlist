@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: A+m34XvWe9pwi+y8Mzih+A
+! Checksum: f23aoztWfuYt6UIQihO3KA
 ! Expires: 6h
-! Last Modified: Sun, 04 Jan 2015 08:42:52 -0500
+! Last Modified: Sun, 04 Jan 2015 19:38:57 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2306,6 +2306,7 @@ plurktop.mmdays.com
 ||mobileways.de
 .mobypicture.com
 |http://moby.to
+||mrdoob.com
 wiki.moegirl.org
 ||mog.com
 molihua.org
