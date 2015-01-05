@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eBO6PGPYZDqB46fO4NGmWw
+! Checksum: uuKl+3cmpnWCOXzhDXGp+A
 ! Expires: 6h
-! Last Modified: Sun, 04 Jan 2015 21:56:13 -0500
+! Last Modified: Sun, 04 Jan 2015 22:00:30 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -852,15 +852,13 @@ shifeike.blog125.fc2blog.net
 video.fdbox.com
 .fdc89.jp
 ||fourface.nodesnoop.com
-feedbooks.mobi
+!--feedbooks.mobi
 ||feedburner.com
 !--feeds.feedburner.com
 !--feeds2.feedburner.com/chinagfwblog
 ||feedzshare.com
 ||feelssh.com
 feer.com
-felixcat.net
-||felixcat.net
 ||feministteacher.com
 .fengzhenghu.com
 ||fengzhenghu.com
