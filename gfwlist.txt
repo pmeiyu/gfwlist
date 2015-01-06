@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7wSRQy07p+pUeYhUTa6eLA
+! Checksum: u0iHHi+OR/tCQhUxwtzOzA
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 00:52:43 -0500
+! Last Modified: Tue, 06 Jan 2015 01:31:05 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1914,6 +1914,7 @@ huaxin.ph
 hua-yue.net
 ||hugoroy.eu
 t.huhaitai.com
+||huhamhire.com
 ||hung-ya.com
 ||hungerstrikeforaids.org
 ||huping.net
