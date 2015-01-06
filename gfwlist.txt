@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0wgwYHLF6jwwpM4hMKmoeQ
+! Checksum: QjB6Zz5itUzCJYhSl/U3hA
 ! Expires: 6h
-! Last Modified: Mon, 05 Jan 2015 15:53:43 -0500
+! Last Modified: Tue, 06 Jan 2015 00:47:54 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3768,6 +3768,7 @@ zh.wikinews.org
 winwhispers.info
 ||wiredbytes.com
 ||wiredpen.com
+||wireshark.org
 .wisevid.com
 ||wisevid.com
 .witnessleeteaching.com
