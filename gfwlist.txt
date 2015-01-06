@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ct8iuWfF1pJTgQ1vM7kN2A
+! Checksum: cN7Qzd8is9yoNfnYDaYINw
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 01:47:14 -0500
+! Last Modified: Tue, 06 Jan 2015 01:48:52 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2870,6 +2870,7 @@ savetibet.org
 savetibet.ru
 savevid.com
 ||say2.info
+|http://www.sciencemag.org/content/344/6187/953
 .scmp.com
 .scmpchinese.com
 .scribd.com
