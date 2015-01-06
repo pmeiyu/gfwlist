@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: KD1k/niVkVJWvofjQ0r1Eg
+! Checksum: MU5+52RZfJ/c4NXbdRD9fw
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 01:57:56 -0500
+! Last Modified: Tue, 06 Jan 2015 01:59:11 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -950,6 +950,7 @@ freenewscn.com
 ||freeoz.org
 ||www.bulbous.freeserve.co.uk
 ||freessh.us
+free4u.com.ar
 .free-ssh.com
 ||free-ssh.com
 ||freenetproject.org
