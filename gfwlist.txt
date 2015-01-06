@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MU5+52RZfJ/c4NXbdRD9fw
+! Checksum: iK9wg3uRWX9IOAQW4ZyVxw
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 01:59:11 -0500
+! Last Modified: Tue, 06 Jan 2015 02:02:56 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -2946,6 +2946,7 @@ shkspr.mobi/dabr
 ch.shvoong.com
 .shwchurch3.com
 |http://shwchurch3.com
+.sidelinessportseatery.com
 simplecd.org
 ||simplecd.org
 @@||simplecd.me
