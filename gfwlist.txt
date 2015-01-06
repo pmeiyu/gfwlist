@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: gwJzHhZgveyUFjzM/WzhUA
+! Checksum: lbTb5nGlHYvL4wjJ1/L2VQ
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 02:10:08 -0500
+! Last Modified: Tue, 06 Jan 2015 02:12:42 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -2618,6 +2618,7 @@ pengyulong.com
 .peopo.org
 ||peopo.org
 .percy.in
+.perfectgirls.net
 perfectvpn.net
 perfspot.com
 ||perlhowto.com
