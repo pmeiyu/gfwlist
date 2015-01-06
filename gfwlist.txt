@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: bhUObEuNxWIXSiC97KgoMQ
+! Checksum: Wmwk01kbqtuBNnUp+EstkA
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 01:38:33 -0500
+! Last Modified: Tue, 06 Jan 2015 01:39:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3860,6 +3860,7 @@ wrchina.org
 wretch.cc
 !-cn.wsj.com/gb/20130215/tec113853.asp
 .wsj.com
+.wsj.net
 .wtfpeople.com
 .wuala.com
 wuerkaixi.com
