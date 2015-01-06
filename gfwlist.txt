@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: N4L3qdfkgRjF9XFkPNB8ZA
+! Checksum: lpfmYcTyhIShMPo+fjX6dg
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 02:13:16 -0500
+! Last Modified: Tue, 06 Jan 2015 02:15:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -3884,6 +3884,7 @@ wretch.cc
 .wuala.com
 wuerkaixi.com
 wufi.org.tw
+||wuguoguang.com
 wujie.net
 wujieliulan.com
 ||wujieliulan.com
