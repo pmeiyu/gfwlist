@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: a+s+Ze9EIUuvAu3Ie+trtw
+! Checksum: jOZYmOujJa4VkB7pISzLsw
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 02:31:38 -0500
+! Last Modified: Tue, 06 Jan 2015 03:40:31 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -3266,6 +3266,7 @@ tora.to
 ||torproject.org
 torrentcrazy.com
 ||torrentcrazy.com
+||torrentproject.se
 ||torvpn.com
 touch99.com
 ||toutfr.com
