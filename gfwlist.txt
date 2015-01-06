@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QDKneFKSZcTKiNNh2XMvxQ
+! Checksum: OMiWpQl58KH0qANASijA/w
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 01:33:56 -0500
+! Last Modified: Tue, 06 Jan 2015 01:34:45 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -4011,7 +4011,7 @@ yx51.net
 zacebook.com
 ||zannel.com
 ||tap11.com
-luntan.zaobao.com
+.zaobao.com
 .zaobao.com.sg
 ||zaobao.com.sg
 .zaozon.com
