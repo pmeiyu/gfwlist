@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lpfmYcTyhIShMPo+fjX6dg
+! Checksum: 8Tmqvk0ovbTH1WSgAjjohw
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 02:15:21 -0500
+! Last Modified: Tue, 06 Jan 2015 02:16:48 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -266,6 +266,7 @@ beijingspring.com
 ||bettween.com
 ||betvictor.com
 .bewww.net
+.beyondfirewall.com
 ||bfnn.org
 ||bfsh.hk/
 biantailajiao.com
