@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AsXAwyrhVQAyUCMmdIlrGQ
+! Checksum: sOIqQFyIGC/PPDtqk5Lx2g
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 00:50:02 -0500
+! Last Modified: Tue, 06 Jan 2015 00:51:57 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1077,6 +1077,7 @@ gongminliliang.com
 ||gotw.ca/
 grandtrial.org
 ||graphis.ne.jp
+||gravatar.com
 greatfirewall.biz
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
