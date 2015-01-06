@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /Ar1H0zFCUSEFXf+ydExUg
+! Checksum: gDw00lCOeP9wm4fgd6iqFA
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 01:32:00 -0500
+! Last Modified: Tue, 06 Jan 2015 01:32:35 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -2770,6 +2770,7 @@ rangzen.org
 ranyunfei.com
 ||ranyunfei.com
 .rapbull.net
+|http://rapidgator.net/
 !-.rapidshare.com
 !-|http://rapidshare.com
 ||rapidshare8.com
