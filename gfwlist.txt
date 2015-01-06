@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Wmwk01kbqtuBNnUp+EstkA
+! Checksum: ct8iuWfF1pJTgQ1vM7kN2A
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 01:39:35 -0500
+! Last Modified: Tue, 06 Jan 2015 01:47:14 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -1940,6 +1940,8 @@ blogs.icerocket.com/tag
 .icij.org
 ||icl-fi.org
 ||iconpaper.org
+!-- Google Pages
+||icu-project.org
 w.idaiwan.com/forum
 idemocracy.asia
 .identi.ca
