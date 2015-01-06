@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8YEZOJVMNSYZXf3Btpoy3A
+! Checksum: AsXAwyrhVQAyUCMmdIlrGQ
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 00:48:36 -0500
+! Last Modified: Tue, 06 Jan 2015 00:50:02 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3833,7 +3833,7 @@ worldjournal.com
 !-zhenxiang.wordpress.com
 .wordpress.com
 ||wordpress.com
-||s*.wp.com
+||*.wp.com
 !-@@|http://wordpress.com
 !-@@|https://wordpress.com
 !-@@||files.wordpress.com
