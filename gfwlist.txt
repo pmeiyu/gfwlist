@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sOIqQFyIGC/PPDtqk5Lx2g
+! Checksum: 7wSRQy07p+pUeYhUTa6eLA
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 00:51:57 -0500
+! Last Modified: Tue, 06 Jan 2015 00:52:43 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -3744,6 +3744,7 @@ wezhiyong.org
 .whatblocked.com
 ||whatblocked.com
 .whippedass.com
+|http://who.is/
 whylover.com
 ||whyx.org
 evchk.wikia.com/wiki/%E5%A4%A7%E7%B4%80%E5%85%83%E6%99%82%E5%A0%B1
