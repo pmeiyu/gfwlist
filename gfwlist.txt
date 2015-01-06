@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0ce7SVYYbYhI4uJUCLj/uw
+! Checksum: xsfIlDCuHj36tWLWSEzsiQ
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 02:03:17 -0500
+! Last Modified: Tue, 06 Jan 2015 02:06:14 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -117,6 +117,7 @@ aiph.net
 ||aiph.net
 .aisex.com
 ||ait.org.tw
+|http://aiweiwei.com
 .aiweiweiblog.com
 ||aiweiweiblog.com
 ||ajaxplorer.info
