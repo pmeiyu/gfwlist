@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xsfIlDCuHj36tWLWSEzsiQ
+! Checksum: 3frNAp3sDfrNFPracMA6Sw
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 02:06:14 -0500
+! Last Modified: Tue, 06 Jan 2015 02:07:01 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -2039,6 +2039,7 @@ ithelp.ithome.com.tw
 .itweet.net
 |http://itweet.net
 .iu45.com
+.iverycd.com
 ||ixquick.com
 .izaobao.us
 ||gmozomg.izihost.org
