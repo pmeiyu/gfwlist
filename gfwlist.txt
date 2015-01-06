@@ -1,8 +1,11 @@
 [AutoProxy 0.2.9]
-! Checksum: Zn7Ml8AjM+14eyeONQFyHg
+! Checksum: vuCTB/2/bWBNHu7amY9uyA
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 01:54:04 -0500
+! Last Modified: Tue, 06 Jan 2015 01:55:46 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
+
+!--------------------Fraud------------------------
+.lsxszzg.com
 
 !--------------------Restricted--------------------
 ||altrec.com
