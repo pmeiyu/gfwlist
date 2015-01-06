@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UcRxF+MdgKWxBn6Jh/8PHw
+! Checksum: XrjVmy7a5LCeNG5i5VYirQ
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 02:27:06 -0500
+! Last Modified: Tue, 06 Jan 2015 02:27:53 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -2173,6 +2173,7 @@ limiao.net
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||line.me
 .linglingfa.com
+||lingvodics.com
 .linkideo.com
 ||api.linksalpha.com
 ||apidocs.linksalpha.com
