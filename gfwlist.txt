@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: voxR0NxMbE6a05zLpKRnfg
+! Checksum: RUZ5uG/ihPT8RbXPRtSIcA
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 02:23:53 -0500
+! Last Modified: Tue, 06 Jan 2015 02:25:25 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -3869,6 +3869,7 @@ worldjournal.com
 !-||wormsculptor.com
 woxinghuiguo.com
 wow-life.net
+||wowlegacy.ml
 !-||wp.me
 
 .wpoforum.com
