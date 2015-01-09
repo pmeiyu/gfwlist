@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jOZYmOujJa4VkB7pISzLsw
+! Checksum: OrGTzwoQOfztxmoPTdInBw
 ! Expires: 6h
-! Last Modified: Tue, 06 Jan 2015 03:40:31 -0500
+! Last Modified: Thu, 08 Jan 2015 23:59:38 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -3776,7 +3776,7 @@ wezhiyong.org
 |http://who.is/
 whylover.com
 ||whyx.org
-evchk.wikia.com/wiki/%E5%A4%A7%E7%B4%80%E5%85%83%E6%99%82%E5%A0%B1
+|http://evchk.wikia.com
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikileaks.ch
