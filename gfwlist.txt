@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sECF9iQzVtLYCA0ftoVfww
+! Checksum: I9VvI5tlX9xBoyybsPFg6w
 ! Expires: 6h
-! Last Modified: Fri, 09 Jan 2015 04:39:33 -0500
+! Last Modified: Fri, 09 Jan 2015 04:42:49 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -4472,6 +4472,8 @@ zh.wikipedia.org*%E6%9D%8E%E7%91%9E%E7%92%B0
 zh.wikipedia.org*%E6%9D%8E%E6%85%8E%E4%B9%8B
 !--Li Shi De Shang Kou
 zh.wikipedia.org*%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BC%A4%E5%8F%A3
+!--Li Xiao Lin
+zh.wikipedia.org*%E6%9D%8E%E5%B0%8F%E7%90%B3
 !--Li Ying Hao
 zh.wikipedia.org*%E6%9D%8E%E8%8B%B1%E6%B5%A9
 !--Li Yuan Chao
