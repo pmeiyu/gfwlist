@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mro4sKzA1PMDELm+vG0DtQ
+! Checksum: qW+zMstG+T45kX7hkuwEHw
 ! Expires: 6h
-! Last Modified: Sat, 10 Jan 2015 00:57:28 -0500
+! Last Modified: Sat, 10 Jan 2015 01:32:36 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -4672,6 +4672,8 @@ zh.wikipedia.org*%E7%8E%8B%E7%AB%8B%E5%86%9B
 zh.wikipedia.org*%E7%8E%8B%E5%B2%90%E5%B1%B1
 !--Wang Qian Yuan
 zh.wikipedia.org*%E7%8E%8B%E5%8D%83%E6%BA%90
+!--Wang Shu Ping
+zh.wikipedia.org*%E7%8E%8B%E6%B7%91%E5%8D%8E
 !--Wang Wei Lin
 zh.wikipedia.org*%E7%8E%8B%E7%BB%B4%E6%9E%97
 !--Wang You Cai
