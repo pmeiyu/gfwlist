@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: I9VvI5tlX9xBoyybsPFg6w
+! Checksum: LrWiZisy2YXBaTNanScN8g
 ! Expires: 6h
-! Last Modified: Fri, 09 Jan 2015 04:42:49 -0500
+! Last Modified: Sat, 10 Jan 2015 00:46:41 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -845,7 +845,7 @@ fangeming.com
 ||fanswong.com
 .fanyue.info
 .farwestchina.com
-||fastly.net
+!--||fastly.net
 favorious.com
 ||favorious.com
 en.favotter.net
