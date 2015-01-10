@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1ylgR0FTFAAkaM0uFMD2ew
+! Checksum: mro4sKzA1PMDELm+vG0DtQ
 ! Expires: 6h
-! Last Modified: Sat, 10 Jan 2015 00:47:47 -0500
+! Last Modified: Sat, 10 Jan 2015 00:57:28 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -3704,6 +3704,7 @@ vpnfire.com
 ||vtunnel.com
 
 !--------------------------WW--------------------------
+||w.org
 lists.w3.org/archives/public
 ||waffle1999.com
 .jyzj.waqn.com
@@ -3867,7 +3868,7 @@ worldjournal.com
 !-zhenxiang.wordpress.com
 .wordpress.com
 ||wordpress.com
-||*.wp.com
+||wp.com
 !-@@|http://wordpress.com
 !-@@|https://wordpress.com
 !-@@||files.wordpress.com
