@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LrWiZisy2YXBaTNanScN8g
+! Checksum: 1ylgR0FTFAAkaM0uFMD2ew
 ! Expires: 6h
-! Last Modified: Sat, 10 Jan 2015 00:46:41 -0500
+! Last Modified: Sat, 10 Jan 2015 00:47:47 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -544,6 +544,7 @@ city9x.com
 ||civicparty.hk
 civilhrfront.org
 ||civilhrfront.org
+.civilmedia.tw
 psiphon.civisec.org
 ||cjb.net
 .ck101.com
