@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kRl6xzrSKl2uRoefMCy3jg
+! Checksum: boqZ40Os2RQuRGUiJlJDHw
 ! Expires: 6h
-! Last Modified: Sat, 10 Jan 2015 06:24:38 -0500
+! Last Modified: Tue, 13 Jan 2015 01:16:00 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -160,6 +160,9 @@ ameblo.jp
 amzs.me
 analyze-v.com
 ||anchorfree.com
+!--Google
+||ancsconf.org
+
 ||andfaraway.net
 ||android.com
 ||angularjs.org
