@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: K12UQJCDlmF3SpHQGTvFYA
+! Checksum: DI/JfVPxzJ4iyYtuGQ5iUg
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 04:34:36 -0500
+! Last Modified: Tue, 13 Jan 2015 04:41:50 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4887,6 +4887,8 @@ zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%BD%AF%E4%BB%B6%E8%BF%87
 !--Zhong Guo Wang Luo Shen Cha
 zh.wikipedia.org*%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 zh.wikipedia.org*%E4%B8%AD%E5%9C%8B%E7%B6%B2%E8%B7%AF%E5%AF%A9%E6%9F%A5
+!--Zhong Hua Ren Min Gong He Guo Bei Feng Suo Wang Zhan Lie Biao
+zh.wikipedia.org*%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E5%B0%81%E9%94%81%E7%BD%91%E7%AB%99%E5%88%97%E8%A1%A8
 !--Zhong Hua Ren Min Gong He Guo Ren Quan
 zh.wikipedia.org*%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E4%BA%BA%E6%AC%8A
 !--Zhong Hua Ren Min Gong He Guo Shen Cha Ci Hui Lie Biao
