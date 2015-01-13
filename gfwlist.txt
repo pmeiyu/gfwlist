@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ctXxyrhdssM693Y8n+W8RA
+! Checksum: KPNrfagIiZpg3obFq+ITCA
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 01:42:22 -0500
+! Last Modified: Tue, 13 Jan 2015 01:47:52 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -2353,7 +2353,7 @@ mpinews.com
 mrtweet.com
 ||mrtweet.com
 news.msn.com.tw
-.msguancha.com
+msguancha.com
 ||mthruf.com
 ||multiply.com
 multiproxy.org
