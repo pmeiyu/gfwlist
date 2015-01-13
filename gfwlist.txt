@@ -1,10 +1,10 @@
 [AutoProxy 0.2.9]
-! Checksum: vDOkGSJK7L7XEWcg66nZGA
+! Checksum: K12UQJCDlmF3SpHQGTvFYA
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 04:27:43 -0500
+! Last Modified: Tue, 13 Jan 2015 04:34:36 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
-!--------------------Fraud------------------------
+!---------------------Fraud------------------------
 .lsxszzg.com
 
 !--------------------Restricted--------------------
@@ -2526,6 +2526,8 @@ showbiz.omy.sg
 .onlylady.cn
 onmoon.net
 onmoon.com
+!--Sorry but we are confused as well
+||ontrac.com
 .oopsforum.com
 open.com.hk
 opendemocracy.net
