@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jyfrRtS2G5zmmH0fnJsZdw
+! Checksum: 59v8+wiAQD9s7fo3p+rfEA
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 01:51:02 -0500
+! Last Modified: Tue, 13 Jan 2015 01:51:29 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -1945,6 +1945,7 @@ hutong9.net
 ||hyperrate.com
 
 !--------------------II--------------------
+.i-cable.com
 ||i1.hk
 ||i2p2.de/
 ||i2runner.com
