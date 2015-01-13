@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: nnktsESLIjJIVhiI4sMngA
+! Checksum: 8G60qFPVDJP3NslnNKwy5g
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 06:33:14 -0500
+! Last Modified: Tue, 13 Jan 2015 07:10:57 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2250,7 +2250,7 @@ marguerite.su
 ||martincartoons.com
 .maiio.net
 mail-archive.com
-malaysiakini.com/cn
+.malaysiakini.com
 ||makemymood.com
 ||marines.mil
 markmail.org*message
@@ -2410,7 +2410,7 @@ cyberghost.natado.com
 nccwatch.org.tw
 .nch.com.tw
 .ncn.org
-||ncn.org/
+||ncn.org
 ||etools.ncol.com
 .nde.de
 .ndr.de
