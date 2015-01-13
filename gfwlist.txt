@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: DI/JfVPxzJ4iyYtuGQ5iUg
+! Checksum: v2lYHlvoI1z3mjHZn6i/rA
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 04:41:50 -0500
+! Last Modified: Tue, 13 Jan 2015 06:23:54 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4657,6 +4657,8 @@ zh.wikipedia.org*%E5%94%90%E6%9F%8F%E6%A1%A5
 zh.wikipedia.org/zh/%E9%99%B6%E9%A9%B7%E9%A9%B9
 !--Tian An Men Guang Chang
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA
+!--Tian An Men Min Zhu Da Xue
+zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E6%B0%91%E4%B8%BB%E5%A4%A7%E5%AD%A6
 !--Tian An Men Mu Qin Yun Dong
 zh.wikipedia.org*%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E8%BF%90%E5%8A%A8
 !--Tian An Men Shi Jian
