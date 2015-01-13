@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dPw+4K08VgFfPcoVg6lReQ
+! Checksum: vDOkGSJK7L7XEWcg66nZGA
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 04:24:04 -0500
+! Last Modified: Tue, 13 Jan 2015 04:27:43 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -3103,6 +3103,7 @@ stickeraction.com/sesawe
 ||storagenewsletter.com
 .stoptibetcrisis.net
 ||stoptibetcrisis.net
+||storify.com
 ||stoweboyd.com
 ||streamingthe.net
 cn.streetvoice.com/article
@@ -3120,8 +3121,6 @@ sun1911.com
 api.supertweet.net
 www.supertweet.net
 .surfeasy.com.au
-support/youtube/bin/request.py?contact_type=abuse&
-/support/youtube/bin/static.py?page=start.cs&
 ||svwind.com
 ||sweux.com
 ||swift-tools.net
