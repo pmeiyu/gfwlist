@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 59v8+wiAQD9s7fo3p+rfEA
+! Checksum: dPw+4K08VgFfPcoVg6lReQ
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 01:51:29 -0500
+! Last Modified: Tue, 13 Jan 2015 04:24:04 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -2156,7 +2156,7 @@ laomiu.com
 .laoyang.info
 |http://laoyang.info
 ||laptoplockdown.com
-.laqingdan.net
+||laqingdan.net
 ||larsgeorge.com
 ||lastfm.es
 latelinenews.com
@@ -2274,7 +2274,6 @@ mcfog.com
 .mediafire.com/?
 ||meetup.com
 mefeedia.com
-lich355.megabyet.net/%E7%BD%91%E7%BB%9C%E7%A5%9E%E5%85%BD%E5%8F%A4%E9%B8%BD%E8%BF%81%E7%A7%BB%E8%AE%B0
 .megaporn.com
 ||megarotic.com
 megavideo.com
@@ -2282,6 +2281,8 @@ megavideo.com
 meirixiaochao.com
 ||melon-peach.com
 memedia.cn
+.memehk.com
+||memehk.com
 .memrijttm.org
 merit-times.com.tw
 .mesotw.com/bbs
