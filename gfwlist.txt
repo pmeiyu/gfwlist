@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: boqZ40Os2RQuRGUiJlJDHw
+! Checksum: /Pt7J1Qj4oP7ozewWKSN3g
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 01:16:00 -0500
+! Last Modified: Tue, 13 Jan 2015 01:17:17 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Fraud------------------------
@@ -17,6 +17,7 @@
 hulu.com
 huluim.com
 |http://www.ilovelongtoes.com/
+||metarthunter.com
 ||muzu.tv
 ||netflix.com
 ||pandora.com
