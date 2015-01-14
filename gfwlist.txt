@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: aQr/or5bZrws7xU739JgoA
+! Checksum: K73L9mRVCX2kD0egJso/eA
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 23:17:15 -0500
+! Last Modified: Tue, 13 Jan 2015 23:21:57 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3983,7 +3983,7 @@ buy.yahoo.com.tw/gdsale
 hk.yahoo.com
 hk.knowledge.yahoo.com
 hk.myblog.yahoo.com
-hk.news.yahoo.com
+||hk.news.yahoo.com
 hk.rd.yahoo.com
 hk.search.yahoo.com/search
 hk.video.news.yahoo.com/video
