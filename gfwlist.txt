@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8G60qFPVDJP3NslnNKwy5g
+! Checksum: LKBSgSqqZgoNrvYOZU112Q
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 07:10:57 -0500
+! Last Modified: Tue, 13 Jan 2015 23:00:49 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3645,6 +3645,7 @@ earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/105_30.php
 ||usmc.mil
 .ustream.tv
 ||ustream.tv
+||ustwrap.info
 usus.cc
 .uushare.com
 |http://uushare.com
