@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: cWmvk9TFtKLANms9iskSDg
+! Checksum: aFg/fjN5AAdIofHHGi/lJQ
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 23:08:25 -0500
+! Last Modified: Tue, 13 Jan 2015 23:09:07 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4227,6 +4227,7 @@ en.wikipedia.org/wiki/Internet_censorship
 en.wikipedia.org/wiki/Java_Anon_Proxy
 en.wikipedia.org/wiki/Liu_Xiaobo
 en.wikipedia.org/wiki/Shi_Tao
+en.wikipedia.org/wiki/Students_for_a_Free_Tibet
 en.wikipedia.org/wiki/Tank_man
 en.wikipedia.org/wiki/Tiananmen_Papers
 en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989
