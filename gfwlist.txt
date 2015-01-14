@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 9T9LQBho9xG1lIUNF8Y8Mw
+! Checksum: YoSga5VeotbGk/F/ZmjtSg
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 23:02:13 -0500
+! Last Modified: Tue, 13 Jan 2015 23:03:37 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2935,6 +2935,8 @@ sexinsex.net
 67.220.91.23
 |http://*.sf.net
 .sfileydy.com
+.sftuk.org
+||sftuk.org
 shadow.ma
 ||shadowsocks.org
 shahamat-english.com
