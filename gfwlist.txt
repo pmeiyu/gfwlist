@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 22Ufo59Y+vnzulHy8Li38Q
+! Checksum: LU1/Pmbrt5GMAeubQy+lXw
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 23:04:51 -0500
+! Last Modified: Tue, 13 Jan 2015 23:06:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -48,6 +48,7 @@ huluim.com
 .12vpn.com
 ||12vpn.com
 141hongkong.com/forum
+.17t17p.com
 .173ng.com
 ||173ng.com
 1984bbs.com
