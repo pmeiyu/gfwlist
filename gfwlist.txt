@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LKBSgSqqZgoNrvYOZU112Q
+! Checksum: 9T9LQBho9xG1lIUNF8Y8Mw
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 23:00:49 -0500
+! Last Modified: Tue, 13 Jan 2015 23:02:13 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -595,6 +595,7 @@ creaders.net
 csdparty.com
 ||csdparty.com
 ||csuchen.de
+.ctfriend.net
 cts.com.tw
 .cuhkacs.org/~benng
 .cuihua.org
