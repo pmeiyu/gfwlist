@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: aFg/fjN5AAdIofHHGi/lJQ
+! Checksum: scbDXzaQ78ft1tx4SdkECg
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 23:09:07 -0500
+! Last Modified: Tue, 13 Jan 2015 23:11:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -275,6 +275,7 @@ beijingspring.com
 ||bfsh.hk/
 biantailajiao.com
 biantailajiao.in
+.bic2011.org
 bigfools.com
 .bignews.org
 ||bignews.org
