@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: YoSga5VeotbGk/F/ZmjtSg
+! Checksum: FmtlY2OsOLNe9Mc3826Bmg
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 23:03:37 -0500
+! Last Modified: Tue, 13 Jan 2015 23:04:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3115,6 +3115,7 @@ cn2.streetvoice.com
 tw.streetvoice.com
 ||strongvpn.com
 .student.tw/db
+||studentsforafreetibet.org
 stupidvideos.com
 .sugarsync.com
 ||sugarsync.com
