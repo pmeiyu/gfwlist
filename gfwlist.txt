@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Ka4bF4XQxkDez/Ragsl08w
+! Checksum: opl1hspMLdBvexcbmhSOxA
 ! Expires: 6h
-! Last Modified: Tue, 13 Jan 2015 23:34:44 -0500
+! Last Modified: Thu, 15 Jan 2015 09:50:53 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3742,6 +3742,7 @@ wangruoshui.net
 www.wangruowang.org
 want-daily.com
 wapedia.mobi/zhsimp
+||waselpro.com
 .wattpad.com
 ||wattpad.com
 .makzhou.warehouse333.com
