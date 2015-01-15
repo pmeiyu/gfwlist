@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: opl1hspMLdBvexcbmhSOxA
+! Checksum: KpftTPopy4bcICsHnlDoZQ
 ! Expires: 6h
-! Last Modified: Thu, 15 Jan 2015 09:50:53 -0500
+! Last Modified: Thu, 15 Jan 2015 18:25:31 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -364,6 +364,8 @@ brucewang.net
 ||bullog.org
 .bullogger.com
 ||bullogger.com
+|http://www.businessinsider.com.au/*
+|http://static*.businessinsider.com/
 .businessweek.com
 !--businesstimes
 .businesstimes.com.cn
