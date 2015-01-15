@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: XjPDokPivXA02nuBWRGrpQ
+! Checksum: e2KoecDL46zOyEs1tMuFfA
 ! Expires: 6h
-! Last Modified: Thu, 15 Jan 2015 18:25:55 -0500
+! Last Modified: Thu, 15 Jan 2015 18:26:58 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2927,7 +2927,7 @@ forum.setty.com.tw
 .sex.com
 .sex-11.com
 ||sex3.com
-.sex8.cc
+||sex8.cc
 .sexandsubmission.com
 .sexhu.com
 .sexhuang.com
