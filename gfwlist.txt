@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: IELhLLp9+vP/QHiTG1TA4g
+! Checksum: zimrPmLyFPViH0PPXub22Q
 ! Expires: 6h
-! Last Modified: Thu, 15 Jan 2015 21:24:39 -0500
+! Last Modified: Fri, 16 Jan 2015 04:38:50 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4637,6 +4637,8 @@ zh.wikipedia.org*%E5%B8%88%E6%B6%9B
 zh.wikipedia.org*%E5%B8%AB%E6%BF%A4
 !--Shi Xing Yun
 zh.wikipedia.org*%E9%87%8A%E6%98%9F%E4%BA%91
+!--Shi You Bang
+zh.wikipedia.org*%E7%9F%B3%E6%B2%B9%E5%B8%AE
 !--Si Tu Hua (zh-hans/hant)
 zh.wikipedia.org*%E5%8F%B8%E5%BE%92%E5%8D%8E
 zh.wikipedia.org*%E5%8F%B8%E5%BE%92%E8%8F%AF
