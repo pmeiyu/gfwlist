@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: e2KoecDL46zOyEs1tMuFfA
+! Checksum: IELhLLp9+vP/QHiTG1TA4g
 ! Expires: 6h
-! Last Modified: Thu, 15 Jan 2015 18:26:58 -0500
+! Last Modified: Thu, 15 Jan 2015 21:24:39 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -26,6 +26,7 @@ huluim.com
 |http://*.pimg.tw/
 ||pure18.com
 ||rdio.com
+|http://cdn*.search.xxx/
 ||slacker.com
 ||spotify.com
 ||target.com
