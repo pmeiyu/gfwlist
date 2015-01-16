@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3euO6OpfTBKhPVEuKXBjtg
+! Checksum: 0DRNI3EPDxidji9biLtEiQ
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 06:58:34 -0500
+! Last Modified: Fri, 16 Jan 2015 07:01:55 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3644,6 +3644,7 @@ unicode.org
 unpo.org
 ||uocn.org
 tor.updatestar.com
+.upholdjustice.org
 .upload4u.info
 |http://uploaded.net/file/
 .uploaded.to/file
