@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0kZlvEk6pegNTzdFQTpmmw
+! Checksum: KZVZMAVei7OAeVjX07RbxQ
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 06:54:34 -0500
+! Last Modified: Fri, 16 Jan 2015 06:56:28 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -65,6 +65,7 @@ huluim.com
 .2000fun.com/bbs
 .2008xianzhang.info
 ||2008xianzhang.info
+.213.so
 21andy.com/blog
 24smile.org
 .2shared.com
