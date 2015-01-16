@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: N+an8QBWOrSFwmXIaNkcyQ
+! Checksum: mqTXnd2/xOBmlB1gAZYYOg
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 06:30:38 -0500
+! Last Modified: Fri, 16 Jan 2015 06:43:45 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -329,7 +329,7 @@ boardreader.com/thread
 bonbonme.com
 ||boobstagram.com
 ||books.com.tw
-.botanwang.com
+||botanwang.com
 .bot.nu
 .bowenpress.com
 ||bowenpress.com
