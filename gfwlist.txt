@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 3KBfBDBt4lw9ndq/de3CRA
+! Checksum: eWu/mljUSrSa1CtTKT0Z9Q
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 04:41:55 -0500
+! Last Modified: Fri, 16 Jan 2015 04:44:51 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4832,6 +4832,7 @@ zh.wikipedia.org*%E8%A2%81%E7%B4%85%E5%86%B0
 !--Zang Chuan Fo Jiao
 zh.wikipedia.org*%E8%97%8F%E4%BC%A0%E4%BD%9B%E6%95%99
 !--Zeng Qing Hong
+zh.wikipedia.org*%E6%9B%BE%E5%BA%86%E7%BA%A2
 zh.wikipedia.org*%E6%9B%BE%E6%85%B6%E7%B4%85
 !--Zha Shi Lun Bu Si
 zh.wikipedia.org*%E6%89%8E%E4%BB%80%E4%BC%A6%E5%B8%83%E5%AF%BA
