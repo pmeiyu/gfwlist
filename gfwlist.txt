@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: pTfQxAv9J9ZgWjIGOBXlfw
+! Checksum: Tt2FLRRrrIeSCgEkj+oxrQ
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 04:54:37 -0500
+! Last Modified: Fri, 16 Jan 2015 05:33:09 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4690,6 +4690,7 @@ zh.wikipedia.org/zh-hk/Twitter
 zh.wikipedia.org*%E4%B8%87%E9%87%8C
 !--Wang Gang_(Zheng Zhi Ren Wu)
 zh.wikipedia.org*%E7%8E%8B%E5%89%9B*%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9
+zh.wikipedia.org*%E7%8E%8B%E5%88%9A*%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9
 !--Wang Jun Tao
 zh.wikipedia.org*%E7%8E%8B%E5%86%9B%E6%B6%9B
 !--Wang Le Quan
