@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OZcoYeaGgt2dWaWGivm/Fw
+! Checksum: siizf6fTZyWtrAjgcSzuIQ
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 06:28:11 -0500
+! Last Modified: Fri, 16 Jan 2015 06:30:02 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1910,6 +1910,7 @@ hongmeimei.com
 ||hongzhi.li
 hootsuite.com
 ||hootsuite.com
+|http://globalrescue.hopto.org/
 hotfile.com/dl
 hotpot.hk
 .hotshame.com
