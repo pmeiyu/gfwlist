@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: RbiMIhHTKdbuivz57FH43Q
+! Checksum: 0kZlvEk6pegNTzdFQTpmmw
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 06:53:09 -0500
+! Last Modified: Fri, 16 Jan 2015 06:54:34 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2322,6 +2322,7 @@ mingpaonews.com
 .mininova.org/tor/2593503
 .minzhuhua.net
 ||minzhuhua.net
+minzhuzhanxian.com
 minzhuzhongguo.org
 ||miroguide.com
 mirrorbooks.com
