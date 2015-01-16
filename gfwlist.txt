@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: D7FS4tjeFPocRJu9nzCJ6g
+! Checksum: xBYaa7CoUr9f1P29OnxgoQ
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 07:02:22 -0500
+! Last Modified: Fri, 16 Jan 2015 07:04:16 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1145,8 +1145,7 @@ guancha.org
 ||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
-
-!--||apis.google.com
+||recaptcha.net
 
 !------------Google App Engine/Appspot-------
 .appspot.com
