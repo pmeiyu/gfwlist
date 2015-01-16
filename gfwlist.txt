@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: AC8CUHkVU57Vrc6WFzvpeQ
+! Checksum: OZcoYeaGgt2dWaWGivm/Fw
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 05:44:48 -0500
+! Last Modified: Fri, 16 Jan 2015 06:28:11 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4033,6 +4033,7 @@ youmaker.com
 youpai.org
 ||youpai.org
 .your-freedom.net
+||yourepeat.com
 .yousendit.com
 ||yousendit.com
 youthbao.com
