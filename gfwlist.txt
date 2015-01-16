@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Q0eruwGz2UxmRwiF9m2wxQ
+! Checksum: aNWRSenHCrK0W4HyzoVLbQ
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 06:46:09 -0500
+! Last Modified: Fri, 16 Jan 2015 06:51:21 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3696,7 +3696,7 @@ vimeo.com
 ||vimperator.org
 ||vincnd.com
 ||vinniev.com
-video.tiscali.it/canali/truveo
+|http://ny.visiontimes.com/
 .vjmedia.com.hk
 .vllcs.org
 ||vmixcore.com
