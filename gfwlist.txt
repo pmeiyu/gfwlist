@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xBYaa7CoUr9f1P29OnxgoQ
+! Checksum: rWaRiP4ImmEmNva+Yg9egA
 ! Expires: 6h
-! Last Modified: Fri, 16 Jan 2015 07:04:16 -0500
+! Last Modified: Sat, 17 Jan 2015 02:21:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -350,6 +350,7 @@ boxunblog.com
 ||break.com
 .breakingtweets.com
 ||breakingtweets.com
+||breakwall.net
 .briefdream.com/%E7%B4%A0%E6%A3%BA
 brightkite.com
 ||brightkite.com
