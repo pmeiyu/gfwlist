@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xf6lHFJq5vAcXnOud0XRdg
+! Checksum: 47T8jGlVNq4KUPy8XLVdpA
 ! Expires: 6h
-! Last Modified: Sat, 17 Jan 2015 16:04:50 -0500
+! Last Modified: Wed, 21 Jan 2015 22:01:23 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -237,6 +237,7 @@ badoo.com
 hen.bao.li
 bannedbook.org
 ||bannedbook.org
+.barenakedislam.com
 ||barnabu.co.uk
 bayvoice.net
 ||bayvoice.net
