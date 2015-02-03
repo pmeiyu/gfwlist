@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 47T8jGlVNq4KUPy8XLVdpA
+! Checksum: 63+51NI6lnePqHTDQ4e+qA
 ! Expires: 6h
-! Last Modified: Wed, 21 Jan 2015 22:01:23 -0500
+! Last Modified: Tue, 03 Feb 2015 07:32:18 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3217,7 +3217,7 @@ thehousenews.com
 ||thelifeyoucansave.com
 ||thelius.org
 thepiratebay.org
-||thepiratebay.se
+!--||thepiratebay.se
 theqii.info/blog
 thereallove.kr
 ||thesartorialist.com
