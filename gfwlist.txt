@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 63+51NI6lnePqHTDQ4e+qA
+! Checksum: 53pmbVd/mD2cUkus1mSgDg
 ! Expires: 6h
-! Last Modified: Tue, 03 Feb 2015 07:32:18 -0500
+! Last Modified: Sun, 08 Feb 2015 19:40:04 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1906,6 +1906,7 @@ apps.hloli.net/gfwtube
 hnjhj.com
 ||hnjhj.com
 ||hola.com
+||hola.org
 holyspiritspeaks.org
 ||holyspiritspeaks.org
 ||derekhsu.homeip.net
