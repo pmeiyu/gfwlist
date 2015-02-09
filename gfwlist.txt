@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 53pmbVd/mD2cUkus1mSgDg
+! Checksum: 8mkCzeHjEIoJ89F92DH8nw
 ! Expires: 6h
-! Last Modified: Sun, 08 Feb 2015 19:40:04 -0500
+! Last Modified: Mon, 09 Feb 2015 01:54:24 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2413,6 +2413,8 @@ nanyang.com
 .nanyangpost.com
 ||nanyangpost.com
 .nanzao.com
+||jpl.nasa.gov
+||pds.nasa.gov
 /^http:\/\/[^\/]+line\.naver\.jp/
 ||navicat.com
 .nakido.com
@@ -3899,13 +3901,8 @@ worldjournal.com
 !-||webmink.com
 !-zhenxiang.wordpress.com
 .wordpress.com
-||wordpress.com
+|http://*.wordpress.com
 ||wp.com
-!-@@|http://wordpress.com
-!-@@|https://wordpress.com
-!-@@||files.wordpress.com
-!-||android.wordpress.org
-!-||ios.wordpress.org
 !-||wormsculptor.com
 woxinghuiguo.com
 wow-life.net
