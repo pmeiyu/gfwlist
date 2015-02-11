@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8mkCzeHjEIoJ89F92DH8nw
+! Checksum: y3i7jnS90hYPDs+U4WFb/g
 ! Expires: 6h
-! Last Modified: Mon, 09 Feb 2015 01:54:24 -0500
+! Last Modified: Tue, 10 Feb 2015 22:49:47 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -5064,6 +5064,9 @@ gov.tw
 !--@@||bing.com
 @@||jike.com
 @@||chinaso.com
+@@||haosou.com
+@@|http://translate.google.cn
+@@|http://www.google.cn/maps
 @@||qq.com
 @@||sina.cn
 @@||sina.com.cn
