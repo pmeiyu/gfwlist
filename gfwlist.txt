@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HzAaDiRyDTUEY75xxHGXQA
+! Checksum: 8Tg//WOlWM/3gsL9aoeJlw
 ! Expires: 6h
-! Last Modified: Mon, 02 Mar 2015 21:17:02 -0500
+! Last Modified: Mon, 02 Mar 2015 21:19:46 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -219,6 +219,7 @@ atgfw.org
 ||atnext.com
 avaaz.org
 ||avaaz.org
+.avast.com
 avdb.in
 ||avidemux.org
 ||avoision.com
