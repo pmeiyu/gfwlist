@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EL/5UIq/K6DCnYkLbdPNfg
+! Checksum: ILk94Q0FnoAVS52vvgRC2g
 ! Expires: 6h
-! Last Modified: Mon, 02 Mar 2015 21:26:48 -0500
+! Last Modified: Mon, 02 Mar 2015 21:27:37 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2007,6 +2007,7 @@ imageshack.us
 !--.imdb.com
 !--|http://imdb.com
 |http://www.imdb.com/name/nm0482730
+|http://www.imdb.com/title/tt0819354/
 .img.ly
 ||img.ly
 .imkev.com
