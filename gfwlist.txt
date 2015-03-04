@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wC9Q3qTLsRKMyZxvGIoTCg
+! Checksum: UCrOCQa5TkYHjcS5uwQ6LA
 ! Expires: 6h
-! Last Modified: Wed, 04 Mar 2015 01:44:40 -0500
+! Last Modified: Wed, 04 Mar 2015 03:22:06 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3746,8 +3746,6 @@ vpnfire.com
 ||w.org
 lists.w3.org/archives/public
 ||waffle1999.com
-.jyzj.waqn.com
-||jyzj.waqn.com
 .wahas.com
 .waigaobu.com
 waikeung.org/php_wind
@@ -5069,7 +5067,7 @@ gov.tw
 @@||baidu.com
 !--@@||bing.com
 @@||chinaso.com
-@@|http://fonts.googleapis.com
+@@||fonts.googleapis.com
 @@||haosou.com
 @@||jike.com
 @@|http://translate.google.cn
