@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UCrOCQa5TkYHjcS5uwQ6LA
+! Checksum: uQgdXquj8r8Sn32Zu7dppA
 ! Expires: 6h
-! Last Modified: Wed, 04 Mar 2015 03:22:06 -0500
+! Last Modified: Wed, 04 Mar 2015 08:47:38 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2509,6 +2509,7 @@ ntdtv.ru
 .nuvid.com
 nuzcom.com
 .nvquan.org
+|http://www.nyaa.se
 .nydus.ca
 ||nyt.com
 ||nytco.com
@@ -3936,7 +3937,7 @@ wwitv.com
 wzyboy.im/post/160
 
 !--------------------------XX--------------------------
-|http://www.x-berry.com/goagent
+.x-berry.com
 ||x-art.com
 ||x-wall.org
 x1949x.com
