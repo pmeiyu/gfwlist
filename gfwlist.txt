@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FFmRrPjovfk3KNdEGWARjg
+! Checksum: /LMaOmGpIVerRphHCIxb6Q
 ! Expires: 6h
-! Last Modified: Fri, 06 Mar 2015 05:45:35 -0500
+! Last Modified: Fri, 06 Mar 2015 05:49:53 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -975,6 +975,7 @@ free4u.com.ar
 .freeoz.org
 .freetibet.net
 ||freetibet.org
+|http://freetibetanheroes.org
 ||freewallpaper4.me
 .freewebs.com
 ||freeweibo.com
