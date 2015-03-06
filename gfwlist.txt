@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /LMaOmGpIVerRphHCIxb6Q
+! Checksum: 3GuvGkA4dionN6lfl4g/Zw
 ! Expires: 6h
-! Last Modified: Fri, 06 Mar 2015 05:49:53 -0500
+! Last Modified: Fri, 06 Mar 2015 05:54:32 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3256,6 +3256,8 @@ tiantibooks.org
 ||tibet.com
 .tibet.net
 ||tibet.net
+.tibet.org
+||tibet.org
 tibet.org.tw
 tibetalk.com
 .tibetanyouthcongress.org
