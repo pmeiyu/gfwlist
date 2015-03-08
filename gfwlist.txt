@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: wDF0P9YWfK+J8Tt/Q44eOw
+! Checksum: ax36VMOXlunFnYh3cCb9SQ
 ! Expires: 6h
-! Last Modified: Sat, 07 Mar 2015 07:26:54 -0500
+! Last Modified: Sat, 07 Mar 2015 23:46:26 -0500
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -414,6 +414,7 @@ cari.com.my
 ||catholic.org.hk
 catholic.org.tw
 ||catholic.org.tw
+||cattt.com
 .cbsnews.com/video
 ||ccavtop10.com
 !-.ccc.de
