@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ax36VMOXlunFnYh3cCb9SQ
+! Checksum: IVlfnETr/rtAjUzsSpx2jg
 ! Expires: 6h
-! Last Modified: Sat, 07 Mar 2015 23:46:26 -0500
+! Last Modified: Mon, 09 Mar 2015 08:57:49 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1985,6 +1985,7 @@ forum.idsam.com
 .idv.tw
 ieasynews.net
 .ied2k.net
+|http://if.ttt/
 ifanqiang.com
 .ifanr.com/857
 .ifcss.org
