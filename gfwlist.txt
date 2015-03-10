@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: I/Xp8uvRpBHg06BHZNXACQ
+! Checksum: x5xL/gk+lE0i3zqIeyAjLQ
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 06:17:53 -0400
+! Last Modified: Tue, 10 Mar 2015 06:20:17 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3695,6 +3695,7 @@ usus.cc
 |http://uushare.com
 .uwants.com
 .uwants.net
+|http://uyghur-j.org/
 .uyghurcanadiansociety.org
 ||uyghurcongress.org
 uygur.org
