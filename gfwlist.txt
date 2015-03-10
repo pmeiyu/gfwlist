@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GvmuIEZ+qWv4bcKtgRltFQ
+! Checksum: MOelvewWiIXvUevirBsLDQ
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 06:22:04 -0400
+! Last Modified: Tue, 10 Mar 2015 06:26:20 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1091,6 +1091,7 @@ gmbd.cn
 ||goagentplus.com
 godfootsteps.org
 ||godfootsteps.org
+.gokbayrak.com
 ||goldbetsports.com
 |http://www.goldenmelody.com.tw
 ||goldwave.com
