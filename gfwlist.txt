@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: w6Lj2Q6jzqBL+O9vM7qSBw
+! Checksum: Qjl49U2P9I2KcauQg8SZhA
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 06:28:56 -0400
+! Last Modified: Tue, 10 Mar 2015 09:55:47 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -235,6 +235,7 @@ backchina.com
 .backpackers.com.tw/forum
 backtotiananmen.com
 badoo.com
+|http://*2.bahamut.com.tw
 ||baidu.jp
 ||baixing.me
 hen.bao.li
