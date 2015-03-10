@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: VTC89bPdN6UkeYjTrEqKNQ
+! Checksum: HYtIw9myqC6NiRjNiUMXRg
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 06:00:02 -0400
+! Last Modified: Tue, 10 Mar 2015 06:01:07 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -466,6 +466,7 @@ chengmingmag.com
 ||chenguangcheng.com
 chenpokong.com
 ||cherrysave.com
+.chhongbi.org
 |http://chicagoncmtv.com
 .china-week.com
 china101.com
