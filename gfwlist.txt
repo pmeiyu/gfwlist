@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: NE95vnRmxquQKh4XWJpj/A
+! Checksum: I/Xp8uvRpBHg06BHZNXACQ
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 06:14:42 -0400
+! Last Modified: Tue, 10 Mar 2015 06:17:53 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1120,6 +1120,7 @@ great-firewall.com
 great-roc.org
 greatroc.org
 greatzhonghua.org
+.greenpeace.com.tw
 .greenvpn.net
 ||greenvpn.net
 gs-discuss.com
