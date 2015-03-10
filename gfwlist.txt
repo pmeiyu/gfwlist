@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ktqmPRVWHl8igmj8I5XbOw
+! Checksum: VTC89bPdN6UkeYjTrEqKNQ
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 05:53:18 -0400
+! Last Modified: Tue, 10 Mar 2015 06:00:02 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2868,6 +2868,7 @@ revver.com
 |http://vds.rightster.com/
 .rileyguide.com
 riku.me/
+.ritouki.jp
 .rlwlw.com
 ||rlwlw.com
 .rmjdw.com
