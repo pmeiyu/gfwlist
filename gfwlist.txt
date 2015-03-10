@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QNdibpHDUOXm3aJE9LPvwQ
+! Checksum: w6Lj2Q6jzqBL+O9vM7qSBw
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 06:28:00 -0400
+! Last Modified: Tue, 10 Mar 2015 06:28:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -815,6 +815,7 @@ erabaru.net
 .erepublik.com
 ||ernestmandel.org
 ||erights.net
+.etaa.org.au
 etaiwannews.com
 ||etizer.org
 .ettoday.net
