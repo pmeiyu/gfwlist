@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Jzmt0MSMwViqlF4FhBHhwg
+! Checksum: rXUb7eEAjd8eNrKrNAAu8w
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 05:45:29 -0400
+! Last Modified: Tue, 10 Mar 2015 05:49:05 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3337,6 +3337,7 @@ trulyergonomic.com
 .truveo.com
 .tsemtulku.com
 tsquare.tv
+|http:/www.tsu.org.tw
 tsunagarumon.com
 |http://www.tsuru-bird.net/
 .tsctv.net
