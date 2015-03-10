@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: QcN8a8jmEmgvLZAs6kSH3Q
+! Checksum: LPVRs97zQ8oS7rBnVtvoag
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 06:26:47 -0400
+! Last Modified: Tue, 10 Mar 2015 06:27:30 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -764,6 +764,7 @@ e-info.org.tw
 .e-traderland.net/board
 .e123.hk
 .eastturkistan-gov.org
+.eastturkistangovernmentinexile.us
 hkjp.easyweb.hk
 ebookbrowse.com
 ebookee.com
