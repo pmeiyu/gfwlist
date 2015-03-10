@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 12AiDxzeNRCJzJRf1OjeLA
+! Checksum: 5dgaSt947WjU8h/D8lfo0w
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 06:10:15 -0400
+! Last Modified: Tue, 10 Mar 2015 06:11:11 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -43,6 +43,7 @@ huluim.com
 ||0to255.com
 1-apple.com.tw
 ||1-apple.com.tw
+.10conditionsoflove.com
 ||10musume.com
 123rf.com
 .12bet.com
