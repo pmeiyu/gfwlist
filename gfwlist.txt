@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rXUb7eEAjd8eNrKrNAAu8w
+! Checksum: eXOUY3UDPY/mzWrHdXoFlQ
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 05:49:05 -0400
+! Last Modified: Tue, 10 Mar 2015 05:50:26 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3195,6 +3195,7 @@ tangben.com
 .taolun.info
 ||taolun.info
 blog.taragana.com
+|http://www.taup.org.tw
 .taweet.com
 ||taweet.com
 ||tbpic.info
