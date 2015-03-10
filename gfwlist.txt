@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: rz3FtDVKsHXNHpGsZ1y0NQ
+! Checksum: ktqmPRVWHl8igmj8I5XbOw
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 05:51:35 -0400
+! Last Modified: Tue, 10 Mar 2015 05:53:18 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2538,7 +2538,8 @@ old-cat.net
 ||olumpo.com
 .olympicwatch.org
 omgili.com
-omnitalk.com
+||omnitalk.com
+||omnitalk.org
 forum.omy.sg
 news.omy.sg
 showbiz.omy.sg
