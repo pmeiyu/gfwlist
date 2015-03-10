@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: EGbLd2nrfrOYz0oHaDl/3w
+! Checksum: 3CX71tv1rud/k6efrKYrUA
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 10:00:31 -0400
+! Last Modified: Tue, 10 Mar 2015 10:01:28 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3114,7 +3114,7 @@ soundofhope.org
 ||soupofmedia.com
 .sourceforge.net
 !-|http://sourceforge.net
-|http://sourceforge.net/projects/shadowsocksgui/
+|http://sourceforge.net/p*/shadowsocksgui/
 southnews.com.tw
 sowers.org.hk
 ||wlx.sowiki.net
