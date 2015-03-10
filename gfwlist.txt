@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: x5xL/gk+lE0i3zqIeyAjLQ
+! Checksum: GvmuIEZ+qWv4bcKtgRltFQ
 ! Expires: 6h
-! Last Modified: Tue, 10 Mar 2015 06:20:17 -0400
+! Last Modified: Tue, 10 Mar 2015 06:22:04 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3698,8 +3698,9 @@ usus.cc
 |http://uyghur-j.org/
 .uyghurcanadiansociety.org
 ||uyghurcongress.org
-uygur.org
 ||uyghuramerican.org
+uygur.org
+|http://uymaarip.com/
 
 !--------------------------VV--------------------------
 .v2ex.com
