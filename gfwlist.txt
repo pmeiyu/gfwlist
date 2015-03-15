@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LQc48yy+sDejI7k/MQlqHw
+! Checksum: 6dgi58vAkr+tfYE4ZmGvUA
 ! Expires: 6h
-! Last Modified: Sun, 15 Mar 2015 03:45:37 -0400
+! Last Modified: Sun, 15 Mar 2015 03:55:56 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3362,6 +3362,7 @@ tsquare.tv
 tsunagarumon.com
 |http://www.tsuru-bird.net/
 .tsctv.net
+|http://tt-rss.org/
 ||tt1069.com
 ||tttan.com
 .tttan.com
