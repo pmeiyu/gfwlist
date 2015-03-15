@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qAwjkTcp68C1lebhzr9aXQ
+! Checksum: LQc48yy+sDejI7k/MQlqHw
 ! Expires: 6h
-! Last Modified: Sun, 15 Mar 2015 03:43:19 -0400
+! Last Modified: Sun, 15 Mar 2015 03:45:37 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -683,6 +683,7 @@ static.digg.com
 ||furl.net
 .dipity.com
 ||directcreative.com
+|http://www.discogs.com/
 .discuss.com.hk
 ||discuss.com.hk
 disp.cc
