@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: mWBfyYqJxbdBlPEVwOltGA
+! Checksum: HpuMcP1sgMrUsYEwzMg+SA
 ! Expires: 6h
-! Last Modified: Sun, 15 Mar 2015 04:10:39 -0400
+! Last Modified: Sun, 15 Mar 2015 04:14:10 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3192,6 +3192,7 @@ blog.syx86.cn/2009/09/puff
 .t35.com
 .t66y.com
 ||t66y.com
+||t88.ca
 .taa-usa.org
 |http://taa-usa.org
 tabtter.jp
