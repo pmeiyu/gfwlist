@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 00tr5u1OtWhgs3SIX+Fyjg
+! Checksum: dWRAL1+aNzmm7ClVuvrHSw
 ! Expires: 6h
-! Last Modified: Fri, 13 Mar 2015 02:09:22 -0400
+! Last Modified: Sun, 15 Mar 2015 03:31:03 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4150,6 +4150,7 @@ writer.zoho.com
 .zsrhao.com
 .zuo.la
 ||zuo.la
+||zuobiao.me
 .zuola.com
 ||zuola.com
 ||zvereff.com
