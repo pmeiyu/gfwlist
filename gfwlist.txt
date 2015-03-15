@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LcXIKZ/3AVslFzhBNdY5jw
+! Checksum: gE996PRJinFfSc/MDrntMA
 ! Expires: 6h
-! Last Modified: Sun, 15 Mar 2015 03:35:24 -0400
+! Last Modified: Sun, 15 Mar 2015 03:39:34 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -381,6 +381,7 @@ brucewang.net
 |http://businesstimes.com.cn
 ||bugclub.org
 ||buugaa.com
+.buzzhand.com
 buzzurl.jp
 bwsj.hk
 ||bx.tl
