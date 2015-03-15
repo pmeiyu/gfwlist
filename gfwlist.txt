@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: HpuMcP1sgMrUsYEwzMg+SA
+! Checksum: BB/qC42ynm/6musR4g87OQ
 ! Expires: 6h
-! Last Modified: Sun, 15 Mar 2015 04:14:10 -0400
+! Last Modified: Sun, 15 Mar 2015 04:31:26 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -546,6 +546,7 @@ christusrex.org/www1/sdc
 ||chrlcg-hk.org
 ||chrome.com
 ||chromeadblock.com
+||chromium.org
 chubun.com
 chuizi.net
 ||chuizi.net
@@ -1237,10 +1238,6 @@ guancha.org
 chinaaid.net
 !-||www.chinesealbumart.com
 !-||chromeexperiments.com
-!-||blog.chromium.org
-!-||codereview.chromium.org
-!-||dev.chromium.org
-!-||www.chromium.org
 !-||www.clementine-player.org
 !-||data.clementine-player.org
 !-||clemesha.org
