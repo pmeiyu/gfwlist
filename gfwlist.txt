@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: dWRAL1+aNzmm7ClVuvrHSw
+! Checksum: LcXIKZ/3AVslFzhBNdY5jw
 ! Expires: 6h
-! Last Modified: Sun, 15 Mar 2015 03:31:03 -0400
+! Last Modified: Sun, 15 Mar 2015 03:35:24 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2004,6 +2004,7 @@ ifanqiang.com
 .ifcss.org
 ||ifcss.org
 ifjc.org
+|http://ift.tt
 ||antidrm.hpg.ig.com.br
 ||igfw.net
 ||ignitedetroit.net
