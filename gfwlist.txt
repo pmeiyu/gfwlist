@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 6dgi58vAkr+tfYE4ZmGvUA
+! Checksum: 0R9tlNYg9ez1+oG8J39vEg
 ! Expires: 6h
-! Last Modified: Sun, 15 Mar 2015 03:55:56 -0400
+! Last Modified: Sun, 15 Mar 2015 03:59:26 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3111,6 +3111,7 @@ sokamonline.com
 .sonidodelaesperanza.org
 .sopcast.com
 .sopcast.org
+|http://bbs.soul-plus.net
 ||soundcloud.com
 !--|https://soundcloud.com/punkgod
 .soundofhope.kr
