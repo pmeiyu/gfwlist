@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 0R9tlNYg9ez1+oG8J39vEg
+! Checksum: zz1QcsPIzomrDJBQa4X6PQ
 ! Expires: 6h
-! Last Modified: Sun, 15 Mar 2015 03:59:26 -0400
+! Last Modified: Sun, 15 Mar 2015 04:01:34 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2916,6 +2916,7 @@ rutube.ru
 .rxhj.net
 
 !--------------------SS--------------------
+.s-dragon.org
 ||s1heng.com
 ||s8forum.com
 sacom.hk
