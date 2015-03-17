@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: GdeTmnKXPNKL8/IXWC4bgQ
+! Checksum: etWQy1mDF8q/knNQrJD2Qg
 ! Expires: 6h
-! Last Modified: Tue, 17 Mar 2015 00:20:48 -0400
+! Last Modified: Tue, 17 Mar 2015 08:07:41 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -75,6 +75,7 @@ huluim.com
 .315lz.com
 ||32red.com
 ||36rain.com
+.3boys2girls.com
 ||4bluestones.biz
 ||4chan.org
 ||4shared.com
