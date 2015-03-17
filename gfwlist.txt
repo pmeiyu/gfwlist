@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: fnJ0hvIkBmdsoGbM5SxTZw
+! Checksum: jac8vNLRGaoJR/BrmAEiLA
 ! Expires: 6h
-! Last Modified: Tue, 17 Mar 2015 08:11:27 -0400
+! Last Modified: Tue, 17 Mar 2015 08:16:14 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2183,6 +2183,7 @@ ladbrokes.com
 ||labiennale.org
 lagranepoca.com
 .lalulalu.com
+|http://www.lamenhu.com
 laogai.org
 ||laogai.org
 laomiu.com
