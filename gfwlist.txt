@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jac8vNLRGaoJR/BrmAEiLA
+! Checksum: ojIvKIHwCCqHCg0Iq5QwEg
 ! Expires: 6h
-! Last Modified: Tue, 17 Mar 2015 08:16:14 -0400
+! Last Modified: Sat, 21 Mar 2015 03:59:07 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1155,8 +1155,8 @@ guancha.org
 ||gmodules.com
 ||goo.gl
 /^https?:\/\/[^\/]+google\.(.*)/
-||google-analytics.com
-||googleadservices.com
+!--||google-analytics.com
+!--||googleadservices.com
 ||googleapis.com
 ||googlecode.com
 ||googledomains.com
@@ -1169,8 +1169,8 @@ guancha.org
 ||googleplus.com
 ||googlesource.com
 ||googlesyndication.com
-||googletagmanager.com
-||googletagservices.com
+!--||googletagmanager.com
+!--||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
 ||recaptcha.net
@@ -5114,7 +5114,10 @@ gov.tw
 @@||baidu.com
 !--@@||bing.com
 @@||chinaso.com
-@@||fonts.googleapis.com
+@@||fonts.googleapis.comi
+@@||pagead2.googlesyndication.com
+@@||csi.gstatic.com
+@@||fonts.gstatic.com
 @@||haosou.com
 @@||jike.com
 @@|http://translate.google.cn
