@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: eUH+DCFyOR980rBhGdNXbA
+! Checksum: jz8il/LNrv7Tq/CFcB39nQ
 ! Expires: 6h
-! Last Modified: Thu, 26 Mar 2015 00:45:38 -0400
+! Last Modified: Thu, 26 Mar 2015 00:54:27 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1150,6 +1150,7 @@ guancha.org
 
 !----------------Google----------------
 ||agoogleaday.com
+||chromeexperiments.com
 ||chromercise.com
 ||data-vocabulary.org
 ||g.co
@@ -1180,6 +1181,7 @@ guancha.org
 ||groups.google.cn
 ||gvt0.com
 ||html5rocks.com
+||panoramio.com
 ||recaptcha.net
 |http://sipml5.org/
 
@@ -2636,12 +2638,10 @@ forum.palmislife.com
 !--Same IP
 ||paper-replika.com
 ||eriversoft.com
-||panoramio.com
 paper.li
 paperb.us
 .panluan.net
 ||panluan.net
-.panoramio.com
 ||pao-pao.net
 .parade.com/dictators/2009
 .passiontimes.hk
