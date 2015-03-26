@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CrNbCuhBahEMSBWbku4Opg
+! Checksum: O9iw8fs1YOGoHIWpsdlIcQ
 ! Expires: 6h
-! Last Modified: Thu, 26 Mar 2015 00:31:18 -0400
+! Last Modified: Thu, 26 Mar 2015 00:39:02 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -165,7 +165,6 @@ analyze-v.com
 ||anchorfree.com
 !--Google
 ||ancsconf.org
-
 ||andfaraway.net
 ||android.com
 ||angularjs.org
@@ -1150,6 +1149,7 @@ guancha.org
 ||gzone-anime.info
 
 !----------------Google----------------
+||data-vocabulary.org
 ||g.co
 ||ggpht.com
 ||gmail.com
