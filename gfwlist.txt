@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: FoTK2wfpTaubHSMiJC9ZjQ
+! Checksum: sAFgcqZWV2h4pNIm8Y+2uA
 ! Expires: 6h
-! Last Modified: Thu, 26 Mar 2015 00:39:56 -0400
+! Last Modified: Thu, 26 Mar 2015 00:41:05 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1177,6 +1177,7 @@ guancha.org
 ||googlevideo.com
 ||groups.google.cn
 ||gvt0.com
+||html5rocks.com
 ||recaptcha.net
 |http://sipml5.org/
 
@@ -1310,8 +1311,6 @@ echofon.com
 !-||hogbaysoftware.com
 !-||blog.hotot.org
 !-||feeds.howstuffworks.com
-!-||slides.html5rocks.com
-!-||www.html5rocks.com
 !-||huhaitai.com
 !-||blog.humanrightsfirst.org
 !-I
