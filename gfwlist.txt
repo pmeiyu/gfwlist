@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: zRaxVF9QyHb8caLJ+GrWag
+! Checksum: CrNbCuhBahEMSBWbku4Opg
 ! Expires: 6h
-! Last Modified: Thu, 26 Mar 2015 00:22:03 -0400
+! Last Modified: Thu, 26 Mar 2015 00:31:18 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1175,6 +1175,7 @@ guancha.org
 ||googleusercontent.com
 ||googlevideo.com
 ||groups.google.cn
+||gvt0.com
 ||recaptcha.net
 |http://sipml5.org/
 
