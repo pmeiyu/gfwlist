@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jz8il/LNrv7Tq/CFcB39nQ
+! Checksum: Rma4KYnQXofpV2hcsC/pmQ
 ! Expires: 6h
-! Last Modified: Thu, 26 Mar 2015 00:54:27 -0400
+! Last Modified: Fri, 27 Mar 2015 09:03:33 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -877,8 +877,6 @@ fangeming.com
 .fanyue.info
 .farwestchina.com
 !--||fastly.net
-favorious.com
-||favorious.com
 en.favotter.net
 ||faststone.org
 favstar.fm
@@ -890,7 +888,7 @@ fb.me
 ||fbsbx.com
 fc2.com
 .fc2china.com
-shifeike.blog125.fc2blog.net
+fc2blog.net
 video.fdbox.com
 .fdc89.jp
 ||fourface.nodesnoop.com
@@ -1307,7 +1305,7 @@ echofon.com
 !-||govecn.org
 !-||gqueues.com
 !-||graphycalc.com
-!-||www.greasespot.net
+||greasespot.net
 !-||blog.growlforwindows.com
 !-H
 !-||hcm.com.tw
