@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Tnx810eEg4BSzN4IrNTQPg
+! Checksum: sYVGV30Wl6V+RpXEmHUz2w
 ! Expires: 6h
-! Last Modified: Fri, 27 Mar 2015 09:07:08 -0400
+! Last Modified: Fri, 27 Mar 2015 09:08:20 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3817,6 +3817,7 @@ wapedia.mobi/zhsimp
 .makzhou.warehouse333.com
 washeng.net
 ||watchmygf.net
+|http://wav.tv
 .wdf5.com
 .wearn.com
 ||wearn.com
