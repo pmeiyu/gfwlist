@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ePFgc9lPa4ahhZrkZC/9ig
+! Checksum: d5YFx+ykMgqOIGmtTLVXSQ
 ! Expires: 6h
-! Last Modified: Fri, 27 Mar 2015 09:14:34 -0400
+! Last Modified: Fri, 27 Mar 2015 09:16:48 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -622,6 +622,7 @@ cts.com.tw
 ||curvefish.com
 .culture.tw
 ||culture.tw
+.cw.com.tw
 forum.cyberctm.com/forum
 ||cyberghostvpn.com
 ||cynscribe.com
