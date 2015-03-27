@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: d5YFx+ykMgqOIGmtTLVXSQ
+! Checksum: xU46/3AU6OvNDGAUaVSfCA
 ! Expires: 6h
-! Last Modified: Fri, 27 Mar 2015 09:16:48 -0400
+! Last Modified: Fri, 27 Mar 2015 09:18:00 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -582,6 +582,7 @@ psiphon.civisec.org
 wiki.cnitter.com
 .cnn.com/video
 news.cnyes.com
+||cochina.co
 ||cochina.org
 .code1984.com/64
 ||codeshare.io
