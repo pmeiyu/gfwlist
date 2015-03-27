@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Rma4KYnQXofpV2hcsC/pmQ
+! Checksum: Tnx810eEg4BSzN4IrNTQPg
 ! Expires: 6h
-! Last Modified: Fri, 27 Mar 2015 09:03:33 -0400
+! Last Modified: Fri, 27 Mar 2015 09:07:08 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2872,6 +2872,7 @@ relaxbbs.com
 renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
+|http://certificate.revocationcheck.com
 subacme.rerouted.org
 !--cn.reuters.com
 .revleft.com
