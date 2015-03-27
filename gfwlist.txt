@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sYVGV30Wl6V+RpXEmHUz2w
+! Checksum: ePFgc9lPa4ahhZrkZC/9ig
 ! Expires: 6h
-! Last Modified: Fri, 27 Mar 2015 09:08:20 -0400
+! Last Modified: Fri, 27 Mar 2015 09:14:34 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -850,6 +850,7 @@ eyevio.jp
 /^https?:\/\/[^\/]+facebook\.com/
 @@||*v6.facebook.com
 ||connect.facebook.net
+||facebookquotes4u.com
 ||facesofnyfw.com
 ||faiththedog.info
 .fakku.net
