@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: J3vKA5QmhfdJGV2NAS0DcA
+! Checksum: OBF/RKl1tUq30m31rdMK6A
 ! Expires: 6h
-! Last Modified: Fri, 27 Mar 2015 09:52:38 -0400
+! Last Modified: Wed, 01 Apr 2015 04:44:00 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2608,7 +2608,7 @@ t.orzdream.com
 tui.orzdream.com
 ||orzistic.org
 ||osfoora.com
-m.oulove.org
+|http://www.osmdroid.net
 ||ourdearamy.com
 oursogo.com
 oursteps.com.au
