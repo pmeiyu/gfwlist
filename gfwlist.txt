@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /DZoe4trg4f1iE9tN4erJw
+! Checksum: g7F6Fn6U06Gjgdqa7cnxNw
 ! Expires: 6h
-! Last Modified: Wed, 01 Apr 2015 04:57:26 -0400
+! Last Modified: Wed, 01 Apr 2015 04:58:41 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1407,7 +1407,6 @@ echofon.com
 !-||rapid.pk
 !-||blog.reddit.com
 !-||blog.renanse.com
-!-||feeds.reuters.com
 !-||robertmao.com
 !-||www.romeo-foxtrot.com
 !-S
@@ -2881,12 +2880,12 @@ renminbao.com
 ||renyurenquan.org
 |http://certificate.revocationcheck.com
 subacme.rerouted.org
-!--cn.reuters.com
+.reuters.com
 .revleft.com
 retweetist.com
 ||retweetrank.com
-connectedchina.reuters.com
-|http://www.reuters.com/news/video
+!--connectedchina.reuters.com
+!--|http://www.reuters.com/news/video
 revver.com
 .rfa.org
 .rfachina.com
