@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: /NuT3GIBf7D9skKYf4Lypw
+! Checksum: 5FBIcmTv6P/cpwCZObt9Wg
 ! Expires: 6h
-! Last Modified: Wed, 01 Apr 2015 04:45:42 -0400
+! Last Modified: Wed, 01 Apr 2015 04:51:51 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2092,6 +2092,7 @@ isunaffairs.com
 isuntv.com
 itaboo.info
 ||itaboo.info
+download.ithome.com.tw
 ithelp.ithome.com.tw
 ||itshidden.com
 .itweet.net
