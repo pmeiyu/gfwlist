@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: OBF/RKl1tUq30m31rdMK6A
+! Checksum: /NuT3GIBf7D9skKYf4Lypw
 ! Expires: 6h
-! Last Modified: Wed, 01 Apr 2015 04:44:00 -0400
+! Last Modified: Wed, 01 Apr 2015 04:45:42 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -909,13 +909,14 @@ feer.com
 fflick.com
 fgmtv.net
 .fgmtv.org
-.filefactory.com/file
+!--.filefactory.com/file
 .files2me.com
 |http://files2me.com
 .fileserve.com/file
 fillthesquare.org
 ||finalion.jp
 findbook.tw
+.fingerdaily.com
 finler.net
 .fireofliberty.org
 ||fireofliberty.org
