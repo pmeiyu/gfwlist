@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: hP2Awj8IJsoc+JbMbFtyyA
+! Checksum: PHCPCgouBBu3B/NV/EXKew
 ! Expires: 6h
-! Last Modified: Mon, 06 Apr 2015 08:41:17 -0400
+! Last Modified: Mon, 06 Apr 2015 08:42:48 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1078,6 +1078,7 @@ geocities.jp
 .getchu.com
 ||getfoxyproxy.org
 .getfreedur.com
+||getgom.com
 .getlantern.org
 ||getlantern.org
 .getjetso.com/forum
