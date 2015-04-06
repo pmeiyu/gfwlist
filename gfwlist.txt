@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: G8FoUZ6E1qVvHpWtXaKUCA
+! Checksum: JQKjXNG1pbeDUqgScxU7Jg
 ! Expires: 6h
-! Last Modified: Mon, 06 Apr 2015 08:44:57 -0400
+! Last Modified: Mon, 06 Apr 2015 08:46:11 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2857,6 +2857,7 @@ opml.radiotime.com
 ||radiovaticana.org
 ||radiovncr.com
 ||raidcall.com.tw
+.raidtalk.com.tw
 rangzen.org
 |http://blog.ranxiang.com/
 ranyunfei.com
