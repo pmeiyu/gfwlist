@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: g/DTOcjpAasLLmghudbGgQ
+! Checksum: hP2Awj8IJsoc+JbMbFtyyA
 ! Expires: 6h
-! Last Modified: Mon, 06 Apr 2015 08:40:32 -0400
+! Last Modified: Mon, 06 Apr 2015 08:41:17 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1825,7 +1825,7 @@ greatfire.org
 greatfirewallofchina.org
 ||greatroc.tw
 ||gstatic.com
-.theguardian.co*
+!--.theguardian.co*
 guishan.org
 ||guishan.org
 ||gunsamerica.com
