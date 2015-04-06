@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: suqxuIBPLwPM7mY+BAEDRg
+! Checksum: 034oNoyAOjzPRSzUpMf3/A
 ! Expires: 6h
-! Last Modified: Mon, 06 Apr 2015 08:43:28 -0400
+! Last Modified: Mon, 06 Apr 2015 08:44:07 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -9,6 +9,7 @@
 
 !--------------------Restricted--------------------
 ||altrec.com
+||azubu.tv
 ||beeg.com
 ||darpa.mil
 !--||dmm.com
