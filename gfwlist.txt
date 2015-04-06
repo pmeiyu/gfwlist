@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: PHCPCgouBBu3B/NV/EXKew
+! Checksum: suqxuIBPLwPM7mY+BAEDRg
 ! Expires: 6h
-! Last Modified: Mon, 06 Apr 2015 08:42:48 -0400
+! Last Modified: Mon, 06 Apr 2015 08:43:28 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2283,6 +2283,7 @@ lsforum.net
 ||lsm.org
 ||lsmchinese.org
 ||lsmkorean.org
+.ltn.com.tw
 .lupm.org
 ||lupm.org
 ||lushstories.com
