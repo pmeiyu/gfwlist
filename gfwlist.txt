@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Mk9DjN3eb24P9JVcLE//5Q
+! Checksum: djwisl1+krm/LhuURZcemQ
 ! Expires: 6h
-! Last Modified: Wed, 01 Apr 2015 22:49:00 -0400
+! Last Modified: Mon, 06 Apr 2015 08:35:00 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3209,6 +3209,7 @@ blog.syx86.cn/2009/09/puff
 ||t88.ca
 .taa-usa.org
 |http://taa-usa.org
+|http://www.tablesgenerator.com/
 tabtter.jp
 .tacem.org
 ||tafaward.com
