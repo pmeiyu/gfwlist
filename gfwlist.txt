@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 034oNoyAOjzPRSzUpMf3/A
+! Checksum: G8FoUZ6E1qVvHpWtXaKUCA
 ! Expires: 6h
-! Last Modified: Mon, 06 Apr 2015 08:44:07 -0400
+! Last Modified: Mon, 06 Apr 2015 08:44:57 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1984,6 +1984,7 @@ t.huhaitai.com
 ||hutianyi.net
 hutong9.net
 ||hwinfo.com
+.hxwq.org
 ||hypeshell.com
 ||hyperrate.com
 
