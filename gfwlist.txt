@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LwPfcuTSIz79FATTRefBGQ
+! Checksum: KnmVqN4i0Mthj8bbltvGgg
 ! Expires: 6h
-! Last Modified: Tue, 07 Apr 2015 05:11:06 -0400
+! Last Modified: Tue, 07 Apr 2015 05:12:29 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2189,6 +2189,7 @@ killwall.com
 kun.im
 ||kurtmunger.com
 kusocity.com
+||kwcg.ca
 kwongwah.com.my
 kyohk.net
 .kzeng.info
