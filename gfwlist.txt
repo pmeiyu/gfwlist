@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: j3f+BvnH6mxyZS0ySyezmg
+! Checksum: 4sjzPLxZwMQOB/fkKe3OjQ
 ! Expires: 6h
-! Last Modified: Tue, 07 Apr 2015 05:23:08 -0400
+! Last Modified: Tue, 07 Apr 2015 05:24:02 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3742,8 +3742,9 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------------VV--------------------------
-|http://www.v2ex.com
+|http://cdn.v2ex.com
 |http://v2ex.com
+|http://www.v2ex.com
 v70.us
 |http://v7976888.info/
 ||vaayoo.com
