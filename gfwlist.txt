@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: Os9gRb2gPIGbDBa9e3Z0Mg
+! Checksum: 1vax+x/xz4BQGWWLrA91VA
 ! Expires: 6h
-! Last Modified: Mon, 06 Apr 2015 18:05:02 -0400
+! Last Modified: Tue, 07 Apr 2015 04:55:42 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2711,6 +2711,7 @@ blog.pilotmoon.com
 .ping.fm
 ||ping.fm/
 ||pinoy-n.com
+.piposay.com
 .piring.com
 ||pixelqi.com
 ||css.pixnet.in
