@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1vax+x/xz4BQGWWLrA91VA
+! Checksum: S6PZCp1HMa3m1mXvzFZ3KA
 ! Expires: 6h
-! Last Modified: Tue, 07 Apr 2015 04:55:42 -0400
+! Last Modified: Tue, 07 Apr 2015 04:58:27 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3370,6 +3370,7 @@ touch99.com
 ||transgressionism.org
 ||transparency.org
 ||travelinlocal.com
+||treemall.com.tw
 trendsmap.com
 ||trendsmap.com
 .trialofccp.org
