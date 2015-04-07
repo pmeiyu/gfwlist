@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: S6PZCp1HMa3m1mXvzFZ3KA
+! Checksum: 1unkZ8fAg134S/qHdh1bBA
 ! Expires: 6h
-! Last Modified: Tue, 07 Apr 2015 04:58:27 -0400
+! Last Modified: Tue, 07 Apr 2015 05:08:47 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -448,6 +448,7 @@ cdp1998.org
 ||cdp1998.org
 cdp2006.org
 ||cdp2006.org
+.cdpa.url.tw
 cdpusa.org
 cdpweb.org
 ||cdpweb.org
@@ -3509,7 +3510,6 @@ bbs.tuitui.info
 ||thehungrydudes.com
 ||tumblweed.org
 ||status.twhirl.org
-!-||status.twitter.com
 ||blog.usa.gov
 ||photo.utom.us
 ||v-state.org
@@ -3647,8 +3647,6 @@ twitthat.com
 ||twitturly.com
 .twitzap.com
 twiyia.com
-.twreg.info
-||twreg.info
 ||twstar.net
 
 .twtkr.com
@@ -3660,7 +3658,6 @@ twurl.nl
 ||twyac.org
 .tycool.com
 ||tycool.com
-tynsoe.org
 ||tzangms.com
 
 !--typepad
@@ -3669,10 +3666,8 @@ tynsoe.org
 @@||static.typepad.com
 ||blog.expofutures.com
 ||legaltech.law.com
-||www.loiclemeur.com
 ||latimesblogs.latimes.com
 ||blog.palm.com
-!-||blog.seesmic.com
 ||blogs.tampabay.com
 ||contests.twilio.com
 !-lawprofessors.typepad.com/china_law_prof
