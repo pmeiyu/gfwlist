@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 4sjzPLxZwMQOB/fkKe3OjQ
+! Checksum: sYENSqRtJqMty9+vC6m54Q
 ! Expires: 6h
-! Last Modified: Tue, 07 Apr 2015 05:24:02 -0400
+! Last Modified: Tue, 07 Apr 2015 05:51:08 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3588,6 +3588,7 @@ twipple.jp
 ||twipple.jp
 ||twip.me/
 twistar.cc
+||twister.net.co
 twisternow.com
 twistory.net
 twitbrowser.net
