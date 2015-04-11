@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: sYENSqRtJqMty9+vC6m54Q
+! Checksum: uQIhh9tnx/E8juwFO7Bc2g
 ! Expires: 6h
-! Last Modified: Tue, 07 Apr 2015 05:51:08 -0400
+! Last Modified: Sat, 11 Apr 2015 05:14:06 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -797,6 +797,7 @@ efcc.org.hk
 ||efmoe.com
 ||eic-av.com
 electionsmeter.com
+||elgoog.im
 ||elpais.com
 .eltondisney.com
 ||emacsblog.org
