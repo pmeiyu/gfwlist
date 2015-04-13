@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: f+5alQS3uMIBBtV2h/neIg
+! Checksum: PZlcCwPB04LseOQ2L+rLgw
 ! Expires: 6h
-! Last Modified: Sun, 12 Apr 2015 06:39:31 -0400
+! Last Modified: Mon, 13 Apr 2015 01:35:32 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1182,7 +1182,7 @@ guancha.org
 ||googlemail.com
 ||googleplus.com
 ||googlesource.com
-||googlesyndication.com
+!--||googlesyndication.com
 !--||googletagmanager.com
 !--||googletagservices.com
 ||googleusercontent.com
@@ -5138,7 +5138,6 @@ gov.tw
 !--@@||bing.com
 @@||chinaso.com
 @@||fonts.googleapis.com
-@@||pagead2.googlesyndication.com
 @@||csi.gstatic.com
 @@||fonts.gstatic.com
 @@||haosou.com
