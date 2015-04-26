@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5T4hE3JapuJLirRROgKDrg
+! Checksum: CuZ6ffvJ8YicRdN0CLEMgA
 ! Expires: 6h
-! Last Modified: Sat, 25 Apr 2015 23:13:03 -0400
+! Last Modified: Sat, 25 Apr 2015 23:18:10 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -619,6 +619,7 @@ csdparty.com
 ||csuchen.de
 .ctfriend.net
 cts.com.tw
+|http://library.usc.cuhk.edu.hk/Default.aspx?url=dflms%2fsub%2f%2f1%2fdict%2f50
 |http://mjlsh.usc.cuhk.edu.hk
 .cuhkacs.org/~benng
 .cuihua.org
