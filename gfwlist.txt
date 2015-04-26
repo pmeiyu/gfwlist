@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: kamsy/h19P08quIgMF+Hdg
+! Checksum: Y7xVHtkAl2kZanuXhepLeg
 ! Expires: 6h
-! Last Modified: Sun, 19 Apr 2015 23:36:17 -0400
+! Last Modified: Sat, 25 Apr 2015 23:10:10 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1845,6 +1845,7 @@ h1n1china.org
 hahlo.com
 ||hakkatv.org.tw
 .hanunyi.com
+|http://jp.hao123.com
 ||hardsextube.com
 ||hasaowall.com
 have8.com
