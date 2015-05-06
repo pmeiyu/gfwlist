@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: CuZ6ffvJ8YicRdN0CLEMgA
+! Checksum: ATkEkD/T0MV7OjrKAuwA6g
 ! Expires: 6h
-! Last Modified: Sat, 25 Apr 2015 23:18:10 -0400
+! Last Modified: Wed, 06 May 2015 01:05:48 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -691,6 +691,7 @@ delicious.com/GFWbookmark
 .diaoyuislands.org
 ||diaoyuislands.org
 static.digg.com
+digiland.tw/
 ||digitalnomadsproject.org
 .diigo.com
 ||diigo.com
@@ -2151,8 +2152,6 @@ jpopforum.net
 .junefourth-20.net
 ||junefourth-20.net
 justfreevpn.com
-!--.justin.tv
-zh-tw.justin.tv
 justtristan.com
 juziyue.com
 ||juziyue.com
