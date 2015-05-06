@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: WE60r5i6BTb6M7S5+ut07Q
+! Checksum: 5yt1JDxXB9emZXYCKpv3Ag
 ! Expires: 6h
-! Last Modified: Wed, 06 May 2015 01:14:40 -0400
+! Last Modified: Wed, 06 May 2015 01:18:01 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4021,6 +4021,7 @@ xanga.com
 ||xcafe.in
 x.xcity.jp
 .xcritic.com
+|http://cdn*.xda-developers.com
 destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
 xgmyd.com
