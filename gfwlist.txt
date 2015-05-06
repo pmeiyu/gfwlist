@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: ATkEkD/T0MV7OjrKAuwA6g
+! Checksum: WE60r5i6BTb6M7S5+ut07Q
 ! Expires: 6h
-! Last Modified: Wed, 06 May 2015 01:05:48 -0400
+! Last Modified: Wed, 06 May 2015 01:14:40 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -691,7 +691,7 @@ delicious.com/GFWbookmark
 .diaoyuislands.org
 ||diaoyuislands.org
 static.digg.com
-digiland.tw/
+|http://digiland.tw/
 ||digitalnomadsproject.org
 .diigo.com
 ||diigo.com
