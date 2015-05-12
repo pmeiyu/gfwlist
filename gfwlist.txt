@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: r+5T04jo2hatalhM1B04Xw
+! Checksum: x2YBUx750xTvRsFjrTyZzw
 ! Expires: 6h
-! Last Modified: Tue, 12 May 2015 06:33:28 -0400
+! Last Modified: Tue, 12 May 2015 06:42:23 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3202,6 +3202,7 @@ sun1911.com
 api.supertweet.net
 www.supertweet.net
 .surfeasy.com.au
+||surrenderat20.net
 ||svwind.com
 ||sweux.com
 ||swift-tools.net
