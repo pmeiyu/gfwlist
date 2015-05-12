@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: lUYvrO7tcj3Ai/dtqo5ceg
+! Checksum: A97LByu87MI5KzrVjXL4bA
 ! Expires: 6h
-! Last Modified: Tue, 12 May 2015 06:03:58 -0400
+! Last Modified: Tue, 12 May 2015 06:05:49 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1222,15 +1222,6 @@ guancha.org
 !--sshtunnel.googlecode.com
 !--tuite.googlecode.com
 !--gaeproxy.googlecode.com
-
-!-------------Google Docs-----
-!--docs.google.com/Doc?docid=0Ae9jWMoUhgV1ZHd0cjJ2NV81NGQ5MnI0d3E1
-!--docs.google.com/View?id=d8xbpp6_4hhpb2dfd
-!--docs.google.com/View?id=dds68dz_9cqgm8vgq
-!--docs.google.com*View*id*dg5mtmj9_8g3hk27f5
-!--docs.google.com*View*id*dg5mtmj9_3188x48zcn
-!--docs.google.com*dgtbmwd6_934gg99v6g4cc
-!--docs.google.com/View?id=dhh5gtxb_145nsxgctcc
 
 !-------------Google ghs-----
 !-||1024cores.net
