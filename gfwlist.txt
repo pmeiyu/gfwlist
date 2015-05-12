@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 5yt1JDxXB9emZXYCKpv3Ag
+! Checksum: AMrE9+Nz1+jZJNh8vPsx9g
 ! Expires: 6h
-! Last Modified: Wed, 06 May 2015 01:18:01 -0400
+! Last Modified: Tue, 12 May 2015 06:02:33 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2550,6 +2550,7 @@ nobodycanstop.us
 .nrk.no
 ||nrk.no
 ||nsc.gov.tw
+||ntd.tv
 ntdtv.co
 ntdtv.ca
 ntdtv.org
@@ -2768,6 +2769,7 @@ postadult.com
 ||pts.org.tw
 pubu.com.tw
 puffinbrowser.com
+||putty.org
 
 !-------------Posterous-----
 |http://post.ly
