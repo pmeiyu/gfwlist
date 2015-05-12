@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 8m1/wi85j4s5cmRQR95PCQ
+! Checksum: YrZtd6aAA145k6yAirTQNA
 ! Expires: 6h
-! Last Modified: Tue, 12 May 2015 08:50:12 -0400
+! Last Modified: Tue, 12 May 2015 08:52:11 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -2747,6 +2747,7 @@ popyard.com
 .porn.com
 .porn2.com
 .pornbase.org
+||pornhd.com
 .pornhub.com
 ||pornmm.net
 .pornoxo.com
