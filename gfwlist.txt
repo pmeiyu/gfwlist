@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 1KVJW1u/GpzJH3o83/yKgg
+! Checksum: Hjpuyn9IBltaig1ezKORQg
 ! Expires: 6h
-! Last Modified: Tue, 12 May 2015 06:22:52 -0400
+! Last Modified: Tue, 12 May 2015 06:28:33 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1193,6 +1193,7 @@ guancha.org
 ||googlevideo.com
 ||groups.google.cn
 ||gvt0.com
+||gvt1.com
 ||html5rocks.com
 ||panoramio.com
 ||recaptcha.net
