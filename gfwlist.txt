@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 05zxujgAmuxQK92rkJQiYw
+! Checksum: 8m1/wi85j4s5cmRQR95PCQ
 ! Expires: 6h
-! Last Modified: Tue, 12 May 2015 08:45:23 -0400
+! Last Modified: Tue, 12 May 2015 08:50:12 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4044,6 +4044,7 @@ xinhuanet.org
 xizang-zhiye.org
 xjp.cc
 ||xjp.cc
+||xlfmwz.info
 ||xml-training-guide.com
 xmovies.com
 ||xnxx.com
