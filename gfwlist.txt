@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LtWZczrOw7Bs5AAI8KWZMQ
+! Checksum: UW18uxUUWYwIUWj+ESbolQ
 ! Expires: 6h
-! Last Modified: Wed, 12 Aug 2015 00:21:00 -0400
+! Last Modified: Wed, 19 Aug 2015 22:44:03 -0400
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1237,7 +1237,8 @@ gigporno.ru
 ||girlbanker.com
 |http://softwaredownload.gitbooks.io/
 |https://gist.github.com
-|http://cthlo.github.io/hktv/
+|http://cthlo.github.io/hktv
+|http://wsgzao.github.io/post/gfw-break
 ||glennhilton.com
 globaljihad.net
 globalmuseumoncommunism.org
@@ -2210,7 +2211,7 @@ merit-times.com.tw
 ||meteorshowersonline.com
 |http://www.metro.taipei/
 ||metrolife.ca
-mgoon.com
+||mgoon.com
 ||mgstage.com
 mhradio.org
 |http://michaelanti.com
@@ -3391,6 +3392,7 @@ bbs.tuitui.info
 ||turningtorso.com
 ||tuxtraining.com
 |http://tuzaijidi.com
+|http://*.tuzaijidi.com
 .tw01.org
 |http://tw01.org
 
