@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: UW18uxUUWYwIUWj+ESbolQ
+! Checksum: qzHpPMliVD4RmeSQ7PPeiQ
 ! Expires: 6h
-! Last Modified: Wed, 19 Aug 2015 22:44:03 -0400
+! Last Modified: Tue, 08 Sep 2015 21:29:11 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -67,8 +67,10 @@ huluim.com
 ||0to255.com
 1-apple.com.tw
 ||1-apple.com.tw
+.1000giri.net
+||1000giri.net
 .10conditionsoflove.com
-||10musume.com
+||10musume.com1000giri.net
 123rf.com
 .12bet.com
 ||12bet.com
@@ -3208,6 +3210,7 @@ thefrontier.hk/tf
 .thehots.info
 thehousenews.com
 ||thehun.net
+||theinitium.com
 ||thelifeyoucansave.com
 .thenewslens.com
 thepiratebay.org
