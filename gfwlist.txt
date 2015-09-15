@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: qzHpPMliVD4RmeSQ7PPeiQ
+! Checksum: T1Bf53lctTMxJq/sh/Yo3w
 ! Expires: 6h
-! Last Modified: Tue, 08 Sep 2015 21:29:11 +0800
+! Last Modified: Tue, 15 Sep 2015 15:14:33 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -1349,25 +1349,6 @@ guancha.org
 .appspot.com
 ||appspot.com
 /^https?:\/\/[^\/]+appspot\.com/
-
-!--------------------Google Code--------------------
-!--code.google.com/p/gappproxy
-!--code.google.com/p/gaeproxy
-!--code.google.com/p/west-chamber-season-3
-!--code.google.com/p/icefox
-!--code.google.com/p/breakwall
-!--code.google.com/p/program-think/wiki/Software
-!--code.google.com/p/scholarzhang
-!--code.google.com/p/vforchrome/wiki/Start
-!--code.google.com/p/tuite
-!--code.google.com/p/twitese
-!--code.google.com/p/twip
-!--code.google.com/p/huhamhire-hosts
-!--goagent.googlecode.com
-!--gtap.googlecode.com
-!--sshtunnel.googlecode.com
-!--tuite.googlecode.com
-!--gaeproxy.googlecode.com
 
 !-------------Google ghs-----
 !-||1024cores.net
@@ -3080,6 +3061,8 @@ squarespace.com
 ||ssh91.com
 !--|http://cdn.sstatic.net/
 www.stackfile.com/freedur
+.stage64.hk
+||stage64.hk
 ||standupfortibet.org
 stanford.edu/group/falun
 usinfo.state.gov
@@ -3095,6 +3078,8 @@ sthoo.com
 stickeraction.com/sesawe
 ||stoneip.info
 ||storagenewsletter.com
+.storm.mg
+||storm.mg
 .stoptibetcrisis.net
 ||stoptibetcrisis.net
 ||storify.com
@@ -3511,6 +3496,7 @@ bbs.tuitui.info
 ||tv-intros.com
 tvants.com
 forum.tvb.com/
+news.tvb.com/list/world
 tvboxnow.com
 tvider.com
 ||tvunetworks.com
@@ -3732,6 +3718,7 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------------VV--------------------------
+||v2dn.com
 !--|http://cdn.v2ex.com
 !--|http://v2ex.com
 !--|http://www.v2ex.com
@@ -3789,6 +3776,8 @@ www.voy.com
 ||www.vpncup.com
 vpnbook.com
 vpnfire.com
+.vpnforgame.net
+||vpnforgame.net
 ||vpngate.jp
 .vpngate.net
 ||vpngate.net
