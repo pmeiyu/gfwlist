@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: T1Bf53lctTMxJq/sh/Yo3w
+! Checksum: Bk53DTyCMgc8eH6PXuk5yQ
 ! Expires: 6h
-! Last Modified: Tue, 15 Sep 2015 15:14:33 +0800
+! Last Modified: Wed, 16 Sep 2015 19:15:20 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -3061,6 +3061,7 @@ squarespace.com
 ||ssh91.com
 !--|http://cdn.sstatic.net/
 www.stackfile.com/freedur
+|http://stackoverflow.com/users/895245
 .stage64.hk
 ||stage64.hk
 ||standupfortibet.org
