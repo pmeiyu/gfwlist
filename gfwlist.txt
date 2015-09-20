@@ -1,11 +1,13 @@
 [AutoProxy 0.2.9]
-! Checksum: Bk53DTyCMgc8eH6PXuk5yQ
+! Checksum: LgYttTC5FOkYpN+WDTCGwQ
 ! Expires: 6h
-! Last Modified: Wed, 16 Sep 2015 19:15:20 +0800
+! Last Modified: Sun, 20 Sep 2015 21:41:23 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
 .lsxszzg.com
+
+!---------------Non-Latin characters---------------
 
 !------------Restricted & URL Redirects------------
 !--ehentai
@@ -70,7 +72,7 @@ huluim.com
 .1000giri.net
 ||1000giri.net
 .10conditionsoflove.com
-||10musume.com1000giri.net
+||10musume.com
 123rf.com
 .12bet.com
 ||12bet.com
@@ -668,6 +670,7 @@ news.cnyes.com
 ||cochina.co
 ||cochina.org
 .code1984.com/64
+|http://goagent.codeplex.com
 ||codeshare.io
 ||codeskulptor.org
 |http://tosh.comedycentral.com
@@ -878,6 +881,7 @@ xys.dxiong.com
 e-info.org.tw
 .e-traderland.net/board
 .e123.hk
+eastern-ark.com
 .eastturkestan.com
 |http://www.eastturkistan.net/
 .eastturkistan-gov.org
@@ -2689,7 +2693,7 @@ proxyroad.com
 prozz.net
 psblog.name
 ||psblog.name
-!--psiphon.ca
+||psiphon.ca
 .ptt.cc
 .puffstore.com
 ||pullfolio.com
@@ -3392,6 +3396,7 @@ bbs.tuitui.info
 !--@@||media.tumblr.com
 !--@@||static.tumblr.com
 !--@@||www.tumblr.com
+||fqrouter.tumblr.com
 ||301works.org
 ||365singles.com.ar
 ||all-that-is-interesting.com
