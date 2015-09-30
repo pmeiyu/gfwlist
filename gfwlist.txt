@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: LgYttTC5FOkYpN+WDTCGwQ
+! Checksum: xgPdKXjMoVE6S6uRE4+1Ng
 ! Expires: 6h
-! Last Modified: Sun, 20 Sep 2015 21:41:23 +0800
+! Last Modified: Wed, 30 Sep 2015 14:05:46 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -231,6 +231,7 @@ video.ap.org
 ||apiary.io
 .apigee.com
 ||apigee.com
+||appannie.com
 appledaily.com
 archive.is
 ||archive.org
@@ -942,6 +943,8 @@ erabaru.net
 etaiwannews.com
 ||etizer.org
 .ettoday.net
+.eu.org
+||eu.org
 .eulam.com
 eventful.com
 ||exblog.jp
@@ -1344,8 +1347,10 @@ guancha.org
 ||gvt0.com
 ||gvt1.com
 ||html5rocks.com
+||nic.google
 ||panoramio.com
 ||recaptcha.net
+||registry.google
 |http://sipml5.org/
 !--||www.google
 
@@ -3984,6 +3989,7 @@ wzyboy.im/post/160
 
 !--------------------------XX--------------------------
 .x-berry.com
+||x-berry.com
 ||x-art.com
 ||x-wall.org
 x1949x.com
