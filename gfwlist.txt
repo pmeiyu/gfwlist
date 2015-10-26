@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: xgPdKXjMoVE6S6uRE4+1Ng
+! Checksum: C/4nS09GgoU4sQYiAf/qJg
 ! Expires: 6h
-! Last Modified: Wed, 30 Sep 2015 14:05:46 +0800
+! Last Modified: Mon, 26 Oct 2015 18:03:26 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -4084,6 +4084,7 @@ yegle.net
 ||yes123.com.tw
 ||yesasia.com
 ||yesasia.com.hk
+||yecl.net
 !--yfrog.com
 ||yhcw.net
 .yi.org
@@ -4095,6 +4096,7 @@ yilubbs.com
 xa.yimg.com
 .yipub.com
 ||yipub.com
+yinlei.org/mt
 .yogichen.org
 ||yogichen.org
 yong.hu
