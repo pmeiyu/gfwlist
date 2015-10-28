@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: C/4nS09GgoU4sQYiAf/qJg
+! Checksum: f2QfbrrkQkH9Q12Z5N+r7A
 ! Expires: 6h
-! Last Modified: Mon, 26 Oct 2015 18:03:26 +0800
+! Last Modified: Wed, 28 Oct 2015 16:35:34 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -48,6 +48,7 @@ huluim.com
 ||pure18.com
 ||qq.co.za
 |http://radiko.jp
+||rd.com
 ||rdio.com
 |http://cdn*.search.xxx/
 ||slacker.com
@@ -224,6 +225,7 @@ video.aol.ca/video-detail
 video.aol.co.uk/video-detail
 video.aol.com
 ||video.aol.com
+||search.aol.com
 www.aolnews.com
 ||aomiwang.com
 video.ap.org
@@ -1322,7 +1324,7 @@ guancha.org
 ||gmodules.com
 ||goo.gl
 /^https?:\/\/[^\/]+google\.(.*)/
-||google-analytics.com
+!--||google-analytics.com
 !--||googleadservices.com
 ||googleapis.com
 ||googleartproject.com
@@ -1342,13 +1344,14 @@ guancha.org
 !--||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
-||proxy.googlezip.net
+||googlezip.net
 ||groups.google.cn
 ||gvt0.com
 ||gvt1.com
 ||html5rocks.com
 ||nic.google
 ||panoramio.com
+||polymer-project.org
 ||recaptcha.net
 ||registry.google
 |http://sipml5.org/
@@ -2074,6 +2077,8 @@ blog.lester850.info
 ||lesoir.be
 letscorp.net
 ||letscorp.net
+.liangyou.net
+||liangyou.net
 liansi.org
 .lianyue.net
 ||liaowangxizang.net
@@ -3973,6 +3978,8 @@ wrchina.org
 wretch.cc
 !-cn.wsj.com/gb/20130215/tec113853.asp
 .wsj.com
+||wsj.com
+.wsjhk.com
 .wsj.net
 .wtfpeople.com
 .wuala.com
@@ -4398,6 +4405,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@||baidu.com
 !--@@||bing.com
 @@||chinaso.com
+@@||dl.google.com
 @@||fonts.googleapis.com
 @@||csi.gstatic.com
 @@||fonts.gstatic.com
