@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: f2QfbrrkQkH9Q12Z5N+r7A
+! Checksum: xOPgRIvCwVgiqxeJKoJCHA
 ! Expires: 6h
-! Last Modified: Wed, 28 Oct 2015 16:35:34 +0800
+! Last Modified: Fri, 13 Nov 2015 16:21:37 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud------------------------
@@ -444,11 +444,12 @@ brucewang.net
 |http://static*.businessinsider.com/
 .businessweek.com
 !--businesstimes
-.businesstimes.com.cn
-|http://businesstimes.com.cn
+!-.businesstimes.com.cn
+!-|http://businesstimes.com.cn
 ||bugclub.org
 ||buugaa.com
 .buzzhand.com
+.buzzhand.net
 buzzurl.jp
 bwsj.hk
 ||bx.tl
@@ -604,6 +605,7 @@ chinasocialdemocraticparty.com
 chinasoul.org
 ||chinasoul.org
 chinatimes.com
+||chinatopsex.com
 chinatweeps.com
 chinaway.org
 .chinaworker.info
@@ -1315,6 +1317,7 @@ guancha.org
 !----------------Google----------------
 ||abc.xyz
 ||agoogleaday.com
+||androidify.com
 ||chromeexperiments.com
 ||chromercise.com
 ||data-vocabulary.org
@@ -2189,6 +2192,7 @@ mcfog.com
 .md-t.org
 ||md-t.org
 .mediafire.com/?
+.mediafire.com/download
 ||meetup.com
 mefeedia.com
 .megaporn.com
@@ -2433,6 +2437,7 @@ nuzcom.com
 .nydus.ca
 ||nyt.com
 ||nytco.com
+|http://nyti.ms/
 .nytimes.com
 ||nytimes.com
 ||nytimg.com
@@ -2571,6 +2576,7 @@ peacehall.com
 .peeasian.com
 .pekingduck.org
 ||pekingduck.org
+||pen.io
 penchinese.com
 ||penchinese.net
 .penchinese.net
@@ -2616,6 +2622,7 @@ plunder.com
 .plusbb.com
 .pmates.com
 ||po2b.com
+||pocoo.org
 ||podictionary.com
 .pokerstars.com
 ||pokerstars.com
