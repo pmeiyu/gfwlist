@@ -1,10 +1,13 @@
 [AutoProxy 0.2.9]
-! Checksum: xOPgRIvCwVgiqxeJKoJCHA
+! Checksum: jmTLILAICdl3thNdOYuiMA
 ! Expires: 6h
-! Last Modified: Fri, 13 Nov 2015 16:21:37 +0800
+! Last Modified: Fri, 04 Dec 2015 10:55:35 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
-!---------------------Fraud------------------------
+!---------------------Fraud/Scam-------------------
+china-mmm.jp.net
+.china-mmm.net
+||china-mmm.net
 .lsxszzg.com
 
 !---------------Non-Latin characters---------------
@@ -136,6 +139,8 @@ taiwannation.50webs.com
 .92ccav.com
 ||9bis.com
 ||9bis.net
+.99btgc01.com
+||99btgc01.com
 
 !--------------------AA--------------------
 .tibet.a.se
@@ -343,7 +348,6 @@ bigfools.com
 .bignews.org
 ||bignews.org
 .bigsound.org/portnoy
-||bill2-software.com
 |http://billypan.com/wiki
 ||billywr.com
 bipic.net
@@ -654,6 +658,7 @@ psiphon.civisec.org
 !--||cjb.net
 .ck101.com
 ||ck101.com
+.clarionproject.org/news/islamic-state-isis-isil-propaganda
 ||classicalguitarblog.net
 .clb.org.hk
 clearharmony.net
@@ -2591,6 +2596,7 @@ perfectvpn.net
 .persecutionblog.com
 phayul.com
 philly.com
+||phncdn.com
 ||photodharma.net
 ||photofocus.com
 ||phuquocservices.com
@@ -2752,6 +2758,8 @@ nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
 
 !--------------------RR--------------------
+.ra.gg
+|http://ra.gg/
 .radicalparty.org
 radioaustralia.net.au
 .radiohilight.net
@@ -2773,6 +2781,10 @@ ranyunfei.com
 !-|http://rapidshare.com
 ||rapidshare8.com
 .rapidsharedata.com
+.raremovie.cc
+|http://raremovie.cc
+.raremovie.net
+|http://raremovie.net
 !--.rayfme.com/bbs
 rcinet.ca
 .read100.com
@@ -2918,6 +2930,7 @@ sexinsex.net
 .sftuk.org
 ||sftuk.org
 shadow.ma
+.shadowsocks.org
 ||shadowsocks.org
 shahamat-english.com
 .shangfang.org
@@ -2933,8 +2946,7 @@ sharpdaily.com.hk
 .shaunthesheep.com
 ||shaunthesheep.com
 sheikyermami.com
-||shellmix.com
-shenshou.org
+.shenshou.org
 shenyun.com
 shenyunperformingarts.org
 shenzhoufilm.com
@@ -3008,9 +3020,18 @@ m.slandr.net
 ||slheng.com
 .slideshare.net
 forum.slime.com.tw
+.slinkset.com
+||slickvpn.com
 .slutload.com
 smhric.org
+!--TODO-no-homepage
+||snapchat.com
+.snaptu.com
+||snaptu.com
 ||sndcdn.com
+sneakme.net
+||snooper.co.uk
+snowlionpub.com
 ||so-ga.net
 .so-ga.net
 ||so-news.com
@@ -3032,14 +3053,6 @@ sohcradio.com
 .soumo.info
 ||soup.io/
 @@||static.soup.io
-.slinkset.com
-||slickvpn.com
-||snapchat.com
-.snaptu.com
-||snaptu.com
-sneakme.net
-||snooper.co.uk
-snowlionpub.com
 .sobees.com
 ||sobees.com
 socialwhale.com
@@ -3075,6 +3088,7 @@ sowers.org.hk
 ||spankbang.com
 .spankwire.com
 ||spb.com
+||speakerdeck.com
 ||spencertipping.com
 spinejs.com
 ||sproutcore.com
@@ -3122,6 +3136,8 @@ summify.com
 sun1911.com
 .sunporno.com
 ||sunporno.com
+.surfeasy.com
+||surfeasy.com
 .suyangg.com
 |http://suyangg.com/
 .suoluo.org
@@ -3309,6 +3325,7 @@ tibetsites.com
 .time.com/time/specials/packages/article/0,28804
 .time.com/time/magazine
 ||blog.tiney.com
+|http://tiny.cc
 tinychat.com
 ||tinypaste.com
 .tistory.com
@@ -3369,7 +3386,7 @@ trulyergonomic.com
 .truveo.com
 .tsemtulku.com
 tsquare.tv
-|http://www.tsu.org.tw
+.tsu.org.tw
 tsunagarumon.com
 |http://www.tsuru-bird.net/
 .tsctv.net
@@ -3414,104 +3431,6 @@ bbs.tuitui.info
 !--@@||static.tumblr.com
 !--@@||www.tumblr.com
 ||fqrouter.tumblr.com
-||301works.org
-||365singles.com.ar
-||all-that-is-interesting.com
-||art-or-porn.com
-||news.atebits.com
-||tumblr.awflasher.com
-||badassjs.com
-||basetimesheightdividedby2.com
-||benjaminste.in
-||blog.birdhouseapp.com
-||bobulate.com
-||bonjourlesgeeks.com
-||bookshelfporn.com
-||blog.boxcar.io
-||blog.bitly.com
-||chevronwp7.com
-||clientsfromhell.net
-||codeboxapp.com
-||cookingtothegoodlife.com
-||cubicle17.com
-||photos.dailyme.com
-||davidslog.com
-||blog.davidziegler.net
-||blog.dayoneapp.com
-||drewolanoff.com
-||blog.dribbble.com
-||chaos.e-spacy.com
-||eamonnbrennan.com
-||everyday-carry.com
-||eyespirit.info
-||life.fly4ever.me
-||fredwilson.vc
-||fuckgfw.com
-||geekmade.co.uk
-||generesis.com
-||news.ghostery.com
-||givemesomethingtoread.com
-||blog.gowalla.com
-||heiyo.info
-||hellonewyork.us
-||blog.hotpotato.com
-||ialmostlaugh.com
-||blog.ifttt.com
-||blog.instagram.com
-||blog.instapaper.com
-||interestinglaugh.com
-||blog.iphone-dev.org
-||jayparkinsonmd.com
-||blog.joeyrobert.org
-||kt.kcome.org
-||my.keso.cn
-||blog.kickstarter.com
-||blog.kl.am
-||blog.klip.me
-||t.kun.im
-||blog.lightbox.com
-||littlebigdetails.com
-||lovequicksilver.com
-||lyricsquote.com
-||madmenunbuttoned.com
-||marco.org
-||minimalmac.com
-||mixedmedialabs.com
-||modfetish.com
-||blog.mongodb.org
-||navigeaters.com
-||london.neighborhoodr.com
-||blog.path.com
-||parislemon.com
-||blog.pikchur.com
-||blog.rockmelt.com
-||blog.romanandreg.com
-||solozorro.tk
-||blog.sparrowmailapp.com
-||stuffimreading.com
-||blog.summify.com
-||thedailywh.at
-||theinternetwishlist.com
-||thisiswhyyouarefat.com
-||www.tiffanyarment.com
-||tjholowaychuk.com
-||tomsc.com
-||blog.topify.com
-||thehungrydudes.com
-||tumblweed.org
-||status.twhirl.org
-||blog.usa.gov
-||photo.utom.us
-||v-state.org
-||wellplacedpixels.com
-||whydidyoubuymethat.com
-||wordboner.com
-||wordsandturds.com
-||worstthingieverate.com
-||xmusic.fm
-||xuzhuoer.com
-||bd.zhe.la
-||cocoa.zonble.net
 
 .tv.com
 ||www.tv.com
@@ -3776,6 +3695,8 @@ vimeo.com
 |http://www.lib.virginia.edu/area-studies/Tibet/tibet.html
 |http://ny.visiontimes.com/
 .vivatube.com
+.vivthomas.com
+||vivthomas.com
 .vjmedia.com.hk
 .vllcs.org
 ||vmixcore.com
@@ -4411,6 +4332,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@||aliyun.com
 @@||baidu.com
 !--@@||bing.com
+@@||bt.byr.cn
 @@||chinaso.com
 @@||dl.google.com
 @@||fonts.googleapis.com
@@ -4425,6 +4347,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@|http://translate.google.cn
 @@|http://www.google.cn/maps
 @@||http2.golang.org
+@@||bt.neu6.edu.cn
 @@||qq.com
 @@||sina.cn
 @@||sina.com.cn
