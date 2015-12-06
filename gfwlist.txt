@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: jmTLILAICdl3thNdOYuiMA
+! Checksum: /vaynJYfMBQVG5HC02dFmQ
 ! Expires: 6h
-! Last Modified: Fri, 04 Dec 2015 10:55:35 +0800
+! Last Modified: Sun, 06 Dec 2015 17:30:10 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !---------------------Fraud/Scam-------------------
@@ -23,6 +23,7 @@ china-mmm.jp.net
 ||beeg.com
 ||boysmaster.com
 ||darpa.mil
+||desipro.de
 |http://img.dlsite.jp/
 ||dmm.co.jp
 !--||dmm.com
@@ -608,6 +609,7 @@ chinasocialdemocraticparty.com
 ||chinasocialdemocraticparty.com
 chinasoul.org
 ||chinasoul.org
+.chinasucks.net
 chinatimes.com
 ||chinatopsex.com
 chinatweeps.com
@@ -891,6 +893,7 @@ xys.dxiong.com
 e-info.org.tw
 .e-traderland.net/board
 .e123.hk
+||earthcam.com
 eastern-ark.com
 .eastturkestan.com
 |http://www.eastturkistan.net/
@@ -1364,6 +1367,8 @@ guancha.org
 ||registry.google
 |http://sipml5.org/
 !--||www.google
+!--Youtube CDN
+||ytimg.com
 
 !------------Google App Engine/Appspot-------
 .appspot.com
@@ -1933,7 +1938,7 @@ forum.iset.com.tw
 .islam.org.hk
 .islamicity.com
 .isaacmao.com
-||!--isaacmao.com
+||isaacmao.com
 ||isgreat.org
 ||ismaelan.com
 ||ismprofessional.net
@@ -1986,6 +1991,7 @@ jingpin.org
 ac.jiruan.net
 ||jitouch.com
 jkforum.net
+||jma.go.jp
 research.jmsc.hku.hk/social
 ||joachims.org
 ||jobso.tv
@@ -2164,6 +2170,7 @@ lvhai.org
 ||lvhai.org
 
 !--------------------MM--------------------
+forum.m-team.cc/forum
 ||mh4u.org
 m-team.cc/forum
 www.macrovpn.com
@@ -2346,7 +2353,7 @@ nanyang.com
 .naol.ca
 cyberghost.natado.com
 ||national-lottery.co.uk
-||navy.mil
+||usno.navy.mil
 nccwatch.org.tw
 .nch.com.tw
 .ncn.org
@@ -2985,7 +2992,7 @@ news.sina.com.tw
 singtao.com
 ||singtao.com
 news.singtao.ca
-||cdp.sinica.edu.tw
+!--||cdp.sinica.edu.tw
 sino-monthly.com
 ||sinocast.com
 sinocism.com
@@ -3071,7 +3078,7 @@ sokamonline.com
 .sonidodelaesperanza.org
 .sopcast.com
 .sopcast.org
-|http://bbs.soul-plus.net
+.soul-plus.net
 ||soundcloud.com
 !--|https://soundcloud.com/punkgod
 .soundofhope.kr
@@ -3104,6 +3111,7 @@ stanford.edu/group/falun
 usinfo.state.gov
 .starp2p.com
 ||starp2p.com
+.startpage.com
 ||startpage.com
 .state168.com
 ||steel-storm.com
@@ -3233,6 +3241,7 @@ thefrontier.hk/tf
 .thehots.info
 thehousenews.com
 ||thehun.net
+.theinitium.com
 ||theinitium.com
 ||thelifeyoucansave.com
 .thenewslens.com
@@ -3325,6 +3334,7 @@ tibetsites.com
 .time.com/time/specials/packages/article/0,28804
 .time.com/time/magazine
 ||blog.tiney.com
+.tiny.cc
 |http://tiny.cc
 tinychat.com
 ||tinypaste.com
@@ -3342,6 +3352,7 @@ togetter.com
 .tokyo-247.com
 tokyo-hot.com
 ||tokyocn.com
+tw.tomonews.net
 .tono-oka.jp
 tonyyan.net
 .toodoc.com
@@ -3826,9 +3837,6 @@ zh.uncyclopedia.wikia.com
 ||collateralmurder.org
 wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wikimapia.org
-||secure.wikimedia.org
-||wikimedia.org.mo
-zh.wikinews.org
 ||wikiwiki.jp
 ||sports.williamhill.com
 ||willw.net
@@ -4066,8 +4074,6 @@ topic.youthwant.com.tw
 youversion.com
 ||youversion.com
 blog.youxu.info/2010/03/14/west-chamber
-!-Youtube CDN
-||ytimg.com
 ytht.net
 yuanming.net
 ||yunchao.net
@@ -4087,7 +4093,7 @@ zacebook.com
 www.zaurus.org.uk
 .zdnet.com.tw/news/software/0,2000085678,20111187,00
 .zengjinyan.org
-||zeutch.com
+!--||zeutch.com
 www.zfreet.com/post/usejump-browns.html
 zgzcjj.net
 .zhanbin.net
@@ -4225,12 +4231,57 @@ search*%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B
 !--Zhong Xuan Bu
 search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 
-!-------------Wikipedia----------------
-|https://upload.wikimedia.org
+!-------------Wikipedia Related-------------
+!---Emergency need only(IP/Port block usage)---
+!------0------
+!--||mediawiki.org
+!--@@||m.mediawiki.org
+!------1------
+!--||wikidata.org
+!--@@||m.wikidata.org
+!------2------
+!--||wikimedia.org
+!--@@||lists.wikimedia.org
+!--@@||m.wikimedia.org
+!--@@||phabricator.wikimedia.org
+!--@@||upload.wikimedia.org
+!--@@||wikitech.wikimedia.org
+!------3------
+!--||wikibooks.org
+!--@@||m.wikibooks.org
+!------4------
+!--||wikiversity.org
+!--@@||m.wikiversity.org
+!------5------
+!--||wikisource.org
+!--@@||m.wikisource.org
+zh.wikisource.org
+!------6------
+!--||wikiquote.org
+!--@@||m.wikiquote.org
+!------7------
+!--||wikinews.org
+!--@@||m.wikinews.org
+zh.wikinews.org
+!------8------
+!--||wikivoyage.org
+!--@@||m.wikivoyage.org
+zh.wikivoyage.org
+!------9------
+!--||wiktionary.org
+!--@@||m.wiktionary.org
+zh.wiktionary.org
+!-----10------
+!--||wikimediafoundation.org
+!--@@||m.wikimediafoundation.org
+!----Main-----
+!--||wikipedia.org
 zh.wikipedia.org
-|https://zh.wikipedia.org
+!--||zh.wikipedia.org
 zh.m.wikipedia.org
 |https://zh.m.wikipedia.org
+!--@@||m.wikipedia.org
+|https://zh.wikipedia.org
 
 !---------------Other Wikis---------------
 !--Tu Po Wang Luo Shen Cha--Wikibooks
