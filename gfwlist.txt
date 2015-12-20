@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: /vaynJYfMBQVG5HC02dFmQ
+! Checksum: 7Kef/ZbUsMfIQnK3rDwrSg
 ! Expires: 6h
-! Last Modified: Sun, 06 Dec 2015 17:30:10 +0800
-! HomePage: https://autoproxy-gfwlist.googlecode.com/
+! Last Modified: Sun, 20 Dec 2015 11:16:12 +0800
+! HomePage: https://github.com/gfwlist/gfwlist
 
 !---------------------Fraud/Scam-------------------
 china-mmm.jp.net
@@ -58,6 +58,7 @@ huluim.com
 ||slacker.com
 ||spotify.com
 ||springboardplatform.com
+||switch1.jp
 ||target.com
 ||turntable.fm
 ||twerkingbutt.com
@@ -134,6 +135,8 @@ taiwannation.50webs.com
 ||881903.com
 89-64.org
 ||89-64.org
+.8z1.net
+||8z1.net
 .9001700.com
 |http://908taiwan.org/
 |http://91porn.com
@@ -275,7 +278,7 @@ atgfw.org
 ||atnext.com
 avaaz.org
 ||avaaz.org
-||avast.com
+!--||avast.com
 .avdb.in
 ||avdb.in
 .avdb.tv
@@ -485,6 +488,8 @@ canadameet.com
 .cao.im
 .caobian.info
 ||caobian.info
+.cap.org.hk
+||cap.org.hk
 cardinalkungfoundation.org
 .casatibet.org.mx
 caochangqing.com
@@ -579,6 +584,8 @@ chinachannel.hk
 ||chinachannel.hk
 .chinadigitaltimes.net
 ||chinadigitaltimes.net
+.chinaelections.org
+||chinaelections.org
 .chinaeweekly.com
 ||chinaeweekly.com
 ||chinafreepress.org
@@ -788,8 +795,8 @@ delicious.com/GFWbookmark
 ||desc.se/
 .destroy-china.jp
 ||deutsche-welle.de
-||deviantart.com
-||deviantart.net
+!--||deviantart.com
+!--||deviantart.net
 ||devio.us
 ||devpn.com
 |http://www.dfanning.com
@@ -805,7 +812,9 @@ static.digg.com
 ||furl.net
 .dipity.com
 ||directcreative.com
-|http://www.discogs.com/
+||discogs.com
+@@||cdn.discogs.com
+
 .discuss.com.hk
 ||discuss.com.hk
 disp.cc
@@ -955,6 +964,7 @@ erabaru.net
 etaiwannews.com
 ||etizer.org
 .ettoday.net
+etvonline.hk
 .eu.org
 ||eu.org
 .eulam.com
@@ -962,6 +972,8 @@ eventful.com
 ||exblog.jp
 ||blog.exblog.co.jp
 @@||www.exblog.jp
+.exchristian.hk
+||exchristian.hk
 |http://blog.excite.co.jp/
 ||expatshield.com
 ||exploader.net
@@ -1299,7 +1311,7 @@ gongminliliang.com
 ||gotw.ca/
 grandtrial.org
 ||graphis.ne.jp
-||gravatar.com
+||s.gravatar.com
 greatfirewall.biz
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
@@ -2033,6 +2045,7 @@ wiki.keso.cn/Home
 .khabdha.org
 .khmusic.com.tw
 bbs.kimy.com.tw
+||kindleren.com
 .kingdomsalvation.org
 kinghost.com
 .kingstone.com.tw
@@ -2343,7 +2356,7 @@ nanyang.com
 ||nanyang.com
 .nanyangpost.com
 ||nanyangpost.com
-.nanzao.com
+.nanzao.com/sc/hk-macau-tw
 ||jpl.nasa.gov
 ||pds.nasa.gov
 /^https?:\/\/[^\/]+line\.naver\.jp/
@@ -2945,13 +2958,12 @@ shahamat-english.com
 shapeservices.com
 .sharebee.com
 ||sharecool.org
-||sharkdolphin.com
+!--||sharkdolphin.com
 sharpdaily.com.hk
 ||sharpdaily.com.hk
 .sharpdaily.hk
+.sharpdaily.tw
 .shat-tibet.com
-.shaunthesheep.com
-||shaunthesheep.com
 sheikyermami.com
 .shenshou.org
 shenyun.com
@@ -3099,6 +3111,7 @@ sowers.org.hk
 ||spencertipping.com
 spinejs.com
 ||sproutcore.com
+||sproxy.info
 squarespace.com
 ||ssh91.com
 !--|http://cdn.sstatic.net/
@@ -3791,6 +3804,7 @@ webworkerdaily.com
 weiboleak.com
 weijingsheng.org
 .weiming.info
+||weiming.info
 weiquanwang.org
 |http://weisuo.ws
 .wemigrate.org
@@ -3959,6 +3973,7 @@ s.xiaod.in
 ||xiaoma.org
 ||xiaohexie.com
 xiezhua.com
+forum.xinbao.de/forum
 .xing.com
 ||xing.com
 .xinmiao.com.hk
