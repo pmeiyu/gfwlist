@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: 7Kef/ZbUsMfIQnK3rDwrSg
+! Checksum: MAmFYcMPjpIq0DkGi7c70Q
 ! Expires: 6h
-! Last Modified: Sun, 20 Dec 2015 11:16:12 +0800
+! Last Modified: Thu, 31 Dec 2015 16:39:03 +0800
 ! HomePage: https://github.com/gfwlist/gfwlist
 
 !---------------------Fraud/Scam-------------------
@@ -11,6 +11,7 @@ china-mmm.jp.net
 .lsxszzg.com
 
 !---------------Non-Latin characters---------------
+||xn--4gq171p.com
 
 !------------Restricted & URL Redirects------------
 !--ehentai
@@ -22,6 +23,7 @@ china-mmm.jp.net
 ||azubu.tv
 ||beeg.com
 ||boysmaster.com
+||daftpunk.com
 ||darpa.mil
 ||desipro.de
 |http://img.dlsite.jp/
@@ -30,7 +32,10 @@ china-mmm.jp.net
 ||fastpic.ru
 ||flipboard.com
 ||fxnetworks.com
+||gettyimages.com
 ||getuploader.com
+||hmvdigital.ca
+||hmvdigital.com
 hulu.com
 huluim.com
 ||hybrid-analysis.com
@@ -441,6 +446,8 @@ broadbook.com
 brucewang.net
 ||bt95.com
 |http://btdigg.org
+.btku.me
+||btku.me
 .btspread.com
 .budaedu.org
 ||budaedu.org
@@ -475,6 +482,7 @@ holz.byethost8.com
 .calameo.com/books
 cn.calameo.com
 |http://cn.calameo.com
+falun.caltech.edu
 .its.caltech.edu/~falun/
 .cam4.com
 .cam4.jp
@@ -562,6 +570,7 @@ chengmingmag.com
 chenpokong.com
 ||cherrysave.com
 .chhongbi.org
+chicagoncmtv.com
 |http://chicagoncmtv.com
 .china-week.com
 china101.com
@@ -611,7 +620,10 @@ chinalawandpolicy.com
 .chinamule.com
 ||chinamule.com
 chinamz.org
+.chinapress.com.my
+||chinapress.com.my
 .chinarightsia.org
+chinasmile.net/forums
 chinasocialdemocraticparty.com
 ||chinasocialdemocraticparty.com
 chinasoul.org
@@ -629,6 +641,8 @@ chinayuanmin.org
 .chinese-hermit.net
 chinese-memorial.org
 ||chinesedailynews.com
+.chinesedemocracy.com
+||chinesedemocracy.com
 .chinesen.de
 ||chinesen.de
 .chinesepen.org
@@ -696,6 +710,8 @@ news.cnyes.com
 comefromchina.com
 ||comefromchina.com
 ||commentshk.com
+.communistcrimes.org
+||communistcrimes.org
 ||compileheart.com
 ||conoyo.com
 .contactmagazine.net
@@ -1010,6 +1026,7 @@ falundafa-dc.org
 ||falundafa-florida.org
 ||falundafa-nc.org
 falun-ny.net
+||falundafaindia.org
 falundafamuseum.org
 falungong.org.uk
 ||falunhr.org
@@ -1138,6 +1155,8 @@ kineox.free.fr
 ||freealim.com
 whitebear.freebearblog.org
 .freechal.com
+.freedomchina.info
+||freedomchina.info
 .freedomhouse.org
 ||freedomhouse.org
 .freegao.com
@@ -1228,6 +1247,7 @@ gardennetworks.com
 72.52.81.22
 ||gartlive.com
 ||gather.com
+.gaycn.net
 ||gaymap.cc
 .gaytube.com
 .gazotube.com
@@ -1247,7 +1267,6 @@ hk.geocities.com
 geocities.jp
 ||geohot.com
 ||geometrictools.com
-||get-digital-help.com
 .getchu.com
 ||getfoxyproxy.org
 .getfreedur.com
@@ -1388,32 +1407,7 @@ guancha.org
 /^https?:\/\/[^\/]+appspot\.com/
 
 !-------------Google ghs-----
-!-||1024cores.net
-!-||www.20thingsilearned.com
-!-||www.3dtin.com
-!-A
-!-||abelhadigital.com
-!-||blog.aegisub.org
-!-||android-x86.org
-!-||chrome.angrybirds.com
-!-||appbrain.com
-!-||my.architexa.com
-!-||feeds.arstechnica.com
-!-||blog.athico.com
-!-||aurorasoftworks.com
-!-B
-!-||www.benjamingolub.com
-!-||rss.berryreview.com
-!-||docs.blacktree.com
-!-||secrets.blacktree.com
-!-||www.blacktree.com
-!-||feeds.boingboing.net
-!-||moblog.bradleyit.com
-!-||www.buddyrunner.com
-!-||buzzcantweet.com
-!-C
 !-||feeds.cbsnews.com
-chinaaid.net
 !-||www.chinesealbumart.com
 !-||chromeexperiments.com
 !-||www.clementine-player.org
@@ -1776,6 +1770,7 @@ hkday.net
 .hkej.com
 .hkepc.com/forum/viewthread.php?tid=1153322
 global.hkepc.com*forum
+china.hket.com
 hkfront.org
 hkgolden.com
 .hkgreenradio.org/home
@@ -1788,6 +1783,8 @@ hkptu.org
 .hkreporter.com
 ||hkreporter.com
 |http://hkupop.hku.hk/
+.hkusu.net
+||hkusu.net
 .hkwcc.org.hk
 ||hkzone.org
 hnjhj.com
@@ -1941,6 +1938,7 @@ inxian.com
 |https://iptorrents.com
 ||ipvanish.com
 iredmail.org
+chinese.irib.ir
 ||ironicsoftware.com
 ||ironbigfools.compython.net
 ||ironpython.net
@@ -2045,7 +2043,9 @@ wiki.keso.cn/Home
 .khabdha.org
 .khmusic.com.tw
 bbs.kimy.com.tw
-||kindleren.com
+.kindleren.com
+|http://kindleren.com
+|http://www.kindleren.com
 .kingdomsalvation.org
 kinghost.com
 .kingstone.com.tw
@@ -2058,6 +2058,9 @@ killwall.com
 ||kodingen.com
 @@||www.kodingen.com
 ||kompozer.net
+.konachan.com
+|http://konachan.com
+|http://www.konachan.com
 ||koolsolutions.com
 .koornk.com
 ||koornk.com
@@ -2237,6 +2240,8 @@ merit-times.com.tw
 ||meteorshowersonline.com
 |http://www.metro.taipei/
 ||metrolife.ca
+meyou.jp
+
 ||mgoon.com
 ||mgstage.com
 mhradio.org
@@ -2297,6 +2302,8 @@ wiki.moegirl.org
 molihua.org
 ||mondex.org
 |http://www.monlamit.org
+.moonbbs.com
+||moonbbs.com
 c1522.mooo.com
 ||monitorchina.org
 bbs.morbell.com
@@ -2327,6 +2334,7 @@ multiupload.com
 forum.my903.com
 myactimes.com
 ||my-addr.com
+.myaudiocast.com
 ||myaudiocast.com
 .myav.com.tw/bbs
 ||bbs.mychat.to
@@ -3187,6 +3195,8 @@ blog.syx86.cn/2009/09/puff
 ||t88.ca
 .taa-usa.org
 |http://taa-usa.org
+.taaze.tw
+||taaze.tw
 |http://www.tablesgenerator.com/
 tabtter.jp
 .tacem.org
@@ -3212,6 +3222,8 @@ taiwan-sex.com
 .talk853.com
 .talkboxapp.com
 ||talkboxapp.com
+.talkonly.net
+||talkonly.net
 ||tamiaode.tk
 ||tanc.org
 tangben.com
@@ -3500,6 +3512,8 @@ tweetphoto.com
 ||tweetrans.com
 tweetree.com
 ||tweetree.com
+.tweettunnel.com
+||tweettunnel.com
 ||tweetwally.com
 tweetymail.com
 ||twftp.org
@@ -3684,7 +3698,7 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------------VV--------------------------
-||v2dn.com
+!--v2dn.com
 !--|http://cdn.v2ex.com
 !--|http://v2ex.com
 !--|http://www.v2ex.com
@@ -3864,6 +3878,8 @@ winwhispers.info
 ||wisevid.com
 .witnessleeteaching.com
 .witopia.net
+.wjbk.org
+||wjbk.org
 |http://wn.com
 .wnacg.com
 .wo.tc
@@ -3941,7 +3957,8 @@ wujie.net
 wujieliulan.com
 ||wujieliulan.com
 wukangrui.net
-wwitv.com
+.wwitv.com
+||wwitv.com
 wzyboy.im/post/160
 
 !--------------------------XX--------------------------
@@ -4032,7 +4049,8 @@ video.yahoo.com
 yam.com
 ||yam.com
 yangjianli.com
-yasni.co.uk
+.yasni.co.uk
+||yasni.co.uk
 ||yasukuni.or.jp
 .ydy.com
 ||yeelou.com
