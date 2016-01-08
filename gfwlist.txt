@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MAmFYcMPjpIq0DkGi7c70Q
+! Checksum: 1Q3i8uUxGFm8pz4qKt1gbQ
 ! Expires: 6h
-! Last Modified: Thu, 31 Dec 2015 16:39:03 +0800
+! Last Modified: Fri, 08 Jan 2016 12:56:05 +0800
 ! HomePage: https://github.com/gfwlist/gfwlist
 
 !---------------------Fraud/Scam-------------------
@@ -36,8 +36,8 @@ china-mmm.jp.net
 ||getuploader.com
 ||hmvdigital.ca
 ||hmvdigital.com
-hulu.com
-huluim.com
+||hulu.com
+||huluim.com
 ||hybrid-analysis.com
 |http://www.ilovelongtoes.com/
 ||juliepost.com
@@ -90,9 +90,9 @@ huluim.com
 .12vpn.com
 ||12vpn.com
 141hongkong.com/forum
-.17t17p.com
 .173ng.com
 ||173ng.com
+.17t17p.com
 1984bbs.com
 ||1984bbs.com
 !--||1984blog.com
@@ -172,7 +172,7 @@ adultkeep.net/peepshow/members/main.htm
 ||advertfan.com
 ||aenhancers.com
 ||af.mil
-aiph.net
+.aiph.net
 ||aiph.net
 |http://download.aircrack-ng.org
 .aisex.com
@@ -192,6 +192,7 @@ aiweiwei.com
 alexlur.org
 aliengu.com
 ||alkasir.com
+||allconnected.co
 allgirlsallowed.org
 alliance.org.hk
 .allinfa.com
@@ -699,6 +700,8 @@ cmi.org.tw
 ||cnd.org/
 wiki.cnitter.com
 .cnn.com/video
+.cnpolitics.org
+||cnpolitics.org
 news.cnyes.com
 ||cochina.co
 ||cochina.org
@@ -879,6 +882,7 @@ drsunacademy.com
 ||dtiblog.com
 ||dtic.mil
 dtiserv2.com
+.duckduckgo.com
 ||duckduckgo.com
 .duckload.com/download
 ||duckmylife.com
@@ -1693,6 +1697,7 @@ have8.com
 .hechaji.com
 ||hechaji.com
 ||heeact.edu.tw
+||cdn.helixstudios.net
 ||helplinfen.com
 ||helloandroid.com
 ||helloqueer.com
@@ -2114,7 +2119,7 @@ liansi.org
 ||liaowangxizang.net
 .liaowangxizang.net
 ||liberal.org.hk
-libertytimes.com.tw
+.libertytimes.com.tw
 .lidecheng.com/blog/fucking-gfw
 limiao.net
 abitno.linpie.com/use-ipv6-to-fuck-gfw
@@ -2399,7 +2404,7 @@ newcenturynews.com
 ||newchen.com
 .newchen.com
 .newgrounds.com
-newlandmagazine.com.au
+.newlandmagazine.com.au
 news100.com.tw
 .newscn.org
 ||newscn.org
@@ -2599,6 +2604,7 @@ pbwiki.com
 pcdvd.com.tw
 .pchome.com.tw
 |http://pcij.org/
+.pcstore.com.tw/ntdtvapshop
 ||pct.org.tw
 pdetails.com
 ||pdproxy.com
@@ -2976,6 +2982,7 @@ sheikyermami.com
 .shenshou.org
 shenyun.com
 shenyunperformingarts.org
+||shenyunperformingarts.org
 shenzhoufilm.com
 ||shenzhoufilm.com
 shinychan.com
@@ -3207,6 +3214,7 @@ tahr.org.tw
 taipei.gov.tw
 .taipeisociety.org
 ||taipeisociety.org
+.taiwanbible.com
 .taiwandaily.net
 ||taiwantt.org.tw
 ||taiwandaily.net
@@ -3355,6 +3363,7 @@ tibetonline.com
 tibetsites.com
 .tibetsun.com
 ||tibetwrites.org
+.ticket.com.tw
 .time.com/time/time100/leaders/profile/rebel
 .time.com/time/specials/packages/article/0,28804
 .time.com/time/magazine
@@ -3375,7 +3384,7 @@ tinychat.com
 |http://tnp.org
 togetter.com
 .tokyo-247.com
-tokyo-hot.com
+.tokyo-hot.com
 ||tokyocn.com
 tw.tomonews.net
 .tono-oka.jp
@@ -3648,6 +3657,8 @@ ultravpn.fr
 ultraxs.com
 umich.edu/~falun
 ||unblock.cn.com
+unblock-us.com
+||unblock-us.com
 ||unblocksit.es
 uncyclomedia.org
 uncyclopedia.info
@@ -4143,6 +4154,7 @@ zhenlibu.info
 ||zhongguotese.net
 ||zhongmeng.org
 ||zhreader.com
+||zhuatieba.com
 zhuichaguoji.org
 ||zhuichaguoji.org
 .ziddu.com/download
@@ -4288,22 +4300,22 @@ search*%E4%B8%AD%E5%AE%A3%E9%83%A8
 !------5------
 !--||wikisource.org
 !--@@||m.wikisource.org
-zh.wikisource.org
+|http://zh.wikisource.org
 !------6------
 !--||wikiquote.org
 !--@@||m.wikiquote.org
 !------7------
 !--||wikinews.org
 !--@@||m.wikinews.org
-zh.wikinews.org
+|http://zh.wikinews.org
 !------8------
 !--||wikivoyage.org
 !--@@||m.wikivoyage.org
-zh.wikivoyage.org
+|http://zh.wikivoyage.org
 !------9------
 !--||wiktionary.org
 !--@@||m.wiktionary.org
-zh.wiktionary.org
+|http://zh.wiktionary.org
 !-----10------
 !--||wikimediafoundation.org
 !--@@||m.wikimediafoundation.org
@@ -4427,6 +4439,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@||forum6.hkgolden.com 
 @@||forum9.hkgolden.com 
 @@||articlehtml.hkgolden.com
+@@||jd.com
 @@||jike.com
 @@|http://translate.google.cn
 @@|http://www.google.cn/maps
@@ -4438,6 +4451,7 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 @@||sogou.com
 @@||so.com
 @@||soso.com
+@@||taobao.com
 @@||yahoo.cn
 @@||youdao.com
 @@||zhongsou.com
