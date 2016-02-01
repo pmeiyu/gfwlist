@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: iyNbsQajJEb09YtacJreXw
+! Checksum: Q5cKsVWaDQmBg/5DGCRbRA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 25 Jan 2016 16:00:55 +0800
+! Last Modified: Mon, 01 Feb 2016 12:51:04 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -44,6 +44,7 @@
 ||fxnetworks.com
 ||gettyimages.com
 ||getuploader.com
+||glype.com
 ||hmvdigital.ca
 ||hmvdigital.com
 ||hulu.com
@@ -65,6 +66,7 @@
 ||madonna-av.com
 ||metarthunter.com
 ||mfxmedia.com
+||monster.com
 ||moodyz.com
 ||muzu.tv
 ||mvg.jp
@@ -85,6 +87,7 @@
 ||rdio.com
 ||sadistic-v.com
 |http://cdn*.search.xxx/
+||shutterstock.com
 ||slacker.com
 ||spotify.com
 ||springboardplatform.com
@@ -141,11 +144,12 @@ china-mmm.jp.net
 ||chromercise.com
 ||data-vocabulary.org
 ||g.co
+||getmdl.io
 ||ggpht.com
 ||gmail.com
 ||gmodules.com
 ||goo.gl
-/^https?:\/\/([^\/]+\.)*google\.(ad|ae|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hn|hr|ht|hu|ie|im|iq|is|it|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|ne|nl|no|nr|nu|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|vg|vu|ws)\/.*/
+/^https?:\/\/([^\/]+\.)*google\.(ad|ae|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hn|hr|ht|hu|ie|im|iq|is|it|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|vg|vu|ws)\/.*/
 !--||google-analytics.com
 !--||googleadservices.com
 ||googleapis.com
@@ -173,6 +177,7 @@ china-mmm.jp.net
 ||gvt1.com
 ||html5rocks.com
 ||iam.soy
+||like.com
 ||nic.google
 ||panoramio.com
 ||picasaweb.com
@@ -259,6 +264,8 @@ taiwannation.50webs.com
 6park.com
 ||6park.com
 ||7capture.com
+.8-d.com
+|http://8-d.com
 |http://85st.com
 .881903.com/page/zh-tw/
 ||881903.com
@@ -306,6 +313,8 @@ adultkeep.net/peepshow/members/main.htm
 .aiph.net
 ||aiph.net
 |http://download.aircrack-ng.org
+.airvpn.org
+||airvpn.org
 .aisex.com
 ||ait.org.tw
 aiweiwei.com
@@ -1122,6 +1131,7 @@ e-info.org.tw
 |http://e123.hk/
 .earthcam.com
 eastern-ark.com
+.easternlightning.org
 .eastturkestan.com
 |http://www.eastturkistan.net/
 .eastturkistan-gov.org
@@ -1389,6 +1399,7 @@ whitebear.freebearblog.org
 ||freedomhouse.org
 .freedomsherald.org
 ||freedomsherald.org
+.freefuckvids.com
 .freegao.com
 ||freegao.com
 .free-hada-now.org
@@ -1488,6 +1499,7 @@ gati.org.tw
 ||gcc.org.hk
 ||gclooney.com
 .gcpnews.com
+|http://gcpnews.com
 .gdbt.net/forum
 gdzf.org
 ||geek-art.net
@@ -1544,6 +1556,7 @@ go-pki.com
 ||goagentplus.com
 godfootsteps.org
 ||godfootsteps.org
+.godsdirectcontact.org
 godsdirectcontact.org.tw
 ||gohappy.com.tw
 .gokbayrak.com
@@ -2172,6 +2185,7 @@ chinese.irib.ir
 http://beta.iset.com.tw/forum
 forum.iset.com.tw
 .islam.org.hk
+|http://islam.org.hk
 .islamicity.com
 .isaacmao.com
 ||isaacmao.com
@@ -2514,6 +2528,8 @@ memedia.cn
 ||memehk.com
 memorybbs.com
 .memrijttm.org
+.mercyprophet.org
+|http://mercyprophet.org
 merit-times.com.tw
 meshrep.com
 .mesotw.com/bbs
@@ -2923,6 +2939,7 @@ peacehall.com
 .peeasian.com
 .pekingduck.org
 ||pekingduck.org
+.pemulihan.or.id
 ||pen.io
 penchinese.com
 ||penchinese.net
@@ -2987,6 +3004,7 @@ popyard.com
 .porn2.com
 .pornbase.org
 ||pornhd.com
+.pornhost.com
 .pornhub.com
 ||pornmm.net
 .pornoxo.com
@@ -3128,6 +3146,7 @@ opml.radiotime.com
 ||raidcall.com.tw
 .raidtalk.com.tw
 .raizoji.or.jp
+|http://raizoji.or.jp
 rangwang.biz
 rangzen.com
 rangzen.net
@@ -3157,6 +3176,7 @@ rcinet.ca
 .recordhistory.org
 .recovery.org.tw
 |http://online.recoveryversion.org
+||recoveryversion.com.tw
 redchinacn.org
 redtube.com
 referer.us
@@ -3198,6 +3218,7 @@ riku.me/
 .rmjdw132.info
 chinese.rnw.nl
 .rnw.nl
+.roadshow.hk
 robtex.com
 ||robustnessiskey.com
 ||rocket-inc.net
@@ -3355,6 +3376,7 @@ news.sina.com.hk
 news.sina.com.tw
 |http://news.sinchew.com.my
 .sinchew.com.my/node/
+.sinchew.com.my/taxonomy/term
 .singaporepools.com.sg
 ||singaporepools.com.sg
 singtao.com
@@ -3525,6 +3547,8 @@ summify.com
 sun1911.com
 .sunporno.com
 ||sunporno.com
+.suprememastertv.com
+|http://suprememastertv.com
 .surfeasy.com
 ||surfeasy.com
 .suyangg.com
@@ -3591,6 +3615,7 @@ taiwan-sex.com
 ||tamiaode.tk
 ||tanc.org
 tangben.com
+.tangren.us
 .taolun.info
 ||taolun.info
 blog.taragana.com
@@ -3601,10 +3626,12 @@ blog.taragana.com
 .tbcollege.org
 ||tbcollege.org
 .tbi.org.hk
+.tbicn.org
 .tbjyt.org
 ||tbpic.info
 tbs-rainbow.org
 ||tbsec.org
+tbskkinabalu.page.tl
 .tbsmalaysia.org
 .tbsn.org
 ||tbsn.org
@@ -3778,6 +3805,7 @@ togetter.com
 .tokyo-hot.com
 ||tokyocn.com
 tw.tomonews.net
+.tongil.or.kr
 .tono-oka.jp
 tonyyan.net
 .toodoc.com
@@ -3785,6 +3813,8 @@ toonel.net
 top81.ws
 .topnews.in
 ||topshare.us
+.torguard.net
+||torguard.net
 .topshareware.com
 ||topstyle4.com
 ||topsy.com
@@ -4039,6 +4069,8 @@ twurl.nl
 
 !--------------------UU-------------------------
 ||uberproxy.net
+.uc-japan.org
+||uc-japan.org
 .srcf.ucam.org/salon/
 |http://china.ucanews.com/
 ||ucdc1998.org
@@ -4169,6 +4201,7 @@ vimeo.com
 ||vivthomas.com
 .vjmedia.com.hk
 .vllcs.org
+|http://vllcs.org
 ||vmixcore.com
 cn.voa.mobi
 tw.voa.mobi
@@ -4679,8 +4712,10 @@ zyzc9.com
 !-----------------URL Keywords------------------
 64memo
 aHR0cHM6Ly95ZWNsLm5ldA
-!--falun
 freenet
+.google.*facebook
+.google.*falun
+.google.*twitter
 q=freedom
 q%3Dfreedom
 remembering_tiananmen_20_years
