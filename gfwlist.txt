@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Q5cKsVWaDQmBg/5DGCRbRA
+! Checksum: uf6/o5SnGjvQFRWIwAVCxQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 01 Feb 2016 12:51:04 +0800
+! Last Modified: Tue, 02 Feb 2016 13:21:00 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -235,6 +235,7 @@ china-mmm.jp.net
 .2000fun.com/bbs
 .2008xianzhang.info
 ||2008xianzhang.info
+.21pron.com
 .213.so
 21andy.com/blog
 .228.net.tw
@@ -517,9 +518,10 @@ biantailajiao.in
 |http://biblesforamerica.org
 .bic2011.org
 bigfools.com
+||bigjapanesesex.com
 .bignews.org
 ||bignews.org
-.bigsound.org/portnoy
+.bigsound.org
 |http://billypan.com/wiki
 ||billywr.com
 bipic.net
@@ -882,6 +884,7 @@ cloakpoint.com
 ||club1069.com
 cmi.org.tw
 |http://www.cmoinc.org
+cmp.hku.hk
 ||cmule.com
 ||cmule.org
 ||cms.gov
@@ -1403,6 +1406,7 @@ whitebear.freebearblog.org
 .freegao.com
 ||freegao.com
 .free-hada-now.org
+freeilhamtohti.org
 .freelotto.com
 ||freelotto.com
 freeman2.com
@@ -2031,6 +2035,7 @@ hotpot.hk
 ||howtoforge.com
 .hqcdp.org
 ||hqcdp.org
+||hqjapanesesex.com
 .hrcir.com
 .hrcchina.org
 .hrea.org
@@ -2085,6 +2090,8 @@ ibiblio.org/pub/packages/ccic
 ||iblogserv-f.net
 ibros.org
 |http://cn.ibtimes.com
+.ibvpn.com
+||ibvpn.com
 blogs.icerocket.com/tag
 .icij.org
 ||icl-fi.org
@@ -2232,6 +2239,8 @@ blog.jackjia.com
 .javbus.com
 ||javfor.me
 .javmoo.com
+.javseen.com
+|http://javseen.com
 jbtalks.cc
 jbtalks.com
 jbtalks.my
@@ -2865,6 +2874,7 @@ tui.orzdream.com
 oursogo.com
 oursteps.com.au
 xinqimeng.over-blog.com
+||overplay.net
 share.ovi.com/media
 |http://owl.li
 |http://ht.ly
@@ -4177,6 +4187,9 @@ vermonttibet.org
 ||verybs.com
 .vft.com.tw
 .viber.com
+.victimsofcommunism.org
+|http://victimsofcommunism.org
+||vid.me
 videobam.com
 ||videobam.com
 .videomega.tv
@@ -4224,6 +4237,7 @@ vocn.tv
 www.voy.com
 ||www.vpncup.com
 vpnbook.com
+.vpnfan.com
 vpnfire.com
 .vpnforgame.net
 ||vpnforgame.net
