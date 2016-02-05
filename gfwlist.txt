@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: d/rnw69czK3cezze9mT+gg
+! Checksum: +VSFOKPEqXyV4bHYgLDuxQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 05 Feb 2016 14:51:50 +0800
+! Last Modified: Fri, 05 Feb 2016 18:19:48 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -47,6 +47,7 @@
 ||glype.com
 ||hmvdigital.ca
 ||hmvdigital.com
+||homedepot.com
 ||hulu.com
 ||huluim.com
 |http://secure.hustler.com
@@ -143,6 +144,7 @@ china-mmm.jp.net
 ||appspot.com
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 ||chrome.com
+||chromecast.com
 ||chromeexperiments.com
 ||chromercise.com
 ||data-vocabulary.org
@@ -314,6 +316,8 @@ activpn.com
 ||activpn.com
 ||aculo.us
 ||addictedtocoffee.de
+.adpl.org.hk
+|http://adpl.org.hk
 .adult-sex-games.com
 ||adult-sex-games.com
 adultfriendfinder.com
@@ -1266,6 +1270,7 @@ eyevio.jp
 /^https?:\/\/[^\/]+facebook\.com/
 @@||*v6.facebook.com
 ||connect.facebook.net
+||facebook.hu
 ||facebookquotes4u.com
 .faceless.me
 ||faceless.me
@@ -2864,6 +2869,7 @@ nuzcom.com
 .nytimes.com
 ||nytimes.com
 ||nytimg.com
+userapi.nytlog.com
 nysingtao.com
 ||nzchinese.net.nz
 
@@ -2936,6 +2942,7 @@ tui.orzdream.com
 ||ourdearamy.com
 oursogo.com
 oursteps.com.au
+||ourtv.hk
 xinqimeng.over-blog.com
 ||overplay.net
 share.ovi.com/media
@@ -3160,6 +3167,8 @@ api.proxlet.com
 .proxpn.com
 ||proxpn.com
 proxy.org
+.proxylist.org.uk
+||proxylist.org.uk
 .proxypy.net
 ||proxypy.net
 proxyroad.com
@@ -3519,8 +3528,10 @@ snowlionpub.com
 ||so-news.com
 .so-news.com
 home.so-net.net.tw/yisa_tsai
-||soc.mil/
+||soc.mil
 ||sockslist.net
+.socrec.org
+|http://socrec.org
 .sod.co.jp
 .softether.org
 ||softether.org
@@ -4709,6 +4720,8 @@ yegle.net
 ||yes123.com.tw
 ||yesasia.com
 ||yesasia.com.hk
+.yes-news.com
+|http://yes-news.com
 ||yecl.net
 !--yfrog.com
 ||yhcw.net
