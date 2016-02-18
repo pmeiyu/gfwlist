@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: rkoUulOoiSCZmLJ8OF1EjA
+! Checksum: RMLIm8caaLdexSPNADAjZw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 14 Feb 2016 17:09:05 +0800
+! Last Modified: Thu, 18 Feb 2016 14:24:28 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -330,6 +330,11 @@ adultkeep.net/peepshow/members/main.htm
 ||advertfan.com
 ||aenhancers.com
 ||af.mil
+.afantibbs.com
+|http://afantibbs.com
+.ai-kan.net
+||ai-kan.net
+ai-wen.net
 .aiph.net
 ||aiph.net
 |http://download.aircrack-ng.org
@@ -689,6 +694,7 @@ holz.byethost8.com
 ||c-est-simple.com
 .cachinese.com
 .cacnw.com
+|http://cacnw.com
 .cactusvpn.com
 ||cactusvpn.com
 .cafepress.com
@@ -743,6 +749,7 @@ catholic.org.tw
 .ccim.org
 .cclife.ca
 cclife.org
+cclifefl.org
 .ccthere.com
 .cctongbao.com/article/2078732
 ccue.ca
@@ -753,9 +760,10 @@ ccue.com
 ||cdbook.org
 ||cdd.me
 .cdef.org
+||cdef.org
 ||cdig.info
 cdjp.org
-||cdjp.org/
+||cdjp.org
 ||cdninstagram.com
 .cdnews.com.tw
 cdp1989.org
@@ -1091,12 +1099,15 @@ disp.cc
 .dizhidizhi.com
 ||dizhuzhishang.com
 djangosnippets.org
+.djorz.com
+||djorz.com
 ||dl-laby.jp
 ||dlsite.com
 ||dmcdn.net
 ||dnscrypt.org
 ||dns2go.com
 ||dnssec.net
+doctorvoice.org
 .dogfartnetwork.com/tour
 .dojin.com
 .dok-forum.net
@@ -1176,6 +1187,7 @@ xys.dxiong.com
 e-info.org.tw
 .e-traderland.net/board
 .e-zone.com.hk/discuz
+|http://e-zone.com.hk/discuz
 .e123.hk
 |http://e123.hk/
 .earthcam.com
@@ -1267,7 +1279,8 @@ eventful.com
 @@||www.exblog.jp
 .exchristian.hk
 ||exchristian.hk
-|http://blog.excite.co.jp/
+|http://blog.excite.co.jp
+||exmormon.org
 ||expatshield.com
 ||exploader.net
 .expressvpn.com
@@ -1509,6 +1522,7 @@ freevpn.nl
 .fuckcnnic.net
 ||fuckcnnic.net
 fuckgfw.org
+||fullerconsideration.com
 fulue.com
 .funf.tw
 funp.com
@@ -1608,6 +1622,7 @@ gigporno.ru
 globaljihad.net
 globalmuseumoncommunism.org
 ||globalrescue.net
+.globaltm.org
 .globalvoicesonline.org
 ||globalvoicesonline.org
 gmbd.cn
@@ -2064,6 +2079,7 @@ hkgolden.com
 .hkheadline.com*blog
 .hkheadline.com/instantnews
 hkhkhk.com
+hkhrc.org.hk
 hkhrm.org.hk
 hkjc.com
 .hkjp.org
@@ -2638,6 +2654,7 @@ meshrep.com
 |http://www.metro.taipei/
 ||metrolife.ca
 .metroradio.com.hk
+|http://metroradio.com.hk
 meyou.jp
 ||mgoon.com
 ||mgstage.com
@@ -2940,6 +2957,7 @@ onmoon.com
 open.com.hk
 openallweb.com
 opendemocracy.net
+||opendemocracy.net
 myopenid.com
 ||myopenid.com
 openid.net
@@ -3065,6 +3083,7 @@ pengyulong.com
 .perfectgirls.net
 perfectvpn.net
 .persecutionblog.com
+pfd.org.hk
 phayul.com
 philly.com
 ||phncdn.com
@@ -4063,6 +4082,7 @@ tvants.com
 forum.tvb.com/
 news.tvb.com/list/world
 news.tvb.com/local
+news.tvbs.com.tw
 .tvboxnow.com
 |http://tvboxnow.com/
 tvider.com
@@ -4399,6 +4419,8 @@ vpnhq.com
 ||vpntunnel.com
 .vpnuk.info
 ||vpnuk.info
+.vpnvip.com
+||vpnvip.com
 .vporn.com
 ||vporn.com
 vraiesagesse.net
