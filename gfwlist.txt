@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: RMLIm8caaLdexSPNADAjZw
+! Checksum: 4GtdkrG4+aXR4vSUAqTl2w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 18 Feb 2016 14:24:28 +0800
+! Last Modified: Thu, 18 Feb 2016 14:26:12 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -44,6 +44,7 @@
 ||fxnetworks.com
 ||gettyimages.com
 ||getuploader.com
+||glass8.eu
 ||glype.com
 ||hmvdigital.ca
 ||hmvdigital.com
