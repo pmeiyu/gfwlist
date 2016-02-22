@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: T6gQI0LUe1q9Po9aOfKK/Q
+! Checksum: IZltpd0z/ySOYB8sqX7mig
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 22 Feb 2016 09:01:38 +0800
+! Last Modified: Mon, 22 Feb 2016 09:10:22 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -227,6 +227,7 @@ china-mmm.jp.net
 ||12vpn.com
 ||12vpn.net
 141hongkong.com/forum
+.141tube.com
 .1688.com.au
 .173ng.com
 ||173ng.com
