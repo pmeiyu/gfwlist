@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: IZltpd0z/ySOYB8sqX7mig
+! Checksum: p2UeUdkEogr1j+4ghfNLhA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 22 Feb 2016 09:10:22 +0800
+! Last Modified: Mon, 22 Feb 2016 09:36:38 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1468,6 +1468,7 @@ kineox.free.fr
 ||puttycm.free.fr
 ||freealim.com
 whitebear.freebearblog.org
+||freebrowser.org
 .freechal.com
 .freedomchina.info
 ||freedomchina.info
@@ -3419,7 +3420,6 @@ sacom.hk
 ||salvation.org.hk
 .samair.ru/proxy/type-01
 .sambhota.org
-sammyjs.org
 ||sankaizok.com
 .sanmin.com.tw
 sapikachu.net
@@ -3433,6 +3433,7 @@ savetibet.ru
 savevid.com
 ||say2.info
 |http://www.sciencemag.org/content/344/6187/953
+.sciencenets.com
 ||scihub.org
 .scmp.com
 .scmpchinese.com
@@ -4355,6 +4356,7 @@ vermonttibet.org
 ||verybs.com
 .vft.com.tw
 .viber.com
+.vica.info
 .victimsofcommunism.org
 |http://victimsofcommunism.org
 ||vid.me
