@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: yZtPblQLq8NczE/xEW7y+A
+! Checksum: WyzmiSfHyrZC5mNVThn/TQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 18 Apr 2016 10:02:08 +0800
+! Last Modified: Thu, 21 Apr 2016 09:32:50 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -104,6 +104,8 @@
 ||slacker.com
 ||spotify.com
 ||springboardplatform.com
+||sprite.org
+@@|http://store.sprite.org
 ||switch1.jp
 ||tapanwap.com
 ||target.com
@@ -329,6 +331,7 @@ a5.com.ru
 ||aboluowang.com
 .aboutgfw.com
 .abs.edu
+.accim.org
 .acevpn.com
 ||acevpn.com
 ||acgkj.com
@@ -818,7 +821,7 @@ cdpwu.org
 .cgst.edu
 ||chandoo.org
 .change.org
-|http://change.org
+||change.org
 .changp.com
 ||changp.com
 .chapm25.com
@@ -1311,7 +1314,6 @@ etvonline.hk
 .eulam.com
 eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh
 eeas.europa.eu/statements-eeas/2015/151022
-eventful.com
 .evschool.net
 |http://evschool.net
 ||exblog.jp
@@ -1663,7 +1665,6 @@ gfw.org.ua
 |http://tw.gigacircle.com
 |http://cn.giganews.com/
 gigporno.ru
-||gimpshop.com
 ||girlbanker.com
 |http://softwaredownload.gitbooks.io
 .github.com
@@ -2842,7 +2843,8 @@ myactimes.com
 .mychinamyhome.com
 .mychinanews.com
 ||mychinanews.com
-||www.mycould.com
+||mycnnews.com
+mycould.com/discuz
 ||myeclipseide.com
 .myforum.com.hk
 ||myforum.com.hk
@@ -2895,13 +2897,12 @@ nccwatch.org.tw
 .ndr.de
 .ned.org
 ||nekoslovakia.net
-t.neolee.cn
 !--bbsnew.netbig.com
 bbs.netbig.com
 .netbirds.com
 netcolony.com
 bolin.netfirms.com
-netme.cc
+||netme.cc
 netsneak.com
 .network54.com
 networkedblogs.com
@@ -3036,7 +3037,6 @@ showbiz.omy.sg
 ||onedrive.live.com
 |http://www.onion.city
 ||onlineyoutube.com
-.onlylady.cn
 onmoon.net
 onmoon.com
 !--Sorry but we are confused as well
@@ -3102,10 +3102,6 @@ bbs.ozchinese.com
 .padmanet.com
 page2rss.com
 ||pagodabox.com
-
-!--Godaddy Free Hosting
-||paint.net
-||coveringweb.com
 .palacemoon.com
 forum.palmislife.com
 ||eriversoft.com
@@ -4588,6 +4584,8 @@ webs-tv.net
 !--webshots.com
 websitepulse.com/help/testtools.china-test.html
 |http://www.websnapr.com
+.webwarper.net
+|http://webwarper.net
 webworkerdaily.com
 .weekmag.info
 ||wefightcensorship.org
@@ -4627,7 +4625,7 @@ wezhiyong.org
 ||whatblocked.com
 ||wheelockslatin.com
 .whippedass.com
-|http://who.is/
+!--|http://who.is/
 whylover.com
 ||whyx.org
 |http://evchk.wikia.com
@@ -4830,7 +4828,7 @@ s.xiaod.in
 xiezhua.com
 forum.xinbao.de/forum
 .xing.com
-||xing.com
+|http://xing.com
 .xinmiao.com.hk
 ||xinmiao.com.hk
 xinsheng.net
