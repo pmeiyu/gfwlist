@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: WyzmiSfHyrZC5mNVThn/TQ
+! Checksum: u4E5rczMQ8qM5Ju0mQ+1HQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 21 Apr 2016 09:32:50 +0800
+! Last Modified: Thu, 21 Apr 2016 12:38:59 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1161,7 +1161,7 @@ dongtaiwang.com
 ||dotsub.com
 ||dougscripts.com
 dowei.org
-||doxygen.org
+!--||doxygen.org
 dphk.org
 dpp.org.tw
 ||dpp.org.tw
@@ -1179,6 +1179,7 @@ drsunacademy.com
 ||dtiblog.com
 ||dtic.mil
 dtiserv2.com
+.dtwang.org
 .duckdns.org
 |http://duckdns.org
 .duckduckgo.com
@@ -2514,6 +2515,7 @@ killwall.com
 ||koolsolutions.com
 .koornk.com
 ||koornk.com
+||koranmandarin.com
 |http://gojet.krtco.com.tw
 .ksnews.com.tw
 .kui.name/event
@@ -2703,6 +2705,8 @@ mcfog.com
 mcreasite.com
 .md-t.org
 ||md-t.org
+.mediachinese.com
+||mediachinese.com
 .mediafire.com/?
 .mediafire.com/download
 .mediafreakcity.com
@@ -2872,7 +2876,7 @@ old.nabble.com
 ||nalandabodhi.org
 ||nalandawest.org
 ||namsisi.com
-nanyang.com
+.nanyang.com
 ||nanyang.com
 .nanyangpost.com
 ||nanyangpost.com
@@ -4196,6 +4200,7 @@ news.tvbs.com.tw
 .tvboxnow.com
 |http://tvboxnow.com/
 tvider.com
+.tvmost.com.hk
 ||tvunetworks.com
 .tw-npo.org
 twapperkeeper.com
@@ -4287,8 +4292,8 @@ twitoaster.com
 .twitvid.com
 ||twitvid.com
 199.59.148.20
-||t.co
 .t.co
+||t.co
 |http://twt.tl
 twittbot.net
 .twitter.com
@@ -4377,7 +4382,6 @@ uncyclomedia.org
 |http://uncyclopedia.tw
 ||unholyknight.com
 .uni.cc
-unicode.org
 .unification.org.tw
 .uniteddaily.com.my/index.php?
 .unitedsocialpress.com
@@ -4958,7 +4962,7 @@ yx51.net
 ||yyii.org
 ||yymaya.com
 .yzzk.com
-||yzzk.com
+|http://yzzk.com
 
 !--------------------ZZ-------------------------
 zacebook.com
@@ -5226,7 +5230,7 @@ taipei.gov.tw
 @@||chinaso.com
 @@|http://nrch.culture.tw/
 !--@@||dl.google.com
-!--@@||fonts.googleapis.com
+@@||fonts.googleapis.com
 @@||cn.gravatar.com
 @@||csi.gstatic.com
 @@||fonts.gstatic.com
