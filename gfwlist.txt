@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: YtoBOSfpPlnRGjc9CHMvIA
+! Checksum: YRnRRCVz7cjPb0OWFMYM7g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 25 Apr 2016 12:11:21 +0800
+! Last Modified: Mon, 25 Apr 2016 13:50:08 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -110,6 +110,7 @@
 ||switch1.jp
 ||tapanwap.com
 ||target.com
+@@||intl.target.com
 ||tma.co.jp
 ||turntable.fm
 ||twerkingbutt.com
@@ -134,16 +135,20 @@
 
 !----------------Frauds & Scams-----------------
 china-mmm.jp.net
+.lsxszzg.com
 .china-mmm.net
 ||china-mmm.net
-.lsxszzg.com
+china-mmm.sa.com
 
 !---------------------Groups--------------------
 !!---DtDNS---
 .4irc.com
+.deaftone.com
 .effers.com
+.flnet.org
 .gotgeeks.com
 .slyip.com
+.slyip.net
 .suroot.com
 
 !!---Google---
@@ -255,6 +260,8 @@ china-mmm.jp.net
 .17t17p.com
 18onlygirls.com
 .1949er.org
+zhao.1984.city
+||zhao.1984.city
 1984bbs.com
 ||1984bbs.com
 !--||1984blog.com
@@ -477,6 +484,7 @@ asg.to
 .asiaharvest.org
 ||asiaharvest.org
 asianews.it
+||asiansexdiary.com
 ||asianwomensfilm.de
 .asiatgp.com
 ||askstudent.com
@@ -702,6 +710,8 @@ brucewang.net
 .btspread.com
 .budaedu.org
 ||budaedu.org
+.buffered.com
+|http://buffered.com
 .bullog.org
 ||bullog.org
 .bullogger.com
@@ -710,16 +720,11 @@ brucewang.net
 |http://static*.businessinsider.com/
 |http://www.businessinsider.com.au/*
 .businessweek.com
-!--businesstimes
-!-.businesstimes.com.cn
-!-|http://businesstimes.com.cn
-||bugclub.org
 .busu.org/news
 |http://busu.org/news
-||buugaa.com
+.buugaa.com
 .buzzhand.com
 .buzzhand.net
-buzzurl.jp
 bwsj.hk
 ||bx.tl
 holz.byethost8.com
@@ -818,7 +823,6 @@ cdpwu.org
 .cecc.gov
 ||cecc.gov
 ||cellulo.info
-||cenci.tk
 ||cenews.eu
 ||centerforhumanreprod.com
 ||centralnation.com
@@ -827,7 +831,6 @@ cdpwu.org
 .cfhks.org.hk
 .cftfc.com
 .cgst.edu
-||chandoo.org
 .change.org
 ||change.org
 .changp.com
@@ -1105,6 +1108,7 @@ cn.dayabook.com
 .de-sci.org
 lists.debian.org
 packages.debian.org/zh-cn/lenny/gpass
+cdn-i30.definebabe.com
 ||delcamp.net
 delicious.com/GFWbookmark
 .democrats.org
@@ -1480,7 +1484,6 @@ fleshbot.com
 
 flickrhivemind.net
 ||flipkart.com
-yuming.flnet.org
 |http://cn.fmnnow.com
 fofldfradio.org
 blog.foolsmountain.com
@@ -1596,6 +1599,7 @@ funp.com
 ||furinkan.com
 .futurechinaforum.org
 ||futuremessage.org
+.fux.com
 .fuyin.net
 .fuyu.org.tw
 ||fw.cm
@@ -2063,6 +2067,7 @@ hellotxt.com
 .hellouk.org/forum/lofiversion
 .helpeachpeople.com
 ||helpeachpeople.com
+||helpster.de
 .helpzhuling.org
 
 !###########--Heroku--##########
@@ -2146,6 +2151,7 @@ hkdf.org
 .hkepc.com/forum/viewthread.php?tid=1153322
 global.hkepc.com*forum
 china.hket.com
+||hkfaa.com
 hkfreezone.com
 hkfront.org
 hkgolden.com
@@ -2155,6 +2161,7 @@ hkgolden.com
 hkhkhk.com
 hkhrc.org.hk
 hkhrm.org.hk
+1989report.hkja.org.hk
 hkjc.com
 .hkjp.org
 .hklft.com
@@ -2288,6 +2295,7 @@ ifjc.org
 .ift.tt
 |http://ift.tt
 ||ifreewares.com
+||igcd.net
 ||igfw.net
 ||ignitedetroit.net
 ||igvita.com
@@ -2677,10 +2685,12 @@ lvhai.org
 m-team.cc/forum
 www.macrovpn.com
 macts.com.tw
-||magic-net.info
 ||mad-ar.ch
+||madthumbs.com
+||magic-net.info
 mahabodhi.org
 my.mail.ru
+.maiplus.com
 |http://maiplus.com
 manicur4ik.ru
 ||marc.info
@@ -2701,7 +2711,6 @@ maruta.be/forget
 .marxist.com
 ||marxist.net
 .marxists.org/chinese
-!--mashable.com
 !--||mashable.com
 ||matainja.com
 ||mathable.io
