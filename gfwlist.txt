@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ak1FaGFBKewNHdfQtmDY/A
+! Checksum: YtoBOSfpPlnRGjc9CHMvIA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 21 Apr 2016 19:33:59 +0800
+! Last Modified: Mon, 25 Apr 2016 12:11:21 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -52,6 +52,7 @@
 ||hmvdigital.ca
 ||hmvdigital.com
 ||homedepot.com
+||hoovers.com
 ||hulu.com
 ||huluim.com
 |http://secure.hustler.com
@@ -110,7 +111,6 @@
 ||tapanwap.com
 ||target.com
 ||tma.co.jp
-||toshiba.com
 ||turntable.fm
 ||twerkingbutt.com
 ||vegasred.com
@@ -148,6 +148,7 @@ china-mmm.jp.net
 
 !!---Google---
 !###https://www.google.com/supported_domains###
+||1e100.net
 ||abc.xyz
 ||admob.com
 ||agoogleaday.com
@@ -160,8 +161,10 @@ china-mmm.jp.net
 ||chromecast.com
 ||chromeexperiments.com
 ||chromercise.com
+||com.google
 ||data-vocabulary.org
 ||deja.com
+||domains.google
 ||g.co
 ||get.how
 ||getmdl.io
@@ -169,7 +172,7 @@ china-mmm.jp.net
 ||gmail.com
 ||gmodules.com
 ||goo.gl
-/^https?:\/\/([^\/]+\.)*google\.(ad|ae|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hn|hr|ht|hu|ie|im|iq|is|it|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|vg|vu|ws)\/.*/
+/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hn|hr|ht|hu|ie|im|iq|is|it|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|vg|vu|ws)\/.*/
 !--||google-analytics.com
 !--||googleadservices.com
 ||googleapis.com
@@ -197,6 +200,7 @@ china-mmm.jp.net
 ||gvt1.com
 ||html5rocks.com
 ||iam.soy
+||igoogle.com
 ||like.com
 ||nic.google
 ||panoramio.com
@@ -208,6 +212,7 @@ china-mmm.jp.net
 |http://sipml5.org/
 !--||www.google
 ||webmproject.org
+||whatbrowser.org
 ||withgoogle.com
 ||youtu.be
 .youtube.com
@@ -435,6 +440,9 @@ anontext.com
 .anysex.com
 |http://anysex.com
 ||aobo.com.au
+.aofriend.com
+|http://aofriend.com
+.aofriend.com.au
 ||aolchannels.aol.com
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
@@ -1447,7 +1455,7 @@ fgmtv.net
 fillthesquare.org
 filmingfortibet.org
 ||finalion.jp
-findbook.tw
+!--findbook.tw
 .fingerdaily.com
 finler.net
 .fireofliberty.org
@@ -1480,6 +1488,7 @@ www.forum4hk.com
 pioneer-worker.forums-free.com
 !--foursquare.com
 |http://4sq.com
+|https://ss*.4sqi.net
 ||fotop.net
 video.foxbusiness.com
 |http://foxgay.com
@@ -2962,6 +2971,7 @@ njuice.com
 ||njuice.com
 nlfreevpn.com
 !--no-ip.com
+.no-ip.org
 ||nobel.se
 !--.nobelprize.org
 !--|http://nobelprize.org
@@ -3065,6 +3075,7 @@ openvpn.net
 my.opera.com/dahema
 ||demo.opera-mini.net
 www.orchidbbs.com
+.organcare.org.tw
 organharvestinvestigation.net
 ||orient-doll.com
 orientaldaily.com.my
@@ -3648,7 +3659,8 @@ sitetag.us
 sis.xxx
 ||sis001.com
 sis001.us
-||sjum.cn/
+||sjum.cn
+||sketchappsources.com
 ||skimtube.com
 ||skybet.com
 |http://users.skynet.be/reves/tibethome.html
@@ -3669,6 +3681,7 @@ forum.slime.com.tw
 .slutload.com
 .smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
 smhric.org
+.smyxy.org
 !--TODO-no-homepage
 ||snapchat.com
 .snaptu.com
