@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: YRnRRCVz7cjPb0OWFMYM7g
+! Checksum: 8frVzZhBr5odZQ5X8lu19A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 25 Apr 2016 13:50:08 +0800
+! Last Modified: Mon, 25 Apr 2016 16:37:26 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -153,6 +153,7 @@ china-mmm.sa.com
 
 !!---Google---
 !###https://www.google.com/supported_domains###
+!...GFWList doesn't intend to support typosquatting...
 ||1e100.net
 ||abc.xyz
 ||admob.com
@@ -169,6 +170,7 @@ china-mmm.sa.com
 ||com.google
 ||data-vocabulary.org
 ||deja.com
+||digisfera.com
 ||domains.google
 ||g.co
 ||get.how
@@ -177,7 +179,7 @@ china-mmm.sa.com
 ||gmail.com
 ||gmodules.com
 ||goo.gl
-/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hn|hr|ht|hu|ie|im|iq|is|it|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|vg|vu|ws)\/.*/
+/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|vg|vu|ws)\/.*/
 !--||google-analytics.com
 !--||googleadservices.com
 ||googleapis.com
@@ -212,6 +214,7 @@ china-mmm.sa.com
 ||picasaweb.com
 ||polymer-project.org
 ||thinkwithgoogle.com
+||tiltbrush.com
 ||recaptcha.net
 ||registry.google
 |http://sipml5.org/
@@ -569,6 +572,7 @@ bbsland.com
 ||beijing1989.com
 beijingspring.com
 ||beijingspring.com
+.belamionline.com
 beric.me
 .berlintwitterwall.com
 ||berlintwitterwall.com
@@ -1490,7 +1494,7 @@ blog.foolsmountain.com
 www.forum4hk.com
 pioneer-worker.forums-free.com
 !--foursquare.com
-|http://4sq.com
+!--|http://4sq.com
 |https://ss*.4sqi.net
 ||fotop.net
 video.foxbusiness.com
@@ -1632,6 +1636,7 @@ gardennetworks.com
 ||gartlive.com
 ||gather.com
 gati.org.tw
+.gaybubble.com
 .gaycn.net
 ||gaymap.cc
 .gaytube.com
@@ -1768,8 +1773,7 @@ guancha.org
 !-------------Google ghs-----
 !-||feeds.cbsnews.com
 !-||www.chinesealbumart.com
-!-||www.clementine-player.org
-!-||data.clementine-player.org
+||clementine-player.org
 !-||clemesha.org
 !-||www.cloudgirlfriend.com
 !-||cocoawithlove.com
@@ -1817,7 +1821,6 @@ echofon.com
 !-||gmer.net
 !-||www.gmote.org
 !-||blog.go2web20.net
-!--||blog.google.org
 !-||google-melange.com
 ||golang.org
 !-||fame.gonzolabs.org
@@ -3480,6 +3483,7 @@ riku.me/
 .roadshow.hk
 robtex.com
 ||robustnessiskey.com
+||roc-taiwan.org
 ||rocket-inc.net
 |http://www2.rocketbbs.com/11/bbs.cgi?id=5mus
 |http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl
@@ -3880,6 +3884,7 @@ tahr.org.tw
 .taiwandaily.net
 ||taiwandaily.net
 .taiwandc.org
+||taiwanembassy.org
 .taiwanjustice.com
 taiwankiss.com
 taiwannation.com
@@ -4484,6 +4489,7 @@ vermonttibet.org
 ||verybs.com
 .vft.com.tw
 .viber.com
+||viber.com
 .vica.info
 .victimsofcommunism.org
 |http://victimsofcommunism.org
@@ -4569,7 +4575,7 @@ vraiesagesse.net
 !--------------------WW-------------------------
 ||w.org
 lists.w3.org/archives/public
-||w3schools.com
+!--||w3schools.com
 ||waffle1999.com
 .wahas.com
 .waigaobu.com
