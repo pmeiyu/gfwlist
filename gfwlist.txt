@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8frVzZhBr5odZQ5X8lu19A
+! Checksum: igZywAQmCxPiMLUK2L6fCw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 25 Apr 2016 16:37:26 +0800
+! Last Modified: Tue, 26 Apr 2016 14:26:12 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -76,6 +76,7 @@
 ||madonna-av.com
 ||mangafox.com
 ||mangafox.me
+||mattwilcox.net
 ||metarthunter.com
 ||mfxmedia.com
 ||monster.com
@@ -91,7 +92,7 @@
 ||osaka69.com
 ||pandora.com
 .pandora.tv
-|http://www.parkansky.com
+||parkansky.com
 |http://*.pimg.tw/
 ||pure18.com
 ||qq.co.za
@@ -120,6 +121,7 @@
 ||wanz-factory.com
 ||wheretowatch.com
 ||wingamestore.com
+||wizcrafts.net
 ||zattoo.com
 ||zozotown.com
 
@@ -145,6 +147,7 @@ china-mmm.sa.com
 .4irc.com
 .deaftone.com
 .effers.com
+t2.etowns.org
 .flnet.org
 .gotgeeks.com
 .slyip.com
@@ -910,6 +913,7 @@ chinasoul.org
 .chinasucks.net
 chinatimes.com
 ||chinatopsex.com
+.chinatown.com.au
 chinatweeps.com
 chinaway.org
 .chinaworker.info
@@ -956,6 +960,7 @@ citizensradio.org
 .city365.ca
 |http://city365.ca
 city9x.com
+.citytalk.tw/event
 .civicparty.hk
 ||civicparty.hk
 civilhrfront.org
@@ -1029,6 +1034,8 @@ crackle.com
 crd-net.org
 creaders.net
 ||creaders.net
+.crocotube.com
+|http://crocotube.com
 .crossthewall.net
 ||crossthewall.net
 csdparty.com
@@ -1110,9 +1117,13 @@ cn.dayabook.com
 .ddc.com.tw
 ||de-sci.org
 .de-sci.org
-lists.debian.org
 packages.debian.org/zh-cn/lenny/gpass
-cdn-i30.definebabe.com
+
+!--Origin:cdn-i30$_
+!--Exception: Homepage access without rst
+!--Keyword is $_
+.definebabe.com
+
 ||delcamp.net
 delicious.com/GFWbookmark
 .democrats.org
@@ -1491,7 +1502,8 @@ flickrhivemind.net
 |http://cn.fmnnow.com
 fofldfradio.org
 blog.foolsmountain.com
-www.forum4hk.com
+.forum4hk.com
+fangong.forums-free.com
 pioneer-worker.forums-free.com
 !--foursquare.com
 !--|http://4sq.com
@@ -2233,6 +2245,7 @@ huaxin.ph
 ||hugoroy.eu
 ||huhaitai.com
 ||huhamhire.com
+huiyi.in
 humanrightsbriefing.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
@@ -2315,10 +2328,11 @@ ifjc.org
 imageshack.us
 ||imagevenue.com
 ||imagezilla.net
-!--.imdb.com
-!--|http://imdb.com
+
+!--IMDB
 |http://www.imdb.com/name/nm0482730
-|http://www.imdb.com/title/tt0819354/
+.imdb.com/title/tt0819354
+
 .img.ly
 ||img.ly
 .imkev.com
@@ -2487,6 +2501,7 @@ juziyue.com
 ||kagyuoffice.org
 ||kagyuoffice.org.tw
 .kaiyuan.de
+.kakao.com
 ||kakao.com
 .kannewyork.com
 .kanshifang.com
@@ -2722,6 +2737,8 @@ maruta.be/forget
 |http://maturejp.com
 mayimayi.com
 .maxing.jp
+.mcaf.ee
+|http://mcaf.ee
 ||mcadforums.com
 mcfog.com
 mcreasite.com
@@ -2833,6 +2850,8 @@ c1522.mooo.com
 bbs.morbell.com
 ||morningsun.org
 ||moroneta.com
+.motherless.com
+|http://motherless.com
 !--||movabletype.com
 ||moviefap.com
 ||www.moztw.org
@@ -2906,6 +2925,7 @@ old.nabble.com
 .nanzao.com/sc/hk-macau-tw
 ||jpl.nasa.gov
 ||pds.nasa.gov
+||solarsystem.nasa.gov
 /^https?:\/\/[^\/]+line\.naver\.jp/
 .nakido.com
 ||nakido.com
@@ -4584,6 +4604,8 @@ waikeung.org/php_wind
 |http://waiwaier.com
 wallornot.org
 ||wallpapercasa.com
+.wallproxy.com
+@@||wallproxy.com.cn
 ||waltermartin.com
 ||waltermartin.org
 ||www.wan-press.org
@@ -4978,6 +5000,8 @@ topic.youthwant.com.tw
 ||youporngay.com
 .yourlisten.com
 |http://yourlisten.com
+.yourlust.com
+|http://yourlust.com
 .youtubecn.com
 youversion.com
 ||youversion.com
@@ -4987,6 +5011,7 @@ yuanming.net
 .yuanzhengtang.org
 ||yunchao.net
 ||yvesgeleyn.com
+.ywpw.com/forums/history/post/A0/p0/html/227
 yx51.net
 .yyii.org
 ||yyii.org
@@ -5004,10 +5029,12 @@ zacebook.com
 .zaozon.com
 ||zarias.com
 www.zaurus.org.uk
-.zdnet.com.tw/news/software/0,2000085678,20111187,00
+!--.zdnet.com.tw/news/software/0,2000085678,20111187,00
+||zdnet.com.tw
 .zengjinyan.org
 !--||zeutch.com
-www.zfreet.com/post/usejump-browns.html
+!--www.zfreet.com/post/usejump-browns.html
+.zfreet.com
 zgzcjj.net
 .zhanbin.net
 ||zhanbin.net
