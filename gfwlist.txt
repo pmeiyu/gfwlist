@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5Q6mQ+rDxbN2eMpEmEiOOw
+! Checksum: QuJGfjnsSFgNwKdXCgHsLg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 29 Apr 2016 10:40:20 +0800
+! Last Modified: Fri, 29 Apr 2016 11:05:38 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -632,8 +632,9 @@ bipic.net
 .bitshare.com
 ||bitshare.com
 bitsnoop.com
+||bl-doujinsouko.com
 bjzc.org
-||bjzc.org/
+||bjzc.org
 .blacklogic.com
 .blackvpn.com
 ||blackvpn.com
@@ -1201,6 +1202,7 @@ dongtaiwang.com
 ||dotplane.com
 ||dotsub.com
 ||dougscripts.com
+||doujincafe.com
 dowei.org
 !--||doxygen.org
 dphk.org
@@ -1342,7 +1344,10 @@ erabaru.net
 .erktv.com
 |http://erktv.com
 ||ernestmandel.org
+||erodaizensyu.com
 ||erodoujinworld.com
+||eromanga-kingdom.com
+||eromangadouzin.com
 .eslite.com/product
 .eslite.com/Search_BW.aspx?q
 wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
@@ -1680,6 +1685,7 @@ gati.org.tw
 gdzf.org
 ||geek-art.net
 geekerhome.com/2010/03/xixiang-project-cross-gfw
+||geekheart.info
 ||geekmanuals.com
 !--||genuitec.com
 .geocities.co.jp
@@ -2053,6 +2059,8 @@ guruonline.hk
 
 !--------------------HH-------------------------
 ||h-china.org
+.h-moe.com
+|http://h-moe.com
 h1n1china.org
 .hacken.cc/bbs
 ||hackthatphone.net
@@ -2547,6 +2555,7 @@ karkhung.com
 wiki.keso.cn/Home
 .khabdha.org
 .khmusic.com.tw
+||kichiku-doujinko.com
 bbs.kimy.com.tw
 .kindleren.com
 |http://kindleren.com
