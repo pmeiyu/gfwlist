@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3V/g31DM6gLvdzZ7fud1/g
+! Checksum: JD0QscvkJTm2ANBA4n7Nlw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 03 May 2016 17:58:42 +0800
+! Last Modified: Tue, 03 May 2016 18:43:56 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -471,6 +471,7 @@ anontext.com
 .aofriend.com
 |http://aofriend.com
 .aofriend.com.au
+.aojiao.org
 ||aolchannels.aol.com
 video.aol.ca/video-detail
 video.aol.co.uk/video-detail
@@ -495,6 +496,7 @@ archive.is
 ||arethusa.su
 ||arlingtoncemetery.mil
 ||army.mil
+.art4tibet1998.org
 artsy.net
 ||asacp.org
 .asahichinese.com
@@ -1394,6 +1396,7 @@ eyevio.jp
 ||connect.facebook.net
 ||facebook.hu
 ||facebook.nl
+||facebook.se
 ||facebookquotes4u.com
 .faceless.me
 ||faceless.me
@@ -3134,11 +3137,9 @@ open.com.hk
 openallweb.com
 opendemocracy.net
 ||opendemocracy.net
-myopenid.com
-||myopenid.com
+.openervpn.in
 openid.net
 ||openid.net
-||blog.openinkpot.org
 .openleaks.org
 ||openleaks.org
 openvpn.net
@@ -3856,6 +3857,7 @@ usinfo.state.gov
 .state168.com
 ||steel-storm.com
 ||stepmania.com
+ny.stgloballink.com
 sthoo.com
 ||sthoo.com
 .stickam.com
@@ -4091,6 +4093,8 @@ tibetan-alliance.org
 .tibetanliberation.org
 ||tibetanliberation.org
 .tibetcollection.com
+.tibetancommunityuk.net
+|http://tibetancommunityuk.net
 tibetanculture.org
 .tibetanpaintings.com
 .tibetanphotoproject.com
@@ -4098,6 +4102,7 @@ tibetanculture.org
 .tibetanreview.net
 .tibetanwomen.org
 |http://tibetanwomen.org
+.tibetanyouth.org
 .tibetanyouthcongress.org
 ||tibetanyouthcongress.org
 .tibetcharity.dk
@@ -4112,7 +4117,7 @@ tibetfund.org
 tibethouse.jp
 tibethouse.org
 ||tibethouse.us
-tibettimes.net
+.tibetinfonet.net
 .tibetjustice.org
 |http://tibetmuseum.org
 tibetnetwork.org
@@ -4135,6 +4140,7 @@ tibetsites.com
 .tibetsociety.com
 ||tibetsociety.com
 .tibetsun.com
+tibettimes.net
 ||tibetwrites.org
 .ticket.com.tw
 !--Panama Papers
@@ -4154,6 +4160,8 @@ tinychat.com
 .tmagazine.com
 ||tmagazine.com
 |http://tmi.me
+.tmpp.org
+|http://tmpp.org
 .tnaflix.com
 ||tnaflix.com
 .tnp.org
