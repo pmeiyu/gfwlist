@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: aHEgHHJYG1hONg3HEK28zg
+! Checksum: j2oQp7/YVqSc2RKjrZ8ZQA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 May 2016 16:52:24 +0800
+! Last Modified: Wed, 04 May 2016 18:10:19 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -16,6 +16,7 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403 Forbidden & URL Redirects---------
+||4tern.com
 !--ehentai
 |http://85.17.73.31/
 ||adorama.com
@@ -50,6 +51,7 @@
 ||getuploader.com
 ||glass8.eu
 ||glype.com
+||go141.com
 ||hautelook.com
 ||hautelookcdn.com
 ||hmvdigital.ca
@@ -88,6 +90,7 @@
 ||mvg.jp
 |http://www.nbc.com/live
 ||netflix.com
+|http://mo.nightlife141.com
 ||nordstrom.com
 ||nordstromimage.com
 ||nordstromrack.com
@@ -195,6 +198,7 @@ t2.etowns.org
 ||deja.com
 ||digisfera.com
 ||domains.google
+||feedburner.com
 ||g.co
 ||get.how
 ||getmdl.io
@@ -734,6 +738,7 @@ boxunblog.com
 ||brazzers.com
 .break.com
 ||break.com
+breakgfw.com
 .breakingtweets.com
 ||breakingtweets.com
 ||breakwall.net
@@ -1047,6 +1052,7 @@ wiki.cnitter.com
 .cnproxy.com
 blog.cnyes.com
 news.cnyes.com
+.cochina.co
 ||cochina.co
 ||cochina.org
 .code1984.com/64
@@ -1061,7 +1067,6 @@ comefromchina.com
 ||communistcrimes.org
 ||communitychoicecu.com
 ||compileheart.com
-||conoyo.com
 .contactmagazine.net
 .convio.net
 .coobay.com
@@ -1357,6 +1362,8 @@ chinese.engadget.com
 ||englishfromengland.co.uk
 ||entermap.com
 .episcopalchurch.org
+.epochhk.com
+|http://epochhk.com
 epochtimes-bg.com
 ||epochtimes-bg.com
 epochtimes-romania.com
@@ -1511,8 +1518,6 @@ video.fdbox.com
 .fdc89.jp
 ||fourface.nodesnoop.com
 !--feedbooks.mobi
-||feedburner.com
-||feedzshare.com
 ||feelssh.com
 feer.com
 |http://feitianacademy.org
@@ -2473,6 +2478,7 @@ forum.iset.com.tw
 ||ismprofessional.net
 isohunt.com
 ||israbox.com
+.istars.co.nz
 oversea.istarshine.com
 ||oversea.istarshine.com
 blog.istef.info/2007/10/21/myentunnel
@@ -3133,6 +3139,7 @@ nuzcom.com
 ||nytimg.com
 userapi.nytlog.com
 nysingtao.com
+.nzchinese.com
 ||nzchinese.net.nz
 
 !--------------------OO-------------------------
@@ -3654,6 +3661,7 @@ savevid.com
 ||scriptspot.com
 seapuff.com
 domainhelp.search.com
+.searchtruth.com
 secretchina.com
 ||secretgarden.no
 ||default.secureserver.net
@@ -4195,6 +4203,7 @@ tinychat.com
 ||tkcs-collins.com
 .tmagazine.com
 ||tmagazine.com
+.tmdfish.com
 |http://tmi.me
 .tmpp.org
 |http://tmpp.org
