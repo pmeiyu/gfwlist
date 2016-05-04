@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: j2oQp7/YVqSc2RKjrZ8ZQA
+! Checksum: 0eray+q7QCC0efHloukecQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 May 2016 18:10:19 +0800
+! Last Modified: Wed, 04 May 2016 18:42:34 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -790,6 +790,7 @@ holz.byethost8.com
 .c-spanvideo.org
 ||c-spanvideo.org
 ||c-est-simple.com
+.c100tibet.org
 .cachinese.com
 .cacnw.com
 |http://cacnw.com
@@ -1149,6 +1150,9 @@ dalailama.com
 .dalailama.mn
 |http://dalailama.mn
 dalailama80.org
+.dalailamacenter.org
+|http://dalailamacenter.org
+.dalailamafoundation.org
 .dalailamahindi.com
 .dalailamajapanese.com
 .dalailamaprotesters.info
@@ -1198,7 +1202,6 @@ dfn.org
 .dharamsalanet.com
 .diaoyuislands.org
 ||diaoyuislands.org
-static.digg.com
 |http://digiland.tw/
 ||digitalnomadsproject.org
 .diigo.com
@@ -1207,8 +1210,8 @@ static.digg.com
 ||furl.net
 .dipity.com
 ||directcreative.com
-||discogs.com
-@@||cdn.discogs.com
+!--||discogs.com
+!--@@||cdn.discogs.com
 |https://search.disconnect.me
 .discuss.com.hk
 ||discuss.com.hk
@@ -1223,6 +1226,7 @@ djangosnippets.org
 ||dl-laby.jp
 ||dlsite.com
 ||dmcdn.net
+.dnscrypt.org
 ||dnscrypt.org
 ||dns2go.com
 ||dnssec.net
@@ -3895,6 +3899,7 @@ www.stackfile.com/freedur
 ||standupfortibet.org
 stanford.edu/group/falun
 usinfo.state.gov
+||statueofdemocracy.org
 .starp2p.com
 ||starp2p.com
 .startpage.com
@@ -4119,6 +4124,8 @@ tibet.nu
 .tibet.org
 ||tibet.org
 tibet.org.tw
+.tibet-envoy.eu
+||tibet-envoy.eu
 .tibet-foundation.org
 .tibet-house-trust.co.uk
 tibet-info.net
@@ -4135,6 +4142,7 @@ tibetan-alliance.org
 .tibetanliberation.org
 ||tibetanliberation.org
 .tibetcollection.com
+.tibetanaidproject.org
 .tibetancommunityuk.net
 |http://tibetancommunityuk.net
 tibetanculture.org
@@ -4159,6 +4167,7 @@ tibetfund.org
 .tibetgermany.com
 ||tibetgermany.de
 .tibethaus.com
+.tibetheritagefund.org
 tibethouse.jp
 tibethouse.org
 ||tibethouse.us
@@ -4528,7 +4537,6 @@ uncyclomedia.org
 ||unholyknight.com
 .uni.cc
 .unification.org.tw
-.uniteddaily.com.my/index.php?
 .unitedsocialpress.com
 .unix100.com
 ||unknownspace.org
@@ -4918,6 +4926,8 @@ worldjournal.com
 woxinghuiguo.com
 .wow-life.net
 ||wowlegacy.ml
+.woyaolian.org
+|http://woyaolian.org
 .wpoforum.com
 ||wpoforum.com
 .wqlhw.com
@@ -5037,6 +5047,7 @@ video.yahoo.com
 ||yakbutterblues.com
 yam.com
 ||yam.com
+.yanghengjun.com
 yangjianli.com
 .yasni.co.uk
 ||yasni.co.uk
