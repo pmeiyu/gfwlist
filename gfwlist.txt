@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: UCkkjERtgV/7cmL6K+zHZw
+! Checksum: aHEgHHJYG1hONg3HEK28zg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 May 2016 16:20:55 +0800
+! Last Modified: Wed, 04 May 2016 16:52:24 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2664,14 +2664,14 @@ laomiu.com
 .laoyang.info
 |http://laoyang.info
 ||laptoplockdown.com
+.laqingdan.net
 ||laqingdan.net
 ||larsgeorge.com
 ||lastfm.es
 latelinenews.com
 .latibet.org
-||lazarsearlymusic.com
 ||le-vpn.com
-||leecheukyan.org
+!--||leecheukyan.org
 lefora.com
 ||left21.hk
 |http://leirentv.ca
@@ -2707,12 +2707,8 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||apidocs.linksalpha.com
 ||www.linksalpha.com
 ||help.linksalpha.com
-||linux-engineer.net
-||linuxconfig.org
-||linuxreviews.org
 linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lipuman.com
-!--.lipuman.org
 ||listentoyoutube.com
 listorious.com
 ||liudejun.com
@@ -2721,7 +2717,6 @@ listorious.com
 ||liujianshu.com
 liuxiaotong.com
 ||liuxiaotong.com
-liu.lu
 .liveleak.com
 ||liveleak.com
 .livestation.com
@@ -2746,8 +2741,6 @@ secure.logmein.com
 .londonchinese.ca
 .longhair.hk
 ||longtermly.net
-.lookatgame.com
-|http://lookatgame.com
 ||lookingglasstheatre.org
 ||lookpic.com
 .looktoronto.com
@@ -2784,7 +2777,7 @@ lvhai.org
 
 !--------------------MM-------------------------
 m-team.cc/forum
-www.macrovpn.com
+.macrovpn.com
 macts.com.tw
 ||mad-ar.ch
 ||madthumbs.com
@@ -2956,8 +2949,6 @@ multiproxy.org
 multiupload.com
 .mullvad.net
 ||mullvad.net
-||muouju.com
-||muselinks.co.jp
 ||muzi.com
 ||muzi.net
 ||mx981.com
@@ -4047,7 +4038,6 @@ tbswd.org
 tchrd.org
 ||techlifeweb.com
 !--technorati.com
-||techparaiso.com
 ||teck.in
 .teeniefuck.net
 teensinasia.com
@@ -4066,7 +4056,6 @@ theblemish.com
 |http://www.thechinastory.org/yearbooks/yearbook-2012/
 .thedalailamamovie.com
 |http://thedalailamamovie.com
-||thedieline.com
 ||thedw.us
 thefrontier.hk/tf
 !--||thegatesnotes.com
@@ -4082,7 +4071,6 @@ thehousenews.com
 thepiratebay.org
 !--||thepiratebay.se
 thereallove.kr
-||thesartorialist.com
 thespeeder.com
 ||thestandnews.com
 thetibetcenter.org
@@ -4205,7 +4193,6 @@ tinychat.com
 ||tinypaste.com
 .tistory.com
 ||tkcs-collins.com
-||tkforum.tk
 .tmagazine.com
 ||tmagazine.com
 |http://tmi.me
@@ -4233,9 +4220,8 @@ top81.ws
 .torguard.net
 ||torguard.net
 .topshareware.com
-||topstyle4.com
-||topsy.com
 .topsy.com
+||topsy.com
 ||toptip.ca
 tora.to
 .torcn.com
@@ -4249,7 +4235,6 @@ torrentprivacy.com
 ||torrenty.org
 ||torrentz.eu
 ||torvpn.com
-touch99.com
 ||toutfr.com
 towngain.com
 .tparents.org
@@ -4283,12 +4268,12 @@ trulyergonomic.com
 tsquare.tv
 .tsu.org.tw
 tsunagarumon.com
-|http://www.tsuru-bird.net/
+!--|http://www.tsuru-bird.net/
 .tsctv.net
 ||tt-rss.org
 ||tt1069.com
-||tttan.com
 .tttan.com
+||tttan.com
 bb.ttv.com.tw/bb
 tu8964.com
 .tuanzt.com
@@ -4963,7 +4948,7 @@ xanga.com
 .xbookcn.com
 ||xbookcn.com
 ||xcafe.in
-x.xcity.jp
+||xcity.jp
 .xcritic.com
 |http://cdn*.xda-developers.com
 destiny.xfiles.to/ubbthreads
@@ -5002,8 +4987,6 @@ xmovies.com
 ||xnxx.com
 xpdo.net
 ||xpud.org
-||k2.xrea.com
-one.xthost.info
 ||xtube.com
 blog.xuite.net
 vlog.xuite.net
@@ -5064,7 +5047,6 @@ yegle.net
 ||yecl.net
 !--yfrog.com
 ||yhcw.net
-.yi.org
 .yibada.com
 .yibaochina.com
 .yidio.com
@@ -5129,11 +5111,10 @@ zacebook.com
 ||zaobao.com.sg
 .zaozon.com
 ||zarias.com
-www.zaurus.org.uk
 !--.zdnet.com.tw/news/software/0,2000085678,20111187,00
 ||zdnet.com.tw
 .zengjinyan.org
-!--||zeutch.com
+||zeutch.com
 !--www.zfreet.com/post/usejump-browns.html
 .zfreet.com
 zgzcjj.net
@@ -5165,8 +5146,8 @@ zinio.com
 .zkaip.com
 ||zkaip.com
 realforum.zkiz.com
-!--||zlib.net/
-zmw.cn
+!--||zlib.net
+||zmw.cn
 zomobo.net
 .zonaeuropa.com
 ||zonaeuropa.com
