@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: O1OQnKrVFh5hGJMPfyA2XA
+! Checksum: rnNsKeXdk5VHpKSrql8JDA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 May 2016 21:04:24 +0800
+! Last Modified: Wed, 04 May 2016 23:04:09 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -908,6 +908,8 @@ chengmingmag.com
 .chenguangcheng.com
 ||chenguangcheng.com
 .chenpokong.com
+.chenpokong.net
+|http://chenpokong.net
 ||cherrysave.com
 .chhongbi.org
 chicagoncmtv.com
@@ -2607,6 +2609,7 @@ juziyue.com
 ||kakao.com
 .kannewyork.com
 .kanshifang.com
+||kanshifang.com
 kanzhongguo.com
 kanzhongguo.eu
 ||karayou.com
@@ -2718,6 +2721,7 @@ letscorp.net
 .liaowangxizang.net
 ||liberal.org.hk
 .libertytimes.com.tw
+blogs.libraryinformationtechnology.com/jxyz
 .lidecheng.com/blog/fucking-gfw
 .lighten.org.tw
 limiao.net
@@ -2819,7 +2823,7 @@ maskedip.com
 mail-archive.com
 .malaysiakini.com
 ||makemymood.com
-||marines.mil
+!--||marines.mil
 markmail.org*message
 ||martau.com
 |http://blog.martinoei.com
@@ -3080,10 +3084,13 @@ newtalk.tw
 ||newtalk.tw
 newyorktimes.com
 ||nexon.com
+.nextmag.com.tw
+
 !--hk*.nextmedia.com
 !--tw*.nextmedia.com
 !--static*.nextmedia.com
 .nextmedia.com
+
 ||nexton-net.jp
 nexttv.com.tw
 ||nga.mil
@@ -3606,7 +3613,6 @@ riku.me/
 ||rlwlw.com
 .rmjdw.com
 .rmjdw132.info
-|https://rnw*.global.ssl.fastly.net/
 .roadshow.hk
 robtex.com
 ||robustnessiskey.com
@@ -3720,6 +3726,7 @@ sexinsex.net
 
 |http://*.sf.net
 .sfileydy.com
+||sfshibao.com
 .sftindia.org
 .sftuk.org
 ||sftuk.org
