@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 1S+u5juwgZ1RG/BoX1+E9A
+! Checksum: ffWGnHXHkacChwOFOoTkmQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 May 2016 14:16:38 +0800
+! Last Modified: Wed, 04 May 2016 14:39:14 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4525,6 +4525,7 @@ unblock-us.com
 ||unblocksit.es
 uncyclomedia.org
 .uncyclopedia.hk/wiki
+|http://uncyclopedia.hk
 !--uncyclopedia.info
 |http://uncyclopedia.tw
 ||unholyknight.com
