@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ffWGnHXHkacChwOFOoTkmQ
+! Checksum: uXTZ5e9f+VkGxgGoZy0lKQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 May 2016 14:39:14 +0800
+! Last Modified: Wed, 04 May 2016 15:03:47 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2532,6 +2532,7 @@ jieshibaobao.com
 56cun04.jigsy.com
 jigong1024.com
 daodu14.jigsy.com
+specxinzl.jigsy.com
 wlcnew.jigsy.com
 jinbushe.org
 ||jinbushe.org
