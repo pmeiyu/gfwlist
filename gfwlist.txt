@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: PCemXWdyDYVXOEsRlwm+lQ
+! Checksum: fYLFHCcXeJrbVmlWxxnP0w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 May 2016 09:59:49 +0800
+! Last Modified: Wed, 04 May 2016 11:14:08 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -42,6 +42,7 @@
 ||fakku.net
 ||fastpic.ru
 ||financetwitter.com
+||findmima.com
 ||flipboard.com
 ||flitto.com
 ||fxnetworks.com
@@ -560,6 +561,8 @@ badoo.com
 ||baixing.me
 .banana-vpn.com
 ||banana-vpn.com
+.bangchen.net
+|http://bangchen.net
 ||bangyoulater.com
 ||bannedbook.org
 bannedbook.org
@@ -868,6 +871,8 @@ cdpwu.org
 ||change.org
 .changp.com
 ||changp.com
+.changsa.net
+|http://changsa.net
 .chapm25.com
 .chaturbate.com
 .chuang-yen.org
@@ -899,6 +904,7 @@ chinachange.org
 chinachannel.hk
 ||chinachannel.hk
 .chinacitynews.be
+.chinadialogue.net
 .chinadigitaltimes.net
 ||chinadigitaltimes.net
 .chinaelections.org
@@ -1119,7 +1125,11 @@ daiphapinfo.net
 ||dajiyuan.de
 dajiyuan.eu
 dalailama.com
+.dalailama.mn
+|http://dalailama.mn
 dalailama80.org
+.dalailamahindi.com
+.dalailamajapanese.com
 .dalailamaprotesters.info
 .dalailamaworld.com
 ||dalailamaworld.com
@@ -1281,6 +1291,8 @@ e-info.org.tw
 |http://e-zone.com.hk/discuz
 .e123.hk
 |http://e123.hk/
+.earlytibet.com
+|http://earlytibet.com
 .earthcam.com
 eastern-ark.com
 .easternlightning.org
@@ -2477,6 +2489,7 @@ iyouport.com
 ||j.mp
 blog.jackjia.com
 .jamyangnorbu.com
+|http://jamyangnorbu.com
 ||japan-whores.com
 .jav68.tv
 .javhip.com
@@ -2517,6 +2530,7 @@ jjgirls.com
 jkforum.net
 ||jma.go.jp
 research.jmsc.hku.hk/social
+weiboscope.jmsc.hku.hk
 ||joachims.org
 ||jobso.tv
 ||joeedelman.com
@@ -2652,6 +2666,8 @@ blog.lester850.info
 ||lesoir.be
 letscorp.net
 ||letscorp.net
+.lhakar.org
+|http://lhakar.org
 .liangyou.net
 ||liangyou.net
 .lianyue.net
@@ -3469,6 +3485,7 @@ qxbbs.org
 .ra.gg
 |http://ra.gg/
 .radicalparty.org
+||raggedbanner.com
 radioaustralia.net.au
 .radiohilight.net
 ||radiohilight.net
@@ -4105,6 +4122,7 @@ tibetan-alliance.org
 .tibetancommunityuk.net
 |http://tibetancommunityuk.net
 tibetanculture.org
+tibetanfeministcollective.org
 .tibetanpaintings.com
 .tibetanphotoproject.com
 .tibetanpoliticalreview.org
@@ -5062,6 +5080,7 @@ topic.youthwant.com.tw
 |http://yourlisten.com
 .yourlust.com
 |http://yourlust.com
+youshun12.com
 .youtubecn.com
 youversion.com
 ||youversion.com
