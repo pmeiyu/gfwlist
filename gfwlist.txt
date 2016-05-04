@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: JD0QscvkJTm2ANBA4n7Nlw
+! Checksum: PCemXWdyDYVXOEsRlwm+lQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 03 May 2016 18:43:56 +0800
+! Last Modified: Wed, 04 May 2016 09:59:49 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -49,6 +49,8 @@
 ||getuploader.com
 ||glass8.eu
 ||glype.com
+||hautelook.com
+||hautelookcdn.com
 ||hmvdigital.ca
 ||hmvdigital.com
 ||homedepot.com
@@ -742,6 +744,12 @@ brucewang.net
 .bullogger.com
 ||bullogger.com
 .businessinsider.com/bing-could-be-censoring-search-results-2014
+.businessinsider.com/china-banks-preparing-for-debt-implosion-2014
+.businessinsider.com/hong-kong-activists-defy-police-tear-gas-as-protests-continue-overnight-2014
+.businessinsider.com/internet-outages-reported-in-north-korea-2014
+.businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014
+.businessinsider.com/nfl-announcers-surface-tablets-2014
+.businessinsider.com/umbrella-man-hong-kong-2014
 |http://static*.businessinsider.com/
 |http://www.businessinsider.com.au/*
 .businessweek.com
@@ -2963,8 +2971,9 @@ old.nabble.com
 ||nanyang.com
 .nanyangpost.com
 ||nanyangpost.com
-.nanzao.com/sc/china/20223
-.nanzao.com/sc/hk-macau-tw
+.nanzao.com
+!--.nanzao.com/sc/china/20223
+!--.nanzao.com/sc/hk-macau-tw
 ||jpl.nasa.gov
 ||pds.nasa.gov
 ||solarsystem.nasa.gov
@@ -4113,6 +4122,8 @@ tibetcharity.in
 |http://tibetexpress.net
 tibetfocus.com
 tibetfund.org
+.tibetgermany.com
+||tibetgermany.de
 .tibethaus.com
 tibethouse.jp
 tibethouse.org
@@ -4250,6 +4261,7 @@ tube8.com
 ||tube911.com
 tubecao.com
 .tubecup.com
+.tubegals.com
 ||tubewolf.com
 tuidang.net
 tuidang.org
@@ -4458,6 +4470,8 @@ udnbkk.com/bbs
 ||uforadio.com.tw
 ufreevpn.com
 .ugo.com
+!--ghs
+||uhdwallpapers.org
 ||uhrp.org
 .uighur.nl
 ||uighur.nl
