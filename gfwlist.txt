@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 0eray+q7QCC0efHloukecQ
+! Checksum: O1OQnKrVFh5hGJMPfyA2XA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 May 2016 18:42:34 +0800
+! Last Modified: Wed, 04 May 2016 21:04:24 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -36,6 +36,7 @@
 ||crossfire.co.kr
 ||darpa.mil
 ||desipro.de
+||dish.com
 |http://img.dlsite.jp/
 ||share.dmhy.org
 ||dmm.co.jp
@@ -96,7 +97,10 @@
 ||nordstromrack.com
 ||ntdtv.cz
 ||nuuvem.com
-||osaka69.com
+!--We are confused as well
+||ontrac.com
+@@|http://blog.ontrac.com
+|osaka69.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -115,6 +119,7 @@
 ||springboardplatform.com
 ||sprite.org
 @@|http://store.sprite.org
+||superpages.com
 ||switch1.jp
 ||tapanwap.com
 ||target.com
@@ -482,6 +487,7 @@ aniscartujo.com
 ||anonymitynetwork.com
 .anonymizer.com
 anontext.com
+.anpopo.com
 .answering-islam.org
 |http://www.antd.org
 ||anthonycalzadilla.com
@@ -1088,6 +1094,7 @@ crackle.com
 crd-net.org
 creaders.net
 ||creaders.net
+||cristyli.com
 .crocotube.com
 |http://crocotube.com
 .crossthewall.net
@@ -1142,6 +1149,7 @@ dafahao.com
 .dailidaili.com
 ||dailidaili.com
 .dailymotion.com
+||dailymotion.com
 daiphapinfo.net
 .dajiyuan.com
 ||dajiyuan.de
@@ -1589,6 +1597,7 @@ video.foxbusiness.com
 ||focustaiwan.tw
 .focusvpn.com
 ||fofg.org
+.fofg-europe.net
 .fooooo.com
 ||fooooo.com
 footwiball.com
@@ -2281,6 +2290,8 @@ holyspiritspeaks.org
 ||derekhsu.homeip.net
 |http://homeservershow.com
 |http://old.honeynet.org/scans/scan31/sub/doug_eric/spam_translation.html
+.hongkongfp.com
+||hongkongfp.com
 hongmeimei.com
 ||hongzhi.li
 hootsuite.com
@@ -2288,6 +2299,7 @@ hootsuite.com
 |http://globalrescue.hopto.org/
 .hornygamer.com
 .hotav.tv
+.hotpornshow.com
 hotpot.hk
 .hotshame.com
 ||hotspotshield.com
@@ -2467,6 +2479,7 @@ chinese.irib.ir
 ||ironicsoftware.com
 ||ironbigfools.compython.net
 ||ironpython.net
+.is.gd
 .beta.iset.com.tw/forum
 http://beta.iset.com.tw/forum
 forum.iset.com.tw
@@ -2507,6 +2520,7 @@ ithelp.ithome.com.tw
 .ivpn.net
 !--||ivpn.net
 ||ixquick.com
+.ixxx.com
 iyouport.com
 ||iyouport.com
 .izaobao.us
@@ -3124,6 +3138,7 @@ ntdtv.com
 ntdtv.ca
 ntdtv.org
 ntdtv.ru
+ntdtvla.com
 ||cbs.ntu.edu.tw
 .nubiles.net
 ||nuexpo.com
@@ -3176,8 +3191,6 @@ showbiz.omy.sg
 ||onlineyoutube.com
 onmoon.net
 onmoon.com
-!--Sorry but we are confused as well
-||ontrac.com
 .oopsforum.com
 open.com.hk
 openallweb.com
@@ -3295,6 +3308,7 @@ penchinese.com
 ||penchinese.net
 .penchinese.net
 pengyulong.com
+penisbot.com
 ||blog.pentalogic.net
 .penthouse.com
 .pentoy.hk/%E4%B8%AD%E5%9C%8B
@@ -3367,6 +3381,8 @@ popyard.com
 .pornoxo.com
 .pornrapidshare.com
 ||pornrapidshare.com
+.pornsharing.com
+|http://pornsharing.com
 .pornstarclub.com
 ||pornstarclub.com
 .porntube.com
@@ -3695,9 +3711,13 @@ forum.setty.com.tw
 .sexhuang.com
 sexinsex.net
 ||sexinsex.net
+.sextvx.com
+
 !--IP of SexInSex
+67.220.91.15
 67.220.91.18
 67.220.91.23
+
 |http://*.sf.net
 .sfileydy.com
 .sftindia.org
@@ -4352,6 +4372,7 @@ news.tvbs.com.tw
 |http://tvboxnow.com/
 tvider.com
 .tvmost.com.hk
+.tvplayvideos.com
 ||tvunetworks.com
 .tw-npo.org
 twapperkeeper.com
@@ -4656,6 +4677,7 @@ voatibetan.com
 ||voatibetan.com
 .voatibetanenglish.com
 ||voatibetanenglish.com
+.vocativ.com
 vocn.tv
 .vot.org
 ||vot.org
