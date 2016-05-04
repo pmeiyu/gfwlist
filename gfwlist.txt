@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fYLFHCcXeJrbVmlWxxnP0w
+! Checksum: o7vJLof1k1A21/k9x/6ZSw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 May 2016 11:14:08 +0800
+! Last Modified: Wed, 04 May 2016 13:27:49 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -147,6 +147,19 @@ china-mmm.jp.net
 china-mmm.sa.com
 
 !---------------------Groups--------------------
+!!---AvMoo---
+.avmo.pw
+!--|http://avmo.pw
+.avmoo.com
+|http://avmoo.com
+.avmoo.net
+|http://avmoo.net
+||avmoo.pw
+.javmoo.xyz
+|http://javmoo.xyz
+.javzoo.com
+|http://javzoo.com
+
 !!---DtDNS---
 .4irc.com
 .deaftone.com
