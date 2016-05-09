@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: EW2Pl2AWtbWRrfnzpJifkA
+! Checksum: ADreZCjq0DsmhmF78zA6Zw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 07 May 2016 12:58:14 +0800
+! Last Modified: Mon, 09 May 2016 11:21:22 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -83,6 +83,8 @@
 ||madonna-av.com
 ||mangafox.com
 ||mangafox.me
+||matome-plus.com
+||matome-plus.net
 ||mattwilcox.net
 ||metarthunter.com
 ||mfxmedia.com
@@ -442,6 +444,8 @@ voa-11.akacast.akamaistream.net
 ||akiba-online.com
 ||al-qimmah.net
 ||alabout.com
+.alanhou.com
+|http://alanhou.com
 ||alasbarricadas.org
 alexlur.org
 ||alforattv.net
@@ -1130,6 +1134,7 @@ cts.com.tw
 ||cusu.hk
 .cw.com.tw
 |http://forum.cyberctm.com
+cyberghostvpn.com
 ||cyberghostvpn.com
 ||cynscribe.com
 cytode.us
@@ -2165,6 +2170,8 @@ bbs.hasi.wang
 have8.com
 @@||haygo.com
 ||hdtvb.net
+.hdzog.com
+|http://hdzog.com
 ||heartyit.com
 .hec.su
 |http://hec.su
@@ -2354,13 +2361,13 @@ humanrightsbriefing.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
 ||huping.net
+.hurriyet.com.tr
 ||hutianyi.net
 hutong9.net
 ||hwayue.org.tw
 ||hwinfo.com
 |http://fang-lizhi.hxwk.org/
 hxwq.org
-||hypeshell.com
 ||hyperrate.com
 
 !--------------------II-------------------------
