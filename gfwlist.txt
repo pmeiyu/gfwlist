@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ADreZCjq0DsmhmF78zA6Zw
+! Checksum: AwnhCRCMFa4WQXgpUgZFQQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 09 May 2016 11:21:22 +0800
+! Last Modified: Mon, 09 May 2016 12:01:07 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -606,6 +606,8 @@ bannedbook.org
 bayvoice.net
 ||bayvoice.net
 dajusha.baywords.com
+||bbchat.tv
+||bb-chat.tv
 .bbc.co.uk*chinese
 .bbc.co.uk/tv
 .bbc.co*zhongwen
@@ -1377,6 +1379,7 @@ electionsmeter.com
 ||elpais.com
 .eltondisney.com
 ||emacsblog.org
+.emaga.com/info/3407
 emilylau.org.hk
 .empfil.com
 .emule-ed2k.com
@@ -5105,6 +5108,7 @@ video.yahoo.com
 ||yakbutterblues.com
 yam.com
 ||yam.com
+||yam.org.tw
 .yanghengjun.com
 yangjianli.com
 .yasni.co.uk
