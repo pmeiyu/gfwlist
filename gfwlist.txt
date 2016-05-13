@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: AwnhCRCMFa4WQXgpUgZFQQ
+! Checksum: HJ7y8oFKv7OEzk5lff6clQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 09 May 2016 12:01:07 +0800
+! Last Modified: Fri, 13 May 2016 19:40:40 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -137,6 +137,7 @@
 ||wheretowatch.com
 ||wingamestore.com
 ||wizcrafts.net
+||xfinity.com
 ||zattoo.com
 ||zozotown.com
 
@@ -202,6 +203,7 @@ china-mmm.sa.com
 ||chromecast.com
 ||chromeexperiments.com
 ||chromercise.com
+||chromestatus.com
 ||chromium.org
 ||com.google
 ||data-vocabulary.org
@@ -609,6 +611,7 @@ dajusha.baywords.com
 ||bbchat.tv
 ||bb-chat.tv
 .bbc.co.uk*chinese
+.bbc.co.uk/news/world-asia-china
 .bbc.co.uk/tv
 .bbc.co*zhongwen
 news.bbc.co.uk/onthisday*newsid_2496000/2496277
@@ -1213,7 +1216,8 @@ packages.debian.org/zh-cn/lenny/gpass
 delicious.com/GFWbookmark
 .democrats.org
 ||democrats.org
-||desc.se/
+||desc.se
+||dessci.com
 .destroy-china.jp
 ||deutsche-welle.de
 !--||deviantart.com
@@ -1580,6 +1584,8 @@ finler.net
 .falsefire.com
 ||falsefire.com
 fleshbot.com
+.fleursdeslettres.com
+|http://fleursdeslettres.com
 ||flgg.us
 
 !--||farm6.staticflickr.com
@@ -1702,6 +1708,7 @@ hk.frienddy.com/hk
 ||fscked.org
 .fsurf.com
 .ftchinese.com/story/001054103
+www.ftchinese.com/story/001067479
 .ftchinese.com/*video
 .ftchinese.com/comments
 fucd.com
@@ -2555,6 +2562,7 @@ iyouport.com
 blog.jackjia.com
 .jamyangnorbu.com
 |http://jamyangnorbu.com
+||janwongphoto.com
 ||japan-whores.com
 .jav68.tv
 .javhip.com
@@ -2902,6 +2910,7 @@ meshrep.com
 .metacafe.com
 ||meteorshowersonline.com
 |http://www.metro.taipei/
+.metrohk.com.hk/?cmd=detail&categoryID=2
 ||metrolife.ca
 .metroradio.com.hk
 |http://metroradio.com.hk
