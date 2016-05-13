@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: HJ7y8oFKv7OEzk5lff6clQ
+! Checksum: /asrY4zV20uHVp2sLC3GDA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 13 May 2016 19:40:40 +0800
+! Last Modified: Fri, 13 May 2016 20:26:56 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -643,6 +643,7 @@ beric.me
 .bestforchina.org
 ||bestforchina.org
 ||bestvpn.com
+.bestvpnserver.com
 .bestvpnservice.com
 .bestvpnusa.com
 ||bet365.com
@@ -2437,6 +2438,7 @@ ifjc.org
 ||ignitedetroit.net
 ||igvita.com
 ||ihakka.net
+.ihao.org/dz5
 ||iicns.com
 ||illusionfactory.com
 ||ilove80.be
@@ -2597,6 +2599,7 @@ jinbushe.org
 zhao.jinhai.de
 jingpin.org
 ||jingpin.org
+jinpianwang.com
 ac.jiruan.net
 ||jitouch.com
 .jizzthis.com
@@ -4730,6 +4733,8 @@ vocn.tv
 ||vot.org
 www.voy.com
 .vpn4all.com
+.vpnaccount.org
+|http://vpnaccount.org
 ||www.vpncup.com
 vpnbook.com
 .vpnfan.com
@@ -4739,6 +4744,7 @@ vpnfire.com
 ||vpngate.jp
 .vpngate.net
 ||vpngate.net
+.vpngratis.net
 vpnhq.com
 .vpnmaster.com
 ||vpnmaster.com
@@ -5208,6 +5214,7 @@ zacebook.com
 ||zeutch.com
 !--www.zfreet.com/post/usejump-browns.html
 .zfreet.com
+.zgsddh.com
 zgzcjj.net
 .zhanbin.net
 ||zhanbin.net
