@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: lGPRC+qgjyX34g7E0vbSfw
+! Checksum: GOSAdq/w1pyoI/mjBZvlmA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 13 May 2016 20:31:36 +0800
+! Last Modified: Sun, 15 May 2016 23:03:54 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -178,6 +178,7 @@ china-mmm.sa.com
 .4irc.com
 .chatnook.com
 .deaftone.com
+.dtdns.net
 .effers.com
 .etowns.org
 .flnet.org
@@ -402,6 +403,8 @@ a5.com.ru
 .accim.org
 .acevpn.com
 ||acevpn.com
+.acg18.me
+|http://acg18.me
 ||acgkj.com
 actimes.com.au
 activpn.com
@@ -526,6 +529,7 @@ video.ap.org
 apkpure.com
 !--||appannie.com
 appledaily.com
+||appsocks.net
 archive.is
 ||archive.org
 .arctosia.com
@@ -594,6 +598,7 @@ backtotiananmen.com
 badoo.com
 |http://*2.bahamut.com.tw
 ||baidu.jp
+||bailandaily.com
 ||baixing.me
 .banana-vpn.com
 ||banana-vpn.com
@@ -628,6 +633,7 @@ bbsland.com
 .bcc.com.tw/board
 .bcchinese.net
 .bcmorning.com
+.beaconevents.com
 .bebo.com
 ||bebo.com
 .beevpn.com
@@ -719,6 +725,7 @@ blogtd.net
 bloomberg.de
 ||bloomberg.de
 ||bloomfortune.com
+.bmfinn.com
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
@@ -812,6 +819,7 @@ holz.byethost8.com
 ||c-spanvideo.org
 ||c-est-simple.com
 .c100tibet.org
+||cablegatesearch.net
 .cachinese.com
 .cacnw.com
 |http://cacnw.com
@@ -1373,7 +1381,6 @@ edoors.com
 .edupro.org
 ||eevpn.com
 efcc.org.hk
-||efmoe.com
 ||eic-av.com
 .eisbb.com
 .eksisozluk.com
@@ -1383,7 +1390,6 @@ electionsmeter.com
 ||elgoog.im
 ||elpais.com
 .eltondisney.com
-||emacsblog.org
 .emaga.com/info/3407
 emilylau.org.hk
 .empfil.com
@@ -1576,6 +1582,8 @@ fgmtv.net
 fillthesquare.org
 filmingfortibet.org
 ||finalion.jp
+.finchvpn.com
+||finchvpn.com
 !--findbook.tw
 .fingerdaily.com
 finler.net
@@ -2296,6 +2304,7 @@ hkgolden.com
 hkhkhk.com
 hkhrc.org.hk
 hkhrm.org.hk
+||hkip.org.uk
 1989report.hkja.org.hk
 hkjc.com
 .hkjp.org
@@ -2679,6 +2688,7 @@ killwall.com
 .kir.jp
 .kissbbao.cn
 |http://kiwi.kz
+||kk-whys.co.jp
 !--||kmt.org.tw
 .knowledgerush.com/kr/encyclopedia
 ||kodingen.com
@@ -3118,6 +3128,7 @@ newspeak.cc/story
 .newsancai.com
 ||newsancai.com
 .newsdh.com
+||newstamago.com
 ||newstapa.org
 newstarnet.com
 .newtaiwan.com.tw
@@ -3522,6 +3533,8 @@ prozz.net
 psblog.name
 ||psblog.name
 ||psiphon.ca
+.psiphon3.com
+||psiphon3.com
 .ptt.cc
 ||ptt.cc
 .puffstore.com
@@ -3679,6 +3692,7 @@ robtex.com
 .rthk.org.hk
 |http://rthk.org.hk
 rti.org.tw
+.rtycminnesota.org
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 .rushbee.com
 rutube.ru
@@ -3830,6 +3844,7 @@ news.sina.com.tw
 .sinchew.com.my/taxonomy/term
 .singaporepools.com.sg
 ||singaporepools.com.sg
+.singfortibet.com
 singtao.com
 ||singtao.com
 news.singtao.ca
@@ -4649,6 +4664,7 @@ beta.usejump.com
 usus.cc
 .utopianpal.com
 ||utopianpal.com
+.uu-gg.com
 .uwants.com
 .uwants.net
 uyghur.co.uk
@@ -4707,6 +4723,7 @@ vimeo.com
 |http://www.lib.virginia.edu/area-studies/Tibet/tibet.html
 |http://ny.visiontimes.com/
 .vital247.org
+||viu.com
 .vivatube.com
 .vivthomas.com
 ||vivthomas.com
@@ -4718,7 +4735,6 @@ cn.voa.mobi
 tw.voa.mobi
 .voachineseblog.com
 ||voachineseblog.com
-!--voachineseblog.com/heqinglian
 voagd.com
 .voacantonese.com
 ||voacantonese.com
@@ -4872,6 +4888,7 @@ zh.uncyclopedia.wikia.com
 .wikileaks.org
 ||wikileaks.org
 ||wikileaks.pl
+.wikileaks-forum.com
 ||collateralmurder.com
 ||collateralmurder.org
 wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
@@ -5000,9 +5017,10 @@ worldjournal.com
 ||chenshan20042005.wordpress.com
 ||wp.com
 !-||wormsculptor.com
-woxinghuiguo.com
+.wow.com
 .wow-life.net
 ||wowlegacy.ml
+woxinghuiguo.com
 .woyaolian.org
 |http://woyaolian.org
 .wpoforum.com
