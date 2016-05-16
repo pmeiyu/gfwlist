@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: H6aEzUMFnM65BGfjm70C1g
+! Checksum: gWkLNYNEgTxPxP4hEN6HFQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 May 2016 10:31:25 +0800
+! Last Modified: Mon, 16 May 2016 13:35:12 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -526,6 +526,7 @@ video.ap.org
 ||apiary.io
 .apigee.com
 ||apigee.com
+apk-dl.com
 apkpure.com
 !--||appannie.com
 appledaily.com
@@ -868,6 +869,7 @@ catholic.org.tw
 ||catholic.org.tw
 .cathvoice.org.tw
 ||cattt.com
+.cbc.ca
 ||cbc.ca
 .cbsnews.com/video
 .cbtc.org.hk
@@ -1121,6 +1123,7 @@ crackle.com
 crd-net.org
 creaders.net
 ||creaders.net
+.creadersnet.com
 ||cristyli.com
 .crocotube.com
 |http://crocotube.com
@@ -1206,7 +1209,7 @@ darktoy.net
 .david-kilgour.com
 |http://david-kilgour.com
 daxa.cn
-||daxa.cn/
+||daxa.cn
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
 ||db.tt
@@ -1234,7 +1237,6 @@ delicious.com/GFWbookmark
 !--||deviantart.net
 ||devio.us
 ||devpn.com
-|http://www.dfanning.com
 ||dfas.mil
 dfn.org
 .dharamsalanet.com
@@ -1358,6 +1360,7 @@ e-info.org.tw
 .earlytibet.com
 |http://earlytibet.com
 .earthcam.com
+.earthvpn.com
 eastern-ark.com
 .easternlightning.org
 .eastturkestan.com
@@ -1430,6 +1433,7 @@ epochtimestr.com
 ||epochweekly.com
 erabaru.net
 .erepublik.com
+.erights.net
 ||erights.net
 .erktv.com
 |http://erktv.com
@@ -1901,6 +1905,7 @@ greatzhonghua.org
 .greenpeace.com.tw
 .greenvpn.net
 ||greenvpn.net
+.greenvpn.org
 gs-discuss.com
 ||gtricks.com
 guancha.org
@@ -2337,7 +2342,7 @@ hongmeimei.com
 ||hongzhi.li
 hootsuite.com
 ||hootsuite.com
-|http://globalrescue.hopto.org/
+.hopto.org
 .hornygamer.com
 .hotav.tv
 .hotpornshow.com
@@ -2698,7 +2703,6 @@ killwall.com
 ||kompozer.net
 .konachan.com
 |http://konachan.com
-|http://www.konachan.com
 ||koolsolutions.com
 .koornk.com
 ||koornk.com
@@ -2706,11 +2710,11 @@ killwall.com
 |http://gojet.krtco.com.tw
 .ksnews.com.tw
 .kui.name/event
-.kuliwang.com
 kun.im
 .kurashsultan.com
 ||kurtmunger.com
 kusocity.com
+||kusos.com
 ||kwcg.ca
 kwongwah.com.my
 kyohk.net
@@ -2743,6 +2747,8 @@ laomiu.com
 latelinenews.com
 .latibet.org
 ||le-vpn.com
+.leafyvpn.net
+||leafyvpn.net
 !--||leecheukyan.org
 lefora.com
 ||left21.hk
@@ -3289,6 +3295,7 @@ tui.orzdream.com
 ||ourdearamy.com
 oursogo.com
 oursteps.com.au
+.oursweb.net
 ||ourtv.hk
 xinqimeng.over-blog.com
 ||overplay.net
@@ -3348,10 +3355,9 @@ pbwiki.com
 
 ||pbxes.com
 ||pbxes.org
-.pcdiscuss.com
 pcdvd.com.tw
 .pchome.com.tw
-|http://pcij.org/
+|http://pcij.org
 .pcstore.com.tw/ntdtvapshop
 ||pct.org.tw
 pdetails.com
@@ -3473,26 +3479,13 @@ pureinsight.org
 ||putty.org
 
 !-------------Posterous-----
-|http://post.ly
-.posterous.com
-|http://posterous.com
-||post.anyu.org
-||bralio.com
 ||calebelston.com
-!-||blog.dabr.co.uk
-||designerol.com
 ||blog.fizzik.com
 ||nf.id.au
-||markmilian.com
-||log.riku.me
 ||sogrady.me
 ||vatn.org
-||veempiire.com
-||www.vegorpedersen.com
 ||ventureswell.com
-||webfee.tk
 ||whereiswerner.com
-||bill.zhong.pp.ru
 
 .power.com
 ||power.com
@@ -4023,6 +4016,7 @@ stupidvideos.com
 panamapapers.sueddeutsche.de
 .sugarsync.com
 ||sugarsync.com
+.sugobbs.com
 ||suissl.com
 summify.com
 sun1911.com
@@ -4780,6 +4774,8 @@ vpnhq.com
 .vpnreactor.com
 ||vpnreactor.com
 ||vpnreviewz.com
+.vpnsecure.me
+||vpnsecure.me
 .vpnsp.com
 .vpntunnel.com
 ||vpntunnel.com
@@ -4985,43 +4981,14 @@ woopie.tv
 ||workersthebig.net
 .worldcat.org
 worldjournal.com
+.worldvpn.net
+||worldvpn.net
 
-!-------------Wordpress Blog-----
-!-||bhorowitz.com
-!-||blogmaverick.com
-!-||blogs.cnn.com
-!-||blog.drakengren.com
-!-||fourwallsandaroof.com
-!-||herbsutter.com
-!-||hiveminds.co.uk
-!-||hoparoundtheglobe.com
-!-||hunbulin.com
-!-||icanhascheezburger.com
-!-||support.intensedebate.com
-!-||menro.me
-!-||michaeldehaan.net
-!-||mynokiablog.com
-!-||nandalala.com
-!-||p2theme.com
-!-||pixelbread.com
-!-||blog.pixelpipe.com
-!-||blog.polldaddy.com
-!-||rawfoodsos.com
-!-||rayous.com
-!-||semicolonapps.com
-!-||sharpinsandiego.com
-!-||smedio.com
-!-||steveblank.com
-!-||thebrigade.com
-!-||blog.thinglabs.com
-!-||china.blogs.time.com
-!-||blog.wakoopa.com
-!-||wattsupwiththat.com
-!-||webmink.com
 .wordpress.com
 |http://*.wordpress.com
 ||chenshan20042005.wordpress.com
 ||wp.com
+
 !-||wormsculptor.com
 .wow.com
 .wow-life.net
@@ -5046,7 +5013,6 @@ wretch.cc
 .wuala.com
 wuerkaixi.com
 wufi.org.tw
-||wufoo.com
 ||wuguoguang.com
 wujie.net
 wujieliulan.com
