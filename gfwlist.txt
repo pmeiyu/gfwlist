@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: gWkLNYNEgTxPxP4hEN6HFQ
+! Checksum: uYl+GtCoCsgqIC20FNlevg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 May 2016 13:35:12 +0800
+! Last Modified: Mon, 16 May 2016 14:17:18 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1721,10 +1721,55 @@ hk.frienddy.com/hk
 .frontlinedefenders.org
 ||fscked.org
 .fsurf.com
+.ftchinese.com/channel/video
+.ftchinese.com/story/001038220
 .ftchinese.com/story/001042272
+.ftchinese.com/story/001045755
+.ftchinese.com/story/001046118
+.ftchinese.com/story/001047345
+.ftchinese.com/story/001047545
+.ftchinese.com/story/001052965
+.ftchinese.com/story/001053526
 .ftchinese.com/story/001054103
+.ftchinese.com/story/001054168
+.ftchinese.com/story/001054526
+.ftchinese.com/story/001054644
+.ftchinese.com/story/001055299
+.ftchinese.com/story/001055551
+.ftchinese.com/story/001056529
+.ftchinese.com/story/001056554
+.ftchinese.com/story/001056588
+.ftchinese.com/story/001056567
+.ftchinese.com/story/001057509
+.ftchinese.com/story/001057533
+.ftchinese.com/story/001058295
+.ftchinese.com/story/001058344
+.ftchinese.com/story/001058458
+.ftchinese.com/story/001058468
+.ftchinese.com/story/001058561
+.ftchinese.com/story/001058566
+.ftchinese.com/story/001058567
+.ftchinese.com/story/001058585
+.ftchinese.com/story/001058628
+.ftchinese.com/story/001058678
+.ftchinese.com/story/001059484
+.ftchinese.com/story/001059538
+.ftchinese.com/story/001059818
+.ftchinese.com/story/001059914
+.ftchinese.com/story/001059920
+.ftchinese.com/story/001060493
+.ftchinese.com/story/001060921
+.ftchinese.com/story/001062176
+.ftchinese.com/story/001062508
+.ftchinese.com/story/001062741
+.ftchinese.com/story/001062794
+.ftchinese.com/story/001063160
+.ftchinese.com/story/001065287
+.ftchinese.com/story/001066959
+.ftchinese.com/story/001067435
 www.ftchinese.com/story/001067479
-.ftchinese.com/*video
+.ftchinese.com/story/001067545
+.ftchinese.com/video/1437
 .ftchinese.com/comments
 fucd.com
 .fuckcnnic.net
