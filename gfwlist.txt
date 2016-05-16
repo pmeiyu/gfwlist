@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: zw1ibPiIcczePMEpi1L9Tw
+! Checksum: sNefMhGMFDJU0rn/fhBquQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 May 2016 15:09:57 +0800
+! Last Modified: Mon, 16 May 2016 23:53:23 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1192,10 +1192,15 @@ dalailama.com
 dalailama80.org
 .dalailamacenter.org
 |http://dalailamacenter.org
+dalailamafellows.org
+.dalailamafilm.com
 .dalailamafoundation.org
 .dalailamahindi.com
+.dalailamainaustralia.org
 .dalailamajapanese.com
 .dalailamaprotesters.info
+.dalailamaquotes.org
+.dalailamatrust.org
 .dalailamaworld.com
 ||dalailamaworld.com
 dalianmeng.org
@@ -1217,9 +1222,11 @@ cn.dayabook.com
 .dbc.hk/main
 ||dcard.tw
 .ddc.com.tw
+ddns.net
 ||de-sci.org
 .de-sci.org
 packages.debian.org/zh-cn/lenny/gpass
+||decodet.co
 
 !--Origin:cdn-i30$_
 !--Exception: Homepage access without rst
@@ -1723,6 +1730,7 @@ hk.frienddy.com/hk
 ||fscked.org
 .fsurf.com
 .ftchinese.com/channel/video
+.ftchinese.com/story/00102753
 .ftchinese.com/story/001037090
 .ftchinese.com/story/001037091
 .ftchinese.com/story/001038220
@@ -1900,6 +1908,7 @@ globalmuseumoncommunism.org
 .globaltm.org
 .globalvoicesonline.org
 ||globalvoicesonline.org
+gluckman.com/DalaiLama
 gmbd.cn
 ||gmhz.org
 |http://www.gmiddle.com
@@ -2877,6 +2886,7 @@ secure.logmein.com
 ||logmike.com
 .londonchinese.ca
 .longhair.hk
+longmusic.com
 ||longtermly.net
 ||lookingglasstheatre.org
 ||lookpic.com
@@ -3036,6 +3046,7 @@ minzhuzhanxian.com
 minzhuzhongguo.org
 ||miroguide.com
 mirrorbooks.com
+thecenter.mit.edu
 mitbbs.com
 .mixero.com
 ||mixero.com
@@ -4278,6 +4289,8 @@ tibetalk.com
 .tibetan.fr
 tibetan-alliance.org
 .tibetanarts.org
+.tibetanbuddhistinstitute.org
+|http://tibetanbuddhistinstitute.org
 .tibetanliberation.org
 ||tibetanliberation.org
 .tibetcollection.com
@@ -4408,6 +4421,7 @@ trendsmap.com
 ||trendsmap.com
 .trialofccp.org
 ||trialofccp.org
+.trimondi.de/SDLE
 ||tripod.com
 @@||www.tripod.com
 .trouw.nl
@@ -4707,6 +4721,7 @@ us.to
 ||usacn.com
 .usaip.eu
 ||usaip.eu
+dalailama.usc.edu
 beta.usejump.com
 ||usfk.mil
 ||usma.edu
