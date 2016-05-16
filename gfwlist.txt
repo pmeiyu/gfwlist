@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: uYl+GtCoCsgqIC20FNlevg
+! Checksum: zw1ibPiIcczePMEpi1L9Tw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 May 2016 14:17:18 +0800
+! Last Modified: Mon, 16 May 2016 15:09:57 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1079,6 +1079,7 @@ hkupop.hku.hk
 .cnabc.com
 .cnd.org
 ||cnd.org
+.cnineu.com
 wiki.cnitter.com
 .cnn.com/video
 .cnpolitics.org
@@ -1722,12 +1723,21 @@ hk.frienddy.com/hk
 ||fscked.org
 .fsurf.com
 .ftchinese.com/channel/video
+.ftchinese.com/story/001037090
+.ftchinese.com/story/001037091
 .ftchinese.com/story/001038220
+.ftchinese.com/story/001040890
+.ftchinese.com/story/001042100
+.ftchinese.com/story/001042252
 .ftchinese.com/story/001042272
+.ftchinese.com/story/001044776
 .ftchinese.com/story/001045755
 .ftchinese.com/story/001046118
 .ftchinese.com/story/001047345
+.ftchinese.com/story/001047375
 .ftchinese.com/story/001047545
+.ftchinese.com/story/001048710
+.ftchinese.com/story/001049360
 .ftchinese.com/story/001052965
 .ftchinese.com/story/001053526
 .ftchinese.com/story/001054103
@@ -1757,6 +1767,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001059818
 .ftchinese.com/story/001059914
 .ftchinese.com/story/001059920
+.ftchinese.com/story/001060181
 .ftchinese.com/story/001060493
 .ftchinese.com/story/001060921
 .ftchinese.com/story/001062176
@@ -2853,6 +2864,7 @@ livestream.com
 .liwangyang.com
 lizhizhuangbi.com
 lkcn.net
+.lobsangwangyal.com
 .localdomain.ws
 ||localdomain.ws
 localpresshk.com
@@ -3090,6 +3102,7 @@ myactimes.com
 ||bbs.mychat.to
 ||mychinamyhome.com
 .mychinamyhome.com
+.mychinanet.com
 .mychinanews.com
 ||mychinanews.com
 ||mycnnews.com
@@ -4727,6 +4740,7 @@ uygur.org
 .van698.com
 .vanemu.cn
 .vanilla-jp.com
+.vanpeople.com
 vansky.com
 ||vcf-online.org
 ||vcfbuilder.org
