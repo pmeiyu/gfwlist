@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: GOSAdq/w1pyoI/mjBZvlmA
+! Checksum: H6aEzUMFnM65BGfjm70C1g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 15 May 2016 23:03:54 +0800
+! Last Modified: Mon, 16 May 2016 10:31:25 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1209,6 +1209,7 @@ daxa.cn
 ||daxa.cn/
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
+||db.tt
 .dbc.hk/main
 ||dcard.tw
 .ddc.com.tw
@@ -1729,6 +1730,7 @@ fuckgfw.org
 fulue.com
 .funf.tw
 funp.com
+.fuq.com
 .furhhdl.org
 ||furinkan.com
 .futurechinaforum.org
@@ -4641,6 +4643,7 @@ uploaded.net/file
 .uploadstation.com/file
 .upornia.com
 |http://upornia.com
+||uproxy.org
 |http://tor.cn.uptodown.com/
 .upwill.org
 www.urbanoutfitters.com
@@ -4755,6 +4758,8 @@ www.voy.com
 |http://vpnaccount.org
 ||www.vpncup.com
 vpnbook.com
+.vpncoupons.com
+|http://vpncoupons.com
 .vpnfan.com
 vpnfire.com
 .vpnforgame.net
@@ -4775,6 +4780,7 @@ vpnhq.com
 .vpnreactor.com
 ||vpnreactor.com
 ||vpnreviewz.com
+.vpnsp.com
 .vpntunnel.com
 ||vpntunnel.com
 .vpnuk.info
