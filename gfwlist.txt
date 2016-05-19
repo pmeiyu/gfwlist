@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: sNefMhGMFDJU0rn/fhBquQ
+! Checksum: rT8m9NlTuMblO8V8rnWY4g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 May 2016 23:53:23 +0800
+! Last Modified: Thu, 19 May 2016 09:21:09 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -225,6 +225,7 @@ china-mmm.sa.com
 !--||googleadservices.com
 ||googleapis.com
 ||googleartproject.com
+||googleblog.com
 ||googlecode.com
 ||googlecommerce.com
 ||googledomains.com
@@ -232,6 +233,7 @@ china-mmm.sa.com
 ||googledrive.com
 ||googlegroups.com
 ||googlehosted.com
+||googleideas.com
 ||googlelabs.com
 ||googlemail.com
 ||googleplay.com
@@ -606,9 +608,9 @@ badoo.com
 .bangchen.net
 |http://bangchen.net
 ||bangyoulater.com
-||bannedbook.org
 bannedbook.org
 ||bannedbook.org
+.bannednews.org
 .barenakedislam.com
 ||barnabu.co.uk
 bayvoice.net
@@ -877,6 +879,8 @@ catholic.org.tw
 !-||ccc.de
 .ccdtr.org
 ||ccdtr.org
+.cchere.com
+||cchere.com
 .ccim.org
 .cclife.ca
 cclife.org
@@ -885,6 +889,7 @@ cclifefl.org
 .cctongbao.com/article/2078732
 ccue.ca
 ccue.com
+.ccvoice.ca
 .ccw.org.tw
 .cgdepot.org
 |http://cgdepot.org
@@ -1114,6 +1119,8 @@ coolder.com
 ||coolder.com
 ||coolloud.org.tw
 corumcollege.com
+.cos-moe.com
+|http://cos-moe.com
 ||couchdbwiki.com
 ||cotweet.com
 cpj.org
@@ -1862,6 +1869,7 @@ hk.geocities.com
 geocities.jp
 ||geohot.com
 ||geometrictools.com
+.gerefoundation.org
 .getchu.com
 .getcloak.com
 ||getcloak.com
@@ -3504,6 +3512,7 @@ politicalchina.org
 politicalconsultation.org
 .polymerhk.com
 |http://polymerhk.com
+.popo.tw
 !--||popularpages.net
 ||popvote.hk
 popyard.com
@@ -3758,6 +3767,7 @@ robtex.com
 rti.org.tw
 .rtycminnesota.org
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
+rukor.org
 .rushbee.com
 rutube.ru
 .ruyiseek.com
@@ -3848,6 +3858,7 @@ sexinsex.net
 .sftuk.org
 ||sftuk.org
 shadow.ma
+.shadowsky.xyz
 .shadowsocks.org
 ||shadowsocks.org
 |http://cn.shafaqna.com
@@ -4282,6 +4293,8 @@ tibet-info.net
 tibet-initiative.de
 !--||tibet-initiative.de
 .tibet-munich.de
+.tibet3rdpole.org
+|http://tibet3rdpole.org
 tibetaction.net
 ||tibetaction.net
 .tibetaid.org
