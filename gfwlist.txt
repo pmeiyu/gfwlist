@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: rT8m9NlTuMblO8V8rnWY4g
+! Checksum: SL9VGE0iKOeoZpN7IFbi0w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 19 May 2016 09:21:09 +0800
+! Last Modified: Tue, 24 May 2016 11:01:44 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -176,6 +176,7 @@ china-mmm.sa.com
 
 !!---DtDNS---
 .4irc.com
+.b0ne.com
 .chatnook.com
 .deaftone.com
 .dtdns.net
@@ -194,6 +195,7 @@ china-mmm.sa.com
 ||abc.xyz
 ||admob.com
 ||agoogleaday.com
+||ampproject.org
 ||android.com
 ||androidify.com
 .appspot.com
@@ -479,6 +481,7 @@ ameblo.jp
 ||ameblo.jp
 www1.american.edu/ted/ice/tibet
 ||americangreencard.com
+|http://www.americorps.gov
 ||amiblockedornot.com
 .amigobbs.net
 .amnesty.org
@@ -529,10 +532,13 @@ video.ap.org
 .apigee.com
 ||apigee.com
 apk-dl.com
+apkdler.com/apk/view
+.appdownloader.net/Android
 apkpure.com
 !--||appannie.com
 appledaily.com
 ||appsocks.net
+||archives.gov
 archive.is
 ||archive.org
 .arctosia.com
@@ -690,6 +696,7 @@ bipic.net
 .bitshare.com
 ||bitshare.com
 bitsnoop.com
+bizhat.com
 ||bl-doujinsouko.com
 bjzc.org
 ||bjzc.org
@@ -836,6 +843,7 @@ cn.calameo.com
 .calgarychinese.ca
 .calgarychinese.com
 .calgarychinese.net
+|http://blog.calibre-ebook.com
 falun.caltech.edu
 .its.caltech.edu/~falun/
 .cam4.com
@@ -1084,6 +1092,7 @@ hkupop.hku.hk
 .cnabc.com
 .cnd.org
 ||cnd.org
+download.cnet.com/Freegate
 .cnineu.com
 wiki.cnitter.com
 .cnn.com/video
@@ -1499,6 +1508,7 @@ eyevio.jp
 @@||*v6.facebook.com
 ||connect.facebook.net
 ||facebook.hu
+||facebook.in
 ||facebook.nl
 ||facebook.se
 ||facebookquotes4u.com
@@ -1795,6 +1805,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001067435
 www.ftchinese.com/story/001067479
 .ftchinese.com/story/001067545
+.ftchinese.com/story/001067650
 .ftchinese.com/video/1437
 .ftchinese.com/comments
 fucd.com
@@ -2996,6 +3007,7 @@ meirixiaochao.com
 .memehk.com
 ||memehk.com
 memorybbs.com
+.memri.org
 .memrijttm.org
 .mercyprophet.org
 |http://mercyprophet.org
@@ -3111,10 +3123,10 @@ multiupload.com
 ||muzi.com
 ||muzi.net
 ||mx981.com
+.my-formosa.com
 .my-proxy.com
 forum.my903.com
 myactimes.com
-||my-addr.com
 .myaudiocast.com
 ||myaudiocast.com
 .myav.com.tw/bbs
@@ -3254,6 +3266,7 @@ nlfreevpn.com
 ||nobel.se
 !--.nobelprize.org
 !--|http://nobelprize.org
+nobelprize.org/nobel_prizes/peace/laureates/1989
 nobelprize.org/nobel_prizes/peace/laureates/2010
 nobodycanstop.us
 ||nobodycanstop.us
@@ -4146,6 +4159,7 @@ blog.syx86.cn/2009/09/puff
 tabtter.jp
 .tacem.org
 .taconet.com.tw
+||taedp.org.tw
 ||tafaward.com
 .tafm.org
 .tagwa.org.au
@@ -4180,6 +4194,8 @@ taiwan-sex.com
 ||tanc.org
 tangben.com
 .tangren.us
+.taoism.net
+|http://taoism.net
 .taolun.info
 ||taolun.info
 blog.taragana.com
@@ -4485,9 +4501,14 @@ bbs.tuitui.info
 .tuo8.hk
 .tuo8.org
 ||tuo8.org
+.tuo8.pw
+|http://tuo8.pw
 tuitwit.com
+.turansam.org
 .turbobit.net
 |http://turbobit.net
+.turbohide.com
+||turbohide.com
 ||turningtorso.com
 ||tuxtraining.com
 |http://tuzaijidi.com
@@ -4697,6 +4718,8 @@ umich.edu/~falun
 ||unblock.cn.com
 unblock-us.com
 ||unblock-us.com
+.unblockdmm.com
+|http://unblockdmm.com
 ||unblocksit.es
 uncyclomedia.org
 .uncyclopedia.hk/wiki
@@ -4800,12 +4823,12 @@ vietdaikynguyen.com
 .vijayatemple.org
 ||viki.com
 vimeo.com
-||vimgolf.com
 ||vimperator.org
 ||vincnd.com
 ||vinniev.com
 |http://www.lib.virginia.edu/area-studies/Tibet/tibet.html
-|http://ny.visiontimes.com/
+visibletweets.com
+|http://ny.visiontimes.com
 .vital247.org
 ||viu.com
 .vivatube.com
@@ -4919,6 +4942,7 @@ washeng.net
 webbang.net
 .webfreer.com
 weblagu.com
+.webjb.org
 webs-tv.net
 !--webshots.com
 websitepulse.com/help/testtools.china-test.html
@@ -5172,6 +5196,7 @@ xuchao.net
 ||xvideos.es
 .xxbbx.com
 .xxlmovies.com
+||xxx.com
 ||xxxx.com.au
 xys.org
 xysblogs.org
@@ -5269,6 +5294,7 @@ yuanming.net
 .yuanzhengtang.org
 .yulghun.com
 ||yunchao.net
+.yuvutu.com
 ||yvesgeleyn.com
 .ywpw.com/forums/history/post/A0/p0/html/227
 yx51.net
