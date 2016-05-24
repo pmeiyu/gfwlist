@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: SL9VGE0iKOeoZpN7IFbi0w
+! Checksum: LU9RbInsbyjsB7/az19tPw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 24 May 2016 11:01:44 +0800
+! Last Modified: Tue, 24 May 2016 11:17:07 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -263,6 +263,7 @@ china-mmm.sa.com
 ||recaptcha.net
 ||registry.google
 |http://sipml5.org/
+||tensorflow.org
 !--||www.google
 ||webmproject.org
 ||whatbrowser.org
@@ -2224,8 +2225,6 @@ wozy.in
 !-||yooper.be
 !-||tsong.yunxi.net
 !-Z
-
-!--@@||ipv6.google.com
 
 gospelherald.com
 ||gospelherald.com
