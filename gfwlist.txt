@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: LU9RbInsbyjsB7/az19tPw
+! Checksum: tiSIsN52Yn2E/VoHn1YDkQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 24 May 2016 11:17:07 +0800
+! Last Modified: Fri, 27 May 2016 07:52:10 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4516,7 +4516,7 @@ tuitwit.com
 |http://tw01.org
 
 !---Tumblr---
-!--||tumblr.com
+||tumblr.com
 !--@@||assets.tumblr.com
 !--@@||data.tumblr.com
 !--@@||media.tumblr.com
@@ -4822,6 +4822,7 @@ vietdaikynguyen.com
 .vijayatemple.org
 ||viki.com
 vimeo.com
+||vimeo.com
 ||vimperator.org
 ||vincnd.com
 ||vinniev.com
