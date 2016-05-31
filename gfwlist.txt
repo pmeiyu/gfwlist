@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: dnQBQeijZjjsOQ6gWWRtNw
+! Checksum: bD5u+Wddk72SAti0MuJNZw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 31 May 2016 10:02:48 +0800
+! Last Modified: Tue, 31 May 2016 10:16:59 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1447,6 +1447,9 @@ eastern-ark.com
 .eastturkistancc.org
 .eastturkistangovernmentinexile.us
 ||eastturkistangovernmentinexile.us
+.easyca.ca
+.easypic.com
+.ebony-beauty.com
 ebookbrowse.com
 ebookee.com
 ecministry.net
@@ -1464,6 +1467,8 @@ edoors.com
 .edupro.org
 ||eevpn.com
 efcc.org.hk
+.efukt.com
+|http://efukt.com
 ||eic-av.com
 .eisbb.com
 .eksisozluk.com
@@ -1482,9 +1487,13 @@ emilylau.org.hk
 |http://emulefans.com
 .emuparadise.me
 ||enewstree.com
+.enfal.de
 chinese.engadget.com
+englishforeveryone.org
 ||englishfromengland.co.uk
 ||entermap.com
+.entnt.com
+|http://entnt.com
 .episcopalchurch.org
 .epochhk.com
 |http://epochhk.com
@@ -1510,7 +1519,9 @@ epochtimestr.com
 .epochweek.com
 ||epochweek.com
 ||epochweekly.com
+.equinenow.com
 erabaru.net
+.eraysoft.com.tr
 .erepublik.com
 .erights.net
 ||erights.net
@@ -1521,6 +1532,7 @@ erabaru.net
 ||erodoujinworld.com
 ||eromanga-kingdom.com
 ||eromangadouzin.com
+.eroticsaloon.net
 .eslite.com/product
 .eslite.com/Search_BW.aspx?q
 wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
@@ -1532,6 +1544,7 @@ etaiwannews.com
 etvonline.hk
 .eu.org
 ||eu.org
+.eucasino.com
 .eulam.com
 eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh
 eeas.europa.eu/statements-eeas/2015/151022
@@ -1965,6 +1978,8 @@ gfw.org.ua
 |http://cn.giganews.com/
 gigporno.ru
 ||girlbanker.com
+.git.io
+||git.io
 |http://softwaredownload.gitbooks.io
 
 .github.com
@@ -4553,7 +4568,10 @@ bbs.tuitui.info
 |http://tunein.com
 ||tunnelbear.com
 .tuo8.cc
+.tuo8.club
 .tuo8.hk
+.tuo8.in
+.tuo8.ninja
 .tuo8.org
 ||tuo8.org
 .tuo8.pw
