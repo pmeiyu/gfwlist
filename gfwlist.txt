@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 220QrJEusq0kknGUt08XYw
+! Checksum: dnQBQeijZjjsOQ6gWWRtNw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 31 May 2016 09:22:49 +0800
+! Last Modified: Tue, 31 May 2016 10:02:48 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -32,6 +32,8 @@
 ||bloombergview.com
 ||boysmaster.com
 ||carfax.com
+.casinobellini.com
+||casinobellini.com
 ||centauro.com.br
 ||crossfire.co.kr
 ||darpa.mil
@@ -836,6 +838,9 @@ brucewang.net
 ||bullog.org
 .bullogger.com
 ||bullogger.com
+bunbunhk.com
+.busayari.com
+|http://busayari.com
 .businessinsider.com/bing-could-be-censoring-search-results-2014
 .businessinsider.com/china-banks-preparing-for-debt-implosion-2014
 .businessinsider.com/hong-kong-activists-defy-police-tear-gas-as-protests-continue-overnight-2014
@@ -848,6 +853,7 @@ brucewang.net
 .businessweek.com
 .busu.org/news
 |http://busu.org/news
+busytrade.com
 .buugaa.com
 .buzzhand.com
 .buzzhand.net
@@ -896,12 +902,17 @@ caochangqing.com
 ||caochangqing.com
 .cap.org.hk
 ||cap.org.hk
+.carabinasypistolas.com
 cardinalkungfoundation.org
+carmotorshow.com
+.cartoonmovement.com
 .casadeltibetbcn.org
 .casatibet.org.mx
-casinobellini.com
+|http://casatibet.org.mx
 cari.com.my
 ||caribbeancom.com
+.casinoking.com
+.casinoriva.com
 ||catch22.net
 ||catfightpayperview.xxx
 .catholic.org.hk
@@ -1066,6 +1077,8 @@ chinese-memorial.org
 .chinesetalks.net/ch
 .chingcheong.com
 ||chingcheong.com
+.chinman.net
+|http://chinman.net
 chithu.org
 chn.chosun.com
 .chrdnet.com
@@ -1083,6 +1096,7 @@ chuizi.net
 |http://chrlawyers.hk
 .churchinhongkong.org/b5/index.php
 |http://churchinhongkong.org/b5/index.php
+.cineastentreff.de
 .cipfg.org
 ||circlethebayfortibet.org
 |http://citizenlab.org
@@ -1098,7 +1112,9 @@ city9x.com
 ||civicparty.hk
 civilhrfront.org
 ||civilhrfront.org
+.civiliangunner.com
 .civilmedia.tw
+||civilmedia.tw
 psiphon.civisec.org
 ||vpn.cjb.net
 .ck101.com
@@ -1108,6 +1124,7 @@ psiphon.civisec.org
 .clb.org.hk
 clearharmony.net
 clearwisdom.net
+clinica-tibet.ru
 .clipfish.de
 cloakpoint.com
 ||club1069.com
@@ -1144,6 +1161,7 @@ news.cnyes.com
 |http://tosh.comedycentral.com
 comefromchina.com
 ||comefromchina.com
+commandarms.com
 ||commentshk.com
 .communistcrimes.org
 ||communistcrimes.org
@@ -1260,6 +1278,7 @@ dalianmeng.org
 .danwei.org
 daolan.net
 darktoy.net
+||dastrassi.org
 .david-kilgour.com
 |http://david-kilgour.com
 daxa.cn
@@ -1269,6 +1288,7 @@ cn.dayabook.com
 ||db.tt
 .dbc.hk/main
 ||dcard.tw
+dcmilitary.com
 .ddc.com.tw
 ddns.net
 ||de-sci.org
@@ -1373,6 +1393,8 @@ dtiserv2.com
 ||duckduckgo.com
 .duckload.com/download
 ||duckmylife.com
+.duga.jp
+|http://duga.jp
 .duihua.org
 ||duihua.org
 ||duihuahrjournal.org
@@ -1537,7 +1559,7 @@ eyevio.jp
 ||facebook.br
 .facebook.com
 ||facebook.com
-/^https?:\/\/[^\/]+facebook\.com/
+!--/^https?:\/\/[^\/]+facebook\.com/
 @@||*v6.facebook.com
 ||connect.facebook.net
 ||facebook.hu
@@ -2506,6 +2528,7 @@ humanrightsbriefing.org
 ||hungerstrikeforaids.org
 ||huping.net
 .hurriyet.com.tr
+.hut2.ru
 ||hutianyi.net
 hutong9.net
 ||hwayue.org.tw
