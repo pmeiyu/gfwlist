@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 01bKckbcD+8EqmBd17GXTA
+! Checksum: 220QrJEusq0kknGUt08XYw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 27 May 2016 08:34:40 +0800
+! Last Modified: Tue, 31 May 2016 09:22:49 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -762,12 +762,14 @@ blogtd.net
 bloomberg.de
 ||bloomberg.de
 ||bloomfortune.com
+blueangellive.com
 .bmfinn.com
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
 .bod.asia
 |http://bod.asia
+.bodog88.com
 .bolehvpn.net
 ||bolehvpn.net
 bonbonme.com
@@ -793,6 +795,7 @@ boxunblog.com
 ||boxunblog.com
 .boxunclub.com
 .boyfriendtv.com
+.boysfood.com
 ||br.st
 .brainyquote.com/quotes/authors/d/dalai_lama
 ||brandonhutchinson.com
@@ -826,6 +829,7 @@ brucewang.net
 .btspread.com
 .budaedu.org
 ||budaedu.org
+.buddhistchannel.tv
 .buffered.com
 |http://buffered.com
 .bullog.org
