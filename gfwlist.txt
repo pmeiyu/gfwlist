@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5APrJ9u0He6KkhytTm7Ecg
+! Checksum: m5TH582pntAQLNqruET63g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 02 Jun 2016 08:23:53 +0800
+! Last Modified: Thu, 02 Jun 2016 08:58:08 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -43,6 +43,10 @@
 ||share.dmhy.org
 ||dmm.co.jp
 !--||dmm.com
+.expekt.com
+||expekt.com
+.extmatrix.com
+||extmatrix.com
 ||fakku.net
 ||fastpic.ru
 ||financetwitter.com
@@ -569,6 +573,7 @@ archive.is
 ||arethusa.su
 ||arlingtoncemetery.mil
 ||army.mil
+||arstechnica.com
 .art4tibet1998.org
 artsy.net
 ||asacp.org
@@ -1559,6 +1564,7 @@ eeas.europa.eu/statements-eeas/2015/151022
 |http://blog.excite.co.jp
 ||exmormon.org
 ||expatshield.com
+experts-univers.com
 ||exploader.net
 .expressvpn.com
 .extremetube.com
@@ -1593,6 +1599,8 @@ eyevio.jp
 
 ||faiththedog.info
 .fakku.net
+.falsefire.com
+||falsefire.com
 falun-co.org
 falunart.org
 |falunasia.info
@@ -1669,28 +1677,31 @@ feer.com
 ||fengzhenghu.net
 .fevernet.com
 |http://ff.im
+fffff.at
 fflick.com
 fgmtv.net
 .fgmtv.org
 .fhreports.net
 |http://fhreports.net
+.fileflyer.com
+||fileflyer.com
 |http://feeds.fileforum.com
 .files2me.com
-|http://files2me.com
 .fileserve.com/file
 fillthesquare.org
 filmingfortibet.org
+.filthdump.com
 ||finalion.jp
 .finchvpn.com
 ||finchvpn.com
 !--findbook.tw
+findmespot.com
 .fingerdaily.com
 finler.net
 .fireofliberty.org
 ||fireofliberty.org
 !--||flagfox.net
-.falsefire.com
-||falsefire.com
+.flagsonline.it
 fleshbot.com
 .fleursdeslettres.com
 |http://fleursdeslettres.com
@@ -1807,10 +1818,12 @@ friends-of-tibet.org
 freechina.net
 |http://www.zensur.freerk.com/
 freevpn.nl
+freeyellow.com
 hk.frienddy.com/hk
 |http://adult.friendfinder.com/
 .fring.com
 ||fring.com
+.fromchinatousa.net
 ||frommel.net
 .frontlinedefenders.org
 ||fscked.org
@@ -1897,6 +1910,7 @@ funp.com
 ||fw.cm
 fzh999.com
 fzh999.net
+fzlm.com
 
 !--------------------GG-------------------------
 ||gabocorp.com
@@ -1911,6 +1925,7 @@ gamejolt.com
 .gamer.com.tw
 .gamez.com.tw
 ||gamez.com.tw
+.gamousa.com
 .gaoming.net
 ||gaoming.net
 ganges.com
@@ -1994,11 +2009,13 @@ gigporno.ru
 .gjczz.com
 ||glennhilton.com
 globaljihad.net
+globalmediaoutreach.com
 globalmuseumoncommunism.org
 ||globalrescue.net
 .globaltm.org
 .globalvoicesonline.org
 ||globalvoicesonline.org
+.glock.com
 gluckman.com/DalaiLama
 gmbd.cn
 ||gmhz.org
@@ -2012,10 +2029,13 @@ go-pki.com
 gobet.cc
 godfootsteps.org
 ||godfootsteps.org
+godsdirectcontact.co.uk
 .godsdirectcontact.org
 godsdirectcontact.org.tw
+.godsimmediatecontact.com
 ||gohappy.com.tw
 .gokbayrak.com
+.goldbet.com
 ||goldbetsports.com
 .goldenfrog.com
 ||goldenfrog.com
@@ -3217,6 +3237,7 @@ mycould.com/discuz
 .myfreshnet.com
 forum.mymaji.com
 mymediarom.com/files/box
+||mymusic.net.tw
 ||myparagliding.com
 ||mypopescu.com
 .my-private-network.co.uk
@@ -5253,6 +5274,7 @@ xinhuanet.org
 xizang-zhiye.org
 xjp.cc
 ||xjp.cc
+||xjtravelguide.com
 xlfmtalk.com
 ||xlfmwz.info
 ||xml-training-guide.com
