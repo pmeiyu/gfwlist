@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bD5u+Wddk72SAti0MuJNZw
+! Checksum: 5APrJ9u0He6KkhytTm7Ecg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 31 May 2016 10:16:59 +0800
+! Last Modified: Thu, 02 Jun 2016 08:23:53 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -555,6 +555,7 @@ apk-dl.com
 apkdler.com/apk/view
 .appdownloader.net/Android
 apkpure.com
+||apkpure.com
 !--||appannie.com
 appledaily.com
 ||appsocks.net
