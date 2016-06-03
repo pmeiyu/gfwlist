@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: y0pbRPh2Q3yt9X3RRuybYA
+! Checksum: tjReKZiidB0XJtWa9Ux2iA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Jun 2016 10:34:44 +0800
+! Last Modified: Fri, 03 Jun 2016 10:50:09 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -76,6 +76,7 @@
 |http://imgmega.com/*.jpg.html
 |http://imgmega.com/*.jpeg.html
 |http://imgmega.com/*.png.html
+|http://imgur.com/upload
 ||javhub.net
 ||javhuge.com
 .javlibrary.com
