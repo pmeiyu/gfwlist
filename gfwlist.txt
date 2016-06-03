@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /RhrhP4YDFhllpFvEo3xng
+! Checksum: juyQzsv/MGneP31W7eZnDw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Jun 2016 12:14:52 +0800
+! Last Modified: Fri, 03 Jun 2016 12:20:21 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1354,7 +1354,11 @@ djangosnippets.org
 ||dns2go.com
 ||dnssec.net
 doctorvoice.org
+
+!--DogFartNetwork
 .dogfartnetwork.com/tour
+gloryhole.com
+
 .dojin.com
 .dok-forum.net
 ||dolc.de
