@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CdKuoaYoFzz6/BVNXmvziQ
+! Checksum: /RhrhP4YDFhllpFvEo3xng
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Jun 2016 12:02:50 +0800
+! Last Modified: Fri, 03 Jun 2016 12:14:52 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1061,7 +1061,7 @@ chinasocialdemocraticparty.com
 chinasoul.org
 ||chinasoul.org
 .chinasucks.net
-chinatimes.com
+.chinatimes.com/realtimenews/260409/
 ||chinatopsex.com
 .chinatown.com.au
 chinatweeps.com
@@ -2889,6 +2889,7 @@ karkhung.com
 .karmapa.org
 .karmapa-teachings.org
 .kba-tx.org
+.kcoolonline.com
 ||kcsoftwares.com
 .kebrum.com
 ||kebrum.com
@@ -2932,6 +2933,7 @@ killwall.com
 ||koranmandarin.com
 |http://gojet.krtco.com.tw
 .ksnews.com.tw
+||ktzhk.com
 .kui.name/event
 kun.im
 .kurashsultan.com
@@ -2966,6 +2968,8 @@ laomiu.com
 .laqingdan.net
 ||laqingdan.net
 ||larsgeorge.com
+.lastcombat.com
+|http://lastcombat.com
 ||lastfm.es
 latelinenews.com
 .latibet.org
@@ -4460,6 +4464,7 @@ tibetan-alliance.org
 .tibetanarts.org
 .tibetanbuddhistinstitute.org
 |http://tibetanbuddhistinstitute.org
+.tibetanlanguage.org
 .tibetanliberation.org
 ||tibetanliberation.org
 .tibetcollection.com
