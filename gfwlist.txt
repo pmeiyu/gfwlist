@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: tjReKZiidB0XJtWa9Ux2iA
+! Checksum: CdKuoaYoFzz6/BVNXmvziQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Jun 2016 10:50:09 +0800
+! Last Modified: Fri, 03 Jun 2016 12:02:50 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1889,6 +1889,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001067435
 www.ftchinese.com/story/001067479
 .ftchinese.com/story/001067545
+.ftchinese.com/story/001067648
 .ftchinese.com/story/001067650
 .ftchinese.com/video/1437
 .ftchinese.com/comments
@@ -2734,6 +2735,7 @@ ipalter.com
 ||ippotv.com
 .ipredator.se
 ||ipredator.se
+.iptv.com.tw
 ||ipvanish.com
 iredmail.org
 chinese.irib.ir
@@ -2747,7 +2749,10 @@ forum.iset.com.tw
 .islam.org.hk
 |http://islam.org.hk
 .islamawareness.net/Asia/China
+.islamhouse.com
+||islamhouse.com
 .islamicity.com
+.islamtoday.net
 .isaacmao.com
 ||isaacmao.com
 ||isgreat.org
@@ -2787,10 +2792,12 @@ iyouport.com
 .izaobao.us
 ||gmozomg.izihost.org
 .izles.net
+.izlesem.org
 
 !--------------------JJ-------------------------
 ||j.mp
 blog.jackjia.com
+jamaat.org
 .jamyangnorbu.com
 |http://jamyangnorbu.com
 ||janwongphoto.com
@@ -2833,6 +2840,8 @@ ac.jiruan.net
 ||jitouch.com
 .jizzthis.com
 jjgirls.com
+.jkb.cc
+|http://jkb.cc
 jkforum.net
 ||jma.go.jp
 research.jmsc.hku.hk/social
@@ -2840,6 +2849,7 @@ weiboscope.jmsc.hku.hk
 ||joachims.org
 ||jobso.tv
 ||joeedelman.com
+.journalchretien.net
 ||journalofdemocracy.org
 jpopforum.net
 !--Doamin parking
@@ -2873,6 +2883,7 @@ juziyue.com
 ||kanshifang.com
 kanzhongguo.com
 kanzhongguo.eu
+.kaotic.com
 ||karayou.com
 karkhung.com
 .karmapa.org
