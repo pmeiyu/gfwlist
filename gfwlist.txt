@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 71vMNG0j4AEzJV9FI/TKSg
+! Checksum: 6CndpV/AFoT277pwfmT/Ig
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Jun 2016 14:17:22 +0800
+! Last Modified: Thu, 16 Jun 2016 14:24:20 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3032,6 +3032,7 @@ listorious.com
 ||liujianshu.com
 liuxiaotong.com
 ||liuxiaotong.com
+.livedoor.jp
 .liveleak.com
 ||liveleak.com
 .livestation.com
