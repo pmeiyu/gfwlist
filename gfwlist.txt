@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 6CndpV/AFoT277pwfmT/Ig
+! Checksum: NguMflT3E0oUr9OXlPhkGw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Jun 2016 14:24:20 +0800
+! Last Modified: Thu, 16 Jun 2016 14:33:56 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -275,7 +275,9 @@ china-mmm.sa.com
 |http://sipml5.org/
 ||tensorflow.org
 !--||www.google
+||waveprotocol.org
 ||webmproject.org
+||webrtc.org
 ||whatbrowser.org
 ||withgoogle.com
 ||youtu.be
@@ -1161,6 +1163,7 @@ wiki.cnitter.com
 .cnproxy.com
 blog.cnyes.com
 news.cnyes.com
+||coat.co.jp
 .cochina.co
 ||cochina.co
 ||cochina.org
@@ -3342,6 +3345,7 @@ old.nabble.com
 uighur.narod.ru
 cyberghost.natado.com
 ||national-lottery.co.uk
+news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
 .nationsonline.org/oneworld/tibet
 ||navyfamily.navy.mil
 ||navyreserve.navy.mil
@@ -3467,7 +3471,7 @@ nuzcom.com
 ||nyaa.eu
 ||nyaa.se
 .nydus.ca
-||nyt.com
+!--||nyt.com
 ||nytco.com
 |http://nyti.ms/
 .nytimes.com
