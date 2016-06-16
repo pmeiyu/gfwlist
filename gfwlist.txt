@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: juyQzsv/MGneP31W7eZnDw
+! Checksum: 71vMNG0j4AEzJV9FI/TKSg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Jun 2016 12:20:21 +0800
+! Last Modified: Thu, 16 Jun 2016 14:17:22 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -180,6 +180,9 @@ china-mmm.sa.com
 |http://javtag.com
 .javzoo.com
 |http://javzoo.com
+
+!!---CloudFront---
+||d3rhr7kgmtrq1v.cloudfront.net
 
 !!---DtDNS---
 .4irc.com
@@ -1651,6 +1654,7 @@ fangeming.com
 en.favotter.net
 !--||rnw.global.ssl.fastly.net
 |https://*global.ssl.fastly.net/
+||fast.wistia.com
 
 ||fastssh.com
 ||faststone.org
@@ -1922,6 +1926,7 @@ fzlm.com
 ||gabocorp.com
 .gaeproxy.com
 .gaforum.org
+.galaxymacau.com
 ||galenwu.com
 ||game735.com
 gamebase.com.tw
@@ -3039,6 +3044,7 @@ livestream.com
 .liwangyang.com
 lizhizhuangbi.com
 lkcn.net
+.load.to
 .lobsangwangyal.com
 .localdomain.ws
 ||localdomain.ws
@@ -3057,6 +3063,7 @@ longmusic.com
 ||lookingglasstheatre.org
 ||lookpic.com
 .looktoronto.com
+|http://looktoronto.com
 .lotsawahouse.org/tibetan-masters/fourteenth-dalai-lama
 .lotuslight.org.hk
 .lotuslight.org.tw
@@ -3084,9 +3091,12 @@ lsforum.net
 .lupm.org
 ||lupm.org
 ||lushstories.com
+luxebc.com
 lvhai.org
 ||lvhai.org
 ||lvv2.com
+.lyfhk.net
+|http://lyfhk.net
 
 !--------------------MM-------------------------
 m-team.cc/forum
