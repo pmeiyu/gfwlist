@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: NguMflT3E0oUr9OXlPhkGw
+! Checksum: L0zNrMIB1T4jTz+nvuCzrg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Jun 2016 14:33:56 +0800
+! Last Modified: Thu, 16 Jun 2016 14:51:38 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -788,6 +788,7 @@ boardreader.com/thread
 ||bolehvpn.net
 bonbonme.com
 .bonbonsex.com
+.bongacams.com
 ||boobstagram.com
 ||book.com.tw
 bookepub.com
@@ -3122,6 +3123,10 @@ maskedip.com
 mail-archive.com
 .malaysiakini.com
 ||makemymood.com
+.maniash.com
+|http://maniash.com
+.mansion.com
+.mansionpoker.com
 !--||marines.mil
 markmail.org*message
 ||martau.com
