@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: TguD3WRACxBFMOv116ZjYA
+! Checksum: cgq92B2vH9fuRiBZMsEFTg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 22 Jun 2016 11:13:29 +0800
+! Last Modified: Wed, 22 Jun 2016 11:58:11 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -670,6 +670,7 @@ newsforums.bbc.co.uk
 ||bbcchinese.com
 |http://bbc.in
 .bbg.gov
+.bbnradio.org
 bbs-tw.com
 .bbsdigest.com/thread
 ||bbsfeed.com
@@ -1715,6 +1716,8 @@ findmespot.com
 finler.net
 .fireofliberty.org
 ||fireofliberty.org
+.firetweet.io
+||firetweet.io
 !--||flagfox.net
 .flagsonline.it
 fleshbot.com
@@ -1929,6 +1932,8 @@ fzh999.net
 fzlm.com
 
 !--------------------GG-------------------------
+.g6hentai.com
+|http://g6hentai.com
 ||gabocorp.com
 .gaeproxy.com
 .gaforum.org
@@ -2532,6 +2537,7 @@ hkptu.org
 ||hkzone.org
 hnjhj.com
 ||hnjhj.com
+.hnntube.com
 ||hola.com
 ||hola.org
 holyspiritspeaks.org
@@ -3260,9 +3266,9 @@ plurktop.mmdays.com
 ||mobileways.de
 .mobypicture.com
 |http://moby.to
-||mrdoob.com
 ||moeerolibrary.com
 wiki.moegirl.org
+.mofos.com
 ||mog.com
 molihua.org
 ||mondex.org
@@ -3276,9 +3282,14 @@ bbs.morbell.com
 ||moroneta.com
 .motherless.com
 |http://motherless.com
+motor4ik.ru
+.mousebreaker.com
 !--||movabletype.com
+.movements.org
+||movements.org
 ||moviefap.com
 ||www.moztw.org
+.mp3buscador.com
 mp3ye.eu
 ||mpettis.com
 mpfinance.com
@@ -3291,6 +3302,7 @@ msguancha.com
 .mswe1.org
 |http://mswe1.org
 ||mthruf.com
+muchosucko.com
 ||multiply.com
 multiproxy.org
 multiupload.com
@@ -3712,6 +3724,7 @@ popyard.com
 ||popyard.org
 .porn.com
 .porn2.com
+.porn5.com
 .pornbase.org
 ||pornhd.com
 .pornhost.com
