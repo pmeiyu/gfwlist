@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: cgq92B2vH9fuRiBZMsEFTg
+! Checksum: CydtadRx79UnDoKt/m1zdg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 22 Jun 2016 11:58:11 +0800
+! Last Modified: Wed, 22 Jun 2016 13:16:08 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3308,6 +3308,10 @@ multiproxy.org
 multiupload.com
 .mullvad.net
 ||mullvad.net
+.mummysgold.com
+.murmur.tw
+|http://murmur.tw
+.musicade.net
 ||muzi.com
 ||muzi.net
 ||mx981.com
@@ -3318,6 +3322,7 @@ myactimes.com
 .myaudiocast.com
 ||myaudiocast.com
 .myav.com.tw/bbs
+.myca168.com
 ||bbs.mychat.to
 ||mychinamyhome.com
 .mychinamyhome.com
@@ -3327,10 +3332,12 @@ myactimes.com
 ||mycnnews.com
 ||mykomica.org
 mycould.com/discuz
+.myeasytv.com
 ||myeclipseide.com
 .myforum.com.hk
 ||myforum.com.hk
 ||myforum.com.uk
+.myfreepaysite.com
 .myfreshnet.com
 forum.mymaji.com
 mymediarom.com/files/box
@@ -3406,7 +3413,9 @@ newcenturynews.com
 ||newchen.com
 .newchen.com
 .newgrounds.com
+newipnow.com
 .newlandmagazine.com.au
+.newnews.ca
 news100.com.tw
 .newscn.org
 ||newscn.org
@@ -3423,6 +3432,7 @@ newtalk.tw
 ||newtalk.tw
 newyorktimes.com
 ||nexon.com
+.next11.co.jp
 .nextmag.com.tw
 
 !--hk*.nextmedia.com
