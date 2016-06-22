@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: L0zNrMIB1T4jTz+nvuCzrg
+! Checksum: JgOW/vH1p/rVcsQUTh4BUw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Jun 2016 14:51:38 +0800
+! Last Modified: Wed, 22 Jun 2016 10:55:56 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3198,7 +3198,10 @@ mhradio.org
 ||michaelmarketl.com
 middle-way.net
 .mihk.hk/forum
+.mihr.com
 mihua.org
+.milph.net
+|http://milph.net
 .mimivip.com
 .mimivv.com
 .mindrolling.org
@@ -3415,12 +3418,13 @@ nexttv.com.tw
 ngensis.com
 .nhentai.net
 |http://nhentai.net
-!--.nicovideo.jp/watch
+.nicovideo.jp/watch
 !--||nicovideo.jp
 ||nighost.org
 av.nightlife141.com
 ninecommentaries.com
 .ninjacloak.com
+||ninjaproxy.ninja
 nintendium.com
 taiwanyes.ning.com
 usmgtcg.ning.com/forum
