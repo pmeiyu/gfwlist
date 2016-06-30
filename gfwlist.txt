@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: hfDVpiWWTSOcA61gKIU3cg
+! Checksum: J59yaJHGiODXTFEcsQPmpA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 30 Jun 2016 12:00:11 +0800
+! Last Modified: Thu, 30 Jun 2016 12:15:50 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3514,6 +3514,8 @@ nuzcom.com
 ||nyaa.eu
 ||nyaa.se
 .nydus.ca
+nylon-angel.com
+nylonstockingsonline.com
 !--||nyt.com
 ||nytco.com
 |http://nyti.ms/
@@ -3527,8 +3529,10 @@ nysingtao.com
 
 !--------------------OO-------------------------
 observechina.net
+.obutu.com
 ocaspro.com
 oclp.hk
+.ocreampies.com
 ||october-review.org
 offbeatchina.com
 officeoftibet.com
@@ -3539,6 +3543,8 @@ www2.ohchr.org/english/bodies/cat/docs/ngos/II_China_41.pdf
 .oiktv.com
 oizoblog.com
 .okayfreedom.com
+||okayfreedom.com
+okk.tw
 old-cat.net
 ||olumpo.com
 .olympicwatch.org
