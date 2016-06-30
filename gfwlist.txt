@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: hIaKwBTytIEcygkG9AozUA
+! Checksum: hfDVpiWWTSOcA61gKIU3cg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 30 Jun 2016 11:23:37 +0800
+! Last Modified: Thu, 30 Jun 2016 12:00:11 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1050,6 +1050,7 @@ chinagfw.org
 .chinahush.com
 chinalaborwatch.org
 chinalawtranslate.com
+.chinapost.com.tw/taiwan/national/national-news
 chinaxchina.com/howto
 .chinainperspective.com
 chinainperspective.net/ArtShow.aspx?
@@ -1512,6 +1513,7 @@ emilylau.org.hk
 chinese.engadget.com
 englishforeveryone.org
 ||englishfromengland.co.uk
+.enlighten.org.tw
 ||entermap.com
 .entnt.com
 |http://entnt.com
@@ -1903,6 +1905,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001062794
 .ftchinese.com/story/001063160
 .ftchinese.com/story/001065287
+.ftchinese.com/story/001066465
 .ftchinese.com/story/001066959
 .ftchinese.com/story/001067435
 www.ftchinese.com/story/001067479
@@ -1926,6 +1929,7 @@ funp.com
 ||futuremessage.org
 .fux.com
 .fuyin.net
+.fuyindiantai.org
 .fuyu.org.tw
 ||fw.cm
 fzh999.com
@@ -4210,6 +4214,7 @@ sohcradio.com
 ||sohcradio.com
 ||www.somee.com
 ||sorting-algorithms.com
+.sostibet.org
 .soumo.info
 ||soup.io/
 @@||static.soup.io
@@ -4373,6 +4378,7 @@ tahr.org.tw
 .taipeisociety.org
 ||taipeisociety.org
 .taiwanbible.com
+.taiwancon.com
 .taiwandaily.net
 ||taiwandaily.net
 .taiwandc.org
