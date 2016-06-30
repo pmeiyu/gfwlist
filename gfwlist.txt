@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CydtadRx79UnDoKt/m1zdg
+! Checksum: hIaKwBTytIEcygkG9AozUA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 22 Jun 2016 13:16:08 +0800
+! Last Modified: Thu, 30 Jun 2016 11:23:37 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -15,7 +15,7 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
-!---------403 Forbidden & URL Redirects---------
+!---------403/451 & URL Redirects---------
 ||4tern.com
 !--ehentai
 |http://85.17.73.31/
@@ -40,7 +40,7 @@
 ||desipro.de
 ||dish.com
 |http://img.dlsite.jp/
-||share.dmhy.org
+!--||share.dmhy.org
 ||dmm.co.jp
 !--||dmm.com
 .expekt.com
@@ -56,6 +56,7 @@
 ||fxnetworks.com
 ||gettyimages.com
 ||getuploader.com
+|https://github.com/programthink/zhao
 ||glass8.eu
 ||glype.com
 ||go141.com
@@ -4130,7 +4131,7 @@ home.sina.com
 ||magazines.sina.com.tw
 news.sina.com.hk
 news.sina.com.tw
-|http://news.sinchew.com.my
+news.sinchew.com.my
 .sinchew.com.my/node/
 .sinchew.com.my/taxonomy/term
 .singaporepools.com.sg
@@ -4491,6 +4492,7 @@ tiananmenmother.org
 ||tiandixing.org
 .tianhuayuan.com
 .tianlawoffice.com
+||tianti.io
 tiantibooks.org
 .tianzhu.org
 .tibet.at
