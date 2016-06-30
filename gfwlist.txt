@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: J59yaJHGiODXTFEcsQPmpA
+! Checksum: jEk4KpspahDBslNfeof8WA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 30 Jun 2016 12:15:50 +0800
+! Last Modified: Thu, 30 Jun 2016 12:33:21 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -140,6 +140,8 @@
 ||twerkingbutt.com
 ||vegasred.com
 ||vevo.com
+|http://viu.tv/ch/
+|http://viu.tv/encore/
 |http://ecsm.vs.com/
 ||wanz-factory.com
 ||wheretowatch.com
@@ -4654,6 +4656,7 @@ torrentprivacy.com
 ||torrenty.org
 ||torrentz.eu
 ||torvpn.com
+||totalvpn.com
 ||toutfr.com
 towngain.com
 .tparents.org
