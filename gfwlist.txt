@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jEk4KpspahDBslNfeof8WA
+! Checksum: SrN9zF13HKlOxwTbv908kw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 30 Jun 2016 12:33:21 +0800
+! Last Modified: Fri, 01 Jul 2016 15:04:19 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1181,6 +1181,7 @@ news.cnyes.com
 |http://tosh.comedycentral.com
 comefromchina.com
 ||comefromchina.com
+.comic-mega.me
 commandarms.com
 ||commentshk.com
 .communistcrimes.org
@@ -2612,6 +2613,7 @@ humanrightsbriefing.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
 ||huping.net
+hurgokbayrak.com
 .hurriyet.com.tr
 .hut2.ru
 ||hutianyi.net
@@ -4741,23 +4743,23 @@ tuitwit.com
 |http://tw01.org
 
 !---Tumblr---
+.tumblr.com
 ||tumblr.com
 !--@@||assets.tumblr.com
 !--@@||data.tumblr.com
 !--@@||media.tumblr.com
 !--@@||static.tumblr.com
 !--@@||www.tumblr.com
-blockedonweibo.tumblr.com
-||fqrouter.tumblr.com
-fanqiangkan.tumblr.com
-fubaichina.tumblr.com
+!--blockedonweibo.tumblr.com
+!--||fqrouter.tumblr.com
+!--fanqiangkan.tumblr.com
+!--fubaichina.tumblr.com
 
 .tv.com
-||www.tv.com
 |http://tv.com
 ||tv-intros.com
 tvants.com
-forum.tvb.com/
+forum.tvb.com
 news.tvb.com/list/world
 news.tvb.com/local
 news.tvbs.com.tw
