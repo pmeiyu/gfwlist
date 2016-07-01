@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: SrN9zF13HKlOxwTbv908kw
+! Checksum: HSEO+qj4AqZAm9+yN4VgXw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 01 Jul 2016 15:04:19 +0800
+! Last Modified: Fri, 01 Jul 2016 18:13:44 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -463,6 +463,7 @@ adultkeep.net/peepshow/members/main.htm
 ai-wen.net
 .aiph.net
 ||aiph.net
+||airconsole.com
 |http://download.aircrack-ng.org
 .airvpn.org
 ||airvpn.org
@@ -696,6 +697,7 @@ bdsmvideos.net
 beijingspring.com
 ||beijingspring.com
 .belamionline.com
+bemywife.cc
 beric.me
 .berlintwitterwall.com
 ||berlintwitterwall.com
@@ -2636,6 +2638,7 @@ iask.ca
 ||iask.ca
 iask.bz
 ||iask.bz
+.iav19.com
 ibiblio.org/pub/packages/ccic
 .iblist.com
 ||iblogserv-f.net
@@ -2760,7 +2763,7 @@ ipalter.com
 ||ipicture.ru
 .ipjetable.net
 ||ipjetable.net
-!--ipobar.com
+.ipobar.com/read.php?
 .iportal.me
 |http://iportal.me
 ||ippotv.com
@@ -5038,6 +5041,7 @@ vermonttibet.org
 .victimsofcommunism.org
 |http://victimsofcommunism.org
 ||vid.me
+||vidble.com
 videobam.com
 ||videobam.com
 .videomega.tv
@@ -5553,11 +5557,13 @@ zgzcjj.net
 .zhanbin.net
 ||zhanbin.net
 .zhangboli.net
-zhenghui.org
 ||zhangtianliang.com
+zhenghui.org
 zhengwunet.org
 zhenlibu.info
 ||zhenlibu.info
+.zhenlibu1984.com
+|http://zhenlibu1984.com
 |http://zhenxiang.biz
 .zhinengluyou.com
 zhongguo.ca
