@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: BgA/xVqv8xHip60/2rnUQQ
+! Checksum: AzI9bZUvDtmkdYfVY6n3Gw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 05 Jul 2016 13:41:12 +0800
+! Last Modified: Tue, 05 Jul 2016 13:48:29 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -534,6 +534,7 @@ www1.american.edu/ted/ice/tibet
 ||amnestyusa.org
 .amnyemachen.org
 .amoiist.com
+annatam.com/chinese
 ||anchorfree.com
 !--GHS
 ||ancsconf.org
@@ -1934,6 +1935,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001067648
 .ftchinese.com/story/001067650
 .ftchinese.com/story/001068248
+.ftchinese.com/story/001068278
 .ftchinese.com/video/1437
 .ftchinese.com/comments
 fucd.com
@@ -3876,6 +3878,7 @@ psblog.name
 ||purepdf.com
 ||purevpn.com
 .purplelotus.org
+.putihome.org
 .putlocker.com/file
 pwned.com
 python.com
