@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: vufejyobJVHQZ5lSBlDUYQ
+! Checksum: +WfxXc31WDsMzL3VcZpX8g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 05 Jul 2016 13:59:18 +0800
+! Last Modified: Tue, 05 Jul 2016 14:17:12 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -413,6 +413,7 @@ taiwannation.50webs.com
 .881903.com/page/zh-tw/
 ||881903.com
 .888.com
+.888poker.com
 89-64.org
 ||89-64.org
 .8news.com.tw
@@ -3593,9 +3594,12 @@ showbiz.omy.sg
 ||on.cc
 ||onedrive.live.com
 |http://www.onion.city
+.onlinecha.com
 ||onlineyoutube.com
 onmoon.net
 onmoon.com
+.onthehunt.com
+|http://onthehunt.com
 .oopsforum.com
 open.com.hk
 openallweb.com
@@ -3615,6 +3619,7 @@ my.opera.com/dahema
 www.orchidbbs.com
 .organcare.org.tw
 organharvestinvestigation.net
+.orgfree.com
 ||orient-doll.com
 orientaldaily.com.my
 ||orientaldaily.com.my
@@ -3625,7 +3630,6 @@ t.orzdream.com
 tui.orzdream.com
 ||orzistic.org
 ||osfoora.com
-|http://www.osmdroid.net
 .otnd.org
 ||otnd.org
 ||otto.de
@@ -3652,6 +3656,7 @@ bbs.ozchinese.com
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||pachosting.com
 .pacificpoker.com
 .packetix.net
 ||pacopacomama.com
@@ -3665,13 +3670,16 @@ forum.palmislife.com
 paljorpublications.com
 .paltalk.com
 ||panacom.co.jp
-paper.li
-paperb.us
 .pandapow.net
 .pandavpn-jp.com
 .panluan.net
 ||panluan.net
 ||pao-pao.net
+paper.li
+paperb.us
+.paradisepoker.com
+.partycasino.com
+.partypoker.com
 .passion.com
 ||passion.com
 .passiontimes.hk
@@ -3729,7 +3737,9 @@ penisbot.com
 perfectvpn.net
 .persecutionblog.com
 pfd.org.hk
+phapluan.org
 phayul.com
+philborges.com
 philly.com
 ||phncdn.com
 ||photodharma.net
@@ -3744,6 +3754,7 @@ picturesocial.com
 ||ping.fm
 ||pinoy-n.com
 .piposay.com
+piraattilahti.org
 .piring.com
 ||pixelqi.com
 ||css.pixnet.in
