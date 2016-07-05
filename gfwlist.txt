@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: LDtWfzgCLZGjbPnvh6fCpg
+! Checksum: DqACHO1BPrV+nGquo4lTcw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 01 Jul 2016 19:09:35 +0800
+! Last Modified: Tue, 05 Jul 2016 13:12:33 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -245,6 +245,7 @@ china-mmm.sa.com
 ||googleapps.com
 ||googleartproject.com
 ||googleblog.com
+||googlebot.com
 ||googlecode.com
 ||googlecommerce.com
 ||googledomains.com
@@ -1095,6 +1096,7 @@ chinese-memorial.org
 ||chinesedailynews.com
 .chinesedemocracy.com
 ||chinesedemocracy.com
+||chinesegay.org
 .chinesen.de
 ||chinesen.de
 .chinesepen.org
@@ -1403,6 +1405,7 @@ dphk.org
 dpp.org.tw
 ||dpp.org.tw
 ||dpr.info
+||draw.io
 ||dreammask.org
 .drepung.org
 ||drgan.net
@@ -1483,7 +1486,6 @@ eastern-ark.com
 ebookbrowse.com
 ebookee.com
 ecministry.net
-!--Panama Papers
 .economist.com
 bbs.ecstart.com
 ||edgecastcdn.net
@@ -2621,6 +2623,7 @@ huaxin.ph
 ||huhaitai.com
 ||huhamhire.com
 huiyi.in
+.hulkshare.com
 humanrightsbriefing.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
@@ -3376,6 +3379,7 @@ mysinablog.com
 !--||blogs.myspace.com
 !--vids.myspace.com/index.cfm?fuseaction=vids.
 !--viewmorepics.myspace.com
+.mytalkbox.com
 
 !--------------------NN-------------------------
 ||naacoalition.org
@@ -3752,6 +3756,7 @@ plunder.com
 ||po2b.com
 !--||pocoo.org
 ||podictionary.com
+.pokerstars.net
 zh.pokerstrategy.com
 politicalchina.org
 politicalconsultation.org
@@ -4310,6 +4315,7 @@ usinfo.state.gov
 .startpage.com
 ||startpage.com
 .state168.com
+||static-economist.com
 ||stc.com.sa
 ||steel-storm.com
 .stepchina.com
@@ -4477,6 +4483,7 @@ teensinasia.com
 ||thebodyshop-usa.com
 theblemish.com
 ||thebcomplex.com
+.thebobs.com
 ||thebobs.com
 .thechinabeat.org
 |http://www.thechinastory.org/yearbooks/yearbook-2012/
@@ -5102,7 +5109,9 @@ voatibetan.com
 vocn.tv
 .vot.org
 ||vot.org
-www.voy.com
+.voxer.com
+||voxer.com
+.voy.com
 .vpn4all.com
 .vpnaccount.org
 |http://vpnaccount.org
@@ -5562,6 +5571,8 @@ zacebook.com
 ||zarias.com
 !--.zdnet.com.tw/news/software/0,2000085678,20111187,00
 ||zdnet.com.tw
+.zello.com
+||zello.com
 .zengjinyan.org
 ||zeutch.com
 !--www.zfreet.com/post/usejump-browns.html
