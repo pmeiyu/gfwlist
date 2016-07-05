@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DqACHO1BPrV+nGquo4lTcw
+! Checksum: BgA/xVqv8xHip60/2rnUQQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 05 Jul 2016 13:12:33 +0800
+! Last Modified: Tue, 05 Jul 2016 13:41:12 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -189,15 +189,19 @@ china-mmm.sa.com
 ||d3rhr7kgmtrq1v.cloudfront.net
 
 !!---DtDNS---
+.3d-game.com
 .4irc.com
 .b0ne.com
 .chatnook.com
+.darktech.org
 .deaftone.com
 .dtdns.net
 .effers.com
+.etowns.net
 .etowns.org
 .flnet.org
 .gotgeeks.com
+.scieron.com
 .slyip.com
 .slyip.net
 .suroot.com
@@ -364,6 +368,7 @@ zhao.1984.city
 .21pron.com
 21sextury.com
 .228.net.tw
+||24hrs.ca
 24smile.org
 2lipstube.com
 .2shared.com
@@ -1485,6 +1490,7 @@ eastern-ark.com
 .ebony-beauty.com
 ebookbrowse.com
 ebookee.com
+||ecfa.org.tw
 ecministry.net
 .economist.com
 bbs.ecstart.com
@@ -1927,6 +1933,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001067545
 .ftchinese.com/story/001067648
 .ftchinese.com/story/001067650
+.ftchinese.com/story/001068248
 .ftchinese.com/video/1437
 .ftchinese.com/comments
 fucd.com
@@ -4355,6 +4362,7 @@ panamapapers.sueddeutsche.de
 summify.com
 sun1911.com
 .sunporno.com
+||sunmedia.ca
 ||sunporno.com
 .sunskyforum.com
 .sunvpn.net
