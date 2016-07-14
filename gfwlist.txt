@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Q/Hv82ndl63qg9SUH1cFew
+! Checksum: KgmNq1ICnadqZG94U06LEQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 14 Jul 2016 14:11:52 +0800
+! Last Modified: Thu, 14 Jul 2016 14:22:04 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3090,6 +3090,7 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||www.linksalpha.com
 ||help.linksalpha.com
 linuxtoy.org/archives/installing-west-chamber-on-ubuntu
+.lionsroar.com
 .lipuman.com
 ||listentoyoutube.com
 listorious.com
@@ -3953,13 +3954,15 @@ qxbbs.org
 .ra.gg
 |http://ra.gg/
 .radicalparty.org
-||raggedbanner.com
+||rael.org
+radicalparty.org
 radioaustralia.net.au
 .radiohilight.net
 ||radiohilight.net
 opml.radiotime.com
 ||radiovaticana.org
 ||radiovncr.com
+||raggedbanner.com
 ||raidcall.com.tw
 .raidtalk.com.tw
 .raizoji.or.jp
@@ -4103,6 +4106,7 @@ savetibet.nl
 savetibet.ru
 savevid.com
 ||say2.info
+.scasino.com
 |http://www.sciencemag.org/content/344/6187/953
 .sciencenets.com
 ||scihub.org
@@ -4162,6 +4166,7 @@ shadow.ma
 ||shadowsocks.org
 |http://cn.shafaqna.com
 shahamat-english.com
+.shambhalasun.com
 .shangfang.org
 ||shangfang.org
 shapeservices.com
