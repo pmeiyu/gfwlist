@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: SxYfIoU8W8QQKDbbqQT04Q
+! Checksum: Q/Hv82ndl63qg9SUH1cFew
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 14 Jul 2016 12:44:56 +0800
+! Last Modified: Thu, 14 Jul 2016 14:11:52 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1342,6 +1342,8 @@ cn.dayabook.com
 ||dcard.tw
 dcmilitary.com
 .ddc.com.tw
+!--ChangeIP
+.ddns.ms
 ddns.net
 ||de-sci.org
 .de-sci.org
@@ -1771,6 +1773,7 @@ fleshbot.com
 ||staticflickr.com
 
 flickrhivemind.net
+.fling.com
 ||flipkart.com
 |http://cn.fmnnow.com
 fofldfradio.org
@@ -2746,6 +2749,7 @@ imageshack.us
 !--IMDB
 |http://www.imdb.com/name/nm0482730
 .imdb.com/title/tt0819354
+.imdb.com/title/tt1540068
 .imdb.com/title/tt4908644
 
 .img.ly
@@ -3824,6 +3828,7 @@ popyard.com
 ||porntvblog.com
 .pornvisit.com
 .portablevpn.nl
+||poskotanews.com
 .post852.com
 postadult.com
 ||powercx.com
@@ -3898,6 +3903,7 @@ psblog.name
 .ptt.cc
 ||ptt.cc
 .puffstore.com
+.puuko.com
 ||pullfolio.com
 .punyu.com/puny
 ||pureconcepts.net
@@ -3905,6 +3911,7 @@ psblog.name
 ||purepdf.com
 ||purevpn.com
 .purplelotus.org
+.pussyspace.com
 .putihome.org
 .putlocker.com/file
 pwned.com
@@ -3994,6 +4001,7 @@ referer.us
 ||referer.us
 ||reflectivecode.com
 relaxbbs.com
+.relay.com.tw
 .releaseinternational.org
 religioustolerance.org
 renminbao.com
