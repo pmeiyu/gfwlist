@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: FupM1AdoItSjp1A3OlaSlA
+! Checksum: uN60hvrw0Ns+iogIRXHMMQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 14 Jul 2016 16:17:09 +0800
+! Last Modified: Thu, 14 Jul 2016 16:24:21 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -292,6 +292,7 @@ china-mmm.sa.com
 ||html5rocks.com
 ||iam.soy
 ||igoogle.com
+||itasoftware.com
 ||like.com
 ||nic.google
 ||panoramio.com
@@ -3093,6 +3094,7 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||apidocs.linksalpha.com
 ||www.linksalpha.com
 ||help.linksalpha.com
+||linux.org.hk
 linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lionsroar.com
 .lipuman.com
