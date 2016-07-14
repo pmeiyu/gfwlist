@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: KgmNq1ICnadqZG94U06LEQ
+! Checksum: wnzJKUkGFM8hFokArKyPWA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 14 Jul 2016 14:22:04 +0800
+! Last Modified: Thu, 14 Jul 2016 15:42:32 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -399,7 +399,7 @@ zhao.1984.city
 .3ren.ca
 .3tui.net
 ||4bluestones.biz
-||4chan.org
+!--||4chan.org
 .4everproxy.com
 ||4everproxy.com
 ||4rbtv.com
@@ -1431,6 +1431,7 @@ dphk.org
 dpp.org.tw
 ||dpp.org.tw
 ||dpr.info
+||dragonsprings.org
 ||draw.io
 ||dreammask.org
 .drepung.org
