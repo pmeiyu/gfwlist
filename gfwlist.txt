@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +WfxXc31WDsMzL3VcZpX8g
+! Checksum: DQMj9iiof/maZz4X/301Kw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 05 Jul 2016 14:17:12 +0800
+! Last Modified: Thu, 14 Jul 2016 12:29:56 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -83,6 +83,7 @@
 ||javhuge.com
 .javlibrary.com
 ||javlibrary.com
+||jcpenney.com
 ||juliepost.com
 ||kawaiikawaii.jp
 ||khatrimaza.org
@@ -108,6 +109,7 @@
 ||nordstrom.com
 ||nordstromimage.com
 ||nordstromrack.com
+||nottinghampost.com
 ||ntdtv.cz
 ||nusatrip.com
 ||nuuvem.com
@@ -207,6 +209,19 @@ china-mmm.sa.com
 .slyip.com
 .slyip.net
 .suroot.com
+
+!!---Facebook---
+||facebook.br
+.facebook.com
+||facebook.com
+!--/^https?:\/\/[^\/]+facebook\.com/
+@@||*v6.facebook.com
+||connect.facebook.net
+||facebook.hu
+||facebook.in
+||facebook.nl
+||facebook.se
+||messenger.com
 
 !!---Google---
 !###https://www.google.com/supported_domains###
@@ -1575,6 +1590,8 @@ erabaru.net
 ||erodoujinworld.com
 ||eromanga-kingdom.com
 ||eromangadouzin.com
+.eromon.net
+|http://eromon.net
 .eroprofile.com
 .eroticsaloon.net
 .eslite.com/product
@@ -1615,16 +1632,6 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
-||facebook.br
-.facebook.com
-||facebook.com
-!--/^https?:\/\/[^\/]+facebook\.com/
-@@||*v6.facebook.com
-||connect.facebook.net
-||facebook.hu
-||facebook.in
-||facebook.nl
-||facebook.se
 ||facebookquotes4u.com
 .faceless.me
 ||faceless.me
@@ -1849,6 +1856,7 @@ free4u.com.ar
 ||freetibet.org
 .freetibetanheroes.org
 |http://freetibetanheroes.org
+.freeviewmovies.com
 .freevpn.me
 |http://freevpn.me
 ||freewallpaper4.me
@@ -2400,6 +2408,7 @@ guruonline.hk
 .h-moe.com
 |http://h-moe.com
 h1n1china.org
+.hacg.red
 .hacken.cc/bbs
 ||hackthatphone.net
 hahlo.com
@@ -3542,6 +3551,7 @@ ntdtvla.com
 ||cbs.ntu.edu.tw
 .nubiles.net
 ||nuexpo.com
+.nukistream.com
 ||nurgo-software.com
 .nuvid.com
 nuzcom.com
@@ -3968,6 +3978,8 @@ rcinet.ca
 .readingtimes.com.tw
 ||readingtimes.com.tw
 ||readmoo.com
+.readydown.com
+|http://readydown.com
 .realcourage.org
 .realraptalk.com
 .recordhistory.org
@@ -4116,6 +4128,7 @@ forum.setty.com.tw
 ||sex3.com
 ||sex8.cc
 .sexandsubmission.com
+.sexbot.com
 .sexhu.com
 .sexhuang.com
 sexinsex.net
@@ -4350,6 +4363,7 @@ sthoo.com
 ||sthoo.com
 .stickam.com
 stickeraction.com/sesawe
+.stileproject.com
 .sto.cc
 ||stoneip.info
 ||storagenewsletter.com
@@ -4680,6 +4694,7 @@ tinychat.com
 togetter.com
 .tokyo-247.com
 .tokyo-hot.com
+||tokyo-porn-tube.com
 ||tokyocn.com
 tw.tomonews.net
 .tongil.or.kr
