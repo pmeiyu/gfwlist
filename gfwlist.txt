@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: wnzJKUkGFM8hFokArKyPWA
+! Checksum: FupM1AdoItSjp1A3OlaSlA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 14 Jul 2016 15:42:32 +0800
+! Last Modified: Thu, 14 Jul 2016 16:17:09 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -517,6 +517,7 @@ voa-11.akacast.akamaistream.net
 ||alasbarricadas.org
 alexlur.org
 ||alforattv.net
+.alhayat.com
 aliengu.com
 ||alkasir.com
 ||allconnected.co
@@ -1294,8 +1295,6 @@ dadazim.com
 .dadi360.com
 dafagood.com
 dafahao.com
-||dalailama.ru
-.dalailamavisit.org.nz
 .dailidaili.com
 ||dailidaili.com
 .dailymotion.com
@@ -1307,7 +1306,9 @@ dajiyuan.eu
 dalailama.com
 .dalailama.mn
 |http://dalailama.mn
+||dalailama.ru
 dalailama80.org
+.dalailama-archives.org
 .dalailamacenter.org
 |http://dalailamacenter.org
 dalailamafellows.org
@@ -1319,6 +1320,7 @@ dalailamafellows.org
 .dalailamaprotesters.info
 .dalailamaquotes.org
 .dalailamatrust.org
+.dalailamavisit.org.nz
 .dalailamaworld.com
 ||dalailamaworld.com
 dalianmeng.org
@@ -1369,6 +1371,7 @@ delicious.com/GFWbookmark
 ||devpn.com
 ||dfas.mil
 dfn.org
+dharmakara.net
 .dharamsalanet.com
 .diaoyuislands.org
 ||diaoyuislands.org
@@ -3169,7 +3172,8 @@ lvhai.org
 |http://lyfhk.net
 
 !--------------------MM-------------------------
-m-team.cc/forum
+.m-team.cc
+!--m-team.cc/forum
 .macrovpn.com
 macts.com.tw
 ||mad-ar.ch
@@ -4269,6 +4273,7 @@ forum.slime.com.tw
 .slutload.com
 .smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
 smhric.org
+.smith.edu/dalailama
 .smyxy.org
 !--TODO-no-homepage
 ||snapchat.com
@@ -4321,6 +4326,7 @@ sokamonline.com
 .sopcast.com
 .sopcast.org
 .sorazone.net
+||sos.org
 .soul-plus.net
 .soulcaliburhentai.net
 ||soulcaliburhentai.net
