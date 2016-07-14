@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DQMj9iiof/maZz4X/301Kw
+! Checksum: SxYfIoU8W8QQKDbbqQT04Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 14 Jul 2016 12:29:56 +0800
+! Last Modified: Thu, 14 Jul 2016 12:44:56 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2093,6 +2093,7 @@ go-pki.com
 gobet.cc
 godfootsteps.org
 ||godfootsteps.org
+godns.work
 godsdirectcontact.co.uk
 .godsdirectcontact.org
 godsdirectcontact.org.tw
@@ -2745,6 +2746,7 @@ imageshack.us
 !--IMDB
 |http://www.imdb.com/name/nm0482730
 .imdb.com/title/tt0819354
+.imdb.com/title/tt4908644
 
 .img.ly
 ||img.ly
@@ -3241,7 +3243,7 @@ memorybbs.com
 merit-times.com.tw
 meshrep.com
 .mesotw.com/bbs
-.metacafe.com
+metacafe.com/watch
 ||meteorshowersonline.com
 |http://www.metro.taipei/
 .metrohk.com.hk/?cmd=detail&categoryID=2
@@ -5125,6 +5127,7 @@ visibletweets.com
 |http://ny.visiontimes.com
 .vital247.org
 ||viu.com
+.vivahentai4u.net
 .vivatube.com
 .vivthomas.com
 ||vivthomas.com
