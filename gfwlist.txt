@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: uN60hvrw0Ns+iogIRXHMMQ
+! Checksum: OmmgxwQMbfkhVd1qBEA2QA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 14 Jul 2016 16:24:21 +0800
+! Last Modified: Tue, 19 Jul 2016 11:29:17 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -289,6 +289,7 @@ china-mmm.sa.com
 ||groups.google.cn
 ||gvt0.com
 ||gvt1.com
+||gvt3.com
 ||html5rocks.com
 ||iam.soy
 ||igoogle.com
