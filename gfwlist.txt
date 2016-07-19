@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +796Tw90nF7w7O5lmal4xA
+! Checksum: Li2/z58uBLkGKuGDvZYIdw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 19 Jul 2016 17:46:14 +0800
+! Last Modified: Tue, 19 Jul 2016 18:02:35 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -991,6 +991,7 @@ catholic.org.tw
 cclife.org
 cclifefl.org
 .ccthere.com
+||ccthere.com
 .cctongbao.com/article/2078732
 ccue.ca
 ccue.com
@@ -3088,6 +3089,7 @@ letscorp.net
 ||letscorp.net
 .lhakar.org
 |http://lhakar.org
+.lhasocialwork.org
 .liangyou.net
 ||liangyou.net
 .lianyue.net
@@ -3265,6 +3267,8 @@ memorybbs.com
 .memrijttm.org
 .mercyprophet.org
 |http://mercyprophet.org
+.meridian-trust.org
+|http://meridian-trust.org
 .meripet.com
 |http://meripet.com
 merit-times.com.tw
@@ -3623,6 +3627,7 @@ oizoblog.com
 .okayfreedom.com
 ||okayfreedom.com
 okk.tw
+|http://filmy.olabloga.pl/player
 old-cat.net
 ||olumpo.com
 .olympicwatch.org
