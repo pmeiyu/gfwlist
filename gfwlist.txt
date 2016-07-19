@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: extdFWEGBm3VMMPUTged7A
+! Checksum: HqbmtbRKPGuJekywWDVSMg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 19 Jul 2016 16:31:10 +0800
+! Last Modified: Tue, 19 Jul 2016 17:06:12 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1396,6 +1396,7 @@ dharmakara.net
 |https://search.disconnect.me
 .discuss.com.hk
 ||discuss.com.hk
+.discuss4u.com
 disp.cc
 .dit-inc.us
 ||dit-inc.us
@@ -1686,6 +1687,7 @@ familyfed.org
 ||fangong.org
 fangongheike.com
 fanqianghou.com
+||fanqianghou.com
 fapdu.com
 faproxy.com
 !--.farxian.com
@@ -2594,6 +2596,7 @@ hkptu.org
 |http://hkupop.hku.hk/
 .hkusu.net
 ||hkusu.net
+.hkvwet.com
 .hkwcc.org.hk
 ||hkzone.org
 hnjhj.com
@@ -3397,6 +3400,7 @@ myactimes.com
 .myaudiocast.com
 ||myaudiocast.com
 .myav.com.tw/bbs
+.mybbs.us
 .myca168.com
 ||bbs.mychat.to
 ||mychinamyhome.com
@@ -3574,6 +3578,7 @@ ntdtv.ca
 ntdtv.org
 ntdtv.ru
 ntdtvla.com
+.ntrfun.com
 ||cbs.ntu.edu.tw
 .nubiles.net
 ||nuexpo.com
@@ -5442,6 +5447,7 @@ zh.m.wikipedia.org
 ||sports.williamhill.com
 ||willw.net
 ||windowsphoneme.com
+winning11.com
 winwhispers.info
 ||wiredbytes.com
 ||wiredpen.com
@@ -5753,6 +5759,7 @@ writer.zoho.com
 ||zuola.com
 ||zvereff.com
 zyzc9.com
+.zzcartoon.com
 !##############General List End#################
 
 !###########Supplemental List Start#############
