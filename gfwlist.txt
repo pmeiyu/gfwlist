@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: HqbmtbRKPGuJekywWDVSMg
+! Checksum: +796Tw90nF7w7O5lmal4xA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 19 Jul 2016 17:06:12 +0800
+! Last Modified: Tue, 19 Jul 2016 17:46:14 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1432,6 +1432,7 @@ dongtaiwang.com
 .dongyangjing.com
 .dontfilter.us
 ||dontmovetochina.com
+.dorjeshugden.com
 .dotplane.com
 ||dotplane.com
 ||dotsub.com
@@ -4327,11 +4328,10 @@ home.so-net.net.tw/yisa_tsai
 ||sogclub.com
 sohcradio.com
 ||sohcradio.com
-||www.somee.com
 ||sorting-algorithms.com
 .sostibet.org
 .soumo.info
-||soup.io/
+||soup.io
 @@||static.soup.io
 .sobees.com
 ||sobees.com
@@ -4348,6 +4348,7 @@ sokamonline.com
 ||somee.com
 .songjianjun.com
 ||songjianjun.com
+.sonicbbs.cc
 .sonidodelaesperanza.org
 .sopcast.com
 .sopcast.org
@@ -4392,7 +4393,6 @@ squarespace.com
 .sspro.ml
 |http://sspro.ml
 !--|http://cdn.sstatic.net/
-www.stackfile.com/freedur
 |http://stackoverflow.com/users/895245
 .stage64.hk
 ||stage64.hk
@@ -5345,6 +5345,7 @@ weijingsheng.org
 ||weiming.info
 weiquanwang.org
 |http://weisuo.ws
+.welovecock.com
 .wemigrate.org
 |http://wemigrate.org
 wengewang.com
@@ -5373,6 +5374,7 @@ wezhiyong.org
 ||wheelockslatin.com
 .whippedass.com
 !--|http://who.is/
+whotalking.com
 whylover.com
 ||whyx.org
 |http://evchk.wikia.com
@@ -5386,6 +5388,7 @@ zh.uncyclopedia.wikia.com
 ||wikileaks.org
 ||wikileaks.pl
 .wikileaks-forum.com
+wildammo.com
 ||collateralmurder.com
 ||collateralmurder.org
 wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
@@ -5444,7 +5447,9 @@ zh.m.wikipedia.org
 |https://zh.wikipedia.org
 
 ||wikiwiki.jp
+||casino.williamhill.com
 ||sports.williamhill.com
+||vegas.williamhill.com
 ||willw.net
 ||windowsphoneme.com
 winning11.com
@@ -5571,6 +5576,7 @@ xmovies.com
 ||xnxx.com
 xpdo.net
 ||xpud.org
+.xrentdvd.com
 ||xtube.com
 blog.xuite.net
 vlog.xuite.net
@@ -5584,6 +5590,8 @@ xuchao.net
 .xxlmovies.com
 ||xxx.com
 ||xxxx.com.au
+.xxxymovies.com
+|http://xxxymovies.com
 xys.org
 xysblogs.org
 xyy69.com
@@ -5657,6 +5665,8 @@ youmaker.com
 ||youpai.org
 .your-freedom.net
 ||yourepeat.com
+.yourprivatevpn.com
+||yourprivatevpn.com
 .yousendit.com
 ||yousendit.com
 .youthnetradio.org/tmit/forum
@@ -5737,6 +5747,7 @@ zhuichaguoji.org
 zinio.com
 ||zinio.com
 ||ziplib.com
+.ziporn.com
 .zkaip.com
 ||zkaip.com
 realforum.zkiz.com
