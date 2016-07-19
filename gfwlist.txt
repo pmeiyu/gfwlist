@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: OmmgxwQMbfkhVd1qBEA2QA
+! Checksum: RIaSpY0CZOIfyIHgJMz00Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 19 Jul 2016 11:29:17 +0800
+! Last Modified: Tue, 19 Jul 2016 12:09:15 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -103,6 +103,7 @@
 ||moodyz.com
 ||muzu.tv
 ||mvg.jp
+||nationwide.com
 |http://www.nbc.com/live
 ||netflix.com
 |http://mo.nightlife141.com
@@ -113,6 +114,7 @@
 ||ntdtv.cz
 ||nusatrip.com
 ||nuuvem.com
+||omni7.jp
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
@@ -1956,6 +1958,8 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001067650
 .ftchinese.com/story/001068248
 .ftchinese.com/story/001068278
+.ftchinese.com/story/001068379
+.ftchinese.com/story/001068483
 .ftchinese.com/video/1437
 .ftchinese.com/comments
 fucd.com
@@ -2958,6 +2962,7 @@ juziyue.com
 .kaiyuan.de
 .kakao.com
 ||kakao.com
+.kankan.today
 .kannewyork.com
 .kanshifang.com
 ||kanshifang.com
@@ -4712,6 +4717,8 @@ tinychat.com
 |http://tmpp.org
 .tnaflix.com
 ||tnaflix.com
+.tngrnow.com
+.tngrnow.net
 .tnp.org
 |http://tnp.org
 .to-porno.com
@@ -5541,6 +5548,7 @@ meme.yahoo.com
 !--tw.yahoo.com
 ||tw.knowledge.yahoo.com
 tw.yahoo.com
+||tw.mobi.yahoo.com
 tw.myblog.yahoo.com
 ||tw.news.yahoo.com
 pulse.yahoo.com
@@ -5681,6 +5689,8 @@ realforum.zkiz.com
 zomobo.net
 .zonaeuropa.com
 ||zonaeuropa.com
+||zonghexinwen.com
+.zonghexinwen.net
 ||zootool.com
 .zoozle.net
 writer.zoho.com
@@ -5803,6 +5813,8 @@ zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5
 ||tacc.cwb.gov.tw
 immigration.gov.tw
 ||nsc.gov.tw
+||ntbna.gov.tw
+||ntsna.gov.tw
 taipei.gov.tw
 @@||tax.nat.gov.tw
 @@||moe.gov.tw
