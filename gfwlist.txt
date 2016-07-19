@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Cue/6CWEfcDsYQyvAO7Gaw
+! Checksum: extdFWEGBm3VMMPUTged7A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 19 Jul 2016 14:29:06 +0800
+! Last Modified: Tue, 19 Jul 2016 16:31:10 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3984,6 +3984,7 @@ opml.radiotime.com
 ||raggedbanner.com
 ||raidcall.com.tw
 .raidtalk.com.tw
+.rainbowplan.org/bbs
 .raizoji.or.jp
 |http://raizoji.or.jp
 rangwang.biz
@@ -4219,6 +4220,7 @@ shkspr.mobi/dabr
 ||shodanhq.com
 .shop2000.com.tw
 .shopping.com
+.showhaotu.com
 .showtime.jp
 ch.shvoong.com
 .shwchurch.org
@@ -5227,6 +5229,8 @@ voatibetan.com
 vocn.tv
 .vot.org
 ||vot.org
+.vovo2000.com
+|http://vovo2000.com
 .voxer.com
 ||voxer.com
 .voy.com
@@ -5270,6 +5274,7 @@ vpnhq.com
 ||vporn.com
 vraiesagesse.net
 ||vtunnel.com
+||vuku.cc
 
 !--------------------WW-------------------------
 ||w.org
@@ -5300,6 +5305,7 @@ www.wangruowang.org
 want-daily.com
 wapedia.mobi/zhsimp
 ||waselpro.com
+.watchinese.com
 .wattpad.com
 ||wattpad.com
 .makzhou.warehouse333.com
@@ -5307,18 +5313,20 @@ washeng.net
 ||watchmygf.net
 ||wav.tv
 .wdf5.com
+.wearehairy.com
 .wearn.com
 ||wearn.com
 |http://hkcoc.weather.com.hk
 ||hudatoriq.web.id
 ||web2project.net
 webbang.net
+.webevader.org
 .webfreer.com
 weblagu.com
 .webjb.org
+.webrush.net
 webs-tv.net
-!--webshots.com
-websitepulse.com/help/testtools.china-test.html
+.websitepulse.com/help/testtools.china-test
 |http://www.websnapr.com
 .webwarper.net
 |http://webwarper.net
@@ -5346,8 +5354,6 @@ wenxuecity.com
 ||westernwolves.com
 .westkit.net
 ||westpoint.edu
-www.wet123.com
-||wepn.info
 .westernshugdensociety.org
 wetpussygames.com
 .wetplace.com
