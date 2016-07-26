@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 4GJkZSgBWf1EY+rgnVWXGg
+! Checksum: zfeV2q+cQg4y1cSJg6IKnA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 19 Jul 2016 18:16:49 +0800
+! Last Modified: Tue, 26 Jul 2016 08:45:56 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1766,6 +1766,8 @@ filmingfortibet.org
 findmespot.com
 .fingerdaily.com
 finler.net
+.firefoxfan.cc
+|http://firefoxfan.cc
 .fireofliberty.org
 ||fireofliberty.org
 .firetweet.io
@@ -2578,6 +2580,8 @@ china.hket.com
 ||hkfaa.com
 hkfreezone.com
 hkfront.org
+m.hkgalden.com
+|https://m.hkgalden.com
 hkgolden.com
 .hkgreenradio.org/home
 .hkheadline.com*blog
@@ -4144,6 +4148,7 @@ savevid.com
 ||scihub.org
 .scmp.com
 .scmpchinese.com
+||scramble.io
 .scribd.com
 ||scriptspot.com
 seapuff.com
@@ -4360,6 +4365,7 @@ sokamonline.com
 .sopcast.org
 .sorazone.net
 ||sos.org
+bbs.sou-tong.org
 .soubory.com
 |http://soubory.com
 .soul-plus.net
@@ -5151,6 +5157,8 @@ usus.cc
 .utopianpal.com
 ||utopianpal.com
 .uu-gg.com
+.uvwxyz.xyz
+|http://uvwxyz.xyz
 .uwants.com
 .uwants.net
 uyghur.co.uk
