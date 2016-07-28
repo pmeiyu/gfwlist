@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8GAowVwYZ4oa/Wi/vYI4Ww
+! Checksum: 4ZhuB/MRAcchfJiMdO2YXg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 26 Jul 2016 09:39:16 +0800
+! Last Modified: Thu, 28 Jul 2016 08:55:44 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -24,6 +24,7 @@
 ||akiba-web.com
 ||alien-ufos.com
 ||altrec.com
+||arena.taipei
 ||asianspiss.com
 ||athenaeizou.com
 ||azubu.tv
