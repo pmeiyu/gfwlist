@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DG8NKsJWqcd6rdGOtBnIYQ
+! Checksum: OPA5gIHwRx62L6EMsKbMMQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 05 Aug 2016 09:45:36 +0800
+! Last Modified: Fri, 05 Aug 2016 11:30:55 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -305,15 +305,19 @@ blogspot.com
 ||itasoftware.com
 ||like.com
 ||nic.google
+||on2.com
 ||panoramio.com
 ||picasaweb.com
 ||polymer-project.org
-||thinkwithgoogle.com
-||tiltbrush.com
+||questvisual.com
 ||recaptcha.net
+||redhotlabs.com
 ||registry.google
 |http://sipml5.org/
+||synergyse.com
 ||tensorflow.org
+||thinkwithgoogle.com
+||tiltbrush.com
 !--||www.google
 ||waveprotocol.org
 ||webmproject.org
@@ -3337,6 +3341,7 @@ mihua.org
 .milph.net
 |http://milph.net
 .milsurps.com
+mimiai.net
 .mimivip.com
 .mimivv.com
 .mindrolling.org
@@ -5573,7 +5578,6 @@ woxinghuiguo.com
 |http://woyaolian.org
 .wpoforum.com
 ||wpoforum.com
-.wqlhw.com
 .wqyd.org
 ||wqyd.org
 wrchina.org
@@ -5581,11 +5585,10 @@ wretch.cc
 !-cn.wsj.com/gb/20130215/tec113853.asp
 .wsj.com
 ||wsj.com
-.wsjhk.com
 .wsj.net
+.wsjhk.com
 .wtbn.org
 .wtfpeople.com
-.wuala.com
 wuerkaixi.com
 wufi.org.tw
 ||wuguoguang.com
@@ -5809,6 +5812,7 @@ zhenlibu.info
 .zhinengluyou.com
 zhongguo.ca
 |http://zhongguorenquan.org
+zhongguotese.net
 ||zhongguotese.net
 ||zhongmeng.org
 ||zhreader.com
