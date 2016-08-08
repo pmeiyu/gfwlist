@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: UaLsRk0Qlu/jzSfbmabsPQ
+! Checksum: CJYmWU7lN/scBtkNDITyPA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 08 Aug 2016 08:48:47 +0800
+! Last Modified: Mon, 08 Aug 2016 09:14:50 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -864,6 +864,7 @@ boxun.com
 boxunblog.com
 ||boxunblog.com
 .boxunclub.com
+boyangu.com
 .boyfriendtv.com
 .boysfood.com
 ||br.st
@@ -1476,6 +1477,7 @@ dpp.org.tw
 drsunacademy.com
 .drtuber.com
 .dscn.info
+|http://dscn.info
 ||dtiblog.com
 ||dtic.mil
 dtiserv2.com
@@ -2724,6 +2726,8 @@ huyandex.com
 |http://fang-lizhi.hxwk.org/
 hxwq.org
 ||hyperrate.com
+ebook.hyread.com.tw
+||ebook.hyread.com.tw
 
 !--------------------II-------------------------
 ||i1.hk
@@ -4080,6 +4084,8 @@ rcinet.ca
 .recovery.org.tw
 |http://online.recoveryversion.org
 ||recoveryversion.com.tw
+.redchinacn.net
+|http://redchinacn.net
 redchinacn.org
 redtube.com
 referer.us
