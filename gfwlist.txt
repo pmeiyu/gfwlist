@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: OPA5gIHwRx62L6EMsKbMMQ
+! Checksum: UaLsRk0Qlu/jzSfbmabsPQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 05 Aug 2016 11:30:55 +0800
+! Last Modified: Mon, 08 Aug 2016 08:48:47 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -5223,7 +5223,7 @@ usus.cc
 ||utopianpal.com
 .uu-gg.com
 .uvwxyz.xyz
-|http://uvwxyz.xyz
+||uvwxyz.xyz
 .uwants.com
 .uwants.net
 uyghur.co.uk
