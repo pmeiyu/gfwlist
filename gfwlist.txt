@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +agc+6/xVGKoqszmSV+XDA
+! Checksum: 3wLIEMR9jdBdVBFr+Dye7w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 08 Aug 2016 11:55:19 +0800
+! Last Modified: Thu, 11 Aug 2016 08:45:59 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3039,7 +3039,7 @@ karkhung.com
 ||kebrum.com
 .kechara.com
 .keepandshare.com/visit/visit_page.php?i=688154
-||keepvid.com
+!--||keepvid.com
 .kendincos.net
 .kenengba.com
 ||kenengba.com
@@ -4493,7 +4493,7 @@ usinfo.state.gov
 |http://steamcommunity.com/groups/LibetTibet
 ||steel-storm.com
 .stepchina.com
-||stepmania.com
+!--||stepmania.com
 ny.stgloballink.com
 sthoo.com
 ||sthoo.com
