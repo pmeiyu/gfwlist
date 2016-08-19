@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: R3Gh58aeQ2u/JYmmCzibZg
+! Checksum: tp4EDwxN5ndSRBFYOgF4ZA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 19 Aug 2016 09:14:42 +0800
+! Last Modified: Fri, 19 Aug 2016 09:23:01 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -231,6 +231,7 @@ china-mmm.sa.com
 ||facebook.nl
 ||facebook.se
 ||messenger.com
+||oculus.com
 
 !!---Google---
 !###https://www.google.com/supported_domains###
