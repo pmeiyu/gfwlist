@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 7nit33lWr4M/IUvjCKWNqQ
+! Checksum: NE39H1moV9f4tOQeCNixyQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 23 Aug 2016 13:04:51 +0800
+! Last Modified: Tue, 23 Aug 2016 13:24:07 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -349,8 +349,10 @@ blogspot.com
 @@|http://hk.v2ex.com
 @@|http://i.v2ex.com
 @@|http://lax.v2ex.com
+@@|http://neue.v2ex.com
 @@|http://pagespeed.v2ex.com
 @@|http://static.v2ex.com
+@@|http://workspace.v2ex.com
 @@|http://www.v2ex.com
 
 !------------------Numerics---------------------
@@ -2041,6 +2043,7 @@ fzlm.com
 .gaforum.org
 .galaxymacau.com
 ||galenwu.com
+.galstars.net
 ||game735.com
 gamebase.com.tw
 gamejolt.com
@@ -4485,6 +4488,7 @@ steamcommunity.com/id/CJT_Jackton
 .stepchina.com
 !--||stepmania.com
 ny.stgloballink.com
+hd.stheadline.com/news/realtime
 sthoo.com
 ||sthoo.com
 .stickam.com
