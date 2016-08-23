@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: NE39H1moV9f4tOQeCNixyQ
+! Checksum: CXbAcwBkTUp9Dp83Njepaw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 23 Aug 2016 13:24:07 +0800
+! Last Modified: Tue, 23 Aug 2016 13:43:03 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1767,6 +1767,7 @@ video.fdbox.com
 !--feedbooks.mobi
 ||feelssh.com
 feer.com
+.feifeiss.com
 |http://feitianacademy.org
 .feitian-california.org
 ||feministteacher.com
@@ -3614,6 +3615,7 @@ noodlevpn.com
 nordvpn.com
 ||nordvpn.com
 ||novelasia.com
+.news.now.com
 |http://news.now.com/home*
 news.now.com%2Fhome
 ||nownews.com
@@ -3920,6 +3922,7 @@ postadult.com
 .powerphoto.org
 ||www.powerpointninja.com
 ||cdn.printfriendly.com
+.pritunl.com
 provpnaccounts.com
 .proxfree.com
 ||proxfree.com
