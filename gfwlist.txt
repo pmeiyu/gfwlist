@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jB2RQuQUIf70cOJgBDPbYg
+! Checksum: e5D8YzdUDkOTNaMtHWBNvQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 26 Aug 2016 14:16:07 +0800
+! Last Modified: Fri, 26 Aug 2016 14:55:54 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -520,6 +520,7 @@ activpn.com
 ||activpn.com
 ||aculo.us
 ||addictedtocoffee.de
+.adelaidebbs.com/bbs
 .adpl.org.hk
 |http://adpl.org.hk
 .adult-sex-games.com
