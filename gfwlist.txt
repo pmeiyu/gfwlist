@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: e5D8YzdUDkOTNaMtHWBNvQ
+! Checksum: IdoFxXYc89NbDLPlJCQ21w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 26 Aug 2016 14:55:54 +0800
+! Last Modified: Fri, 26 Aug 2016 17:23:15 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -746,10 +746,11 @@ bayvoice.net
 dajusha.baywords.com
 ||bbchat.tv
 ||bb-chat.tv
-.bbc.co.uk*chinese
+.bbc.co.uk/chinese
 .bbc.co.uk/news/world-asia-china
 .bbc.co.uk/tv
-.bbc.co*zhongwen
+.bbc.co.uk/zhongwen
+.bbc.com/zhongwen
 news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
 .bbcchinese.com
