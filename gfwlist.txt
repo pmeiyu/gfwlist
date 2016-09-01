@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: IdoFxXYc89NbDLPlJCQ21w
+! Checksum: CYZDexGIDYCLBiVZSVXpfQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 26 Aug 2016 17:23:15 +0800
+! Last Modified: Thu, 01 Sep 2016 05:34:26 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -232,6 +232,9 @@ s3-ap-northeast-1.amazonaws.com
 ||facebook.in
 ||facebook.nl
 ||facebook.se
+||fb.com
+||fb.me
+||m.me
 ||messenger.com
 ||oculus.com
 
@@ -750,6 +753,7 @@ dajusha.baywords.com
 .bbc.co.uk/news/world-asia-china
 .bbc.co.uk/tv
 .bbc.co.uk/zhongwen
+.bbc.com/ukchina
 .bbc.com/zhongwen
 news.bbc.co.uk/onthisday*newsid_2496000/2496277
 newsforums.bbc.co.uk
@@ -1772,7 +1776,7 @@ fangeming.com
 !--Fastly
 en.favotter.net
 !--||rnw.global.ssl.fastly.net
-|https://*global.ssl.fastly.net/
+!--|https://*global.ssl.fastly.net/
 ||fast.wistia.com
 
 ||fastssh.com
@@ -1780,9 +1784,6 @@ en.favotter.net
 favstar.fm
 ||favstar.fm
 faydao.com/weblog
-||fb.com
-fb.me
-||fb.me
 ||fbsbx.com
 fc2.com
 .fc2china.com
@@ -2852,7 +2853,7 @@ in-disguise.com
 ||incloak.com
 ||incredibox.fr
 ||indiandefensenews.in
-timesofindia.indiatimes.com*dalai
+timesofindia.indiatimes.com/dalai
 .indiemerch.com
 ||indiemerch.com
 info-graf.fr
@@ -4048,7 +4049,7 @@ bbs.qmzdd.com
 .qkshare.com
 qoos.com
 ||qoos.com
-blog.qooza.hk*dafengqixi
+blog.qooza.hk/dafengqixi
 ||efksoft.com
 ||qstatus.com
 ||qtweeter.com
