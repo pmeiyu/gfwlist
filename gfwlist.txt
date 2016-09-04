@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: avzm2WlGihbIHrGY/idBjw
+! Checksum: j3xVYcJiZclEjorOZLWzzA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 04 Sep 2016 14:49:44 +0200
+! Last Modified: Sun, 04 Sep 2016 15:54:26 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2314,11 +2314,13 @@ gigporno.ru
 ||git.io
 |http://softwaredownload.gitbooks.io
 
+!---GitHub---
 .github.com
-|https://gist.github.com
-|http://cthlo.github.io/hktv
-|http://onionhacker.github.io
-|http://wsgzao.github.io/post/gfw-break
+!--|https://gist.github.com
+!--|http://cthlo.github.io/hktv
+!--|http://onionhacker.github.io
+!--|http://wsgzao.github.io/post/gfw-break
+.github.io
 
 .gizlen.net
 ||gizlen.net
@@ -4221,7 +4223,7 @@ blog.qooza.hk/dafengqixi
 .quranexplorer.com
 qusi8.net
 .qvodzy.org
-nemesis2.qx.net*pages*MyEnTunnel
+nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 !--------------------RR-------------------------
