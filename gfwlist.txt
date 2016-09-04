@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bVm4/ts+R2COzgMwwfUoaQ
+! Checksum: UJBD+TifVHKm88BJMsJuyg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 04 Sep 2016 16:39:06 +0200
+! Last Modified: Sun, 04 Sep 2016 19:04:24 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2317,7 +2317,7 @@ gigporno.ru
 
 !---GitHub---
 .github.com
-!--|https://gist.github.com
+|https://gist.github.com
 !--|http://cthlo.github.io/hktv
 !--|http://onionhacker.github.io
 !--|http://wsgzao.github.io/post/gfw-break
