@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: YHkmkH0PHmMg+oVq+BnKYA
+! Checksum: bVm4/ts+R2COzgMwwfUoaQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 04 Sep 2016 16:23:21 +0200
+! Last Modified: Sun, 04 Sep 2016 16:39:06 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4496,6 +4496,7 @@ ch.shvoong.com
 |http://shwchurch3.com
 ||sidelinesnews.com
 .sidelinessportseatery.com
+.sijihuisuo.club
 .sijihuisuo.com
 simplecd.org
 ||simplecd.org
@@ -5899,6 +5900,7 @@ hk.video.news.yahoo.com/video
 meme.yahoo.com
 !--tw.yahoo.com
 ||tw.knowledge.yahoo.com
+||tw.mall.yahoo.com
 tw.yahoo.com
 ||tw.mobi.yahoo.com
 tw.myblog.yahoo.com
@@ -5997,7 +5999,6 @@ zacebook.com
 .zaobao.com.sg
 ||zaobao.com.sg
 .zaozon.com
-||zarias.com
 !--.zdnet.com.tw/news/software/0,2000085678,20111187,00
 ||zdnet.com.tw
 .zello.com
@@ -6034,7 +6035,7 @@ zhuichaguoji.org
 |http://book.zi5.me
 .ziddu.com/download
 ||zillionk.com
-zinio.com
+.zinio.com
 ||zinio.com
 ||ziplib.com
 .ziporn.com
