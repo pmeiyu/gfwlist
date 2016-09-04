@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: QhzQz6baFEpnMmeL40Cn+A
+! Checksum: avzm2WlGihbIHrGY/idBjw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 02 Sep 2016 17:02:16 +0200
+! Last Modified: Sun, 04 Sep 2016 14:49:44 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3671,6 +3671,7 @@ mysinablog.com
 !--vids.myspace.com/index.cfm?fuseaction=vids.
 !--viewmorepics.myspace.com
 .mytalkbox.com
+.mytizi.com
 
 !--------------------NN-------------------------
 ||naacoalition.org
@@ -4445,6 +4446,7 @@ sexinsex.net
 ||sftuk.org
 shadow.ma
 .shadowsky.xyz
+.shadowsocks.com
 .shadowsocks.org
 ||shadowsocks.org
 |http://cn.shafaqna.com
