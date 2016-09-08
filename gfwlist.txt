@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: hb4boIWCz339UofaLDHVtA
+! Checksum: M9avX6GR4kQFLoXm6CDxfQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 07 Sep 2016 06:40:35 +0200
+! Last Modified: Thu, 08 Sep 2016 12:53:52 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -429,6 +429,8 @@ blogspot.com
 ||ggpht.com
 ||gmail.com
 ||gmodules.com
+||godoc.org
+||golang.org
 ||goo.gl
 .google.ae
 .google.am
@@ -2461,7 +2463,6 @@ echofon.com
 !-||www.gmote.org
 !-||blog.go2web20.net
 !-||google-melange.com
-||golang.org
 !-||fame.gonzolabs.org
 !-||govecn.org
 !-||gqueues.com
