@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: M9avX6GR4kQFLoXm6CDxfQ
+! Checksum: I2VdPhcjc9pEFBgB4I0w7g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 08 Sep 2016 12:53:52 +0200
+! Last Modified: Fri, 09 Sep 2016 11:52:59 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2983,6 +2983,8 @@ ifjc.org
 ||im.tv
 @@||myvlog.im.tv
 ||im88.tw
+.imgchili.net
+|http://imgchili.net
 .imagefap.com
 ||imagefap.com
 ||imageflea.com
