@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: S21vMu/UO1e8jZnhVUO7lQ
+! Checksum: 22YV70jyK+a4T7FBpbQTIw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 10 Sep 2016 08:32:04 +0200
+! Last Modified: Sat, 10 Sep 2016 13:02:37 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -895,6 +895,8 @@ badoo.com
 ||baixing.me
 .banana-vpn.com
 ||banana-vpn.com
+.bandwagonhost.com
+||bandwagonhost.com
 .bangchen.net
 |http://bangchen.net
 ||bangyoulater.com
