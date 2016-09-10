@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Js+RhjDyI1NITiyuC9kPMg
+! Checksum: S21vMu/UO1e8jZnhVUO7lQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 10 Sep 2016 05:47:19 +0200
+! Last Modified: Sat, 10 Sep 2016 08:32:04 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3270,6 +3270,7 @@ kusocity.com
 ||kwcg.ca
 kwongwah.com.my
 kyohk.net
+||kyoyue.com
 .kzeng.info
 ||kzeng.info
 
