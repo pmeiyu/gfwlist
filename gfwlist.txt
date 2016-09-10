@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: I2VdPhcjc9pEFBgB4I0w7g
+! Checksum: Js+RhjDyI1NITiyuC9kPMg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 09 Sep 2016 11:52:59 +0200
+! Last Modified: Sat, 10 Sep 2016 05:47:19 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1788,6 +1788,7 @@ emilylau.org.hk
 chinese.engadget.com
 englishforeveryone.org
 ||englishfromengland.co.uk
+englishpen.org
 .enlighten.org.tw
 ||entermap.com
 .entnt.com
@@ -2773,6 +2774,8 @@ himalayanglacier.com
 ||himemix.com
 .himemix.net
 times.hinet.net
+.hitomi.la
+|http://hitomi.la
 hizbuttahrir.org
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
