@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Ck6LEt7dPt2m843vak6lWw
+! Checksum: LW7jv8jyIoUiKdJPB/hcHw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Sep 2016 15:06:39 +0200
+! Last Modified: Mon, 19 Sep 2016 15:10:53 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4708,6 +4708,7 @@ spinejs.com
 ||sproutcore.com
 ||sproxy.info
 squarespace.com
+||srocket.us
 ||ssh91.com
 .sspro.ml
 |http://sspro.ml
