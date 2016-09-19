@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: R3kVwJ2F+Z/p0IuPnF5VmQ
+! Checksum: Ck6LEt7dPt2m843vak6lWw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Sep 2016 12:59:00 +0200
+! Last Modified: Mon, 19 Sep 2016 15:06:39 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -347,6 +347,7 @@ s3-ap-northeast-1.amazonaws.com
 .wikaba.com
 .www1.biz
 .wwwhost.biz
+@@|http://xx.wwwhost.biz
 .x24hr.com
 .xxuz.com
 .xxxy.biz
@@ -856,10 +857,11 @@ artsy.net
 ||asahichinese.com
 asdfg.jp/dabr
 asg.to
-|http://japanfirst.asianfreeforum.com/
+.asia-gaming.com
 .asiaharvest.org
 ||asiaharvest.org
 asianews.it
+|http://japanfirst.asianfreeforum.com/
 ||asiansexdiary.com
 ||asianwomensfilm.de
 .asiatgp.com
@@ -912,10 +914,12 @@ badoo.com
 ||baidu.jp
 ||bailandaily.com
 ||baixing.me
+||bakgeekhome.tk
 .banana-vpn.com
 ||banana-vpn.com
 .bandwagonhost.com
 ||bandwagonhost.com
+.bangbrosnetwork.com
 .bangchen.net
 |http://bangchen.net
 ||bangyoulater.com
@@ -1030,6 +1034,7 @@ blinw.com
 ||blockcn.com
 ||blog.de
 .blog.jp
+|http://blog.jp
 ||blogblog.com
 .blogcatalog.com
 ||blogcatalog.com
@@ -3465,6 +3470,7 @@ mahabodhi.org
 my.mail.ru
 .maiplus.com
 |http://maiplus.com
+.maizhong.org
 manicur4ik.ru
 .maplew.com
 |http://maplew.com
@@ -3822,8 +3828,16 @@ usmgtcg.ning.com/forum
 njuice.com
 ||njuice.com
 nlfreevpn.com
-!--no-ip.com
+
+!--no-ip.com#NOIP
+.gooddns.info
+.maildns.xyz
 .no-ip.org
+.opendn.xyz
+sytes.net
+.whodns.xyz
+.zapto.org
+
 ||nobel.se
 !--.nobelprize.org
 !--|http://nobelprize.org
@@ -3839,7 +3853,8 @@ nordvpn.com
 ||nordvpn.com
 ||novelasia.com
 .news.now.com
-|http://news.now.com/home*
+|http://news.now.com
+!--|http://news.now.com/home*
 news.now.com%2Fhome
 ||nownews.com
 .nowtorrents.com
@@ -4230,6 +4245,7 @@ pwned.com
 python.com
 .python.com.tw
 |http://python.com.tw
+pythonhackers.com/p
 
 !--------------------QQ-------------------------
 .qanote.com
@@ -5571,6 +5587,8 @@ vocn.tv
 vpnbook.com
 .vpncoupons.com
 |http://vpncoupons.com
+.vpndada.com
+||vpndada.com
 .vpnfan.com
 vpnfire.com
 .vpnforgame.net
@@ -5696,6 +5714,7 @@ wezhiyong.org
 ||wforum.com/
 .whatblocked.com
 ||whatblocked.com
+.wheatseeds.org
 ||wheelockslatin.com
 .whippedass.com
 !--|http://who.is/
@@ -5909,6 +5928,7 @@ xuzhiyong.net
 ||xuchao.org
 xuchao.net
 ||xuchao.net
+xvideo.cc
 .xvideos.com
 ||xvideos.es
 .xxbbx.com
