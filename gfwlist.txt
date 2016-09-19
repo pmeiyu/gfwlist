@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2UK1dKVWNA3RK801ZP3woQ
+! Checksum: WF2khAFX/uFX3rdwcAHVDA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 17 Sep 2016 17:45:08 +0200
+! Last Modified: Mon, 19 Sep 2016 07:38:33 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3917,7 +3917,8 @@ news.omy.sg
 showbiz.omy.sg
 ||on.cc
 ||onedrive.live.com
-|http://www.onion.city
+||onion.city
+||onion.link
 .onlinecha.com
 ||onlineyoutube.com
 onmoon.net
