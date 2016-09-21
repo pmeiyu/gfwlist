@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: kiFUMQ/8j9G6+549X++U8Q
+! Checksum: k9ygEV5l7LEuNRghR+VDCQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 21 Sep 2016 13:41:46 +0200
+! Last Modified: Wed, 21 Sep 2016 14:03:48 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -15,7 +15,7 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
-!---------403/451 & URL Redirects---------
+!---------403/451/520 & URL Redirects---------
 ||4tern.com
 !--ehentai
 |http://85.17.73.31/
@@ -59,6 +59,7 @@
 ||findmima.com
 ||flipboard.com
 ||flitto.com
+||funkyimg.com
 ||fxnetworks.com
 ||gettyimages.com
 ||getuploader.com
@@ -1946,6 +1947,8 @@ fangongheike.com
 .fanqiang.tk
 fanqianghou.com
 ||fanqianghou.com
+.fanqiangzhe.com
+||fanqiangzhe.com
 fapdu.com
 faproxy.com
 !--.farxian.com
