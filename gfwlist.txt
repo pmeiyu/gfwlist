@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: aYhZxdveBbteeuys3xGozQ
+! Checksum: V+Z/0qEUMI4i156O0J0aNQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 29 Sep 2016 12:45:31 +0200
+! Last Modified: Thu, 29 Sep 2016 13:12:28 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -757,6 +757,7 @@ aliengu.com
 ||allconnected.co
 .alldrawnsex.com
 ||alldrawnsex.com
+||allfinegirls.com
 allgirlsallowed.org
 alliance.org.hk
 .allinfa.com
@@ -973,6 +974,8 @@ bdsmvideos.net
 beijingspring.com
 ||beijingspring.com
 .belamionline.com
+.bell.wiki
+|http://bell.wiki
 bemywife.cc
 beric.me
 .berlintwitterwall.com
@@ -2075,6 +2078,7 @@ video.foxbusiness.com
 .fooooo.com
 ||fooooo.com
 footwiball.com
+.fotile.me
 ||fourthinternational.org
 ||foxdie.us
 ||foxsub.com
@@ -3707,6 +3711,7 @@ mycould.com/discuz
 .myforum.com.hk
 ||myforum.com.hk
 ||myforum.com.uk
+.myfreecams.com
 .myfreepaysite.com
 .myfreshnet.com
 forum.mymaji.com
@@ -4126,6 +4131,8 @@ plm.org.hk
 plunder.com
 .plus28.com
 .plusbb.com
+.pmatehunter.com
+|http://pmatehunter.com
 .pmates.com
 ||po2b.com
 !--||pocoo.org
@@ -4579,6 +4586,7 @@ news.sinchew.com.my
 .singaporepools.com.sg
 ||singaporepools.com.sg
 .singfortibet.com
+.singpao.com.hk
 singtao.com
 ||singtao.com
 news.singtao.ca
@@ -5851,6 +5859,8 @@ worldjournal.com
 .wow.com
 .wow-life.net
 ||wowlegacy.ml
+||wowporn.com
+||wowgirls.com
 woxinghuiguo.com
 .woyaolian.org
 |http://woyaolian.org
