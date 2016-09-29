@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: tUzpAGTdPi5sxfp2qCTXTg
+! Checksum: aYhZxdveBbteeuys3xGozQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 29 Sep 2016 03:19:00 +0200
+! Last Modified: Thu, 29 Sep 2016 12:45:31 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2753,6 +2753,7 @@ have8.com
 ||hechaji.com
 ||heeact.edu.tw
 .hegre-art.com
+|http://hegre-art.com
 ||cdn.helixstudios.net
 ||helplinfen.com
 ||helloandroid.com
@@ -3214,6 +3215,7 @@ weiboscope.jmsc.hku.hk
 ||joeedelman.com
 .journalchretien.net
 ||journalofdemocracy.org
+.joymiihub.com
 jpopforum.net
 !--Doamin parking
 .juhuaren.com
@@ -5892,17 +5894,17 @@ xanga.com
 ||xcity.jp
 .xcritic.com
 |http://cdn*.xda-developers.com
+.xerotica.com
 destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
 xgmyd.com
-xh4n.cn/blog
 xhamster.com
 .xianchawang.net
 .xianjian.tw
 |http://xianjian.tw
 .xianqiao.net
 .xiaochuncnjp.com
-s.xiaod.in
+.xiaod.in
 .xiaohexie.com
 ||xiaolan.me
 ||xiaoma.org
