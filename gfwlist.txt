@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: SrEif3Ps5YptLSjvj0w4Pg
+! Checksum: 3QDqofG4OOC9SrT5n3belQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 08 Oct 2016 13:38:21 +0200
+! Last Modified: Sat, 08 Oct 2016 13:58:10 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3524,6 +3524,7 @@ mcfog.com
 mcreasite.com
 .md-t.org
 ||md-t.org
+.media.org.hk
 .mediachinese.com
 ||mediachinese.com
 .mediafire.com/?
@@ -5210,10 +5211,12 @@ bbs.tuitui.info
 ||tunnelbear.com
 .tuo8.cc
 .tuo8.club
+.tuo8.fit
 .tuo8.hk
 .tuo8.in
 .tuo8.ninja
 .tuo8.org
+||tuo8.fit
 ||tuo8.org
 .tuo8.pw
 |http://tuo8.pw
