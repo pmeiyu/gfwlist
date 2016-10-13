@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: tV7VDnICnSja3gG9qY9owQ
+! Checksum: wQkEBBeWYuoPKpLyuqmQtw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 08 Oct 2016 15:23:38 +0200
+! Last Modified: Thu, 13 Oct 2016 13:36:44 +0200
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3621,6 +3621,7 @@ minzhuzhongguo.org
 ||miroguide.com
 mirrorbooks.com
 thecenter.mit.edu
+.mitao.com.tw
 mitbbs.com
 .mixero.com
 ||mixero.com
@@ -4654,6 +4655,7 @@ snowlionpub.com
 .so-news.com
 home.so-net.net.tw/yisa_tsai
 ||soc.mil
+.sockscap64.com
 ||sockslist.net
 .socrec.org
 |http://socrec.org
@@ -4951,6 +4953,7 @@ thehousenews.com
 .thepiratebay.org
 ||thepiratebay.org
 !--||thepiratebay.se
+||theportalwiki.com
 thereallove.kr
 therock.net.nz
 thespeeder.com
