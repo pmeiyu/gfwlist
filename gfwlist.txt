@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: yjAagiPpM3+XewKy9Y1n2A
+! Checksum: /4B21YVpJClNpIlau6d49w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 07 Nov 2016 15:44:43 +0100
+! Last Modified: Mon, 07 Nov 2016 15:50:08 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4496,6 +4496,7 @@ sesawe.net
 ||sesawe.net
 .sesawe.org
 ||sethwklein.net
+.setn.com
 forum.setty.com.tw
 .sevenload.com
 ||sevenload.com
