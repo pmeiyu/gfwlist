@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: g2TFsASlCCBi0sjbD1+rQA
+! Checksum: yjAagiPpM3+XewKy9Y1n2A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 07 Nov 2016 13:12:15 +0100
+! Last Modified: Mon, 07 Nov 2016 15:44:43 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -390,6 +390,7 @@ d1c37gjwa26taa.cloudfront.net
 ||facebook.com
 !--/^https?:\/\/[^\/]+facebook\.com/
 @@||*v6.facebook.com
+||facebook.design
 ||connect.facebook.net
 ||facebook.hu
 ||facebook.in
