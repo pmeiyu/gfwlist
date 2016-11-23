@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: wtrl1MTMz22VlKjRWNnOaw
+! Checksum: bL+Xl3KiugboSlDW46Le1g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 23 Nov 2016 06:02:52 +0100
+! Last Modified: Wed, 23 Nov 2016 06:10:16 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -5373,6 +5373,7 @@ twitoaster.com
 ||t.co
 |http://twt.tl
 twittbot.net
+||ads-twitter.com
 .twitter.com
 ||twitter.com
 ||twitter.jp
