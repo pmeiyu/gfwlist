@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bL+Xl3KiugboSlDW46Le1g
+! Checksum: QV5hlTjqj9XcIWtB3KiJJg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 23 Nov 2016 06:10:16 +0100
+! Last Modified: Wed, 23 Nov 2016 06:19:15 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -639,6 +639,7 @@ zhao.1984.city
 ||4shared.com
 taiwannation.50webs.com
 ||51.ca
+||51jav.org
 .51luoben.com
 ||51luoben.com
 5aimiku.com
