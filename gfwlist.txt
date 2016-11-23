@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /4B21YVpJClNpIlau6d49w
+! Checksum: t7qPYwflCdSvbgB8nudhxA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 07 Nov 2016 15:50:08 +0100
+! Last Modified: Wed, 23 Nov 2016 05:57:09 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6047,6 +6047,7 @@ yong.hu
 .youjizz.com
 ||youjizz.com
 youmaker.com
+youngspiration.hk
 .youpai.org
 ||youpai.org
 .your-freedom.net
