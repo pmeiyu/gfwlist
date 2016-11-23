@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: QV5hlTjqj9XcIWtB3KiJJg
+! Checksum: VgMO/FXHf1fSuEXazBlufQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 23 Nov 2016 06:19:15 +0100
+! Last Modified: Wed, 23 Nov 2016 06:25:10 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1028,6 +1028,7 @@ bitsnoop.com
 bizhat.com
 ||bl-doujinsouko.com
 .bjnewlife.org
+.bjs.org
 bjzc.org
 ||bjzc.org
 .blacklogic.com
@@ -3134,6 +3135,8 @@ chinese.irib.ir
 ||ismprofessional.net
 isohunt.com
 ||israbox.com
+.issuu.com
+||issuu.com
 .istars.co.nz
 oversea.istarshine.com
 ||oversea.istarshine.com
