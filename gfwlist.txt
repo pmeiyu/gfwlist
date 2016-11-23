@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: t7qPYwflCdSvbgB8nudhxA
+! Checksum: wtrl1MTMz22VlKjRWNnOaw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 23 Nov 2016 05:57:09 +0100
+! Last Modified: Wed, 23 Nov 2016 06:02:52 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -5764,7 +5764,7 @@ zh.uncyclopedia.wikia.com
 ||wikileaks.eu
 ||wikileaks.lu
 .wikileaks.org
-!--||wikileaks.org
+||wikileaks.org
 ||wikileaks.pl
 .wikileaks-forum.com
 wildammo.com
