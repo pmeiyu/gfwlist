@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: VgMO/FXHf1fSuEXazBlufQ
+! Checksum: 5eb96ux2p03a4lXfMVZpJw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 23 Nov 2016 06:25:10 +0100
+! Last Modified: Wed, 23 Nov 2016 06:33:16 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6284,6 +6284,7 @@ taipei.gov.tw
 !--@@||bing.com
 @@||bt.byr.cn
 @@||chinaso.com
+@@||chinaz.com
 @@|http://nrch.culture.tw/
 !--ISP cache works sometimes, verified at drpeng + gehua.
 !--@@||dl.google.com
