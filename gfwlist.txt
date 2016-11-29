@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5eb96ux2p03a4lXfMVZpJw
+! Checksum: 7wrdwUaEJBvGxY7YDr2H8A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 23 Nov 2016 06:33:16 +0100
+! Last Modified: Tue, 29 Nov 2016 07:12:30 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -515,6 +515,7 @@ blogspot.com
 ||itasoftware.com
 ||like.com
 ||madewithcode.com
+||material.io
 ||nic.google
 ||on2.com
 ||panoramio.com
