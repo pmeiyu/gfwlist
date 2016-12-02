@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 7wrdwUaEJBvGxY7YDr2H8A
+! Checksum: WcZwijv1x6oSavQusUJNow
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 29 Nov 2016 07:12:30 +0100
+! Last Modified: Fri, 02 Dec 2016 09:17:24 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1450,6 +1450,7 @@ hkupop.hku.hk
 ||cmule.org
 ||cms.gov
 .cn6.eu
+.cna.com.tw
 ||cna.com.tw
 .cnabc.com
 .cnd.org
@@ -3544,6 +3545,7 @@ mcreasite.com
 ||mediafreakcity.com
 .medium.com
 ||medium.com
+.meetav.com
 ||meetup.com
 mefeedia.com
 .megaporn.com
@@ -4202,6 +4204,7 @@ proxyanonimo.es
 pubu.com.tw
 puffinbrowser.com
 pureinsight.org
+.putty.org
 ||putty.org
 
 !-------------Posterous-----
@@ -4486,7 +4489,6 @@ domainhelp.search.com
 .searchtruth.com
 secretchina.com
 ||secretgarden.no
-||default.secureserver.net
 .secretsline.biz
 ||secretsline.biz
 ||securetunnel.com
@@ -6288,7 +6290,7 @@ taipei.gov.tw
 @@||chinaz.com
 @@|http://nrch.culture.tw/
 !--ISP cache works sometimes, verified at drpeng + gehua.
-!--@@||dl.google.com
+@@||dl.google.com
 @@||fonts.googleapis.com
 @@||cn.gravatar.com
 @@||csi.gstatic.com
