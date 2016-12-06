@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: dXmN6tCx4JqptR6qmoINqA
+! Checksum: YCV+XP85A/5r2frNmwJH4w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 04 Dec 2016 13:16:15 +0100
+! Last Modified: Tue, 06 Dec 2016 14:02:06 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3923,6 +3923,7 @@ nylon-angel.com
 nylonstockingsonline.com
 !--nysingtao.com
 !--||nyt.com
+nytcn.me
 ||nytco.com
 |http://nyti.ms/
 .nytimes.com
