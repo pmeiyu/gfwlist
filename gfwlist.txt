@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 62BIagZMgByvv9yThsXQNA
+! Checksum: SRgreWSMFXCN79BnCt4Lmg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 14 Dec 2016 02:51:31 +0100
+! Last Modified: Sat, 17 Dec 2016 13:34:29 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1169,6 +1169,8 @@ busytrade.com
 .buugaa.com
 .buzzhand.com
 .buzzhand.net
+.buzzorange.com
+||buzzorange.com
 bwsj.hk
 ||bx.tl
 holz.byethost8.com
