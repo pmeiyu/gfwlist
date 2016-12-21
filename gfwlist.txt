@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: RrcAcYqpZDGMJkm0WWtDcA
+! Checksum: shWwqkng3tFmho5GqFD4+A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Dec 2016 06:08:49 +0100
+! Last Modified: Wed, 21 Dec 2016 03:49:40 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4908,6 +4908,8 @@ tangben.com
 |http://taoism.net
 .taolun.info
 ||taolun.info
+.tapatalk.com
+||tapatalk.com
 blog.taragana.com
 .tascn.com.au
 ||taup.net
