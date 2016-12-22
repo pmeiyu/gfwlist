@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: shWwqkng3tFmho5GqFD4+A
+! Checksum: GguVxLZTnSL0ylK2TnxMOQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 21 Dec 2016 03:49:40 +0100
+! Last Modified: Thu, 22 Dec 2016 03:44:25 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4973,6 +4973,7 @@ thehousenews.com
 ||theinitium.com
 ||thelifeyoucansave.com
 .thenewslens.com
+||thenewslens.com
 .thepiratebay.org
 ||thepiratebay.org
 !--||thepiratebay.se
