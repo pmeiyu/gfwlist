@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: GguVxLZTnSL0ylK2TnxMOQ
+! Checksum: BaEvEIDKR20ydYrXhBHfrA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 22 Dec 2016 03:44:25 +0100
+! Last Modified: Wed, 28 Dec 2016 05:24:15 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6298,7 +6298,6 @@ taipei.gov.tw
 @@||aliyun.com
 @@||baidu.com
 !--@@||bing.com
-@@||bt.byr.cn
 @@||chinaso.com
 @@||chinaz.com
 @@|http://nrch.culture.tw/
@@ -6315,7 +6314,6 @@ taipei.gov.tw
 @@|http://www.google.cn/maps
 @@||http2.golang.org
 @@||gov.cn
-@@||bt.neu6.edu.cn
 @@||qq.com
 @@||sina.cn
 @@||sina.com.cn
