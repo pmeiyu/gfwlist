@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: BaEvEIDKR20ydYrXhBHfrA
+! Checksum: Rl/GCsbxcGwZuaFDxAEn2Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 28 Dec 2016 05:24:15 +0100
+! Last Modified: Sat, 31 Dec 2016 02:51:28 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3990,7 +3990,7 @@ openid.net
 openvpn.net
 ||openvpn.net
 ||openwebster.com
-|http://help.opera.com
+.openwrt.org.cn
 my.opera.com/dahema
 ||demo.opera-mini.net
 www.orchidbbs.com
