@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Rl/GCsbxcGwZuaFDxAEn2Q
+! Checksum: 8pDkGxGAA48u0HitEHIgdw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 31 Dec 2016 02:51:28 +0100
+! Last Modified: Sun, 01 Jan 2017 06:37:28 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3849,6 +3849,7 @@ nexttv.com.tw
 ngensis.com
 .nhentai.net
 |http://nhentai.net
+.nhk-ondemand.jp
 .nicovideo.jp/watch
 !--||nicovideo.jp
 ||nighost.org
