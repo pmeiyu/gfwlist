@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8pDkGxGAA48u0HitEHIgdw
+! Checksum: +SLKv7sE8ihBbOi7Z/RQEg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 01 Jan 2017 06:37:28 +0100
+! Last Modified: Mon, 02 Jan 2017 16:11:22 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2717,6 +2717,7 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+.h528.com
 .h5dm.com
 .h5galgame.me
 ||h-china.org
