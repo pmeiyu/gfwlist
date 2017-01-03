@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +SLKv7sE8ihBbOi7Z/RQEg
+! Checksum: ZdKvOZP+48QWUvF2HNAUxg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 02 Jan 2017 16:11:22 +0100
+! Last Modified: Tue, 03 Jan 2017 10:44:25 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -472,6 +472,7 @@ blogspot.com
 .google.no
 .google.ro
 .google.sc
+.google.sh
 .google.sk
 .google.sm
 .google.tk
@@ -646,6 +647,7 @@ taiwannation.50webs.com
 ||51jav.org
 .51luoben.com
 ||51luoben.com
+.5278.cc
 5aimiku.com
 5i01.com
 .5isotoi5.org
@@ -818,6 +820,7 @@ anontext.com
 .answering-islam.org
 |http://www.antd.org
 ||anthonycalzadilla.com
+.anti1984.com
 .antiwave.net
 |http://antiwave.net
 .anysex.com
@@ -1084,6 +1087,7 @@ boardreader.com/thread
 ||bolehvpn.net
 bonbonme.com
 .bonbonsex.com
+.bonfoundation.org
 .bongacams.com
 ||boobstagram.com
 ||book.com.tw
@@ -1890,6 +1894,7 @@ erabaru.net
 .eslite.com/Search_BW.aspx?q
 wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
 .etaa.org.au
+.etadult.com
 etaiwannews.com
 ||etizer.org
 ||etokki.com
@@ -2159,6 +2164,9 @@ free4u.com.ar
 |http://freevpn.me
 ||freewallpaper4.me
 .freewebs.com
+.freewechat.com
+||freewechat.com
+freeweibo.com
 ||freeweibo.com
 .freexinwen.com
 .freeyoutubeproxy.net
@@ -2363,7 +2371,7 @@ gfw.org.ua
 ||ghostpath.com
 ||ghut.org
 ||giga-web.jp
-|http://tw.gigacircle.com
+|tw.gigacircle.com
 |http://cn.giganews.com/
 gigporno.ru
 ||girlbanker.com
@@ -2425,6 +2433,8 @@ gongminliliang.com
 .gongwt.com
 |http://gongwt.com
 blog.goo.ne.jp/duck-tail_2009
+.gooday.xyz
+|http://gooday.xyz
 .goodreads.com
 ||goodreads.com
 .goodreaders.com
@@ -3189,6 +3199,7 @@ jamaat.org
 ||janwongphoto.com
 ||japan-whores.com
 .jav68.tv
+.javhd.com
 .javhip.com
 .javakiba.org
 |http://javakiba.org
@@ -3725,6 +3736,7 @@ myactimes.com
 .mychinanet.com
 .mychinanews.com
 ||mychinanews.com
+.mychinese.news
 ||mycnnews.com
 ||mykomica.org
 mycould.com/discuz
@@ -4940,6 +4952,8 @@ tbswd.org
 .tcewf.org
 tchrd.org
 tcnynj.org
+.tcsofbc.org
+.tcsovi.org
 teamamericany.com
 ||techlifeweb.com
 !--technorati.com
@@ -5422,6 +5436,7 @@ twiyia.com
 |http://twtkr.com
 ||twimg.com
 .twnorth.org.tw
+twskype.com
 twtrland.com
 twurl.nl
 .twyac.org
@@ -5658,6 +5673,7 @@ vpnhq.com
 ||vpnmaster.com
 .vpninja.net
 ||vpninja.net
+||vpnintouch.net
 .vpnpick.com
 ||vpnpick.com
 ||vpnpop.com
@@ -6305,6 +6321,7 @@ taipei.gov.tw
 @@|http://nrch.culture.tw/
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||dl.google.com
+@@||kh.google.com
 @@||fonts.googleapis.com
 @@||cn.gravatar.com
 @@||csi.gstatic.com
