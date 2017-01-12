@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: HTEORbU4eDlVXwTSK6Y1Hw
+! Checksum: hmCBS1/zj63Hc8lT0Hc9AQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 09 Jan 2017 08:56:41 +0100
+! Last Modified: Thu, 12 Jan 2017 08:58:29 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1350,21 +1350,18 @@ chinachannel.hk
 chinageeks.org
 chinagfw.org
 ||chinagfw.org
+.chinagonet.com
 .chinagreenparty.org
 ||chinagreenparty.org
 .chinahorizon.org
 ||chinahorizon.org
 .chinahush.com
+.chinainperspective.com
+||chinainterimgov.org
 chinalaborwatch.org
 chinalawtranslate.com
 .chinapost.com.tw/taiwan/national/national-news
 chinaxchina.com/howto
-.chinainperspective.com
-chinainperspective.net/ArtShow.aspx?
-||chinainperspective.net
-.chinainperspective.org
-||chinainperspective.org
-||chinainterimgov.org
 chinalawandpolicy.com
 .chinamule.com
 ||chinamule.com
@@ -2748,6 +2745,7 @@ h1n1china.org
 ||hackthatphone.net
 hahlo.com
 ||hakkatv.org.tw
+.handcraftedsoftware.org
 |http://bbs.hanminzu.org/
 .hanunyi.com
 |http://ae.hao123.com
@@ -3259,6 +3257,8 @@ jpopforum.net
 .june4commemoration.org
 .junefourth-20.net
 ||junefourth-20.net
+.juoaa.com
+|http://juoaa.com
 justfreevpn.com
 .justicefortenzin.org
 justpaste.it
