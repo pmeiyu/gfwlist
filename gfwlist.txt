@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: axhVYCaCavcsnXlI+PEl2w
+! Checksum: fEzjcH0/p8NFjGHebURMsg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 12 Jan 2017 09:05:57 +0100
+! Last Modified: Fri, 13 Jan 2017 07:49:03 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2742,6 +2742,7 @@ h1n1china.org
 .hacg.red
 |http://hacg.red
 .hacken.cc/bbs
+.hacker.org
 ||hackthatphone.net
 hahlo.com
 ||hakkatv.org.tw
@@ -3753,6 +3754,7 @@ mycould.com/discuz
 .myfreshnet.com
 forum.mymaji.com
 mymediarom.com/files/box
+||mymoe.moe
 ||mymusic.net.tw
 ||myparagliding.com
 ||mypopescu.com
@@ -3788,7 +3790,6 @@ namgyalmonastery.org
 ||jpl.nasa.gov
 ||pds.nasa.gov
 ||solarsystem.nasa.gov
-/^https?:\/\/[^\/]+line\.naver\.jp/
 .nakido.com
 ||nakido.com
 .naol.ca
@@ -3798,6 +3799,7 @@ cyberghost.natado.com
 ||national-lottery.co.uk
 news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
 .nationsonline.org/oneworld/tibet
+||line.naver.jp
 ||navyfamily.navy.mil
 ||navyreserve.navy.mil
 ||nko.navy.mil
@@ -4418,7 +4420,7 @@ rfaweb.org
 .rfi.fr
 ||rfi.fr
 |http://rfi.my/
-.rhcloud.com
+!--.rhcloud.com
 !--Edgecast
 |http://vds.rightster.com/
 .rigpa.org
@@ -5761,6 +5763,7 @@ webworkerdaily.com
 ||wefightcensorship.org
 .wefong.com
 weiboleak.com
+.weihuo.org
 weijingsheng.org
 .weiming.info
 ||weiming.info
