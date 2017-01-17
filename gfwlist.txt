@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: qpEQkX0Pe+FobDma4At6Lw
+! Checksum: gLsmNvpIA5KaMLquL4U6aw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 17 Jan 2017 04:31:44 +0100
+! Last Modified: Tue, 17 Jan 2017 04:56:53 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -446,6 +446,9 @@ blogspot.com
 .google.ae
 .google.as
 .google.am
+.google.at
+.google.az
+.google.ba
 .google.cat
 .google.cd
 .google.ci
@@ -463,6 +466,7 @@ blogspot.com
 .google.fm
 .google.fr
 .google.gg
+.google.gl
 .google.ie
 .google.is
 .google.it
@@ -476,6 +480,7 @@ blogspot.com
 .google.sh
 .google.sk
 .google.sm
+.google.sn
 .google.tk
 .google.to
 .google.tt
@@ -540,6 +545,7 @@ blogspot.com
 ||tiltbrush.com
 !--||www.google
 ||waveprotocol.org
+||waymo.com
 ||webmproject.org
 ||webrtc.org
 ||whatbrowser.org
@@ -2749,6 +2755,7 @@ hahlo.com
 .handcraftedsoftware.org
 |http://bbs.hanminzu.org/
 .hanunyi.com
+.hao.news/news
 |http://ae.hao123.com
 |http://ar.hao123.com
 |http://br.hao123.com
