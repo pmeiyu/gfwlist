@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: gLsmNvpIA5KaMLquL4U6aw
+! Checksum: PNG6Q8cI3IGvhByTLVM3IQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 17 Jan 2017 04:56:53 +0100
+! Last Modified: Tue, 17 Jan 2017 05:15:55 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1408,7 +1408,7 @@ chinese-memorial.org
 .chinman.net
 |http://chinman.net
 chithu.org
-chn.chosun.com
+cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate
 .chrdnet.com
 |http://chrdnet.com
 .christianfreedom.org
@@ -5880,6 +5880,11 @@ zh.m.wikipedia.org
 |https://zh.m.wikipedia.org
 !--@@||m.wikipedia.org
 |https://zh.wikipedia.org
+!--Other Languages of Wikipedia
+wuu.wikipedia.org
+|https://wuu.wikipedia.org
+zh-yue.wikipedia.org
+|https://zh-yue.wikipedia.org
 
 ||wikiwiki.jp
 ||casino.williamhill.com
@@ -6049,6 +6054,8 @@ hk.search.yahoo.com/search
 hk.video.news.yahoo.com/video
 meme.yahoo.com
 !--tw.yahoo.com
+tw.answers.yahoo.com
+|https://tw.answers.yahoo.com
 ||tw.knowledge.yahoo.com
 ||tw.mall.yahoo.com
 tw.yahoo.com
