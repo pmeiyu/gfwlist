@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fEzjcH0/p8NFjGHebURMsg
+! Checksum: qpEQkX0Pe+FobDma4At6Lw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 13 Jan 2017 07:49:03 +0100
+! Last Modified: Tue, 17 Jan 2017 04:31:44 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1266,7 +1266,7 @@ ccue.com
 .cgdepot.org
 |http://cgdepot.org
 ||cdbook.org
-||cdd.me
+.cdcparty.com
 .cdef.org
 ||cdef.org
 ||cdig.info
@@ -2956,6 +2956,7 @@ huaglad.com
 .huangyiyu.com
 .huaren.us
 ||huaren.us
+bbs.huasing.org
 huaxia-news.com
 huaxiabao.org
 huaxin.ph
@@ -3251,6 +3252,8 @@ weiboscope.jmsc.hku.hk
 ||journalofdemocracy.org
 .joymiihub.com
 jpopforum.net
+.jubushoushen.com
+||jubushoushen.com
 !--Doamin parking
 .juhuaren.com
 ||juliereyc.com
