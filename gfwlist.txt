@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: PNG6Q8cI3IGvhByTLVM3IQ
+! Checksum: TywMyBQlrF3RAoPc7UH8Jg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 17 Jan 2017 05:15:55 +0100
+! Last Modified: Thu, 19 Jan 2017 05:55:31 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3346,6 +3346,7 @@ killwall.com
 ||koornk.com
 ||koranmandarin.com
 |http://gojet.krtco.com.tw
+.ksdl.org
 .ksnews.com.tw
 ||ktzhk.com
 .kui.name/event
@@ -3848,9 +3849,9 @@ newipnow.com
 .newlandmagazine.com.au
 .newnews.ca
 news100.com.tw
+newschinacomment.org
 .newscn.org
 ||newscn.org
-||newsminer.com
 newspeak.cc/story
 .newsancai.com
 ||newsancai.com
