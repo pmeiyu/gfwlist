@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: TywMyBQlrF3RAoPc7UH8Jg
+! Checksum: JZX3lRXrgUtXhOBnlXFAeQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 19 Jan 2017 05:55:31 +0100
+! Last Modified: Thu, 19 Jan 2017 06:33:13 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -113,6 +113,7 @@
 ||mvg.jp
 ||nationwide.com
 |http://www.nbc.com/live
+||neo-miracle.com
 ||netflix.com
 |http://mo.nightlife141.com
 ||nordstrom.com
@@ -124,6 +125,7 @@
 ||nusatrip.com
 ||nuuvem.com
 ||omni7.jp
+||onapp.com
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
@@ -141,6 +143,7 @@
 |http://cdn*.search.xxx/
 ||shutterstock.com
 ||slacker.com
+||sm-miracle.com
 ||spotify.com
 ||springboardplatform.com
 ||sprite.org
@@ -1559,6 +1562,8 @@ cytode.us
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+.d-fukyu.com
+|http://d-fukyu.com
 cl.d0z.net
 .d100.net
 .d2bay.com
@@ -3345,6 +3350,7 @@ killwall.com
 .koornk.com
 ||koornk.com
 ||koranmandarin.com
+.korenan2.com
 |http://gojet.krtco.com.tw
 .ksdl.org
 .ksnews.com.tw
@@ -3354,7 +3360,6 @@ kun.im
 .kurashsultan.com
 ||kurtmunger.com
 kusocity.com
-||kusos.com
 ||kwcg.ca
 kwongwah.com.my
 .kyofun.com
