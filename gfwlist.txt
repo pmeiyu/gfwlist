@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: JZX3lRXrgUtXhOBnlXFAeQ
+! Checksum: ii4Jv+34xZgM5rWR7sQfiA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 19 Jan 2017 06:33:13 +0100
+! Last Modified: Fri, 20 Jan 2017 07:36:37 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3273,6 +3273,7 @@ jpopforum.net
 .june4commemoration.org
 .junefourth-20.net
 ||junefourth-20.net
+||bbs.junglobal.net
 .juoaa.com
 |http://juoaa.com
 justfreevpn.com
