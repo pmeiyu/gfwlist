@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jMefVunMyKQ5JETgJ3LbyQ
+! Checksum: Gv/rb1tBsgRfBZoyVmBhqQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 24 Jan 2017 12:02:34 +0100
+! Last Modified: Tue, 24 Jan 2017 12:18:35 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -479,17 +479,21 @@ blogspot.com
 .google.is
 .google.it
 .google.jo
+.google.mn
 .google.ms
 .google.nl
 .google.nu
 .google.no
 .google.ro
+.google.ru
+.google.rw
 .google.sc
 .google.sh
 .google.sk
 .google.sm
 .google.sn
 .google.tk
+.google.tm
 .google.to
 .google.tt
 .google.vu
