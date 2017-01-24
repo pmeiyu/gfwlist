@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: M7UibacG/XgmqyiupCx76w
+! Checksum: jMefVunMyKQ5JETgJ3LbyQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 22 Jan 2017 15:09:24 +0100
+! Last Modified: Tue, 24 Jan 2017 12:02:34 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -474,6 +474,7 @@ blogspot.com
 .google.fr
 .google.gg
 .google.gl
+.google.gr
 .google.ie
 .google.is
 .google.it
@@ -790,6 +791,7 @@ alliance.org.hk
 ||allmovie.com
 .alphaporno.com
 ||alternate-tools.com
+alternativeto.net/software
 alvinalexander.com
 alwaysdata.com
 ||alwaysdata.com
@@ -1471,6 +1473,7 @@ hkupop.hku.hk
 ||cmule.org
 ||cms.gov
 |http://vpn.cmu.edu
+|http://vpn.sv.cmu.edu
 .cn6.eu
 .cna.com.tw
 ||cna.com.tw
@@ -4527,10 +4530,10 @@ savevid.com
 ||say2.info
 .sbme.me
 |http://sbme.me
+.sbs.com.au/yourlanguage
 .scasino.com
 |http://www.sciencemag.org/content/344/6187/953
 .sciencenets.com
-||scihub.org
 .scmp.com
 .scmpchinese.com
 ||scramble.io
