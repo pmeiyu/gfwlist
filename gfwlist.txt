@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /sgp3Oi+CIAmr6zA0wq8Ug
+! Checksum: nw1ERtcqR1nLXar0sAzSjw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 25 Jan 2017 12:54:04 +0100
+! Last Modified: Tue, 31 Jan 2017 16:13:29 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2890,6 +2890,7 @@ hkbc.net
 ||hkbookcity.com
 .hkchurch.org
 .hkcmi.edu
+||hkcnews.com
 ||hkcoc.com
 hkday.net
 .hkdailynews.com.hk/china.php
@@ -4806,6 +4807,8 @@ spem.at
 ||sproxy.info
 squarespace.com
 ||srocket.us
+.ss-link.com
+||ss-link.com
 ||ssh91.com
 .sspro.ml
 |http://sspro.ml
