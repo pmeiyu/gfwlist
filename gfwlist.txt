@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: hIhKB4Xc200xa827MaBPaA
+! Checksum: t+YPDURZbDChM3UH4MochA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Feb 2017 09:38:34 +0100
+! Last Modified: Fri, 03 Feb 2017 09:59:38 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3323,6 +3323,7 @@ juziyue.com
 ||kakao.com
 .kankan.today
 .kannewyork.com
+||kannewyork.com
 .kanshifang.com
 ||kanshifang.com
 kanzhongguo.com
@@ -3464,6 +3465,8 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||line.me
 .linglingfa.com
 ||lingvodics.com
+.link-o-rama.com
+|http://link-o-rama.com
 .linkideo.com
 ||api.linksalpha.com
 ||apidocs.linksalpha.com
@@ -4176,6 +4179,7 @@ penisbot.com
 .perfectgirls.net
 perfectvpn.net
 .persecutionblog.com
+.persiankitty.com
 pfd.org.hk
 phapluan.org
 phayul.com
@@ -4714,6 +4718,7 @@ bbs.skykiwi.com
 m.slandr.net
 ||slavasoft.com
 .slaytizle.com
+.sleazydream.com
 ||slheng.com
 .slideshare.net
 forum.slime.com.tw
