@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: MwcdPeKMUTMgTmO0IN5TWg
+! Checksum: J95zvypkXQI5dTQw4SmKBw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Feb 2017 11:07:39 +0100
+! Last Modified: Fri, 03 Feb 2017 11:20:47 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -91,6 +91,7 @@
 .javlibrary.com
 ||javlibrary.com
 ||jcpenney.com
+||jims.net
 ||juliepost.com
 ||kawaiikawaii.jp
 ||khatrimaza.org
@@ -419,6 +420,7 @@ d1c37gjwa26taa.cloudfront.net
 ||1e100.net
 ||abc.xyz
 ||admob.com
+||adsense.com
 ||agoogleaday.com
 ||ampproject.org
 ||android.com
@@ -428,6 +430,7 @@ d1c37gjwa26taa.cloudfront.net
 blogspot.com
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 .blogspot.hk
+.blogspot.jp
 ||certificate-transparency.org
 ||chrome.com
 ||chromecast.com
@@ -596,6 +599,7 @@ blogspot.com
 @@|http://www.v2ex.com
 
 !------------------Numerics---------------------
+.030buy.com
 .0rz.tw
 |http://0rz.tw
 ||0to255.com
@@ -5062,6 +5066,7 @@ thevivekspot.com
 |http://thisav.com
 .thlib.org
 ||thomasbernhard.org
+.thongdreams.com
 threatchaos.com
 ||throughnightsfire.com
 .thumbzilla.com
