@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: nw1ERtcqR1nLXar0sAzSjw
+! Checksum: UQMTcxrSN1LeGOd62LLFnw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 31 Jan 2017 16:13:29 +0100
+! Last Modified: Fri, 03 Feb 2017 09:19:50 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1432,9 +1432,10 @@ christianstudy.com
 ||christianstudy.com
 christusrex.org/www1/sdc
 ||chromeadblock.com
+.chubold.com
 chubun.com
 chuizi.net
-||christiantimes.org.hk
+christiantimes.org.hk
 .chrlawyers.hk
 |http://chrlawyers.hk
 .churchinhongkong.org/b5/index.php
