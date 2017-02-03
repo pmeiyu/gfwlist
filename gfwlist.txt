@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: UQMTcxrSN1LeGOd62LLFnw
+! Checksum: hIhKB4Xc200xa827MaBPaA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Feb 2017 09:19:50 +0100
+! Last Modified: Fri, 03 Feb 2017 09:38:34 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -16,6 +16,7 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403/451/520 & URL Redirects---------
+||2dbook.com
 ||4tern.com
 !--ehentai
 |http://85.17.73.31/
@@ -1737,6 +1738,7 @@ dongtaiwang.com
 ||dotplane.com
 ||dotsub.com
 ||dougscripts.com
+||douhokanko.net
 ||doujincafe.com
 dowei.org
 !--||doxygen.org
@@ -1751,6 +1753,7 @@ dpp.org.tw
 ||drgan.net
 .drmingxia.org
 |http://drmingxia.org
+||dropbooks.tv
 ||dropbox.com
 ||api.dropboxapi.com
 ||dropboxusercontent.com
@@ -1807,6 +1810,8 @@ xys.dxiong.com
 .e-gold.com
 ||g.e-hentai.org
 ||lofi.e-hentai.org
+.e-hentaidb.com
+|http://e-hentaidb.com
 e-info.org.tw
 .e-traderland.net/board
 .e-zone.com.hk/discuz
@@ -1910,6 +1915,7 @@ erabaru.net
 |http://erktv.com
 ||ernestmandel.org
 ||erodaizensyu.com
+||erodoujinlog.com
 ||erodoujinworld.com
 ||eromanga-kingdom.com
 ||eromangadouzin.com
@@ -3307,6 +3313,7 @@ juziyue.com
 .jyxf.net
 
 !--------------------KK-------------------------
+||k-doujin.net
 ||ka-wai.com
 .kagyuoffice.org
 ||kagyuoffice.org
@@ -3702,9 +3709,9 @@ mixpod.com
 .mk5000.com
 .mlcool.com
 ||mmaaxx.com
-plurktop.mmdays.com
 .mmmca.com
 ||mobatek.net
+|http://mobile01.com
 .mobile01.com
 ||mobileways.de
 .mobypicture.com
