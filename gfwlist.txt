@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: J95zvypkXQI5dTQw4SmKBw
+! Checksum: bbbq4IDkxdpMTrWnrsJsUA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 03 Feb 2017 11:20:47 +0100
+! Last Modified: Sun, 05 Feb 2017 02:31:30 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3279,6 +3279,7 @@ zhao.jinhai.de
 jingpin.org
 ||jingpin.org
 jinpianwang.com
+.jinroukong.com
 ac.jiruan.net
 ||jitouch.com
 .jizzthis.com
