@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bbbq4IDkxdpMTrWnrsJsUA
+! Checksum: Pu3MIqr0fG36tCTPNFWkmA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 05 Feb 2017 02:31:30 +0100
+! Last Modified: Mon, 06 Feb 2017 09:53:46 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2301,6 +2301,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001068483
 .ftchinese.com/story/001069373
 .ftchinese.com/story/001069516
+.ftchinese.com/story/001070307
 .ftchinese.com/story/001071106
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
@@ -5653,10 +5654,10 @@ videobam.com
 ||videomega.tv
 .videomo.com
 videopediaworld.com
+.videopress.com
 .vidinfo.org/video
 vietdaikynguyen.com
 .vijayatemple.org
-||viki.com
 vimeo.com
 ||vimeo.com
 ||vimperator.org
@@ -5937,6 +5938,7 @@ winwhispers.info
 ||wjbk.org
 |http://wn.com
 .wnacg.com
+.wnacg.org
 .wo.tc
 ||woeser.com
 |http://woesermiddle-way.net/
