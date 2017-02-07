@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Pu3MIqr0fG36tCTPNFWkmA
+! Checksum: viwifZUYWegqg+3rjFfcZg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 06 Feb 2017 09:53:46 +0100
+! Last Modified: Tue, 07 Feb 2017 09:15:36 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3260,6 +3260,8 @@ jbtalks.com
 jbtalks.my
 .jdwsy.com
 jeanyim.com
+||jfqu36.club
+||jfqu37.xyz
 ||jgoodies.com
 .jiangweiping.com
 ||jiangweiping.com
