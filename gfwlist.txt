@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: o82XfcRyVCxoHstiiOJZiw
+! Checksum: CZBq5uI+9Irk4HN6lRJ7fw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 07 Feb 2017 10:13:21 +0100
+! Last Modified: Tue, 07 Feb 2017 10:16:50 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2370,6 +2370,7 @@ gati.org.tw
 !--||gaytube.com
 ||images-gaytube.com
 .gaywatch.com
+|http://gaywatch.com
 .gazotube.com
 ||gazotube.com
 ||gcc.org.hk
