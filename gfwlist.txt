@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: PXCYZk9A5Yc1fnRYlVQWhw
+! Checksum: p3NcX79a+ZkOnisNtObk+w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 09 Feb 2017 10:13:19 +0100
+! Last Modified: Thu, 09 Feb 2017 10:34:56 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -884,7 +884,9 @@ appledaily.com
 ||appsocks.net
 ||appsto.re
 ||archives.gov
-archive.is
+.archive.is
+|http://archive.is
+.archive.fo
 ||archive.org
 .arctosia.com
 |http://arctosia.com
@@ -2068,6 +2070,7 @@ feer.com
 |http://ff.im
 fffff.at
 fflick.com
+.ffvpn.com
 fgmtv.net
 .fgmtv.org
 .fhreports.net
@@ -2080,7 +2083,6 @@ fgmtv.net
 fillthesquare.org
 filmingfortibet.org
 .filthdump.com
-||finalion.jp
 .finchvpn.com
 ||finchvpn.com
 !--findbook.tw
@@ -2306,6 +2308,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001069516
 .ftchinese.com/story/001070307
 .ftchinese.com/story/001071106
+.ftchinese.com/story/001071208
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/comments
@@ -5711,7 +5714,10 @@ vocn.tv
 .vpn4all.com
 .vpnaccount.org
 |http://vpnaccount.org
-||www.vpncup.com
+.vpnaccounts.com
+||vpnaccounts.com
+.vpncup.com
+||vpncup.com
 vpnbook.com
 .vpncoupons.com
 |http://vpncoupons.com
