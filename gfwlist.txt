@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: p3NcX79a+ZkOnisNtObk+w
+! Checksum: K7QqHIuYN9Vfj6+/mWeM6g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 09 Feb 2017 10:34:56 +0100
+! Last Modified: Thu, 09 Feb 2017 10:46:15 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -976,6 +976,7 @@ bannedbook.org
 .barenakedislam.com
 ||barnabu.co.uk
 bartvpn.com
+.bastillepost.com
 bayvoice.net
 ||bayvoice.net
 dajusha.baywords.com
@@ -1454,6 +1455,8 @@ christiantimes.org.hk
 .cineastentreff.de
 .cipfg.org
 ||circlethebayfortibet.org
+.citizencn.com
+||citizencn.com
 |http://citizenlab.org
 |http://www.citizenlab.org
 ||citizenscommission.hk
@@ -1594,6 +1597,7 @@ cytode.us
 |http://d-fukyu.com
 cl.d0z.net
 .d100.net
+||d100.net
 .d2bay.com
 |http://d2bay.com
 .dabr.co.uk
@@ -2307,7 +2311,10 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001069373
 .ftchinese.com/story/001069516
 .ftchinese.com/story/001070307
+.ftchinese.com/story/001070809
+.ftchinese.com/story/001071042
 .ftchinese.com/story/001071106
+.ftchinese.com/story/001071181
 .ftchinese.com/story/001071208
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
