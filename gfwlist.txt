@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: UVj4HTnJ+3ve15KTcIsctQ
+! Checksum: PXCYZk9A5Yc1fnRYlVQWhw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 07 Feb 2017 12:40:34 +0100
+! Last Modified: Thu, 09 Feb 2017 10:13:19 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4890,6 +4890,7 @@ cn.streetvoice.com/article
 cn.streetvoice.com/diary
 cn2.streetvoice.com
 tw.streetvoice.com
+.strikingly.com
 ||strongvpn.com
 .strongwindpress.com
 .student.tw/db
