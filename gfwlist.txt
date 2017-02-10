@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /vKY358UnWskOqyFYKDWmw
+! Checksum: 966aj0Xc3PDRlUyWkgRLKQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 10 Feb 2017 08:47:10 +0100
+! Last Modified: Fri, 10 Feb 2017 11:16:04 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -140,6 +140,7 @@
 ||qq.co.za
 ||r18.com
 |http://radiko.jp
+||ramcity.com.au
 ||rd.com
 ||rdio.com
 ||sadistic-v.com
@@ -4643,6 +4644,7 @@ sexinsex.net
 ||sftuk.org
 shadow.ma
 .shadowsky.xyz
+||www.shadowsocks.com
 .shadowsocks.com
 .shadowsocks.org
 ||shadowsocks.org
