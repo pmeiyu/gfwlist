@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bMwS9k8GyLnrbkd+GyLxKQ
+! Checksum: uesgt2t/T3yG/VO8OUGyPw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 10 Feb 2017 11:38:59 +0100
+! Last Modified: Fri, 10 Feb 2017 11:50:29 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -40,6 +40,7 @@
 ||images.comico.tw
 ||static.comico.tw
 ||crossfire.co.kr
+||d2pass.com
 ||darpa.mil
 ||desipro.de
 ||dish.com
@@ -790,6 +791,7 @@ voa-11.akacast.akamaistream.net
 alexlur.org
 ||alforattv.net
 .alhayat.com
+.alicejapan.co.jp
 aliengu.com
 ||alkasir.com
 ||allconnected.co
