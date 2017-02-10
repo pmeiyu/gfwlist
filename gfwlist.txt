@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fjfPkMm/7f9VkAneu9FR1A
+! Checksum: /vKY358UnWskOqyFYKDWmw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 10 Feb 2017 08:34:26 +0100
+! Last Modified: Fri, 10 Feb 2017 08:47:10 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1468,6 +1468,7 @@ city9x.com
 .citytalk.tw/event
 .civicparty.hk
 ||civicparty.hk
+.civildisobediencemovement.org
 civilhrfront.org
 ||civilhrfront.org
 .civiliangunner.com
@@ -2429,6 +2430,7 @@ gfw.org.ua
 .ghostpath.com
 ||ghostpath.com
 ||ghut.org
+.gifree.com
 ||giga-web.jp
 |tw.gigacircle.com
 |http://cn.giganews.com/
@@ -3055,6 +3057,7 @@ ebook.hyread.com.tw
 ||i818hk.com
 .i-cable.com
 .i-part.com.tw
+.iamtopone.com
 iask.ca
 ||iask.ca
 iask.bz
@@ -3093,7 +3096,8 @@ idemocracy.asia
 .idreamx.com
 forum.idsam.com
 .idv.tw
-ieasynews.net
+.ieasy5.com
+|http://ieasy5.com
 .ied2k.net
 .ienergy1.com
 |http://if.ttt/
@@ -4022,6 +4026,7 @@ nylon-angel.com
 nylonstockingsonline.com
 !--nysingtao.com
 !--||nyt.com
+.nytchina.com
 nytcn.me
 ||nytco.com
 |http://nyti.ms/
@@ -4324,6 +4329,7 @@ pureinsight.org
 .power.com
 ||power.com
 powerapple.com
+||powerapple.com
 ||abc.pp.ru
 heix.pp.ru
 ||prayforchina.net
@@ -5331,6 +5337,7 @@ bbs.tuitui.info
 ||tunnelbear.com
 .tuo8.cc
 .tuo8.club
+||tuo8.club
 .tuo8.fit
 .tuo8.hk
 .tuo8.in
