@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 966aj0Xc3PDRlUyWkgRLKQ
+! Checksum: bMwS9k8GyLnrbkd+GyLxKQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 10 Feb 2017 11:16:04 +0100
+! Last Modified: Fri, 10 Feb 2017 11:38:59 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4051,6 +4051,8 @@ offbeatchina.com
 officeoftibet.com
 ||ogaoga.org
 twtr2src.ogaoga.org
+.ogate.org
+||ogate.org
 www2.ohchr.org/english/bodies/cat/docs/ngos/II_China_41.pdf
 .oikos.com.tw/v4
 .oiktv.com
@@ -5349,6 +5351,7 @@ bbs.tuitui.info
 ||tuo8.org
 .tuo8.pw
 |http://tuo8.pw
+||tuo8.red
 .tuo8.space
 tuitwit.com
 .turansam.org
@@ -5356,7 +5359,6 @@ tuitwit.com
 |http://turbobit.net
 .turbohide.com
 ||turbohide.com
-||turningtorso.com
 .tushycash.com
 |http://tushycash.com
 .tuvpn.com
