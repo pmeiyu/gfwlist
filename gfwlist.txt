@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: gIT2z8kdktSAgGVs0dTfyQ
+! Checksum: fjfPkMm/7f9VkAneu9FR1A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 09 Feb 2017 10:56:49 +0100
+! Last Modified: Fri, 10 Feb 2017 08:34:26 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2922,6 +2922,7 @@ hkbc.net
 .hkbookcity.com
 ||hkbookcity.com
 .hkchurch.org
+hkci.org.hk
 .hkcmi.edu
 ||hkcnews.com
 ||hkcoc.com
