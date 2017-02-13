@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DRkh6F3Tz/ZOYqF7nx9JDA
+! Checksum: Tzmw2dVOcygz254Ybj8tag
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 10 Feb 2017 12:36:24 +0100
+! Last Modified: Mon, 13 Feb 2017 04:12:04 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1185,6 +1185,7 @@ brucewang.net
 .btspread.com
 .budaedu.org
 ||budaedu.org
+.buddhanet.com.tw/zfrop/tibet
 .buddhistchannel.tv
 .buffered.com
 |http://buffered.com
@@ -2451,10 +2452,11 @@ gigporno.ru
 .github.com
 |https://gist.github.com
 http://cthlo.github.io/hktv
+||haoel.github.io
 !--|http://onionhacker.github.io
 ||sodatea.github.io
 wsgzao.github.io
-||wsgzao.github.io
+|https://wsgzao.github.io
 !--.github.io
 
 .gizlen.net
@@ -3051,7 +3053,7 @@ hutong9.net
 huyandex.com
 ||hwayue.org.tw
 ||hwinfo.com
-|http://fang-lizhi.hxwk.org/
+||hxwk.org
 hxwq.org
 ||hyperrate.com
 ebook.hyread.com.tw
@@ -3356,6 +3358,8 @@ juziyue.com
 !--------------------KK-------------------------
 ||k-doujin.net
 ||ka-wai.com
+.kagyumonlam.org
+.kagyunews.com.hk
 .kagyuoffice.org
 ||kagyuoffice.org
 ||kagyuoffice.org.tw
@@ -3443,6 +3447,8 @@ ladbrokes.com
 ||labiennale.org
 lagranepoca.com
 .lalulalu.com
+.lama.com.tw
+||lama.com.tw
 .lamayeshe.com
 |http://lamayeshe.com
 |http://www.lamenhu.com
@@ -4575,6 +4581,8 @@ sacom.hk
 ||sadpanda.us
 .safervpn.com
 ||safervpn.com
+.saintyculture.com
+|http://saintyculture.com
 .saiq.me
 ||saiq.me
 ||sakuralive.com
@@ -4661,6 +4669,7 @@ shadow.ma
 ||shadowsocks.org
 |http://cn.shafaqna.com
 shahamat-english.com
+.shambalapost.com
 .shambhalasun.com
 .shangfang.org
 ||shangfang.org
@@ -4941,6 +4950,7 @@ sun1911.com
 ||sunmedia.ca
 ||sunporno.com
 .sunskyforum.com
+.sunta.com.tw
 .sunvpn.net
 .suoluo.org
 .supervpn.net
@@ -5035,6 +5045,7 @@ blog.taragana.com
 .tbicn.org
 .tbjyt.org
 ||tbpic.info
+.tbrc.org
 tbs-rainbow.org
 .tbsec.org
 ||tbsec.org
