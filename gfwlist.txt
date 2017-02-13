@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: T6rCOJrAnY31ZSetVBxNlw
+! Checksum: TBaJZ966swGZ3I2JBZr2Zw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 13 Feb 2017 10:45:58 +0100
+! Last Modified: Mon, 13 Feb 2017 11:06:13 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -741,6 +741,7 @@ a5.com.ru
 .acg18.me
 |http://acg18.me
 ||acgkj.com
+.acnw.com.au
 actimes.com.au
 activpn.com
 ||activpn.com
@@ -2933,6 +2934,8 @@ hizb-ut-tahrir.org
 .hk01.com
 .hk32168.com
 ||hk32168.com
+||hkacg.com
+||hkacg.net
 .hkatvnews.com
 hkbc.net
 .hkbf.org
@@ -4173,6 +4176,7 @@ forum.palmislife.com
 .paldengyal.com
 paljorpublications.com
 .paltalk.com
+||pangci.net
 ||panacom.co.jp
 .pandapow.net
 .pandavpn-jp.com
