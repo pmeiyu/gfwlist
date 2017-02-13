@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: sw6JWb8hTBLqZal77mUbCQ
+! Checksum: T6rCOJrAnY31ZSetVBxNlw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 13 Feb 2017 05:16:33 +0100
+! Last Modified: Mon, 13 Feb 2017 10:45:58 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2105,8 +2105,6 @@ filmingfortibet.org
 findmespot.com
 .fingerdaily.com
 finler.net
-.firefoxfan.cc
-|http://firefoxfan.cc
 .fireofliberty.org
 ||fireofliberty.org
 .firetweet.io
@@ -3501,6 +3499,7 @@ lerosua.org
 ||lerosua.org
 blog.lester850.info
 ||lesoir.be
+.letou.com
 letscorp.net
 ||letscorp.net
 .lhakar.org
@@ -4718,8 +4717,10 @@ shkspr.mobi/dabr
 .showtime.jp
 ch.shvoong.com
 .shwchurch.org
+||www.shwchurch.org
 .shwchurch3.com
 |http://shwchurch3.com
+.siddharthasintent.org
 ||sidelinesnews.com
 .sidelinessportseatery.com
 .sijihuisuo.club
@@ -5165,7 +5166,7 @@ tibet.org.tw
 .tibet-house-trust.co.uk
 tibet-info.net
 tibet-initiative.de
-!--||tibet-initiative.de
+||tibet-initiative.de
 .tibet-munich.de
 .tibet3rdpole.org
 |http://tibet3rdpole.org
@@ -5178,6 +5179,8 @@ tibetan-alliance.org
 .tibetanarts.org
 .tibetanbuddhistinstitute.org
 |http://tibetanbuddhistinstitute.org
+tibetancommunity.org
+.tibetanjournal.com
 .tibetanlanguage.org
 .tibetanliberation.org
 ||tibetanliberation.org
