@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fONxVxmIUGcKoBiDd5WdPA
+! Checksum: sw6JWb8hTBLqZal77mUbCQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 13 Feb 2017 04:33:36 +0100
+! Last Modified: Mon, 13 Feb 2017 05:16:33 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -800,6 +800,7 @@ aliengu.com
 .alldrawnsex.com
 ||alldrawnsex.com
 ||allfinegirls.com
+.allgirlmassage.com
 allgirlsallowed.org
 alliance.org.hk
 .allinfa.com
@@ -2254,6 +2255,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001037091
 .ftchinese.com/story/001038220
 .ftchinese.com/story/001040890
+.ftchinese.com/story/001040918
 .ftchinese.com/story/001042100
 .ftchinese.com/story/001042252
 .ftchinese.com/story/001042272
@@ -2265,6 +2267,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001047545
 .ftchinese.com/story/001048710
 .ftchinese.com/story/001049360
+.ftchinese.com/story/001051372
 .ftchinese.com/story/001052965
 .ftchinese.com/story/001053526
 .ftchinese.com/story/001054103
@@ -2273,10 +2276,12 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001054644
 .ftchinese.com/story/001055299
 .ftchinese.com/story/001055551
+.ftchinese.com/story/001055559
 .ftchinese.com/story/001056529
 .ftchinese.com/story/001056554
-.ftchinese.com/story/001056588
 .ftchinese.com/story/001056567
+.ftchinese.com/story/001056588
+.ftchinese.com/story/001056596
 .ftchinese.com/story/001057509
 .ftchinese.com/story/001057533
 .ftchinese.com/story/001058295
@@ -2307,6 +2312,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001062794
 .ftchinese.com/story/001063160
 .ftchinese.com/story/001063692
+.ftchinese.com/story/001063826
 .ftchinese.com/story/001065287
 .ftchinese.com/story/001066465
 .ftchinese.com/story/001066959
@@ -2888,6 +2894,7 @@ app.heywire.com
 .heyzo.com
 .hgseav.com
 .hhdcb3office.org
+.hhthesakyatrizin.org
 hi-on.org.tw
 hidden-advent.org
 ||hidden-advent.org
@@ -2911,7 +2918,6 @@ highpeakspureearth.com
 ||hiitch.com
 ||hikinggfw.org
 .hilive.tv
-
 .himalayan-foundation.org
 himalayanglacier.com
 .himemix.com
@@ -3360,6 +3366,8 @@ juziyue.com
 !--------------------KK-------------------------
 ||k-doujin.net
 ||ka-wai.com
+.kagyu.org
+||kagyu.org.za
 .kagyumonlam.org
 .kagyunews.com.hk
 .kagyuoffice.org
@@ -5076,6 +5084,7 @@ teensinasia.com
 .telegramdownload.com
 ||telegraph.co.uk
 .tenacy.com
+||tenzinpalmo.com
 .tew.org
 .thaicn.com
 ||theatrum-belli.com
