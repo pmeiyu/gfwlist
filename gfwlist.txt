@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Tzmw2dVOcygz254Ybj8tag
+! Checksum: fONxVxmIUGcKoBiDd5WdPA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 13 Feb 2017 04:12:04 +0100
+! Last Modified: Mon, 13 Feb 2017 04:33:36 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -160,10 +160,12 @@
 ||target.com
 @@||intl.target.com
 ||tma.co.jp
+||tryheart.jp
 ||turntable.fm
 ||twerkingbutt.com
 ||vegasred.com
 ||vevo.com
+||vip-enterprise.com
 |http://viu.tv/ch/
 |http://viu.tv/encore/
 |http://ecsm.vs.com/
