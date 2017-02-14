@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: TBaJZ966swGZ3I2JBZr2Zw
+! Checksum: EKKihewDVPjjuN4+l7CxiA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 13 Feb 2017 11:06:13 +0100
+! Last Modified: Tue, 14 Feb 2017 03:24:17 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -159,6 +159,7 @@
 ||tapanwap.com
 ||target.com
 @@||intl.target.com
+||thebodyshop-usa.com
 ||tma.co.jp
 ||tryheart.jp
 ||turntable.fm
@@ -5093,7 +5094,6 @@ teensinasia.com
 .tew.org
 .thaicn.com
 ||theatrum-belli.com
-||thebodyshop-usa.com
 theblemish.com
 ||thebcomplex.com
 .thebobs.com
@@ -5111,7 +5111,6 @@ thehousenews.com
 ||thehun.net
 .theinitium.com
 ||theinitium.com
-||thelifeyoucansave.com
 .thenewslens.com
 ||thenewslens.com
 .thepiratebay.org
@@ -5293,7 +5292,6 @@ tonyyan.net
 toonel.net
 top81.ws
 .topnews.in
-||topshare.us
 .torguard.net
 ||torguard.net
 .topshareware.com
@@ -5334,10 +5332,8 @@ trtc.com.tw
 .truebuddha-md.org
 |http://truebuddha-md.org
 trulyergonomic.com
-||trustedbi.com
 .truth101.co.tv
 |http://truth101.co.tv
-||truthcn.com
 .truthontour.org
 |http://truthontour.org
 .truveo.com
@@ -5354,14 +5350,12 @@ tsunagarumon.com
 ||tttan.com
 bb.ttv.com.tw/bb
 tu8964.com
-.tuanzt.com
 .tubaholic.com
 .tube.com
 tube8.com
 ||tube8.com
 .tube911.com
 ||tube911.com
-tubecao.com
 .tubecup.com
 .tubegals.com
 .tubeislam.com
@@ -5399,6 +5393,7 @@ tuitwit.com
 ||turbohide.com
 .tushycash.com
 |http://tushycash.com
+||app.tutanota.com
 .tuvpn.com
 ||tuvpn.com
 |http://tuzaijidi.com
@@ -5774,6 +5769,7 @@ vocn.tv
 |http://vpnaccount.org
 .vpnaccounts.com
 ||vpnaccounts.com
+.vpncomparison.org
 .vpncup.com
 ||vpncup.com
 vpnbook.com
