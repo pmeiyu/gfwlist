@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: xAE89hzCPdjca1tx1qUY7Q
+! Checksum: 5JZ7t5mzivwGJbxXgpApEg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 14 Feb 2017 04:14:05 +0100
+! Last Modified: Tue, 14 Feb 2017 04:38:08 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -921,17 +921,16 @@ asianews.it
 ||asiansexdiary.com
 ||asianwomensfilm.de
 .asiatgp.com
+.asiatoday.us
 ||askstudent.com
 .askynz.net
 ||askynz.net
 ||assembla.com
-||astonmartinnews.com
 ||astrill.com
 ||atc.org.au
 .atchinese.com
 |http://atchinese.com
 atgfw.org
-||atj.org.tw
 .atlaspost.com
 ||atlaspost.com
 ||atdmt.com
@@ -3842,7 +3841,7 @@ multiupload.com
 .my-formosa.com
 .my-proxy.com
 forum.my903.com
-myactimes.com
+.myactimes.com/actimes
 .myaudiocast.com
 ||myaudiocast.com
 .myav.com.tw/bbs
