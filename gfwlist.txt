@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 6aVQoyet3zc5jMdcJ0K/HQ
+! Checksum: xAE89hzCPdjca1tx1qUY7Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 14 Feb 2017 03:47:29 +0100
+! Last Modified: Tue, 14 Feb 2017 04:14:05 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -853,7 +853,6 @@ aniscartujo.com
 ||aniscartujo.com
 ||anobii.com
 .anonymitynetwork.com
-||anonymitynetwork.com
 .anonymizer.com
 anontext.com
 .anpopo.com
@@ -885,10 +884,11 @@ video.ap.org
 ||apigee.com
 apk-dl.com
 apkdler.com/apk/view
-.appdownloader.net/Android
+.aplusvpn.com
 apkpure.com
 ||apkpure.com
 !--||appannie.com
+.appdownloader.net/Android
 appledaily.com
 ||appsocks.net
 ||appsto.re
@@ -1462,6 +1462,7 @@ christiantimes.org.hk
 |http://chrlawyers.hk
 .churchinhongkong.org/b5/index.php
 |http://churchinhongkong.org/b5/index.php
+.cienen.com
 .cineastentreff.de
 .cipfg.org
 ||circlethebayfortibet.org
@@ -1883,7 +1884,6 @@ efcc.org.hk
 .eksisozluk.com
 ||eksisozluk.com
 electionsmeter.com
-||elephantvpn.com
 ||elgoog.im
 ||elpais.com
 .eltondisney.com
@@ -2480,6 +2480,7 @@ globalmuseumoncommunism.org
 .globaltm.org
 .globalvoicesonline.org
 ||globalvoicesonline.org
+||globalvpn.net
 .glock.com
 gluckman.com/DalaiLama
 gmbd.cn
@@ -3230,6 +3231,8 @@ chinese.irib.ir
 ||ironicsoftware.com
 ||ironbigfools.compython.net
 ||ironpython.net
+.ironsocket.com
+||ironsocket.com
 .is.gd
 .islam.org.hk
 |http://islam.org.hk
@@ -4643,7 +4646,9 @@ secretchina.com
 .secretsline.biz
 ||secretsline.biz
 ||securetunnel.com
-securitykiss.com
+.securitykiss.com
+||securitykiss.com
+||seed4.me
 seesmic.com
 ||seevpn.com
 ||seezone.net
@@ -4805,6 +4810,7 @@ forum.slime.com.tw
 ||slickvpn.com
 .slutload.com
 ||smartdnsproxy.com
+.smarthide.com
 smchbooks.com
 .smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
 smhric.org
@@ -4966,6 +4972,7 @@ panamapapers.sueddeutsche.de
 .sugarsync.com
 ||sugarsync.com
 .sugobbs.com
+||sugumiru18.com
 ||suissl.com
 summify.com
 .sumrando.com
@@ -5774,6 +5781,7 @@ vocn.tv
 ||voxer.com
 .voy.com
 .vpn4all.com
+||vpn4all.com
 .vpnaccount.org
 |http://vpnaccount.org
 .vpnaccounts.com
@@ -5800,6 +5808,7 @@ vpnhq.com
 ||vpnmaster.com
 .vpninja.net
 ||vpninja.net
+.vpnintouch.com
 ||vpnintouch.net
 .vpnpick.com
 ||vpnpick.com
@@ -5813,12 +5822,14 @@ vpnhq.com
 .vpnshazam.com
 ||vpnshazam.com
 .vpnsp.com
+.vpntraffic.com
 .vpntunnel.com
 ||vpntunnel.com
 .vpnuk.info
 ||vpnuk.info
 .vpnvip.com
 ||vpnvip.com
+.vpnworldwide.com
 .vporn.com
 ||vporn.com
 .vpser.net
