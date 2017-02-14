@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: EKKihewDVPjjuN4+l7CxiA
+! Checksum: 6aVQoyet3zc5jMdcJ0K/HQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 14 Feb 2017 03:24:17 +0100
+! Last Modified: Tue, 14 Feb 2017 03:47:29 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -539,6 +539,7 @@ blogspot.com
 ||googlevideo.com
 ||googlezip.net
 ||groups.google.cn
+||gstatic.com
 ||gvt0.com
 ||gvt1.com
 ||gvt3.com
@@ -2245,6 +2246,8 @@ hk.frienddy.com/hk
 .fromchinatousa.net
 ||frommel.net
 .frontlinedefenders.org
+.frootvpn.com
+||frootvpn.com
 ||fscked.org
 .fsurf.com
 .ftchinese.com/channel/video
@@ -2793,7 +2796,8 @@ greatfire.org
 ||greatfire.org
 greatfirewallofchina.org
 ||greatroc.tw
-||gstatic.com
+.gts-vpn.com
+|http://gts-vpn.com
 .gu-chu-sum.org
 |http://gu-chu-sum.org
 guishan.org
@@ -3715,6 +3719,8 @@ meyou.jp
 mhradio.org
 |http://michaelanti.com
 ||michaelmarketl.com
+.microvpn.com
+|http://microvpn.com
 middle-way.net
 .mihk.hk/forum
 .mihr.com
@@ -4675,6 +4681,7 @@ sexinsex.net
 .sftindia.org
 .sftuk.org
 ||sftuk.org
+||shadeyouvpn.com
 shadow.ma
 .shadowsky.xyz
 ||www.shadowsocks.com
@@ -4682,7 +4689,6 @@ shadow.ma
 .shadowsocks.org
 ||shadowsocks.org
 |http://cn.shafaqna.com
-shahamat-english.com
 .shambalapost.com
 .shambhalasun.com
 .shangfang.org
@@ -4920,6 +4926,9 @@ usinfo.state.gov
 steamcommunity.com/groups/LibetTibet
 steamcommunity.com/id/CJT_Jackton
 ||steel-storm.com
+.steganos.com
+||steganos.com
+.steganos.net
 .stepchina.com
 !--||stepmania.com
 ny.stgloballink.com
@@ -5801,6 +5810,8 @@ vpnhq.com
 ||vpnreviewz.com
 .vpnsecure.me
 ||vpnsecure.me
+.vpnshazam.com
+||vpnshazam.com
 .vpnsp.com
 .vpntunnel.com
 ||vpntunnel.com
