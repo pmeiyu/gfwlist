@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 6Ff6lWGtZs4q+MqYkZqOMw
+! Checksum: jPVEsFVX4rYuj/O+PotwCQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 15 Feb 2017 10:00:49 +0100
+! Last Modified: Wed, 15 Feb 2017 12:27:01 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6062,6 +6062,7 @@ worldjournal.com
 ||wowlegacy.ml
 ||wowporn.com
 ||wowgirls.com
+.wowrk.com
 woxinghuiguo.com
 .woyaolian.org
 |http://woyaolian.org
