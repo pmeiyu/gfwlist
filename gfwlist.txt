@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: UC6cTnTKpMV6tWXv7pPtJw
+! Checksum: 6Ff6lWGtZs4q+MqYkZqOMw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 15 Feb 2017 09:48:55 +0100
+! Last Modified: Wed, 15 Feb 2017 10:00:49 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -161,6 +161,7 @@ share.dmhy.org
 @@||intl.target.com
 ||thebodyshop-usa.com
 ||tma.co.jp
+||tracfone.com
 ||tryheart.jp
 ||turntable.fm
 ||twerkingbutt.com
@@ -1849,6 +1850,7 @@ e-info.org.tw
 |http://earlytibet.com
 .earthcam.com
 .earthvpn.com
+||earthvpn.com
 eastern-ark.com
 .easternlightning.org
 .eastturkestan.com
@@ -2451,7 +2453,7 @@ gfw.org.ua
 ||ghut.org
 .gifree.com
 ||giga-web.jp
-|tw.gigacircle.com
+tw.gigacircle.com
 |http://cn.giganews.com/
 gigporno.ru
 ||girlbanker.com
