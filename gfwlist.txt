@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5JZ7t5mzivwGJbxXgpApEg
+! Checksum: UC6cTnTKpMV6tWXv7pPtJw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 14 Feb 2017 04:38:08 +0100
+! Last Modified: Wed, 15 Feb 2017 09:48:55 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -45,7 +45,7 @@
 ||desipro.de
 ||dish.com
 |http://img.dlsite.jp/
-!--||share.dmhy.org
+share.dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
 ||eesti.ee
@@ -1444,6 +1444,7 @@ chinese-memorial.org
 .chinman.net
 |http://chinman.net
 chithu.org
+|http://chn.chosun.com
 cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate
 .chrdnet.com
 |http://chrdnet.com
