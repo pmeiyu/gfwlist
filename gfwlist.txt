@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jPVEsFVX4rYuj/O+PotwCQ
+! Checksum: WSvF6sRkZeTUMSjuc6hWNQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 15 Feb 2017 12:27:01 +0100
+! Last Modified: Thu, 16 Feb 2017 05:23:22 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3185,6 +3185,7 @@ in-disguise.com
 ||incredibox.fr
 ||indiandefensenews.in
 timesofindia.indiatimes.com/dalai
+timesofindia.indiatimes.com/defaultinterstitial.cms
 .indiemerch.com
 ||indiemerch.com
 info-graf.fr
@@ -3344,6 +3345,8 @@ jkforum.net
 ||jma.go.jp
 research.jmsc.hku.hk/social
 weiboscope.jmsc.hku.hk
+.jmscult.com
+|http://jmscult.com
 ||joachims.org
 ||jobso.tv
 ||joeedelman.com
@@ -3423,6 +3426,7 @@ bbs.kimy.com.tw
 |http://kindleren.com
 |http://www.kindleren.com
 .kingdomsalvation.org
+||kingdomsalvation.org
 kinghost.com
 !--.kingstone.com.tw/book/
 ||kingstone.com.tw
@@ -4452,6 +4456,8 @@ blog.qooza.hk/dafengqixi
 ||qstatus.com
 ||qtweeter.com
 ||qtrac.eu
+.quannengshen.org
+|http://quannengshen.org
 ||quitccp.net
 .quitccp.net
 ||quitccp.org
