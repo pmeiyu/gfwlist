@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: n77L1+34s1Bm7RUt4QDJig
+! Checksum: NaR45rwTwqwb8ugQ+jBAwg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 17 Feb 2017 04:46:32 +0100
+! Last Modified: Fri, 17 Feb 2017 05:32:33 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -491,6 +491,7 @@ blogspot.com
 .google.it
 .google.jo
 .google.kz
+.google.lv
 .google.mn
 .google.ms
 .google.nl
@@ -538,6 +539,7 @@ blogspot.com
 !--||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
+||googleweblight.com
 ||googlezip.net
 ||groups.google.cn
 ||gstatic.com
@@ -2814,6 +2816,10 @@ greatfirewallofchina.org
 |http://gts-vpn.com
 .gu-chu-sum.org
 |http://gu-chu-sum.org
+.guaguass.com
+|http://guaguass.com
+.guaguass.org
+|http://guaguass.org
 guishan.org
 ||guishan.org
 ||gunsamerica.com
@@ -6138,6 +6144,7 @@ xhamster.com
 .xianjian.tw
 |http://xianjian.tw
 .xianqiao.net
+.xiaobaiwu.com
 .xiaochuncnjp.com
 .xiaod.in
 .xiaohexie.com
