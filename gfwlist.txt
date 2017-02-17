@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: WSvF6sRkZeTUMSjuc6hWNQ
+! Checksum: n77L1+34s1Bm7RUt4QDJig
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Feb 2017 05:23:22 +0100
+! Last Modified: Fri, 17 Feb 2017 04:46:32 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -642,6 +642,8 @@ zhao.1984.city
 !--||1984blog.com
 .1984bbs.org
 ||1984bbs.org
+.1991way.com
+||1991way.com
 .1998cdp.org
 .1bao.org
 |http://1bao.org
@@ -838,6 +840,7 @@ www1.american.edu/ted/ice/tibet
 ||amnestyusa.org
 .amnyemachen.org
 .amoiist.com
+androidplus.co/apk
 .andygod.com
 |http://andygod.com
 annatam.com/chinese
@@ -861,6 +864,7 @@ anontext.com
 |http://www.antd.org
 ||anthonycalzadilla.com
 .anti1984.com
+antichristendom.com
 .antiwave.net
 |http://antiwave.net
 .anysex.com
@@ -885,9 +889,11 @@ video.ap.org
 ||apigee.com
 apk-dl.com
 apkdler.com/apk/view
-.aplusvpn.com
+.apkmonk.com/app
+||apkplz.com
 apkpure.com
 ||apkpure.com
+.aplusvpn.com
 !--||appannie.com
 .appdownloader.net/Android
 appledaily.com
@@ -1816,7 +1822,7 @@ dupola.net
 .dushi.ca
 ||dvorak.org
 .dw.com
-|http://www.dw.com
+||dw.com
 ||dw.de
 .dw-world.com
 ||dw-world.com
@@ -1891,6 +1897,7 @@ electionsmeter.com
 .eltondisney.com
 .emaga.com/info/3407
 emilylau.org.hk
+.emanna.com/chineseTraditional
 .empfil.com
 .emule-ed2k.com
 |http://emule-ed2k.com
@@ -1979,6 +1986,8 @@ eeas.europa.eu/statements-eeas/2015/151022
 |http://blog.excite.co.jp
 ||exmormon.org
 ||expatshield.com
+.expecthim.com
+||expecthim.com
 experts-univers.com
 ||exploader.net
 .expressvpn.com
@@ -2096,6 +2105,8 @@ fgmtv.net
 .fgmtv.org
 .fhreports.net
 |http://fhreports.net
+.figprayer.com
+||figprayer.com
 .fileflyer.com
 ||fileflyer.com
 |http://feeds.fileforum.com
@@ -4342,6 +4353,7 @@ popyard.com
 .pornvisit.com
 .portablevpn.nl
 ||poskotanews.com
+.post01.com
 .post852.com
 postadult.com
 .postimg.org
@@ -4428,6 +4440,8 @@ psblog.name
 ||purepdf.com
 ||purevpn.com
 .purplelotus.org
+.pursuestar.com
+||pursuestar.com
 .pussyspace.com
 .putihome.org
 .putlocker.com/file
@@ -4441,7 +4455,8 @@ pythonhackers.com/p
 .qanote.com
 ||qanote.com
 .qgirl.com.tw
-qi-gong.me
+.qi-gong.me
+||qi-gong.me
 .qidian.ca
 .qienkuen.org
 ||qienkuen.org
@@ -5686,6 +5701,8 @@ beta.usejump.com
 .ustream.tv
 ||ustream.tv
 !--||ustwrap.info
+.usunitednews.com
+|http://usunitednews.com
 usus.cc
 .utopianpal.com
 ||utopianpal.com
