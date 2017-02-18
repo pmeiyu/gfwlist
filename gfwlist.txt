@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: C4A8jXGnmlGs3YgoWI3OCw
+! Checksum: JPXngZR8mGG7sdt9yq3Z7Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 18 Feb 2017 05:36:25 +0100
+! Last Modified: Sat, 18 Feb 2017 16:51:10 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3696,6 +3696,7 @@ mcfog.com
 mcreasite.com
 .md-t.org
 ||md-t.org
+||meansys.com
 .media.org.hk
 .mediachinese.com
 ||mediachinese.com
