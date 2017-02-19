@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: JPXngZR8mGG7sdt9yq3Z7Q
+! Checksum: vK8rJwHa4M8s/Pnx0Pwaig
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 18 Feb 2017 16:51:10 +0100
+! Last Modified: Mon, 20 Feb 2017 00:54:35 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -673,6 +673,7 @@ zhao.1984.city
 .3a5a.com
 3arabtv.com
 .3boys2girls.com
+.3proxy.ru
 .3ren.ca
 .3tui.net
 ||4bluestones.biz
