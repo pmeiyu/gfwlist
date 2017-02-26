@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 1g+Mav6SIhKWSXgIwiDKvA
+! Checksum: M7JEkd1odH5SldGfBybFEA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 25 Feb 2017 05:34:29 +0100
+! Last Modified: Sun, 26 Feb 2017 16:38:56 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1904,6 +1904,7 @@ efcc.org.hk
 ||eksisozluk.com
 electionsmeter.com
 ||elgoog.im
+.elpais.com
 ||elpais.com
 .eltondisney.com
 .emaga.com/info/3407
@@ -4767,6 +4768,7 @@ shipcamouflage.com
 shizhao.org
 shkspr.mobi/dabr
 ||shodanhq.com
+||shooshtime.com
 .shop2000.com.tw
 .shopping.com
 .showhaotu.com
