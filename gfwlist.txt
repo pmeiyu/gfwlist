@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: M7JEkd1odH5SldGfBybFEA
+! Checksum: lRPbxJUM6idIiFv8rZwzlw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 26 Feb 2017 16:38:56 +0100
+! Last Modified: Mon, 27 Feb 2017 05:47:45 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -757,6 +757,7 @@ a5.com.ru
 |http://acg18.me
 ||acgkj.com
 .acnw.com.au
+actfortibet.org
 actimes.com.au
 activpn.com
 ||activpn.com
@@ -1059,6 +1060,7 @@ beric.me
 .bestvpnusa.com
 ||bet365.com
 .betfair.com
+||betternet.co
 .bettervpn.com
 ||bettervpn.com
 .bettween.com
@@ -1480,6 +1482,7 @@ christiantimes.org.hk
 |http://chrlawyers.hk
 .churchinhongkong.org/b5/index.php
 |http://churchinhongkong.org/b5/index.php
+.chushigangdrug.ch
 .cienen.com
 .cineastentreff.de
 .cipfg.org
@@ -4818,15 +4821,15 @@ sinomontreal.ca
 .sinoants.com
 ||sinoants.com
 .sinoquebec.com
+.sierrafriendsoftibet.org
+sis.xxx
+||sis001.com
+sis001.us
 ||site90.net
 .sitebro.tw
 ||sitekreator.com
 ||siteks.uk.to
 ||sitemaps.org
-sitetag.us
-sis.xxx
-||sis001.com
-sis001.us
 .sjrt.org
 |http://sjrt.org
 ||sjum.cn
@@ -4902,6 +4905,7 @@ sohfrance.org
 ||sohfrance.org
 chinese.soifind.com
 sokamonline.com
+.solidaritetibet.org
 ||somee.com
 .songjianjun.com
 ||songjianjun.com
@@ -5255,6 +5259,7 @@ tibetanfeministcollective.org
 .tibetanphotoproject.com
 .tibetanpoliticalreview.org
 .tibetanreview.net
+|http://tibetansports.org
 .tibetanwomen.org
 |http://tibetanwomen.org
 .tibetanyouth.org
@@ -5889,6 +5894,7 @@ lists.w3.org/archives/public
 .wahas.com
 .waigaobu.com
 waikeung.org/php_wind
+.wailaike.net
 .waiwaier.com
 |http://waiwaier.com
 wallornot.org
