@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: lRPbxJUM6idIiFv8rZwzlw
+! Checksum: CagTjSRpqVOao9nO9eMu+w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 27 Feb 2017 05:47:45 +0100
+! Last Modified: Mon, 27 Feb 2017 05:59:02 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1785,18 +1785,18 @@ dongtaiwang.com
 .dotplane.com
 ||dotplane.com
 ||dotsub.com
+.doub.io
+||doub.io
 ||dougscripts.com
 ||douhokanko.net
 ||doujincafe.com
 dowei.org
-!--||doxygen.org
 dphk.org
 dpp.org.tw
 ||dpp.org.tw
 ||dpr.info
 ||dragonsprings.org
-||draw.io
-||dreammask.org
+!--||draw.io
 .drepung.org
 ||drgan.net
 .drmingxia.org
@@ -1813,7 +1813,6 @@ drsunacademy.com
 |http://dstk.dk
 ||dtiblog.com
 ||dtic.mil
-dtiserv2.com
 .dtwang.org
 .duanzhihu.com
 .duckdns.org
@@ -6101,7 +6100,10 @@ worldjournal.com
 
 .wordpress.com
 |http://*.wordpress.com
+||cnbbnews.wordpress.com
 ||chenshan20042005.wordpress.com
+||jobnewera.wordpress.com
+||sujiatun.wordpress.com
 ||wp.com
 
 !-||wormsculptor.com
