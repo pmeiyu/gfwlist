@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CagTjSRpqVOao9nO9eMu+w
+! Checksum: HvAhwbwCfRV0L+dvvmsvoA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 27 Feb 2017 05:59:02 +0100
+! Last Modified: Tue, 28 Feb 2017 06:23:24 +0100
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -29,7 +29,7 @@
 ||asianspiss.com
 ||athenaeizou.com
 ||azubu.tv
-||barracuda.com
+!--||barracuda.com
 ||beeg.com
 ||bloombergview.com
 ||boysmaster.com
@@ -2035,6 +2035,7 @@ eyevio.jp
 falun-co.org
 falunart.org
 ||falunasia.info
+|http://falunau.org
 falundafa.org
 falundafa-dc.org
 ||falundafa-florida.org
@@ -2145,6 +2146,7 @@ fleshbot.com
 .fleursdeslettres.com
 |http://fleursdeslettres.com
 ||flgg.us
+||flgjustice.org
 
 !--||farm6.staticflickr.com
 !--.flickr.com/photos/46231077@N06
