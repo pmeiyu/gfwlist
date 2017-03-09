@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 9x5JyarvbnbW4614+oN0Eg
+! Checksum: AI+fKtFi7ZgE5NoIMabFcQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 08 Mar 2017 21:11:15 -0500
+! Last Modified: Wed, 08 Mar 2017 21:20:41 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4169,6 +4169,7 @@ openvpn.net
 ||openvpn.net
 ||openwebster.com
 .openwrt.org.cn
+@@||openwrt.org.cn
 my.opera.com/dahema
 ||demo.opera-mini.net
 www.orchidbbs.com
@@ -4311,6 +4312,8 @@ picturesocial.com
 .ping.fm
 ||ping.fm
 ||pinoy-n.com
+.pinterest.com
+||pinterest.com
 .piposay.com
 piraattilahti.org
 .piring.com
