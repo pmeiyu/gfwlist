@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: xGJx+7memZV3OT1zeqGSMw
+! Checksum: ips7zKXtanlB02Ivz/ghfQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 01 Mar 2017 04:31:27 +0100
+! Last Modified: Wed, 08 Mar 2017 21:04:58 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4978,6 +4978,7 @@ usinfo.state.gov
 ||static-economist.com
 ||stc.com.sa
 steamcommunity.com/groups/LibetTibet
+steamcommunity.com/groups/zhonggong
 steamcommunity.com/id/CJT_Jackton
 ||steel-storm.com
 .steganos.com
