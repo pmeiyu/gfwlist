@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 7++U+24E1RKA7s+B2RQ9zA
+! Checksum: V2R8/qXPCFhn1aARkMtnKg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 08 Mar 2017 21:27:30 -0500
+! Last Modified: Wed, 08 Mar 2017 21:45:14 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -571,6 +571,7 @@ blogspot.com
 ||redhotlabs.com
 ||registry.google
 ||schema.org
+||shattered.io
 |http://sipml5.org/
 ||stories.google
 ||synergyse.com
