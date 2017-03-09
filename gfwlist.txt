@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ips7zKXtanlB02Ivz/ghfQ
+! Checksum: 9x5JyarvbnbW4614+oN0Eg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 08 Mar 2017 21:04:58 -0500
+! Last Modified: Wed, 08 Mar 2017 21:11:15 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4573,6 +4573,8 @@ renminbao.com
 |http://certificate.revocationcheck.com
 subacme.rerouted.org
 .reuters.com
+||reuters.com
+||reutersmedia.net
 .revleft.com
 retweetist.com
 ||retweetrank.com
