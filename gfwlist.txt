@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +vb/sHNHrUr7u84EAO663w
+! Checksum: LA26HMYG1YxTH7aXrgSYPw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Mar 2017 10:59:29 -0400
+! Last Modified: Thu, 16 Mar 2017 03:03:23 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1311,6 +1311,7 @@ catholic.org.tw
 !-.ccc.de
 !-||ccc.de
 ||cccat.cc
+||cccat.co
 .ccdtr.org
 ||ccdtr.org
 .cchere.com
