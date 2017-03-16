@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: LA26HMYG1YxTH7aXrgSYPw
+! Checksum: fjKDoeY+rwi/IcXHwY9jKA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Mar 2017 03:03:23 -0400
+! Last Modified: Thu, 16 Mar 2017 03:48:40 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -87,6 +87,7 @@ share.dmhy.org
 |http://imgmega.com/*.jpeg.html
 |http://imgmega.com/*.png.html
 |http://imgur.com/upload
+|https://imgur.com/upload
 ||javhub.net
 ||javhuge.com
 .javlibrary.com
@@ -113,6 +114,7 @@ share.dmhy.org
 ||kb.monitorware.com
 ||monster.com
 ||moodyz.com
+||msha.gov
 ||muzu.tv
 ||mvg.jp
 ||nationwide.com
@@ -405,7 +407,9 @@ d1c37gjwa26taa.cloudfront.net
 
 !!---DynDNS---
 !###https://help.dyn.com/list-of-dyn-dns-pro-remote-access-domain-names/
+.blogdns.org
 .dyndns.org
+.dyndns-ip.com
 .dyndns-pics.com
 .is-a-hunter.com
 
@@ -817,6 +821,7 @@ aliengu.com
 ||allconnected.co
 .alldrawnsex.com
 ||alldrawnsex.com
+.allervpn.com
 ||allfinegirls.com
 .allgirlmassage.com
 allgirlsallowed.org
@@ -2226,6 +2231,7 @@ whitebear.freebearblog.org
 ||freegao.com
 .free-hada-now.org
 freeilhamtohti.org
+.freekwonpyong.org
 .freelotto.com
 ||freelotto.com
 freeman2.com
@@ -2893,6 +2899,7 @@ hahlo.com
 bbs.hasi.wang
 have8.com
 @@||haygo.com
+.hclips.com
 ||hdtvb.net
 .hdzog.com
 |http://hdzog.com
@@ -2910,6 +2917,7 @@ have8.com
 ||helplinfen.com
 ||helloandroid.com
 ||helloqueer.com
+.helloss.pw
 hellotxt.com
 ||hellotxt.com
 .hentai.to
@@ -2969,6 +2977,8 @@ himalayanglacier.com
 times.hinet.net
 .hitomi.la
 |http://hitomi.la
+.hiwifi.com
+@@||hiwifi.com
 hizbuttahrir.org
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
@@ -3333,6 +3343,8 @@ jamaat.org
 |http://jamyangnorbu.com
 ||janwongphoto.com
 ||japan-whores.com
+.jav2be.com
+||jav2be.com
 .jav68.tv
 .javhd.com
 .javhip.com
@@ -4021,6 +4033,7 @@ newyorktimes.com
 
 ||nexton-net.jp
 nexttv.com.tw
+.nfjtyd.com
 ||co.ng.mil
 ||nga.mil
 ngensis.com
@@ -4560,6 +4573,7 @@ rcinet.ca
 |http://readydown.com
 .realcourage.org
 .realraptalk.com
+.realsexpass.com
 .recordhistory.org
 .recovery.org.tw
 |http://online.recoveryversion.org
