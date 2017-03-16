@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 0j97PmsS/dfKqOpLTK/z8Q
+! Checksum: apzLr3kuJrZ9+PdPVgdbdA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Mar 2017 04:59:41 -0400
+! Last Modified: Thu, 16 Mar 2017 05:13:27 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -579,6 +579,7 @@ blogspot.com
 ||recaptcha.net
 ||redhotlabs.com
 ||registry.google
+||savethedate.foo
 ||schema.org
 ||shattered.io
 |http://sipml5.org/
@@ -3589,6 +3590,7 @@ limiao.net
 linkuswell.com
 abitno.linpie.com/use-ipv6-to-fuck-gfw
 ||line.me
+||line-apps.com
 .linglingfa.com
 ||lingvodics.com
 .link-o-rama.com
@@ -6281,6 +6283,7 @@ pulse.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
 ||yahoo.com.hk
+||duckduckgo-owned-server.yahoo.net
 ||yakbutterblues.com
 yam.com
 ||yam.com
