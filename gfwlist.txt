@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: tOWa3br0VGuGCym7EBe7MA
+! Checksum: t4nutoPiVQX8Vb+ptav7lA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Mar 2017 05:18:22 -0400
+! Last Modified: Thu, 16 Mar 2017 05:25:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -537,15 +537,16 @@ blogspot.com
 ||googleartproject.com
 ||googleblog.com
 ||googlebot.com
+||googlecapital.com
 ||googlecode.com
 ||googlecommerce.com
 ||googledomains.com
 ||googleearth.com
 ||googledrive.com
 ||googlegroups.com
-||googlecapital.com
 ||googlehosted.com
 ||googleideas.com
+||googleinsidesearch.com
 ||googlelabs.com
 ||googlemail.com
 ||googleplay.com
@@ -586,6 +587,7 @@ blogspot.com
 |http://sipml5.org/
 ||stories.google
 ||synergyse.com
+||teachparentstech.org
 ||tensorflow.org
 ||thinkwithgoogle.com
 ||tiltbrush.com
