@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: apzLr3kuJrZ9+PdPVgdbdA
+! Checksum: CJTS81H+CnfoltyRX5eT4w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Mar 2017 05:13:27 -0400
+! Last Modified: Thu, 16 Mar 2017 05:15:00 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3493,6 +3493,8 @@ killwall.com
 ||kk-whys.co.jp
 !--||kmt.org.tw
 .knowledgerush.com/kr/encyclopedia
+.kobo.com
+||kobo.com
 ||kodingen.com
 @@||www.kodingen.com
 ||kompozer.net
