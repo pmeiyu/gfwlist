@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: V2R8/qXPCFhn1aARkMtnKg
+! Checksum: +vb/sHNHrUr7u84EAO663w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 08 Mar 2017 21:45:14 -0500
+! Last Modified: Thu, 16 Mar 2017 10:59:29 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -5894,6 +5894,7 @@ vpnhq.com
 .vporn.com
 ||vporn.com
 .vpser.net
+@@||vpser.net
 vraiesagesse.net
 ||vtunnel.com
 ||vuku.cc
