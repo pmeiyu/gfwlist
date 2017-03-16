@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fjKDoeY+rwi/IcXHwY9jKA
+! Checksum: 0j97PmsS/dfKqOpLTK/z8Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Mar 2017 03:48:40 -0400
+! Last Modified: Thu, 16 Mar 2017 04:59:41 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -30,6 +30,7 @@
 ||athenaeizou.com
 ||azubu.tv
 !--||barracuda.com
+||bash-hackers.org
 ||beeg.com
 ||bloombergview.com
 ||boysmaster.com
@@ -191,6 +192,10 @@ share.dmhy.org
 !-------------Non-Latin Domain Names------------
 ||xn--4gq171p.com
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
+
+!-----------------DNS Poisoning-----------------
+!---Amazon---
+!-||cdn-images.mailchimp.com
 
 !----------------Frauds & Scams-----------------
 china-mmm.jp.net
@@ -3739,6 +3744,7 @@ mcreasite.com
 .meetav.com
 ||meetup.com
 mefeedia.com
+||mega.nz
 ||megaproxy.com
 ||megarotic.com
 megavideo.com
