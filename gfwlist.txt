@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: t4nutoPiVQX8Vb+ptav7lA
+! Checksum: bA+1KFeU9hSb7mXGB4FJbQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Mar 2017 05:25:42 -0400
+! Last Modified: Tue, 21 Mar 2017 04:10:20 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3350,6 +3350,7 @@ blog.jackjia.com
 jamaat.org
 .jamyangnorbu.com
 |http://jamyangnorbu.com
+.jandyx.com
 ||janwongphoto.com
 ||japan-whores.com
 .jav2be.com
