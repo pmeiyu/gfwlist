@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bA+1KFeU9hSb7mXGB4FJbQ
+! Checksum: /mV27zL4m0D6rERLu2Mz/A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 21 Mar 2017 04:10:20 -0400
+! Last Modified: Mon, 20 Mar 2017 21:25:21 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -63,6 +63,7 @@ share.dmhy.org
 ||flitto.com
 ||funkyimg.com
 ||fxnetworks.com
+||g-area.org
 ||gettyimages.com
 ||getuploader.com
 |https://github.com/programthink/zhao
@@ -97,6 +98,7 @@ share.dmhy.org
 ||jims.net
 ||juliepost.com
 ||kawaiikawaii.jp
+||kendatire.com
 ||khatrimaza.org
 ||kkbox.com
 ||leisurepro.com
@@ -115,6 +117,7 @@ share.dmhy.org
 ||kb.monitorware.com
 ||monster.com
 ||moodyz.com
+||mos.ru
 ||msha.gov
 ||muzu.tv
 ||mvg.jp
@@ -416,6 +419,8 @@ d1c37gjwa26taa.cloudfront.net
 .dyndns.org
 .dyndns-ip.com
 .dyndns-pics.com
+.from-sd.com
+.from-pr.com
 .is-a-hunter.com
 
 !!---Facebook---
@@ -1256,7 +1261,6 @@ busytrade.com
 ||buzzorange.com
 bwsj.hk
 ||bx.tl
-holz.byethost8.com
 
 !--------------------CC-------------------------
 .c-spanvideo.org
@@ -1593,6 +1597,8 @@ coolder.com
 corumcollege.com
 .cos-moe.com
 |http://cos-moe.com
+.cosplayjav.pl
+|http://cosplayjav.pl
 ||couchdbwiki.com
 ||cotweet.com
 cpj.org
@@ -1772,6 +1778,7 @@ djangosnippets.org
 ||djorz.com
 ||dl-laby.jp
 ||dlsite.com
+||dlyoutube.com
 ||dmcdn.net
 .dnscrypt.org
 ||dnscrypt.org
@@ -2150,6 +2157,7 @@ filmingfortibet.org
 ||finchvpn.com
 !--findbook.tw
 findmespot.com
+||findyoutube.com
 .fingerdaily.com
 finler.net
 .fireofliberty.org
@@ -3356,12 +3364,14 @@ jamaat.org
 .jav2be.com
 ||jav2be.com
 .jav68.tv
-.javhd.com
-.javhip.com
 .javakiba.org
 |http://javakiba.org
 .javbus.com
 ||javfor.me
+.javhd.com
+.javhip.com
+.javmobile.net
+|http://javmobile.net
 .javmoo.com
 .javseen.com
 |http://javseen.com
@@ -4930,6 +4940,7 @@ home.so-net.net.tw/yisa_tsai
 ||sogclub.com
 sohcradio.com
 ||sohcradio.com
+.sokmil.com
 ||sorting-algorithms.com
 .sostibet.org
 .soumo.info
@@ -5466,6 +5477,7 @@ tube8.com
 .tubegals.com
 .tubeislam.com
 |http://tubeislam.com
+.tubestack.com
 ||tubewolf.com
 tuidang.net
 tuidang.org
@@ -5965,6 +5977,7 @@ wapedia.mobi/zhsimp
 ||wattpad.com
 .makzhou.warehouse333.com
 washeng.net
+.watch8x.com
 ||watchmygf.net
 ||wav.tv
 .wdf5.com
@@ -6273,6 +6286,7 @@ buy.yahoo.com.tw/gdsale
 hk.yahoo.com
 hk.knowledge.yahoo.com
 hk.myblog.yahoo.com
+news.yahoo.com/china-blocks-bbc
 ||hk.news.yahoo.com
 hk.rd.yahoo.com
 hk.search.yahoo.com/search
