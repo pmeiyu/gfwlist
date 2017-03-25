@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /mV27zL4m0D6rERLu2Mz/A
+! Checksum: zCCNfRC2esEetsQhBgrang
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Mar 2017 21:25:21 -0400
+! Last Modified: Sat, 25 Mar 2017 08:27:21 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -43,6 +43,7 @@
 ||crossfire.co.kr
 ||d2pass.com
 ||darpa.mil
+||deezer.com
 ||desipro.de
 ||dish.com
 |http://img.dlsite.jp/
@@ -192,7 +193,7 @@ share.dmhy.org
 174.142.105.153
 69.65.19.160
 
-!-------------Non-Latin Domain Names------------
+!----------------------IDN----------------------
 ||xn--4gq171p.com
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 
@@ -603,6 +604,7 @@ blogspot.com
 ||webrtc.org
 ||whatbrowser.org
 ||withgoogle.com
+||xn--ngstr-lra8j.com
 ||youtu.be
 .youtube.com
 ||youtube.com
@@ -974,6 +976,7 @@ atgfw.org
 ||atdmt.com
 .atnext.com
 ||atnext.com
+ice.audionow.com
 avaaz.org
 ||avaaz.org
 !--||avast.com
@@ -3922,6 +3925,8 @@ multiupload.com
 ||mx981.com
 .my-formosa.com
 .my-proxy.com
+.my-private-network.co.uk
+||my-private-network.co.uk
 forum.my903.com
 .myactimes.com/actimes
 .myaudiocast.com
@@ -3948,14 +3953,14 @@ mycould.com/discuz
 .myfreecams.com
 .myfreepaysite.com
 .myfreshnet.com
+.myiphide.com
+||myiphide.com
 forum.mymaji.com
 mymediarom.com/files/box
 ||mymoe.moe
 ||mymusic.net.tw
 ||myparagliding.com
 ||mypopescu.com
-.my-private-network.co.uk
-||my-private-network.co.uk
 myradio.hk/podcast
 mysinablog.com
 .myspace.com
@@ -4498,6 +4503,7 @@ psblog.name
 ||psiphon.ca
 .psiphon3.com
 ||psiphon3.com
+.psiphontoday.com
 .ptt.cc
 ||ptt.cc
 .puffstore.com
