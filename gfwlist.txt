@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: zCCNfRC2esEetsQhBgrang
+! Checksum: fW3ua1Y+dqzIW2wQc9QSkw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 25 Mar 2017 08:27:21 -0400
+! Last Modified: Thu, 06 Apr 2017 21:05:04 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6595,6 +6595,7 @@ taipei.gov.tw
 @@||dl.google.com
 @@||kh.google.com
 @@||fonts.googleapis.com
+@@||storage.googleapis.com
 @@||cn.gravatar.com
 @@||csi.gstatic.com
 @@||fonts.gstatic.com
