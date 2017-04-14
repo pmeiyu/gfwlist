@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: HM/uvFOvt3PLw3qt2Rb2fA
+! Checksum: cz6wl8mVrDcX6FT5m0MWMw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 13 Apr 2017 23:47:02 -0400
+! Last Modified: Thu, 13 Apr 2017 23:49:36 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -47,6 +47,7 @@
 ||desipro.de
 ||dish.com
 |http://img.dlsite.jp/
+||dm530.net
 share.dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
