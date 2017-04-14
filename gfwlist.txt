@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: liYXt5A/ixl2WgZYfGSzJg
+! Checksum: HM/uvFOvt3PLw3qt2Rb2fA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 13 Apr 2017 23:37:55 -0400
+! Last Modified: Thu, 13 Apr 2017 23:47:02 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -397,6 +397,7 @@ d1b183sg0nvnuh.cloudfront.net
 d1c37gjwa26taa.cloudfront.net
 |https://d1c37gjwa26taa.cloudfront.net
 d3c33hcgiwev3.cloudfront.net
+|https://d3c33hcgiwev3.cloudfront.net
 ||d3rhr7kgmtrq1v.cloudfront.net
 
 !!---DtDNS---
