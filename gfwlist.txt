@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: cz6wl8mVrDcX6FT5m0MWMw
+! Checksum: OYPlhNDFAwVNOvuDf6M1Tg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 13 Apr 2017 23:49:36 -0400
+! Last Modified: Wed, 26 Apr 2017 20:25:48 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4154,6 +4154,7 @@ ntdtvla.com
 ||nuexpo.com
 .nukistream.com
 ||nurgo-software.com
+||nutaku.net
 .nuvid.com
 nuzcom.com
 .nvquan.org
@@ -4164,7 +4165,8 @@ nuzcom.com
 nylon-angel.com
 nylonstockingsonline.com
 !--nysingtao.com
-!--||nyt.com
+static01.nyt.com
+||static01.nyt.com
 .nytchina.com
 nytcn.me
 ||nytco.com
@@ -5111,6 +5113,7 @@ sun1911.com
 .suoluo.org
 .supervpn.net
 ||supervpn.net
+.suppig.net
 .suprememastertv.com
 |http://suprememastertv.com
 .surfeasy.com
@@ -6168,6 +6171,7 @@ winwhispers.info
 |http://wokar.org
 wolfax.com
 ||wolfax.com
+||woolyss.com
 woopie.jp
 ||woopie.jp
 woopie.tv
