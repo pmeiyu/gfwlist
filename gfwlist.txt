@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: OYPlhNDFAwVNOvuDf6M1Tg
+! Checksum: dXlb//Hr8MYgKNAxp6hMvA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 26 Apr 2017 20:25:48 -0400
+! Last Modified: Wed, 26 Apr 2017 20:43:47 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -154,6 +154,7 @@ share.dmhy.org
 ||ramcity.com.au
 ||rd.com
 ||rdio.com
+|https://riseup.net
 ||sadistic-v.com
 |http://cdn*.search.xxx/
 ||shutterstock.com
@@ -738,6 +739,8 @@ taiwannation.50webs.com
 .8-d.com
 |http://8-d.com
 85cc.net
+.85cc.us
+|http://85cc.us
 |http://85st.com
 .881903.com/page/zh-tw/
 ||881903.com
@@ -2120,6 +2123,8 @@ fangeming.com
 en.favotter.net
 !--||rnw.global.ssl.fastly.net
 !--|https://*global.ssl.fastly.net/
+nytimes.map.fastly.net
+||nytimes.map.fastly.net
 ||fast.wistia.com
 
 ||fastssh.com
@@ -3534,6 +3539,7 @@ killwall.com
 ||kompozer.net
 .konachan.com
 |http://konachan.com
+.kone.com
 ||koolsolutions.com
 .koornk.com
 ||koornk.com
