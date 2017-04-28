@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: AJ5L9qwmLFDfSRJa5Q24NA
+! Checksum: rWivBEhQF0elzW8N/bWgKA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 26 Apr 2017 21:47:42 -0400
+! Last Modified: Thu, 27 Apr 2017 23:31:20 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4175,9 +4175,11 @@ nuzcom.com
 nylon-angel.com
 nylonstockingsonline.com
 !--nysingtao.com
+||a1.nyt.com
 static01.nyt.com
 ||static01.nyt.com
-.nytchina.com
+||typeface.nyt.com
+nytchina.com
 nytcn.me
 ||nytco.com
 |http://nyti.ms/
@@ -5303,6 +5305,7 @@ tiananmenmother.org
 .tianlawoffice.com
 ||tianti.io
 tiantibooks.org
+||tiantibooks.org
 .tianzhu.org
 .tibet.at
 tibet.ca
