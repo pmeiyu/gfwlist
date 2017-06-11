@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: kzOLkQgKoWljQlxmdGKWeA
+! Checksum: mhSDxWNkfa/5hnJhxI50eA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 10 Jun 2017 22:36:43 -0400
+! Last Modified: Sat, 10 Jun 2017 23:00:50 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -5597,6 +5597,8 @@ tvider.com
 .tvmost.com.hk
 .tvplayvideos.com
 ||tvunetworks.com
+.tw-blog.com
+|https://tw-blog.com
 .tw-npo.org
 .twaitter.com
 twapperkeeper.com
