@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: iQniKxh0I5dvbJqJ6uydQg
+! Checksum: qHB1h1PV/FZRAx1NMeYOqA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 23 Jun 2017 06:44:33 -0400
+! Last Modified: Fri, 23 Jun 2017 06:53:11 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -448,6 +448,7 @@ d3c33hcgiwev3.cloudfront.net
 ||m.me
 ||messenger.com
 ||oculus.com
+||rocksdb.org
 
 !!---Google---
 !###https://www.google.com/supported_domains###
