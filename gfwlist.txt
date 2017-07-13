@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fkYyE+WTgZNaUyc2MBgXxQ
+! Checksum: MDMg9oupPncqQ3xENrwknQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 12 Jul 2017 22:29:14 -0400
+! Last Modified: Wed, 12 Jul 2017 22:45:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1272,8 +1272,8 @@ bunbunhk.com
 .businessinsider.com/internet-outages-reported-in-north-korea-2014
 .businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014
 .businessinsider.com/nfl-announcers-surface-tablets-2014
+.businessinsider.com/panama-papers
 .businessinsider.com/umbrella-man-hong-kong-2014
-|http://static*.businessinsider.com/
 |http://www.businessinsider.com.au/*
 .businessweek.com
 .busu.org/news
