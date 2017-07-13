@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: TZF/7R6dT4FPT2MdwcEi0A
+! Checksum: 3QZTfQhn+nOXsXB+WtZF3g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 12 Jul 2017 22:10:16 -0400
+! Last Modified: Wed, 12 Jul 2017 22:16:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2532,7 +2532,7 @@ gfbv.de
 ||gfsale.com
 gfw.org.ua
 .gfw.press
-|http://gfw.press
+||gfw.press
 .ggssl.com
 ||ggssl.com
 ||ghost.org
