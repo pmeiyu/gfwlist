@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3QZTfQhn+nOXsXB+WtZF3g
+! Checksum: fkYyE+WTgZNaUyc2MBgXxQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 12 Jul 2017 22:16:19 -0400
+! Last Modified: Wed, 12 Jul 2017 22:29:14 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6492,7 +6492,8 @@ zhongguotese.net
 ||zhongguotese.net
 ||zhongmeng.org
 ||zhreader.com
-zhuangbi.me/account/login/url-Lw==
+.zhuangbi.me
+||zhuangbi.me
 .zhuanxing.cn
 ||zhuatieba.com
 zhuichaguoji.org
