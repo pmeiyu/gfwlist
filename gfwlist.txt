@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: x1SiHjKJj2Gc+gEFcL2XAw
+! Checksum: SKjpQFxxN/ubjUrtyoeieA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 16 Jul 2017 22:43:19 -0400
+! Last Modified: Sun, 16 Jul 2017 22:56:02 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -152,6 +152,7 @@ share.dmhy.org
 ||pandora.com
 .pandora.tv
 ||parkansky.com
+||phmsociety.org
 |http://*.pimg.tw/
 ||pure18.com
 ||qq.co.za
@@ -4221,6 +4222,7 @@ nytcn.me
 ||nytimg.com
 userapi.nytlog.com
 cn.nytstyle.com
+||nytstyle.com
 .nzchinese.com
 ||nzchinese.net.nz
 
@@ -5605,6 +5607,7 @@ tuitwit.com
 !--@@||media.tumblr.com
 !--@@||static.tumblr.com
 !--@@||www.tumblr.com
+|http://blog.soylent.com/
 
 .tv.com
 |http://tv.com
