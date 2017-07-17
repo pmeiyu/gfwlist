@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: p0Qs1hlA5cDbTt2mYp/HiQ
+! Checksum: x1SiHjKJj2Gc+gEFcL2XAw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 16 Jul 2017 21:54:51 -0400
+! Last Modified: Sun, 16 Jul 2017 22:43:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -889,6 +889,7 @@ www1.american.edu/ted/ice/tibet
 |http://amitabhafoundation.us
 .amnesty.org
 ||amnesty.org
+||amnesty.org.hk
 .amnesty.tw
 .amnestyusa.org
 ||amnestyusa.org
@@ -1245,6 +1246,7 @@ briian.com/6511/freegate
 .briefdream.com/%E7%B4%A0%E6%A3%BA
 brizzly.com
 ||brizzly.com
+||brkmd.com
 broadbook.com
 .broadpressinc.com
 ||broadpressinc.com
@@ -1255,6 +1257,7 @@ brucewang.net
 .bt2mag.com
 ||bt95.com
 .btaia.com
+.btbtav.com
 |http://btdigg.org
 .btku.me
 ||btku.me
@@ -3323,7 +3326,7 @@ internetfreedom.org
 inxian.com
 ||inxian.com
 ipalter.com
-||ipcf.org.tw
+!--||ipcf.org.tw
 ||iphone4hongkong.com
 ||iphonehacks.com
 ||iphonetaiwan.org
@@ -4503,6 +4506,8 @@ provpnaccounts.com
 proxyanonimo.es
 .proxynetwork.org.uk
 ||proxynetwork.org.uk
+.pscp.tv
+||pscp.tv
 ||pts.org.tw
 .pttvan.org
 pubu.com.tw
@@ -4723,7 +4728,7 @@ robtex.com
 ||rocket-inc.net
 |http://www2.rocketbbs.com/11/bbs.cgi?id=5mus
 |http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl
-||rocmp.org
+!--||rocmp.org
 ||rojo.com
 ||ronjoneswriter.com
 ||rolia.net
