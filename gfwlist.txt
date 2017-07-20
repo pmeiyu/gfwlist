@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: BJY5/6Eh3ycuLaoIBPnhcw
+! Checksum: N8jdZTxX3BrQlyrK+Byt3w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 19 Jul 2017 21:46:00 -0400
+! Last Modified: Wed, 19 Jul 2017 21:51:32 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2230,6 +2230,7 @@ fleshbot.com
 ||staticflickr.com
 
 flickrhivemind.net
+.flickriver.com
 .fling.com
 ||flipkart.com
 |http://cn.fmnnow.com
@@ -2241,7 +2242,6 @@ pioneer-worker.forums-free.com
 !--foursquare.com
 !--|http://4sq.com
 |https://ss*.4sqi.net
-||fotop.net
 video.foxbusiness.com
 |http://foxgay.com
 ||fringenetwork.com
@@ -3540,6 +3540,7 @@ karkhung.com
 .kechara.com
 .keepandshare.com/visit/visit_page.php?i=688154
 !--||keepvid.com
+.keezmovies.com
 .kendincos.net
 .kenengba.com
 ||kenengba.com
