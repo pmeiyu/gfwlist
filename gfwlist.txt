@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2vuTzezsSXhLpzyYUKtoJQ
+! Checksum: BJY5/6Eh3ycuLaoIBPnhcw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 19 Jul 2017 20:32:05 -0400
+! Last Modified: Wed, 19 Jul 2017 21:46:00 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -29,6 +29,7 @@
 ||asianspiss.com
 ||athenaeizou.com
 ||azubu.tv
+||banorte.com
 !--||barracuda.com
 ||bash-hackers.org
 ||beeg.com
@@ -1423,6 +1424,7 @@ cdpwu.org
 ||changp.com
 .changsa.net
 |http://changsa.net
+.channel8news.sg/news8
 .chapm25.com
 .chaturbate.com
 .chuang-yen.org
@@ -2040,7 +2042,8 @@ wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
 etaiwannews.com
 ||etizer.org
 ||etokki.com
-.ettoday.net
+!--.ettoday.net
+.ettoday.net/news/20151216/614081
 etvonline.hk
 .eu.org
 ||eu.org
@@ -2350,7 +2353,11 @@ hk.frienddy.com/hk
 .ftchinese.com/channel/video
 .ftchinese.com/story/00102753
 .ftchinese.com/story/001026807
+.ftchinese.com/story/001030502
 .ftchinese.com/story/001032692
+.ftchinese.com/story/001034926
+.ftchinese.com/story/001034927
+.ftchinese.com/story/001034928
 .ftchinese.com/story/001037090
 .ftchinese.com/story/001037091
 .ftchinese.com/story/001038220
@@ -2435,6 +2442,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001071181
 .ftchinese.com/story/001071208
 .ftchinese.com/story/001071238
+.ftchinese.com/story/001073408
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/comments
@@ -2491,6 +2499,7 @@ gardennetworks.com
 !--IP of Garden Network
 72.52.81.22
 ||gartlive.com
+||gate-project.com
 ||gather.com
 gati.org.tw
 .gaybubble.com
@@ -4383,6 +4392,7 @@ pdetails.com
 ||peace.ca
 peacefire.org
 peacehall.com
+||peacehall.com
 |http://pearlher.org
 .peeasian.com
 .pekingduck.org
