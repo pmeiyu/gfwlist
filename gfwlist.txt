@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: N8jdZTxX3BrQlyrK+Byt3w
+! Checksum: 71wNjsk5j6HB6muEvpCsiw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 19 Jul 2017 21:51:32 -0400
+! Last Modified: Sun, 23 Jul 2017 22:29:52 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2446,6 +2446,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/comments
+.ftv.com.tw
 fucd.com
 .fuckcnnic.net
 ||fuckcnnic.net
@@ -5788,6 +5789,8 @@ twurl.nl
 ||embr.in
 
 !--------------------UU-------------------------
+.u9un.com
+||u9un.com
 .ubddns.org
 |http://ubddns.org
 ||uberproxy.net
@@ -6707,6 +6710,7 @@ taipei.gov.tw
 @@||so.com
 @@||soso.com
 @@||taobao.com
+@@||uluai.com.cn
 @@||weibo.com
 @@||yahoo.cn
 @@||youdao.com
