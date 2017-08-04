@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: VYjegRTyj0sqx1dM8mAxDQ
+! Checksum: zxOJazTpH5m7JteQcItURg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 02 Aug 2017 00:55:01 -0400
+! Last Modified: Thu, 03 Aug 2017 22:58:44 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -197,6 +197,7 @@ share.dmhy.org
 ||wheretowatch.com
 ||wingamestore.com
 ||wizcrafts.net
+||vod.wwe.com
 ||xfinity.com
 ||ytn.co.kr
 ||zattoo.com
