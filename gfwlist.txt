@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: dloFWU5YewFo0vjah2yJ2g
+! Checksum: SDvoDAVgoZi9a06Ugg+u9A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 03 Aug 2017 23:19:23 -0400
+! Last Modified: Thu, 03 Aug 2017 23:28:09 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -45,6 +45,7 @@
 ||crossfire.co.kr
 ||d2pass.com
 ||darpa.mil
+||dawangidc.com
 ||deezer.com
 ||desipro.de
 ||dish.com
@@ -3279,6 +3280,7 @@ ifjc.org
 ||ihakka.net
 .ihao.org/dz5
 ||iicns.com
+.ikstar.com
 ||illusionfactory.com
 ||ilove80.be
 ||im.tv
