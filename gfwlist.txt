@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2K4fS/BdXM8t7GJdhNAS0Q
+! Checksum: 2RPD4vwbDqRwJxHeVEHwiQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 09 Aug 2017 22:31:14 -0400
+! Last Modified: Thu, 10 Aug 2017 01:07:41 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -49,6 +49,7 @@
 ||dawangidc.com
 ||deezer.com
 ||desipro.de
+||dingchin.com.tw
 ||dish.com
 |http://img.dlsite.jp/
 ||dm530.net
@@ -1307,6 +1308,7 @@ busytrade.com
 .buzzhand.net
 .buzzorange.com
 ||buzzorange.com
+||bvpn.com
 bwsj.hk
 ||bx.tl
 
@@ -1858,6 +1860,8 @@ dongtaiwang.com
 .dotplane.com
 ||dotplane.com
 ||dotsub.com
+.dotvpn.com
+||dotvpn.com
 .doub.io
 ||doub.io
 ||dougscripts.com
@@ -2549,6 +2553,7 @@ geocities.jp
 ||geohot.com
 ||geometrictools.com
 .gerefoundation.org
+||getastrill.com
 .getchu.com
 .getcloak.com
 ||getcloak.com
@@ -3703,6 +3708,7 @@ abitno.linpie.com/use-ipv6-to-fuck-gfw
 linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lionsroar.com
 .lipuman.com
+||liquidvpn.com
 ||greatfire.us7.list-manage.com
 ||listentoyoutube.com
 listorious.com
@@ -4079,6 +4085,8 @@ namgyalmonastery.org
 .naol.ca
 .naol.cc
 uighur.narod.ru
+.nat.moe
+||nat.moe
 cyberghost.natado.com
 ||national-lottery.co.uk
 news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
@@ -4275,6 +4283,8 @@ www2.ohchr.org/english/bodies/cat/docs/ngos/II_China_41.pdf
 .oikos.com.tw/v4
 .oiktv.com
 oizoblog.com
+.ok.ru
+||ok.ru
 .okayfreedom.com
 ||okayfreedom.com
 okk.tw
@@ -4371,6 +4381,7 @@ paljorpublications.com
 .paltalk.com
 ||pangci.net
 ||panacom.co.jp
+||pandapow.co
 .pandapow.net
 .pandavpn-jp.com
 .panluan.net
@@ -5387,6 +5398,7 @@ tibet.fr
 tibet.nu
 .tibet.org
 ||tibet.org
+.tibet.sk
 tibet.org.tw
 .tibet.to
 .tibet-envoy.eu
@@ -5476,6 +5488,8 @@ tibetsites.com
 tibettimes.net
 ||tibetwrites.org
 .ticket.com.tw
+.tigervpn.com
+||tigervpn.com
 .timdir.com
 |http://timdir.com
 .time.com
@@ -5599,6 +5613,8 @@ bbs.tuitui.info
 .tunein.com
 |http://tunein.com
 ||tunnelbear.com
+.tunnelr.com
+||tunnelr.com
 .tuo8.blue
 ||tuo8.blue
 .tuo8.cc
@@ -5698,6 +5714,7 @@ tweetree.com
 ||tweettunnel.com
 ||tweetwally.com
 tweetymail.com
+||twelve.today
 ||twftp.org
 twibase.com
 .twibble.de
@@ -5844,6 +5861,7 @@ ultravpn.fr
 ultraxs.com
 umich.edu/~falun
 ||unblock.cn.com
+.unblocker.yt
 unblock-us.com
 ||unblock-us.com
 .unblockdmm.com
@@ -6005,6 +6023,7 @@ vocn.tv
 .voxer.com
 ||voxer.com
 .voy.com
+||vpn.ac
 .vpn4all.com
 ||vpn4all.com
 .vpnaccount.org
@@ -6035,6 +6054,8 @@ vpnhq.com
 ||vpninja.net
 .vpnintouch.com
 ||vpnintouch.net
+vpnjack.com
+||vpnjack.com
 .vpnpick.com
 ||vpnpick.com
 ||vpnpop.com
@@ -6046,6 +6067,8 @@ vpnhq.com
 ||vpnsecure.me
 .vpnshazam.com
 ||vpnshazam.com
+.vpnshieldapp.com
+||vpnshieldapp.com
 .vpnsp.com
 .vpntraffic.com
 .vpntunnel.com
@@ -6244,6 +6267,8 @@ zh-yue.wikipedia.org
 ||vegas.williamhill.com
 ||willw.net
 ||windowsphoneme.com
+.windscribe.com
+||windscribe.com
 winning11.com
 winwhispers.info
 ||wiredbytes.com
@@ -6518,6 +6543,7 @@ yx51.net
 !--------------------ZZ-------------------------
 zacebook.com
 .zalmos.com
+||zalmos.com
 ||zannel.com
 !--.zaobao.com
 .zaobao.com.sg
@@ -6528,6 +6554,9 @@ zacebook.com
 .zello.com
 ||zello.com
 .zengjinyan.org
+.zenmate.com
+||zenmate.com
+||zenmate.com.ru
 ||zeutch.com
 !--www.zfreet.com/post/usejump-browns.html
 .zfreet.com
@@ -6578,6 +6607,7 @@ zomobo.net
 ||zootool.com
 .zoozle.net
 writer.zoho.com
+||zpn.im
 .zshare.net/download
 .zsrhao.com
 .zuo.la
