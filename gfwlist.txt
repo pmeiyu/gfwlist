@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: TddN5OkUfAGottDau2ZGMw
+! Checksum: 3Yc3y8q5jDhRoZkPbFY3aw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 15 Aug 2017 02:47:27 -0400
+! Last Modified: Tue, 15 Aug 2017 03:05:51 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -75,6 +75,7 @@ share.dmhy.org
 ||gettyimages.com
 ||getuploader.com
 |https://github.com/programthink/zhao
+|https://raw.githubusercontent.com/programthink/zhao
 ||glass8.eu
 ||glype.com
 ||go141.com
@@ -4472,8 +4473,17 @@ picturesocial.com
 ||pinimg.com
 .pinkrod.com
 ||pinoy-n.com
+||pinterest.at
+||pinterest.co.kr
+||pinterest.co.uk
 .pinterest.com
 ||pinterest.com
+||pinterest.de
+||pinterest.dk
+||pinterest.fr
+||pinterest.jp
+||pinterest.nl
+||pinterest.se
 .piposay.com
 piraattilahti.org
 .piring.com
@@ -6091,7 +6101,6 @@ vraiesagesse.net
 ||vuku.cc
 
 !--------------------WW-------------------------
-||w.org
 lists.w3.org/archives/public
 !--||w3schools.com
 ||waffle1999.com
