@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3Yc3y8q5jDhRoZkPbFY3aw
+! Checksum: 5YnPTrbQu4x3WaV77jQ3SQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 15 Aug 2017 03:05:51 -0400
+! Last Modified: Tue, 15 Aug 2017 03:17:03 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1468,7 +1468,8 @@ chinaaid.org
 chinaaid.net
 chinacomments.org
 ||chinacomments.org
-chinachange.org
+.chinachange.org
+||chinachange.org
 chinachannel.hk
 ||chinachannel.hk
 .chinacitynews.be
@@ -2568,6 +2569,7 @@ geocities.jp
 .getjetso.com/forum
 getiton.com
 .getsocialscope.com
+||getsync.com
 gfbv.de
 .gfgold.com.hk
 .gfsale.com
@@ -4751,6 +4753,7 @@ renminbao.com
 ||renyurenquan.org
 |http://certificate.revocationcheck.com
 subacme.rerouted.org
+||resilio.com
 .reuters.com
 ||reuters.com
 ||reutersmedia.net
