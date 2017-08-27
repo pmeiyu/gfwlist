@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: yhQVsxxFeeJ+UxD8juk1mg
+! Checksum: 8dP+dnHOcGPYQmpGzoHobg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 27 Aug 2017 01:31:29 -0400
+! Last Modified: Sun, 27 Aug 2017 01:35:30 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -468,6 +468,7 @@ d3c33hcgiwev3.cloudfront.net
 ||oculus.com
 ||oculuscdn.com
 ||rocksdb.org
+||whatsapp.net
 
 !!---Google---
 !###https://www.google.com/supported_domains###
@@ -6205,7 +6206,6 @@ wezhiyong.org
 ||wforum.com/
 .whatblocked.com
 ||whatblocked.com
-||whatsapp.net
 .wheatseeds.org
 ||wheelockslatin.com
 .whippedass.com
@@ -6773,6 +6773,7 @@ taipei.gov.tw
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||dl.google.com
 @@||kh.google.com
+@@||tools.google.com
 @@||fonts.googleapis.com
 @@||storage.googleapis.com
 @@||cn.gravatar.com
