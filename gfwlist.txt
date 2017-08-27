@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3023ku4EucVidRLAFKovCw
+! Checksum: yhQVsxxFeeJ+UxD8juk1mg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Aug 2017 02:24:24 -0400
+! Last Modified: Sun, 27 Aug 2017 01:31:29 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -466,6 +466,7 @@ d3c33hcgiwev3.cloudfront.net
 ||m.me
 ||messenger.com
 ||oculus.com
+||oculuscdn.com
 ||rocksdb.org
 
 !!---Google---
@@ -479,6 +480,7 @@ d3c33hcgiwev3.cloudfront.net
 ||ampproject.org
 ||android.com
 ||androidify.com
+||api.ai
 .appspot.com
 ||appspot.com
 ||blog.google
@@ -2121,6 +2123,7 @@ falun-co.org
 falunart.org
 ||falunasia.info
 |http://falunau.org
+.falunaz.net
 falundafa.org
 falundafa-dc.org
 ||falundafa-florida.org
@@ -2161,6 +2164,7 @@ fail.hk
 fangeming.com
 .fangmincn.org
 ||fangmincn.org
+.fanhaodang.com
 ||fanswong.com
 .fanyue.info
 .farwestchina.com
@@ -6201,6 +6205,7 @@ wezhiyong.org
 ||wforum.com/
 .whatblocked.com
 ||whatblocked.com
+||whatsapp.net
 .wheatseeds.org
 ||wheelockslatin.com
 .whippedass.com
@@ -6426,6 +6431,7 @@ xmovies.com
 xpdo.net
 ||xpud.org
 .xrentdvd.com
+.xskywalker.net
 ||xtube.com
 blog.xuite.net
 vlog.xuite.net
