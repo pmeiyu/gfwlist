@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: gn2dbTSPe0mMXlQ1blYj5g
+! Checksum: CpODAqC+5sLcrz89kFp/Dg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 28 Aug 2017 08:11:25 -0400
+! Last Modified: Mon, 28 Aug 2017 08:20:33 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4733,6 +4733,8 @@ rapidvpn.com
 |http://raremovie.cc
 .raremovie.net
 |http://raremovie.net
+||rawgit.com
+||rawgithub.com
 !--.rayfme.com/bbs
 ||razyboard.com
 rcinet.ca
