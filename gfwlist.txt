@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8dP+dnHOcGPYQmpGzoHobg
+! Checksum: /UawEb8HWeDKC3o/AbQweQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 27 Aug 2017 01:35:30 -0400
+! Last Modified: Mon, 28 Aug 2017 03:31:37 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4544,6 +4544,7 @@ popyard.com
 ||pornhd.com
 .pornhost.com
 .pornhub.com
+||pornhub.com
 ||pornmm.net
 .pornoxo.com
 .pornrapidshare.com
