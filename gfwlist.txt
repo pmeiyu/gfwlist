@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: TzfHer3Vo6HR98gNa2aZzQ
+! Checksum: gn2dbTSPe0mMXlQ1blYj5g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 28 Aug 2017 08:02:56 -0400
+! Last Modified: Mon, 28 Aug 2017 08:11:25 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -206,6 +206,7 @@ share.dmhy.org
 ||xfinity.com
 ||ytn.co.kr
 ||zattoo.com
+||zim.vn
 ||zozotown.com
 
 !##############General List Start###############
