@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /UawEb8HWeDKC3o/AbQweQ
+! Checksum: TzfHer3Vo6HR98gNa2aZzQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 28 Aug 2017 03:31:37 -0400
+! Last Modified: Mon, 28 Aug 2017 08:02:56 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4565,6 +4565,7 @@ popyard.com
 .post852.com
 postadult.com
 .postimg.org
+||potvpn.com
 ||powercx.com
 .powerphoto.org
 ||www.powerpointninja.com
@@ -4889,6 +4890,7 @@ secretchina.com
 .securitykiss.com
 ||securitykiss.com
 ||seed4.me
+news.seehua.com
 seesmic.com
 ||seevpn.com
 ||seezone.net
@@ -4934,6 +4936,7 @@ shadow.ma
 .shadowsocks.com
 .shadowsocks.org
 ||shadowsocks.org
+||shadowsocks-r.com
 |http://cn.shafaqna.com
 .shambalapost.com
 .shambhalasun.com
@@ -5034,7 +5037,6 @@ sis001.us
 ||skimtube.com
 ||skybet.com
 |http://users.skynet.be/reves/tibethome.html
-|http://skyhighpremium.com/
 bbs.skykiwi.com
 |http://www.skype.com/intl/
 |http://www.skype.com/zh-Hant
@@ -5042,11 +5044,10 @@ bbs.skykiwi.com
 .xskywalker.com
 ||xskywalker.com
 m.slandr.net
-||slavasoft.com
 .slaytizle.com
 .sleazydream.com
 ||slheng.com
-.slideshare.net
+||slideshare.net
 forum.slime.com.tw
 .slinkset.com
 ||slickvpn.com
@@ -5064,12 +5065,7 @@ smhric.org
 ||snaptu.com
 ||sndcdn.com
 sneakme.net
-||snooper.co.uk
 snowlionpub.com
-||so-ga.net
-.so-ga.net
-||so-news.com
-.so-news.com
 home.so-net.net.tw/yisa_tsai
 ||soc.mil
 .sockscap64.com
@@ -6117,7 +6113,7 @@ vraiesagesse.net
 
 !--------------------WW-------------------------
 lists.w3.org/archives/public
-!--||w3schools.com
+||w3schools.com
 ||waffle1999.com
 .wahas.com
 .waigaobu.com
@@ -6297,6 +6293,7 @@ zh-yue.wikipedia.org
 ||windowsphoneme.com
 .windscribe.com
 ||windscribe.com
+||wingy.site
 winning11.com
 winwhispers.info
 ||wiredbytes.com
