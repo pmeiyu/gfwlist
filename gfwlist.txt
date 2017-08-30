@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Xu0kHmtCodHL96oyXrWdIA
+! Checksum: HvmJsIBM4+UThvwOX0d/ZQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 30 Aug 2017 08:26:45 -0400
+! Last Modified: Wed, 30 Aug 2017 08:45:51 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1787,8 +1787,6 @@ cn.dayabook.com
 dcmilitary.com
 .ddc.com.tw
 .ddhw.info
-!--ChangeIP
-.ddns.ms
 ddns.net
 ||de-sci.org
 .de-sci.org
@@ -2311,6 +2309,7 @@ free-gate.org
 free-proxy.cz
 .free.fr/adsl
 kineox.free.fr
+tibetlibre.free.fr
 ||freealim.com
 whitebear.freebearblog.org
 ||freebrowser.org
@@ -4877,6 +4876,8 @@ savetibet.nl
 .savetibet.org
 ||savetibet.org
 savetibet.ru
+.savetibetstore.org
+||savetibetstore.org
 savevid.com
 ||say2.info
 .sbme.me
