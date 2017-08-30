@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: KpqXmPOwt948vacCZg2K2A
+! Checksum: /W4V6fqlZO1fy68IdJzeRQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 30 Aug 2017 08:54:27 -0400
+! Last Modified: Wed, 30 Aug 2017 09:03:46 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -626,7 +626,9 @@ blogspot.com
 ||picasaweb.com
 ||polymer-project.org
 ||questvisual.com
-||recaptcha.net
+||api.recaptcha.net
+||api-secure.recaptcha.net
+||api-verify.recaptcha.net
 ||redhotlabs.com
 ||registry.google
 ||savethedate.foo
@@ -1674,6 +1676,7 @@ cpj.org
 |http://cq99.us
 crackle.com
 ||crackle.com
+.crazys.cc
 ||crchina.org
 crd-net.org
 creaders.net
