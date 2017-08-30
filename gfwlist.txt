@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: QI+LXGQxenUbmc2wBHQJGg
+! Checksum: Xu0kHmtCodHL96oyXrWdIA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 30 Aug 2017 07:09:41 -0400
+! Last Modified: Wed, 30 Aug 2017 08:26:45 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -449,6 +449,11 @@ d3c33hcgiwev3.cloudfront.net
 .from-sd.com
 .from-pr.com
 .is-a-hunter.com
+
+!!---Dynu---
+.dynu.com
+.dynu.net
+.freeddns.org
 
 !!---Facebook---
 ||facebook.br
@@ -6221,6 +6226,7 @@ fq.wikia.com
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikileaks.ch
+||wikileaks.com
 ||wikileaks.de
 ||wikileaks.eu
 ||wikileaks.lu
