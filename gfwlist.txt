@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: HvmJsIBM4+UThvwOX0d/ZQ
+! Checksum: KpqXmPOwt948vacCZg2K2A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 30 Aug 2017 08:45:51 -0400
+! Last Modified: Wed, 30 Aug 2017 08:54:27 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1180,6 +1180,7 @@ bjzc.org
 .blacklogic.com
 .blackvpn.com
 ||blackvpn.com
+blewpass.com
 tor.blingblingsquad.net
 .blinkx.com
 ||blinkx.com
@@ -1266,6 +1267,7 @@ boyangu.com
 ||break.com
 breakgfw.com
 ||breakgfw.com
+breaking911.com
 .breakingtweets.com
 ||breakingtweets.com
 ||breakwall.net
@@ -1686,6 +1688,8 @@ csdparty.com
 ||csdparty.com
 ||csuchen.de
 .csw.org.uk
+.ct.org.tw
+||ct.org.tw
 .ctao.org
 .ctfriend.net
 .ctitv.com.tw
@@ -3490,6 +3494,7 @@ jeanyim.com
 ||hk.jiepang.com
 ||tw.jiepang.com
 jieshibaobao.com
+.jigglegifs.com
 56cun04.jigsy.com
 jigong1024.com
 daodu14.jigsy.com
