@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CpODAqC+5sLcrz89kFp/Dg
+! Checksum: QI+LXGQxenUbmc2wBHQJGg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 28 Aug 2017 08:20:33 -0400
+! Last Modified: Wed, 30 Aug 2017 07:09:41 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3981,6 +3981,8 @@ wiki.moegirl.org
 ||mog.com
 molihua.org
 ||mondex.org
+.money-link.com.tw
+|http://money-link.com.tw
 |http://www.monlamit.org
 .moonbbs.com
 ||moonbbs.com
@@ -4123,6 +4125,7 @@ nccwatch.org.tw
 .ndr.de
 .ned.org
 ||nekoslovakia.net
+||nepusoku.com
 !--bbsnew.netbig.com
 bbs.netbig.com
 .netbirds.com
