@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Z8zDsXkUPVqlosl6IwExbw
+! Checksum: R96alqDnWy9oUoMCQRG3Nw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 31 Aug 2017 22:34:34 -0400
+! Last Modified: Thu, 31 Aug 2017 23:03:45 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3368,6 +3368,7 @@ website.informer.com
 .inote.tw
 .insecam.org
 |http://insecam.org
+||insidevoa.com
 .instagram.com
 ||instagram.com
 .institut-tibetain.org
@@ -6231,6 +6232,7 @@ wezhiyong.org
 whotalking.com
 whylover.com
 ||whyx.org
+|http://zh.ecdm.wikia.com
 |http://evchk.wikia.com
 fq.wikia.com
 cn.uncyclopedia.wikia.com
