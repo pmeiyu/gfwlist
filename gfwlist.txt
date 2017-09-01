@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /W4V6fqlZO1fy68IdJzeRQ
+! Checksum: Z8zDsXkUPVqlosl6IwExbw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 30 Aug 2017 09:03:46 -0400
+! Last Modified: Thu, 31 Aug 2017 22:34:34 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -889,6 +889,7 @@ aliengu.com
 ||allfinegirls.com
 .allgirlmassage.com
 allgirlsallowed.org
+.allgravure.com
 alliance.org.hk
 .allinfa.com
 |http://allinfa.com
@@ -6354,6 +6355,7 @@ worldjournal.com
 |http://*.wordpress.com
 ||cnbbnews.wordpress.com
 ||chenshan20042005.wordpress.com
+||hka8964.wordpress.com
 ||hkanews.wordpress.com
 ||jobnewera.wordpress.com
 ||sujiatun.wordpress.com
@@ -6796,6 +6798,7 @@ taipei.gov.tw
 @@||fonts.googleapis.com
 @@||storage.googleapis.com
 @@||cn.gravatar.com
+@@||connectivitycheck.gstatic.com
 @@||csi.gstatic.com
 @@||fonts.gstatic.com
 @@||haosou.com
