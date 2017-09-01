@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: R96alqDnWy9oUoMCQRG3Nw
+! Checksum: Up2mgEujwmnwEjG5ZA5eJg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 31 Aug 2017 23:03:45 -0400
+! Last Modified: Thu, 31 Aug 2017 23:15:11 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1375,6 +1375,7 @@ caochangqing.com
 cardinalkungfoundation.org
 carmotorshow.com
 .cartoonmovement.com
+||cartoonmovement.com
 .casadeltibetbcn.org
 .casatibet.org.mx
 |http://casatibet.org.mx
@@ -4214,6 +4215,7 @@ nlfreevpn.com
 
 !--no-ip.com#NOIP
 .gooddns.info
+||gotdns.ch
 .maildns.xyz
 .no-ip.org
 .opendn.xyz
@@ -5009,6 +5011,7 @@ ch.shvoong.com
 .sijihuisuo.club
 .sijihuisuo.com
 .silkbook.com
+||simbolostwitter.com
 simplecd.org
 ||simplecd.org
 @@||simplecd.me
@@ -5251,6 +5254,7 @@ sun1911.com
 .sunta.com.tw
 .sunvpn.net
 .suoluo.org
+.superfreevpn.com
 .supervpn.net
 ||supervpn.net
 .suppig.net
@@ -6418,6 +6422,7 @@ destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
 xgmyd.com
 xhamster.com
+||xhamster.com
 .xianchawang.net
 .xianjian.tw
 |http://xianjian.tw
