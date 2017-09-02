@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 77n9NV2PQ9uTpQGxWvo5hg
+! Checksum: zdXTyVm/UvDBFfGyTR6NCA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 02 Sep 2017 04:03:05 -0400
+! Last Modified: Sat, 02 Sep 2017 04:12:46 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1080,6 +1080,8 @@ badoo.com
 bannedbook.org
 ||bannedbook.org
 .bannednews.org
+.baramangaonline.com
+|http://baramangaonline.com
 .barenakedislam.com
 ||barnabu.co.uk
 bartvpn.com
@@ -1931,6 +1933,7 @@ drsunacademy.com
 .duihua.org
 ||duihua.org
 ||duihuahrjournal.org
+.dunyabulteni.net
 .duoweitimes.com
 ||duoweitimes.com
 duping.net
@@ -4536,6 +4539,7 @@ picturesocial.com
 ||pinterest.jp
 ||pinterest.nl
 ||pinterest.se
+.pipii.tv
 .piposay.com
 piraattilahti.org
 .piring.com
