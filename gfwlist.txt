@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: zdXTyVm/UvDBFfGyTR6NCA
+! Checksum: zeh4BiF+zkBBspRMt31Z4Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 02 Sep 2017 04:12:46 -0400
+! Last Modified: Thu, 07 Sep 2017 01:03:31 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -69,6 +69,7 @@ share.dmhy.org
 ||findmima.com
 ||flipboard.com
 ||flitto.com
+|https://www.ftchinese.com
 ||funkyimg.com
 ||fxnetworks.com
 ||g-area.org
@@ -226,6 +227,7 @@ share.dmhy.org
 !-----------------DNS Poisoning-----------------
 !---Amazon---
 !-||cdn-images.mailchimp.com
+|https://*.s3.amazonaws.com
 
 !----------------Frauds & Scams-----------------
 china-mmm.jp.net
@@ -3299,6 +3301,7 @@ blogs.icerocket.com/tag
 !-- Google Pages
 ||icu-project.org
 w.idaiwan.com/forum
+||iddddg.com
 idemocracy.asia
 .identi.ca
 ||identi.ca
@@ -3672,6 +3675,7 @@ kwongwah.com.my
 kyohk.net
 ||kyoyue.com
 .kyzyhello.com
+||kyzyhello.com
 .kzeng.info
 ||kzeng.info
 
@@ -3974,6 +3978,7 @@ minghui-school.org
 mingjingnews.com
 ||mingjingtimes.com
 .mingpao.com
+||mingpao.com
 .mingpaocanada.com
 .mingpaomonthly.com
 |http://mingpaomonthly.com
@@ -4242,6 +4247,7 @@ nlfreevpn.com
 .maildns.xyz
 .no-ip.org
 .opendn.xyz
+.servehttp.com
 sytes.net
 .whodns.xyz
 .zapto.org
@@ -5099,6 +5105,7 @@ bbs.skykiwi.com
 ||skyvegas.com
 .xskywalker.com
 ||xskywalker.com
+||skyxvpn.com
 m.slandr.net
 .slaytizle.com
 .sleazydream.com
@@ -5924,6 +5931,7 @@ twurl.nl
 ||uderzo.it
 .udn.com
 ||udn.com
+||udn.com.tw
 udnbkk.com/bbs
 ||uforadio.com.tw
 ufreevpn.com
