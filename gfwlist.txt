@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: zeh4BiF+zkBBspRMt31Z4Q
+! Checksum: 4Mom/Qfs4KAF/oXGVw8mzg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 07 Sep 2017 01:03:31 -0400
+! Last Modified: Sat, 09 Sep 2017 02:22:11 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -69,7 +69,6 @@ share.dmhy.org
 ||findmima.com
 ||flipboard.com
 ||flitto.com
-|https://www.ftchinese.com
 ||funkyimg.com
 ||fxnetworks.com
 ||g-area.org
@@ -2403,6 +2402,9 @@ hk.frienddy.com/hk
 ||frootvpn.com
 ||fscked.org
 .fsurf.com
+
+!!---FTChinese---
+|https://www.ftchinese.com
 .ftchinese.com/channel/video
 .ftchinese.com/story/00102753
 .ftchinese.com/story/001026807
@@ -2497,6 +2499,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001071181
 .ftchinese.com/story/001071208
 .ftchinese.com/story/001071238
+.ftchinese.com/story/001072895
 .ftchinese.com/story/001073408
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
@@ -2618,6 +2621,8 @@ gfw.org.ua
 .ghostpath.com
 ||ghostpath.com
 ||ghut.org
+.giantessnight.com
+|http://giantessnight.com
 .gifree.com
 ||giga-web.jp
 tw.gigacircle.com
