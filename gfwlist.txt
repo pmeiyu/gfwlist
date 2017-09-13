@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: WCMjznlrIlZA+lwp1p+aWQ
+! Checksum: DuOkbZ6kMvAkK0hP2+hhBQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 09 Sep 2017 03:01:52 -0400
+! Last Modified: Tue, 12 Sep 2017 20:24:11 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6742,6 +6742,7 @@ zhengjian
 
 !-------------------TW Govs---------------------
 .gov.tw
+||post.gov.tw
 ||tacc.cwb.gov.tw
 immigration.gov.tw
 ||mjib.gov.tw
