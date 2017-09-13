@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: G0RAwVABXulRHLn0y3+iXw
+! Checksum: DIyqnypjEYCRqKmjvIekCA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 12 Sep 2017 22:14:25 -0400
+! Last Modified: Tue, 12 Sep 2017 23:22:43 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -221,6 +221,7 @@ share.dmhy.org
 
 !----------------------IDN----------------------
 ||xn--4gq171p.com
+||xn--i2ru8q2qg.com
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 
 !-----------------DNS Poisoning-----------------
