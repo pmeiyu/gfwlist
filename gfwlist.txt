@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DuOkbZ6kMvAkK0hP2+hhBQ
+! Checksum: OiAM4kvSNYhseioTb1fo8g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 12 Sep 2017 20:24:11 -0400
+! Last Modified: Tue, 12 Sep 2017 20:35:36 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1357,6 +1357,7 @@ cn.calameo.com
 .calgarychinese.com
 .calgarychinese.net
 |http://blog.calibre-ebook.com
+|http://google.calstate.edu
 falun.caltech.edu
 .its.caltech.edu/~falun/
 .cam4.com
@@ -2448,6 +2449,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001057533
 .ftchinese.com/story/001058295
 .ftchinese.com/story/001058344
+.ftchinese.com/story/001058421
 .ftchinese.com/story/001058458
 .ftchinese.com/story/001058468
 .ftchinese.com/story/001058561
@@ -2502,6 +2504,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001071238
 .ftchinese.com/story/001072895
 .ftchinese.com/story/001073408
+.ftchinese.com/story/001074110
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/comments
@@ -6052,6 +6055,8 @@ vansky.com
 .velkaepocha.sk
 .venbbs.com
 .venchina.com
+.venetianmacao.com
+||venetianmacao.com
 veoh.com
 mysite.verizon.net
 vermonttibet.org
