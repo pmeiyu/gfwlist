@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 6WjMMHBZgWGWO+4ANO2y8w
+! Checksum: PJ2pvpNU0nagaXjn7UUtJg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 21 Sep 2017 07:43:07 -0400
+! Last Modified: Thu, 21 Sep 2017 07:51:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6293,6 +6293,7 @@ vpnjack.com
 .vpser.net
 @@||vpser.net
 vraiesagesse.net
+.vrmtr.com
 ||vtunnel.com
 ||vuku.cc
 
