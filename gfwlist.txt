@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: B2OVCFHfVqUUanP8h4K2SQ
+! Checksum: 6WjMMHBZgWGWO+4ANO2y8w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 21 Sep 2017 07:01:49 -0400
+! Last Modified: Thu, 21 Sep 2017 07:43:07 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -242,6 +242,7 @@ china-mmm.sa.com
 
 !---------------------Groups--------------------
 !!---Afraid FreeDNS---
+.allowed.org
 .now.im
 
 !!---Amazon---
@@ -781,6 +782,8 @@ taipei.gov.tw
 !--@@||tchb.gov.tw
 !--@@||tcsac.gov.tw
 !--@@||tncsec.gov.tw
+
+||kinmen.org.tw
 
 !------------------Numerics---------------------
 .030buy.com
@@ -2524,6 +2527,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001042100
 .ftchinese.com/story/001042252
 .ftchinese.com/story/001042272
+.ftchinese.com/story/001043534
 .ftchinese.com/story/001044776
 .ftchinese.com/story/001045755
 .ftchinese.com/story/001046118
@@ -2542,6 +2546,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001055299
 .ftchinese.com/story/001055551
 .ftchinese.com/story/001055559
+.ftchinese.com/story/001056131
 .ftchinese.com/story/001056529
 .ftchinese.com/story/001056554
 .ftchinese.com/story/001056567
@@ -6863,8 +6868,20 @@ zhengjian
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||dl.google.com
 @@||kh.google.com
+@@||khm.google.com
+@@||khm0.google.com
+@@||khm1.google.com
+@@||khm2.google.com
+@@||khm3.google.com
+@@||khmdb.google.com
 @@||tools.google.com
 @@||fonts.googleapis.com
+@@||khm.googleapis.com
+@@||khm0.googleapis.com
+@@||khm1.googleapis.com
+@@||khm2.googleapis.com
+@@||khm3.googleapis.com
+@@||khmdb.googleapis.com
 @@||storage.googleapis.com
 @@||cn.gravatar.com
 @@||connectivitycheck.gstatic.com
