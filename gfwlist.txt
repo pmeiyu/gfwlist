@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 9GRijsi4DvoHEKiXXzCusA
+! Checksum: B2OVCFHfVqUUanP8h4K2SQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 21 Sep 2017 05:12:38 -0400
+! Last Modified: Thu, 21 Sep 2017 07:01:49 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -176,6 +176,7 @@ share.dmhy.org
 ||slacker.com
 ||sm-miracle.com
 ||spotify.com
+||spreadshirt.es
 ||springboardplatform.com
 ||sprite.org
 @@|http://store.sprite.org
@@ -221,6 +222,7 @@ share.dmhy.org
 
 !----------------------IDN----------------------
 ||xn--4gq171p.com
+||xn--czq75pvv1aj5c.org
 ||xn--i2ru8q2qg.com
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 
@@ -3953,7 +3955,7 @@ lvhai.org
 |http://lyfhk.net
 
 !--------------------MM-------------------------
-.m-team.cc
+http://*.m-team.cc
 !--m-team.cc/forum
 .macrovpn.com
 macts.com.tw
@@ -4689,6 +4691,7 @@ pobieramy.top
 zh.pokerstrategy.com
 politicalchina.org
 politicalconsultation.org
+||poloniex.com
 .polymerhk.com
 |http://polymerhk.com
 .popo.tw
