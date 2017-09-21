@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: gSkzCTUI4mNOuB3+LYO/aw
+! Checksum: 9GRijsi4DvoHEKiXXzCusA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 18 Sep 2017 03:23:01 -0400
+! Last Modified: Thu, 21 Sep 2017 05:12:38 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -537,7 +537,7 @@ blogspot.com
 .google.ba
 .google.be
 .google.bg
-.google.cat
+.google.ca
 .google.cd
 .google.ci
 .google.co.id
@@ -3175,7 +3175,6 @@ hentaitube.tv
 ||cl.ly
 @@||f.cl.ly
 ||getsmartlinks.com
-||git-scm.com
 
 heqinglian.net
 ||heungkongdiscuss.com
@@ -4400,6 +4399,7 @@ ntdtv.ru
 ntdtvla.com
 .ntrfun.com
 ||cbs.ntu.edu.tw
+||media.nu.nl
 .nubiles.net
 ||nuexpo.com
 .nukistream.com
@@ -6638,6 +6638,7 @@ page.bid.yahoo.com
 tw.bid.yahoo.com
 |https://tw.bid.yahoo.com
 blogs.yahoo.co.jp
+||search.yahoo.co.jp
 buy.yahoo.com.tw/gdsale
 hk.yahoo.com
 hk.knowledge.yahoo.com
