@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2PK7F7HSu3CcIo2uWrUpaQ
+! Checksum: bYPPJNjT9uVCMYSGrb8lIg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 23 Sep 2017 21:56:39 -0400
+! Last Modified: Sat, 23 Sep 2017 23:42:29 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2630,7 +2630,10 @@ www.ftchinese.com/story/001067479
 ftchinese.com/story/001071200
 .ftchinese.com/story/001071208
 .ftchinese.com/story/001071238
+.ftchinese.com/story/001072271
+.ftchinese.com/story/001072677
 .ftchinese.com/story/001072895
+.ftchinese.com/story/001073043
 .ftchinese.com/story/001073408
 .ftchinese.com/story/001074110
 .ftchinese.com/video/1437
