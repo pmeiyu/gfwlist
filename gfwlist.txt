@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: FRTWjuodXW9E/IOFRgBZuQ
+! Checksum: x1NSbXxpCcq4YemauyVslA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 30 Sep 2017 21:44:11 -0400
+! Last Modified: Sat, 30 Sep 2017 22:13:35 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1024,6 +1024,7 @@ alliance.org.hk
 |http://allinfa.com
 .alljackpotscasino.com
 ||allmovie.com
+||almasdarnews.com
 .alphaporno.com
 ||alternate-tools.com
 alternativeto.net/software
@@ -3767,6 +3768,8 @@ wiki.keso.cn/Home
 .khabdha.org
 .khmusic.com.tw
 ||kichiku-doujinko.com
+.kik.com
+||kik.com
 bbs.kimy.com.tw
 .kindleren.com
 |http://kindleren.com
