@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: x1NSbXxpCcq4YemauyVslA
+! Checksum: 4eCoa8uNxMHhbfMgq1TDBQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 30 Sep 2017 22:13:35 -0400
+! Last Modified: Sat, 30 Sep 2017 22:18:59 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6427,6 +6427,8 @@ wezhiyong.org
 ||wheelockslatin.com
 .whippedass.com
 !--|http://who.is/
+.whoer.net
+||whoer.net
 whotalking.com
 whylover.com
 ||whyx.org
