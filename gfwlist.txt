@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: tddWW+WFBnIlDP1y5jZPPQ
+! Checksum: NM7MibKCeYeFi070dzSt0A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 Oct 2017 00:33:46 -0400
+! Last Modified: Wed, 04 Oct 2017 01:04:35 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1809,8 +1809,10 @@ corumcollege.com
 |http://cos-moe.com
 .cosplayjav.pl
 |http://cosplayjav.pl
-||couchdbwiki.com
+.cotweet.com
 ||cotweet.com
+.coursehero.com
+||coursehero.com
 cpj.org
 ||cpj.org
 .cq99.us
@@ -2642,12 +2644,16 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001072271
 .ftchinese.com/story/001072677
 .ftchinese.com/story/001072895
+.ftchinese.com/story/001072993
 .ftchinese.com/story/001073043
+.ftchinese.com/story/001073103
 .ftchinese.com/story/001073246
 .ftchinese.com/story/001073408
+.ftchinese.com/story/001073537
 .ftchinese.com/story/001073672
 .ftchinese.com/story/001074089
 .ftchinese.com/story/001074110
+.ftchinese.com/story/001074157
 .ftchinese.com/story/001074423
 .ftchinese.com/story/001074467
 .ftchinese.com/story/001074550
@@ -5788,6 +5794,7 @@ top81.ws
 .topnews.in
 .torguard.net
 ||torguard.net
+||top.tv
 .topshareware.com
 .topsy.com
 ||topsy.com
