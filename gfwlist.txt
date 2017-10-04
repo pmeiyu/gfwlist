@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: q1PfbIsRTiNKvVY5e+ebqA
+! Checksum: tddWW+WFBnIlDP1y5jZPPQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 03 Oct 2017 20:54:17 -0400
+! Last Modified: Wed, 04 Oct 2017 00:33:46 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -186,6 +186,7 @@ share.dmhy.org
 ||superpages.com
 ||swagbucks.com
 ||switch1.jp
+||t.me
 ||tapanwap.com
 ||target.com
 @@||intl.target.com
@@ -2197,6 +2198,7 @@ epochtimestr.com
 .eporner.com
 .equinenow.com
 erabaru.net
+.eracom.com.tw
 .eraysoft.com.tr
 .erepublik.com
 .erights.net
@@ -2552,9 +2554,12 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001042252
 .ftchinese.com/story/001042272
 .ftchinese.com/story/001043534
+.ftchinese.com/story/001043849
+.ftchinese.com/story/001044099
 .ftchinese.com/story/001044776
 .ftchinese.com/story/001045755
 .ftchinese.com/story/001046118
+.ftchinese.com/story/001047317
 .ftchinese.com/story/001047345
 .ftchinese.com/story/001047375
 .ftchinese.com/story/001047545
@@ -2629,6 +2634,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001070990
 .ftchinese.com/story/001071042
 .ftchinese.com/story/001071106
+.ftchinese.com/story/001071166
 .ftchinese.com/story/001071181
 ftchinese.com/story/001071200
 .ftchinese.com/story/001071208
@@ -2637,8 +2643,12 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001072677
 .ftchinese.com/story/001072895
 .ftchinese.com/story/001073043
+.ftchinese.com/story/001073246
 .ftchinese.com/story/001073408
+.ftchinese.com/story/001073672
+.ftchinese.com/story/001074089
 .ftchinese.com/story/001074110
+.ftchinese.com/story/001074423
 .ftchinese.com/story/001074467
 .ftchinese.com/story/001074550
 .ftchinese.com/video/1437
@@ -5114,6 +5124,7 @@ sesawe.net
 .sesawe.org
 ||sethwklein.net
 .setn.com
+.settv.com.tw
 forum.setty.com.tw
 .sevenload.com
 ||sevenload.com
@@ -6596,6 +6607,7 @@ wujie.net
 wujieliulan.com
 ||wujieliulan.com
 wukangrui.net
+||wuw.red
 .wwitv.com
 ||wwitv.com
 wzyboy.im/post/160
