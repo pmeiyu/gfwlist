@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: NM7MibKCeYeFi070dzSt0A
+! Checksum: Y1RM+jmUAi8KktKMAb5j5A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 Oct 2017 01:04:35 -0400
+! Last Modified: Sun, 08 Oct 2017 08:12:40 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -145,6 +145,7 @@ share.dmhy.org
 ||nflxext.com
 ||nflxso.net
 ||nflxvideo.net
+||nic.gov
 |http://mo.nightlife141.com
 ||nordstrom.com
 ||nordstromimage.com
@@ -2656,6 +2657,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074157
 .ftchinese.com/story/001074423
 .ftchinese.com/story/001074467
+.ftchinese.com/story/001074493
 .ftchinese.com/story/001074550
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
@@ -6502,7 +6504,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 !------7------
 !--||wikinews.org
 !--@@||m.wikinews.org
-|http://zh.wikinews.org
+||zh.wikinews.org
 !------8------
 !--||wikivoyage.org
 !--@@||m.wikivoyage.org
@@ -6868,7 +6870,6 @@ zhuichaguoji.org
 ||zillionk.com
 .zinio.com
 ||zinio.com
-||ziplib.com
 .ziporn.com
 .zkaip.com
 ||zkaip.com
