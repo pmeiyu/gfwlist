@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Y1RM+jmUAi8KktKMAb5j5A
+! Checksum: /E65uwsb/sI6jMRmj3yU0g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Oct 2017 08:12:40 -0400
+! Last Modified: Sun, 08 Oct 2017 22:45:11 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -191,6 +191,7 @@ share.dmhy.org
 ||tapanwap.com
 ||target.com
 @@||intl.target.com
+||telegram.me
 ||thebodyshop-usa.com
 ||tma.co.jp
 ||tracfone.com
@@ -1795,6 +1796,7 @@ commandarms.com
 ||communistcrimes.org
 ||communitychoicecu.com
 ||compileheart.com
+||conoha.jp
 .contactmagazine.net
 .convio.net
 .coobay.com
@@ -4892,6 +4894,7 @@ pythonhackers.com/p
 .qanote.com
 ||qanote.com
 .qgirl.com.tw
+||qiandao.today
 .qi-gong.me
 ||qi-gong.me
 .qidian.ca
