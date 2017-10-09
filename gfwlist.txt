@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5wuH0zkT5mQip+Nj99avyA
+! Checksum: iNMRkBtLP3/xK4yE2GzZOA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Oct 2017 23:19:33 -0400
+! Last Modified: Sun, 08 Oct 2017 23:22:32 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -191,6 +191,7 @@ share.dmhy.org
 ||tapanwap.com
 ||target.com
 @@||intl.target.com
+||updates.tdesktop.com
 ||telegram.me
 ||thebodyshop-usa.com
 ||tma.co.jp
