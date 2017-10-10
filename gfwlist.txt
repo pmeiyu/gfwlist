@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: c393FKAjstOIPgvzVVexnQ
+! Checksum: CgTYAfJigwlrPFkCaDgBpA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 10 Oct 2017 09:53:24 -0400
+! Last Modified: Tue, 10 Oct 2017 10:02:09 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4264,6 +4264,7 @@ multiupload.com
 ||my-private-network.co.uk
 forum.my903.com
 .myactimes.com/actimes
+||myanniu.com
 .myaudiocast.com
 ||myaudiocast.com
 .myav.com.tw/bbs
