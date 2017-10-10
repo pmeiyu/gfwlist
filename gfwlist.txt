@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: iNMRkBtLP3/xK4yE2GzZOA
+! Checksum: D62y+EAs3pKl0ReioSY+oA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Oct 2017 23:22:32 -0400
+! Last Modified: Tue, 10 Oct 2017 08:57:06 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2662,6 +2662,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074467
 .ftchinese.com/story/001074493
 .ftchinese.com/story/001074550
+.ftchinese.com/story/001074562
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/comments
@@ -5411,6 +5412,7 @@ usinfo.state.gov
 ||startpage.com
 ||static-economist.com
 ||stc.com.sa
+steamcommunity.com/profiles/76561198062771609
 steamcommunity.com/groups/LibetTibet
 steamcommunity.com/groups/zhonggong
 steamcommunity.com/id/CJT_Jackton
