@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: W5TvaQEZS02ArTtoOGO/+Q
+! Checksum: /vp78g1x9ssYTpz9d676ww
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 11 Oct 2017 02:33:53 -0400
+! Last Modified: Wed, 11 Oct 2017 10:45:07 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -254,6 +254,15 @@ china-mmm.sa.com
 .amazon.com/Dalai-Lama
 s3-ap-northeast-1.amazonaws.com
 
+!!---AOL---
+||aolchannels.aol.com
+video.aol.ca/video-detail
+video.aol.co.uk/video-detail
+video.aol.com
+||video.aol.com
+||search.aol.com
+www.aolnews.com
+
 !!---AvMoo---
 .avmo.pw
 !--|http://avmo.pw
@@ -268,6 +277,7 @@ s3-ap-northeast-1.amazonaws.com
 |http://javtag.com
 .javzoo.com
 |http://javzoo.com
+.tellme.pw
 
 !!---BBC---
 .bbc.co.uk/chinese
@@ -499,6 +509,7 @@ cdninstagram.com
 ||facebook.se
 ||fb.com
 ||fb.me
+||fbcdn.net
 .instagram.com
 ||instagram.com
 ||m.me
@@ -506,6 +517,7 @@ cdninstagram.com
 ||oculus.com
 ||oculuscdn.com
 ||rocksdb.org
+@@||ip6.static.sl-reverse.com
 ||whatsapp.net
 
 !!---Google---
@@ -696,6 +708,25 @@ blogspot.com
 !!---NaughtyAmerica---
 ||naughtyamerica.com
 
+!!---NYTimes---
+||a1.nyt.com
+||int.nyt.com
+||s1.nyt.com
+static01.nyt.com
+||static01.nyt.com
+||typeface.nyt.com
+nytchina.com
+nytcn.me
+||nytcn.me
+||nytco.com
+|http://nyti.ms/
+.nytimes.com
+||nytimes.com
+||nytimg.com
+userapi.nytlog.com
+cn.nytstyle.com
+||nytstyle.com
+
 !!---Telegram---
 !!!---Domain---
 ||t.me
@@ -833,8 +864,38 @@ blogspot.com
 !--@@||tchb.gov.tw
 !--@@||tcsac.gov.tw
 !--@@||tncsec.gov.tw
-
 ||kinmen.org.tw
+
+!!---Yahoo---
+page.bid.yahoo.com
+tw.bid.yahoo.com
+|https://tw.bid.yahoo.com
+blogs.yahoo.co.jp
+||search.yahoo.co.jp
+buy.yahoo.com.tw/gdsale
+hk.yahoo.com
+hk.knowledge.yahoo.com
+hk.myblog.yahoo.com
+news.yahoo.com/china-blocks-bbc
+||hk.news.yahoo.com
+hk.rd.yahoo.com
+hk.search.yahoo.com/search
+hk.video.news.yahoo.com/video
+meme.yahoo.com
+!--tw.yahoo.com
+tw.answers.yahoo.com
+|https://tw.answers.yahoo.com
+||tw.knowledge.yahoo.com
+||tw.mall.yahoo.com
+tw.yahoo.com
+||tw.mobi.yahoo.com
+tw.myblog.yahoo.com
+||tw.news.yahoo.com
+pulse.yahoo.com
+upcoming.yahoo.com
+video.yahoo.com
+||yahoo.com.hk
+||duckduckgo-owned-server.yahoo.net
 
 !------------------Numerics---------------------
 .030buy.com
@@ -1117,13 +1178,6 @@ antichristendom.com
 |http://aofriend.com
 .aofriend.com.au
 .aojiao.org
-||aolchannels.aol.com
-video.aol.ca/video-detail
-video.aol.co.uk/video-detail
-video.aol.com
-||video.aol.com
-||search.aol.com
-www.aolnews.com
 ||aomiwang.com
 video.ap.org
 .apetube.com
@@ -1282,6 +1336,7 @@ beric.me
 ||bestforchina.org
 .bestgore.com
 ||bestvpn.com
+.bestvpnanalysis.com
 .bestvpnserver.com
 .bestvpnservice.com
 .bestvpnusa.com
@@ -1717,7 +1772,6 @@ cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate
 christianstudy.com
 ||christianstudy.com
 christusrex.org/www1/sdc
-||chromeadblock.com
 .chubold.com
 chubun.com
 chuizi.net
@@ -2328,7 +2382,6 @@ fapdu.com
 faproxy.com
 !--.farxian.com
 .fawanghuihui.org
-||fbcdn.net
 fanqiangyakexi.net
 fail.hk
 ||famunion.com
@@ -2357,7 +2410,7 @@ favstar.fm
 ||favstar.fm
 faydao.com/weblog
 ||fbsbx.com
-fc2.com
+.fc2.com
 .fc2china.com
 .fc2cn.com
 ||fc2cn.com
@@ -4204,8 +4257,8 @@ mixpod.com
 ||mmaaxx.com
 .mmmca.com
 ||mobatek.net
-|http://mobile01.com
 .mobile01.com
+|http://mobile01.com
 ||mobileways.de
 .mobypicture.com
 |http://moby.to
@@ -4499,28 +4552,11 @@ nuzcom.com
 |http://nvtongzhisheng.org
 .nwtca.org
 ||nyaa.eu
-||nyaa.se
+||nyaa.si
 .nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
 !--nysingtao.com
-||a1.nyt.com
-||int.nyt.com
-||s1.nyt.com
-static01.nyt.com
-||static01.nyt.com
-||typeface.nyt.com
-nytchina.com
-nytcn.me
-||nytcn.me
-||nytco.com
-|http://nyti.ms/
-.nytimes.com
-||nytimes.com
-||nytimg.com
-userapi.nytlog.com
-cn.nytstyle.com
-||nytstyle.com
 .nzchinese.com
 ||nzchinese.net.nz
 
@@ -4662,6 +4698,7 @@ pastebin.com
 pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbs.org/wgbh/pages/frontline/tibet
+video.pbs.org
 
 !--Pbwiki
 pbwiki.com
@@ -6333,7 +6370,6 @@ vpnbook.com
 vpnfire.com
 .vpnforgame.net
 ||vpnforgame.net
-||vpnunlimitedapp.com
 ||vpngate.jp
 .vpngate.net
 ||vpngate.net
@@ -6341,6 +6377,8 @@ vpnfire.com
 vpnhq.com
 .vpnmaster.com
 ||vpnmaster.com
+zh.vpnmentor.com
+|https://zh.vpnmentor.com
 .vpninja.net
 ||vpninja.net
 .vpnintouch.com
@@ -6366,6 +6404,7 @@ vpnjack.com
 ||vpntunnel.com
 .vpnuk.info
 ||vpnuk.info
+||vpnunlimitedapp.com
 .vpnvip.com
 ||vpnvip.com
 .vpnworldwide.com
@@ -6534,11 +6573,11 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 !------8------
 !--||wikivoyage.org
 !--@@||m.wikivoyage.org
-|http://zh.wikivoyage.org
+!--|http://zh.wikivoyage.org
 !------9------
 !--||wiktionary.org
 !--@@||m.wiktionary.org
-|http://zh.wiktionary.org
+!--|http://zh.wiktionary.org
 !-----10------
 !--||wikimediafoundation.org
 !--@@||m.wikimediafoundation.org
@@ -6728,35 +6767,6 @@ xyy69.com
 xyy69.info
 
 !--------------------YY-------------------------
-page.bid.yahoo.com
-tw.bid.yahoo.com
-|https://tw.bid.yahoo.com
-blogs.yahoo.co.jp
-||search.yahoo.co.jp
-buy.yahoo.com.tw/gdsale
-hk.yahoo.com
-hk.knowledge.yahoo.com
-hk.myblog.yahoo.com
-news.yahoo.com/china-blocks-bbc
-||hk.news.yahoo.com
-hk.rd.yahoo.com
-hk.search.yahoo.com/search
-hk.video.news.yahoo.com/video
-meme.yahoo.com
-!--tw.yahoo.com
-tw.answers.yahoo.com
-|https://tw.answers.yahoo.com
-||tw.knowledge.yahoo.com
-||tw.mall.yahoo.com
-tw.yahoo.com
-||tw.mobi.yahoo.com
-tw.myblog.yahoo.com
-||tw.news.yahoo.com
-pulse.yahoo.com
-upcoming.yahoo.com
-video.yahoo.com
-||yahoo.com.hk
-||duckduckgo-owned-server.yahoo.net
 ||yakbutterblues.com
 yam.com
 ||yam.com
