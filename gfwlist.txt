@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: iH89UEdWfL3gJHAcob3y/A
+! Checksum: W5TvaQEZS02ArTtoOGO/+Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 11 Oct 2017 02:22:57 -0400
+! Last Modified: Wed, 11 Oct 2017 02:33:53 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -3166,6 +3166,8 @@ greatfirewallofchina.org
 |http://guaguass.org
 guishan.org
 ||guishan.org
+.gumroad.com
+||gumroad.com
 ||gunsamerica.com
 guruonline.hk
 |http://gvlib.com
