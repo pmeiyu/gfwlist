@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CgTYAfJigwlrPFkCaDgBpA
+! Checksum: 8BOHjjcxilo0oRHyQHbGLQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 10 Oct 2017 10:02:09 -0400
+! Last Modified: Wed, 11 Oct 2017 02:14:17 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -75,7 +75,7 @@ share.dmhy.org
 ||g-area.org
 ||gettyimages.com
 ||getuploader.com
-|https://github.com/programthink/zhao
+!--|https://github.com/programthink/zhao
 |https://raw.githubusercontent.com/programthink/zhao
 ||glass8.eu
 ||glype.com
@@ -188,8 +188,8 @@ share.dmhy.org
 ||swagbucks.com
 ||switch1.jp
 ||tapanwap.com
-||target.com
-@@||intl.target.com
+!--||target.com
+!--@@||intl.target.com
 ||thebodyshop-usa.com
 ||tma.co.jp
 ||tracfone.com
@@ -267,6 +267,20 @@ s3-ap-northeast-1.amazonaws.com
 |http://javtag.com
 .javzoo.com
 |http://javzoo.com
+
+!!---BBC---
+.bbc.co.uk/chinese
+.bbc.co.uk/news/world-asia-china
+.bbc.co.uk/tv
+.bbc.co.uk/zhongwen
+.bbc.com/ukchina
+.bbc.com/zhongwen
+.bbc.com%2Fzhongwen
+news.bbc.co.uk/onthisday*newsid_2496000/2496277
+newsforums.bbc.co.uk
+.bbcchinese.com
+||bbcchinese.com
+|http://bbc.in
 
 !!---ChangeIP---
 .1dumb.com
@@ -469,6 +483,8 @@ d3c33hcgiwev3.cloudfront.net
 .freeddns.org
 
 !!---Facebook---
+cdninstagram.com
+||cdninstagram.com
 ||facebook.br
 .facebook.com
 ||facebook.com
@@ -482,6 +498,8 @@ d3c33hcgiwev3.cloudfront.net
 ||facebook.se
 ||fb.com
 ||fb.me
+.instagram.com
+||instagram.com
 ||m.me
 ||messenger.com
 ||oculus.com
@@ -1227,18 +1245,6 @@ bayvoice.net
 dajusha.baywords.com
 ||bbchat.tv
 ||bb-chat.tv
-.bbc.co.uk/chinese
-.bbc.co.uk/news/world-asia-china
-.bbc.co.uk/tv
-.bbc.co.uk/zhongwen
-.bbc.com/ukchina
-.bbc.com/zhongwen
-.bbc.com%2Fzhongwen
-news.bbc.co.uk/onthisday*newsid_2496000/2496277
-newsforums.bbc.co.uk
-.bbcchinese.com
-||bbcchinese.com
-|http://bbc.in
 .bbg.gov
 .bbkz.com/forum
 .bbnradio.org
@@ -1569,8 +1575,6 @@ ccue.com
 ||cdig.info
 cdjp.org
 ||cdjp.org
-cdninstagram.com
-||cdninstagram.com
 .cdnews.com.tw
 cdp1989.org
 cdp1998.org
@@ -2629,6 +2633,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001063692
 .ftchinese.com/story/001063826
 .ftchinese.com/story/001065287
+.ftchinese.com/story/001065541
 .ftchinese.com/story/001066465
 .ftchinese.com/story/001066959
 .ftchinese.com/story/001067435
@@ -3569,8 +3574,6 @@ website.informer.com
 .insecam.org
 |http://insecam.org
 ||insidevoa.com
-.instagram.com
-||instagram.com
 .institut-tibetain.org
 ||interfaceaddiction.com
 ||internationalrivers.org
