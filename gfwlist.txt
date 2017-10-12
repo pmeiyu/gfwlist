@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: RL0UyHMtwo7fEi9d5SuYpw
+! Checksum: jQuoIFAtIg8F4Uvw/R1naA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 12 Oct 2017 02:00:15 -0400
+! Last Modified: Thu, 12 Oct 2017 02:02:33 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -236,6 +236,7 @@ share.dmhy.org
 ||agro.hk
 ||boomssr.com
 ||line-scdn.net
+||jiji.com
 ||pixiv.net
 
 !----------------Frauds & Scams-----------------
