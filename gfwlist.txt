@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jQuoIFAtIg8F4Uvw/R1naA
+! Checksum: CGnvvYYNIi0/BiYmk0GpVA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 12 Oct 2017 02:02:33 -0400
+! Last Modified: Thu, 12 Oct 2017 02:23:17 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -5231,6 +5231,7 @@ shadow.ma
 .shadowsocks.asia
 ||www.shadowsocks.com
 .shadowsocks.com
+||shadowsocks.com.hk
 .shadowsocks.org
 ||shadowsocks.org
 ||shadowsocks-r.com
@@ -6986,6 +6987,7 @@ zhengjian
 @@||csi.gstatic.com
 @@||fonts.gstatic.com
 @@||haosou.com
+@@||ip.cn
 @@||jd.com
 @@||jike.com
 @@|http://translate.google.cn
