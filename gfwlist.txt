@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: OGZRJNcXOVGvUzfjKsXNAg
+! Checksum: FD6ny27APD7Nvljx0+Alfg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 12 Oct 2017 02:28:55 -0400
+! Last Modified: Thu, 12 Oct 2017 04:09:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -238,6 +238,7 @@ share.dmhy.org
 ||line-scdn.net
 ||jiji.com
 ||pixiv.net
+||i.lithium.com
 
 !----------------Frauds & Scams-----------------
 china-mmm.jp.net
@@ -868,6 +869,7 @@ cn.nytstyle.com
 ||kinmen.org.tw
 
 !!---Yahoo---
+||data.flurry.com
 page.bid.yahoo.com
 tw.bid.yahoo.com
 |https://tw.bid.yahoo.com
@@ -4862,6 +4864,7 @@ postadult.com
 ||cdn.printfriendly.com
 .pritunl.com
 provpnaccounts.com
+||provpnaccounts.com
 .proxfree.com
 ||proxfree.com
 proxyanonimo.es
