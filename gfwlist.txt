@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /vp78g1x9ssYTpz9d676ww
+! Checksum: RL0UyHMtwo7fEi9d5SuYpw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 11 Oct 2017 10:45:07 -0400
+! Last Modified: Thu, 12 Oct 2017 02:00:15 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -6040,6 +6040,8 @@ tweetree.com
 ||tweetwally.com
 tweetymail.com
 ||twelve.today
+.tweez.net
+|http://tweez.net
 ||twftp.org
 twibase.com
 .twibble.de
