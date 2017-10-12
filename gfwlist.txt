@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CGnvvYYNIi0/BiYmk0GpVA
+! Checksum: OGZRJNcXOVGvUzfjKsXNAg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 12 Oct 2017 02:23:17 -0400
+! Last Modified: Thu, 12 Oct 2017 02:28:55 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -5982,7 +5982,9 @@ tuitwit.com
 !--@@||media.tumblr.com
 !--@@||static.tumblr.com
 !--@@||www.tumblr.com
-|http://blog.soylent.com/
+|http://cosmic.monar.ch
+||slutmoonbeam.com
+|http://blog.soylent.com
 
 .tv.com
 |http://tv.com
