@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bNu87353GKyBMyuAKQnPPA
+! Checksum: p88ioKDyA5W9J9MVeAsHvA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 12 Oct 2017 08:15:23 -0400
+! Last Modified: Thu, 12 Oct 2017 20:30:29 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -550,6 +550,7 @@ blogspot.com
 ||chromium.org
 ||com.google
 ||creativelab5.com
+||crrev.com
 ||data-vocabulary.org
 ||debug.com
 ||deepmind.com
@@ -3747,6 +3748,7 @@ jamaat.org
 .javakiba.org
 |http://javakiba.org
 .javbus.com
+||javbus.com
 ||javfor.me
 .javhd.com
 .javhip.com
