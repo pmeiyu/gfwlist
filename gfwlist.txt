@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: p88ioKDyA5W9J9MVeAsHvA
+! Checksum: TfY448IcTEEmoj2E/E9qPw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 12 Oct 2017 20:30:29 -0400
+! Last Modified: Sat, 14 Oct 2017 09:54:23 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4003,6 +4003,7 @@ letscorp.net
 blogs.libraryinformationtechnology.com/jxyz
 .lidecheng.com/blog/fucking-gfw
 .lighten.org.tw
+.lightnovel.cn
 limiao.net
 linkuswell.com
 abitno.linpie.com/use-ipv6-to-fuck-gfw
@@ -4427,6 +4428,7 @@ nccwatch.org.tw
 .ned.org
 ||nekoslovakia.net
 ||nepusoku.com
+||net-fits.pro
 !--bbsnew.netbig.com
 bbs.netbig.com
 .netbirds.com
