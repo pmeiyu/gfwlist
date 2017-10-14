@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: TfY448IcTEEmoj2E/E9qPw
+! Checksum: Ge2ZL/UOVQtk1XZA5+X/Sg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Oct 2017 09:54:23 -0400
+! Last Modified: Sat, 14 Oct 2017 10:10:46 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -4004,6 +4004,7 @@ blogs.libraryinformationtechnology.com/jxyz
 .lidecheng.com/blog/fucking-gfw
 .lighten.org.tw
 .lightnovel.cn
+@@|https://www.lightnovel.cn
 limiao.net
 linkuswell.com
 abitno.linpie.com/use-ipv6-to-fuck-gfw
