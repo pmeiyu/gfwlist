@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: HWvHH6r2vyKUcsQscGd//w
+! Checksum: Oa1PGEObNNz7ih0wfONnsg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Oct 2017 21:31:16 -0400
+! Last Modified: Sat, 14 Oct 2017 22:22:10 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -100,6 +100,7 @@ share.dmhy.org
 |http://imgmega.com/*.png.html
 |http://imgur.com/upload
 |https://imgur.com/upload
+||imlive.com
 ||javhub.net
 ||javhuge.com
 .javlibrary.com
@@ -3807,6 +3808,7 @@ weiboscope.jmsc.hku.hk
 .journalchretien.net
 ||journalofdemocracy.org
 .joymiihub.com
+.joyourself.com
 jpopforum.net
 .jubushoushen.com
 ||jubushoushen.com
@@ -3991,6 +3993,8 @@ blog.lester850.info
 .letou.com
 letscorp.net
 ||letscorp.net
+!↓↓69.16.175.42
+||cdn.assets.lfpcontent.com
 .lhakar.org
 |http://lhakar.org
 .lhasocialwork.org
