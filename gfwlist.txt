@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DDrmL2ynQBIKjm8Ouhuh5A
+! Checksum: HWvHH6r2vyKUcsQscGd//w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Oct 2017 21:23:23 -0400
+! Last Modified: Sat, 14 Oct 2017 21:31:16 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1340,6 +1340,7 @@ beric.me
 .bestforchina.org
 ||bestforchina.org
 .bestgore.com
+.bestpornstardb.com
 ||bestvpn.com
 .bestvpnanalysis.com
 .bestvpnserver.com
@@ -4638,6 +4639,7 @@ my.opera.com/dahema
 www.orchidbbs.com
 .organcare.org.tw
 organharvestinvestigation.net
+.orgasm.com
 .orgfree.com
 ||orient-doll.com
 orientaldaily.com.my
