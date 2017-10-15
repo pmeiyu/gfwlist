@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Ge2ZL/UOVQtk1XZA5+X/Sg
+! Checksum: DDrmL2ynQBIKjm8Ouhuh5A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Oct 2017 10:10:46 -0400
+! Last Modified: Sat, 14 Oct 2017 21:23:23 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -5873,6 +5873,8 @@ tonyyan.net
 toonel.net
 top81.ws
 .topnews.in
+.toppornsites.com
+|http://toppornsites.com
 .torguard.net
 ||torguard.net
 ||top.tv
@@ -6240,6 +6242,7 @@ uploaded.net/file
 |http://uploaded.net/file
 |http://uploaded.to/file
 .uploadstation.com/file
+.upmedia.mg
 .upornia.com
 |http://upornia.com
 ||uproxy.org
