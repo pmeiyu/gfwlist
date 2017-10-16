@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Oa1PGEObNNz7ih0wfONnsg
+! Checksum: uZ+zkpMhP6GvYsVBTiCzIw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Oct 2017 22:22:10 -0400
+! Last Modified: Mon, 16 Oct 2017 00:08:45 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -503,7 +503,7 @@ cdninstagram.com
 .facebook.com
 ||facebook.com
 !--/^https?:\/\/[^\/]+facebook\.com/
-@@||*v6.facebook.com
+@@||v6.facebook.com
 ||facebook.design
 ||connect.facebook.net
 ||facebook.hu
@@ -513,6 +513,7 @@ cdninstagram.com
 ||fb.com
 ||fb.me
 ||fbcdn.net
+||fbsbx.com
 .instagram.com
 ||instagram.com
 ||m.me
@@ -521,12 +522,14 @@ cdninstagram.com
 ||oculuscdn.com
 ||rocksdb.org
 @@||ip6.static.sl-reverse.com
+||thefacebook.com
 ||whatsapp.net
 
 !!---Google---
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
 ||1e100.net
+||466453.com
 ||abc.xyz
 ||admob.com
 ||adsense.com
@@ -538,10 +541,12 @@ cdninstagram.com
 .appspot.com
 ||appspot.com
 ||blog.google
+||blogblog.com
 blogspot.com
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 .blogspot.hk
 .blogspot.jp
+!--||capitalg.com
 ||certificate-transparency.org
 ||chrome.com
 ||chromecast.com
@@ -559,6 +564,7 @@ blogspot.com
 ||design.google
 ||digisfera.com
 ||domains.google
+||duck.com
 ||environment.google
 ||feedburner.com
 ||g.co
@@ -632,10 +638,12 @@ blogspot.com
 ||googleartproject.com
 ||googleblog.com
 ||googlebot.com
-||googlecapital.com
+!--||googlecapital.com
+||googlechinawebmaster.com
 ||googlecode.com
 ||googlecommerce.com
 ||googledomains.com
+||googlearth.com
 ||googleearth.com
 ||googledrive.com
 ||googlegroups.com
@@ -644,8 +652,11 @@ blogspot.com
 ||googleinsidesearch.com
 ||googlelabs.com
 ||googlemail.com
+||googlemashups.com
+||googlepagecreator.com
 ||googleplay.com
 ||googleplus.com
+||googlescholar.com
 ||googlesource.com
 ||googlesyndication.com
 !--||googletagmanager.com
@@ -656,6 +667,7 @@ blogspot.com
 ||googlezip.net
 ||groups.google.cn
 ||gstatic.com
+!--||gv.com
 ||gvt0.com
 ||gvt1.com
 @@||redirector.gvt1.com
@@ -689,6 +701,7 @@ blogspot.com
 ||tensorflow.org
 ||thinkwithgoogle.com
 ||tiltbrush.com
+||urchin.com
 !--||www.google
 ||waveprotocol.org
 ||waymo.com
@@ -704,6 +717,7 @@ blogspot.com
 ||youtube-nocookie.com
 ||youtubeeducation.com
 ||youtubegaming.com
+||yt.be
 ||ytimg.com
 ||zynamics.com
 
@@ -714,12 +728,17 @@ blogspot.com
 ||naughtyamerica.com
 
 !!---NYTimes---
-||a1.nyt.com
-||int.nyt.com
-||s1.nyt.com
+!--||d1f1eryiqyjs0r.cloudfront.net
+!--||d3lar09xbwlsge.cloudfront.net
+!--||d3q1qj9jzsu8nw.cloudfront.net
+!--||dc8xl0ndzn2cb.cloudfront.net
+!--||a1.nyt.com
+!--||int.nyt.com
+!--||s1.nyt.com
 static01.nyt.com
-||static01.nyt.com
-||typeface.nyt.com
+!--||static01.nyt.com
+!--||typeface.nyt.com
+||nyt.com
 nytchina.com
 nytcn.me
 ||nytcn.me
@@ -1087,6 +1106,9 @@ aiweiwei.com
 
 !!---Akamai---
 |https://fbcdn*.akamaihd.net/
+!--||fbexternal-a.akamaihd.net
+!--||fbstatic-a.akamaihd.net
+!--|https://igcdn*.akamaihd.net
 a248.e.akamai.net
 ||a248.e.akamai.net
 voa-11.akacast.akamaistream.net
@@ -1410,7 +1432,6 @@ blinw.com
 ||blog.de
 .blog.jp
 |http://blog.jp
-||blogblog.com
 .blogcatalog.com
 ||blogcatalog.com
 ||blogcity.me
@@ -2748,6 +2769,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074493
 .ftchinese.com/story/001074550
 .ftchinese.com/story/001074562
+.ftchinese.com/story/001074653
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/comments
