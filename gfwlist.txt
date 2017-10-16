@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: uZ+zkpMhP6GvYsVBTiCzIw
+! Checksum: wucAREjbx/yPNem0Rp1Y+Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 Oct 2017 00:08:45 -0400
+! Last Modified: Mon, 16 Oct 2017 00:55:39 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2661,10 +2661,17 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001044776
 .ftchinese.com/story/001045755
 .ftchinese.com/story/001046118
+.ftchinese.com/story/001047304
 .ftchinese.com/story/001047317
 .ftchinese.com/story/001047345
+.ftchinese.com/story/001047358
 .ftchinese.com/story/001047375
+.ftchinese.com/story/001047381
+.ftchinese.com/story/001047413
+.ftchinese.com/story/001047491
 .ftchinese.com/story/001047545
+.ftchinese.com/story/001047568
+.ftchinese.com/story/001047627
 .ftchinese.com/story/001048710
 .ftchinese.com/story/001049360
 .ftchinese.com/story/001051372
@@ -2734,6 +2741,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001069373
 .ftchinese.com/story/001069516
 .ftchinese.com/story/001069517
+.ftchinese.com/story/001069861
 .ftchinese.com/story/001070307
 .ftchinese.com/story/001070809
 .ftchinese.com/story/001070990
@@ -2763,6 +2771,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074157
 .ftchinese.com/story/001074246
 .ftchinese.com/story/001074307
+.ftchinese.com/story/001074347
 .ftchinese.com/story/001074423
 .ftchinese.com/story/001074454
 .ftchinese.com/story/001074467
@@ -2770,6 +2779,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074550
 .ftchinese.com/story/001074562
 .ftchinese.com/story/001074653
+.ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/comments
@@ -6923,6 +6933,7 @@ zacebook.com
 .zenmate.com
 ||zenmate.com
 ||zenmate.com.ru
+||zeronet.io
 ||zeutch.com
 !--www.zfreet.com/post/usejump-browns.html
 .zfreet.com
