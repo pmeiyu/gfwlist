@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jROACWY6Fa3MVSGj8pxWHQ
+! Checksum: V+a70sp49CSwQDxywFG81g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 Oct 2017 03:57:56 -0400
+! Last Modified: Mon, 16 Oct 2017 04:52:33 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -1268,6 +1268,7 @@ atgfw.org
 .atlaspost.com
 ||atlaspost.com
 ||atdmt.com
+.atlanta168.com/forum
 .atnext.com
 ||atnext.com
 ice.audionow.com
@@ -6713,6 +6714,7 @@ worldjournal.com
 ||chenshan20042005.wordpress.com
 ||hka8964.wordpress.com
 ||hkanews.wordpress.com
+||hqsbonline.wordpress.com
 ||jobnewera.wordpress.com
 ||sujiatun.wordpress.com
 ||wp.com
