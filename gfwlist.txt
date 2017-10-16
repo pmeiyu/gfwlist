@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /NAbRa2AIlehfHSm2rykPw
+! Checksum: jROACWY6Fa3MVSGj8pxWHQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 Oct 2017 03:28:44 -0400
+! Last Modified: Mon, 16 Oct 2017 03:57:56 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2661,7 +2661,11 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001044776
 .ftchinese.com/story/001045755
 .ftchinese.com/story/001046118
+.ftchinese.com/story/001046132
 .ftchinese.com/story/001046822
+.ftchinese.com/story/001046866
+.ftchinese.com/story/001047180
+.ftchinese.com/story/001047206
 .ftchinese.com/story/001047304
 .ftchinese.com/story/001047317
 .ftchinese.com/story/001047345
@@ -4812,6 +4816,7 @@ philly.com
 .picidae.net
 ||img*.picturedip.com
 picturesocial.com
+||pin-cong.com
 .pin6.com
 ||pin6.com
 .ping.fm
