@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5yIIvgdU19tSK7BBBdXILg
+! Checksum: 8PtSmAn8Op5xw6uZl6B1+Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 17 Oct 2017 09:41:03 -0400
+! Last Modified: Tue, 17 Oct 2017 06:45:25 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -236,8 +236,9 @@ share.dmhy.org
 |https://*.s3.amazonaws.com
 ||agro.hk
 ||boomssr.com
-||line-scdn.net
 ||jiji.com
+||line-scdn.net
+||cloud.mail.ru
 ||pixiv.net
 ||i.lithium.com
 
@@ -1612,6 +1613,7 @@ caochangqing.com
 .carabinasypistolas.com
 cardinalkungfoundation.org
 carmotorshow.com
+ss.carryzhou.com
 .cartoonmovement.com
 ||cartoonmovement.com
 .casadeltibetbcn.org
@@ -2651,12 +2653,15 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001037090
 .ftchinese.com/story/001037091
 .ftchinese.com/story/001038220
+.ftchinese.com/story/001039369
+.ftchinese.com/story/001039712
 .ftchinese.com/story/001040890
 .ftchinese.com/story/001040918
 .ftchinese.com/story/001042100
 .ftchinese.com/story/001042252
 .ftchinese.com/story/001042272
 .ftchinese.com/story/001043534
+.ftchinese.com/story/001043680
 .ftchinese.com/story/001043849
 .ftchinese.com/story/001044099
 .ftchinese.com/story/001044776
@@ -2676,6 +2681,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001047413
 .ftchinese.com/story/001047491
 .ftchinese.com/story/001047545
+.ftchinese.com/story/001047558
 .ftchinese.com/story/001047568
 .ftchinese.com/story/001047627
 .ftchinese.com/story/001048710
@@ -6317,6 +6323,7 @@ beta.usejump.com
 ||usfk.mil
 ||usma.edu
 ||usmc.mil
+.usocctn.com
 |http://tarr.uspto.gov/
 ||tsdr.uspto.gov
 .ustream.tv
