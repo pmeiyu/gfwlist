@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8PtSmAn8Op5xw6uZl6B1+Q
+! Checksum: tIujBX8rMwtWKnpnBmTVYA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 17 Oct 2017 06:45:25 -0400
+! Last Modified: Wed, 18 Oct 2017 09:00:38 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -2225,6 +2225,7 @@ eastern-ark.com
 ebookbrowse.com
 ebookee.com
 ||ecfa.org.tw
+ushuarencity.echainhost.com
 ||ecimg.tw
 ecministry.net
 .economist.com
@@ -3276,6 +3277,7 @@ greatfirewallofchina.org
 |http://guaguass.com
 .guaguass.org
 |http://guaguass.org
+.guangming.com.my
 guishan.org
 ||guishan.org
 .gumroad.com
@@ -4516,6 +4518,7 @@ newschinacomment.org
 newspeak.cc/story
 .newsancai.com
 ||newsancai.com
+.newsdetox.ca
 .newsdh.com
 ||newstamago.com
 ||newstapa.org
@@ -4730,6 +4733,7 @@ oyghan.com/wps
 .ozchinese.com/bbs
 ||ow.ly
 bbs.ozchinese.com
+.ozvoice.org
 |https://ozvoice.org
 .ozxw.com
 .ozyoyo.com
@@ -4866,6 +4870,7 @@ piraattilahti.org
 ||playboy.com
 .playboyplus.com
 ||playboyplus.com
+||player.fm
 .playno1.com
 ||playno1.com
 ||playpcesor.com
@@ -5055,6 +5060,7 @@ quantumbooter.net
 .quitccp.net
 ||quitccp.org
 .quitccp.org
+.quora.com/Chinas-Future
 .quran.com
 |http://quran.com
 .quranexplorer.com
@@ -5128,6 +5134,7 @@ relaxbbs.com
 .releaseinternational.org
 religioustolerance.org
 renminbao.com
+||renminbao.com
 .renyurenquan.org
 ||renyurenquan.org
 |http://certificate.revocationcheck.com
@@ -6732,6 +6739,7 @@ worldjournal.com
 ||hka8964.wordpress.com
 ||hkanews.wordpress.com
 ||hqsbonline.wordpress.com
+||investigating.wordpress.com
 ||jobnewera.wordpress.com
 ||sujiatun.wordpress.com
 ||wp.com
