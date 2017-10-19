@@ -1,12 +1,12 @@
 [AutoProxy 0.2.9]
-! Checksum: tIujBX8rMwtWKnpnBmTVYA
+! Checksum: zjNwaI+jxZ+MIOCJCY9itA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 18 Oct 2017 09:00:38 -0400
+! Last Modified: Wed, 18 Oct 2017 20:35:16 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
-! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
+! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 !
 ! GFWList is unlikely to fully comprise the real
 ! rules being deployed inside GFW system. We try
@@ -2795,6 +2795,8 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074550
 .ftchinese.com/story/001074562
 .ftchinese.com/story/001074653
+.ftchinese.com/story/001074699
+.ftchinese.com/story/001074712
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
@@ -4327,6 +4329,7 @@ mixpod.com
 .mlcool.com
 ||mmaaxx.com
 .mmmca.com
+mnewstv.com
 ||mobatek.net
 .mobile01.com
 |http://mobile01.com
@@ -6887,6 +6890,7 @@ yegle.net
 |http://yes-news.com
 .yespornplease.com
 ||yespornplease.com
+|http://yeyeclub.com
 !--yfrog.com
 ||yhcw.net
 .yibada.com
