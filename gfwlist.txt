@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: zjNwaI+jxZ+MIOCJCY9itA
+! Checksum: j76uYGt7mqV45oWzcBygxQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 18 Oct 2017 20:35:16 -0400
+! Last Modified: Wed, 18 Oct 2017 23:48:22 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2705,8 +2705,11 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001056567
 .ftchinese.com/story/001056588
 .ftchinese.com/story/001056596
+.ftchinese.com/story/001057018
 .ftchinese.com/story/001057509
 .ftchinese.com/story/001057533
+.ftchinese.com/story/001057556
+.ftchinese.com/story/001057580
 .ftchinese.com/story/001058295
 .ftchinese.com/story/001058344
 .ftchinese.com/story/001058421
@@ -2719,7 +2722,9 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001058628
 .ftchinese.com/story/001058678
 .ftchinese.com/story/001059484
+.ftchinese.com/story/001059537
 .ftchinese.com/story/001059538
+.ftchinese.com/story/001059551
 .ftchinese.com/story/001059818
 .ftchinese.com/story/001059914
 .ftchinese.com/story/001059920
@@ -2733,11 +2738,14 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001062254
 .ftchinese.com/story/001062482
 .ftchinese.com/story/001062508
+.ftchinese.com/story/001062519
+.ftchinese.com/story/001062554
 .ftchinese.com/story/001062741
 .ftchinese.com/story/001062794
 .ftchinese.com/story/001063160
 .ftchinese.com/story/001063359
 .ftchinese.com/story/001063692
+.ftchinese.com/story/001063763
 .ftchinese.com/story/001063826
 .ftchinese.com/story/001065287
 .ftchinese.com/story/001065541
@@ -5394,6 +5402,8 @@ news.sinchew.com.my
 singtao.com
 ||singtao.com
 news.singtao.ca
+.singtaousa.com
+||singtaousa.com
 !--||cdp.sinica.edu.tw
 sino-monthly.com
 ||sinocast.com
