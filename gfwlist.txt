@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2WD4eZ7gVVxxffZxbBaPzw
+! Checksum: tKiEqKGTNbPTwhlIeHRYyQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 21 Oct 2017 07:57:02 -0400
+! Last Modified: Sat, 21 Oct 2017 09:02:32 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2758,28 +2758,43 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001063692
 .ftchinese.com/story/001063763
 .ftchinese.com/story/001063826
+.ftchinese.com/story/001064807
+.ftchinese.com/story/001065168
 .ftchinese.com/story/001065287
 .ftchinese.com/story/001065541
+.ftchinese.com/story/001065735
+.ftchinese.com/story/001065756
+.ftchinese.com/story/001066136
 .ftchinese.com/story/001066465
 .ftchinese.com/story/001066959
 .ftchinese.com/story/001067435
 www.ftchinese.com/story/001067479
 .ftchinese.com/story/001067545
+.ftchinese.com/story/001067572
 .ftchinese.com/story/001067648
 .ftchinese.com/story/001067650
+.ftchinese.com/story/001067680
+.ftchinese.com/story/001067871
 .ftchinese.com/story/001068248
 .ftchinese.com/story/001068278
 .ftchinese.com/story/001068379
 .ftchinese.com/story/001068483
+.ftchinese.com/story/001068547
+.ftchinese.com/story/001068622
+.ftchinese.com/story/001068707
 .ftchinese.com/story/001069373
 .ftchinese.com/story/001069516
 .ftchinese.com/story/001069517
+.ftchinese.com/story/001069687
+.ftchinese.com/story/001069741
 .ftchinese.com/story/001069861
 .ftchinese.com/story/001069952
+.ftchinese.com/story/001070177
 .ftchinese.com/story/001070307
 .ftchinese.com/story/001070809
 .ftchinese.com/story/001070990
 .ftchinese.com/story/001071042
+.ftchinese.com/story/001071044
 .ftchinese.com/story/001071106
 .ftchinese.com/story/001071166
 .ftchinese.com/story/001071181
@@ -2787,6 +2802,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001071208
 .ftchinese.com/story/001071238
 .ftchinese.com/story/001072271
+.ftchinese.com/story/001072348
 .ftchinese.com/story/001072677
 .ftchinese.com/story/001072853
 .ftchinese.com/story/001072895
@@ -2814,6 +2830,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074550
 .ftchinese.com/story/001074562
 .ftchinese.com/story/001074653
+.ftchinese.com/story/001074693
 .ftchinese.com/story/001074699
 .ftchinese.com/story/001074712
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
@@ -4784,6 +4801,7 @@ paljorpublications.com
 ||pao-pao.net
 paper.li
 paperb.us
+.paradisehill.cc
 .paradisepoker.com
 .partycasino.com
 .partypoker.com
