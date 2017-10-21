@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 53g/cgLwUHLvWqiVnoJHkA
+! Checksum: 2WD4eZ7gVVxxffZxbBaPzw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 19 Oct 2017 00:12:52 -0400
+! Last Modified: Sat, 21 Oct 2017 07:57:02 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2695,7 +2695,10 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001054168
 .ftchinese.com/story/001054526
 .ftchinese.com/story/001054644
+.ftchinese.com/story/001055170
+.ftchinese.com/story/001055202
 .ftchinese.com/story/001055242
+.ftchinese.com/story/001055274
 .ftchinese.com/story/001055299
 .ftchinese.com/story/001055480
 .ftchinese.com/story/001055551
@@ -2735,6 +2738,10 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001060181
 .ftchinese.com/story/001060493
 .ftchinese.com/story/001060495
+.ftchinese.com/story/001060590
+.ftchinese.com/story/001060846
+.ftchinese.com/story/001060847
+.ftchinese.com/story/001060875
 .ftchinese.com/story/001060921
 .ftchinese.com/story/001061120
 .ftchinese.com/story/001062028
