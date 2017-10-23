@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: dFHphE2rsjr2M4lVrJfeXA
+! Checksum: z/E/4w7Tz7YkidLH4uOzdA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 21 Oct 2017 09:42:39 -0400
+! Last Modified: Sun, 22 Oct 2017 22:53:27 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1056,6 +1056,8 @@ a5.com.ru
 !--|http://cdn*.abc.com/
 .abc.com
 .abchinese.com
+abclite.net
+|https://www.abclite.net
 .ablwang.com
 .aboluowang.com
 ||aboluowang.com
@@ -2717,6 +2719,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001057533
 .ftchinese.com/story/001057556
 .ftchinese.com/story/001057580
+.ftchinese.com/story/001058257
 .ftchinese.com/story/001058295
 .ftchinese.com/story/001058344
 .ftchinese.com/story/001058421
@@ -2727,6 +2730,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001058567
 .ftchinese.com/story/001058585
 .ftchinese.com/story/001058628
+.ftchinese.com/story/001058665
 .ftchinese.com/story/001058678
 .ftchinese.com/story/001059484
 .ftchinese.com/story/001059537
@@ -2735,6 +2739,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001059818
 .ftchinese.com/story/001059914
 .ftchinese.com/story/001059920
+.ftchinese.com/story/001060156
 .ftchinese.com/story/001060181
 .ftchinese.com/story/001060493
 .ftchinese.com/story/001060495
