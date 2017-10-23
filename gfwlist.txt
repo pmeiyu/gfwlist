@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: evskqM4jMlKceeMOe1ctTw
+! Checksum: E5AyuGvpieu8eE0hh/DRng
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 23 Oct 2017 00:12:43 -0400
+! Last Modified: Mon, 23 Oct 2017 00:46:08 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2525,6 +2525,7 @@ flickrhivemind.net
 .flickriver.com
 .fling.com
 ||flipkart.com
+||flog.tw
 |http://cn.fmnnow.com
 fofldfradio.org
 blog.foolsmountain.com
@@ -2695,13 +2696,20 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001052965
 .ftchinese.com/story/001053150
 .ftchinese.com/story/001053526
+.ftchinese.com/story/001053906
 .ftchinese.com/story/001054103
+.ftchinese.com/story/001054166
 .ftchinese.com/story/001054168
 .ftchinese.com/story/001054526
+.ftchinese.com/story/001054607
 .ftchinese.com/story/001054644
+.ftchinese.com/story/001054786
+.ftchinese.com/story/001054925
+.ftchinese.com/story/001055051
 .ftchinese.com/story/001055170
 .ftchinese.com/story/001055202
 .ftchinese.com/story/001055242
+.ftchinese.com/story/001055263
 .ftchinese.com/story/001055274
 .ftchinese.com/story/001055299
 .ftchinese.com/story/001055480
