@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DKqCnKDSWnsXfY4Nu3bBPg
+! Checksum: ZyYc7nZgDUZUnwY7MK+Y/A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 25 Oct 2017 08:51:57 -0400
+! Last Modified: Wed, 25 Oct 2017 10:28:09 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2746,6 +2746,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001057580
 .ftchinese.com/story/001057638
 .ftchinese.com/story/001057644
+.ftchinese.com/story/001058224
 .ftchinese.com/story/001058257
 .ftchinese.com/story/001058295
 .ftchinese.com/story/001058344
@@ -2806,6 +2807,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001065735
 .ftchinese.com/story/001065756
 .ftchinese.com/story/001066136
+.ftchinese.com/story/001066140
 .ftchinese.com/story/001066465
 .ftchinese.com/story/001066959
 .ftchinese.com/story/001067435
@@ -2851,7 +2853,9 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001073043
 .ftchinese.com/story/001073103
 .ftchinese.com/story/001073157
+.ftchinese.com/story/001073216
 .ftchinese.com/story/001073246
+.ftchinese.com/story/001073305
 .ftchinese.com/story/001073307
 .ftchinese.com/story/001073408
 .ftchinese.com/story/001073537
