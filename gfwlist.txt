@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: EL/4yX0nX3LtxRJVxQiTHg
+! Checksum: ExD8YADUiN/Nm4lK8fDyhA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 26 Oct 2017 03:09:16 -0400
+! Last Modified: Thu, 26 Oct 2017 04:19:51 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -235,6 +235,7 @@ share.dmhy.org
 !-||cdn-images.mailchimp.com
 |https://*.s3.amazonaws.com
 ||agro.hk
+||apkmirror.com
 ||boomssr.com
 ||jiji.com
 ||line-scdn.net
@@ -2750,9 +2751,11 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001058224
 .ftchinese.com/story/001058257
 .ftchinese.com/story/001058295
+.ftchinese.com/story/001058328
 .ftchinese.com/story/001058344
 .ftchinese.com/story/001058413
 .ftchinese.com/story/001058421
+.ftchinese.com/story/001058440
 .ftchinese.com/story/001058458
 .ftchinese.com/story/001058468
 .ftchinese.com/story/001058561
@@ -2760,8 +2763,10 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001058567
 .ftchinese.com/story/001058585
 .ftchinese.com/story/001058628
+.ftchinese.com/story/001058656
 .ftchinese.com/story/001058665
 .ftchinese.com/story/001058678
+.ftchinese.com/story/001058728
 .ftchinese.com/story/001059484
 .ftchinese.com/story/001059537
 .ftchinese.com/story/001059538
