@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ExD8YADUiN/Nm4lK8fDyhA
+! Checksum: K/hJj/VWsmF0CgMcxY7vCQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 26 Oct 2017 04:19:51 -0400
+! Last Modified: Sat, 28 Oct 2017 10:11:16 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1868,7 +1868,7 @@ hkupop.hku.hk
 .cnabc.com
 .cnd.org
 ||cnd.org
-download.cnet.com/Freegate
+download.cnet.com
 .cnex.org.cn
 .cnineu.com
 wiki.cnitter.com
@@ -1935,6 +1935,8 @@ creaders.net
 |http://crocotube.com
 .crossthewall.net
 ||crossthewall.net
+.crossvpn.net
+||crossvpn.net
 csdparty.com
 ||csdparty.com
 ||csuchen.de
@@ -2885,7 +2887,9 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074693
 .ftchinese.com/story/001074699
 .ftchinese.com/story/001074712
+.ftchinese.com/story/001074713
 .ftchinese.com/story/001074794
+.ftchinese.com/story/001074822
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
@@ -4135,7 +4139,7 @@ blog.lester850.info
 .letou.com
 letscorp.net
 ||letscorp.net
-!↓↓69.16.175.42
+!69.16.175.42
 ||cdn.assets.lfpcontent.com
 .lhakar.org
 |http://lhakar.org
