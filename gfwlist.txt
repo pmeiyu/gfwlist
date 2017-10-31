@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: K/hJj/VWsmF0CgMcxY7vCQ
+! Checksum: A1ErCcjjRGs1Zw9a6bAGkw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 28 Oct 2017 10:11:16 -0400
+! Last Modified: Tue, 31 Oct 2017 04:27:09 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -234,6 +234,7 @@ share.dmhy.org
 !---Amazon---
 !-||cdn-images.mailchimp.com
 |https://*.s3.amazonaws.com
+||s3-ap-southeast-2.amazonaws.com
 ||agro.hk
 ||apkmirror.com
 ||boomssr.com
@@ -2662,10 +2663,14 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001037090
 .ftchinese.com/story/001037091
 .ftchinese.com/story/001038220
+.ftchinese.com/story/001039211
+.ftchinese.com/story/001039271
+.ftchinese.com/story/001039295
 .ftchinese.com/story/001039369
 .ftchinese.com/story/001039712
 .ftchinese.com/story/001040890
 .ftchinese.com/story/001040918
+.ftchinese.com/story/001041209
 .ftchinese.com/story/001042100
 .ftchinese.com/story/001042252
 .ftchinese.com/story/001042272
@@ -2706,6 +2711,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001053526
 .ftchinese.com/story/001053906
 .ftchinese.com/story/001054103
+.ftchinese.com/story/001054119
 .ftchinese.com/story/001054139
 .ftchinese.com/story/001054166
 .ftchinese.com/story/001054168
@@ -2788,7 +2794,9 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001060946
 .ftchinese.com/story/001061120
 .ftchinese.com/story/001061642
+.ftchinese.com/story/001062020
 .ftchinese.com/story/001062028
+.ftchinese.com/story/001062147
 .ftchinese.com/story/001062176
 .ftchinese.com/story/001062254
 .ftchinese.com/story/001062374
@@ -2888,6 +2896,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074699
 .ftchinese.com/story/001074712
 .ftchinese.com/story/001074713
+.ftchinese.com/story/001074768
 .ftchinese.com/story/001074794
 .ftchinese.com/story/001074822
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
@@ -7124,6 +7133,7 @@ zomobo.net
 ||zonaeuropa.com
 ||zonghexinwen.com
 .zonghexinwen.net
+||zoogvpn.com
 ||zootool.com
 .zoozle.net
 writer.zoho.com
