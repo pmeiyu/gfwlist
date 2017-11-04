@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: J0lLXbexB/H9o1wvB2Nrrw
+! Checksum: gBhA+GmbCqOig4aEtLebNQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 31 Oct 2017 22:25:44 -0400
+! Last Modified: Fri, 03 Nov 2017 20:15:52 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -680,6 +680,7 @@ blogspot.com
 ||iam.soy
 ||igoogle.com
 ||itasoftware.com
+||lers.google
 ||like.com
 ||madewithcode.com
 ||material.io
@@ -2667,6 +2668,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001035972
 .ftchinese.com/story/001037090
 .ftchinese.com/story/001037091
+.ftchinese.com/story/001038199
 .ftchinese.com/story/001038220
 .ftchinese.com/story/001038862
 .ftchinese.com/story/001039067
@@ -2782,6 +2784,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001058656
 .ftchinese.com/story/001058665
 .ftchinese.com/story/001058678
+.ftchinese.com/story/001058721
 .ftchinese.com/story/001058728
 .ftchinese.com/story/001059484
 .ftchinese.com/story/001059537
