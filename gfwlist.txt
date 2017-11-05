@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: nEyQStkBZ0E8y28VfVECjw
+! Checksum: uO0aCRcl/qRqxFEZZVv4Vg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 04 Nov 2017 22:01:49 -0400
+! Last Modified: Sat, 04 Nov 2017 23:10:49 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2723,22 +2723,27 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001049360
 .ftchinese.com/story/001051027
 .ftchinese.com/story/001051372
+.ftchinese.com/story/001052525
+.ftchinese.com/story/001052549
 .ftchinese.com/story/001052965
 .ftchinese.com/story/001053150
 .ftchinese.com/story/001053425
 .ftchinese.com/story/001053526
 .ftchinese.com/story/001053906
 .ftchinese.com/story/001054103
+.ftchinese.com/story/001054109
 .ftchinese.com/story/001054119
 .ftchinese.com/story/001054139
 .ftchinese.com/story/001054166
 .ftchinese.com/story/001054168
+.ftchinese.com/story/001054190
 .ftchinese.com/story/001054526
 .ftchinese.com/story/001054607
 .ftchinese.com/story/001054644
 .ftchinese.com/story/001054786
 .ftchinese.com/story/001054925
 .ftchinese.com/story/001055051
+.ftchinese.com/story/001055136
 .ftchinese.com/story/001055170
 .ftchinese.com/story/001055202
 .ftchinese.com/story/001055242
@@ -2749,8 +2754,10 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001055551
 .ftchinese.com/story/001055559
 .ftchinese.com/story/001055566
+.ftchinese.com/story/001056099
 .ftchinese.com/story/001056108
 .ftchinese.com/story/001056131
+.ftchinese.com/story/001056375
 .ftchinese.com/story/001056529
 .ftchinese.com/story/001056538
 .ftchinese.com/story/001056541
@@ -2848,6 +2855,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001065541
 .ftchinese.com/story/001065735
 .ftchinese.com/story/001065756
+.ftchinese.com/story/001066112
 .ftchinese.com/story/001066136
 .ftchinese.com/story/001066140
 .ftchinese.com/story/001066465
@@ -2923,6 +2931,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074712
 .ftchinese.com/story/001074713
 .ftchinese.com/story/001074768
+.ftchinese.com/story/001074782
 .ftchinese.com/story/001074794
 .ftchinese.com/story/001074822
 .ftchinese.com/story/001074874
