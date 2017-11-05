@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +7bXM+4v0+KdlikzL1FpuQ
+! Checksum: Y7EeFEIjIKQAQEh/5LyoZw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 04 Nov 2017 21:24:18 -0400
+! Last Modified: Sat, 04 Nov 2017 21:54:39 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -175,7 +175,6 @@ share.dmhy.org
 |https://riseup.net
 ||sadistic-v.com
 |http://cdn*.search.xxx/
-||shutterstock.com
 ||slacker.com
 ||sm-miracle.com
 ||spotify.com
@@ -242,6 +241,7 @@ share.dmhy.org
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
 ||go.nesnode.com
+||nikkei.com
 ||pixiv.net
 ||i.lithium.com
 
@@ -2661,6 +2661,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001026807
 .ftchinese.com/story/001030341
 .ftchinese.com/story/001030502
+.ftchinese.com/story/001030803
 .ftchinese.com/story/001031317
 .ftchinese.com/story/001032692
 .ftchinese.com/story/001033138
@@ -5497,6 +5498,8 @@ shkspr.mobi/dabr
 .shopping.com
 .showhaotu.com
 .showtime.jp
+.shutterstock.com
+||shutterstock.com
 ch.shvoong.com
 .shwchurch.org
 ||www.shwchurch.org
