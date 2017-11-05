@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Y7EeFEIjIKQAQEh/5LyoZw
+! Checksum: nEyQStkBZ0E8y28VfVECjw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 04 Nov 2017 21:54:39 -0400
+! Last Modified: Sat, 04 Nov 2017 22:01:49 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1996,6 +1996,7 @@ dadazim.com
 .dadi360.com
 dafagood.com
 dafahao.com
+.dafoh.org
 .dagelijksestandaard.nl
 .daidostup.ru
 |http://daidostup.ru
@@ -2418,6 +2419,7 @@ faluninfo.net
 .falunpilipinas.net
 ||falunworld.net
 familyfed.org
+.fangeming.com
 ||fanglizhi.info
 ||fangong.org
 fangongheike.com
@@ -5679,6 +5681,7 @@ spem.at
 ||srocket.us
 .ss-link.com
 ||ss-link.com
+.ssglobal.co/wp
 .ssglobal.me
 ||ssh91.com
 .sspro.ml
