@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: qym22HXDpbhrcizKn1t57w
+! Checksum: dNuX6gH562y16jhovlBfgA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 07 Nov 2017 22:52:03 -0500
+! Last Modified: Sat, 11 Nov 2017 19:36:11 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -571,6 +571,7 @@ blogspot.com
 ||duck.com
 ||environment.google
 ||feedburner.com
+||firebaseio.com
 ||g.co
 ||gcr.io
 ||get.how
@@ -3043,6 +3044,7 @@ gardennetworks.com
 gati.org.tw
 .gaybubble.com
 .gaycn.net
+.gayhub.com
 ||gaymap.cc
 .gaytube.com
 !--||gaytube.com
@@ -5364,7 +5366,7 @@ riku.me/
 .rmjdw.com
 .rmjdw132.info
 .roadshow.hk
-robtex.com
+.roboforex.com
 ||robustnessiskey.com
 ||roc-taiwan.org
 ||rocket-inc.net
@@ -5755,6 +5757,8 @@ usinfo.state.gov
 ||starp2p.com
 .startpage.com
 ||startpage.com
+.startuplivingchina.com
+|http://startuplivingchina.com
 ||static-economist.com
 ||stc.com.sa
 steamcommunity.com/profiles/76561198062771609
@@ -6726,6 +6730,7 @@ waikeung.org/php_wind
 .wailaike.net
 .waiwaier.com
 |http://waiwaier.com
+||wallmama.com
 wallornot.org
 ||wallpapercasa.com
 .wallproxy.com
@@ -7057,6 +7062,7 @@ xuchao.net
 xvideo.cc
 .xvideos.com
 ||xvideos.es
+.xkiwi.tk/
 .xxbbx.com
 .xxlmovies.com
 ||xxx.com
