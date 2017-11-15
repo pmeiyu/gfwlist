@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: dNuX6gH562y16jhovlBfgA
+! Checksum: Gy84bDRcL1zECuo65FXtVQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 11 Nov 2017 19:36:11 -0500
+! Last Modified: Tue, 14 Nov 2017 22:29:11 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -984,6 +984,7 @@ zhao.1984.city
 .21pron.com
 21sextury.com
 .228.net.tw
+||233abc.com
 ||24hrs.ca
 24smile.org
 2lipstube.com
@@ -1408,8 +1409,9 @@ bigfools.com
 .bignews.org
 ||bignews.org
 .bigsound.org
+.biliworld.com
+|http://biliworld.com
 |http://billypan.com/wiki
-||billywr.com
 .binux.me
 ai.binwang.me/couplet
 bipic.net
@@ -3517,6 +3519,7 @@ hahlo.com
 |http://hk.hao123img.com
 |http://ld.hao123img.com
 ||happy-vpn.com
+.haproxy.org
 ||hardsextube.com
 .harunyahya.com
 |http://harunyahya.com
@@ -3822,6 +3825,8 @@ ifjc.org
 ||igcd.net
 .igfw.net
 ||igfw.net
+.igfw.tech
+||igfw.tech
 .igmg.de
 ||ignitedetroit.net
 .igotmail.com.tw
@@ -4235,6 +4240,7 @@ blog.lester850.info
 .letou.com
 letscorp.net
 ||letscorp.net
+||ss.levyhsu.com
 !69.16.175.42
 ||cdn.assets.lfpcontent.com
 .lhakar.org
@@ -4507,6 +4513,7 @@ minzhuzhanxian.com
 minzhuzhongguo.org
 ||miroguide.com
 mirrorbooks.com
+.mist.vip
 thecenter.mit.edu
 .mitao.com.tw
 .mitbbs.com
@@ -5190,7 +5197,6 @@ api.proxlet.com
 ||proxomitron.info
 .proxpn.com
 ||proxpn.com
-proxy.org
 .proxylist.org.uk
 ||proxylist.org.uk
 .proxypy.net
@@ -5736,6 +5742,7 @@ spem.at
 .ss-link.com
 ||ss-link.com
 .ssglobal.co/wp
+|http://ssglobal.co
 .ssglobal.me
 ||ssh91.com
 .sspro.ml
@@ -5789,6 +5796,7 @@ stickeraction.com/sesawe
 .stormmediagroup.com
 ||stoweboyd.com
 stranabg.com
+||straplessdildo.com
 ||streamingthe.net
 streema.com/tv/NTDTV_Chinese
 cn.streetvoice.com/article
@@ -5932,6 +5940,8 @@ tbswd.org
 .tcewf.org
 tchrd.org
 tcnynj.org
+.tcpspeed.com
+@@||tcpspeed.com
 .tcsofbc.org
 .tcsovi.org
 teamamericany.com
@@ -7302,7 +7312,6 @@ zhengjian
 @@||fonts.gstatic.com
 @@||haosou.com
 @@||ip.cn
-@@||jd.com
 @@||jike.com
 @@|http://translate.google.cn
 @@|http://www.google.cn/maps
@@ -7314,7 +7323,6 @@ zhengjian
 @@||sogou.com
 @@||so.com
 @@||soso.com
-@@||taobao.com
 @@||uluai.com.cn
 @@||weibo.com
 @@||yahoo.cn
