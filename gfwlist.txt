@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ft1gxOlD75+FVqemaSvDjw
+! Checksum: LdA5YMAHvbn/y7oUv4XZGQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 15 Nov 2017 22:19:11 -0500
+! Last Modified: Thu, 16 Nov 2017 20:03:34 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -767,20 +767,14 @@ cn.nytstyle.com
 ||telegram.org
 .telegramdownload.com
 
-!!---V2EX---
-.v2ex.com
-!--Included in above rule: dns.v2ex.com
-@@|http://v2ex.com
-@@|http://cdn.v2ex.com
-@@|http://cn.v2ex.com
-@@|http://hk.v2ex.com
-@@|http://i.v2ex.com
-@@|http://lax.v2ex.com
-@@|http://neue.v2ex.com
-@@|http://pagespeed.v2ex.com
-@@|http://static.v2ex.com
-@@|http://workspace.v2ex.com
-@@|http://www.v2ex.com
+!!---Twitter---
+.t.co
+||t.co
+||twimg.com
+.twitter.com
+||twitter.com
+||twitter.jp
+||vine.co
 
 !!---Taiwan---
 ||gov.taipei
@@ -896,6 +890,21 @@ cn.nytstyle.com
 !--@@||tcsac.gov.tw
 !--@@||tncsec.gov.tw
 ||kinmen.org.tw
+
+!!---V2EX---
+.v2ex.com
+!--Included in above rule: dns.v2ex.com
+@@|http://v2ex.com
+@@|http://cdn.v2ex.com
+@@|http://cn.v2ex.com
+@@|http://hk.v2ex.com
+@@|http://i.v2ex.com
+@@|http://lax.v2ex.com
+@@|http://neue.v2ex.com
+@@|http://pagespeed.v2ex.com
+@@|http://static.v2ex.com
+@@|http://workspace.v2ex.com
+@@|http://www.v2ex.com
 
 !!---Yahoo---
 ||data.flurry.com
@@ -2667,6 +2676,7 @@ hk.frienddy.com/hk
 |https://www.ftchinese.com
 .ftchinese.com/channel/video
 .ftchinese.com/story/00102753
+.ftchinese.com/story/001026616
 .ftchinese.com/story/001026807
 .ftchinese.com/story/001027429
 .ftchinese.com/story/001030341
@@ -2716,6 +2726,8 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001042252
 .ftchinese.com/story/001042272
 .ftchinese.com/story/001042280
+.ftchinese.com/story/001043029
+.ftchinese.com/story/001043124
 .ftchinese.com/story/001043152
 .ftchinese.com/story/001043189
 .ftchinese.com/story/001043428
@@ -2831,6 +2843,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001057580
 .ftchinese.com/story/001057638
 .ftchinese.com/story/001057644
+.ftchinese.com/story/001057817
 .ftchinese.com/story/001057875
 .ftchinese.com/story/001058009
 .ftchinese.com/story/001058056
@@ -2867,6 +2880,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001059957
 .ftchinese.com/story/001060088
 .ftchinese.com/story/001060156
+.ftchinese.com/story/001060157
 .ftchinese.com/story/001060160
 .ftchinese.com/story/001060181
 .ftchinese.com/story/001060493
@@ -2884,6 +2898,8 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001062017
 .ftchinese.com/story/001062020
 .ftchinese.com/story/001062028
+.ftchinese.com/story/001062092
+.ftchinese.com/story/001062096
 .ftchinese.com/story/001062147
 .ftchinese.com/story/001062176
 .ftchinese.com/story/001062254
@@ -2919,6 +2935,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001066136
 .ftchinese.com/story/001066140
 .ftchinese.com/story/001066465
+.ftchinese.com/story/001066881
 .ftchinese.com/story/001066950
 .ftchinese.com/story/001066959
 .ftchinese.com/story/001067435
@@ -3913,8 +3930,6 @@ website.informer.com
 |http://insecam.org
 ||insidevoa.com
 .institut-tibetain.org
-||interfaceaddiction.com
-||internationalrivers.org
 |http://internet.org/
 internetdefenseleague.org
 internetfreedom.org
@@ -3944,7 +3959,6 @@ ipoock.com/img
 ||ipvanish.com
 iredmail.org
 chinese.irib.ir
-||ironicsoftware.com
 ||ironbigfools.compython.net
 ||ironpython.net
 .ironsocket.com
@@ -3987,6 +4001,7 @@ ithelp.ithome.com.tw
 .itweet.net
 |http://itweet.net
 .iu45.com
+.iuhrdf.org
 ||iuhrdf.org
 .iuksky.com
 .ivacy.com
@@ -4073,7 +4088,6 @@ weiboscope.jmsc.hku.hk
 |http://jmscult.com
 ||joachims.org
 ||jobso.tv
-||joeedelman.com
 .journalchretien.net
 ||journalofdemocracy.org
 .joymiihub.com
@@ -4131,7 +4145,6 @@ karkhung.com
 .karmapa-teachings.org
 .kba-tx.org
 .kcoolonline.com
-||kcsoftwares.com
 .kebrum.com
 ||kebrum.com
 .kechara.com
@@ -4329,18 +4342,15 @@ lkcn.net
 .localdomain.ws
 ||localdomain.ws
 localpresshk.com
-||lockdown.com
 ||lockestek.com
 logbot.net
 ||logiqx.com
 secure.logmein.com
 ||secure.logmein.com
-||logmike.com
 .londonchinese.ca
 .longhair.hk
 longmusic.com
 ||longtermly.net
-||lookingglasstheatre.org
 ||lookpic.com
 .looktoronto.com
 |http://looktoronto.com
@@ -4659,6 +4669,7 @@ mysinablog.com
 !--||blogs.myspace.com
 !--vids.myspace.com/index.cfm?fuseaction=vids.
 !--viewmorepics.myspace.com
+||myspacecdn.com
 .mytalkbox.com
 .mytizi.com
 
@@ -5879,6 +5890,7 @@ blog.syx86.cn/2009/09/puff
 ||szetowah.org.hk
 
 !--------------------TT-------------------------
+||t-g.com
 .t35.com
 .t66y.com
 ||t66y.com
@@ -6427,15 +6439,9 @@ twitoaster.com
 ||turbotwitter.com
 .twitvid.com
 ||twitvid.com
-199.59.148.20
-.t.co
-||t.co
 |http://twt.tl
 twittbot.net
 ||ads-twitter.com
-.twitter.com
-||twitter.com
-||twitter.jp
 ||twttr.com
 ||twitter4j.org
 .twittercounter.com
@@ -6458,7 +6464,6 @@ twiyia.com
 ||twstar.net
 .twtkr.com
 |http://twtkr.com
-||twimg.com
 .twnorth.org.tw
 twskype.com
 twtrland.com
