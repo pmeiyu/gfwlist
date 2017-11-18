@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Ld+5/Li1Z3AnfkBS6pT4JA
+! Checksum: PBRv+qjRBZfUDULgU230Fg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 17 Nov 2017 20:50:48 -0500
+! Last Modified: Sat, 18 Nov 2017 01:04:40 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -768,6 +768,9 @@ cn.nytstyle.com
 .telegramdownload.com
 
 !!---Twitter---
+||periscope.tv
+.pscp.tv
+||pscp.tv
 .t.co
 ||t.co
 ||twimg.com
@@ -2718,6 +2721,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001039779
 .ftchinese.com/story/001039809
 .ftchinese.com/story/001040134
+.ftchinese.com/story/001040835
 .ftchinese.com/story/001040890
 .ftchinese.com/story/001040918
 .ftchinese.com/story/001040992
@@ -2738,6 +2742,8 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001044099
 .ftchinese.com/story/001044776
 .ftchinese.com/story/001044871
+.ftchinese.com/story/001045114
+.ftchinese.com/story/001045139
 .ftchinese.com/story/001045186
 .ftchinese.com/story/001045755
 .ftchinese.com/story/001046087
@@ -3232,6 +3238,7 @@ blog.goo.ne.jp/duck-tail_2009
 .gotrusted.com
 ||gotrusted.com
 ||gotw.ca
+||grammaly.com
 grandtrial.org
 .graphis.ne.jp
 ||graphis.ne.jp
@@ -3492,7 +3499,6 @@ gospelherald.com
 ||gospelherald.com
 |http://hk.gradconnection.com/
 ||grangorz.org
-||graylog2.org
 greatfire.org
 ||greatfire.org
 greatfirewallofchina.org
@@ -3562,7 +3568,6 @@ hahlo.com
 ||hardsextube.com
 .harunyahya.com
 |http://harunyahya.com
-||hasaowall.com
 bbs.hasi.wang
 have8.com
 @@||haygo.com
@@ -5183,8 +5188,6 @@ provpnaccounts.com
 proxyanonimo.es
 .proxynetwork.org.uk
 ||proxynetwork.org.uk
-.pscp.tv
-||pscp.tv
 ||pts.org.tw
 .pttvan.org
 pubu.com.tw
@@ -5975,8 +5978,9 @@ tbswd.org
 .tcewf.org
 tchrd.org
 tcnynj.org
+||tcpspeed.co
 .tcpspeed.com
-@@||tcpspeed.com
+||tcpspeed.com
 .tcsofbc.org
 .tcsovi.org
 teamamericany.com
