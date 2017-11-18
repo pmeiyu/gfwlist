@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: johJQ17fx5aDCCyQimXgwQ
+! Checksum: Ld+5/Li1Z3AnfkBS6pT4JA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 17 Nov 2017 20:24:15 -0500
+! Last Modified: Fri, 17 Nov 2017 20:50:48 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2796,7 +2796,9 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001054607
 .ftchinese.com/story/001054644
 .ftchinese.com/story/001054786
+.ftchinese.com/story/001054843
 .ftchinese.com/story/001054925
+.ftchinese.com/story/001054940
 .ftchinese.com/story/001055051
 .ftchinese.com/story/001055063
 .ftchinese.com/story/001055069
@@ -2870,6 +2872,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001058691
 .ftchinese.com/story/001058721
 .ftchinese.com/story/001058728
+.ftchinese.com/story/001059464
 .ftchinese.com/story/001059484
 .ftchinese.com/story/001059537
 .ftchinese.com/story/001059538
@@ -3104,7 +3107,6 @@ gdzf.org
 ||geek-art.net
 geekerhome.com/2010/03/xixiang-project-cross-gfw
 ||geekheart.info
-||geekmanuals.com
 .gekikame.com
 |http://gekikame.com
 .gelbooru.com
@@ -3114,8 +3116,6 @@ geekerhome.com/2010/03/xixiang-project-cross-gfw
 .geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
 geocities.jp
-||geohot.com
-||geometrictools.com
 .gerefoundation.org
 ||getastrill.com
 .getchu.com
@@ -3232,7 +3232,6 @@ blog.goo.ne.jp/duck-tail_2009
 .gotrusted.com
 ||gotrusted.com
 ||gotw.ca
-||grammaly.com
 grandtrial.org
 .graphis.ne.jp
 ||graphis.ne.jp
