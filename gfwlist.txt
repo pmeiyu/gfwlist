@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: hLr317RZ8YiXLNnt+J4Qow
+! Checksum: hmDA1MsYl2gB2Pe1o0GpMQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 19 Nov 2017 22:51:59 -0500
+! Last Modified: Sun, 19 Nov 2017 23:05:26 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -236,6 +236,7 @@ share.dmhy.org
 ||agro.hk
 ||apkmirror.com
 ||boomssr.com
+||glorystar.me
 ||jiji.com
 ||line-scdn.net
 ||cloud.mail.ru
@@ -243,7 +244,9 @@ share.dmhy.org
 ||go.nesnode.com
 ||nikkei.com
 ||pixiv.net
+||sulian.me
 ||i.lithium.com
+||xm.com
 
 !----------------Frauds & Scams-----------------
 china-mmm.jp.net
@@ -2680,7 +2683,9 @@ hk.frienddy.com/hk
 .ftchinese.com/channel/video
 .ftchinese.com/story/00102753
 .ftchinese.com/story/001026616
+.ftchinese.com/story/001026749
 .ftchinese.com/story/001026807
+.ftchinese.com/story/001026808
 .ftchinese.com/story/001026834
 .ftchinese.com/story/001026880
 .ftchinese.com/story/001027429
@@ -2744,6 +2749,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001044099
 .ftchinese.com/story/001044776
 .ftchinese.com/story/001044871
+.ftchinese.com/story/001044897
 .ftchinese.com/story/001045114
 .ftchinese.com/story/001045139
 .ftchinese.com/story/001045186
@@ -2827,6 +2833,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001056375
 .ftchinese.com/story/001056491
 .ftchinese.com/story/001056529
+.ftchinese.com/story/001056534
 .ftchinese.com/story/001056538
 .ftchinese.com/story/001056541
 .ftchinese.com/story/001056554
@@ -3062,6 +3069,8 @@ funp.com
 .fuyindiantai.org
 .fuyu.org.tw
 ||fw.cm
+.fxcm-chinese.com
+||fxcm-chinese.com
 fzh999.com
 fzh999.net
 fzlm.com
@@ -5886,6 +5895,7 @@ sun1911.com
 ||surrenderat20.net
 .suyangg.com
 |http://suyangg.com
+.svsfx.com
 .swissvpn.net
 ||swissvpn.net
 switchvpn.net
