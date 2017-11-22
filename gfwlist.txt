@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: H8U8oudE1YOj+UjQEMqWGg
+! Checksum: 2dOJ7O+Zu0o2Gw/gL9086Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 21 Nov 2017 19:09:28 -0500
+! Last Modified: Tue, 21 Nov 2017 19:19:32 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -249,6 +249,10 @@ share.dmhy.org
 ||xm.com
 
 !----------------Frauds & Scams-----------------
+!!---Content Farm(fake 500 error)---
+||read01.com
+||kknews.cc
+
 china-mmm.jp.net
 .lsxszzg.com
 .china-mmm.net
@@ -2942,6 +2946,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001062794
 .ftchinese.com/story/001063160
 .ftchinese.com/story/001063359
+.ftchinese.com/story/001063512
 .ftchinese.com/story/001063668
 .ftchinese.com/story/001063692
 .ftchinese.com/story/001063763
