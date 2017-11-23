@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2dOJ7O+Zu0o2Gw/gL9086Q
+! Checksum: cn+qMUfAC3cU/Oy8pmpbwQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 21 Nov 2017 19:19:32 -0500
+! Last Modified: Wed, 22 Nov 2017 20:21:26 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -236,6 +236,7 @@ share.dmhy.org
 ||agro.hk
 ||apkmirror.com
 ||boomssr.com
+||blog.fuckgfw233.org
 ||glorystar.me
 ||jiji.com
 ||line-scdn.net
@@ -1970,6 +1971,7 @@ creaders.net
 ||crossthewall.net
 .crossvpn.net
 ||crossvpn.net
+||crucial.com
 csdparty.com
 ||csdparty.com
 ||csuchen.de
@@ -2748,6 +2750,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001043152
 .ftchinese.com/story/001043189
 .ftchinese.com/story/001043428
+.ftchinese.com/story/001043439
 .ftchinese.com/story/001043534
 .ftchinese.com/story/001043675
 .ftchinese.com/story/001043680
@@ -2789,6 +2792,8 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001048710
 .ftchinese.com/story/001049289
 .ftchinese.com/story/001049360
+.ftchinese.com/story/001049896
+.ftchinese.com/story/001050152
 .ftchinese.com/story/001051027
 .ftchinese.com/story/001051161
 .ftchinese.com/story/001051372
@@ -2815,6 +2820,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001054166
 .ftchinese.com/story/001054168
 .ftchinese.com/story/001054190
+.ftchinese.com/story/001054437
 .ftchinese.com/story/001054526
 .ftchinese.com/story/001054607
 .ftchinese.com/story/001054644
@@ -2934,6 +2940,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001062096
 .ftchinese.com/story/001062147
 .ftchinese.com/story/001062176
+.ftchinese.com/story/001062188
 .ftchinese.com/story/001062254
 .ftchinese.com/story/001062374
 .ftchinese.com/story/001062482
@@ -2973,6 +2980,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001066959
 .ftchinese.com/story/001067435
 www.ftchinese.com/story/001067479
+.ftchinese.com/story/001067528
 .ftchinese.com/story/001067545
 .ftchinese.com/story/001067572
 .ftchinese.com/story/001067648
@@ -2990,6 +2998,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001068616
 .ftchinese.com/story/001068622
 .ftchinese.com/story/001068707
+.ftchinese.com/story/001069146
 .ftchinese.com/story/001069373
 .ftchinese.com/story/001069516
 .ftchinese.com/story/001069517
@@ -7359,6 +7368,7 @@ zhengjian
 @@||khm3.google.com
 @@||khmdb.google.com
 @@||tools.google.com
+@@||clientservices.googleapis.com
 @@||fonts.googleapis.com
 @@||khm.googleapis.com
 @@||khm0.googleapis.com
@@ -7367,6 +7377,7 @@ zhengjian
 @@||khm3.googleapis.com
 @@||khmdb.googleapis.com
 @@||storage.googleapis.com
+@@||translate.googleapis.com
 @@||update.googleapis.com
 @@||cn.gravatar.com
 @@||connectivitycheck.gstatic.com
