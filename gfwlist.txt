@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: iw0M2SKDqR7JOrfjee1Gog
+! Checksum: BvGmduuMpWTDB8/hBHaiBw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 28 Nov 2017 19:41:47 -0500
+! Last Modified: Tue, 28 Nov 2017 19:51:23 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -7037,6 +7037,7 @@ worldjournal.com
 |http://*.wordpress.com
 ||cnbbnews.wordpress.com
 ||chenshan20042005.wordpress.com
+||freedominfonetweb.wordpress.com
 ||hka8964.wordpress.com
 ||hkanews.wordpress.com
 ||hqsbonline.wordpress.com
