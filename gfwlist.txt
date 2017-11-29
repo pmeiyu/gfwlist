@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: QUkpbZMlsDW+47iLLkVhlw
+! Checksum: iw0M2SKDqR7JOrfjee1Gog
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 25 Nov 2017 19:47:45 -0500
+! Last Modified: Tue, 28 Nov 2017 19:41:47 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -673,7 +673,7 @@ blogspot.com
 ||googleplus.com
 ||googlescholar.com
 ||googlesource.com
-||googlesyndication.com
+!--||googlesyndication.com
 !--||googletagmanager.com
 !--||googletagservices.com
 ||googleusercontent.com
@@ -5397,6 +5397,8 @@ rcinet.ca
 .readydown.com
 |http://readydown.com
 .realcourage.org
+.realitykings.com
+||realitykings.com
 .realraptalk.com
 .realsexpass.com
 .recordhistory.org
@@ -7249,6 +7251,7 @@ yuanming.net
 .yuanzhengtang.org
 .yulghun.com
 ||yunchao.net
+||yuntipub.com
 .yuvutu.com
 ||yvesgeleyn.com
 .ywpw.com/forums/history/post/A0/p0/html/227
