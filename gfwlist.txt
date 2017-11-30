@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: BvGmduuMpWTDB8/hBHaiBw
+! Checksum: zJiuBRHiHy0vdBROvFwRVA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 28 Nov 2017 19:51:23 -0500
+! Last Modified: Wed, 29 Nov 2017 21:21:14 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -244,6 +244,7 @@ share.dmhy.org
 ||cdn-images.mailchimp.com
 ||go.nesnode.com
 ||nikkei.com
+||my.pcloud.com
 ||pixiv.net
 ||secure.raxcdn.com
 ||sulian.me
@@ -3819,6 +3820,7 @@ hrweb.org
 .huangyiyu.com
 .huaren.us
 ||huaren.us
+m.huaren4us.com
 .huashangnews.com
 |http://huashangnews.com
 bbs.huasing.org
@@ -4137,6 +4139,7 @@ weiboscope.jmsc.hku.hk
 |http://jmscult.com
 ||joachims.org
 ||jobso.tv
+.sunwinism.joinbbs.net
 .journalchretien.net
 ||journalofdemocracy.org
 .joymiihub.com
