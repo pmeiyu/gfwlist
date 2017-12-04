@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: mYF6O6w/PrGRplHKMNRPTQ
+! Checksum: cxvOsNhswylhCnhgAk39Jg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 03 Dec 2017 21:03:14 -0500
+! Last Modified: Mon, 04 Dec 2017 18:53:36 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -728,6 +728,7 @@ blogspot.com
 ||whatbrowser.org
 ||widevine.com
 ||withgoogle.com
+||x.company
 ||xn--ngstr-lra8j.com
 ||youtu.be
 .youtube.com
@@ -1048,6 +1049,7 @@ taiwannation.50webs.com
 666kb.com
 6park.com
 ||6park.com
+||6parker.com
 ||7capture.com
 .7cow.com
 .8-d.com
