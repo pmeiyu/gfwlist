@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: cxvOsNhswylhCnhgAk39Jg
+! Checksum: FAHQyqLjYUt3BeB3a+U4zA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 04 Dec 2017 18:53:36 -0500
+! Last Modified: Tue, 12 Dec 2017 19:31:31 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -728,6 +728,7 @@ blogspot.com
 ||whatbrowser.org
 ||widevine.com
 ||withgoogle.com
+||withyoutube.com
 ||x.company
 ||xn--ngstr-lra8j.com
 ||youtu.be
@@ -785,7 +786,11 @@ cn.nytstyle.com
 ||pscp.tv
 .t.co
 ||t.co
+.tweetdeck.com
+||tweetdeck.com
 ||twimg.com
+.twitpic.com
+||twitpic.com
 .twitter.com
 ||twitter.com
 ||twitter.jp
@@ -6423,8 +6428,6 @@ tweetboard.com
 ||tweetboner.biz
 .tweetcs.com
 |http://tweetcs.com
-.tweetdeck.com
-||tweetdeck.com
 |http://deck.ly
 !-- Operation discontinued
 !--||tweete.net
@@ -6488,8 +6491,6 @@ twitmania.com
 twitoaster.com
 ||twitoaster.com
 ||twitonmsn.com
-.twitpic.com
-||twitpic.com
 !--Same IP
 .twit2d.com
 ||twit2d.com
@@ -7007,6 +7008,7 @@ zh-yue.wikipedia.org
 ||windowsphoneme.com
 .windscribe.com
 ||windscribe.com
+||community.windy.com
 ||wingy.site
 winning11.com
 winwhispers.info
