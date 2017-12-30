@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: U/GUlZoKtr2PCWiayBJQmQ
+! Checksum: digSkkgTcbRZwh+9/k7jEA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 29 Dec 2017 23:36:14 -0500
+! Last Modified: Sat, 30 Dec 2017 01:17:43 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -249,6 +249,7 @@ share.dmhy.org
 ||my.pcloud.com
 ||pixiv.net
 ||secure.raxcdn.com
+||sosreader.com
 ||sulian.me
 ||unseen.is
 ||xm.com
@@ -3083,6 +3084,12 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074891
 .ftchinese.com/story/001074918
 .ftchinese.com/story/001075081
+.ftchinese.com/story/001075216
+.ftchinese.com/story/001075230
+.ftchinese.com/story/001075262
+.ftchinese.com/story/001075269
+.ftchinese.com/story/001075500
+.ftchinese.com/story/001075650
 .ftchinese.com/story/001075678
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
@@ -5387,6 +5394,7 @@ opml.radiotime.com
 ||raidcall.com.tw
 .raidtalk.com.tw
 .rainbowplan.org/bbs
+|https://raindrop.io/
 .raizoji.or.jp
 |http://raizoji.or.jp
 rangwang.biz
@@ -6996,6 +7004,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 !--@@||m.wikimediafoundation.org
 !----Main-----
 !--||wikipedia.org
+||ja.wikipedia.org
 zh.wikipedia.org
 !--||zh.wikipedia.org
 zh.m.wikipedia.org
