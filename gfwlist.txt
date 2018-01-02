@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: digSkkgTcbRZwh+9/k7jEA
+! Checksum: eH3ha262IDllqTktNfpajw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 30 Dec 2017 01:17:43 -0500
+! Last Modified: Mon, 01 Jan 2018 19:36:53 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2662,6 +2662,7 @@ cn.freeones.com
 free4u.com.ar
 .free-ssh.com
 ||free-ssh.com
+.freechina.news/
 ||freechinaforum.org
 .freedomcollection.org/interviews/rebiya_kadeer
 .freeforums.org
@@ -5045,7 +5046,7 @@ oyghan.com/wps
 ||ow.ly
 bbs.ozchinese.com
 .ozvoice.org
-|https://ozvoice.org
+||ozvoice.org
 .ozxw.com
 .ozyoyo.com
 
@@ -5263,6 +5264,7 @@ proxyanonimo.es
 pubu.com.tw
 puffinbrowser.com
 pureinsight.org
+.pushchinawall.com
 .putty.org
 ||putty.org
 
@@ -5899,7 +5901,7 @@ sthoo.com
 stickeraction.com/sesawe
 .stileproject.com
 .sto.cc
-||stoneip.info
+.stoporganharvesting.org
 ||storagenewsletter.com
 .storm.mg
 ||storm.mg
@@ -5959,7 +5961,6 @@ sun1911.com
 ||swissvpn.net
 switchvpn.net
 ||switchvpn.net
-||swift-tools.net
 .sydneytoday.com
 ||sydneytoday.com
 .sylfoundation.org
@@ -5969,7 +5970,7 @@ sysresccd.org
 blog.syx86.com/2009/09/puff
 blog.syx86.cn/2009/09/puff
 .szbbs.net
-||szetowah.org.hk
+.szetowah.org.hk
 
 !--------------------TT-------------------------
 ||t-g.com
@@ -6289,8 +6290,6 @@ tora.to
 .torcn.com
 .torproject.org
 ||torproject.org
-torrentcrazy.com
-||torrentcrazy.com
 torrentprivacy.com
 ||torrentprivacy.com
 |http://torrentproject.se
@@ -6553,7 +6552,6 @@ twurl.nl
 .txxx.com
 .tycool.com
 ||tycool.com
-||tzangms.com
 
 !--typepad
 ||typepad.com
