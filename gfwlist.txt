@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: eH3ha262IDllqTktNfpajw
+! Checksum: 4lCzocW7PtchrfCTKvXmhQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 01 Jan 2018 19:36:53 -0500
+! Last Modified: Wed, 03 Jan 2018 20:09:59 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -966,6 +966,7 @@ video.yahoo.com
 |http://0rz.tw
 1-apple.com.tw
 ||1-apple.com.tw
+.10.tt
 .100ke.org
 .1000giri.net
 ||1000giri.net
@@ -7334,6 +7335,7 @@ zhongguo.ca
 zhongguotese.net
 ||zhongguotese.net
 ||zhongmeng.org
+.zhoushuguang.com
 ||zhreader.com
 .zhuangbi.me
 ||zhuangbi.me
