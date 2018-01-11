@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ZAj+mv+ap1/dmFuUgTZ6qA
+! Checksum: tervlpo9ght5cDPRYOH4+A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 10 Jan 2018 19:01:31 -0500
+! Last Modified: Wed, 10 Jan 2018 19:14:20 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -247,6 +247,7 @@ share.dmhy.org
 ||go.nesnode.com
 ||nikkei.com
 ||my.pcloud.com
+||picacomic.com
 ||pixiv.net
 ||secure.raxcdn.com
 ||sosreader.com
@@ -938,6 +939,7 @@ blogs.yahoo.co.jp
 buy.yahoo.com.tw/gdsale
 hk.yahoo.com
 hk.knowledge.yahoo.com
+tw.money.yahoo.com
 hk.myblog.yahoo.com
 news.yahoo.com/china-blocks-bbc
 ||hk.news.yahoo.com
@@ -2175,6 +2177,7 @@ gloryhole.com
 ||dollf.com
 .domain.club.tw
 .domaintoday.com.au
+chinese.donga.com
 dongtaiwang.com
 ||dongtaiwang.com
 .dongtaiwang.net
@@ -5149,6 +5152,7 @@ philly.com
 ||photodharma.net
 ||photofocus.com
 ||phuquocservices.com
+||picacomiccn.com
 .picidae.net
 ||img*.picturedip.com
 picturesocial.com
@@ -7367,7 +7371,7 @@ zomobo.net
 .zoozle.net
 writer.zoho.com
 ||zpn.im
-.zshare.net/download
+||zspeeder.me
 .zsrhao.com
 .zuo.la
 ||zuo.la
