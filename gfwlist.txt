@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 4lCzocW7PtchrfCTKvXmhQ
+! Checksum: ZAj+mv+ap1/dmFuUgTZ6qA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 03 Jan 2018 20:09:59 -0500
+! Last Modified: Wed, 10 Jan 2018 19:01:31 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1112,6 +1112,7 @@ abclite.net
 .acg18.me
 |http://acg18.me
 ||acgkj.com
+.acmedia365.com
 .acnw.com.au
 actfortibet.org
 actimes.com.au
@@ -1277,7 +1278,7 @@ apkpure.com
 ||appsto.re
 ||archives.gov
 .archive.is
-|http://archive.is
+||archive.is
 .archive.fo
 ||archive.org
 .arctosia.com
@@ -1321,6 +1322,7 @@ atgfw.org
 .atnext.com
 ||atnext.com
 ice.audionow.com
+||av.movie
 avaaz.org
 ||avaaz.org
 !--||avast.com
