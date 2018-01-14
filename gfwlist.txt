@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: pvUjwPpb+Kohs6VREJt1uw
+! Checksum: RntqxMgMEEOFmkt2LkXLZw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 13 Jan 2018 20:34:23 -0500
+! Last Modified: Sat, 13 Jan 2018 20:49:00 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -244,6 +244,7 @@ share.dmhy.org
 ||i.lithium.com
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
+||dictionary.goo.ne.jp
 ||go.nesnode.com
 ||nikkei.com
 ||my.pcloud.com
@@ -4633,6 +4634,7 @@ thecenter.mit.edu
 .mitao.com.tw
 .mitbbs.com
 ||mitbbs.com
+mitbbsau.com
 .mixero.com
 ||mixero.com
 mixpod.com
@@ -4641,6 +4643,7 @@ mixpod.com
 ||mizzmona.com
 .mk5000.com
 .mlcool.com
+.mm-cg.com
 ||mmaaxx.com
 .mmmca.com
 mnewstv.com
