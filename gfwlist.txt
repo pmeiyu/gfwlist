@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: tervlpo9ght5cDPRYOH4+A
+! Checksum: pvUjwPpb+Kohs6VREJt1uw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 10 Jan 2018 19:14:20 -0500
+! Last Modified: Sat, 13 Jan 2018 20:34:23 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5494,7 +5494,7 @@ riku.me/
 .roadshow.hk
 .roboforex.com
 ||robustnessiskey.com
-||roc-taiwan.org
+!--||roc-taiwan.org
 ||rocket-inc.net
 |http://www2.rocketbbs.com/11/bbs.cgi?id=5mus
 |http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl
@@ -6005,7 +6005,7 @@ tahr.org.tw
 .taiwandaily.net
 ||taiwandaily.net
 .taiwandc.org
-||taiwanembassy.org
+!--||taiwanembassy.org
 .taiwanjustice.com
 taiwankiss.com
 taiwannation.com
@@ -6013,7 +6013,7 @@ taiwannation.com.tw
 ||taiwanncf.org.tw
 ||taiwannews.com.tw
 |http://www.taiwanonline.cc/
-||taiwantoday.tw
+!--||taiwantoday.tw
 taiwantp.net
 ||taiwantt.org.tw
 taiwanus.net
