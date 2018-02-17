@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: XcPXG8YBfTELG7oWQCsEGA
+! Checksum: Q1/FexUg+15Z1v+oT1bdSw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 10 Feb 2018 22:23:06 -0500
+! Last Modified: Sat, 17 Feb 2018 03:24:30 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6928,7 +6928,8 @@ wengewang.com
 ||wengewang.org
 .wenhui.ch
 |http://trans.wenweipo.com/gb/
-wenxuecity.com
+.wenxuecity.com
+||wenxuecity.com
 .wenyunchao.com
 ||wenyunchao.com
 .westca.com
