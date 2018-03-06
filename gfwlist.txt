@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +T0bsMxfVcuIX1yzncBLmg
+! Checksum: CeYEJmr4E6I2z1wfUFtAKg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 06 Mar 2018 07:19:26 -0500
+! Last Modified: Tue, 06 Mar 2018 07:28:57 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -796,6 +796,7 @@ cn.nytstyle.com
 ||telegram.me
 ||telegram.org
 .telegramdownload.com
+||telesco.pe
 !!!---IP---
 
 !!---Twitter---
