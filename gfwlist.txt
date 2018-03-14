@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CeYEJmr4E6I2z1wfUFtAKg
+! Checksum: q8HVoIPbMp0f4KJEdV5F+A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 06 Mar 2018 07:28:57 -0500
+! Last Modified: Wed, 14 Mar 2018 09:13:20 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -259,6 +259,7 @@ share.dmhy.org
 ||unseen.is
 ||cn.uptodown.com
 ||xm.com
+||xuehua.us
 
 !----------------Frauds & Scams-----------------
 !!---Content Farm(fake 500 error)---
@@ -1722,6 +1723,7 @@ cclife.org
 cclifefl.org
 .ccthere.com
 ||ccthere.com
+.cctmweb.net
 .cctongbao.com/article/2078732
 ccue.ca
 ccue.com
@@ -3873,7 +3875,7 @@ hrweb.org
 .huangyiyu.com
 .huaren.us
 ||huaren.us
-m.huaren4us.com
+.huaren4us.com
 .huashangnews.com
 |http://huashangnews.com
 bbs.huasing.org
@@ -6384,7 +6386,8 @@ tube8.com
 ||tubewolf.com
 .tuibeitu.net
 tuidang.net
-tuidang.org
+.tuidang.org
+||tuidang.org
 .tuidang.se
 bbs.tuitui.info
 .tumutanzi.com
