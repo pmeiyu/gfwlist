@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: q8HVoIPbMp0f4KJEdV5F+A
+! Checksum: u0XW5vFqCPVU6rz4Tzd+Qg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 14 Mar 2018 09:13:20 -0400
+! Last Modified: Fri, 23 Mar 2018 08:59:33 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -235,6 +235,10 @@ share.dmhy.org
 !-||cdn-images.mailchimp.com
 |https://*.s3.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
+
+!---BitCoin---
+||bitmex.com
+
 ||agro.hk
 ||apkmirror.com
 ||boomssr.com
@@ -258,6 +262,7 @@ share.dmhy.org
 ||sulian.me
 ||unseen.is
 ||cn.uptodown.com
+||wire.com
 ||xm.com
 ||xuehua.us
 
