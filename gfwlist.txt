@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: u0XW5vFqCPVU6rz4Tzd+Qg
+! Checksum: GHwiJ5YJIxR9zZMFNroq8g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 23 Mar 2018 08:59:33 -0400
+! Last Modified: Fri, 23 Mar 2018 09:05:53 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -244,6 +244,7 @@ share.dmhy.org
 ||boomssr.com
 ||castbox.fm
 ||blog.fuckgfw233.org
+||globalvoices.org
 ||glorystar.me
 ||jiji.com
 ||line-scdn.net
@@ -4138,6 +4139,7 @@ jamaat.org
 .jandyx.com
 ||janwongphoto.com
 ||japan-whores.com
+.jav.com
 .jav101.com
 .jav2be.com
 ||jav2be.com
@@ -5509,7 +5511,7 @@ retweetist.com
 !--|http://www.reuters.com/news/video
 revver.com
 .rfa.org
-|http://rfa.org
+||rfa.org
 .rfachina.com
 .rfamobile.org
 rfaweb.org
@@ -7365,6 +7367,8 @@ zgzcjj.net
 ||zhangtianliang.com
 ||zhanlve.org
 zhenghui.org
+.zhengjian.org
+||zhengjian.org
 zhengwunet.org
 zhenlibu.info
 ||zhenlibu.info
@@ -7436,7 +7440,6 @@ q=triangle
 q%3DTriangle
 ultrareach
 ultrasurf
-zhengjian
 !#############Supplemental List End#############
 
 !################Whitelist Start################
