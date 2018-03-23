@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: GHwiJ5YJIxR9zZMFNroq8g
+! Checksum: BOQxa3poTEClBshgp4sZdQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 23 Mar 2018 09:05:53 -0400
+! Last Modified: Fri, 23 Mar 2018 09:12:01 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -313,6 +313,7 @@ www.aolnews.com
 .tellme.pw
 
 !!---BBC---
+.bbc.co.uk/blogs
 .bbc.co.uk/chinese
 .bbc.co.uk/news/world-asia-china
 .bbc.co.uk/tv
@@ -2288,8 +2289,8 @@ xys.dxiong.com
 ||e-classical.com.tw
 ||e-gold.com
 .e-gold.com
-||g.e-hentai.org
-||lofi.e-hentai.org
+.e-hentai.org
+||e-hentai.org
 .e-hentaidb.com
 |http://e-hentaidb.com
 e-info.org.tw
