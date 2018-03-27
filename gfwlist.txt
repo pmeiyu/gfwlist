@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Hsoah5iNwp5n7BFSZst3HA
+! Checksum: HM7tJ2kmu3Z/13SBxvGUXg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 23 Mar 2018 09:21:29 -0400
+! Last Modified: Tue, 27 Mar 2018 10:59:00 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -238,12 +238,16 @@ share.dmhy.org
 
 !---BitCoin---
 ||bitmex.com
+||huobi.com
+||huobi.pro
+||huobipro.com
 
 ||agro.hk
 ||apkmirror.com
 ||boomssr.com
 ||castbox.fm
 ||depositphotos.com
+||fangeqiang.com
 ||blog.fuckgfw233.org
 ||globalvoices.org
 ||glorystar.me
@@ -1098,6 +1102,7 @@ taiwannation.50webs.com
 ||881903.com
 .888.com
 .888poker.com
+89.64.charter.constitutionalism.solutions
 89-64.org
 ||89-64.org
 .8news.com.tw
@@ -7415,6 +7420,7 @@ zomobo.net
 ||zootool.com
 .zoozle.net
 writer.zoho.com
+||zorrovpn.com
 ||zpn.im
 ||zspeeder.me
 .zsrhao.com
