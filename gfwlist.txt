@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: QlfGt/j1uuU8UVQO+gZ+jQ
+! Checksum: 338bPzTS/SxL9Kx6sYQRPA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Apr 2018 08:26:51 -0400
+! Last Modified: Sun, 08 Apr 2018 08:49:13 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -240,10 +240,13 @@ share.dmhy.org
 ||binance.com
 ||bitfinex.com
 ||bitmex.com
+||hitbtc.com
 ||huobi.com
 ||huobi.pro
 ||huobipro.com
+||livecoin.net
 ||okex.com
+||zb.com
 
 ||agro.hk
 ||apkmirror.com
@@ -1524,6 +1527,7 @@ blinw.com
 ||blog.de
 .blog.jp
 |http://blog.jp
+@@||jpush.cn
 .blogcatalog.com
 ||blogcatalog.com
 ||blogcity.me
