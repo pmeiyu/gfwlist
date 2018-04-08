@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: LKRkvH44eBTTc7wWEP0ifw
+! Checksum: QlfGt/j1uuU8UVQO+gZ+jQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 27 Mar 2018 11:00:48 -0400
+! Last Modified: Sun, 08 Apr 2018 08:26:51 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -237,10 +237,13 @@ share.dmhy.org
 ||s3-ap-southeast-2.amazonaws.com
 
 !---BitCoin---
+||binance.com
+||bitfinex.com
 ||bitmex.com
 ||huobi.com
 ||huobi.pro
 ||huobipro.com
+||okex.com
 
 ||agro.hk
 ||apkmirror.com
@@ -4921,6 +4924,7 @@ njuice.com
 nlfreevpn.com
 
 !--no-ip.com#NOIP
+.ddns.net/
 .gooddns.info
 ||gotdns.ch
 .maildns.xyz
@@ -7128,6 +7132,7 @@ worldjournal.com
 ||minghuiyw.wordpress.com
 ||wo3ttt.wordpress.com
 ||sujiatun.wordpress.com
+||xijie.wordpress.com
 ||wp.com
 
 !-||wormsculptor.com
