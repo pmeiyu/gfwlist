@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 338bPzTS/SxL9Kx6sYQRPA
+! Checksum: dxgQ838FlHM1wPdD64PoiA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Apr 2018 08:49:13 -0400
+! Last Modified: Mon, 09 Apr 2018 00:19:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -25,6 +25,7 @@
 ||akiba-web.com
 ||alien-ufos.com
 ||altrec.com
+||apartments.com
 ||arena.taipei
 ||asianspiss.com
 ||assimp.org
@@ -706,6 +707,7 @@ blogspot.com
 !--||googletagmanager.com
 !--||googletagservices.com
 ||googleusercontent.com
+.googlevideo.com
 ||googlevideo.com
 ||googleweblight.com
 ||googlezip.net
@@ -1718,6 +1720,8 @@ cari.com.my
 .casinoking.com
 .casinoriva.com
 ||catch22.net
+.catchgod.com
+|http://catchgod.com
 ||catfightpayperview.xxx
 .catholic.org.hk
 ||catholic.org.hk
@@ -6846,6 +6850,7 @@ vpnbook.com
 ||vpndada.com
 .vpnfan.com
 vpnfire.com
+.vpnfires.biz
 .vpnforgame.net
 ||vpnforgame.net
 ||vpngate.jp
@@ -7124,8 +7129,9 @@ worldjournal.com
 ||videopress.com
 .wordpress.com
 |http://*.wordpress.com
-||cnbbnews.wordpress.com
 ||chenshan20042005.wordpress.com
+||chinaview.wordpress.com
+||cnbbnews.wordpress.com
 ||freedominfonetweb.wordpress.com
 ||hka8964.wordpress.com
 ||hkanews.wordpress.com
