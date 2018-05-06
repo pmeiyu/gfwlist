@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8Mv4BbMj0Ji+6tVunl4U/w
+! Checksum: mvUimXY381kCZ9kMANrklQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 06 May 2018 01:17:52 -0400
+! Last Modified: Sun, 06 May 2018 01:27:51 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -740,6 +740,7 @@ blogspot.com
 ||picasaweb.com
 ||polymer-project.org
 ||questvisual.com
+||admin.recaptcha.net
 ||api.recaptcha.net
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
@@ -1387,6 +1388,8 @@ avaaz.org
 .avdb.tv
 ||avdb.tv
 .avfantasy.com
+.avgle.com
+||avgle.com
 ||avidemux.org
 ||avoision.com
 .avyahoo.com
@@ -3399,6 +3402,7 @@ greatzhonghua.org
 gs-discuss.com
 ||gtricks.com
 guancha.org
+guaneryu.com
 .guardster.com
 .gun-world.net
 gunsandammo.com
@@ -4543,6 +4547,7 @@ http://*.m-team.cc
 .macrovpn.com
 macts.com.tw
 ||mad-ar.ch
+||madrau.com
 ||madthumbs.com
 ||magic-net.info
 mahabodhi.org
