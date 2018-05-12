@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8wNF1Sr+WNn1CAg2bJ4dBg
+! Checksum: /pdqnfwwZdXneSqeA4f9gw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 06 May 2018 01:46:12 -0400
+! Last Modified: Fri, 11 May 2018 20:15:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -877,6 +877,9 @@ cn.nytstyle.com
 ||thb.gov.tw
 ||tipo.gov.tw
 ||wda.gov.tw
+
+||teco-hk.org
+||teco-mo.org
 
 @@||aftygh.gov.tw
 @@||aide.gov.tw
@@ -2273,6 +2276,7 @@ dpp.org.tw
 ||dropbooks.tv
 ||dropbox.com
 ||api.dropboxapi.com
+||notify.dropboxapi.com
 ||dropboxusercontent.com
 drsunacademy.com
 .drtuber.com
