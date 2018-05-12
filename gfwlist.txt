@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: gw3+3jyIjbSUhqeX78I6dA
+! Checksum: 6+2gER95fS6/ltyral4IEg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 11 May 2018 22:25:19 -0400
+! Last Modified: Fri, 11 May 2018 23:46:08 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -280,9 +280,13 @@ share.dmhy.org
 ||bitinka.com.ar
 ||bitmex.com
 ||btctrade.im
+||c2cx.com
+||chaoex.com
 .coinegg.com
 ||coinegg.com
+|https://www.coinexchange.io/
 ||coinrail.co.kr
+||coinut.com
 ||dragonex.io
 ||exmo.com
 ||exrates.me
@@ -293,6 +297,7 @@ share.dmhy.org
 ||huobi.com
 ||huobi.pro
 ||huobipro.com
+||bx.in.th
 ||kex.com
 ||kucoin.com
 ||lbank.info
@@ -989,7 +994,9 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001075491
 .ftchinese.com/story/001076470
 .ftchinese.com/story/001076538
+.ftchinese.com/story/001077067
 .ftchinese.com/story/001077235
+.ftchinese.com/story/001077344
 .ftchinese.com/story/001077392
 .ftchinese.com/story/001077465
 .ftchinese.com/story/001077468
