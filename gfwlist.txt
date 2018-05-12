@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /l20643tx4aeReWbnxO/EA
+! Checksum: uSlkk4301kooJpnU5MUHZA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 11 May 2018 20:32:17 -0400
+! Last Modified: Fri, 11 May 2018 20:40:59 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -966,11 +966,13 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001075678
 .ftchinese.com/story/001075703
 .ftchinese.com/story/001076142
+.ftchinese.com/story/001071683
 .ftchinese.com/story/001076470
 .ftchinese.com/story/001076538
 .ftchinese.com/story/001077235
 .ftchinese.com/story/001077392
 .ftchinese.com/story/001077468
+.ftchinese.com/story/001077492
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
 .ftchinese.com/tag/%E8%96%84%E7%86%99%E6%9D%A5
@@ -1002,6 +1004,7 @@ blogspot.com
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 .blogspot.hk
 .blogspot.jp
+.blogspot.tw
 !--||capitalg.com
 ||certificate-transparency.org
 ||chrome.com
@@ -6846,6 +6849,7 @@ visibletweets.com
 .vllcs.org
 |http://vllcs.org
 ||vmixcore.com
+||vmpsoft.com
 ||vnet.link
 cn.voa.mobi
 tw.voa.mobi
