@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: WJMfN22QbfWkjcV33e+ZvA
+! Checksum: d3BKRhnZRyBJXvYSngitfg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 11 May 2018 20:53:14 -0400
+! Last Modified: Fri, 11 May 2018 21:24:03 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -236,24 +236,6 @@ share.dmhy.org
 |https://*.s3.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
 
-!---BitCoin---
-||big.one
-||binance.com
-||bitcoinworld.com
-||bitfinex.com
-||bitmex.com
-||btctrade.im
-.coinegg.com
-||coinegg.com
-||gate.io
-||hitbtc.com
-||huobi.com
-||huobi.pro
-||huobipro.com
-||livecoin.net
-||okex.com
-||zb.com
-
 ||agro.hk
 ||apkmirror.com
 ||boomssr.com
@@ -285,6 +267,28 @@ share.dmhy.org
 ||wire.com
 ||xm.com
 ||xuehua.us
+
+!---BitCoin(Mixed)---
+||allcoin.com
+||bcex.ca
+||big.one
+||binance.com
+||bitcoinworld.com
+||bitfinex.com
+||bitmex.com
+||btctrade.im
+.coinegg.com
+||coinegg.com
+||gate.io
+||hitbtc.com
+||huobi.com
+||huobi.pro
+||huobipro.com
+||kex.com
+||lbank.info
+||livecoin.net
+||okex.com
+||zb.com
 
 !----------------Frauds & Scams-----------------
 !!---Content Farm(fake 500 error)---
@@ -967,10 +971,12 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001075703
 .ftchinese.com/story/001076142
 .ftchinese.com/story/001071683
+.ftchinese.com/story/001075491
 .ftchinese.com/story/001076470
 .ftchinese.com/story/001076538
 .ftchinese.com/story/001077235
 .ftchinese.com/story/001077392
+.ftchinese.com/story/001077465
 .ftchinese.com/story/001077468
 .ftchinese.com/story/001077492
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
