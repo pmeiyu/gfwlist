@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 6+2gER95fS6/ltyral4IEg
+! Checksum: kLTlgQ7QmM+mug0GJpWwKA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 11 May 2018 23:46:08 -0400
+! Last Modified: Sat, 12 May 2018 01:42:56 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -268,8 +268,9 @@ share.dmhy.org
 ||xm.com
 ||xuehua.us
 
-!---BitCoin(Mixed)---
+!---Digital Currency Exchange(Mixed)---
 ||allcoin.com
+||adcex.com
 ||bcex.ca
 ||bibox.com
 ||big.one
@@ -279,26 +280,36 @@ share.dmhy.org
 ||bitfinex.com
 ||bitinka.com.ar
 ||bitmex.com
+||btcbank.bank
 ||btctrade.im
 ||c2cx.com
 ||chaoex.com
+||coin2co.in
 .coinegg.com
 ||coinegg.com
+||coinex.com
 |https://www.coinexchange.io/
 ||coinrail.co.kr
+||cointobe.com
 ||coinut.com
+||discoins.com
 ||dragonex.io
+||ebtcbank.com
+||etherdelta.com
 ||exmo.com
 ||exrates.me
 ||exx.com
 ||fatbtc.com
 ||gate.io
+||gatecoin.com
 ||hitbtc.com
 ||huobi.com
 ||huobi.pro
 ||huobipro.com
 ||bx.in.th
+||jex.com
 ||kex.com
+||kspcoin.com
 ||kucoin.com
 ||lbank.info
 ||livecoin.net
@@ -3327,7 +3338,7 @@ gfw.org.ua
 ||gfw.press
 .ggssl.com
 ||ggssl.com
-||ghost.org
+!--||ghost.org
 .ghostpath.com
 ||ghostpath.com
 ||ghut.org
