@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: iavvka2tHBcN2LujRZlfug
+! Checksum: AxvJcFCgS0Ti2Vkd9+MAGg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 12 May 2018 01:55:58 -0400
+! Last Modified: Sat, 12 May 2018 02:11:52 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -240,6 +240,7 @@ share.dmhy.org
 ||apkmirror.com
 ||boomssr.com
 ||castbox.fm
+||cmx.im
 ||depositphotos.com
 ||fangeqiang.com
 ||blog.fuckgfw233.org
@@ -6766,6 +6767,7 @@ underwoodammo.com
 ||cldr.unicode.org
 .unification.net
 .unification.org.tw
+||unirule.cloud
 .unitedsocialpress.com
 .unix100.com
 ||unknownspace.org
