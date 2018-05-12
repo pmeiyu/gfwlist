@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: evO3YoQNWSQi1U7Wrl6Gpg
+! Checksum: gw3+3jyIjbSUhqeX78I6dA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 11 May 2018 21:43:16 -0400
+! Last Modified: Fri, 11 May 2018 22:25:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -277,22 +277,32 @@ share.dmhy.org
 ||bit-z.com
 ||bitcoinworld.com
 ||bitfinex.com
+||bitinka.com.ar
 ||bitmex.com
 ||btctrade.im
 .coinegg.com
 ||coinegg.com
+||coinrail.co.kr
+||dragonex.io
+||exmo.com
+||exrates.me
 ||exx.com
+||fatbtc.com
 ||gate.io
 ||hitbtc.com
 ||huobi.com
 ||huobi.pro
 ||huobipro.com
 ||kex.com
+||kucoin.com
 ||lbank.info
 ||livecoin.net
 ||oex.com
 ||okex.com
+||rightbtc.com
 ||topbtc.com
+||xbtce.com
+||yobit.net
 ||zb.com
 
 !----------------Frauds & Scams-----------------
