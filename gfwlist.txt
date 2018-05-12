@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: d3BKRhnZRyBJXvYSngitfg
+! Checksum: evO3YoQNWSQi1U7Wrl6Gpg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 11 May 2018 21:24:03 -0400
+! Last Modified: Fri, 11 May 2018 21:43:16 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -271,14 +271,17 @@ share.dmhy.org
 !---BitCoin(Mixed)---
 ||allcoin.com
 ||bcex.ca
+||bibox.com
 ||big.one
 ||binance.com
+||bit-z.com
 ||bitcoinworld.com
 ||bitfinex.com
 ||bitmex.com
 ||btctrade.im
 .coinegg.com
 ||coinegg.com
+||exx.com
 ||gate.io
 ||hitbtc.com
 ||huobi.com
@@ -287,7 +290,9 @@ share.dmhy.org
 ||kex.com
 ||lbank.info
 ||livecoin.net
+||oex.com
 ||okex.com
+||topbtc.com
 ||zb.com
 
 !----------------Frauds & Scams-----------------
@@ -1829,6 +1834,7 @@ backtotiananmen.com
 badoo.com
 |http://*2.bahamut.com.tw
 ||baidu.jp
+.baijie.org
 ||bailandaily.com
 ||baixing.me
 ||bakgeekhome.tk
@@ -5203,7 +5209,7 @@ pbwiki.com
 pcdvd.com.tw
 .pchome.com.tw
 |http://pcij.org
-.pcstore.com.tw/ntdtvapshop
+.pcstore.com.tw
 ||pct.org.tw
 pdetails.com
 ||pdproxy.com
