@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: kLTlgQ7QmM+mug0GJpWwKA
+! Checksum: iavvka2tHBcN2LujRZlfug
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 12 May 2018 01:42:56 -0400
+! Last Modified: Sat, 12 May 2018 01:55:58 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -268,7 +268,7 @@ share.dmhy.org
 ||xm.com
 ||xuehua.us
 
-!---Digital Currency Exchange(Mixed)---
+!---Digital Currency Exchange(CRYPTO)---
 ||allcoin.com
 ||adcex.com
 ||bcex.ca
@@ -289,6 +289,7 @@ share.dmhy.org
 ||coinegg.com
 ||coinex.com
 |https://www.coinexchange.io/
+||coingi.com
 ||coinrail.co.kr
 ||cointobe.com
 ||coinut.com
@@ -3073,6 +3074,7 @@ filmingfortibet.org
 !--findbook.tw
 findmespot.com
 ||findyoutube.com
+||findyoutube.net
 .fingerdaily.com
 finler.net
 .firearmsworld.net
