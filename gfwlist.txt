@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: E7MNXeQajQegU8jSrTiaLg
+! Checksum: rjefrluqmHEX5h0sr8cTTQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 21 May 2018 23:00:10 -0400
+! Last Modified: Mon, 21 May 2018 23:28:38 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -253,6 +253,7 @@ share.dmhy.org
 ||i.lithium.com
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
+||mohu.ml
 ||dictionary.goo.ne.jp
 ||go.nesnode.com
 ||nikkei.com
@@ -263,9 +264,14 @@ share.dmhy.org
 ||cdn.seatguru.com
 ||secure.raxcdn.com
 ||shadowsocks9.com
+||tn1.shemalez.com
+||tn2.shemalez.com
+||tn3.shemalez.com
+||static.shemalez.com
 ||sosreader.com
 ||sulian.me
 ||tineye.com
+||tubepornclassic.com
 ||unseen.is
 ||cn.uptodown.com
 ||wire.com
@@ -2537,6 +2543,7 @@ cts.com.tw
 .cusu.hk
 ||cusu.hk
 .cw.com.tw
+||cw.com.tw
 |http://forum.cyberctm.com
 cyberghostvpn.com
 ||cyberghostvpn.com
@@ -2566,6 +2573,7 @@ dadazim.com
 dafagood.com
 dafahao.com
 .dafoh.org
+.daftporn.com
 .dagelijksestandaard.nl
 .daidostup.ru
 |http://daidostup.ru
@@ -3459,6 +3467,7 @@ greatzhonghua.org
 .greenvpn.net
 ||greenvpn.net
 .greenvpn.org
+||grotty-monday.com
 gs-discuss.com
 ||gtricks.com
 guancha.org
@@ -3777,6 +3786,7 @@ have8.com
 .hdzog.com
 |http://hdzog.com
 ||heartyit.com
+.heavy-r.com
 .hec.su
 |http://hec.su
 .hecaitou.net
@@ -6228,6 +6238,7 @@ theblemish.com
 |http://thedalailamamovie.com
 ||thedw.us
 thefrontier.hk/tf
+cn.thegay.com
 |http://thegioitinhoc.vn/
 .thegly.com
 .thehots.info
@@ -6892,6 +6903,8 @@ visibletweets.com
 .vivatube.com
 .vivthomas.com
 ||vivthomas.com
+.vjav.com
+||vjav.com
 .vjmedia.com.hk
 .vllcs.org
 |http://vllcs.org
@@ -7401,6 +7414,7 @@ yinlei.org/mt
 ||yobt.tv
 .yogichen.org
 ||yogichen.org
+.yolasite.com
 yong.hu
 .yorkbbs.ca
 ||youxu.info
