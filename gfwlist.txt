@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: AxvJcFCgS0Ti2Vkd9+MAGg
+! Checksum: E7MNXeQajQegU8jSrTiaLg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 12 May 2018 02:11:52 -0400
+! Last Modified: Mon, 21 May 2018 23:00:10 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -80,6 +80,7 @@ share.dmhy.org
 ||guo.media
 ||hautelook.com
 ||hautelookcdn.com
+||wego.here.com
 ||hmvdigital.ca
 ||hmvdigital.com
 ||homedepot.com
@@ -259,10 +260,12 @@ share.dmhy.org
 ||my.pcloud.com
 ||picacomic.com
 ||pixiv.net
+||cdn.seatguru.com
 ||secure.raxcdn.com
 ||shadowsocks9.com
 ||sosreader.com
 ||sulian.me
+||tineye.com
 ||unseen.is
 ||cn.uptodown.com
 ||wire.com
@@ -2813,6 +2816,7 @@ ushuarencity.echainhost.com
 ecministry.net
 .economist.com
 bbs.ecstart.com
+edgecastcdn.net
 ||edgecastcdn.net
 /twimg\.edgesuite\.net\/\/?appledaily/
 edicypages.com
