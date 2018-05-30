@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: butUxFMHHOTvEkeLGA4wtw
+! Checksum: F5ZxDNPU7aOWxPiUT4RgcQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 26 May 2018 01:32:46 -0400
+! Last Modified: Tue, 29 May 2018 20:29:07 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -271,8 +271,10 @@ share.dmhy.org
 ||static.shemalez.com
 ||sosreader.com
 ||sulian.me
+||textnow.me
 ||tineye.com
 ||tubepornclassic.com
+||uku.im
 ||unseen.is
 ||cn.uptodown.com
 ||scache.vzw.com
@@ -1792,12 +1794,14 @@ apkpure.com
 |http://appshopper.com
 ||appsocks.net
 ||appsto.re
+.aptoide.com
+||aptoide.com
 ||archives.gov
 .archive.fo
 .archive.is
 ||archive.is
 .archive.li
-|https://archive.li
+||archive.li
 ||archive.org
 archive.today
 |https://archive.today
@@ -2663,6 +2667,7 @@ dharmakara.net
 .dharamsalanet.com
 .diaoyuislands.org
 ||diaoyuislands.org
+.difangwenge.org
 |http://digiland.tw/
 ||digitalnomadsproject.org
 .diigo.com
@@ -6823,7 +6828,7 @@ us.to
 .usaip.eu
 ||usaip.eu
 dalailama.usc.edu
-beta.usejump.com
+iipdigital.usembassy.gov
 ||usfk.mil
 ||usma.edu
 ||usmc.mil
