@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: F5ZxDNPU7aOWxPiUT4RgcQ
+! Checksum: 2hMQltnDSArLvINT9zW/vw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 29 May 2018 20:29:07 -0400
+! Last Modified: Tue, 29 May 2018 20:54:20 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -785,6 +785,7 @@ cdninstagram.com
 .ftchinese.com/story/001055551
 .ftchinese.com/story/001055559
 .ftchinese.com/story/001055566
+.ftchinese.com/story/001055840
 .ftchinese.com/story/001056099
 .ftchinese.com/story/001056108
 .ftchinese.com/story/001056131
@@ -1028,6 +1029,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001077465
 .ftchinese.com/story/001077468
 .ftchinese.com/story/001077492
+.ftchinese.com/story/001077745
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
 .ftchinese.com/tag/%E8%96%84%E7%86%99%E6%9D%A5
@@ -1087,6 +1089,7 @@ blogspot.com
 ||get.app
 ||get.how
 ||getmdl.io
+||getoutline.org
 ||ggpht.com
 ||gmail.com
 ||gmodules.com
@@ -3131,6 +3134,8 @@ flickrhivemind.net
 .fling.com
 ||flipkart.com
 ||flog.tw
+.flyvpn.com
+||flyvpn.com
 |http://cn.fmnnow.com
 fofldfradio.org
 blog.foolsmountain.com
@@ -3388,7 +3393,9 @@ hahaxixi.github.io
 |https://hahaxixi.github.io
 ||haoel.github.io
 !--|http://onionhacker.github.io
+||sikaozhe1997.github.io
 ||sodatea.github.io
+||terminus2049.github.io
 wsgzao.github.io
 |https://wsgzao.github.io
 !--.github.io
@@ -5193,7 +5200,8 @@ tui.orzdream.com
 ||otto.de
 ||ourdearamy.com
 oursogo.com
-oursteps.com.au
+.oursteps.com.au
+||oursteps.com.au
 .oursweb.net
 ||ourtv.hk
 xinqimeng.over-blog.com
@@ -5229,8 +5237,7 @@ forum.palmislife.com
 .paldengyal.com
 paljorpublications.com
 .paltalk.com
-||pangci.net
-||panacom.co.jp
+!--||pangci.net
 ||pandapow.co
 .pandapow.net
 .pandavpn-jp.com
