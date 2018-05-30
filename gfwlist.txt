@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: KQrgNtVXxSbAs6irOZFoeQ
+! Checksum: CwbEor9CWh3HaGbZNRfs3w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 29 May 2018 21:09:29 -0400
+! Last Modified: Tue, 29 May 2018 21:19:23 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -239,6 +239,7 @@ share.dmhy.org
 
 ||agro.hk
 ||apkmirror.com
+||bird.so
 ||boomssr.com
 ||castbox.fm
 ||cmx.im
@@ -982,6 +983,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001073408
 .ftchinese.com/story/001073537
 .ftchinese.com/story/001073672
+.ftchinese.com/story/001073849
 .ftchinese.com/story/001073906
 .ftchinese.com/story/001074089
 .ftchinese.com/story/001074110
