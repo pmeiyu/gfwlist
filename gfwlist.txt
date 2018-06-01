@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CwbEor9CWh3HaGbZNRfs3w
+! Checksum: EFrkkvu/qJTiLDrmQ/LIQg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 29 May 2018 21:19:23 -0400
+! Last Modified: Thu, 31 May 2018 21:17:25 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -936,6 +936,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001067692
 .ftchinese.com/story/001067871
 .ftchinese.com/story/001067923
+.ftchinese.com/story/001068062
 .ftchinese.com/story/001068248
 .ftchinese.com/story/001068278
 .ftchinese.com/story/001068379
@@ -1027,12 +1028,14 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001077067
 .ftchinese.com/story/001077235
 .ftchinese.com/story/001077344
+.ftchinese.com/story/001077390
 .ftchinese.com/story/001077392
 .ftchinese.com/story/001077465
 .ftchinese.com/story/001077468
 .ftchinese.com/story/001077492
 .ftchinese.com/story/001077745
 .ftchinese.com/story/001077768
+.ftchinese.com/story/001077804
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
 .ftchinese.com/tag/%E8%96%84%E7%86%99%E6%9D%A5
@@ -3331,6 +3334,7 @@ gati.org.tw
 ||gazotube.com
 ||gcc.org.hk
 ||gclooney.com
+||gcmasia.com
 .gcpnews.com
 |http://gcpnews.com
 .gdbt.net/forum
@@ -4388,6 +4392,7 @@ kanzhongguo.eu
 karkhung.com
 .karmapa.org
 .karmapa-teachings.org
+||kawase.com
 .kba-tx.org
 .kcoolonline.com
 .kebrum.com
@@ -6239,6 +6244,7 @@ tcnynj.org
 ||tcpspeed.com
 .tcsofbc.org
 .tcsovi.org
+.tdm.com.mo
 teamamericany.com
 !--OVH
 ||techviz.net
