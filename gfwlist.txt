@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2g0GFLrEj4UnvxtwhwQGyQ
+! Checksum: B2X1kzi9hpgE42IDN49OMw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 31 May 2018 21:32:13 -0400
+! Last Modified: Sat, 30 Jun 2018 01:32:00 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -625,7 +625,7 @@ cdninstagram.com
 ||rocksdb.org
 @@||ip6.static.sl-reverse.com
 ||thefacebook.com
-|https://www.whatsapp.com/
+||whatsapp.com
 ||whatsapp.net
 
 !!---FTChinese---
