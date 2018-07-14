@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: O9Bi0RmmZGW2HPPIHvvWOg
+! Checksum: k6/n1/ZMpKuqZHoG4DFGlw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Jul 2018 05:49:42 -0400
+! Last Modified: Sat, 14 Jul 2018 06:05:49 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -49,6 +49,8 @@
 ||deezer.com
 ||desipro.de
 ||dingchin.com.tw
+||discordapp.com
+||discordapp.net
 ||dish.com
 |http://img.dlsite.jp/
 ||dm530.net
@@ -69,6 +71,8 @@ share.dmhy.org
 ||financetwitter.com
 ||flipboard.com
 ||flitto.com
+||fnac.be
+||fnac.com
 ||funkyimg.com
 ||fxnetworks.com
 ||g-area.org
