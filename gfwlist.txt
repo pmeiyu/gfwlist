@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: AmET+I1dLJjkO/as+65IrQ
+! Checksum: MV8Y3n6/VkA8tYLesTkzIg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Jul 2018 06:30:10 -0400
+! Last Modified: Sat, 14 Jul 2018 07:57:00 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -188,6 +188,7 @@ share.dmhy.org
 ||shiksha.com
 ||slacker.com
 ||sm-miracle.com
+||soylentnews.org
 ||spotify.com
 ||spreadshirt.es
 ||springboardplatform.com
@@ -2543,6 +2544,7 @@ coolder.com
 ||coolder.com
 ||coolloud.org.tw
 .coolncute.com
+||coolstuffinc.com
 corumcollege.com
 .cos-moe.com
 |http://cos-moe.com
