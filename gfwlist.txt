@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: nDSaedkYsZ2znE5jYUm1tw
+! Checksum: O9Bi0RmmZGW2HPPIHvvWOg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Jul 2018 05:33:09 -0400
+! Last Modified: Sat, 14 Jul 2018 05:49:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -262,6 +262,7 @@ share.dmhy.org
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
 ||mohu.ml
+||mastodon.host
 ||dictionary.goo.ne.jp
 ||go.nesnode.com
 ||nikkei.com
@@ -3246,6 +3247,7 @@ free4u.com.ar
 ||free-ssh.com
 .freechina.news/
 ||freechinaforum.org
+||freechinaweibo.com
 .freedomcollection.org/interviews/rebiya_kadeer
 .freeforums.org
 ||freenetproject.org
@@ -4591,6 +4593,7 @@ linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 ||greatfire.us7.list-manage.com
 ||listentoyoutube.com
 listorious.com
+.liu-xiaobo.org
 ||liudejun.com
 .liuhanyu.com
 .liujianshu.com
