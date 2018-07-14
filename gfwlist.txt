@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /Bhjzic0jWOuO52ZAalGfA
+! Checksum: nDSaedkYsZ2znE5jYUm1tw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Jul 2018 05:09:02 -0400
+! Last Modified: Sat, 14 Jul 2018 05:33:09 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -22,6 +22,7 @@
 ||agnesb.fr
 ||akiba-web.com
 ||altrec.com
+||apartmentratings.com
 ||apartments.com
 ||arena.taipei
 ||asianspiss.com
@@ -57,6 +58,7 @@ share.dmhy.org
 |http://www.dmm.com/netgame
 ||dnvod.tv
 ||eesti.ee
+||esurance.com
 .expekt.com
 ||expekt.com
 .extmatrix.com
@@ -246,10 +248,12 @@ share.dmhy.org
 ||cmx.im
 ||depositphotos.com
 ||fangeqiang.com
+||flyzy2005.com
 ||free-ss.site
 ||blog.fuckgfw233.org
 ||globalvoices.org
 ||glorystar.me
+||hbo.com
 ||ipfs.io
 ||jiji.com
 ||jinx.com
@@ -283,6 +287,8 @@ share.dmhy.org
 ||unseen.is
 ||cn.uptodown.com
 ||scache.vzw.com
+||scache1.vzw.com
+||scache2.vzw.com
 ||ss7.vzw.com
 ||wenzhao.ca
 ||wire.com
@@ -923,6 +929,7 @@ cdninstagram.com
 .ftchinese.com/story/001065715
 .ftchinese.com/story/001065735
 .ftchinese.com/story/001065756
+.ftchinese.com/story/001065802
 .ftchinese.com/story/001066112
 .ftchinese.com/story/001066136
 .ftchinese.com/story/001066140
@@ -1902,6 +1909,8 @@ backchina.com
 ||backchina.com
 .backpackers.com.tw/forum
 backtotiananmen.com
+.badiucao.com
+||badiucao.com
 .badjojo.com
 badoo.com
 |http://*2.bahamut.com.tw
