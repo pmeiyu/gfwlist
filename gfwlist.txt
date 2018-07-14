@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: B2X1kzi9hpgE42IDN49OMw
+! Checksum: V5VO9HBZxgJgEES8w6ZAEA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 30 Jun 2018 01:32:00 -0400
+! Last Modified: Sat, 14 Jul 2018 03:43:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1059,6 +1059,7 @@ ftchinese.com/story/001071200
 ||admob.com
 ||adsense.com
 ||agoogleaday.com
+||ai.google
 ||ampproject.org
 ||android.com
 ||androidify.com
@@ -3957,6 +3958,7 @@ hkptu.org
 ||hkzone.org
 .hmonghot.com
 |http://hmonghot.com
+.hmv.co.jp/
 hnjhj.com
 ||hnjhj.com
 .hnntube.com
@@ -5100,7 +5102,9 @@ news.now.com%2Fhome
 ||nrk.no
 .ntd.tv
 ||ntd.tv
-ntdtv.com
+!!--Orig:ntdtv.com
+.ntdtv.com
+||ntdtv.com
 .ntdtv.co.kr
 ntdtv.ca
 ntdtv.org
@@ -7114,6 +7118,7 @@ wengewang.com
 ||wenxuecity.com
 .wenyunchao.com
 ||wenyunchao.com
+||wenzhao.ca
 .westca.com
 ||westca.com
 ||westernwolves.com
@@ -7450,6 +7455,7 @@ yinlei.org/mt
 .yogichen.org
 ||yogichen.org
 .yolasite.com
+.yomiuri.co.jp
 yong.hu
 .yorkbbs.ca
 ||youxu.info
