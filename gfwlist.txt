@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: eciQxJcR8H6cB/pqYf2hWg
+! Checksum: zAN4md7/sRZ2aaurngVKDA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Jul 2018 06:11:14 -0400
+! Last Modified: Sat, 14 Jul 2018 06:17:37 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -41,6 +41,7 @@
 .casinobellini.com
 ||casinobellini.com
 ||centauro.com.br
+||chobit.cc
 ||images.comico.tw
 ||static.comico.tw
 ||crossfire.co.kr
