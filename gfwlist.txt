@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: MV8Y3n6/VkA8tYLesTkzIg
+! Checksum: 3VEaXT/k/gPMWYOfzqigow
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 14 Jul 2018 07:57:00 -0400
+! Last Modified: Sun, 15 Jul 2018 00:46:39 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1532,6 +1532,7 @@ video.yahoo.com
 .12vpn.net
 ||12vpn.com
 ||12vpn.net
+.138.com
 141hongkong.com/forum
 ||141jj.com
 .141tube.com
@@ -2626,6 +2627,7 @@ dabr.mobi
 dadazim.com
 ||dadazim.com
 .dadi360.com
+.dafabet.com
 dafagood.com
 dafahao.com
 .dafoh.org
@@ -5232,6 +5234,8 @@ openvpn.net
 @@||openwrt.org.cn
 my.opera.com/dahema
 ||demo.opera-mini.net
+.opus-gaming.com
+|http://opus-gaming.com
 www.orchidbbs.com
 .organcare.org.tw
 organharvestinvestigation.net
@@ -5425,6 +5429,7 @@ plunder.com
 pobieramy.top
 !--||pocoo.org
 ||podictionary.com
+.pokerstars.com
 .pokerstars.net
 zh.pokerstrategy.com
 politicalchina.org
@@ -7194,6 +7199,7 @@ zh.uncyclopedia.wikia.com
 ||wikileaks.pl
 .wikileaks-forum.com
 wildammo.com
+.williamhill.com
 ||collateralmurder.com
 ||collateralmurder.org
 wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
