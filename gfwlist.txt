@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3VEaXT/k/gPMWYOfzqigow
+! Checksum: Vao5wRLHY8vImF4DHojhCw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 15 Jul 2018 00:46:39 -0400
+! Last Modified: Mon, 16 Jul 2018 22:05:59 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -139,6 +139,7 @@ share.dmhy.org
 ||kb.monitorware.com
 ||monster.com
 ||moodyz.com
+||moonbingo.com
 ||mos.ru
 ||msha.gov
 ||muzu.tv
@@ -223,6 +224,7 @@ share.dmhy.org
 ||wizcrafts.net
 ||vod.wwe.com
 ||xfinity.com
+||youwin.com
 ||ytn.co.kr
 ||zattoo.com
 ||zim.vn
@@ -1708,13 +1710,15 @@ aiweiwei.com
 ||www.ajsands.com
 
 !!---Akamai---
+a248.e.akamai.net
+||a248.e.akamai.net
+voa-11.akacast.akamaistream.net
+!!--403
+||linear-abematv.akamaized.net
 |https://fbcdn*.akamaihd.net/
 !--||fbexternal-a.akamaihd.net
 !--||fbstatic-a.akamaihd.net
 !--|https://igcdn*.akamaihd.net
-a248.e.akamai.net
-||a248.e.akamai.net
-voa-11.akacast.akamaistream.net
 
 .akademiye.org/ug
 |http://akademiye.org/ug
@@ -4860,7 +4864,7 @@ mixpod.com
 mnewstv.com
 ||mobatek.net
 .mobile01.com
-|http://mobile01.com
+||mobile01.com
 ||mobileways.de
 .mobypicture.com
 |http://moby.to
@@ -5430,6 +5434,7 @@ pobieramy.top
 !--||pocoo.org
 ||podictionary.com
 .pokerstars.com
+||pokerstars.com
 .pokerstars.net
 zh.pokerstrategy.com
 politicalchina.org
@@ -5994,6 +5999,7 @@ forum.slime.com.tw
 .slutload.com
 ||smartdnsproxy.com
 .smarthide.com
+||app.smartmailcloud.com
 smchbooks.com
 .smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
 smhric.org
