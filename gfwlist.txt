@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: BEmA21mJDqpGxDVdhqzjKw
+! Checksum: XfUxhUsHu5LRvdKMDq2iig
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 24 Jul 2018 22:02:43 -0400
+! Last Modified: Wed, 25 Jul 2018 01:25:57 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -277,6 +277,7 @@ share.dmhy.org
 ||dictionary.goo.ne.jp
 ||go.nesnode.com
 ||nikkei.com
+||now.com
 ||sukebei.nyaa.si
 ||onejav.com
 ||paste.ee
@@ -285,6 +286,7 @@ share.dmhy.org
 ||pixiv.net
 ||cdn.seatguru.com
 ||secure.raxcdn.com
+||shadowsocks.be
 ||shadowsocks9.com
 ||tn1.shemalez.com
 ||tn2.shemalez.com
@@ -5429,6 +5431,8 @@ plays.com.tw
 ||m.plixi.com
 plm.org.hk
 plunder.com
+.plurk.com
+||plurk.com
 .plus28.com
 .plusbb.com
 .pmatehunter.com
