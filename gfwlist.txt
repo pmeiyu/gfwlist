@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Vao5wRLHY8vImF4DHojhCw
+! Checksum: BEmA21mJDqpGxDVdhqzjKw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 16 Jul 2018 22:05:59 -0400
+! Last Modified: Tue, 24 Jul 2018 22:02:43 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -379,7 +379,9 @@ china-mmm.sa.com
 .now.im
 
 !!---Amazon---
+||amazon.co.jp
 .amazon.com/Dalai-Lama
+amazon.com/Prisoner-State-Secret-Journal-Premier
 s3-ap-northeast-1.amazonaws.com
 
 !!---AOL---
@@ -408,16 +410,20 @@ www.aolnews.com
 .tellme.pw
 
 !!---BBC---
-.bbc.co.uk/blogs
-.bbc.co.uk/chinese
-.bbc.co.uk/news/world-asia-china
-.bbc.co.uk/tv
-.bbc.co.uk/zhongwen
-.bbc.com/ukchina
-.bbc.com/zhongwen
-.bbc.com%2Fzhongwen
-news.bbc.co.uk/onthisday*newsid_2496000/2496277
-newsforums.bbc.co.uk
+!--.bbc.co.uk/blogs
+!--.bbc.co.uk/chinese
+!--.bbc.co.uk/news/world-asia-china
+!--.bbc.co.uk/tv
+!--.bbc.co.uk/zhongwen
+!--.bbc.com/ukchina
+!--.bbc.com/zhongwen
+!--.bbc.com%2Fzhongwen
+!--news.bbc.co.uk/onthisday*newsid_2496000/2496277
+!--newsforums.bbc.co.uk
+.bbc.com
+||bbc.com
+.bbc.co.uk
+||bbc.co.uk
 .bbcchinese.com
 ||bbcchinese.com
 |http://bbc.in
@@ -1761,7 +1767,6 @@ alwaysdata.com
 .alwaysvpn.com
 ||alwaysvpn.com
 ||am730.com.hk
-amazon.com/Prisoner-State-Secret-Journal-Premier
 ameblo.jp
 ||ameblo.jp
 www1.american.edu/ted/ice/tibet
@@ -5439,6 +5444,7 @@ pobieramy.top
 zh.pokerstrategy.com
 politicalchina.org
 politicalconsultation.org
+.politiscales.net
 ||poloniex.com
 .polymerhk.com
 |http://polymerhk.com
