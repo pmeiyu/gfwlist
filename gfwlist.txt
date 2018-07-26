@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: XfUxhUsHu5LRvdKMDq2iig
+! Checksum: K36IZQB6+FYFbQ/A9Hrvjw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 25 Jul 2018 01:25:57 -0400
+! Last Modified: Wed, 25 Jul 2018 20:55:10 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -426,6 +426,7 @@ www.aolnews.com
 ||bbc.com
 .bbc.co.uk
 ||bbc.co.uk
+||bbci.co.uk
 .bbcchinese.com
 ||bbcchinese.com
 |http://bbc.in
