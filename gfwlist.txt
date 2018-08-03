@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: K36IZQB6+FYFbQ/A9Hrvjw
+! Checksum: pp6E7ZsBfpW1oZcvyGS2AQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 25 Jul 2018 20:55:10 -0400
+! Last Modified: Fri, 03 Aug 2018 10:32:11 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -29,6 +29,7 @@
 ||assimp.org
 ||athenaeizou.com
 ||azubu.tv
+||bankmobilevibe.com
 ||banorte.com
 ||bash-hackers.org
 ||beeg.com
@@ -42,6 +43,7 @@
 ||casinobellini.com
 ||centauro.com.br
 ||chobit.cc
+||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
 ||costco.com
@@ -256,6 +258,7 @@ share.dmhy.org
 ||bird.so
 ||boomssr.com
 ||castbox.fm
+||cmcn.org
 ||cmx.im
 ||depositphotos.com
 ||fangeqiang.com
