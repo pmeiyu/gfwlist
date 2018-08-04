@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fMAU5UkdqYusdKqnLk5Ozg
+! Checksum: 8zqKWlVIw39QNtBi2nt+Hg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 04 Aug 2018 19:51:59 -0400
+! Last Modified: Sat, 04 Aug 2018 19:59:03 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1725,9 +1725,15 @@ aiweiwei.com
 !!---Akamai---
 a248.e.akamai.net
 ||a248.e.akamai.net
+
+rfalive1.akacast.akamaistream.net
 voa-11.akacast.akamaistream.net
+
 !!--403
+||abematv.akamaized.net
 ||linear-abematv.akamaized.net
+||vod-abematv.akamaized.net
+
 |https://fbcdn*.akamaihd.net/
 !--||fbexternal-a.akamaihd.net
 !--||fbstatic-a.akamaihd.net
