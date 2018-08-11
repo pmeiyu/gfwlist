@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: eT8BV0dfspiMADFb6CEv5A
+! Checksum: uLT81PwzYMW1UB4snEwqGQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 11 Aug 2018 07:28:19 -0400
+! Last Modified: Sat, 11 Aug 2018 08:56:16 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -64,6 +64,7 @@ share.dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
 ||dnvod.tv
+||dvdpac.com
 ||eesti.ee
 ||esurance.com
 .expekt.com
@@ -205,6 +206,7 @@ share.dmhy.org
 ||gsp.target.com
 ||login.target.com
 !--@@||intl.target.com
+||rcam.target.com
 ||thebodyshop-usa.com
 ||tma.co.jp
 ||tracfone.com
@@ -281,6 +283,7 @@ share.dmhy.org
 ||dictionary.goo.ne.jp
 ||go.nesnode.com
 ||nikkei.com
+||nofile.io
 ||now.com
 ||sukebei.nyaa.si
 ||onejav.com
@@ -3000,8 +3003,10 @@ erabaru.net
 |http://eromon.net
 .eroprofile.com
 .eroticsaloon.net
-.eslite.com/product
-.eslite.com/Search_BW.aspx?q
+.eslite.com
+||eslite.com
+!--.eslite.com/product
+!--.eslite.com/Search_BW.aspx?q
 wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
 .etaa.org.au
 .etadult.com
@@ -6126,6 +6131,8 @@ spem.at
 ||ssh91.com
 .sspro.ml
 |http://sspro.ml
+.ssrshare.com
+||ssrshare.com
 ||sss.camp
 !--|http://cdn.sstatic.net/
 ||sstmlt.moe
