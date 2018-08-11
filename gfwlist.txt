@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: QHR/UV/3J3die4psbI/O5A
+! Checksum: eT8BV0dfspiMADFb6CEv5A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 04 Aug 2018 20:15:32 -0400
+! Last Modified: Sat, 11 Aug 2018 07:28:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -291,6 +291,7 @@ share.dmhy.org
 ||quora.com
 ||cdn.seatguru.com
 ||secure.raxcdn.com
+||reddit.com
 ||shadowsocks.be
 ||shadowsocks9.com
 ||tn1.shemalez.com
@@ -299,6 +300,7 @@ share.dmhy.org
 ||static.shemalez.com
 ||sosreader.com
 ||sulian.me
+||teddysun.com
 ||textnow.me
 ||tineye.com
 ||tubepornclassic.com
