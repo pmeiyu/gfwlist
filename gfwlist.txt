@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: M1D7W44Obkhzj3PY4M+0+w
+! Checksum: OKCn3Orh2RwKXgD9SPYIBg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 11 Aug 2018 10:57:19 -0400
+! Last Modified: Sun, 12 Aug 2018 19:49:22 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -291,6 +291,7 @@ share.dmhy.org
 ||my.pcloud.com
 ||picacomic.com
 ||pixiv.net
+||protonvpn.com
 ||quora.com
 ||cdn.seatguru.com
 ||secure.raxcdn.com
@@ -298,6 +299,7 @@ share.dmhy.org
 ||reddit.com
 ||redditmedia.com
 ||redditstatic.com
+||rsdlmonitor.com
 ||shadowsocks.be
 ||shadowsocks9.com
 ||tn1.shemalez.com
@@ -2456,6 +2458,7 @@ chinese-memorial.org
 ||chinesegay.org
 .chinesen.de
 ||chinesen.de
+.chinesenews.net.au/
 .chinesepen.org
 .chinesetalks.net/ch
 ||chineseupress.com
@@ -5781,7 +5784,8 @@ riku.me/
 |http://rthk.hk
 .rthk.org.hk
 |http://rthk.org.hk
-rti.org.tw
+.rti.org.tw
+||rti.org.tw
 .rtycminnesota.org
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
