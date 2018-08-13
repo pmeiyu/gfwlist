@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: OKCn3Orh2RwKXgD9SPYIBg
+! Checksum: r1CGBuHJL0G9H1DUvh2sYQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 12 Aug 2018 19:49:22 -0400
+! Last Modified: Sun, 12 Aug 2018 20:33:53 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -247,6 +247,7 @@ share.dmhy.org
 ||xn--4gq171p.com
 ||xn--czq75pvv1aj5c.org
 ||xn--i2ru8q2qg.com
+||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 
 !-----------------DNS Poisoning-----------------
@@ -315,6 +316,8 @@ share.dmhy.org
 ||uku.im
 ||unseen.is
 ||cn.uptodown.com
+||uraban.me
+||vrsmash.com
 ||scache.vzw.com
 ||scache1.vzw.com
 ||scache2.vzw.com
@@ -2633,6 +2636,7 @@ cts.com.tw
 ||curvefish.com
 .cusu.hk
 ||cusu.hk
+.cutscenes.net
 .cw.com.tw
 ||cw.com.tw
 |http://forum.cyberctm.com
@@ -7018,6 +7022,8 @@ vimeo.com
 ||vincnd.com
 ||vinniev.com
 |http://www.lib.virginia.edu/area-studies/Tibet/tibet.html
+.virtualrealporn.com
+||virtualrealporn.com
 visibletweets.com
 |http://ny.visiontimes.com
 .vital247.org
@@ -7595,11 +7601,11 @@ zacebook.com
 .zalmos.com
 ||zalmos.com
 ||zannel.com
-!--.zaobao.com
-.zaobao.com.sg
+.zaobao.com
+||zaobao.com
+|http://zaobao.com.sg
 ||zaobao.com.sg
 .zaozon.com
-!--.zdnet.com.tw/news/software/0,2000085678,20111187,00
 ||zdnet.com.tw
 .zello.com
 ||zello.com
