@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: r1CGBuHJL0G9H1DUvh2sYQ
+! Checksum: Z+6CYulLFrYpimhncMK1eg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 12 Aug 2018 20:33:53 -0400
+! Last Modified: Sun, 12 Aug 2018 20:45:03 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6760,6 +6760,8 @@ twibase.com
 ||twibble.de
 twibbon.com
 ||twibs.com
+.twicountry.org
+|http://twicountry.org
 twicsy.com
 .twiends.com
 |http://twiends.com
@@ -7435,6 +7437,7 @@ destiny.xfiles.to/ubbthreads
 ||xgmyd.com
 xhamster.com
 ||xhamster.com
+.xianba.net
 .xianchawang.net
 .xianjian.tw
 |http://xianjian.tw
