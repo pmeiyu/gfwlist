@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fbsW5WEcqvom6XXt/vvx3g
+! Checksum: ch+2vIQo/Qbdkz7FTQpHKQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 22 Sep 2018 05:39:29 -0400
+! Last Modified: Sat, 22 Sep 2018 10:24:13 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -259,6 +259,7 @@ share.dmhy.org
 ||agro.hk
 ||apkmirror.com
 ||bird.so
+||businessinsider.com
 ||boomssr.com
 ||castbox.fm
 ||cmcn.org
@@ -272,6 +273,7 @@ share.dmhy.org
 ||glorystar.me
 ||hbo.com
 ||ipfs.io
+||japantimes.co.jp
 ||jiji.com
 ||jinx.com
 ||line-scdn.net
@@ -7399,6 +7401,7 @@ wretch.cc
 .wsj.com
 ||wsj.com
 .wsj.net
+||wsj.net
 .wsjhk.com
 .wtbn.org
 .wtfpeople.com
