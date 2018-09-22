@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: wB6um/BnvDYNJAlKWrQmPw
+! Checksum: MYPxfhfGas72YNFe8HN6/Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 22 Sep 2018 17:10:04 -0400
+! Last Modified: Sat, 22 Sep 2018 17:17:34 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5867,6 +5867,8 @@ secretchina.com
 .secretsline.biz
 ||secretsline.biz
 ||securetunnel.com
+securityinabox.org
+|https://securityinabox.org
 .securitykiss.com
 ||securitykiss.com
 ||seed4.me
