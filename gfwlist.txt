@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: MYPxfhfGas72YNFe8HN6/Q
+! Checksum: bMsmNwPCgqvBF2sXfnclhg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 22 Sep 2018 17:17:34 -0400
+! Last Modified: Sat, 22 Sep 2018 17:21:47 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1688,6 +1688,8 @@ a5.com.ru
 |http://aamacau.com
 !--|http://cdn*.abc.com/
 .abc.com
+.abc.net.au
+||abc.net.au
 .abchinese.com
 abclite.net
 |https://www.abclite.net
