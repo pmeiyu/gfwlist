@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ch+2vIQo/Qbdkz7FTQpHKQ
+! Checksum: wB6um/BnvDYNJAlKWrQmPw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 22 Sep 2018 10:24:13 -0400
+! Last Modified: Sat, 22 Sep 2018 17:10:04 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -311,6 +311,7 @@ share.dmhy.org
 ||static.shemalez.com
 ||sosreader.com
 ||sulian.me
+||supchina.com
 ||teddysun.com
 ||textnow.me
 ||tineye.com
@@ -670,6 +671,8 @@ cdninstagram.com
 ||fb.me
 ||fbcdn.net
 ||fbsbx.com
+||fbaddins.com
+||fbworkmail.com
 .instagram.com
 ||instagram.com
 ||m.me
@@ -1755,6 +1758,7 @@ voa-11.akacast.akamaistream.net
 !--||fbexternal-a.akamaihd.net
 !--||fbstatic-a.akamaihd.net
 !--|https://igcdn*.akamaihd.net
+rthklive2-lh.akamaihd.net
 
 .akademiye.org/ug
 |http://akademiye.org/ug
