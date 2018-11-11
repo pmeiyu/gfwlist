@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jf+MT+bThBkg+RIdoVmPxQ
+! Checksum: dsWOZY6nQQgzFJBsOH/GDw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 11 Nov 2018 09:56:03 -0500
+! Last Modified: Sun, 11 Nov 2018 10:06:43 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6065,6 +6065,8 @@ sneakme.net
 snowlionpub.com
 home.so-net.net.tw/yisa_tsai
 ||soc.mil
+.socks-proxy.net
+||socks-proxy.net
 .sockscap64.com
 ||sockslist.net
 .socrec.org
@@ -6940,6 +6942,7 @@ uploaded.net/file
 |http://uploaded.to/file
 .uploadstation.com/file
 .upmedia.mg
+||upmedia.mg
 .upornia.com
 |http://upornia.com
 ||uproxy.org
