@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: dsWOZY6nQQgzFJBsOH/GDw
+! Checksum: sRkAHzZSbW0g+31+GHm5lg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 11 Nov 2018 10:06:43 -0500
+! Last Modified: Sun, 11 Nov 2018 19:17:21 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -277,6 +277,7 @@ share.dmhy.org
 ||japantimes.co.jp
 ||jiji.com
 ||jinx.com
+||liangzhichuanmei.com
 ||line-scdn.net
 ||i.lithium.com
 ||cloud.mail.ru
@@ -7368,6 +7369,7 @@ woopie.tv
 ||woopie.tv
 ||workatruna.com
 .workerdemo.org.hk
+.workerempowerment.org
 ||workersthebig.net
 .worldcat.org
 worldjournal.com
