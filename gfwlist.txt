@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: GjEfCEAMlgSFHIUH5eFdoA
+! Checksum: JHNaKJT+G6lB9JkDCJFcLg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 13 Nov 2018 11:09:08 -0500
+! Last Modified: Tue, 13 Nov 2018 11:22:50 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -258,6 +258,7 @@ share.dmhy.org
 
 ||agro.hk
 ||apkmirror.com
+||behance.net
 ||bird.so
 ||businessinsider.com
 ||boomssr.com
@@ -385,6 +386,7 @@ share.dmhy.org
 ||livecoin.net
 ||oex.com
 ||okex.com
+||otcbtc.com
 ||rightbtc.com
 ||topbtc.com
 ||xbtce.com
@@ -7338,6 +7340,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||ja.wikipedia.org
 zh.wikipedia.org
 !--||zh.wikipedia.org
+||ug.m.wikipedia.org
 zh.m.wikipedia.org
 |https://zh.m.wikipedia.org
 !--@@||m.wikipedia.org
