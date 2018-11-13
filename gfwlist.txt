@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: EyHMtMOeMM5XI6QFY2cAqQ
+! Checksum: 2SRf1bAdPNJl87/N4wodpQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 11 Nov 2018 22:20:25 -0500
+! Last Modified: Tue, 13 Nov 2018 10:24:35 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1144,6 +1144,7 @@ blogspot.com
 ||chromium.org
 ||com.google
 ||creativelab5.com
+||crisisresponse.google
 ||crrev.com
 ||data-vocabulary.org
 ||debug.com
@@ -1258,6 +1259,7 @@ blogspot.com
 ||googleweblight.com
 ||googlezip.net
 ||groups.google.cn
+||grow.google
 ||gstatic.com
 !--||gv.com
 ||gvt0.com
@@ -1279,6 +1281,7 @@ blogspot.com
 ||picasaweb.com
 ||pki.goog
 ||polymer-project.org
+||pride.google
 ||questvisual.com
 ||admin.recaptcha.net
 ||api.recaptcha.net
@@ -1286,11 +1289,13 @@ blogspot.com
 ||api-verify.recaptcha.net
 ||redhotlabs.com
 ||registry.google
+||safety.google
 ||savethedate.foo
 ||schema.org
 ||shattered.io
 |http://sipml5.org/
 ||stories.google
+||sustainability.google
 ||synergyse.com
 ||teachparentstech.org
 ||tensorflow.org
