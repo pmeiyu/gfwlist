@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2NOLxNJYkvAkssQNDbSOMw
+! Checksum: Yv/fVV2m/1U3oXuOrGmSnA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 13 Nov 2018 10:33:44 -0500
+! Last Modified: Tue, 13 Nov 2018 11:00:23 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -321,7 +321,6 @@ share.dmhy.org
 ||textnow.me
 ||tineye.com
 ||tubepornclassic.com
-||twitch.tv
 ||uku.im
 ||unseen.is
 ||cn.uptodown.com
@@ -1375,6 +1374,12 @@ cn.nytstyle.com
 .telegramdownload.com
 ||telesco.pe
 !!!---IP---
+
+!!---Twitch---
+||jtvnw.net
+||ttvnw.net
+||twitch.tv
+||twitchcdn.net
 
 !!---Twitter---
 ||periscope.tv
@@ -7263,6 +7268,7 @@ whylover.com
 |http://zh.ecdm.wikia.com
 |http://evchk.wikia.com
 fq.wikia.com
+zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 ||wikileaks.ch
