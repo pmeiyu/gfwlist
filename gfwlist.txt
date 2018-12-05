@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: NWyIj40p0HHkBB0ybFpDcw
+! Checksum: wa8snseZ+/tiDQYyjYTjhQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 05 Dec 2018 11:33:10 -0500
+! Last Modified: Wed, 05 Dec 2018 12:37:49 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -274,6 +274,7 @@ share.dmhy.org
 ||blog.fuckgfw233.org
 ||globalvoices.org
 ||glorystar.me
+||goregrish.com
 ||hbo.com
 ||hudson.org
 ||ipfs.io
@@ -285,9 +286,10 @@ share.dmhy.org
 ||i.lithium.com
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
+||mastodon.host
 ||mohu.club
 ||mohu.ml
-||mastodon.host
+||motiyun.com
 ||msa-it.org
 ||dictionary.goo.ne.jp
 ||go.nesnode.com
@@ -321,6 +323,7 @@ share.dmhy.org
 ||tn3.shemalez.com
 ||static.shemalez.com
 ||sosreader.com
+||sspanel.net
 ||sulian.me
 ||supchina.com
 ||teddysun.com
@@ -1174,6 +1177,7 @@ blogspot.com
 ||gcr.io
 ||get.app
 ||get.how
+||get.page
 ||getmdl.io
 ||getoutline.org
 ||ggpht.com
@@ -5888,6 +5892,7 @@ savevid.com
 |http://www.sciencemag.org/content/344/6187/953
 .sciencenets.com
 .scmp.com
+||scmp.com
 .scmpchinese.com
 ||scramble.io
 .scribd.com
@@ -6168,6 +6173,7 @@ sowers.org.hk
 ||speedify.com
 spem.at
 ||spencertipping.com
+||spendee.com
 ||spicevpn.com
 .spideroak.com
 ||spideroak.com
