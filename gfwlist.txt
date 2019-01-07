@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: e7uftC4J4WrSd3sxkqhuwg
+! Checksum: pbw2QNfgb8xHFBVPkKdJng
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 05 Dec 2018 13:00:59 -0500
+! Last Modified: Mon, 07 Jan 2019 16:17:59 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -258,6 +258,7 @@ share.dmhy.org
 
 ||agro.hk
 ||apkmirror.com
+||arte.tv
 ||behance.net
 ||bird.so
 ||zh.bitterwinter.org
@@ -298,6 +299,7 @@ share.dmhy.org
 ||nofile.io
 ||now.com
 ||sukebei.nyaa.si
+||openvpn.org
 ||onejav.com
 ||paste.ee
 ||my.pcloud.com
