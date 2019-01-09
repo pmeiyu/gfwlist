@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: pbw2QNfgb8xHFBVPkKdJng
+! Checksum: t4pLizqO10WhtkoC/wq0og
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 07 Jan 2019 16:17:59 +0800
+! Last Modified: Wed, 09 Jan 2019 22:51:38 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -22,6 +22,8 @@
 ||agnesb.fr
 ||akiba-web.com
 ||altrec.com
+||angela-merkel.de
+||angola.org
 ||apartmentratings.com
 ||apartments.com
 ||arena.taipei
@@ -268,6 +270,7 @@ share.dmhy.org
 ||cmcn.org
 ||cmx.im
 ||depositphotos.com
+||doubmirror.cf
 ||fangeqiang.com
 ||flyzy2005.com
 ||foreignpolicy.com
@@ -324,6 +327,7 @@ share.dmhy.org
 ||tn2.shemalez.com
 ||tn3.shemalez.com
 ||static.shemalez.com
+||softsmirror.cf
 ||sosreader.com
 ||sspanel.net
 ||sulian.me
