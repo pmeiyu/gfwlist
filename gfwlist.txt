@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: cSagqG0Gdo83FwgDLKf5ZQ
+! Checksum: ZCOWchCk5PF69hH599qc7w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 10 Jan 2019 20:57:04 +0800
+! Last Modified: Thu, 10 Jan 2019 21:33:11 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -267,6 +267,7 @@ share.dmhy.org
 ||businessinsider.com
 ||boomssr.com
 ||castbox.fm
+||clyp.it
 ||cmcn.org
 ||cmx.im
 ||depositphotos.com
@@ -291,6 +292,7 @@ share.dmhy.org
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
 ||mastodon.host
+||matters.news
 ||mohu.club
 ||mohu.ml
 ||motiyun.com
@@ -316,6 +318,8 @@ share.dmhy.org
 ||secure.raxcdn.com
 ||redd.it
 ||reddit.com
+.redditlist.com
+|http://redditlist.com
 ||redditmedia.com
 ||redditstatic.com
 ||rixcloud.com
@@ -341,6 +345,7 @@ share.dmhy.org
 ||cn.uptodown.com
 ||uraban.me
 ||vrsmash.com
+||vultryhw.com
 ||scache.vzw.com
 ||scache1.vzw.com
 ||scache2.vzw.com
@@ -3083,6 +3088,8 @@ etvonline.hk
 .eulam.com
 .eurekavpt.com
 ||eurekavpt.com
+.euronews.com
+||euronews.com
 eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh
 eeas.europa.eu/statements-eeas/2015/151022
 .evschool.net
