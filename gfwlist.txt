@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ZCOWchCk5PF69hH599qc7w
+! Checksum: mNiI3jG9m8RvKP2cJTZC/w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 10 Jan 2019 21:33:11 +0800
+! Last Modified: Fri, 11 Jan 2019 21:47:16 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -281,6 +281,7 @@ share.dmhy.org
 ||glorystar.me
 ||goregrish.com
 ||hbo.com
+||hkgalden.com
 ||hudson.org
 ||ipfs.io
 ||japantimes.co.jp
@@ -357,6 +358,7 @@ share.dmhy.org
 ||wire.com
 ||xm.com
 ||xuehua.us
+||yes-news.com
 ||zzcloud.me
 
 !---Digital Currency Exchange(CRYPTO)---
@@ -2998,6 +3000,7 @@ efcc.org.hk
 ||eksisozluk.com
 electionsmeter.com
 ||elgoog.im
+.ellawine.org
 .elpais.com
 ||elpais.com
 .eltondisney.com
@@ -5545,7 +5548,7 @@ politicalconsultation.org
 .popo.tw
 !--||popularpages.net
 ||popvote.hk
-popyard.com
+.popyard.com
 ||popyard.org
 .porn.com
 .porn2.com
