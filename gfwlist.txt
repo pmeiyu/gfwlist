@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: mNiI3jG9m8RvKP2cJTZC/w
+! Checksum: r+kz0faRheFb2Dn193Xa4Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 11 Jan 2019 21:47:16 +0800
+! Last Modified: Fri, 11 Jan 2019 21:54:26 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6308,6 +6308,8 @@ sun1911.com
 .suyangg.com
 |http://suyangg.com
 .svsfx.com
+.swissinfo.ch
+||swissinfo.ch
 .swissvpn.net
 ||swissvpn.net
 switchvpn.net
@@ -7059,6 +7061,7 @@ uygur.org
 .vanilla-jp.com
 .vanpeople.com
 vansky.com
+||vaticannews.va
 ||vcf-online.org
 ||vcfbuilder.org
 .vegasred.com
