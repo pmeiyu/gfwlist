@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2qRjHJAlDZ4vngXiKZnpZQ
+! Checksum: uvfY0AooiEZ5aa94Qmf4Kg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 14 Jan 2019 19:02:40 +0800
+! Last Modified: Mon, 14 Jan 2019 20:18:38 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -114,6 +114,7 @@ share.dmhy.org
 |http://imgur.com/upload
 |https://imgur.com/upload
 ||imlive.com
+||tw.iqiyi.com
 ||javhub.net
 ||javhuge.com
 .javlibrary.com
@@ -270,6 +271,7 @@ share.dmhy.org
 ||clyp.it
 ||cmcn.org
 ||cmx.im
+||dailyview.tw
 ||depositphotos.com
 ||doubmirror.cf
 ||fangeqiang.com
@@ -360,6 +362,7 @@ share.dmhy.org
 ||xm.com
 ||xuehua.us
 ||yes-news.com
+||you-get.org
 ||zzcloud.me
 
 !---Digital Currency Exchange(CRYPTO)---
@@ -3544,6 +3547,7 @@ hahaxixi.github.io
 |https://hahaxixi.github.io
 ||haoel.github.io
 !--|http://onionhacker.github.io
+||rg3.github.io
 ||sikaozhe1997.github.io
 ||sodatea.github.io
 ||terminus2049.github.io
@@ -6454,6 +6458,8 @@ thehousenews.com
 .thepiratebay.org
 ||thepiratebay.org
 !--||thepiratebay.se
+.theporndude.com
+||theporndude.com
 ||theportalwiki.com
 thereallove.kr
 therock.net.nz
