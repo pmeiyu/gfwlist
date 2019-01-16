@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Pt+4MVbfkDEN8Ze5zzS6HA
+! Checksum: KxqYaSSN++IJHPzCDkG2LQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 15 Jan 2019 21:08:16 +0800
+! Last Modified: Wed, 16 Jan 2019 11:55:47 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -265,8 +265,10 @@ share.dmhy.org
 ||behance.net
 ||bird.so
 ||zh.bitterwinter.org
+||bnn.co
 ||businessinsider.com
 ||boomssr.com
+||bwgyhw.com
 ||castbox.fm
 ||clyp.it
 ||cmcn.org
@@ -356,6 +358,7 @@ share.dmhy.org
 ||ss7.vzw.com
 ||ssr.tools
 ||taiwanjustice.net
+||tinc-vpn.org
 ||wenzhao.ca
 ||whatsonweibo.com
 ||wire.com
@@ -2389,6 +2392,7 @@ cclife.org
 cclifefl.org
 .ccthere.com
 ||ccthere.com
+||ccthere.net
 .cctmweb.net
 .cctongbao.com/article/2078732
 ccue.ca
@@ -6382,6 +6386,8 @@ taiwan-sex.com
 .talk853.com
 .talkboxapp.com
 ||talkboxapp.com
+.talkcc.com
+||talkcc.com
 .talkonly.net
 ||talkonly.net
 ||tamiaode.tk
