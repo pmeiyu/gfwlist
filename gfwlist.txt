@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: iYY0Do7SE+ZbaZxRdiFicA
+! Checksum: iJEnHgS0A8Am0SO78JoBCw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 16 Jan 2019 12:17:23 +0800
+! Last Modified: Wed, 16 Jan 2019 12:25:41 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -294,6 +294,7 @@ share.dmhy.org
 ||ipfs.io
 ||japantimes.co.jp
 ||jiji.com
+||jintian.net
 ||jinx.com
 ||liangzhichuanmei.com
 ||line-scdn.net
@@ -1149,6 +1150,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001077745
 .ftchinese.com/story/001077768
 .ftchinese.com/story/001077804
+.ftchinese.com/story/001080581
 .ftchinese.com/story/001081059
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
@@ -1611,6 +1613,7 @@ tw.yahoo.com
 tw.myblog.yahoo.com
 ||tw.news.yahoo.com
 pulse.yahoo.com
+||search.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
 ||yahoo.com.hk
