@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: JViuONbblnH3x5z8eV9HlQ
+! Checksum: iYY0Do7SE+ZbaZxRdiFicA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 16 Jan 2019 12:06:55 +0800
+! Last Modified: Wed, 16 Jan 2019 12:17:23 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -191,6 +191,7 @@ share.dmhy.org
 ||rdio.com
 |https://riseup.net
 ||sadistic-v.com
+||isc.sans.edu
 |http://cdn*.search.xxx/
 ||shiksha.com
 ||slacker.com
@@ -217,6 +218,7 @@ share.dmhy.org
 ||turntable.fm
 ||twerkingbutt.com
 ||ulop.net
+||uukanshu.com
 ||vegasred.com
 ||vevo.com
 ||vip-enterprise.com
@@ -256,6 +258,7 @@ share.dmhy.org
 !-----------------DNS Poisoning-----------------
 !---Amazon---
 !-||cdn-images.mailchimp.com
+||abebooks.com
 |https://*.s3.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
 
@@ -1146,6 +1149,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001077745
 .ftchinese.com/story/001077768
 .ftchinese.com/story/001077804
+.ftchinese.com/story/001081059
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
 .ftchinese.com/tag/%E8%96%84%E7%86%99%E6%9D%A5
@@ -1969,8 +1973,6 @@ archive.today
 artofpeacefoundation.org
 artsy.net
 ||asacp.org
-.asahichinese.com
-||asahichinese.com
 asdfg.jp/dabr
 asg.to
 .asia-gaming.com
