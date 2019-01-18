@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DlDGoZ2b5z33MYDG2GO2rg
+! Checksum: sCK85FrLcvujaa5c/2tAIA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 17 Jan 2019 22:02:48 +0800
+! Last Modified: Fri, 18 Jan 2019 11:59:12 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1134,6 +1134,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001075650
 .ftchinese.com/story/001075678
 .ftchinese.com/story/001075703
+.ftchinese.com/story/001075739
 .ftchinese.com/story/001076066
 .ftchinese.com/story/001076142
 .ftchinese.com/story/001076459
@@ -1156,6 +1157,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001079641
 .ftchinese.com/story/001080550
 .ftchinese.com/story/001080581
+.ftchinese.com/story/001080647
 .ftchinese.com/story/001080892
 .ftchinese.com/story/001081059
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
@@ -2969,6 +2971,7 @@ dwnews.net
 ||dwnews.net
 xys.dxiong.com
 ||dynawebinc.com
+||dysfz.cc
 .dzze.com
 
 !--------------------EE-------------------------
