@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: eFBxATBXxuepySiOOwfemA
+! Checksum: EKrdAwf02BBa5ePJtzDpLg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Jan 2019 11:47:47 +0800
+! Last Modified: Sat, 19 Jan 2019 11:52:29 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -48,6 +48,7 @@
 ||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
+||counter.social
 ||costco.com
 ||crossfire.co.kr
 ||d2pass.com
@@ -321,6 +322,7 @@ share.dmhy.org
 ||go.nesnode.com
 ||international-news.newsmagazine.asia
 ||nikkei.com
+||niu.moe
 ||nofile.io
 ||now.com
 ||sukebei.nyaa.si
@@ -329,6 +331,7 @@ share.dmhy.org
 ||paste.ee
 ||my.pcloud.com
 ||picacomic.com
+||pincong.rocks
 ||pixiv.net
 ||premproxy.com
 ||protonvpn.com
