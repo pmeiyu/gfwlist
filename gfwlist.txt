@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: dy/jtoqlRQwxzTn5YoHafg
+! Checksum: f4SfRNw5tqGkEGgXUzHvbA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Jan 2019 10:53:09 +0800
+! Last Modified: Sat, 19 Jan 2019 11:31:52 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -289,6 +289,7 @@ share.dmhy.org
 ||foreignpolicy.com
 ||free-ss.site
 ||blog.fuckgfw233.org
+||g0v.social
 ||globalvoices.org
 ||glorystar.me
 ||goregrish.com
@@ -301,6 +302,7 @@ share.dmhy.org
 ||jiji.com
 ||jintian.net
 ||jinx.com
+||joinmastodon.org
 ||liangzhichuanmei.com
 ||line-scdn.net
 ||i.lithium.com
@@ -1152,6 +1154,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001076573
 .ftchinese.com/story/001076901
 .ftchinese.com/story/001077067
+.ftchinese.com/story/001077084
 .ftchinese.com/story/001077235
 .ftchinese.com/story/001077344
 .ftchinese.com/story/001077390
@@ -1179,6 +1182,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001080647
 .ftchinese.com/story/001080778
 .ftchinese.com/story/001080892
+.ftchinese.com/story/001080915
 .ftchinese.com/story/001080935
 .ftchinese.com/story/001081059
 .ftchinese.com/story/001081127
