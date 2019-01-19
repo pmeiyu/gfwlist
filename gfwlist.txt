@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: EKrdAwf02BBa5ePJtzDpLg
+! Checksum: I02SeFtu9pszZ1Emd+scjg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Jan 2019 11:52:29 +0800
+! Last Modified: Sat, 19 Jan 2019 12:16:54 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -269,6 +269,7 @@ share.dmhy.org
 ||agro.hk
 ||apkmirror.com
 ||arte.tv
+||bangdream.space
 ||behance.net
 ||bird.so
 ||zh.bitterwinter.org
@@ -310,6 +311,7 @@ share.dmhy.org
 ||i.lithium.com
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
+||mastodon.cloud
 ||mastodon.host
 ||mastodon.social
 ||matters.news
@@ -733,6 +735,7 @@ cdninstagram.com
 ||facebook.in
 ||facebook.nl
 ||facebook.se
+||facebookmail.com
 ||fb.com
 ||fb.me
 ||fbcdn.net
@@ -1179,6 +1182,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001079909
 .ftchinese.com/story/001079934
 .ftchinese.com/story/001079992
+.ftchinese.com/story/001080109
 .ftchinese.com/story/001080169
 .ftchinese.com/story/001080226
 .ftchinese.com/story/001080429
