@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /UAG+Eqp1Gpr+2O+SCwURA
+! Checksum: dy/jtoqlRQwxzTn5YoHafg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Jan 2019 10:36:02 +0800
+! Last Modified: Sat, 19 Jan 2019 10:53:09 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1030,6 +1030,7 @@ cdninstagram.com
 .ftchinese.com/story/001065168
 .ftchinese.com/story/001065249
 .ftchinese.com/story/001065287
+.ftchinese.com/story/001065335
 .ftchinese.com/story/001065337
 .ftchinese.com/story/001065541
 .ftchinese.com/story/001065715
@@ -1170,6 +1171,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001079909
 .ftchinese.com/story/001079934
 .ftchinese.com/story/001079992
+.ftchinese.com/story/001080226
 .ftchinese.com/story/001080429
 .ftchinese.com/story/001080471
 .ftchinese.com/story/001080550
@@ -2229,6 +2231,9 @@ blogtd.net
 ||bloomberg.com
 bloomberg.de
 ||bloomberg.de
+!--403
+||assets.bwbx.io
+
 ||bloomfortune.com
 blueangellive.com
 .bmfinn.com
