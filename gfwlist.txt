@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DY9zi8uPkYLBNtoHxapOjw
+! Checksum: /UAG+Eqp1Gpr+2O+SCwURA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Jan 2019 10:11:07 +0800
+! Last Modified: Sat, 19 Jan 2019 10:36:02 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -284,6 +284,7 @@ share.dmhy.org
 ||doubibackup.com
 ||doubmirror.cf
 ||fangeqiang.com
+||cloud.feedly.com
 ||flyzy2005.com
 ||foreignpolicy.com
 ||free-ss.site
@@ -1170,6 +1171,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001079934
 .ftchinese.com/story/001079992
 .ftchinese.com/story/001080429
+.ftchinese.com/story/001080471
 .ftchinese.com/story/001080550
 .ftchinese.com/story/001080581
 .ftchinese.com/story/001080647
