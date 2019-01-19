@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: zNOUPYBLuWtR//QEjofuzQ
+! Checksum: eFBxATBXxuepySiOOwfemA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Jan 2019 11:36:22 +0800
+! Last Modified: Sat, 19 Jan 2019 11:47:47 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -310,6 +310,7 @@ share.dmhy.org
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
 ||mastodon.host
+||mastodon.social
 ||matters.news
 ||metart.com
 ||mohu.club
@@ -1175,6 +1176,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001079909
 .ftchinese.com/story/001079934
 .ftchinese.com/story/001079992
+.ftchinese.com/story/001080169
 .ftchinese.com/story/001080226
 .ftchinese.com/story/001080429
 .ftchinese.com/story/001080471
@@ -5960,7 +5962,9 @@ sacom.hk
 .sanmin.com.tw
 sapikachu.net
 savemedia.com
-savetibet.de
+||savethesounds.info
+.savetibet.de
+||savetibet.de
 savetibet.fr
 savetibet.nl
 .savetibet.org
