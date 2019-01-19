@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: jzymLSwbohCMG9XIpL00eA
+! Checksum: r7Swo/Gt0P5nXv/+N5LKnQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Jan 2019 09:49:22 +0800
+! Last Modified: Sat, 19 Jan 2019 10:01:54 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -95,6 +95,8 @@ share.dmhy.org
 ||hautelook.com
 ||hautelookcdn.com
 ||wego.here.com
+||gamer-cds.cdn.hinet.net
+||gamer2-cds.cdn.hinet.net
 ||hmvdigital.ca
 ||hmvdigital.com
 ||homedepot.com
@@ -327,6 +329,7 @@ share.dmhy.org
 ||protonvpn.com
 ||api.pureapk.com
 ||quora.com
+||quoracdn.net
 ||cdn.seatguru.com
 ||secure.raxcdn.com
 ||redd.it
@@ -7104,7 +7107,7 @@ uygur.org
 
 !--------------------VV-------------------------
 .v2ray.com
-|http://v2ray.com
+||v2ray.com
 .van001.com
 .van698.com
 .vanemu.cn
