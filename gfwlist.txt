@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: yMPb4c6kNilpRd+dZKmCVw
+! Checksum: YNUVjY31n8So9bBk45dcWw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 20 Jan 2019 19:42:58 +0800
+! Last Modified: Sun, 20 Jan 2019 20:03:15 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -145,6 +145,7 @@ share.dmhy.org
 ||mattwilcox.net
 ||metarthunter.com
 ||mfxmedia.com
+||mojim.com
 ||kb.monitorware.com
 ||monster.com
 ||moodyz.com
@@ -267,6 +268,7 @@ share.dmhy.org
 |https://*.s3.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
 
+||43110.cf
 ||agro.hk
 ||apkmirror.com
 ||arte.tv
@@ -4976,6 +4978,7 @@ meyou.jp
 mhradio.org
 |http://michaelanti.com
 ||michaelmarketl.com
+|http://bbs.mikocon.com
 .microvpn.com
 |http://microvpn.com
 middle-way.net
