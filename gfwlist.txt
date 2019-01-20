@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: l/nCbh8YeKfH7oQ0+ePoMg
+! Checksum: yMPb4c6kNilpRd+dZKmCVw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Jan 2019 19:06:43 +0800
+! Last Modified: Sun, 20 Jan 2019 19:42:58 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -215,6 +215,7 @@ share.dmhy.org
 ||login.target.com
 !--@@||intl.target.com
 ||rcam.target.com
+||thinkgeek.com
 ||thebodyshop-usa.com
 ||tma.co.jp
 ||tracfone.com
@@ -298,6 +299,7 @@ share.dmhy.org
 ||hbo.com
 ||spaces.hightail.com
 ||hkgalden.com
+||hkgolden.com
 ||hudson.org
 ||ipfs.io
 ||japantimes.co.jp
@@ -881,6 +883,7 @@ cdninstagram.com
 .ftchinese.com/story/001053425
 .ftchinese.com/story/001053496
 .ftchinese.com/story/001053526
+.ftchinese.com/story/001053557
 .ftchinese.com/story/001053906
 .ftchinese.com/story/001054049
 .ftchinese.com/story/001054103
@@ -4145,7 +4148,6 @@ hkfreezone.com
 hkfront.org
 m.hkgalden.com
 |https://m.hkgalden.com
-hkgolden.com
 .hkgreenradio.org/home
 .hkheadline.com*blog
 .hkheadline.com/instantnews
@@ -4949,6 +4951,7 @@ memorybbs.com
 .memrijttm.org
 .mercyprophet.org
 |http://mercyprophet.org
+||mergersandinquisitions.org
 .meridian-trust.org
 |http://meridian-trust.org
 .meripet.biz
