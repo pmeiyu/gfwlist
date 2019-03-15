@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: owDU4Fk5uwQjB7RCYuNjnA
+! Checksum: WJT/L9k2U7dEmFAeAV6Ffg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 15 Mar 2019 16:38:25 -0400
+! Last Modified: Fri, 15 Mar 2019 16:44:58 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -285,6 +285,7 @@ share.dmhy.org
 ||cmcn.org
 ||cmx.im
 ||dailyview.tw
+||daum.net
 ||depositphotos.com
 ||doubibackup.com
 ||doubmirror.cf
@@ -1971,6 +1972,8 @@ aniscartujo.com
 anonymise.us
 .anonymitynetwork.com
 .anonymizer.com
+.anonymouse.org
+||anonymouse.org
 anontext.com
 .anpopo.com
 .answering-islam.org
@@ -3287,7 +3290,6 @@ nytimes.map.fastly.net
 favstar.fm
 ||favstar.fm
 faydao.com/weblog
-||fbsbx.com
 .fc2.com
 .fc2china.com
 .fc2cn.com
