@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: c5u7kYPXszp86lqTnkjOFw
+! Checksum: rK3W43wZXTyslnuAzzk/bA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 02 Apr 2019 14:46:21 -0400
+! Last Modified: Tue, 02 Apr 2019 14:53:17 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -114,8 +114,6 @@ share.dmhy.org
 |http://imgmega.com/*.jpg.html
 |http://imgmega.com/*.jpeg.html
 |http://imgmega.com/*.png.html
-|http://imgur.com/upload
-|https://imgur.com/upload
 ||imlive.com
 ||tw.iqiyi.com
 ||javhub.net
@@ -4384,6 +4382,8 @@ imageshack.us
 
 .img.ly
 ||img.ly
+.imgur.com
+||imgur.com
 .imkev.com
 ||imkev.com
 .imlive.com
