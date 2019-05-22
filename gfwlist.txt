@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: CTzDz3JCncKpCpMJ7SrpCg
+! Checksum: x54aYBkqVtitcWY05mhmwQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 22 May 2019 11:08:20 -0400
+! Last Modified: Wed, 22 May 2019 11:23:08 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -245,7 +245,6 @@ share.dmhy.org
 
 !##############General List Start###############
 !-------------------Pure IP---------------------
-||1.1.1.1
 14.102.250.18
 14.102.250.19
 50.7.31.230:8898
@@ -5595,6 +5594,7 @@ picturesocial.com
 .pinkrod.com
 ||pinoy-n.com
 ||pinterest.at
+||pinterest.ca
 ||pinterest.co.kr
 ||pinterest.co.uk
 .pinterest.com
@@ -6802,7 +6802,6 @@ tsquare.tv
 tsunagarumon.com
 !--|http://www.tsuru-bird.net/
 .tsctv.net
-||tt-rss.org
 ||tt1069.com
 .tttan.com
 ||tttan.com
