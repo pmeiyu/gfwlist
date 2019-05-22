@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: x54aYBkqVtitcWY05mhmwQ
+! Checksum: 8GyZ7PZPcG7sxGgAJdWZNg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 22 May 2019 11:23:08 -0400
+! Last Modified: Wed, 22 May 2019 11:32:18 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -7903,6 +7903,10 @@ ultrasurf
 @@||chinaso.com
 @@||chinaz.com
 @@|http://nrch.culture.tw/
+
+!---Some are powered by GuXiang (BGP), please comment off if
+!---you encounter connectivity issues.
+@@||adservice.google.com
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||dl.google.com
 @@||kh.google.com
