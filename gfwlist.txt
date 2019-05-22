@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: EIgusOsELkuRT/C5iyIVww
+! Checksum: CTzDz3JCncKpCpMJ7SrpCg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 22 May 2019 11:03:26 -0400
+! Last Modified: Wed, 22 May 2019 11:08:20 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -340,6 +340,7 @@ share.dmhy.org
 ||picacomic.com
 ||pincong.rocks
 ||pixiv.net
+||potato.im
 ||premproxy.com
 ||prism-break.org
 ||protonvpn.com
@@ -1924,7 +1925,7 @@ allgirlsallowed.org
 .allgravure.com
 alliance.org.hk
 .allinfa.com
-|http://allinfa.com
+||allinfa.com
 .alljackpotscasino.com
 ||allmovie.com
 ||almasdarnews.com
@@ -2581,6 +2582,8 @@ chinalawandpolicy.com
 .chinamule.com
 ||chinamule.com
 chinamz.org
+.chinanewscenter.com
+|https://chinanewscenter.com
 .chinapress.com.my
 ||chinapress.com.my
 .china-review.com.ua
