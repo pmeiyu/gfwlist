@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8GyZ7PZPcG7sxGgAJdWZNg
+! Checksum: 9x3UKEBL3lSyfz5ns+2nDA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 22 May 2019 11:32:18 -0400
+! Last Modified: Wed, 22 May 2019 12:02:28 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -267,6 +267,7 @@ share.dmhy.org
 
 ||43110.cf
 ||agro.hk
+||share.america.gov
 ||apkmirror.com
 ||arte.tv
 ||artstation.com
@@ -309,6 +310,7 @@ share.dmhy.org
 ||jinx.com
 ||joinmastodon.org
 ||liangzhichuanmei.com
+||lighti.me
 ||lihkg.com
 ||line-scdn.net
 ||i.lithium.com
@@ -4587,6 +4589,7 @@ weiboscope.jmsc.hku.hk
 .joymiihub.com
 .joyourself.com
 jpopforum.net
+||fiddle.jshell.net
 .jubushoushen.com
 ||jubushoushen.com
 !--Doamin parking
@@ -5286,7 +5289,7 @@ ngensis.com
 |http://nhentai.net
 .nhk-ondemand.jp
 .nicovideo.jp/watch
-!--||nicovideo.jp
+||nicovideo.jp
 ||nighost.org
 av.nightlife141.com
 ninecommentaries.com
