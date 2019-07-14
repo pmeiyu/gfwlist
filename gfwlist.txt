@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ZaLJ5+IZ9lZom7/T3qpBfw
+! Checksum: or0wX1K91pUYqz5p+BDXNA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 14 Jul 2019 19:20:25 -0400
+! Last Modified: Sun, 14 Jul 2019 19:26:30 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -287,6 +287,7 @@ share.dmhy.org
 ||dailyview.tw
 ||daum.net
 ||depositphotos.com
+||disconnect.me
 ||doubibackup.com
 ||doubmirror.cf
 ||encyclopedia.com
@@ -1269,6 +1270,7 @@ blogspot.com
 ||deja.com
 ||design.google
 ||digisfera.com
+||dns.google
 ||domains.google
 ||duck.com
 ||environment.google
@@ -2922,7 +2924,6 @@ dharmakara.net
 ||directcreative.com
 !--||discogs.com
 !--@@||cdn.discogs.com
-|https://search.disconnect.me
 .discuss.com.hk
 ||discuss.com.hk
 .discuss4u.com
