@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: or0wX1K91pUYqz5p+BDXNA
+! Checksum: MATcepZKH1Mc9ZyEsZSEVw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 14 Jul 2019 19:26:30 -0400
+! Last Modified: Sun, 14 Jul 2019 19:40:46 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -281,6 +281,7 @@ share.dmhy.org
 ||boomssr.com
 ||bwgyhw.com
 ||castbox.fm
+||chinatimes.com
 ||clyp.it
 ||cmcn.org
 ||cmx.im
@@ -2376,6 +2377,8 @@ bunbunhk.com
 .businessinsider.com/panama-papers
 .businessinsider.com/umbrella-man-hong-kong-2014
 |http://www.businessinsider.com.au/*
+.businesstoday.com.tw
+||businesstoday.com.tw
 .businessweek.com
 .busu.org/news
 |http://busu.org/news
@@ -2600,7 +2603,6 @@ chinasocialdemocraticparty.com
 chinasoul.org
 ||chinasoul.org
 .chinasucks.net
-.chinatimes.com/realtimenews/260409/
 ||chinatopsex.com
 .chinatown.com.au
 chinatweeps.com
