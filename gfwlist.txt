@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: UQaCI4FrxJx1GqUqyjSqBw
+! Checksum: KPcwCSVESNuGwQx85Kmfyg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 09 Aug 2019 01:11:16 -0400
+! Last Modified: Sun, 27 Oct 2019 10:43:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -395,6 +395,7 @@ share.dmhy.org
 ||steemit.com
 ||taiwanjustice.net
 ||tinc-vpn.org
+||u15.info
 ||wenzhao.ca
 ||whatsonweibo.com
 ||wire.com
@@ -402,6 +403,7 @@ share.dmhy.org
 ||xm.com
 ||xuehua.us
 ||yes-news.com
+||yigeni.com
 ||you-get.org
 ||zzcloud.me
 
@@ -1746,6 +1748,7 @@ zhao.1984.city
 ||2008xianzhang.info
 ||2017.hk
 21andy.com/blog
+.21join.com
 .21pron.com
 21sextury.com
 .228.net.tw
@@ -2902,6 +2905,8 @@ packages.debian.org/zh-cn/lenny/gpass
 delicious.com/GFWbookmark
 .democrats.org
 ||democrats.org
+.demosisto.hk
+||demosisto.hk
 ||desc.se
 ||dessci.com
 .destroy-china.jp
