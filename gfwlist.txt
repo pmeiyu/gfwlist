@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: KPcwCSVESNuGwQx85Kmfyg
+! Checksum: F6gzEGPPZQPDiX3dlYFl3A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 27 Oct 2019 10:43:24 -0400
+! Last Modified: Sun, 27 Oct 2019 10:50:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -297,6 +297,7 @@ share.dmhy.org
 ||flyzy2005.com
 ||foreignpolicy.com
 ||free-ss.site
+||freehongkong.org
 ||blog.fuckgfw233.org
 ||g0v.social
 ||globalvoices.org
@@ -5870,6 +5871,7 @@ ranyunfei.com
 ||rapidmoviez.com
 rapidvpn.com
 ||rapidvpn.com
+||rarbgprx.org
 .raremovie.cc
 |http://raremovie.cc
 .raremovie.net
