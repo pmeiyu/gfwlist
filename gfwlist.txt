@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: TOD8KGYIHqw8QlbnVD7xmA
+! Checksum: snZDBIyweUTKxUYbQGQMNw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 27 Oct 2019 23:52:22 -0400
+! Last Modified: Sun, 03 Nov 2019 09:06:19 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -289,6 +289,7 @@ share.dmhy.org
 ||daum.net
 ||depositphotos.com
 ||disconnect.me
+||documentingreality.com
 ||doubibackup.com
 ||doubmirror.cf
 ||encyclopedia.com
@@ -304,6 +305,7 @@ share.dmhy.org
 ||globalvoices.org
 ||glorystar.me
 ||goregrish.com
+||guangnianvpn.com
 ||hbo.com
 ||spaces.hightail.com
 ||hkgalden.com
@@ -317,6 +319,7 @@ share.dmhy.org
 ||joinmastodon.org
 ||liangzhichuanmei.com
 ||lighti.me
+||lightyearvpn.com
 ||lihkg.com
 ||line-scdn.net
 ||i.lithium.com
