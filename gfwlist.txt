@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3S4Stf1rruGC4eaoN+Y0Mw
+! Checksum: mIShJtvB4UUaZ7ms+0fm4g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 04 Nov 2019 11:12:58 -0500
+! Last Modified: Mon, 04 Nov 2019 11:21:47 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -404,6 +404,7 @@ share.dmhy.org
 ||taiwanjustice.net
 ||tinc-vpn.org
 ||u15.info
+||washingtonpost.com
 ||wenzhao.ca
 ||whatsonweibo.com
 ||wire.com
@@ -4898,7 +4899,7 @@ lsforum.net
 .lsmradio.com/rad_archives
 .lsmwebcast.com
 .ltn.com.tw
-|http://ltn.com.tw
+||ltn.com.tw
 .luke54.com
 .luke54.org
 .lupm.org
