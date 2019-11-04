@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: rDMfgOJozRmVKHRuxFNglA
+! Checksum: bkPlaemEYdJc4uKGQ4fMsA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 04 Nov 2019 10:54:15 -0500
+! Last Modified: Mon, 04 Nov 2019 11:04:24 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -296,6 +296,7 @@ share.dmhy.org
 ||fangeqiang.com
 ||fanqiangdang.com
 ||cloud.feedly.com
+||feedx.net
 ||flyzy2005.com
 ||foreignpolicy.com
 ||free-ss.site
@@ -306,6 +307,7 @@ share.dmhy.org
 ||glorystar.me
 ||goregrish.com
 ||guangnianvpn.com
+||hanime.tv
 ||hbo.com
 ||spaces.hightail.com
 ||hkgalden.com
