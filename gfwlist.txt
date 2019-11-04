@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: M4eEQEuhKm97GwcTQcwApA
+! Checksum: rDMfgOJozRmVKHRuxFNglA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 04 Nov 2019 10:44:26 -0500
+! Last Modified: Mon, 04 Nov 2019 10:54:15 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -357,6 +357,7 @@ share.dmhy.org
 ||api.pureapk.com
 ||quora.com
 ||quoracdn.net
+||qz.com
 ||cdn.seatguru.com
 ||secure.raxcdn.com
 ||redd.it
@@ -1796,9 +1797,10 @@ taiwannation.50webs.com
 64wiki.com
 .66.ca
 666kb.com
-6park.com
+.6park.com
 ||6park.com
 ||6parker.com
+||6parknews.com
 ||7capture.com
 .7cow.com
 .8-d.com
@@ -2099,6 +2101,7 @@ avaaz.org
 .avdb.tv
 ||avdb.tv
 .avfantasy.com
+||avg.com
 .avgle.com
 ||avgle.com
 ||avidemux.org
