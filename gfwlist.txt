@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8gJYBJVT2Q3VxOGCT65osA
+! Checksum: /An/R4y74I6bh4okBaUEMQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 17 Jul 2020 17:38:09 -0400
+! Last Modified: Fri, 17 Jul 2020 17:46:49 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -297,7 +297,7 @@ share.dmhy.org
 ||encyclopedia.com
 ||fangeqiang.com
 ||fanqiangdang.com
-||cloud.feedly.com
+||feedly.com
 ||feedx.net
 ||flyzy2005.com
 ||foreignpolicy.com
@@ -2013,6 +2013,8 @@ antichristendom.com
 .anyporn.com
 .anysex.com
 |http://anysex.com
+.ao3.org
+||ao3.org
 ||aobo.com.au
 .aofriend.com
 |http://aofriend.com
@@ -2055,6 +2057,8 @@ appledaily.com.tw
 ||archive.org
 archive.today
 |https://archive.today
+||archiveofourown.com
+||archiveofourown.org
 .arctosia.com
 |http://arctosia.com
 ||areca-backup.org
@@ -3663,20 +3667,21 @@ gigporno.ru
 !---GitHub---
 github.com/getlantern
 |https://gist.github.com
-http://cthlo.github.io/hktv
-hahaxixi.github.io
-|https://hahaxixi.github.io
-||haoel.github.io
+!--http://cthlo.github.io/hktv
+!--hahaxixi.github.io
+!--|https://hahaxixi.github.io
+!--||haoel.github.io
 !--|http://onionhacker.github.io
-||rg3.github.io
-||sikaozhe1997.github.io
-||sodatea.github.io
-||terminus2049.github.io
-||toutyrater.github.io
-wsgzao.github.io
-|https://wsgzao.github.io
-!--.github.io
-||raw.githubusercontent.com
+!--||rg3.github.io
+!--||sikaozhe1997.github.io
+!--||sodatea.github.io
+!--||terminus2049.github.io
+!--||toutyrater.github.io
+!--wsgzao.github.io
+!--|https://wsgzao.github.io
+.github.io
+||github.io
+||githubusercontent.com
 
 .gizlen.net
 ||gizlen.net
