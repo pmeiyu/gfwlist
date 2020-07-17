@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /An/R4y74I6bh4okBaUEMQ
+! Checksum: G+B++3WbE02SQWjCnrJfRg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 17 Jul 2020 17:46:49 -0400
+! Last Modified: Fri, 17 Jul 2020 18:09:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5867,6 +5867,7 @@ qxbbs.org
 .radicalparty.org
 ||rael.org
 radicalparty.org
+||radio.garden
 radioaustralia.net.au
 .radiohilight.net
 ||radiohilight.net
@@ -6161,6 +6162,7 @@ shkspr.mobi/dabr
 ||shodanhq.com
 ||shooshtime.com
 .shop2000.com.tw
+||shopee.tw
 .shopping.com
 .showhaotu.com
 .showtime.jp
@@ -7152,7 +7154,7 @@ uploaded.net/file
 .upornia.com
 |http://upornia.com
 ||uproxy.org
-|http://tor.cn.uptodown.com/
+||uptodown.com
 .upwill.org
 ur7s.com
 ||urbansurvival.com
