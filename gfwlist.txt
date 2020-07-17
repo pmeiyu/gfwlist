@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 7mGJOR1oqcisQR8K8moslQ
+! Checksum: 8gJYBJVT2Q3VxOGCT65osA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 17 Jul 2020 16:43:50 -0400
+! Last Modified: Fri, 17 Jul 2020 17:38:09 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -57,6 +57,8 @@
 ||deezer.com
 ||desipro.de
 ||dingchin.com.tw
+||discord.com
+||discord.gg
 ||discordapp.com
 ||discordapp.net
 ||dish.com
@@ -3556,6 +3558,8 @@ fzlm.com
 ||gabocorp.com
 .gaeproxy.com
 .gaforum.org
+.gagaoolala.com
+||gagaoolala.com
 .galaxymacau.com
 ||galenwu.com
 .galstars.net
