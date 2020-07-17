@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: G+B++3WbE02SQWjCnrJfRg
+! Checksum: ShRvhnmLtxmzprxN/3555w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 17 Jul 2020 18:09:24 -0400
+! Last Modified: Fri, 17 Jul 2020 18:16:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2428,6 +2428,8 @@ bwsj.hk
 ||cactusvpn.com
 .cafepress.com
 .cahr.org.tw
+.caijinglengyan.com
+||caijinglengyan.com
 .calameo.com/books
 cn.calameo.com
 |http://cn.calameo.com
@@ -4304,6 +4306,8 @@ huaxin.ph
 ||hugoroy.eu
 ||huhaitai.com
 ||huhamhire.com
+.huhangfei.com
+||huhangfei.com
 huiyi.in
 .hulkshare.com
 humanrightsbriefing.org
@@ -5547,6 +5551,7 @@ paper.li
 paperb.us
 .paradisehill.cc
 .paradisepoker.com
+||parsevideo.com
 .partycasino.com
 .partypoker.com
 .passion.com
