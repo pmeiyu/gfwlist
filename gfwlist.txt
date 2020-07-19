@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ShRvhnmLtxmzprxN/3555w
+! Checksum: JCajCLOSj9hI5LnxWfPg+A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 17 Jul 2020 18:16:42 -0400
+! Last Modified: Sat, 18 Jul 2020 20:17:45 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4653,6 +4653,7 @@ juziyue.com
 !--------------------KK-------------------------
 ||k-doujin.net
 ||ka-wai.com
+||kadokawa.co.jp
 .kagyu.org
 ||kagyu.org.za
 .kagyumonlam.org
