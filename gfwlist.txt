@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8DStOZN85GQE3A1RmhFmDw
+! Checksum: rLVDz7DJP23OcZ8br+gk4A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Sep 2020 13:46:53 -0400
+! Last Modified: Sat, 19 Sep 2020 13:52:15 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5092,7 +5092,8 @@ minzhuzhongguo.org
 ||miroguide.com
 mirrorbooks.com
 .mist.vip
-thecenter.mit.edu
+||thecenter.mit.edu
+||scratch.mit.edu
 .mitao.com.tw
 .mitbbs.com
 ||mitbbs.com
@@ -5805,6 +5806,7 @@ proxyroad.com
 prozz.net
 psblog.name
 ||psblog.name
+||pshvpn.com
 ||psiphon.ca
 .psiphon3.com
 ||psiphon3.com
@@ -6581,6 +6583,7 @@ teamamericany.com
 teensinasia.com
 .telecomspace.com
 ||telegraph.co.uk
+||telegra.ph
 .tenacy.com
 ||tenzinpalmo.com
 .tew.org
