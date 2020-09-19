@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: JCajCLOSj9hI5LnxWfPg+A
+! Checksum: ulTDRYKFmLWDAm0L5rl4mw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 18 Jul 2020 20:17:45 -0400
+! Last Modified: Sat, 19 Sep 2020 13:39:12 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4192,6 +4192,7 @@ hkci.org.hk
 .hkcmi.edu
 ||hkcnews.com
 ||hkcoc.com
+||hkctu.org.hk
 hkday.net
 .hkdailynews.com.hk/china.php
 hkdf.org
