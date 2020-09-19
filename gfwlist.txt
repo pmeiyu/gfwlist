@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: MP6frQvnKI2fJbLalRNwXw
+! Checksum: cbyINqAuU196PQ+orHCWdQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Sep 2020 13:57:48 -0400
+! Last Modified: Sat, 19 Sep 2020 14:37:23 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2057,6 +2057,7 @@ appledaily.com.tw
 .archive.li
 ||archive.li
 ||archive.org
+||archive.ph
 archive.today
 |https://archive.today
 ||archiveofourown.com
@@ -5927,6 +5928,7 @@ rcinet.ca
 ||realitykings.com
 .realraptalk.com
 .realsexpass.com
+||reason.com
 .recordhistory.org
 .recovery.org.tw
 |http://online.recoveryversion.org
