@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: rLVDz7DJP23OcZ8br+gk4A
+! Checksum: WzC15IrwxgeKzXQOGxVSGg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Sep 2020 13:52:15 -0400
+! Last Modified: Sat, 19 Sep 2020 13:53:11 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -7569,6 +7569,7 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wingy.site
 .winning11.com
 winwhispers.info
+||wionews.com
 ||wiredbytes.com
 ||wiredpen.com
 !--||wireshark.org
