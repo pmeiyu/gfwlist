@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: cbyINqAuU196PQ+orHCWdQ
+! Checksum: t4RKHhwsze2iJRtTPNuGmA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 19 Sep 2020 14:37:23 -0400
+! Last Modified: Wed, 23 Sep 2020 09:57:31 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5255,6 +5255,7 @@ uighur.narod.ru
 ||nat.moe
 cyberghost.natado.com
 ||national-lottery.co.uk
+||nationalawakening.org
 news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
 .nationsonline.org/oneworld/tibet
 ||line.naver.jp
