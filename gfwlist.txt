@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: B9bXICcao5q7gCT9XWwxKQ
+! Checksum: NG1QzDUVljjNeAVoVDvC2g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 07 Oct 2020 11:56:33 -0400
+! Last Modified: Thu, 08 Oct 2020 10:18:52 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1940,6 +1940,7 @@ alexlur.org
 .alicejapan.co.jp
 aliengu.com
 ||alkasir.com
+||all4mom.org
 ||allconnected.co
 .alldrawnsex.com
 ||alldrawnsex.com
@@ -2448,6 +2449,7 @@ falun.caltech.edu
 .cam4.sg
 .camfrog.com
 ||camfrog.com
+||campaignforuyghurs.org
 ||cams.com
 .cams.org.sg
 canadameet.com
@@ -4107,6 +4109,7 @@ have8.com
 |http://hegre-art.com
 ||cdn.helixstudios.net
 ||helplinfen.com
+||helpuyghursnow.org
 ||helloandroid.com
 ||helloqueer.com
 .helloss.pw
