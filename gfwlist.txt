@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: NG1QzDUVljjNeAVoVDvC2g
+! Checksum: 41vcUoqMBGVsKTg5YDqunA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 08 Oct 2020 10:18:52 -0400
+! Last Modified: Thu, 08 Oct 2020 10:37:39 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3475,6 +3475,7 @@ whitebear.freebearblog.org
 .freegao.com
 ||freegao.com
 freeilhamtohti.org
+||freekazakhs.org
 .freekwonpyong.org
 ||saveliuxiaobo.com
 .freelotto.com
@@ -4410,6 +4411,7 @@ ifjc.org
 .ihao.org/dz5
 ||iicns.com
 .ikstar.com
+||ilhamtohtiinstitute.org
 ||illusionfactory.com
 ||ilove80.be
 ||im.tv
@@ -6391,6 +6393,7 @@ sstmlt.net
 .stage64.hk
 ||stage64.hk
 ||standupfortibet.org
+||standwithhk.org
 stanford.edu/group/falun
 usinfo.state.gov
 ||statueofdemocracy.org
@@ -6682,8 +6685,6 @@ tibet.org.tw
 ||tibet-envoy.eu
 .tibet-foundation.org
 .tibet-house-trust.co.uk
-tibet-info.net
-tibet-initiative.de
 ||tibet-initiative.de
 .tibet-munich.de
 .tibet3rdpole.org
@@ -6737,8 +6738,7 @@ tibethouse.org
 .tibetinfonet.net
 .tibetjustice.org
 .tibetkomite.dk
-|http://tibetmuseum.org
-tibetnetwork.org
+||tibetmuseum.org
 ||tibetnetwork.org
 .tibetoffice.ch
 |http://tibetoffice.ch
@@ -6917,6 +6917,7 @@ tuitwit.com
 |http://turbobit.net
 .turbohide.com
 ||turbohide.com
+||turkistantimes.com
 .tushycash.com
 |http://tushycash.com
 ||app.tutanota.com
