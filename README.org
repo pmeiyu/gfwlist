@@ -1,0 +1,11 @@
+This repository contains the plain text version of GFWList.  The gfwlist.txt
+file is in the gfwlist branch.
+
+The original GFWList is base64 encoded, which is quite annoying if you want to
+grep or diff the content.  So I wrote the script `migrate-gfwlist.sh` to decode
+it and migrate the revision history.  I guess the GFWList project adopted base64
+encoding many years ago in order to bypass the basic keyword based packet
+filtering of GFW when HTTP protocol was still popular.  But since HTTPS protocol
+is dominant today and no one is downloading GFWList through HTTP protocol, that
+is not a problem any more.  I wonder why the GFWList maintainers still stick to
+base64 encoding.
